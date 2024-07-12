@@ -2,11 +2,11 @@
     Vietnamese Natural Language Processing Resources
 </h3>
 
-`🌊Resources` provides resources for Vietnamese Natural Language Processing
+`Resources` provides resources for Vietnamese Natural Language Processing
 
 ## List Datasets
 
-🐟 [DC_Vietnamese_Health](resources/corpus/DC_Vietnamese_Heatlh/)
+[DC_Vietnamese_Health](resources/corpus/DC_Vietnamese_Heatlh/)
 
 Dan Chu health news corpus
 
