@@ -2,7 +2,7 @@ import os
 from os.path import join, basename, dirname
 from underthesea import sent_tokenize
 
-DATA_FOLDER = join(dirname(dirname(__file__)), "datasets", "DC_Vietnamese_Heatlh")
+DATA_FOLDER = join(dirname(dirname(__file__)), "corpus", "DC_Vietnamese_Heatlh")
 
 def warn(file, line_number, message, type=None):
     global total_errors
