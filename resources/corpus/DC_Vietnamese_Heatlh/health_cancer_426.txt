@@ -1,0 +1,15 @@
+# doc_id = health_cancer_426
+# url = https://dantri.com.vn/suc-khoe/vaccine-ung-thu-tuyen-tuy-nhung-ket-qua-ban-dau-day-hua-hen-20220609150429172.htm
+# date = 20220609
+Vaccine ung thư tuyến tụy: Những kết quả ban đầu đầy hứa hẹn
+Ung thư tuyến tụy là loại ung thư nguy hiểm nhất trong số các bệnh ung thư, với rất ít lựa chọn điều trị. Giờ đây, một phương pháp điều trị bằng vaccine mRNA, được gọi là autogene cevumeran, được điều chỉnh cho phù hợp với từng cá thể người bệnh ung thư, đã tạo ra kết quả đầy hứa hẹn trong một thử nghiệm ban đầu nhỏ.
+Theo NewScientist, trong thử nghiệm, 16 người đã được tiêm vaccine này vào khoảng 9 tuần sau khi phẫu thuật cắt bỏ khối u. Trong 8 trường hợp, vaccine không tạo ra phản ứng miễn dịch hiệu quả và bệnh ung thư của họ quay trở lại. Nhưng trong 8 trường hợp còn lại, vaccine đã mang lại phản ứng tốt và không thấy dấu hiệu ung thư tái phát trong 18 tháng sau đó. Kết quả đã được công bố bởi nhà phát triển vaccine BioNTech vào ngày 5/6.
+Dù vậy, đây là một thử nghiệm ban đầu rất nhỏ. Các thử nghiệm lớn hơn và dài hơn sẽ cần thiết để xác nhận kết quả. Thử nghiệm chỉ liên quan đến những người có bệnh ung thư được phát hiện đủ sớm để họ có thể tiến hành phẫu thuật loại bỏ khối u trước khi chúng di căn sang các bộ phận khác của cơ thể.
+Chris Macdonald, trưởng nhóm nghiên cứu, cho biết chỉ có khoảng 10% số người được chẩn đoán ở giai đoạn này. Nói cách khác, ngay cả khi các thử nghiệm lớn hơn xác nhận những kết quả ban đầu này, vẫn còn phải xem liệu vaccine này có thể giúp những người bị ung thư tuyến tụy giai đoạn cuối hay không - mặc dù đó là hy vọng.
+Tại sao ung thư tuyến tụy được chẩn đoán muộn?
+Macdonald cho biết, vấn đề là các triệu chứng của ung thư tuyến tụy rất mơ hồ. Vào thời điểm phát hiện bệnh, 70% số bệnh nhân đã di căn, việc điều trị vô cùng khó khăn.
+Vaccine mRNA hoạt động như thế nào?
+Khi khối u được loại bỏ, DNA của tế bào ung thư sẽ được giải trình tự và so sánh với các tế bào khỏe mạnh của cùng một cá thể. BioNTech tìm kiếm các protein đã đột biến trong tế bào ung thư và do đó phân biệt những tế bào này với những tế bào khỏe mạnh. Sau đó, Công ty tạo ra mRNA - một công thức di truyền - mã hóa tối đa 20 loại protein này, để tiêm vào một cá nhân. Mục đích là để hệ thống miễn dịch nhắm mục tiêu và tiêu diệt bất kỳ tế bào nào sản xuất các protein này. Đó là nguyên tắc tương tự như đối với vaccine mRNA chống lại Covid-19.
+Vaccine có phải là phương pháp điều trị duy nhất được đưa ra trong cuộc thử nghiệm không?
+Không. Theo Macdonald, những người tham gia thử nghiệm cũng được hóa trị sau khi phẫu thuật. Trong thử nghiệm này, họ cũng nhận được một loại thuốc gọi là atezolizumab, là một loại chất ức chế điểm kiểm soát PD-1.
+Các nhà nghiên cứu đã sử dụng phương pháp tiếp cận mRNA để cố gắng điều trị ung thư ít nhất là từ năm 2008. Các kết quả còn trái ngược nhau, nhưng công nghệ đang được cải tiến và sự thành công của vaccine mRNA với bệnh Covid-19 đã tạo ra một cú hích lớn cho lĩnh vực này. Cho đến nay, chưa có vaccine ung thư dựa trên mRNA nào được chấp thuận, nhưng nhiều thử nghiệm đang được tiến hành hoặc theo kế hoạch.

@@ -1,0 +1,15 @@
+# doc_id = health_cancer_303
+# url = https://dantri.com.vn/suc-khoe/mac-ung-thu-gan-co-dau-khong-20220327175316153.htm
+# date = 20220327
+Mắc ung thư gan có đau không?
+Ung thư gan có thể gây ra đau bụng bên phải hoặc xương bả vai. Nó cũng có thể dẫn đến các biến chứng như tắc nghẽn ống mật gây đau bụng dữ dội. Các phương pháp điều trị, bao gồm cả phẫu thuật, cũng có thể dẫn đến một số cơn đau tạm thời.
+Nếu phát hiện sớm và gan khỏe mạnh, bệnh đôi khi có thể chữa khỏi bằng phẫu thuật. Nếu phát hiện sớm và gan bị tổn thương, ghép gan đôi khi cũng là một lựa chọn có thể chữa khỏi. Kích thước của khối u và liệu nó có ảnh hưởng đến các mạch máu lân cận hay không cũng rất quan trọng trong tiên lượng.
+Mặc dù vậy, ung thư gan là bệnh có nhiều cơ hội điều trị. Nếu được phát hiện sớm thì ung thư gan có thể chữa được bằng cách các phương pháp điều trị triệt căn như ghép gan, phẫu thuật cắt gan, tiêu hủy khối u gan qua da bằng đốt nhiệt cao tần (ĐNCT) hoặc tiêm ethanol qua da (TEQD). Nếu bệnh phát hiện muộn, khối u gan kích thước lớn hoặc xâm lấn di căn thì chỉ có thể áp dụng những phương pháp điều trị tạm thời, kéo dài cuộc sống như hóa tắc mạch hay xạ trị chiếu trong chọn lọc...
+Theo bác sĩ Bệnh viện K Trung ương cũng như các bệnh ung thư khác, điều trị ung thư gan là điều trị đa mô thức (kết hợp giữa phẫu thuật-hóa chất-xạ trị).
+- Phẫu thuật cắt gan được chỉ định đối với khối u gan đơn độc hoặc nhiều khối nhưng khu trú, khối u chưa xâm lấn các mạch máu lớn như tĩnh mạch chủ dưới, thân chung tĩnh mạch cửa, chưa di căn xa (phổi, não, xương…). Đây là phương pháp điều trị triệt căn quan trọng nhất trong số các phương pháp điều trị ung thư gan hiện nay và thường được khuyến cáo là lựa chọn hàng đầu cho bệnh nhân nếu còn chỉ định.
+- Ghép gan: Thay thế gan bệnh bằng gan lành từ người cho sống hoặc người cho chết não. Thường được chỉ định trong các trường hợp có u gan không còn khả năng cắt bỏ.
+- Phá hủy u tại chỗ: Đây là phương pháp hiện đại giúp phá hủy mô ung thư mà không cần phẫu thuật. Cơ chế chung là dùng nhiệt hoặc các chất gây chết tế bào ung thư: đốt u bằng sóng cao tần (RFA), vi sóng (MWA), tiêm cồn tuyệt đối qua da (PEI), áp lạnh (Cryotherapy).
+- Nút hóa chất động mạch gan (TACE): Đây là biện pháp chặn nguồn cấp máu cho khối u. Bác sĩ sẽ luồn dụng cụ vào đến nhánh động mạch gan cấp máu cho khối u, sau đó bơm vật liệu nút mạch kèm hóa chất gây tắc mạch đó. Khối u sau đó sẽ bị thiếu máu và hoại tử dần.
+- Xạ trị: Hiện nay có một số loại hình xạ trị đang được nghiên cứu, áp dụng như: xạ trị dùng hạt vi cầu phóng xạ Yttrium-90, xạ trị proton… tuy nhiên hiệu quả cần thêm thời gian đánh giá.
+- Hóa trị: Phương pháp này sử dụng hóa chất tiêu diệt tế bào ung thư. Thuốc có thể dùng đường uống, hoặc tiêm truyền tĩnh mạch, hoặc bơm chọn lọc vào nhánh động mạch gan cấp máu cho khối u khi làm tắc mạch. Hiệu quả của hóa trị cũng như xạ trị hiện còn những hạn chế nhất định.
+- Điều trị nhắm trúng đích: Nó thường được chỉ định khi các phương pháp điều trị kể trên không còn chỉ định.

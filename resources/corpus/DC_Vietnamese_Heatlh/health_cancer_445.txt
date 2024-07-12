@@ -1,0 +1,12 @@
+# doc_id = health_cancer_445
+# url = https://dantri.com.vn/suc-khoe/quy-trinh-kham-sang-loc-ung-thu-vu-tai-benh-vien-k-20201212202306100.htm
+# date = 20201212
+Quy trình khám sàng lọc ung thư vú tại Bệnh viện K
+TS.BS Lê Hồng Quang, Trưởng khoa Ngoại vú, Bệnh viện K Trung ương cho biết với các chị em nếu không có yếu tố nguy cơ cao như đột biến BRCA, bố, mẹ, anh chị em ruột hoặc con của người mang đột biến BRCA, có tiền sử xạ trị vào vùng ngực từ 10 đến 30 tuổi.... thì nên đến khám tầm soát ở độ tuổi từ 40 trở lên. Tuy nhiên dù ở bất kỳ độ tuổi nào cũng nên tự kiểm tra, quan tâm đến sức khỏe của mình bằng cách tự khám vú tại nhà sau kỳ kinh 03-05 ngày để khi phát hiện bất thường thì đến khám.
+Các bước khám tầm soát ung thư vú:
+Đầu tiên, các bác sĩ sẽ thực hiện khám lâm sàng, tư vấn giải thích cho người bệnh.
+Đây là bước khám đầu tiên, rất quan trọng trong quá trình khám tầm soát ung thư vú. Bác sĩ sẽ hỏi các thông tin cụ thể về tuổi, tình trạng sức khỏe, chu kỳ kinh nguyệt, các triệu chứng hiện tại hay bệnh sử cá nhân và gia đình… Điều này nhằm đánh giá nguy cơ mắc bệnh. Sau đó sẽ tiến hành khám lâm sàng phát hiện các biểu hiện, dấu hiệu của bệnh.
+Siêu âm vú là phương pháp sử dụng sóng âm năng lượng cao giúp các bác sĩ kiểm tra được các mô và cơ quan trong cơ thể. Siêu âm vú có thể giúp bác sĩ xác định các bất thường trong vú, giúp phát hiện những trường hợp ung thư vú giai đoạn sớm. Khi sử dụng phối hợp với chụp X-quang tuyến vú, siêu âm làm tăng độ nhạy của việc sàng lọc.
+Chụp MRI (cộng hưởng từ): phương pháp này giúp bác sĩ theo dõi một loạt các hình ảnh ở cả hai tuyến vú.
+Xét nghiệm máu: Xét nghiệm máu nhằm xác định các chất trong máu được giải phóng bởi các cơ quan hoặc các mô trong cơ thể. Nồng độ cao hoặc thấp bất thường của một chất nào đó có thể là dấu hiệu của một số loại bệnh nhất định.
+Sinh thiết: quan sát các mô và tế bào dưới kính hiển vi để tìm ra dấu hiệu ung thư. Nếu phát hiện khối u ở vú, các bác sĩ có thể lấy mẫu mô hoặc tế bào của khối u này để thực hiện xét nghiệm. Có nhiều phương pháp sinh thiết khác nhau, tùy vào từng người bệnh cụ thể bác sĩ sẽ đưa ra chỉ định sinh thiết phù hợp.

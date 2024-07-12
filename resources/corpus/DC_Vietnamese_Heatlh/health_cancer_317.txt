@@ -1,0 +1,19 @@
+# doc_id = health_cancer_317
+# url = https://dantri.com.vn/suc-khoe/nhung-yeu-to-lam-tang-nguy-co-ung-thu-mau-20221106073657259.htm
+# date = 20221106
+Những yếu tố làm tăng nguy cơ ung thư máu
+Các yếu tố nguy cơ
+Theo Viện Huyết học và Truyền máu Trung ương, ung thư máu cấp tính hay còn gọi là Lơ-xê-mi cấp. Đặc trưng của bệnh là sự tăng sinh nhanh chóng các tế bào non ác tính (tế bào blast) trong tủy xương, lan tràn ra máu ngoại vi và tích lũy trong các cơ quan khác. Những tế bào bất thường này không thể chống lại nhiễm trùng và làm suy yếu khả năng tạo ra các tế bào hồng cầu và tiểu cầu bình thường của tủy xương.
+Đến nay, y học chưa thể trả lời chính xác đâu là nguyên nhân gây ra ung thư máu cấp tính, tuy nhiên họ đã xác định được một số yếu tố nguy cơ gây bệnh bao gồm:
+- Tiếp xúc với tia xạ.
+- Tiếp xúc nhiều lần với một số hóa chất (ví dụ: benzen…).
+- Nhiễm virus HTLV1, HTLV2.
+- Sau hóa trị, sau các bệnh rối loạn sinh tủy/tăng sinh tủy ác tính.
+- Người mắc bệnh di truyền như hội chứng Down…
+Các triệu chứng ban đầu
+Các triệu chứng khác nhau tùy thuộc vào thời điểm và thể bệnh ung thư máu cấp, nhưng chúng có thể bao gồm:
+- Sốt kéo dài, dễ nhiễm trùng, ra nhiều mồ hôi đêm.
+- Gầy sút cân nhanh, xanh xao, mệt mỏi.
+- Gan to, lá lách to, hạch to, phì đại lợi, đau xương.
+- Xuất huyết trên da hay chảy máu khó cầm…
+Nếu nghi ngờ ung thư máu cấp tính sẽ được chỉ định làm thêm xét nghiệm tủy xương để chẩn đoán xác định bệnh (tế bào non ác tính chiếm tỷ lệ ≥ 20% các tế bào có nhân trong tủy xương, các dòng hồng cầu, bạch cầu hạt và mẫu tiểu cầu bị lấn át bởi tế bào non ác tính). Đồng thời làm thêm các xét nghiệm di truyền, miễn dịch và các xét nghiệm khác để phân loại thể bệnh, phân nhóm nguy cơ, theo dõi điều trị.

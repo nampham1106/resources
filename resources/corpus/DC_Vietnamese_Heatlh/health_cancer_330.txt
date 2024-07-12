@@ -1,0 +1,22 @@
+# doc_id = health_cancer_330
+# url = https://dantri.com.vn/suc-khoe/phan-biet-ung-thu-nguyen-phat-va-ung-thu-thu-phat-20221111160527905.htm
+# date = 20221111
+Phân biệt ung thư nguyên phát và ung thư thứ phát
+Không giống như nhiều loại bệnh mà chúng ta thường gặp, có nguyên nhân xuất phát từ các tác nhân xâm nhiễm như: vi khuẩn, virus hay nấm bệnh, nguồn gốc của ung thư lại chính là một thành phần thiết yếu trong chính cơ thể chúng ta: Tế bào.
+Cơ thể con người được tạo thành bởi hàng ngàn tỷ tế bào, chúng liên tục phân chia để tạo ra tế bào mới thay thế những tế bào bị tổn thương hay không còn có thể vận hành một cách hiệu quả.
+Thậm chí, ngay cả khi không bị thương tổn, các tế bào đã già vẫn sẽ tự chết để nhường chỗ cho "thế hệ sau", cơ chế này được gọi là chết theo lập trình.
+Bản chất của chết theo lập trình là nhằm duy trì sự ổn định về cấu trúc cũng như chức năng của cơ thể, đảm bảo không có điều gì bất thường xảy ra, cũng như giữ cho các chức năng sống luôn được vận hành một cách hiệu quả nhất.
+Vấn đề sẽ thực sự xảy ra khi các tế bào đã già lại không chịu chết đi, mà tiếp tục phân chia vô tội vạ, xâm lấn trực tiếp vào các mô lân cận hoặc di chuyển đến những vùng xa hơn (di căn) và đó chính là "ung thư".
+Các giai đoạn phát triển của ung thư
+Hầu hết các loại ung thư có bốn giai đoạn: Giai đoạn I (1) đến IV (4). Một số bệnh ung thư cũng có giai đoạn 0:
+Giai đoạn 0:Giai đoạn sớm mà bệnh ung thư vẫn còn rất nhỏ và chưa lan sang các mô lân cận. Giai đoạn ung thư này thường có khả năng chữa khỏi cao, bằng cách loại bỏ toàn bộ khối u bằng phẫu thuật.
+Giai đoạn I: Giai đoạn này thường là một khối u nhỏ hoặc khối u chưa phát triển sâu vào các mô lân cận. Nó cũng chưa lan đến các hạch bạch huyết hoặc các bộ phận khác của cơ thể. Đây là ung thư giai đoạn đầu.
+Giai đoạn II và III: Nhìn chung, 2 giai đoạn này cho thấy ung thư hoặc khối u lớn hơn đã phát triển sâu hơn vào mô gần đó. Chúng cũng có thể đã lan đến các hạch bạch huyết nhưng chưa di căn đến các bộ phận khác của cơ thể.
+Giai đoạn IV: Giai đoạn này có nghĩa là ung thư đã lan sang các cơ quan hoặc bộ phận khác của cơ thể. Nó được gọi làung thư giai đoạn tiến triểnhoặcdi căn.
+Khi được chẩn đoán ung thư, người bệnh thường nghe đến thuật ngữ "ung thư nguyên phát" hoặc "ung thư thứ phát". Vậy hai loại ung thư này khác nhau như thế nào?
+Ung thư nguyên phát
+Ung thư nguyên phát là loại ung thư do tế bào ung thư xuất phát trực tiếp từ cơ quan hoặc bộ phận đề cập đến. Một người có thể mắc nhiều loại ung thư nguyên phát cùng lúc hoặc cách nhau một thời gian.
+Ung thư thứ phát
+Ung thư thứ phát là bệnh ung thư bắt đầu từ một vị trí trên cơ thể sau đó lây lan (di căn) sang vùng khác.
+Ví dụ, ung thư bắt đầu ở phổi gọi làung thư phổi nguyên phát. Nếu tế bào ung thư phổi di căn đến não, gọi là ung thư phổi nguyên phát di căn đến não hoặc ung thư não thứ phát.
+Trong trường hợp này, tế bào ung thư trong não sẽ là tế bào ung thư phổi, không phải tế bào ung thư não.

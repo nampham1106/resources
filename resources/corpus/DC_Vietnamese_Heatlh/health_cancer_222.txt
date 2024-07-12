@@ -1,0 +1,10 @@
+# doc_id = health_cancer_222
+# url = https://dantri.com.vn/suc-khoe/vao-vien-dieu-tri-viem-amidan-be-gai-9-phat-hien-bi-u-than-kinh-20220724193207238.htm
+# date = 20220724
+Vào viện điều trị viêm amidan, bé gái 9 phát hiện bị u thần kinh
+Theo người nhà, trẻ được đưa bệnh viện chỉ để kiểm tra lại và mổ amidan. Tuy nhiên, kết quả chụp X-quang có hình ảnh tổn thương giáp đốt sống bên phải, chụp phim nghiêng thấy nằm hoàn toàn cạnh cột sống.
+Ngay sau đó, bác sĩ đề nghị chỉ định chụp MRI và hội chẩn kết quả cùng chuyên gia tuyến Trung ương. Trẻ được chẩn đoán mắc u thần kinh (schwannoma).
+Bác sĩ Bệnh viện Đa khoa Hùng Vương khuyến cáo, khám sức khỏe tổng quát và tầm soát ung thư định kỳ đóng vai trò quan trọng trong việc phát hiện sớm các vấn đề bất thường về sức khỏe (nếu có) trước khi chuyển thành bệnh hoặc phát hiện bệnh ở giai đoạn sớm khi chưa có biểu hiện ra bên ngoài. Điều đó giúp việc điều trị hiệu quả hơn, khả năng lành bệnh cao hơn, tiết kiệm được thời gian, tiền bạc và tránh được các biến chứng do bệnh gây ra.
+Schwannoma là những khối u lành tính, không phải ung thư, phát triển chậm, từ mào thần kinh và phổ biến hơn ở ngoài vị trí thần kinh trung ương, như các dây thần kinh ngoại biên và mô dưới da. U schwannoma chiếm 1/3 rễ thần kinh vùng cột sống (29%).
+U có thể xuất hiện ở mọi lứa tuổi, tỷ lệ mắc cao nhất trong độ tuổi 40-60 tuổi, không có sự khác biệt về giới tính. Tỷ lệ mắc bệnh và tử vong được ghi nhận nằm trong khoảng 0-6%.
+Triệu chứng khác nhau tùy thuộc vào giai đoạn của khối u. Đau khu trú tại một vị trí u, thường lan cả hai bên nhưng trong khoảng thời gian ngắn. Đau theo rễ ban đầu là do sự gián đoạn dẫn truyền thần kinh (viêm rễ thần kinh trực tiếp hoặc gián tiếp hoặc do khối u chèn ép rễ). Sau đó, khi tủy sống bị chèn ép nhiều hơn, gây yếu liệt hai chi dưới hoặc gây bệnh lý tủy. Tuy nhiên yếu liệt vận động hiếm khi là triệu chứng đầu tiên.

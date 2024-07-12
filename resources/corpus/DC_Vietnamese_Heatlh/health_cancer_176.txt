@@ -1,0 +1,13 @@
+# doc_id = health_cancer_176
+# url = https://dantri.com.vn/suc-khoe/co-nen-chup-ct-lieu-thap-dinh-ky-sang-loc-ung-thu-phoi-20221125074740744.htm
+# date = 20221125
+Có nên chụp CT liều thấp định kỳ sàng lọc ung thư phổi?
+PGS.TS Lê Văn Quảng, Giám đốc Bệnh viện K cho biết, ung thư phổi được biết đến là căn bệnh có tỷ lệ tử vong hàng đầu, do phát hiện khó, bệnh nhân thường được chẩn đoán khi bệnh đã ở giai đoạn di căn, xâm lấn.
+Sàng lọcung thưnói chung là biện pháp giúp phát hiện ung thư tiềm ẩn hay thương tổn tiền ung thư để điều trị sớm, với mục tiêu giảm tỷ lệ tử vong do ung thư.
+Bệnh ung thư phổi rất khó để được phát hiện sớm do các triệu chứng ban đầu mơ hồ (Ảnh minh họa: Internet).
+Trong khi nhiều loại ung thư sàng lọc, phát hiện sớm rất hiệu quả như ung thư vú phát hiện sớm bằng khám lâm sàng và chụp X-quang tuyến vú; ung thư cổ tử cung, có thể phát hiện sớm bệnh nhờ làm phiến đồ cổ tử cung... thì với bệnh ung thư phổi, đến nay chưa có phương pháp nào đem lại hiệu quả nhất.
+Trong bệnh lý ung thư phổi, để sàng lọc - phát hiện sớm ung thư phổi, chụp cắt lớp vi tính đa dãy liều thấp (low-dose CT scan) giúp giảm tới 20% tỷ lệ tử vong do ung thư phổi.
+Đây là hình thức chụp cắt lớp vi tính đa dãy không tiêm thuốc, với liều thấp (mức liều 1.5 mSv so với chụp cắt lớp vi tính thông thường là 8mSv) đảm bảo giảm phơi nhiễm với tia X, đồng thời có thể phát hiện được các tổn thương nhỏ trong nhu mô phổi.
+Tuy nhiên, phương pháp này cũng không được chỉ định rộng ngoài cộng đồng, mà chỉ thực hiện ở các đối tượng nguy cơ cao như: Từ lứa tuổi từ 55-74, có thể trạng tốt và đang hút thuốc lá (hoặc mới bỏ thuốc lá chưa đến 15 năm) và tiền sử hút thuốc lá lâu năm, tần suất lặp lại nhiều như 1 bao/ngày.
+Ngoài phương án chụp CT liều thấp được liệt kê phía trên, thì tất cả các phương án khác bao gồm: chụp X-quang, làm xét nghiệm trên đờm, xét nghiệm các chỉ điểm ung thư trong máu,… đều chưa chứng minh được lợi ích trong việc sàng lọc ung thư phổi cũng như giảm tỷ lệ tử vong do ung thư phổi
+Ung thư phổi là một trong 3 ung thư thường gặp nhất và là nguyên nhân gây tử vong hàng đầu do ung thư ở phạm vi toàn cầu. Nguyên nhân chủ yếu của ung thư phổi là liên quan đến thuốc lá chiếm 80-90.

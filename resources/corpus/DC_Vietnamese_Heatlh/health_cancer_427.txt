@@ -1,0 +1,20 @@
+# doc_id = health_cancer_427
+# url = https://dantri.com.vn/suc-khoe/thoi-quen-an-man-gay-hai-cho-suc-khoe-nhu-the-nao-20220504070118643.htm
+# date = 20220504
+Thói quen ăn mặn gây hại cho sức khỏe như thế nào?
+Natri là một ion cần thiết với cơ thể để duy trì thể tích dịch, cân bằng nội môi, dẫn truyền thần kinh và đảm bảo chức năng bình thường của tế bào. Hầu hết Natri được đưa vào cơ thể từ chế độ ăn, trong đó chủ yếu là muối. Tiêu thụ nhiều muối sẽ dẫn đến những tác động xấu đối với cơ thể.
+Ung thư dạ dày
+Theo Trung tâm dinh dưỡng lâm sàng, Bệnh viện K Trung ương (Hà Nội), có nhiều tranh luận về mối quan hệ giữa muối và ung thư dạ dày. Qua phân tích tổng hợp nhiều nghiên cứu, các nhà khoa học kết luận rằng việc tiêu thụ muối ở mức trung bình hoặc cao sẽ làm tăng nguy cơ ung thư dạ dày, tương tự như ăn nhiều các thực phẩm ngâm giấm/muối chua.
+Một số cơ chế được cho là muối làm tăng nguy cơ nhiễm Helicobacter pylori dai dẳng, hiệp đồng với loại vi khuẩn này làm tăng nguy cơ ung thư dạ dày. Ngoài ra, nghiên cứu thử nghiệm cũng cho thấy muối làm tăng tốc độ sinh tế bào và đột biến nội sinh, làm tổn thương hàng rào niêm mạc dạ dày với nồng độ cao.
+Bệnh lý tim mạch
+Tiêu thụ nhiều muối có liên quan chặt chẽ với tăng huyết áp. Cơ chế là do hệ thống Renin Angiotensin Aldosteron suy giảm theo thời gian dẫn đến giữ natri và nước, tăng sức đề kháng của mạch máu. Ăn nhiều muối cũng dẫn đến điều chỉnh hàng loạt các cơ chế thần kinh, thể dịch để đưa nồng độ natri máu về bình thường, từ đó dẫn đến tăng thể tích dịch ngoại bào, ảnh hưởng đến vùng dưới đồi, hệ thống renin- angiotensin cục bộ, tim và mạch máu , cơ chế viêm, phản ứng miễn dịch. Tất cả đều tác động đến huyết áp, từ đó gián tiếp ảnh hưởng đến các bệnh lý về tim mạch.
+Các nghiên cứu cũng cho thấy khi giảm 2,5g muối tiêu thụ/ngày thì cũng giảm đến 20% các biến cố tim mạch.
+Bệnh lý thận
+Ăn nhiều muối dẫn đến nhiều thay đổi như tăng huyết áp, tăng protein niệu, stress oxy hóa, rối loạn chức năng nội mô. Các thay đổi này là những yếu tố nguy cơ dẫn đến tiến triển các bệnh lý về thận.
+Một số nghiên cứu tiến hành giảm muối trong chế độ ăn giúp làm giảm bài tiết albumin và protein trong nước tiểu của những người tăng huyết áp, suy thận, tiểu đường. Giảm muối có thể làm chậm sự tiến triển của bệnh thận mãn tính.
+Loãng xương
+Ăn nhiều muối dẫn đến tăng bài tiết canxi qua nước tiểu, cơ thể bị thiếu hụt canxi nên tăng hấp thu canxi ở ruột và huy động canxi từ xương, từ đó dẫn đến loãng xương. Nghiên cứu trên nhóm phụ nữ sau mãn kinh thấy mật độ xương hông bị giảm ở những người bài tiết nhiều natri trong nước tiểu.
+Thừa cân và béo phì
+Cơ sở của mối liên quan là do khi ăn nhiều muối sẽ khiến cơ thể bị khát, có thể dẫn đến tăng sử dụng các đồ uống có đường. Ngoài ra, các loại thức ăn chứa nhiều muối thường có nhiều chất béo và đậm độ năng lượng cao, có vị hấp dẫn khiến người ăn sẽ ăn nhiều hơn. Từ đó trực tiếp làm tăng năng lượng ăn vào gây thừa cân béo phì.
+Mặt khác, thực nghiệm trên động vật cũng cho thấy ăn nhiều muối làm phì đại mô mỡ, tăng leptin máu, góp phần làm tăng khối mỡ trắng. Các nghiên cứu quan sát ở trẻ em và người lớn cũng cho thấy sử dụng nhiều muối làm tăng tỉ lệ thừa cân béo phì, tăng khối mỡ trong cơ thể.
+Vì thế, người dân nên ăn muối với lượng vừa phải. WHO khuyến cáo lượng muối cho người trưởng thành là dưới 5g/ngày. Mỗi cá nhân có thể giảm lượng muối trong chế độ ăn tại nhà bằng cách không thêm muối khi sơ chế thực phẩm, không để sẵn muối trên bàn ăn, giảm ăn các loại đồ ăn nhiều muối, chọn các loại thực phẩm chứa ít muối.

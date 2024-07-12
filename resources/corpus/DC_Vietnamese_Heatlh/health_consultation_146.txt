@@ -1,0 +1,24 @@
+# doc_id = health_consultation_146
+# url = https://dantri.com.vn/suc-khoe/ra-mat-phong-tu-van-di-truyen-tam-soat-ung-thu-tai-benh-vien-nhan-dan-115-20231010063801379.htm
+# date = 115
+Ra mắt phòng tư vấn di truyền tầm soát ung thư tại Bệnh viện Nhân Dân 115
+Theo báo cáo từ Globocan, năm 2020, Việt Nam ghi nhận hơn 182.000 ca mắc ung thư mới, số ca tử vong trên 122.000 trường hợp mỗi năm. Tỷ lệ mắc mới và tử vong doung thư cũng có xu hướng tăng ở hầu hết quốc gia, nhất là các nước đang phát triển.
+Theo lý giải của các chuyên gia y tế, về lý do ca mắc ung thư tại Việt Nam gia tăng một phần do dân số lão hóa. Bên cạnh đó là yếu tố môi trường, xã hội như ô nhiễm môi trường, nước, không khí, thực phẩm…, lối sống không lành mạnh như hút thuốc lá, lạm dụng rượu bia, ít vận động…
+Đồng thời, phần lớn bệnh nhân ung thư khi phát hiện đã ở giai đoạn muộn mà căn nguyên là tâm lý e ngại khám, tầm soát ung thư, thậm chí khi phát hiện ung thư còn có tâm lý trì hoãn điều trị khoa học mà tin vào các phương pháp truyền miệng.
+Việc phát hiện sớm ung thư và can thiệp kịp thời, sẽ giúp các phương pháp điều trị phát huy tối đa hiệu quả, đồng thời tiết kiệm chi phí và thời gian. Hiện nay, với đà phát triển của khoa học, các giải pháp tầm soát ung thư sớm đang ngày càng dễ tiếp cận và hứa hẹn tạo nên bước đột phá trong cuộc chiến phòng chống ung thư.
+Multi-cancer Early Detection - xu hướng mới trên thế giới tầm soát sớm đa ung thư
+Hiện nay đã có một giải pháp tiên tiến cho việc phát hiện sớm nhiều loại ung thư, được gọi là Multi-cancer Early Detection (MCED). Phương pháp này sử dụng kỹ thuật giải trình tự gen thế hệ mới (Next-generation sequencing) để phân tích mẫu máu nhằm theo dõi tín hiệu DNA từ tế bào ung thư được phóng thích vào máu, gọi là ctDNA.
+Các quốc gia tiên tiến trên thế giới đang tiến hành nghiên cứu lâm sàng để kiểm chứng tính hiệu quả của xét nghiệm này trong việc phát hiện sớm nhiều loại ung thư.
+BS.CKII. Nguyễn Ngọc Anh chia sẻ về phương pháp MCED
+SPOT-MAS - phương pháp có thể phát hiện sớm dấu hiệu 5 loại ung thư
+Trong bối cảnh công nghệ phân tích ctDNA đã trở thành một chỉ dấu sinh học đầy hứa hẹn trong việc hỗ trợ phát hiện sớm ung thư, tại Việt Nam, SPOT-MAS là một xét nghiệm Multi-cancer Early Detection được nghiên cứu và phát triển bởi Viện Di truyền Y học - Gene Solutions.
+Thay vì sàng lọc riêng lẻ cho từng bệnh ung thư, SPOT-MAS với sự kết hợp độc đáo giữa tính năng phân tích nhiều đặc trưng của ctDNA thông qua các kỹ thuật giải trình tự gen thế hệ mới và các thuật toán học máy có thể giúp phát hiện và xác định nguồn gốc của 5 ung thư (vú; phổi; gan; dạ dày; đại-trực tràng) qua một lần lấy mẫu máu.
+Tiên phong ứng dụng thành tựu y học trong công tác đẩy lùi ung thư
+Phòng tư vấn di truyền hội tụ nhiều chuyên gia uy tín, nhiều kinh nghiệm trong các lĩnh vực y học, di truyền để thực hiện khám, xét nghiệm gen nhằm tư vấn về mức độ nguy cơ ung thư di truyền và tầm soát phát hiện ung thư, từ đó giúp chủ động phòng ngừa, theo dõi và điều trị hiệu quả.
+Phòng tư vấn di truyền tại Khu khám quốc tế Bệnh viện Nhân Dân 115.
+Theo BS.CKII. Nguyễn Ngọc Anh, xét nghiệm tầm soát đa ung thư dựa trên chỉ dấu ctDNA có thể là một phương pháp bổ sung vào các tiêu chuẩn về chăm sóc và tầm soát ung thư sớm. Việc bác sĩ phối hợp các phương pháp cũ và hiện đại với nhau để tầm soát đa ung thư sẽ tăng khả năng phát hiện bệnh sớm và chính xác hơn, từ đó mang đến hiệu quả điều trị tích cực cho người bệnh.
+"Tại Bệnh viện Nhân Dân 115, chúng tôi tin rằng việc ứng dụng công nghệ gen từ những tiến bộ trong nền y học chính xác sẽ mang lại những lợi ích lớn cho người dân. Đồng thời giúp xây dựng một cộng đồng y tế chất lượng cao và bền vững", BS.CKII. Nguyễn Ngọc Anh chia sẻ.
+Phòng khám tư vấn di truyền là dự án hợp tác giữa Bệnh viện Nhân Dân 115 và Gene Solutions - công ty tiên phong trong lĩnh vực xét nghiệm di truyền nhằm mang đến các thành tựu khoa học, kỹ thuật chuyên sâu ngang tầm khu vực và thế giới.
+Điều này được kỳ vọng đáp ứng nhu cầu khám chữa bệnh của người dân trong và ngoài nước, đặc biệt là tầm soát sớm bệnh lý ung thư nhờ lợi ích của xét nghiệm SPOT- MAS.
+Đại diện công ty Gene Solutions cho biết, người dân khi thực hiện xét nghiệm SPOT-MAS và có kết quả xét nghiệm ctDNA dương tính sẽ được hỗ trợ chi phí xét nghiệm chẩn đoán lên đến 5 triệu đồng.
+Để biết thêm thông tin về các dịch vụ tầm soát nguy cơ và phát hiện sớm các loại ung thư, khám tư vấn di truyền, liên hệ hotline: 1900 09 99 83 hoặc đến Khu Chẩn đoán và Điều trị kỹ thuật cao của Bệnh viện Nhân dân 115 tại 818 Sư Vạn Hạnh, phường 12, quận 10, TPHCM.

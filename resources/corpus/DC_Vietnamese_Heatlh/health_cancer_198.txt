@@ -1,0 +1,20 @@
+# doc_id = health_cancer_198
+# url = https://dantri.com.vn/suc-khoe/phuong-phap-dieu-tri-benh-bach-cau-20221022204409308.htm
+# date = 20221022
+Phương pháp điều trị bệnh bạch cầu
+Theo Mayo Clinic, các phương pháp điều trị phổ biến được sử dụng bao gồm:
+- Hóa trị liệu
+Hóa trị là hình thức điều trị chính cho bệnh bạch cầu. Phương pháp này sử dụng thuốc hóa chất để tiêu diệt các tế bào bệnh bạch cầu.
+Tùy thuộc vào loại bệnh bạch cầu mắc phải, bạn có thể nhận được một loại thuốc duy nhất hoặc kết hợp nhiều loại thuốc. Những loại thuốc này có thể ở dạng viên nén hoặc chúng có thể được tiêm trực tiếp vào tĩnh mạch.
+- Liệu pháp trúng đích
+Các phương pháp điều trị bằng thuốc đích tập trung vào các bất thường cụ thể hiện diện trong tế bào ung thư. Bằng cách ngăn chặn những bất thường này, các phương pháp điều trị bằng thuốc trúng đích có thể khiến các tế bào ung thư chết. Các tế bào bệnh bạch cầu của bạn sẽ được kiểm tra để xem liệu liệu pháp này có thể hữu ích cho bạn hay không.
+- Xạ trị
+Xạ trị là sử dụng tia X hoặc các chùm năng lượng cao khác để làm tổn thương các tế bào bệnh bạch cầu và ngăn chặn sự phát triển của chúng.
+Bạn có thể nhận bức xạ ở một khu vực cụ thể của cơ thể, nơi tập hợp các tế bào bệnh bạch cầu hoặc bạn có thể nhận bức xạ trên toàn bộ cơ thể. Xạ trị có thể được sử dụng để chuẩn bị cho việc cấy ghép tủy xương.
+- Cấy ghép tủy xương
+Cấy ghép tủy xương, còn được gọi là cấy ghép tế bào gốc, giúp tái lập các tế bào gốc khỏe mạnh bằng cách thay thế tủy xương không khỏe mạnh bằng các tế bào gốc không bị bệnh bạch cầu sẽ tái tạo tủy xương khỏe mạnh.
+Trước khi cấy ghép tủy xương, bạn được hóa trị hoặc xạ trị liều cao để phá hủy tủy xương sản sinh ra bệnh bạch cầu. Sau đó, bạn được truyền các tế bào gốc tạo máu giúp xây dựng lại tủy xương.
+Bạn có thể nhận tế bào gốc từ người hiến tặng hoặc bạn có thể sử dụng tế bào gốc của chính mình.
+- Liệu pháp miễn dịch
+Liệu pháp miễn dịch sử dụng hệ thống miễn dịch của bạn để chống lại ung thư. Hệ thống miễn dịch chống lại bệnh tật của cơ thể có thể không tấn công ung thư của bạn bởi vì các tế bào ung thư sản xuất các protein giúp chúng ẩn náu khỏi các tế bào của hệ thống miễn dịch. Liệu pháp miễn dịch hoạt động bằng cách can thiệp vào quá trình đó.
+Một phương pháp điều trị chuyên biệt được gọi là liệu pháp tế bào CAR-T có thể là một lựa chọn cho một số loại bệnh bạch cầu.

@@ -1,0 +1,7 @@
+# doc_id = health_cancer_429
+# url = https://dantri.com.vn/suc-khoe/nga-phat-trien-ung-dung-giup-phat-hien-ung-thu-da-20210219210633017.htm
+# date = 20210219
+Nga phát triển ứng dụng giúp phát hiện ung thư da
+Ứng dụng có tên ProRodinki, sử dụng công nghệ trí tuệ nhân tạo. Ứng dụng này có thể xác định các tế bào ung thư dựa trên các ảnh chụp từ nốt ruồi của bệnh nhân.
+Để sử dụng, bạn cần chỉ ra các đặc điểm của da và chụp ảnh các vùng da theo hướng dẫn. Hệ thống trí tuệ nhân tạo sẽ phân tích và đưa ra các đánh giá, khuyến nghị phù hợp.
+Dựa trên các nguồn dữ liệu được cập nhật cho hệ thống trí tuệ nhân tạo, ứng dụng có khả năng phân tích các bệnh liên quan đến da như u hắc tố da, ung thư biểu mô tế bào và nhiều trường hợp khác.

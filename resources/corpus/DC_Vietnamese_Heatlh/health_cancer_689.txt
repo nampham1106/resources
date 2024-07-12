@@ -1,0 +1,19 @@
+# doc_id = health_cancer_689
+# url = https://dantri.com.vn/suc-khoe/it-khang-the-benh-nhan-ung-thu-mau-co-the-chong-lai-covid19-bang-te-bao-t-20210717161104116.htm
+# date = 20210717
+Ít kháng thể, bệnh nhân ung thư máu có thể chống lại COVID-19 bằng tế bào T
+Đây là kết quả nghiên cứu mới trên bệnh nhân ung thư máubị Covid-19 được xuất bản trêntạp chí Nature Medicine.
+Bệnh nhân ung thư máu bị Covid-19 có tế bào T CD8 cao hơn có khả năng sống sót cao hơn
+Các nhà nghiên cứu phát hiện ra rằng, những bệnh nhân ung thư máu mắc Covid-19 có tế bào T CD8 cao hơn, có khả năng sống sót tăng gấp ba lần so với những bệnh nhân có mức tế bào T CD8 thấp hơn.
+Vắc xin Covid-19 gây ra phản ứng kháng thể và tế bào T.
+Rõ ràng là các tế bào T rất quan trọng trong việc lây nhiễm sớm và giúp kiểm soát virus, nhưng nghiên cứu cũng cho thấy rằng chúng có thể bù đắp cho các phản ứng của tế bào B và kháng thể, những thứ mà bệnh nhân ung thư máu có thể bị thiếu do thuốc điều trị ung thư gây ra.
+Tác giả nghiên cứu GS. TS. Alexander C. Huang, Đại học Pennsylvania cho biết: Điều này rất quan trọng khi chúng tôi nghĩ về cách cải thiện việc chăm sóc bệnh nhân ung thư mắc Covid-19.Chúng ta cần tối đa hóa tất cả các nhánh của hệ thống miễn dịch, đặc biệt nếu chúng ta biết rằng một nhánh cụ thể của hệ thống miễn dịch đang hoạt động".
+Ngoài ra, do tiêm vắc xin Covid-19 mRNA hiện tại gây ra cả phản ứng kháng thể và tế bào T, các phát hiện cho thấy rằng việc tiêm phòng cho bệnh nhân ung thư máu có thể cung cấp sự bảo vệ thông qua miễn dịch tế bào T.
+Nhóm nghiên cứu, bao gồm các nhà nghiên cứu từ Trung tâm Ung thư Memorial Sloan Kettering, đã nghiên cứu những bệnh nhân nhập viện có khối u và ung thư huyết học tại bệnh viện Penn Medicine và Memorial Sloan Kettering để hiểu rõ hơn về các yếu tố quyết định miễn dịch của Covid-19 tử vong.
+Tế bào T CD8 có thể ảnh hưởng đến sự phục hồi khi thiếu tế bào B và kháng thể
+Hỗ trợ các nghiên cứu trước đây, bệnh nhân ung thư máu có nhiều khả năng tử vong do Covid-19 hơn bệnh nhân có khối u rắn hoặc không bị ung thư.Trong số 100 bệnh nhân nhập viện tại các bệnh viện Penn Medicine, 22 người được chẩn đoán mắc bệnh ung thư máu và có nguy cơ tử vong cao hơn 2,6 lần so với những bệnh nhân mắc bệnh ung thư thể rắn.
+Vắc xin vẫn hiệu quả với bệnh nhân ung thư máu.
+Hồ sơ miễn dịch của 214 mẫu máu bệnh nhân cho thấy rằng bệnh nhân ung thư máu, đặc biệt là bệnh nhân được điều trị bằng kháng thể kháng CD20, có tế bào B và kháng thể giảm so với bệnh nhân ung thư thể rắn và bệnh nhân không bị ung thư.
+Các phân tích bổ sung cũng cho thấy rằng trong số những bệnh nhân bị ung thư máu, bao gồm cả những bệnh nhân đang được điều trị bằng hóa trị và kháng thể kháng CD20, những người có số lượng tế bào T CD8 cao hơn có khả năng sống sót cao hơn 3,6 lần so với những người có số lượng thấp hơn. Do đó, các tác giả kết luận, tế bào T CD8 có thể ảnh hưởng đến sự phục hồi từ Covid-19 khi thiếu tế bào B và kháng thể.
+GS Huang cho biết, mặc dù phản ứng với vắc xin của họ có thể sẽ không mạnh mẽ như những không mắc bệnh ung thư máu, nhưng nó vẫn rất quan trọng và có hiệu quả.
+Các nhà nghiên cứu cho biết, bước tiếp theo cần nghiên cứu rõ hơn về phản ứng miễn dịch của bệnh nhân ung thư máu với Covid-19 sau khi họ hồi phục và khả năng bảo vệ miễn dịch của họ khi không có tế bào B và kháng thể.

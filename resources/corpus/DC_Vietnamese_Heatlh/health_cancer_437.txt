@@ -1,0 +1,13 @@
+# doc_id = health_cancer_437
+# url = https://dantri.com.vn/suc-khoe/phat-hien-dot-pha-hua-hen-triet-tieu-loai-ung-thu-quy-ong-so-nhat-20210423113709364.htm
+# date = 20210423
+Phát hiện đột phá hứa hẹn triệt tiêu loại ung thư quý ông sợ nhất
+Theo bài công bố trên tạp chí Science Advances, các nhà nghiên cứu nhắm tới một loại protein tên FOXA1 trong chính cơ thể người, đóng vai trò như chất điều hòa chính của chu kỳ tế bào, thúc đẩy sự phát triển và tăng sinh của tế bào.
+Trong một số dạng ung thư tuyến tiền liệt, FOXA1 được điều chỉnh và trở thành yếu tố thúc đẩy thúc đẩy sựphát triển của ung thư.
+Ung thư tuyến tiền liệt là dạng ung thư phổ biến ở quý ông (Ảnh minh họa từ Internet)
+Nói trên Medical Xpress, giáo sư - tiến sĩ Jindan Yu từ Khoa Huyết học và ung thư, Trường Đại học Northwestern (Mỹ) cho biết họ đã khám phá ra thứ điều chỉnh FOXA1 thành một protein thúc đẩy ung thư: chính là một enzyme tên EZH2. Nó methyl hóa FOXA1, giúp loại bỏ chiếc đuôi ubiquitin của FOXA1, chính là thứ dễ khiến nó bị phân hủy khi thuốc tấn công.
+Chính vì vậy, để ngăn ngừa FOXA1 "mất đuôi" và bất bại, những chất ức chế EZH2 sẽ đem lại hiệu quả tốt. Theo giáo sư Yu, tin mừng là các chất ức chế EZH2 đã sẵn có, nhưng trước đây nó không phổ biến vì không có hiệu quả cao với bệnh ung thư tuyến tiền liệt nói chung.
+Tuy nhiên nếu phân loại ra các quý ông mắc ung thư tuyến tiền liệt do FOXA1, nó sẽ có hiệu quả bất ngờ.
+Các tác giả kỳ vọng phát hiện này là tiền đề cho các phương pháp kết hợp vài loại thuốc sẵn có trong tương lai nhằm cứu các quý ông mắc ung thư tuyến tiền liệt kháng trị.
+Ung thư tuyến tiền liệt là dạng ung thư phổ biến ở quý ông. Một thống kê trước đây từ Anh Quốc cho thấy tỉ lệ mắc có thể lên đến 1/8 nam giới. Mỗi năm nước này có tới gần 12.000 người chết vì loại ung thư này.
+Cho dù được điều trị, các quý ông vẫn có thể mắc phải những biến chứng ảnh hưởng nghiêm trọng tới chất lượng sống như tình trạng tiểu không tự chủ, rối loạn cương dương...

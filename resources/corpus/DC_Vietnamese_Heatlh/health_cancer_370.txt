@@ -1,0 +1,23 @@
+# doc_id = health_cancer_370
+# url = https://dantri.com.vn/suc-khoe/benh-ung-thu-phoi-o-nu-gioi-khac-nam-gioi-nhu-the-nao-20220510104812227.htm
+# date = 20220510
+Bệnh ung thư phổi ở nữ giới khác nam giới như thế nào?
+Các loại ung thư phổi ở phụ nữ
+Các triệu chứng của ung thư phổi thường được xác định bởi vị trí của nó trong phổi. Các triệu chứng cũng phụ thuộc vào loại ung thư phổi gây ra chúng.
+Theo Verywell Health, có hai loại ung thư phổi chính:
+- Ung thư phổi không phải tế bào nhỏ (NSCLC): NSCLC là loại phổ biến nhất, chiếm khoảng 85% các trường hợp ung thư phổi. NSCLC bao gồm các loại phụ khác nhau có các đặc điểm khác nhau.
+- Ung thư phổi tế bào nhỏ (SCLC): SCLC ít phổ biến hơn trước đây và chiếm khoảng 10%-15% các trường hợp ung thư phổi. Đây là loại ung thư phổi liên quan mạnh nhất đến hút thuốc. Ung thư phổi tế bào nhỏ có xu hướng phát triển gần các đường hô hấp lớn. Do đó, chúng có xu hướng gây ra các triệu chứng sớm (do tắc nghẽn đường thở) như ho, ho ra máu, thở khò khè và nhiễm trùng đường hô hấp lặp đi lặp lại.
+Loại thứ 3 là khối u carcinoid, chiếm 1-2% các khối u phổi. Những khối u này không liên quan đến hút thuốc và có xu hướng xảy ra ở phụ nữ trẻ hơn. Nhiều trong số những khối u này là những khối u phát triển rất chậm.
+Ung thư phổi không tế bào nhỏ được chia thành:
+- Ung thư biểu mô tuyến ở phổi: Ung thư biểu mô tuyến ở phổi là loại ung thư phổ biến nhất được tìm thấy ở phụ nữ và những người chưa bao giờ hút thuốc. Những khối u này có xu hướng phát triển ở vùng ngoại vi của phổi và có thể phát triển khá lớn trước khi chúng gây ra các triệu chứng. Khi những loại ung thư này di căn (lan rộng), chúng có nhiều khả năng di căn đến xương hơn các loại ung thư phổi khác.
+- Ung thư biểu mô tế bào vảy: Ung thư biểu mô tế bào vảy, tương tự như SCLC, có xu hướng phát triển gần các đường thở lớn và cũng có xu hướng gây ra các triệu chứng sớm do tắc nghẽn đường thở. Chúng có liên quan đến việc hút thuốc ở một mức độ lớn hơn so với ung thư biểu mô tuyến ở phổi.
+- Ung thư biểu mô tế bào lớn: Ung thư phổi tế bào lớn có thể phát triển ở bất kỳ vị trí nào trong phổi nhưng hoạt động tương tự như SCLC, phát triển và lây lan nhanh chóng.
+Tình trạng hút thuốc
+Phụ nữ phát triển ung thư phổi có nhiều khả năng không bao giờ hút thuốc (được định nghĩa là hút ít hơn 100 điếu thuốc trong đời) hơn nam giới. Người ta ước tính rằng khoảng 20% phụ nữ không bao giờ hút thuốc. Ung thư biểu mô tuyến phổi phổ biến hơn nhiều ở những người chưa bao giờ hút thuốc và đã phổ biến ở phụ nữ hơn nam giới.
+Giai đoạn chẩn đoán
+Phụ nữ (và những người chưa bao giờ hút thuốc) cũng có xu hướng được chẩn đoán ở giai đoạn nặng hơn nam giới. Điều này có nghĩa là khối u có nhiều khả năng đã di căn đến các vùng xa của cơ thể như xương hoặc não.
+Tuổi khi chẩn đoán
+Phụ nữ thường được chẩn đoán ở độ tuổi hơi trẻ hơn nam giới và ung thư phổi xảy ra tại độ tuổi 30-54 ở phụ nữ phổ biến hơn ở nam giới.
+Do tuổi trẻ hơn, phụ nữ có thể mắc ít tình trạng y tế khác (bệnh đồng mắc) có thể ảnh hưởng đến các triệu chứng mà họ gặp phải. Ví dụ, ho mãn tính liên quan đến bệnh phổi tắc nghẽn mãn tính (COPD, bệnh viêm phổi không hồi phục) sẽ ít phổ biến hơn.
+Trong khi, ở các nhóm tuổi, khoảng 20% phụ nữ mắc bệnh ung thư phổi là những người không hút thuốc trong suốt đời, con số này cao hơn nhiều ở những phụ nữ trẻ được chẩn đoán. Một nghiên cứu năm 2019 xem xét những người trẻ tuổi bị ung thư phổi cho thấy 70% không bao giờ hút thuốc.
+Các triệu chứng phổ biến nhất của ung thư phổi ở phụ nữ thường mơ hồ và bắt đầu dần dần. Vì ung thư biểu mô tuyến ở phổi có xu hướng phát triển ở ngoại vi phổi, chúng có thể phát triển khá lớn trước khi được chẩn đoán. Vì lý do này, các tác động toàn thân chẳng hạn như mệt mỏi, phổ biến hơn.

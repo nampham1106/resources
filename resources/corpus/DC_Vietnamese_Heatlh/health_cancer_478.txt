@@ -1,0 +1,17 @@
+# doc_id = health_cancer_478
+# url = https://dantri.com.vn/suc-khoe/u-thuc-quan-lanh-tinh-dieu-tri-nhu-the-nao-20230110171248970.htm
+# date = 20230110
+U thực quản lành tính điều trị như thế nào?
+Khối u bắt nguồn từ các tế bào cơ trơn và chiếm khoảng 2/3 tổng số tổn thương lành tính ở thực quản.
+Theo Bệnh viện Trung ương Quân đội 108, căn nguyên và bệnh sinh của các u đến nay chưa rõ ràng, tỷ lệ mắc ở nam nhiều hơn nữ, trong đó lứa tuổi hay gặp từ 20 - 50 tuổi. Vị trí của khối u thường là 2/3 dưới thực quản.
+Chẩn đoán u cơ trơn như thế nào?
+U cơ trơn thực quản là khối u lành tính ở thực quản (Ảnh: Getty).
+Thông thường khối u cơ trơn được phát hiện tình cờ khi kiểm tra định kỳ hoặc sàng lọc các bệnh lý đường tiêu hóa trên, một số bệnh nhân có biểu hiện lâm sàng chủ yếu cảm giác nuốt vướng, ảnh hưởng đến sinh hoạt.
+Nội soi tiêu hóa trên phát hiện sự hiện diện của khối u kết hợp với siêu âm nội soi, chụp CT scan góp phần chẩn đoán bản chất khối u. Tiêu chuẩn vàng để chẩn đoán là giải phẫu bệnh.
+Các phương pháp điều trị
+Loại bỏ khối u là phương pháp tối ưu nhất, bệnh nhân có triệu chứng đều được khuyên cắt bỏ khối u. Phẫu thuật là phương pháp thông thường hay được áp dụng để loại bỏ khối u.
+Tuy nhiên để phẫu thuật, bệnh nhân phải phẫu thuật mở lồng ngực, thủ thuật xâm lấn nhiều, các nguy cơ và biến chứng sau mổ rất nghiêm trọng, đặc biệt là nguy cơ nhiễm trùng, chảy máu và hẹp thực quản sau phẫu thuật.
+Kỹ thuật cắt hớt niêm mạc (EMR) và cắt tách khối u dưới niêm mạc (ESD) là kỹ thuật mới trong việc loại bỏ khối u thực quản, nhất là ung thư sớm.
+- Kỹ thuật cắt hớt niêm mạc (Endoscopic Mucosal Resection - EMR) là kỹ thuật nội soi can thiệp sử dụng thòng lọng nhiệt để cắt bỏ tại chỗ các tổn thương ung thư sớm hoặc tiền ung thư của ống tiêu hóa, các polyp không cuống đại trực tràng. Sau khi tiêm một lượng dung dịch vào lớp dưới niêm mạc để cho tổn thương nổi phồng lên làm hạn chế nguy cơ cắt thủng thành ống tiêu hóa.
+- Kỹ thuật cắt tách dưới niêm mạc (Endoscopic Submucosal Dissection - ESD) là kỹ thuật nội soi can thiệp sử dụng các loại dụng cụ chuyên dụng để cắt bỏ tại chỗ các tổn thương ung thư sớm hoặc tiền ung thư của ống tiêu hóa, không cắt đoạn và bảo tồn toàn vẹn ống tiêu hóa.
+Đây là một kỹ thuật can thiệp tối thiểu được phát triển trên cơ sở kỹ thuật cắt hớt niêm mạc (EMR) nhưng ưu điểm hơn là cho phép cắt bỏ nguyên khối (en-bloc) tổn thương tại chỗ. Đồng thời giúp bệnh nhân giải quyết được các triệu chứng khó chịu, ảnh hưởng đến sinh hoạt mà không cần phải chịu một cuộc phẫu thuật.

@@ -1,0 +1,25 @@
+# doc_id = health_cancer_539
+# url = https://dantri.com.vn/suc-khoe/sarcoma-co-van-u-ac-tinh-hay-gap-o-tre-em-20220727211152387.htm
+# date = 20220727
+Sarcoma cơ vân- u ác tính hay gặp ở trẻ em
+U xuất phát từ trung mô, do đó vị trí tổn thương nguyên phát có thể gặp ở bất kỳ nơi nào trong cơ thể, hay gặp là ở vùng đầu cổ và hệ sinh dục tiết niệu.
+Theo TS Trần Văn Công, Bệnh viện K, tuổi mắc bệnh trung bình là 5, có đến 2/3 được chẩn đoán dưới 6 tuổi. Nam có xu hướng mắc nhiều hơn nữ, với tỷ lệ nam/nữ là 1,4/1. Có sự liên quan nhất định giữa vị trí khối u, tuổi mắc bệnh và thể mô bệnh học. U vùng đầu cổ thường gặp ở trẻ em dưới 8 tuổi, nếu phát sinh từ ổ mắt thường là sarcomacơ vân thể bào thai. U vùng chi hay gặp ở trẻ vị thành niên, mô bệnh học thường là thể hốc. U vùng bàng quang, âm đạo có hình ảnh dạng chùm nho.
+Di căn hạch chiếm 20% các trường hợp. Tỷ lệ di căn hạch khác nhau tùy từng vị trí tổn thương. U ở chi và vùng cận tinh hoàn có tỷ lệ di căn cao trong khi đó u vùng mắt ít di căn hạch.
+Tỷ lệ di căn phổi gặp 40%-50% các trường hợp có di căn xa. Những vị trí khác gồm tủy xương (20%-30%), xương (10%), di căn nội tạng rất hiếm gặp.
+Với những biện pháp điều trị đa mô thức đã cho phép cải thiện đáng kể tiên lượng bệnh hiện nay. Tiên lượng bệnh dựa vào các yếu tố sau:
+- Tình trạng khối u, u khư trú tại chỗ có tiên lượng tốt.
+- Di căn: Có hay chưa có di căn.
+- Vị trí u: Vùng ổ mắt, mi mắt, các u ở vùng đầu cổ không kể tổn thương cận màng não, các u hệ tiết niệu sinh dục không kể u vùng bàng quang, tiền liệt tuyến thuộc nhóm có tiên lượng tốt, trong đó tiên lượng tốt nhất là u vùng ổ mắt.
+- Khả năng cắt bỏ được khối u (trừ u vùng ổ mắt).
+- Mô bệnh học: Sarcoma cơ vân thể bào thai và các biến thể có tiên lượng tốt hơn sarcomacơ vân thể hốc và thể không biệt hóa.
+Biểu hiện lâm sàng
+Khối u vùng mi, ổ mắt thường gây ra lồi mắt, đôi khi liệt mắt. U cận màng não (trừ ổ mắt) thường gây tắc nghẽn mũi, xoang, tiết dịch mủ bất thường, liệt thần kinh sọ, có thể kèm đau đầu nôn, tăng huyết áp.
+Khối u vùng bàng quang gây bí đái, đái máu, đôi khi chảy dịch nhày máu. Khối u vùng tuyến tiền liệt đôi khi đái buốt, đái rắt, táo bón xu hướng di căn phổi, tủy xương và xương. U vùng âm đạo thường ở trẻ nhỏ gây tiết dịch âm đạo bất thường.
+Sarcoma cơ vân vùng chi, thân mình xuất hiện bằng khối bất thường đỏ da, tăng nhạy cảm đau. Các vị trí khác hiếm gặp trong lồng ngực, sau phúc mạc, trong tiểu khung khó phát hiện sớm. U vùng đáy chậu và quanh hậu môn lâm sàng đôi khi giống như ổ áp xe hay polyp. Tại đường mật biểu hiện bằng vàng da tắc nghẽn.
+Chẩn đoán phân biệt lâm sàng với các khối viêm cơ phần mềm, các u lành (u mỡ, u cơ vân, u xơ thần kinh...), u ác tính (u lymphô ác tính, u nguyên bào thần kinh, sarcomaEwing).
+Điều trị sarcomacơ vân như thế nào?
+Ba phương pháp chính điều trị sarcoma cơ vân là phẫu thuật, xạ trị và hóa trị, tùy thuộc vào vị trí u nguyên phát.
+- Với u vị trí tại hốc mắt và cận màng não, phẫu thuật giới hạn, ưu tiên lựa chọn xạ trị và hóa trị.
+- U vị trí thân mình, giai đoạn I, II: phẫu thuật và hóa chất. Giai đoạn III kết hợp xạ trị, phẫu thuật, hóa trị. Giai đoạn IV: hóa trị và xạ trị.
+- U vị trí sinh dục, tiết niệu: u vùng bàng quang, tuyến tiền liệt, âm đạo chỉ định hóa trị, xạ trị, cân nhắc phẫu thuật.
+- U vị trí khác có thể phẫu thuật, xạ trị, hóa trị.

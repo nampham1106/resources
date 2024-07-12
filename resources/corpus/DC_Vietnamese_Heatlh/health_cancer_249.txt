@@ -1,0 +1,30 @@
+# doc_id = health_cancer_249
+# url = https://dantri.com.vn/suc-khoe/chi-so-afp-bao-nhieu-la-binh-thuong-20220424081621202.htm
+# date = 20220424
+Chỉ số AFP bao nhiêu là bình thường?
+Xét nghiệm AFP là gì?
+Theo TS.BS Nguyễn Thị Tuấn, Khoa Miễn dịch, Bệnh viện Trung ương Quân đội 108, AFP (Alpha-fetoprotein) là một globulin được hình thành trong túi noãn hoàng và gan của bào thai. Nếu thai phát triển bình thường, nồng độ AFP được tìm thấy trong huyết thanh của mẹ sẽ tăng lên. Chỉ một lượng không đáng kể AFP vẫn còn lại trong dòng tuần hoàn sau sinh.
+AFP cũng được coi như một chất chỉ điểm (marker) khối u đối với một số loại ung thư (nhất là ung thư gan nguyên phát). Các ung thư được đặc trưng điển hình bằng các tế bào không được biệt hóa, vì vậy các tế bào này thường vẫn tiếp tục mang các chất chỉ điểm bể mặt (surface markers) tương tự như các chất chỉ điểm được tìm thấy ở bào thai. Khi nồng độ AFP càng cao, khả năng có ung thư càng lớn.
+Ý nghĩa và mục đích của xét nghiệm AFP trong máu?
+- Để chẩn đoán ung thư gan nguyên phát.
+- Để sàng lọc các khuyết tật ống thần kinh (neural tube defects) của bào thai như tật nứt đốt sống (spina bifida) và quái thai không não (anencephaly).
+Chỉ số AFP bình thường là bao nhiêu?
+- Nam giới và phụ nữ không có thai: < 4,0 ng/ml hay < 7,75 UI/ml.
+- Phụ nữ đang có thai nồng độ sẽ có các giá trị quy chiếu bình thường tùy theo tuổi thai.
+Tăng nồng độ AFP
+Các nguyên nhân chính thường gặp là:
+- Ung thư gan.
+- Xơ gan mật.
+- Viêm gan.
+- Đa thai (multiple fetuses).
+- Suy thai (fetal distress).
+- Các khuyết tật ống thần kinh của thai (fetal neural tube defect).
+- Ung thư đại tràng.
+- Ung thư dạ dày.
+- Ung thư phổi.
+- Ung thư vú.
+- Ung thư tụy.
+- Ung thư thận.
+- Ung thư tinh hoàn.
+Xét nghiệm AFP rất hữu ích trong chẩn đoán ung thư gan nguyên phát khi nồng độAFP (Alpha-fetoprotein) > 300 UI/ml khẳng định gần như chắc chắn bệnh nhân bị ung thư gan.
+Định lượng nồng độ Alpha-fetoprotein cũng có thể được sử dụng để đánh giá đáp ứng với điều trị ung thư.

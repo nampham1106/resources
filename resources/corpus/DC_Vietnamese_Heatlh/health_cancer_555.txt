@@ -1,0 +1,17 @@
+# doc_id = health_cancer_555
+# url = https://dantri.com.vn/suc-khoe/hai-loai-rau-cu-pho-bien-o-cho-viet-co-the-ngan-ngua-ung-thu-20230118215511048.htm
+# date = 20230118
+Hai loại rau củ phổ biến ở chợ Việt có thể ngăn ngừa ung thư
+Những tiến bộ trong y học và công nghệ đang giúp các nhà khoa học phát triển các phương pháp điều trị ung thư tiên tiến và hiệu quả hơn.
+Trong quá trình tìm kiếm các phương pháp điều trị ung thư mới, thậm chí là từ tự nhiên, các nhà nghiên cứu từ Đại học Adam Mickiewicz ở Ba Lan có nghiên cứu về glycoalkaloid. Đây là các hoạt chất sinh học được tìm thấy trong nhiều loại rau củ như khoai tây và cà chua. Các nhà khoa học đã cho thấy nó có hiệu quả tiềm năng trong điều trị ung thư.
+Nghiên cứu được công bố trên tạp chí Frontiers in Pharmacology.
+Hợp chất được tìm thấy trong khoai tây và cà chua đều có tiềm năng trong điều trị ung thư (Ảnh: Pexels).
+Magdalena Winkiel, một tác giả của nghiên cứu, cho biết các nhà khoa học trên toàn thế giới vẫn đang tìm kiếm các loại thuốc có thể tiêu diệt tế bào ung thư nhưng không gây hại cho các tế bào khỏe mạnh. Quá trình này rất khó khăn mặc dù có những tiến bộ trong y học và sự phát triển của các kỹ thuật điều trị hiện đại.
+Vì vậy, có thể đáng để quay lại với những cây thuốc đã được sử dụng thành công từ nhiều năm trước để điều trị các bệnh khác nhau.
+Theo The Jerusalem Post, nhóm nghiên cứu đã kiểm tra glycoalkaloid được tìm thấy trong chiết xuất thô từ họ thực vật solanine. Họ thực vật này bao gồm một số loại thực phẩm, một số trong đó độc hại do chất ancaloit mà chúng tạo ra để bảo vệ khỏi động vật ăn cỏ. Các nghiên cứu trước đây cho thấy chất độc có thể trở thành thuốc với liều lượng phù hợp.
+Glycoalkaloid có tác dụng ức chế sự phát triển của tế bào ung thư và có thể tiêu diệt chúng, vì vậy nó có tiềm năng cho các liệu pháp trong tương lai. Các nghiên cứu sử dụng mô phỏng trên máy tính cho thấy glycoalkaloid không độc hại và không gây nguy cơ làm hỏng DNA hoặc gây ra các khối u trong tương lai. Tuy nhiên, dường như nó có nguy cơ gây ra một số tác động tiêu cực nhất định đến hệ thống sinh sản.
+Sau khi tiến hành các nghiên cứu trong ống nghiệm và trên động vật để đánh giá loại glycoalkaloid nào an toàn và đủ hứa hẹn để thử nghiệm ở người, nhóm nghiên cứu đã nhấn mạnh solanine và chaconine, glycoalkaloid được tìm thấy trong khoai tây. Lượng chất này trong khoai tây thay đổi tùy theo giống của chúng và điều kiện nhiệt độ/ánh sáng mà chúng tiếp xúc.
+Solanine ngăn ngừa sự di căn cùng với việc ngăn chặn các hợp chất có khả năng gây ung thư chuyển hóa thành chất gây ung thư trong cơ thể. Ngoài ra, nghiên cứu về một loại tế bào ung thư bạch cầu cụ thể tiết lộ rằng solanine có thể tiêu diệt tế bào ung thư khi được sử dụng ở liều điều trị. Chaconine có khả năng được sử dụng để điều trị nhiễm trùng huyết vì nó có tác dụng chống viêm.
+Solamargine ức chế sự sinh sản của các tế bào ung thư gan và nhắm vào các tế bào gốc ung thư. Vì vậy, nó có thể rất quan trọng như một phương pháp điều trị bổ sung. Solanine, hiện diện trong nhiều loại thực vật khác nhau thuộc họ solanaceae, cũng được cho là có thể tấn công các tế bào gốc ung thư bằng cách nhắm mục tiêu theo cách tương tự.
+Thậm chí, cà chua còn có tiềm năng ứng dụng trong y học trong tương lai do cà chua giúp cơ thể điều hòa chu kỳ tế bào nên có thể tiêu diệt tế bào ung thư.
+Nhóm nghiên cứu lưu ý rằng cần nghiên cứu thêm để xác định tiềm năng của các hợp chất này có thể được chuyển hóa hiệu quả thành điều trị y tế trong thế giới thực như thế nào.

@@ -1,0 +1,17 @@
+# doc_id = health_cancer_471
+# url = https://dantri.com.vn/suc-khoe/nguyen-nhan-nao-dan-den-ung-thu-tuy-20230129080300676.htm
+# date = 20230129
+Nguyên nhân nào dẫn đến ung thư tụy?
+Khoảng 10-15% ung thư tụy có liên quan tới yếu tố di truyền. Ví dụ người mắc ung thư vú hoặc ung thư buồng trứng do di truyền có nguy cơ bị ung thư tụy theo thời gian là 3-5%.
+Hay người bị ung thư đại tràng không polyp có tính chất gia đình - hội chứng Lynch II có nguy cơ bị ung thư tụy theo thời gian là 4%. Người bị viêm tụy do di truyền có nguy cơ bị ung thư tụy là 24-40% do có đột biến gen PRSS1, SPINK1.
+Ung thư tụy có tính chất gia đình, được xác định khi trong gia đình cặp có bố/mẹ - con hoặc cặp anh/chị - em cùng bị ung thư tụy. Đột biến mầm của gen BRCA1, BRCA2 được phát hiện trong khoảng 13-19% bệnh nhân ung thư tụy có tính chất gia đình.
+Một số bệnh lý mạn tính ở tụy làm tăng nguy cơ mắc ung thư tụy gồm: đái tháo đường (nhiều nghiên cứu đã chỉ ra bệnh đái tháo đường và ung thư tụy có quan hệ mật thiết với nhau), viêm tụy mạn, bệnh xơ nang tụy,...
+Ngoài ra, các yếu tố làm tăng nguy cơ ung thư tụy bao gồm:hút thuốc lá; béo phì, ít hoạt động thể lực; nghiện rượu...
+Hút thuốc là một trong những yếu tố nguy cơ quan trọng nhất đối vớiung thư tuyến tụy. Nguy cơ mắc bệnh ung thư tuyến tụy ở những người hút thuốc cao gấp đôi so với những người chưa bao giờ hút thuốc. Khoảng 25% trường hợp ung thư tuyến tụy được cho là do hút thuốc lá.
+Hút xì gà và sử dụng các sản phẩm thuốc lá không khói cũng làm tăng nguy cơ. Tuy nhiên, nguy cơ ung thư tuyến tụy bắt đầu giảm khi một người ngừng hút thuốc.
+Các nhà nghiên cứu và bác sĩ vẫn chưa hiểu nguyên nhân gây ra ung thư tuyến tụy. Điều đó cũng có nghĩa là họ không biết các bước bạn có thể thực hiện để ngăn ngừa ung thư tuyến tụy.
+Bạn không thể thay đổi được một số yếu tố nguy cơ làm tăng khả năng mắc loại ung thư này gồm giới tính, tuổi và DNA. Tuy nhiên, một số thay đổi lối sống và phương pháp tiếp cậnsức khỏetổng thể có thể làm giảm nguy cơ của bạn.
+Cụ thể:
+- Bỏ thuốc lá: Hút thuốc lá làm tăng nguy cơ mắc một số loại ung thư, bao gồm cả ung thư tuyến tụy.
+- Uống ít rượu, bia: Uống nhiều rượu bia có thể làm tăng nguy cơ bị viêm tụy mãn tính và có thể là ung thư tuyến tụy.
+- Duy trì cân nặng hợp lý: Thừa cân hoặc béo phì là yếu tố nguy cơ hàng đầu của một số loại ung thư.

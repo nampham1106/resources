@@ -1,0 +1,21 @@
+# doc_id = health_consultation_470
+# url = https://dantri.com.vn/suc-khoe/chi-phi-y-te-tang-chuyen-gia-chi-cach-de-nguoi-benh-duoc-huong-loi-20230527184711958.htm
+# date = 20230527
+Chi phí y tế tăng: Chuyên gia chỉ cách để người bệnh được hưởng lợi
+Tại nhiều quốc gia trên thế giới, đánh giá công nghệ y tế nói chung và phân tích tác động ngân sách đã và đang được coi là công cụ quan trọng đối với quá trình thiết lập ưu tiên và hoạch định chính sách y tế (Ảnh: Thúy Huyền).
+"Tụt hậu" trong đánh giá công nghệ y tế
+Tại hội thảo "Ứng dụng đánh giá công nghệ y tế ở cấp độ bệnh viện: Kinh nghiệm trên thế giới và thực trạng tại Việt Nam" trong 2 ngày 26 - 27/5 tại TPHCM, PGS Trần Thị Trung Chiến - nguyên Bộ trưởng Bộ Y tế - nhận định, đánh giá công nghệ y tế rất quan trọng trong thực hiện khám chữa bệnh, chăm sóc sức khỏe nhân dân một cách khoa học, ít tốn kém và hiệu quả tốt.
+Lĩnh vực công nghệ phát triển ngày càng hiện đại nhưng các giải phápứng dụng đánh giá công nghệtrong lĩnh vực y tế của Việt Nam đang đi chậm hơn với các nước trong khu vực và trên thế giới.
+Bà Chiến cho biết, năm 2013, Thủ tướng Chính phủ đã ra quyết định ứng dụng công nghệ và đánh giá công nghệ trong y tế nhưng phải đến năm 2018, Bộ Y tế mới ra quyết định về chuyên đề này. Việc này có chậm nhưng các quyết định của Bộ Y tế đã xây dựng được hành lang pháp lý để hướng dẫn thực hiện công nghệ và đánh giá công nghệ trong các hoạt động của ngành.
+Trong rất nhiều lĩnh vực đang được triển khai, nổi bật nhất là giải pháp xây dựng bệnh án điện tử để quản lý sức khỏe của cộng đồng từ khi sinh ra đến khi qua đời. Tuy nhiên, ngành y tế đang đối diện với thách thức về nhân sự chuyên môn, đồng bộ hóa dữ liệu, đầu tư trang thiết bị, lưu trữ dữ liệu lớn (big data)...
+Ứng dụng đánh giá công nghệ để giảm chi phí
+Nguyên Bộ trưởng Y tế Trần Thị Trung Chiến nhận định, về mặt chuyên môn trong lĩnh vực y tế Việt Nam đã phát triển rất tốt. Chính vì thế, để toàn diện hơn nữa, trong thời đại 4.0, ngành y tế cần tiếp tục chuyển mình mạnh mẽ hơn để phát triển ứng dụng công nghệ và đánh giá công nghệ đạt hiệu quả tốt hơn, phục vụ việc chăm sóc sức khỏe nhân dân, phát triển y học nước nhà và hội nhập toàn cầu.
+Các chuyên gia phát biểu tham luận tại hội thảo (Ảnh: Thúy Huyền)
+Đồng quan điểm, GS Phạm Văn Lình - Hiệu trưởng Trường ĐH Quốc tế Hồng Bàng - bày tỏ, đại dịch COVID-19 vừa qua đã đặt ra nhiều thách thức trong tìm kiếm các giải pháp công nghệ để ứng phó với dịch bệnh, bảo vệ cộng đồng, hạn chế gián đoạn trong hoạt động khám chữa bệnh.
+Với những giải pháp ứng dụng công nghệ vào khám chữa bệnh, Việt Nam đang từng bước triển khai áp dụng y tế thông minh nhằm tối ưu hóa hệ thống vận hành.
+"Hiện nay, đánh giá công nghệ y tế là giải pháp xây dựng, phát triển và áp dụng các công cụ tối ưu trong việc lựa chọn phương pháp kỹ thuật mới phục vụ chẩn đoán, điều trị, giảm chi phí từ người dân và của nhà nước", GS Phạm Văn Lình chia sẻ.
+Các nhà khoa học nước ngoài là GS.TS Yagudina Roza Ismailovna - Trường ĐH Y khoa Quốc gia Sechenov, Liên Bang Nga, ThS Saudamini Vishwanath Dabak - HITAP, Thái Lan, ThS Pwee Keng Ho - Bệnh viện đa khoa Changi, Singapore đã chia sẻ nội dung về ứng dụng đánh giá công nghệ y tế tại các nước.
+Nhà khoa học nước ngoài chia sẻ về ứng dụng đánh giá công nghệ y tế (Ảnh: Thúy Huyền).
+Theo đó, tại nhiều quốc gia trên thế giới, đánh giá công nghệ y tế nói chung và phân tích tác động ngân sách đã và đang được coi là công cụ quan trọng đối với quá trình thiết lập ưu tiên và hoạch định chính sách y tế, đặc biệt trong việc xây dựng các gói quyền lợi bảo hiểm y tế (BHYT) về thuốc chữa bệnh.
+Thông tin về sự cần thiết của đánh giá công nghệ y tế ở cấp độ bệnh viện tại Việt Nam ngay thời điểm này, PGS.TS Nguyễn Thị Thu Thủy - Trưởng Khoa Dược HIU - cho biết, đánh giá công nghệ y tế sẽ góp phần giải bài toán trong bối cảnh nguồn ngân sách hạn chế, chi phí y tế ngày một gia tăng, nhưng vẫn đảm bảo chăm sóc, can thiệp y tế tốt nhất cho người bệnh. Đây không chỉ là vấn đề mà các bệnh viện, ngành y tế quan tâm mà là vấn đề "nóng" của cả xã hội.
+Việc này giúp xây dựng chính sách y tế, đặc biệt là xây dựng gói quyền lợi BHYT có những thay đổi mang tính đột phá, ngày càng minh bạch, dựa trên bằng chứng khoa học rõ ràng, bảo đảm lợi ích hài hòa của tất cả các bên liên quan, bảo đảm khả năng chi trả của quỹ BHYT.

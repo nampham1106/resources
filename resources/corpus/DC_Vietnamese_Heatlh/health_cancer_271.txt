@@ -1,0 +1,14 @@
+# doc_id = health_cancer_271
+# url = https://dantri.com.vn/suc-khoe/nguoi-tre-mac-ung-thu-phoi-do-dau-20221011204922300.htm
+# date = 20221011
+Người trẻ mắc ung thư phổi do đâu?
+Khoảng 85% các trường hợp và 90% các ca tử vong do ung thư phổi có thể trực tiếp do khói thuốc lá. Tuy nhiên, theo một đánh giá năm 2018 trên tạp chí Translational Lung Cancer Research, tỷ lệ những người trẻ bị ung thư phổi là người không hút thuốc cao hơn nhiều so với những người hút thuốc.
+Vậy tại sao ung thư phổi gia tăng ở những người không bao giờ hút thuốc? Di truyền được cho là đóng một vai trò quan trọng hơn trong ung thư phổi ở những người trẻ tuổi.
+Theo Medical News Today, 3 đột biến gen thường liên quan đến ung thư biểu mô tuyến phổi là:
+- Đột biến EGFR, biến đổi gen phổ biến nhất ở những người bị ung thư biểu mô tuyến phổi.
+- Sự sắp xếp lại gen ROS1, được tìm thấy ở 1% đến 2% những người bị ung thư phổi không phải tế bào nhỏ như ung thư biểu mô tuyến.
+- Sự sắp xếp lại gen ALK, một trong những đột biến phổ biến hơn được thấy ở những người không bao giờ hút thuốc, được tìm thấy ở từ 3% đến 13% những người bị ung thư phổi.
+Có tới 59% thanh niên mắc bệnh ung thư phổi sẽ có những đột biến gen này và các đột biến gen khác. Đột biến ROS1 và sắp xếp lại gen ALK phổ biến hơn ở những người trẻ tuổi mắc bệnh ung thư phổi.
+Các đột biến khác ít phổ biến hơn bao gồm HER2 và BRAF2, cũng có liên quan đến ung thư vú.
+Tiền sử gia đình được cho là một yếu tố nguy cơ chính gây ung thư phổi ở người trẻ tuổi. Một đánh giá năm 2017 trên tạp chí Oncology Letters kết luận rằng việc có cha mẹ hoặc anh chị em ruột bị ung thư phổi làm tăng nguy cơ mắc bệnh lên 50% so với những người không có tiền sử gia đình.
+Tuy nhiên, những phát hiện vẫn chưa có kết luận chính xác. Trên thực tế, một số nghiên cứu không thể tìm thấy bằng chứng về mối liên hệ gia đình ở những người trẻ tuổi mắc bệnh ung thư phổi. Điều đó cho thấy các yếu tố nguy cơ khác (chẳng hạn như khói thuốc, phơi nhiễm radon trong nhà hoặc ô nhiễm không khí) góp phần vào làm tăng nguy cơ mắc ung thư phổi.

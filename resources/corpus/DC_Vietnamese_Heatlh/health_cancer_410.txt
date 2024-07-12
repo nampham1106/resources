@@ -1,0 +1,25 @@
+# doc_id = health_cancer_410
+# url = https://dantri.com.vn/suc-khoe/ung-thu-phoi-khong-te-bao-nho-trieu-chung-som-va-khi-da-di-can-20220521192105624.htm
+# date = 20220521
+Ung thư phổi không tế bào nhỏ: Triệu chứng sớm và khi đã di căn
+Ung thư phổi được chia thành hai loại chính là ung thư phổi tế bào nhỏ (small cell lung cancer) - chiếm khoảng 10-15% và ung thư phổi không tế bào nhỏ (non small cell lung cancer) chiếm khoảng 85%.
+Ung thư phổi không tế bào nhỏ được gây ra bởi nhiều nguyên nhân và yếu tố nguy cơ:
+- Thuốc lá: Theo BS Nguyễn Nhật Linh, khoa Nội I, Bệnh viện Ung bướu Hà Nội, ước tính 80 - 90% ung thư phổi liên quan đến thuốc lá. Nguy cơ ung thư phổi tăng theo thời gian và số lượng thuốc lá. Một người hút một gói thuốc mỗi ngày có nguy cơ mắc ung thư phổi gấp 20 lần người không hút thuốc. Nguy cơ ung thư phổi do hút thuốc thụ động cũng được ghi nhận, người sống cùng nhà với người hút thuốc tăng 30% nguy cơ ung thư phổi so với người không cùng hoàn cảnh.
+- Tiếp xúc amiăng: Người hút thuốc có tiếp xúc amiăng có nguy cơ cao gấp 90 lần người không tiếp xúc.
+- Bụi phóng xạ và radon: Các yếu tố này làm tăng nguy cơ ung thư phổi, người tiếp xúc với mức độ radon cao tại nhà ở dễ mắc ung thư phổi.
+- Nhiễm khuẩn: Virus gây u nhú ở người HPV được quy cho là một nguyên nhân gây ung thư phổi.
+- Di truyền: Một vài đột biến di truyền là yếu tố liên quan. Đột biến T790M xảy ra trên tế bào mầm kèm theo ung thư biểu mô tuyến của phổi.
+- Ô nhiễm không khí: Khói bụi trong không khí ô nhiễm có thể làm tăng nguy cơ mắc ung thư phổi, đặc biệt là ung thư biểu mô tuyến.
+Các triệu chứng thường gặp
+- Ho: gặp trong khoảng 80% bệnh nhân, thường thấy thay đổi về tần suất và mức độ trên người hút thuốc, có thể ho khan hoặc kèm theo khạc đờm.
+- Ho ra máu.
+- Khó thở.
+- Viêm phổi tái diễn một vị trí.
+- Tràn dịch màng phổi.
+- Đau ngực.
+- Đau vai, tay.
+- Triệu chứng do chèn ép: khó nuốt, khàn tiếng, hội chứng tĩnh mạch chủ trên...
+Các triệu chứng do di căn
+- Nhức đầu, buồn nôn, nôn, rối loạn nhận thức, vận động, triệu chứng thần kinh khu trú...
+- Đau xương, hạn chế vận động do đau...
+- Tê, yếu, mất vận động chi, đại tiểu tiện không tự chủ…

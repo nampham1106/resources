@@ -1,0 +1,15 @@
+# doc_id = health_cancer_541
+# url = https://dantri.com.vn/suc-khoe/xet-nghiem-psa-tang-cao-co-nguy-co-mac-ung-thu-tuyen-lien-liet-khong-20230131135051633.htm
+# date = 20230131
+Xét nghiệm PSA tăng cao có nguy cơ mắc ung thư tuyến liền liệt không?
+Ung thư tiền liệt tuyến là bệnh lý ác tính thường gặp ở nam giới cao tuổi. Tuy nhiên, ở giai đoạn đầu ung thư tiền liệt tuyến không có triệu chứng rõ ràng nên rất khó phát hiện.
+Nam giới ngoài 50 tuổi khi đi khám sức khỏe thường được bác sĩ chỉ định xét nghiệm PSA trong máu.PSA là một kháng nguyên đặc hiệu của tuyến tiền liệt, được tiết ra từ các tế bào biểu mô của tuyến tiền liệt.
+Tỷ lệ chỉ số PSA tự do/PSA toàn phần được dùng để chẩn đoán ung thư tiền liệt tuyến nếu nồng độ PSA tự do nằm trong khoảng 4 - 10 ng/ml. Nếu tỷ lệ PSA tự do/PSA toàn phần dưới 15%, nguy cơ bị ung thư tiền liệt tuyến là rất cao.
+Thông thường, xét nghiệm PSA được dùng để theo dõi hiệu quả của quá trình điều trị ung thư tiền liệt tuyến cũng như nguy cơ tái phát bệnh. Nhưng ở những người có nguy cơ cao, chuyên gia cũng khuyến cáo thực hiện xét nghiệm này.
+Đối với người bình thường, chỉ số PSA toàn phần trong máu sẽ rất thấp (dưới 4 ng/mL). Tuy nhiên, càng lớn tuổi kích thước của tuyến tiền liệt sẽ càng tăng cao.
+Chỉ số PSA là dấu ấn của ung thư tiền liệt tuyến. Cụ thể như sau:
+Khi nồng độ PSA trong máu tăng cao, nam giới có nguy cơ mắc ung thư tiền liệt tuyến. Giá trị giới hạn để chẩn đoán ung thư tuyến tiền liệt của chỉ số PSA toàn phần trong huyết tương ≥ 4ng/ml, độ đặc hiệu khoảng 91% và độ nhạy khoảng 21%.
+Khi mắc ung thư tiền liệt tuyến tốc độ tăng PSA toàn phần trong máu sẽ tăng nhanh hơn bình thường. Những người có tốc độ tăng PSA toàn phần từ 0.75 ng/mL/năm trở lên sẽ có nguy cơ mắc ung thư tiền liệt tuyến cao hơn.
+Những người có tốc độ tăng PSA < 0.75 ng/mL/năm có nguy cơ mắc bệnh tuyến tiền liệt lành tính.
+Tuy nhiên, không phải cứ có nồng độ PSA trong máu tăng cao đồng nghĩa với việc bị mắc ung thư tiền liệt tuyến. Một số tình trạng bệnh lý khác cũng có thể dẫn đến tăng nồng độ PSA trong máu như: viêm tuyến tiền liệt, Phì đại tuyến tiền liệt lành tính , bí đái phải đặt sonde niệu đạo...
+Vì thế, không phải cứ có nồng độ PSA trong máu cao là nguy cơ mắc ung thư tuyến tiền liệt.Khi có những dấu hiệu nghi ngờ, bác sĩ sẽ chỉ định thêm các xét nghiệm cần thiết để chẩn đoán bệnh.

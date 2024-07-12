@@ -1,0 +1,19 @@
+# doc_id = health_cancer_369
+# url = https://dantri.com.vn/suc-khoe/benh-vien-dau-tien-o-viet-nam-pha-che-thuoc-phong-xa-ga-68-chan-doan-khoi-u-20231206095137340.htm
+# date = 20231206
+Bệnh viện đầu tiên ở Việt Nam pha chế thuốc phóng xạ Ga-68 chẩn đoán khối u
+Ngày 6/12, tiến sĩ, bác sĩ Nguyễn Xuân Cảnh, Trưởng khoa Y học hạt nhân, Bệnh viện Chợ Rẫy cho biết, thời gian gần đây đơn vị đã thực hiệnchụp PET/CT với 2 loại thuốc phóng xạ mới. Đó là Galium-68 PSMA (Ga-68 PSMA) trong ung thư tuyến tiền liệt và Galium-68 Dotatate (Ga-68 Dotatate).
+Trên thế giới, hai loại thuốc phóng xạ này đã được Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) chấp thuận lần lượt từ năm 2016 (với thuốc Ga-68 Dotatate) và năm 2020 (với thuốc Ga-68 PSMA).
+Nhân viên y tế Bệnh viện Chợ Rẫy tiến hành pha chế thuốc phóng xạ Ga-68 (Ảnh: BV).
+Không phải quốc gia nào cũng có thể sản xuất được 2 loại thuốc phóng xạ trên. Do đó, khi người bệnh trong nước có nhu cầu chụp PET/CT với 2 loại thuốc này thường phải đi ra nước ngoài.
+Trải qua thời gian dài tìm hiểu, trao đổi chuyên môn cũng như chuẩn bị nguồn nhân lực để tập trung nghiên cứu, đến ngày 7/11, khoa Y học hạt nhân của Bệnh viện Chợ Rẫy trở thành đơn vị đầu tiên tại Việt Nam pha chế thành công và đưa 2 loại thuốc Ga-68 PSMA và Ga-68 Dotatate vào sử dụng.
+Sau gần một tháng áp dụng ghi hình PET/CT với Ga-68 PSMA cho 12 trường hợp ung thư tuyến tiền liệt và với Ga-68 Dotatate cho 9 trường hợp u thần kinh nội tiết, kết quả đã cho thấy tính hiệu quả trong chẩn đoán và theo dõi điều trị bệnh.
+Đến nay, đã có tổng cộng 21 bệnh nhân tại Bệnh viện Chợ Rẫy được chụp PET/CT với 2 loại thuốc phóng xạ mới (Ảnh: BV).
+Theo bác sĩ Cảnh, trước đó từ năm 2009, Bệnh viện Chợ Rẫy đã thực hiện ghi hình PET/CT với thuốc F-18 FDG đánh giá chuyển hóa đường glucose trong nhiều loại ung thư. Trung bình mỗi ngày, khoa Y học hạt nhân tiếp nhận chụp từ 12-15 ca PET/CT.
+Tuy nhiên, tế bào ung thư tuyến tiền liệt và u thần kinh nội tiết ít sử dụng đường glucose, nên hiển thị kết quả chẩn đoán không cao.
+Cụ thể, tế bào ung thư tuyến tiền liệt thường có biểu hiện kháng nguyên đặc hiệu trên màng tế bào PSMA, có đặc tính gắn kết tốt với thuốc Ga-68 PSMA và sẽ được phát hiện nhờ ghi hình PET/CT.
+Còn đối với u thần kinh nội tiết, tế bào u biểu hiện tăng thụ thể Somatostatin. Việc ghi hình PET/CT với thuốc Ga-68 Dotatate gắn kết vào thụ thể này sẽ phát hiện rõ hơn những tổn thương nguyên phát và di căn, từ đó giúp bác sĩ lâm sàng có hướng chẩn đoán, chọn lựa phương pháp và theo dõi kết quả điều trị.
+Việc pha chế thành công 2 loại thuốc phóng xạ Ga-68 sẽ đem đến nhiều cơ hội cho người bệnh trong nước, giúp bệnh nhân có thể tiếp cận phương pháp kỹ thuật tiên tiến trên thế giới. Từ đó, góp phần nâng cao chất lượng khám chữa bệnh cũng như tiết kiệm nhiều chi phí cho người bệnh.
+Việc pha chế thành công 2 loại thuốc phóng xạ Ga-68 sẽ giúp nhiều bệnh nhân không phải đi nước ngoài để chụp chiếu chẩn đoán bệnh (Ảnh: BV).
+Vào ngày 29/11, một bệnh viện tại TPHCM đã thực hiện ca phẫu thuật lấy khối u nội tiết nằm ở gót chân cho nữ bệnh nhân mắc căn bệnh nhuyễn xương hiếm gặp (ca bệnh thứ 2 ghi nhận tại Việt Nam).
+Để phát hiện khối u trên, các chuyên gia đã mất 2 năm trời tìm kiếm nơi có đồng vị phóng xạ Ga-68 Dotatate. Sau đó, bệnh nhân phải sang Singapore chụp PET/CT với chi phí rất cao.

@@ -1,0 +1,11 @@
+# doc_id = health_cancer_326
+# url = https://dantri.com.vn/suc-khoe/hon-9200-nguoi-viet-tu-vong-moi-nam-vi-ung-thu-dai-truc-trang-20220706084147100.htm
+# date = 9200
+Hơn 9.200 người Việt tử vong mỗi năm vì ung thư đại trực tràng
+Ung thư đại trực tràng là một trong những bệnh ung thư phổ biến, đứng thứ 3 ở nam giới và thứ 2 ở nữ giới. Ước tính trên thế giới mỗi năm có 1,8 triệu ca mắc mới, với gần 900.000 ca tử vong, chiếm 10% gánh nặng các loại bệnh ung thư. Trong đó, riêng khu vực châu Á chiếm đến hơn một nửa các trường hợp ung thư đại trực tràng trên toàn thế giới. Việt Nam đóng góp 0,8% số lượng các ca ung thư.
+Mỗi năm nước ta ghi nhận 14.700 ca mắc mới ung thư đại trực tràng, trong đó hơn 9.200 ca tử vong. Chỉ tính riêng tại Bệnh viện K, mỗi tháng chẩn đoán mới khoảng 200 ca và trung bình mỗi năm có khoảng 2.400 người mắc mới ung thư đại trực tràng.
+Nếu như trước đây, người mắc ung thư đại trực tràng thường gặp ở độ tuổi trên 50 thì giờ đây căn bệnh này có xu hướng trẻ hóa. Khoa từng phẫu thuật cho bệnh nhân mới 10, 12 tuổi.
+Cũng như nhiều bệnh ung thư khác điều đáng tiếc là có đến hơn 70% bệnh nhân ung thư đại trực tràng đến khám ở giai đoạn muộn (giai đoạn 3-4).
+Việc khám sàng lọc để phát hiện sớm ung thư đại trực tràng tại cộng đồng có ý nghĩa cực kỳ quan trọng. Trong đó riêng việc theo dõi và cắt polyp thường xuyên có thể giúp giảm tới 80% ung thư đại trực tràng. Theo thống kê, các loại đa polyp đại trực tràng nếu không được can thiệp sẽ có khoảng 50% chuyển thành ung thư.
+Để sàng lọc bệnh có thể làm giải trình tự gen tìm đột biến gen APC, test tìm máu trong phân, nội soi đại trực tràng ống mềm…
+Một số bệnh lý được coi là tổn thương tiền ung thư cũng cần lưu ý như: viêm loét đại trực tràng mãn tính (nguy cơ phát triển ung thư 20-25%), bệnh Crohn, polyp có kích thước lớn có nguy cơ hóa ung thư rất cao, bệnh polyp gia đình, tiền sử gia đình…

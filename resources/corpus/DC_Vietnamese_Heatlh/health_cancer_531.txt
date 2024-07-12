@@ -1,0 +1,18 @@
+# doc_id = health_cancer_531
+# url = https://dantri.com.vn/suc-khoe/lam-the-nao-bac-si-biet-ban-mac-ung-thu-thuc-quan-20230201214236211.htm
+# date = 20230201
+Làm thế nào bác sĩ biết bạn mắc ung thư thực quản?
+Nếu có các dấu hiệu của ung thư thực quản, có thể cần làm các xét nghiệm dưới đây theo Bệnh viện Ung bướu Hà Nội:
+Uống bari:Đây đôi khi là xét nghiệm đầu tiên được thực hiện ở những người bị khó nuốt. Đó là một loạt các phim X-quang được chụp sau khi bạn nuốt bari, một chất lỏng sánh màu trắng có khả năng hiện diện trên phim X-quang. Bất kỳ khối u nào trên lớp lót bên trong của thực quản đều xuất hiện trên phim X-quang.
+Ở giai đoạn đầu, ung thư thực quản gần như không có triệu chứng (Ảnh: H.L).
+Nội soi thực quản-dạ dày:Để thực hiện xét nghiệm này, một ống mỏng, linh hoạt với đèn nhỏ và máy quay video ở cuối được đưa vào miệng và đi xuống thực quản và dạ dày của bạn. Nếu có bất kỳ điểm nào trông giống như ung thư, một mảnh mô nhỏ có thể được lấy ra qua ống và kiểm tra ung thư. Đây được gọi làsinh thiết.
+Chụp CT:Đây còn được gọi là chụp CAT. Nó giống như X-quang nhưng hình ảnh chi tiết hơn. Điều này có thể cho thấy ung thư ở đâu trong thực quản và xem nó đã lan rộng chưa. Chụp CT cũng có thể được sử dụng để giúp làm sinh thiết.
+Chụp MRI:Xét nghiệm này sử dụng sóng radio và từ trường mạnh thay vì X-quang để tạo nên bức ảnh chi tiết. Nó có thể được sử dụng để xem liệu các hạch bạch huyết gần đó có bị sưng hay không, điều đó có thể có nghĩa là ung thư đã lan rộng ở đó.
+Chụp PET:Chụp PET sử dụng một loại đường có thể nhìn thấy bên trong cơ thể bạn bằng một máy ảnh đặc biệt. Nếu có ung thư, loại đường này xuất hiện dưới dạng "điểm nóng" nơi ung thư được tìm thấy. Nó có thể giúp phát hiện nếu ung thư đã lan tràn.
+Xét nghiệm máu:Xét nghiệm máu không được dùng để tìm ung thư thực quản, nhưng giúp bác sĩ có thêm thông tin sức khỏe của bạn.
+Sinh thiết
+Trong sinh thiết, bác sĩ lấy ra một mảnh mô nhỏ nơi nghi có ung thư. Các mô được kiểm tra xemcó tế bào ung thư không. Sinh thiết là cách duy nhất để biết chắc chắn bạn có bị ung thư hay không. Đối với ung thư thực quản, sinh thiết thường được thực hiện trong quá trình nội soi.
+Phân độ mô học ung thư thực quản
+Các tế bào ung thư được phân độ (một số từ 1 đến 3) dựa trên mức độ chúng trông giống như các tế bào bình thường. Các tế bào trông rất khác so với các tế bào bình thường được phân là độ cao (3) và có xu hướng phát triển nhanh hơn. Biết được độ mô học ung thư giúp các bác sĩ dự đoán ung thư có khả năng phát triển và lan tràn nhanh như thế nào và cũng giúp quyết định phương pháp điều trị nào là tốt nhất cho bạn.
+Xét nghiệm gen và protein
+Các tế bào ung thư trong mô sinh thiết có thể được kiểm tra các gen hoặc protein như HER2, PD-L1, MMR và MSI. Biết ung thư của bạn có gen hoặc protein nào có thể giúp bác sĩ quyết định xem các phương pháp điều trị như liệu pháp trúng đích hoặc liệu pháp miễn dịch có thể sử dụng không.

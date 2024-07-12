@@ -1,0 +1,11 @@
+# doc_id = health_cancer_612
+# url = https://dantri.com.vn/suc-khoe/mach-ban-cach-phat-hien-som-ung-thu-tuyen-giap-20221007204852139.htm
+# date = 20221007
+Mách bạn cách phát hiện sớm ung thư tuyến giáp
+Nhiều trường hợp ung thư tuyến giáp có thể được phát hiện sớm. Trên thực tế, hầu hết các bệnh ung thư tuyến giáp hiện nay được phát hiện sớm hơn nhiều so với trước đây và có thể được điều trị thành công.
+Theo Hiệp hội Ung thư Mỹ, hầu hết các bệnh ung thư tuyến giáp giai đoạn đầu được phát hiện khi bệnh nhân đến gặp bác sĩ vì các khối u hoặc nốt sần ở cổ mà họ nhận thấy. Nếu bạn có các triệu chứng như một khối u hoặc sưng ở cổ, bạn nên đến gặp bác sĩ ngay lập tức.
+Các bệnh ung thư tuyến giáp khác được phát hiện bởi các bác sĩ khi bệnh nhân kiểm tra sức khỏe định kỳ.
+Ung thư tuyến giáp sớm đôi khi cũng được phát hiện khi mọi người làm các xét nghiệm hình ảnh, chẳng hạn như siêu âm hoặc chụp CT để tìm các vấn đề sức khỏe khác.
+Xét nghiệm máu hoặc siêu âm tuyến giáp thường có thể tìm thấy những thay đổi trong tuyến giáp. Tuy nhiên, những xét nghiệm này không được khuyến khích làm xét nghiệm sàng lọc ung thư tuyến giáp trừ khi một người có nguy cơ gia tăng, chẳng hạn như có tiền sử gia đình bị ung thư tuyến giáp. Không có xét nghiệm sàng lọc nào được khuyến nghị để phát hiện sớm ung thư tuyến giáp cho những người có nguy cơ trung bình.
+Những người có tiền sử gia đình mắc bệnh ung thư tuyến giáp thể tủy (MTC), có hoặc không có đa u tuyến nội tiết túyp 2 (MEN 2), có thể có nguy cơ mắc bệnh ung thư này rất cao. Hầu hết các bác sĩ đề nghị xét nghiệm gen cho những người này khi họ còn trẻ để xem liệu họ có mang những thay đổi gen liên quan đến MTC hay không.
+Đối với những người có nguy cơ mắc bệnh nhưng không được xét nghiệm di truyền, xét nghiệm máu và siêu âm tuyến giáp có thể giúp tìm ra MTC ở giai đoạn đầu, khi bệnh vẫn có thể chữa khỏi.

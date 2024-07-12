@@ -1,0 +1,16 @@
+# doc_id = health_cancer_287
+# url = https://dantri.com.vn/suc-khoe/ung-thu-phoi-lieu-co-di-truyen-khong-20221228074605005.htm
+# date = 20221228
+Ung thư phổi liệu có di truyền không?
+Diễn tiến âm thầm và tiên lượng xấu là những đặc điểm quan trọng của loại ung thư này. Người bệnh có thể đến khám vì ho kéo dài, ho ra máu, khó thở, đau ngực, đau xương...
+Hơn 50% trường hợp bệnh nhân khi chẩn đoán đã ở giai đoạn di căn, tức các tế bào ung thư đã lan tràn ở phổi và các cơ quan khác của cơ thể. Tiên lượng khả năng sống được 5 năm của các trường hợp này rất thấp, chỉ khoảng 6%.
+TheoVerywell Health, ước tính có khoảng 8% trường hợp ung thư phổi có liên quan đến yếu tố di truyền (so với 80% đến 90% trường hợp có liên quan đến hút thuốc lá). Cũng như việc có một số đột biến gen di truyền, tiềnsử có các thành viên trong gia đình được chẩn đoán mắc ung thư phổi có thể làm tăng nguy cơ mắc bệnh. Tuy nhiên, điều đó không đảm bảo rằng bạn sẽ phát triển bệnh.
+Nghiên cứu cho thấy di truyền có nhiều khả năng đóng một vai trò trong việc phát triển ung thư phổi ở những người dưới 50 tuổi, phụ nữ và những người chưa bao giờ hút thuốc.
+Hiện nay, một số gen có liên quan tớibệnh ung thưphổi được xác định gồm:
+Gen EGFR:Đột biến gen EGFR T790M ở tế bào dòng mầm làm tăng nguy cơ phát triển ung thư phổi, đặc biệt ở người không hút thuốc. Đột biến rất hiếm tuy nhiên được ước tính làm tăng nguy cơ mắc ung thư phổi ở những người không hút thuốc lên 31%.
+Gen TP53:Đây là gen ức chế khối u. Đột biến gen TP53 ở các tế bào dòng mầm làm mất khả năng ức chế khối u do đó tăng nguy cơ xuất hiện ung thư ở nhiều cơ quan trong đó có ung thư phổi và ung thư thường khởi phát sớm.
+Hội chứng Li-Fraumeni là hội chứng di truyền hiếm gặp liên quan đến đột biến này. Các khối u liên quan đến hội chứng này bao gồm ung thư vú, sarcoma mô mềm, sarcoma xương, u não và ung thư biểu mô vỏ thượng thận.
+Ung thư phổi xảy ra ở 2,3-6,8% bệnh nhân mắc hội chứng Li-Fraumeni thường là nam giới, với độ tuổi trung bình khi được chẩn đoán là 48 tuổi. Trong một số báo cáo, đột biến EGFR đã được phát hiện ở những bệnh nhân mắc hội chứng Li-Fraumeni phát triển ung thư phổi. Việc mất chức năng p53 có thể giải phóng trình tự khởi động của gen EGFR và làm cho gen này dễ bị đột biến hơn.
+Gen BRCA:Đột biến gen BRCA ở tế bào dòng mầm thường được nhắc tới trongung thư vúvà buồng trứng di truyền. Tuy nhiên, những người mang đột biến gen này cũng có nguy cơ mắc một số loại ung thư khác như phổi, thận, gan.
+Gen HER2:là một gen gây ung thư trong họ EGFR. Nó biểu hiện quá mức ở bệnh nhân ung thư vú với tần suất 15-20%. Tuy nhiên, trong ung thư phổi, đột biến soma của HER2 là rất hiếm. Những đột biến như vậy được tìm thấy trong 1,6-2,5% các trường hợp ung thư phổi không tế bào nhỏ. Chúng thường gặp ở nữ giới, châu Á, không hút thuốc, ung thư biểu mô tuyến, có liên quan đến đáp ứng điều trị kém.
+Một số gen khác: HER2, YAP1, CHECK2… Các đột biến gen này ở tế bào dòng mầm cũng có liên quan tới việc hình thành ung thư phổi.

@@ -1,0 +1,11 @@
+# doc_id = health_cancer_227
+# url = https://dantri.com.vn/suc-khoe/co-phat-hien-duoc-som-u-nguyen-bao-than-khong-20220710135540079.htm
+# date = 20220710
+Có phát hiện được sớm u nguyên bào thận không?
+Theo Hiệp hội Ung thư Hoa Kỳ, các khối u Wilms thường được tìm thấy khi chúng bắt đầu gây ra các triệu chứng như sưng tấy ở vùng bụng, nhưng đến thời điểm này chúng đã phát triển khá lớn. Chúng có thể được phát hiện sớm hơn ở một số trẻ bằng các xét nghiệm như siêu âm bụng.
+Nhưng vì khối u này rất hiếm, nên việc sử dụng siêu âm để sàng lọc tất cả trẻ em là không thực tế. Không có xét nghiệm máu hoặc các xét nghiệm khác hữu ích trong việc sàng lọc những đứa trẻ khỏe mạnh về khối u Wilms.
+Mặt khác, việc sàng lọc là rất quan trọng đối với những trẻ có hội chứng hoặc dị tật bẩm sinh là có liên quan đến u nguyên bào thận. Đối với những trẻ này, hầu hết các bác sĩ khuyên gia đình đưa con đi khám sức khỏe với các bác sĩ chuyên khoa và siêu âm thận thường xuyên (ví dụ, khoảng 3 hoặc 4 tháng một lần, ít nhất cho đến khi 7 tuổi). Mục đích là tìm bất kỳ khối u thận nào khi chúng còn nhỏ và chưa lây lan sang các cơ quan khác.
+U nguyên bào thận cũng có thể có yếu tố gia đình mặc dù trường hợp này rất hiếm. Hãy nói chuyện với bác sĩ nếu trong gia đình bạn có bất kỳ người thân nào từng có khối u Wilms. Nếu bạn bị như vậy, những đứa trẻ trong gia đình có thể phải đi siêu âm bụng thường xuyên.
+Nếu một người có đột biến gen WT1, xét nghiệm di truyền có thể được thực hiện để xem liệu họ có truyền đột biến này cho con cái của họ hay không.
+Điều trị u Wilms là mô hình đặc trưng phối hợp đa phương pháp trong các loại ung thư trẻ em. Hầu hết trẻ bị u Wilms được đưa tới viện do gia đình nhận thấy bụng to hoặc thấy khối u ở bụng, thường phát hiện khi tắm hoặc mặc quần áo cho trẻ. Đau bụng, đái máu đại thể và sốt là những biểu hiện thường gặp khác.
+Tăng huyết áp cũng thường gặp do tăng hoạt tính của renin. Các biểu hiện hiếm gặp bao gồm nhiễm trùng đường tiết niệu, sút cân, nôn, buồn nôn, mệt mỏi, đau xương, thiểu niệu hoặc đa niệu. Do ít khi có di căn xa nên các triệu chứng của di căn cũng rất ít gặp.

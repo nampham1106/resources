@@ -1,0 +1,14 @@
+# doc_id = health_cancer_200
+# url = https://dantri.com.vn/suc-khoe/nhung-dieu-can-luu-y-sau-khi-xa-tri-ung-thu-tuyen-giap-20221031180534353.htm
+# date = 20221031
+Những điều cần lưu ý sau khi xạ trị ung thư tuyến giáp
+Tùy thuộc vào giai đoạn của ung thư tuyến giáp mà bác sĩ sẽ có chỉ định khác nhau trong đó phổ biến nhất là sử dụng xạ trị bằng iod phóng xạ hoặc xạ trị bên ngoài…
+Iod là một khoáng chất mà cơ thể sử dụng để tổng hợp ra hóc môn tuyến giáp. Tất cả iod trong cơ thể đều đến từ chế độ ăn uống. Hầu hết iod trong chế độ ăn uống của chúng ta đến từ muối iod và các sản phẩm khác được chế biến có bổ sung iod. Chỉ một số loại thực phẩm (chẳng hạn như rong biển, sữa và một số loại cá) có chứa iod một cách tự nhiên.
+Tuyến giáp hấp thụ hầu hết iod trong cơ thể. Vì thế iod phóng xạ (I-131) thường được dùng điều trịung thưtuyến giáp. Các tế bào nang giáp bắt giữ iod phóng xạ, bức xạ ion hóa từ iod phóng xạ có thể phá hủy tuyến giáp và những vị trí có tế bào giáp (bao gồm cả tế bào ung thư) có khả năng lưu giữ iod phóng xạ, nhưng ít ảnh hưởng đến các bộ phận khác trong cơ thể. Để điều trị ung thư giáp cần liều iod phóng xạ lớn hơn nhiều so với liều dùng trong phương pháp xạ hình xác định ung thư tuyến giáp.
+Phương pháp điều trị này được dùng để hủy mô giáp khi chưa thể phẫu thuật triệt để, hoặc trong các thể ung thư tuyến giáp đã có di căn hạch và di căn tới các cơ quan khác trong cơ thể.
+Theo Trung tâm Y tế, Đại học Washington (Mỹ), trong khoảng 2 tiếng trước và sau khi uống, bạn không nên ăn đồ rắn hay uống bất cứ loại nước gì trừ nước. Bạn có thể ăn sáng trước khi đến bệnh viện, song lưu ý là ăn sớm trước 2 tiếng trước giờ uống thuốc.
+Người bệnh sau khi uống iod cần uống nhiều nước và đi tiểu thường xuyên, đi vệ sinh tại phòng vệ sinh riêng trong khu vực cách ly và xả nước nhiều lần, tránh để dây rớt ra quần áo, giày dép hoặc môi trường xung quanh.
+Không khạc nhổ bừa bãi, khi bị nôn phải sử dụng túi đựng chất nôn và để vào nơi quy định tránh gây ô nhiễm phóng xạ cho môi trường.
+Thông thường sau 1-3 ngày điều trị bằng iod phóng xạ, bệnh nhân có thể bắt đầu lại chế độ ăn iod như bình thường. Tuy nhiên, khoảng thời gian trên có thể thay đổi ở một số bệnh nhân.
+Cơ thể người bệnh sẽ đào thải bức xạ sau khi điều trị iod phóng xạ một thời gian. Tùy thuộc vào liều và cơ sở y tế điều trị mà người bệnh có thể phải ở trong viện vài ngày sau điều trị, trong phòng riêng để ngăn phơi nhiễm phóng xạ với những người khác. Một số người bệnh có thể không cần nằm viện.
+Khi người bệnh trở về nhà sau điều trị, họ sẽ được hướng dẫn làm thế nào để bảo vệ những người xung quanh giảm ảnh hưởng của phóng xạ và thực hiện điều này trong thời gian bao lâu. Những hướng dẫn này có thể thay đổi đôi chút tùy thuộc vào cơ sở điều trị. Người bệnh cần chắc chắn đã hiểu rõ các hướng dẫn trước khi ra viện.

@@ -1,0 +1,9 @@
+# doc_id = health_cancer_072
+# url = https://dantri.com.vn/suc-khoe/bi-ung-thu-tuy-song-duoc-bao-lau-20210102102924082.htm
+# date = 20210102
+Bị ung thư tụy sống được bao lâu?
+Ung thư tuyến tụy là những tổn thương ác tính xuất phát từ bất kỳ thành phần nào của mô tụy, bao gồm các tế bào của mô tụy ngoại tiết, tế bào tụy nội tiết (tế bào đảo Langerhans) và các tế bào thuộc mô liên kết của tụy. Trên 95% ung thư tụy có nguồn gốc từ mô tụy ngoại tiết (gồm tế bào biểu mô ống tụy, tế bào "acinar", tế bào mầm, …) trong đó khoảng 85% là xuất phát từ tế bào biểu mô ống tụy ngoại tiết; còn lại ung thư xuất phát từ tế bào tụy nội tiết và của mô liên kết rất hiếm gặp.
+Theo thống kê của Tổ chức Y tế Thế giới, ung thư tụy chỉ đứng thứ 14 về tỷ lệ mắc (458.918 ca mắc/năm), tuy nhiên ung thư tụy lại đứng hàng thứ 7 về tỷ lệ tử vong do ung thư (432.242 ca tử vong/năm).
+Theo BS Lê Công Định, khoa Nội II, Bệnh viện Ung bướu Hà Nội, điều này cho thấy tiên lượng của ung thư tụy rất xấu, trên thực tế tỷ lệ sống trung bình sau 5 năm của ung thư tụy chỉ khoảng 9.3%. Nguyên nhân chủ yếu khiến ung thư tụy có tiên lượng xấu so với ung thư tiêu hóa khác là bởi tụy có vị trí đặc biệt ở rất sâu trong ổ bụng, triệu chứng lâm sàng nghèo nàn lại dễ nhầm với bệnh khác nên người bệnh thường được chẩn ở giai đoạn muộn. Tại Mỹ, chỉ 10% bệnh nhân ung thư tụy được chẩn đoán ở giai đoạn sớm, trong khi đó 53% bệnh nhân được chẩn đoán ở giai đoạn IV khi đã có di căn xa.
+Khi phát hiện ung thư tụy, bệnh nhân thường đã ở giai đoạn 3, giai đoạn 4. Tỷ lệ sống sót 8,5% cũng đã là con số nhiều.
+Thông thường, bệnh nhân mắc ung thư tụy và đã có triệu chứng lâm sàng khi đến Bệnh viện Nhân dân 115 (TP HCM) thì tỷ lệ tử vong khoảng 95% trong những năm đầu tiên, tỷ lệ sống sót sau 5 năm chỉ 5%. Tuy nhiên, bệnh nhân phải trải qua một cuộc phẫu thuật lớn, cắt rất nhiều cơ quan ở trong ổ bụng khiến chất lượng sống rất kém.

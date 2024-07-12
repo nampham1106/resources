@@ -1,0 +1,7 @@
+# doc_id = health_cancer_535
+# url = https://dantri.com.vn/suc-khoe/phuong-phap-kich-hoat-mien-dich-de-ngan-te-bao-ung-thu-nao-lay-lan-20210422155209922.htm
+# date = 20210422
+Phương pháp kích hoạt miễn dịch để ngăn tế bào ung thư não lây lan
+Nghiên cứu được công bố trên tạp chí Nature Communications. Trước tiên, các nhà khoa học xác định hệ miễn dịch của não bị trục trặc, dẫn đến sự gia tăng quá trình phân chia tế bào, từ đó phát tán tế bào ung thư của u nguyên bào thần kinh đệm - một loại ung thư não phát triển nhanh và xâm lấn.
+Theo các nhà nghiên cứu, hệ miễn dịch của con người gặp vấn đề bất thường một phần là do cơ thể tiết ra một loại protein gọi là P-selectin. Thông thường, protein này có chức năng giúp các tế bào di chuyển bên trong cơ thể. Tuy nhiên, khi tiếp xúc với các tế bào miễn dịch của não, protein này có thể sẽ bị thay đổi chức năng. Ví dụ như, thay vì ức chế sự lây lan của các tế bào ung thư, chúng lại tạo điều kiện cho các tế bào ung thư liên tục sản sinh và xâm nhập vào các mô não.
+Từ những hiểu biết theo hướng này, các nhà nghiên cứu đang tìm cách ức chế sự bài tiết của protein kể trên, từ đó có thể "vô hiệu hóa" vấn đề phát sinh trong hệ thống miễn dịch, cũng như ngăn chặn tối đa sự lây lan của các tế bào ung thư quái ác này.

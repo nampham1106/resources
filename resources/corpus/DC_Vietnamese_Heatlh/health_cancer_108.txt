@@ -1,0 +1,13 @@
+# doc_id = health_cancer_108
+# url = https://dantri.com.vn/suc-khoe/moi-lien-he-giua-ung-thu-tuyen-giap-va-ung-thu-vu-20220624153710648.htm
+# date = 20220624
+Mối liên hệ giữa ung thư tuyến giáp và ung thư vú
+Một số nghiên cứu đã chỉ ra mối liên quan này nhưng không rõ tại sao mối liên hệ tiềm năng này lại tồn tại. Không phải tất cả những người mắc một trong những bệnh ung thư này đều sẽ phát triển bệnh ung thư còn lại, hoặc ung thư thứ hai.
+Nghiên cứu nói lên điều gì?
+Theo Healthline, các nhà nghiên cứu đã xem xét 37 nghiên cứu được đánh giá ngang hàng chứa dữ liệu về mối quan hệ giữa ung thư vú và ung thư tuyến giáp.
+Họ đã lưu ý trong một bài báo năm 2016 rằng một phụ nữ bị ung thư vú có nguy cơ phát triển ung thư tuyến giáp thứ hai cao hơn 1,55 lần so với một phụ nữ không có tiền sử ung thư vú.
+Một phụ nữ bị ung thư tuyến giáp có nguy cơ phát triển ung thư vú cao hơn 1,18 lần so với một phụ nữ không có tiền sử ung thư tuyến giáp.
+Các nhà nghiên cứu không chắc chắn về mối liên hệ giữa ung thư vú và ung thư tuyến giáp. Một số nghiên cứu đã chỉ ra nguy cơ phát triển bệnh ung thư thứ hai tăng lên sau khi iod phóng xạ được sử dụng để điều trị ung thư tuyến giáp.
+Iod thường được coi là an toàn, nhưng nó có thể gây ra bệnh ung thư thứ hai ở một số ít người. Bức xạ được sử dụng để điều trị một số dạng ung thư vú có thể làm tăng nguy cơ phát triển ung thư tuyến giáp.
+Một số đột biến di truyền nhất định như đột biến dòng mầm có thể liên kết hai dạng ung thư. Các yếu tố về lối sống như tiếp xúc với bức xạ, chế độ ăn uống nghèo nàn và lười vận động, cũng có thể làm tăng nguy cơ mắc cả hai bệnh ung thư.
+Một người bị ung thư vú có thể có nhiều khả năng được sàng lọc ung thư tuyến giáp hơn những người không có tiền sử ung thư. Ngoài ra, một người bị ung thư tuyến giáp có thể có nhiều khả năng được tầm soát ung thư vú hơn những người không có tiền sử ung thư.

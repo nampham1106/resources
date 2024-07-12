@@ -1,0 +1,26 @@
+# doc_id = health_cancer_250
+# url = https://dantri.com.vn/suc-khoe/cac-bien-phap-dieu-tri-ung-thu-tu-cung-20221221095640077.htm
+# date = 20221221
+Các biện pháp điều trị ung thư tử cung
+Phương pháp điều trị được xác định dựa trên loại ung thư, giai đoạn, tuổi bệnh nhân và sức khỏe tổng thể cũng như mong muốn sinh con. Các tế bào ung thư cũng được kiểm tra để xác định liệu một số phương pháp điều trị chẳng hạn như liệu pháp hormone có hiệu quả hay không.
+Các quyết định điều trị về thuốc trúng đích cũng có thể dựa trên đặc điểm di truyền của tế bào.
+Phẫu thuật là cách điều trị đầu tiên với ung thư tử cung (Ảnh: H.L).
+Phẫu thuật
+Theo Verywell Health, thông thường, phẫu thuật là phương pháp điều trị đầu tiên đối với ung thư tử cung. Mục tiêu của phẫu thuật là loại bỏ khối u và một số mô khỏe mạnh xung quanh (được gọi là rìa).
+Các phẫu thuật có thể được thực hiện để điều trị ung thư tử cung bao gồm:
+- Cắt bỏ tử cung đơn giản: Cắt bỏ tử cung và cổ tử cung.
+- Cắt bỏ tử cung triệt để: Loại bỏ tử cung, cổ tử cung, phần trên của âm đạo và các mô lân cận.
+- Cắt bỏ vòi trứng-buồng trứng hai bên: Đối với những người đã trải qua thời kỳ mãn kinh, cả hai ống dẫn trứng và buồng trứng đều được cắt bỏ cùng lúc với phẫu thuật cắt bỏ tử cung.
+- Cắt bỏ hạch bạch huyết: Để xác định xem ung thư đã lan ra ngoài tử cung hay chưa, bác sĩ phẫu thuật có thể loại bỏ các hạch bạch huyết gần khối u trong quá trình cắt bỏ tử cung.
+Xạ trị
+Xạ trị có thể được thực hiện bên ngoài (xạ trị chùm tia bên ngoài, được gọi là EBRT) hoặc bên trong (xạ trị áp sát). Xạ trị thường được thực hiện sau phẫu thuật để tiêu diệt các tế bào ung thư còn sót lại, nhưng đôi khi nó được thực hiện trước khi phẫu thuật để thu nhỏ khối u. Đôi khi nó được sử dụng nếu ai đó không thể phẫu thuật.
+Hóa trị
+Hóa trị là một loại thuốc tiêu diệt tế bào ung thư, thường bằng cách ngăn không cho tế bào phân chia để tạo ra nhiều tế bào hơn. Để điều trị ung thư tử cung, hóa trị liệu được bắt đầu sau khi phẫu thuật hoặc nếu ung thư quay trở lại sau khi điều trị ban đầu.
+Liệu pháp hormone
+Nội tiết tố hoặc thuốc ngăn chặn nội tiết tố có thể được sử dụng để điều trị ung thư, đặc biệt là ung thư nội mạc tử cung tiến triển (giai đoạn III hoặc IV) hoặc tái phát sau khi điều trị.
+Điều trị đích
+Liệu pháp đích nhắm vào các gen, protein hoặc môi trường mô cụ thể góp phần vào sự phát triển và sống sót của ung thư, ngăn chặn sự phát triển và lây lan của các tế bào ung thư với tác động hạn chế lên các tế bào khỏe mạnh.
+Liệu pháp này thường được dành riêng cho ung thư giai đoạn IV khi các phương pháp điều trị khác không thể làm chậm tiến triển.
+Liệu pháp miễn dịch
+Còn được gọi là liệu pháp sinh học, mục tiêu của liệu pháp miễn dịch là tăng cường khả năng phòng vệ tự nhiên của cơ thể để chống lại ung thư bằng cách sử dụng các vật liệu do cơ thể hoặc trong phòng thí nghiệm tạo ra để cải thiện, nhắm mục tiêu hoặc khôi phục chức năng hệ thống miễn dịch.
+Liệu pháp miễn dịch thường được sử dụng cho bệnh ung thư tử cung tiến triển hoặc khi các phương pháp điều trị khác không hiệu quả.

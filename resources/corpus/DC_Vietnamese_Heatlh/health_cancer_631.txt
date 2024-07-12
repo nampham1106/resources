@@ -1,0 +1,18 @@
+# doc_id = health_cancer_631
+# url = https://dantri.com.vn/suc-khoe/moi-lien-he-giua-viem-loet-dai-trang-va-ung-thu-20220413194213525.htm
+# date = 20220413
+Mối liên hệ giữa viêm loét đại tràng và ung thư
+Nghiên cứu cho thấy những người bị viêm loét đại tràng có nguy cơ cao bị ung thư đại trực tràng (ung thư bắt đầu từ ruột kết hoặc trực tràng). Mức độ rủi ro có thể khác nhau tùy thuộc vào thời gian một người đã mắc viêm loét đại tràng, mức độ viêm nghiêm trọng liên quan đến tình trạng bệnh và mức độ ảnh hưởng của ruột già bởi căn bệnh này.
+Theo Verywell, do nguy cơ này, điều quan trọng đối với những người sống với bệnh viêm loét đại tràng là phải thường xuyên tầm soát ung thư đại trực tràng. Số lượng bệnh nhân viêm loét đại tràng được chẩn đoán mắc bệnh ung thư đại trực tràng đã giảm trong những năm gần đây và người ta tin rằng việc tầm soát chủ động hơn đã đóng một vai trò trong sự suy giảm này.
+Những người sống với bệnh viêm loét đại tràng có nguy cơ được chẩn đoán mắc bệnh ung thư đại trực tràng cao gấp 4 đến 10 lần so với dân số chung.
+Điều này là do bệnh nhân viêm loét đại tràng có mức độ viêm cao hơn trong đại tràng và tăng nguy cơ phát triển các polyp viêm (phát triển bất thường) trong niêm mạc của đại tràng hoặc trực tràng. Phần lớn các polyp là lành tính (không phải ung thư), nhưng theo thời gian, một số polyp có thể trở thành ung thư.
+Nguy cơ chính xác của ung thư đại trực tràng đối với những người có viêm loét đại tràng thay đổi tùy thuộc vào ba yếu tố sau:
+- Thời gian mắc bệnh: Người ta tin rằng nguy cơ phát triển ung thư đại trực tràng bắt đầu tăng từ 8 đến 10 năm sau khi bắt đầu xuất hiện các triệu chứng viêm loét đại tràng. Một phân tích tổng hợp (phân tích thống kê dữ liệu của các nghiên cứu ban đầu) của 116 nghiên cứu cho thấy rằng 10 năm sau khi khởi phát, nguy cơ là 1,6%; 20 năm sau, nó tăng lên 8,3%; và 30 năm sau khi khởi phát, nó tăng lên 18,4%.
+- Mức độ nghiêm trọng của tình trạng viêm: Tình trạng viêm nhiễm càng nhiều ở đại tràng hoặc trực tràng thì càng có nhiều tổn thương đối với các tế bào trong niêm mạc ruột kết. Điều này gây ra sự luân chuyển tế bào nhiều hơn, tạo cơ hội cho các đột biến trong DNA của những tế bào này có thể dẫn đến ung thư.
+- Mức độ ảnh hưởng của đại tràng: Những người có viêm loét toàn bộ đại tràng có nguy cơ cao nhất. Nếu viêm loét chỉ ảnh hưởng đến phần bên trái của đại tràng, nguy cơ phát triển ung thư thấp hơn. Và những người chỉ có viêm loét ở trực tràng không có nguy cơ cao bị ung thư đại trực tràng.
+Các yếu tố rủi ro khác
+Ngoài viêm loét đại tràng, có một số yếu tố nguy cơ có thể góp phần vào sự phát triển của ung thư đại trực tràng. Các yếu tố rủi ro có thể có khác là:
+- Tiền sử gia đình có người bị ung thư ruột, ngay cả khi thành viên trong gia đình bị ung thư cũng không bị viêm loét đại tràng.
+- Trên 50 tuổi.
+- Bị viêm đường mật xơ cứng nguyên phát (PSC), một bệnh gan hiếm gặp, phát triển ở khoảng 1 trong 25 bệnh nhân viêm loét đại tràng.
+- Là nam.

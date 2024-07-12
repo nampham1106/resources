@@ -1,0 +1,16 @@
+# doc_id = health_cancer_559
+# url = https://dantri.com.vn/suc-khoe/dieu-tri-ung-thu-tuyen-tien-liet-khi-nao-phai-cat-tinh-hoan-20230131104602323.htm
+# date = 20230131
+Điều trị ung thư tuyến tiền liệt khi nào phải cắt tinh hoàn?
+PGS.TS Phạm Cẩm Phương, Giám đốc Trung tâm Y học hạt nhân và ung bướu (Bệnh viện Bạch Mai) cho biết, ung thư tuyến tiền liệt (UTTTL) là khối u ác tính xuất phát từ tế bào biểu mô của tuyến tiền liệt. UTTTL thường di căn sang các bộ phận khác của cơ thể, đặc biệt là vào xương và các hạch bạch huyết…
+Căn bệnh này cũng có thể gây đau đớn và khó khăn trong việc đi tiểu, quan hệ tình dục, hoặc rối loạn chức năng cương dương…
+Tuy nhiên, có đến hơn 90% trường hợp ung thư tiền liệt tuyến là ung thư biểu mô tuyến, chủ yếu là loại biệt hóa tốt. Với loại ung thư này, nếu phát hiện sớm, tỷ lệ khỏi bệnh đạt 90%.
+Các phương pháp điều trị bệnh UTTTL hiện nay, bao gồm:
+- Phẫu thuật (phẫu thuật mở, nội soi), cắt lạnh.
+- Nội tiết (cắt bỏ tinh hoàn bằng phẫu thuật hoặc bằng thuốc).
+- Hóa chất
+-Xạ trị (xạ chiếu ngoài, xạ áp sát).
+- Cấy hạt phóng xạ
+Với phương pháp cắt tinh hoàn thường được áp dụng khi bệnh nhân đang được điều trị bằng các biệt pháp kháng androgen mà có các biểu hiện bệnh tiến triển (tăng PSA, tiến triển tổn thương cũ, phát triển tổn thương mới) được xem là kháng cắt tinh hoàn.
+Cơ chế liên quan đến tình trạng này có thể do hoạt hóa thụ thể androgen của tế bào u tự tiết androgen, dựa vào các triệu chứng lâm sàng và xét nghiệm (PSA, testosterone), hình ảnh để xác định UTTTL kháng cắt tinh hoàn.
+UTTTL có diễn tiến kéo dài nên ngay cả các trường hợp kháng cắt tinh hoàn vẫn có cơ hội sống dài và tốt nhờ chiến lược điều trị đúng.

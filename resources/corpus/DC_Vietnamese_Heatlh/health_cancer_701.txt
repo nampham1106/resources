@@ -1,0 +1,13 @@
+# doc_id = health_cancer_701
+# url = https://dantri.com.vn/suc-khoe/nen-lua-chon-phuong-phap-tam-soat-ung-thu-co-tu-cung-nao-20221031165249269.htm
+# date = 20221031
+Nên lựa chọn phương pháp tầm soát ung thư cổ tử cung nào?
+Xét nghiệm Pap smear:Đây là xét nghiệm đơn giản, khi khám phụ khoa, soi cổ tử cung, bác sĩ sẽ lấy dịch âm đạo để tiến hành xét nghiệm. Xét nghiệm Pap được thực hiện nhằm tìm kiếm sự thay đổi trong các tế bào cổ tử cung, là một xét nghiệm rất đơn giản để tìm những biến đổi bất thường của tế bào cổ tử cung.
+Đây là xét nghiệm quan trọng, giúp bác sĩ phát hiện có bất thường tế bào hay không để tiến hành các xét nghiệm chuyên sâu, khẳng định bệnh.
+Xét nghiệm HPV:Là xét nghiệm rất có giá trị trong sàng lọc ung thư cổ tử cung. Bởi virus HPV là thủ phạm chính gây ung thư cổ tử cung (99,7%), lây truyền qua đường tình dục. Bình thường, HPV có hơn 100 type nhưng 14 type có nguy cơ cao gây ra loại ung thư này. Trong đó, có 2 type nguy cơ cao nhất là type 16 và type 18.
+Khi xét nghiệm HPV sẽ cho biết bạn có nhiễm virus này không để bác sĩ đưa ra đánh giá nguy cơ để kiểm soát tốt nhất, phát hiện sớm nhất diễn biến ung thư.
+Vì thế, các chuyên gia khuyến cáo nên thực hiện kết hợp xét nghiệm HPV với xét nghiệm PAP- Smear giúp sàng lọc ung thư cổ tử cung hiệu quả cao nhất.
+Chị em cần lưu ý, đi thăm khám, làm xét nghiệm này trong lúc không có kinh nguyệt. Khoảng 2 ngày trước khi thử Pap không bôi kem hay đặt thuốc vào âm đạo. Không nên sinh hoạt tình dục trong vòng 1 -2 ngày trước khi thử Pap.
+Ngoài ra, nên thực hiện tiêm phòng vaccine ung thư cổ tử cung ở trẻ em gái để phòng nguy cơ nhiễm HPV.
+Việc sàng lọc, chẩn đoán phát hiện ra các tế bào bất thường trước khi chúng trở thành tế bào ung thư mang tới tỷ lệ điều trị bệnh thành công lên tới 80 - 90%. Càng phát hiện ở giai đoạn muộn hoặc bỏ lỡ thời điểm vàng của quá trình điều trị thì các tế bào bất thường phát triển mạnh hơn, hiệu quả điều trị sẽ giảm dần...
+Vì vậy, mọi phụ nữ đã có quan hệ tình dục đều nên thực hiện tầm soát ung thư cổ tử cung định kỳ để được phát hiện, điều trị sớm ngay khi bệnh ở giai đoạn đầu.

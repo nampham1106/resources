@@ -1,0 +1,23 @@
+# doc_id = health_consultation_513
+# url = https://dantri.com.vn/suc-khoe/buoc-dot-pha-moi-ve-cong-nghe-laser-trong-tri-nam-2024-20240415104031073.htm
+# date = 2024
+Bước đột phá mới về công nghệ laser trong trị nám 2024
+Những điều cần biết về nám mảng (Melasma)
+Nám mảng (Melasma) có xu hướng phát triển phức tạp hơn. Nguyên nhân là do ô nhiễm môi trường, áp lực công việc ngày càng cao, điều trị và chăm sóc da không đúng cách. Kết quả trị liệu thất bại không những làm mất thời gian, tài chính mà còn ảnh hưởng tiêu cực tới tâm lý và chất lượng cuộc sống của nhiều chị em.
+Nám Melasma trước và sau điều trị tại phòng khám Aeslatek (Ảnh: Aeslatek).
+Theo các chuyên gia, nám melasma là bệnh gây ra bởi đa nguyên nhân, trong đó có nhiều yếu tố tham gia trong quá trình sinh bệnh nên việc điều trị thường khó khăn. Việc điều trị chỉ dùng một loại thuốc hay một loại laser (phương pháp đơn trị liệu) thường không mang lại kết quả như mong muốn.
+Hiện nay, điều trị kết hợp các loại laser và thuốc phù hợp (đa trị liệu) là phương pháp điều trị hiệu quả đối với nám mảng và được áp dụng phổ biến. Trong đó có thể kể đến phương pháp Multi-Light (phương pháp trị liệu nám được cấp tác quyền năm 2019) hiện áp dụng tại phòng khám Aeslatek từ năm 2018.
+Bằng việc phối hợp nhiều loại laser phù hợp, cá nhân hóa phác đồ trị liệu đã mang lại kết quả vượt trội, bền vững và an toàn. Phương pháp Milti-Light theo hướng đa mô thức đã điều trị nhắm đúng đích vào các yếu tố gây nám.
+Sự phát triển của công nghệ Laser trong điều trị nám
+Đầu tiên, phương pháp laser toning được ứng dụng với laser Nd: YAG Q-switched (1064nm) có độ rộng xung cỡ nano giây (1 nano giây = 10-9 giây). Đây là kỹ thuật laser toning thế hệ 1. Với cơ chế quang nhiệt phá hủy chọn lọc ở mức dưới tế bào, tác động vào các melanosomes (có TRT = 1 μs), laser tonning thế hệ 1 thu được nhiều kết quả tốt nhưng tỷ lệ tái phát cao. Ngoài ra, tác dụng không mong muốn như đau, nề, xuất huyết, mất sắc tố, tăng sắc tố hay thậm chí sẹo được ghi nhận.
+Năm 2016, thế hệ các laser pico giây (1 pico giây = 10-12 giây: ps) được phát triển và ứng dụng trong lâm sàng. Đây là một tiến bộ mới về công nghệ laser và tạo ra kỹ thuật laser pico-toning trong trị nám (laser toning thế hệ 2). Kết quả trị liệu được ghi nhận cải thiện so với thế hệ cũ, giảm đáng kể tác dụng phụ không mong muốn như đau, phù nề, mất sắc tố.
+Tuy nhiên, tăng sắc tố vẫn được ghi nhận khi sử dụng phương pháp này. Các laser pico giây dùng cho kỹ thuật laser pico-toning phổ biến có độ rộng xung phổ biến lớn hơn 300ps. Về mặt cơ chế, với độ rộng xung này, các laser pico hiện nay tạo ra hiệu ứng quang cơ phá hủy chọn lọc với melanosome nhưng vẫn tạo ra hiệu ứng quang nhiệt. Khi còn hiệu ứng quang nhiệt chọn lọc phá hủy melanosome có thể dẫn đến làm tăng hoạt động của các tế bào sắc tố và có thể dẫn đến nguy cơ tăng sắc tố sau trị liệu.
+PGS.TS.BS Phạm Hữu Nghị (ngoài cùng bên trái) chia sẻ kinh nghiệm ứng dụng Laser PicoCare Majesty 250ps trong điều trị nám (Ảnh: Aeslatek).
+Bước đột phá mới về công nghệ Laser trong điều trị nám 2024
+Làm thế nào để loại bỏ hiệu ứng quang nhiệt trong phá hủy melanosome khi điều trị nám là bài toán đặt ra đối với các nhà nghiên cứu. Năm 2023, lần đầu tiên trên thế giới laser pico giây thực thụ (true pico) có thể phá hủy các melanosome hoàn toàn bằng hiệu ứng quang cơ ra đời.
+Về mặt khoa học, các laser có độ rộng xung từ 300 ps trở xuống được coi là các laser pico cận femto giây. Theo nghiên cứu thực nghiệm cho thấy khi độ rộng xung của laser nhỏ hơn 300 pico giây là ngưỡng phá hủy quang âm chọn lọc (SRT = 300 ps), tia laser sẽ phá hủy melanosome bằng hiệu ứng quang cơ mà không tạo ra hiệu ứng quang nhiệt.
+Đây là bước đột phá về công nghệ laser và kỹ thuật dùng các laser pico cận femto giây (độ rộng xung ≤ 300 ps) được xem như là kỹ thuật laser pico-toning thế hệ 3.
+Hình ảnh trước điều trị (MASI = 19.2) và sau 4 lần điều trị (MASI = 10.5, giảm 45.3%) (Ảnh: Aeslatek).
+Nghiên cứu của Lee S J và cộng sự, năm 2023, trên 87 bệnh nhân cho thấy laser 1064 nm với độ rộng xung 250ps có hiệu quả vượt trội trong điều trị melasma. Tại phòng khám Aeslatek, Laser PicoCare Majesty bước sóng 1.064nm, độ rộng xung 250ps đã được ứng dụng trong phác đồ Multi- Light điều trị melasma từ năm 2023.
+Đại diện phòng khám cho biết, bước đầu hiệu quả điều trị giảm sắc tố rõ rệt, các bệnh nhân nghiên cứu đều có tiến bộ với mức độ cải thiện khác nhau. Trong đó, khoảng 50% bệnh nhân có điểm định lượng mức độ nám da MASI (melasma area and severity index) giảm 30-50% sau 3-5 lần điều trị. Kết quả này vượt trội hơn sử dụng các laser pico giây với độ rộng xung trên 300ps (chuẩn FDA) và hứa hẹn sự đột phá trong điều trị Melasma năm 2024.
+Laser PicoCare Majesty được phân phối độc quyền bởi Bemed.vn.

@@ -1,0 +1,16 @@
+# doc_id = health_cancer_208
+# url = https://dantri.com.vn/suc-khoe/ung-thu-gan-co-lay-khong-20230131160353615.htm
+# date = 20230131
+Ung thư gan có lây không?
+Theo Viện Nghiên cứu Ung thư Mỹ, ung thư nói chung, ung thư gan nói riêng không phải là bệnh truyền nhiễm, dễ dàng lây lan từ người này sang người khác. Tình huống duy nhất mà ung thư có thể lây lan từ người này sang người khác là trong trường hợp cấy ghép cơ quan hoặc mô. Một người nhận nội tạng hoặc mô từ người hiến tặng đã bị ung thư trong quá khứ có thể tăng nguy cơ phát triển ung thư liên quan đến cấy ghép trong tương lai.
+Tuy nhiên, rủi ro đó là cực kỳ thấp - khoảng hai trường hợp ung thư trên 10.000 ca cấy ghép nội tạng. Các bác sĩ tránh sử dụng nội tạng hoặc mô từ những người hiến tặng có tiền sử ung thư.
+Ở một số người, ung thư có thể do một số loại virus gây ra như virus viêm gan B, C. Mặc dù virus có thể lây lan từ người này sang người khác nhưng bệnh ung thư mà đôi khi chúng gây ra không thể lây lan từ người này sang người khác.
+Một số yếu tố rủi ro phổ biến nhất được các bệnh viện ung thư liệt kê là::
+- Nhiễm trùng: Nhiễm trùng lâu dài với virus viêm gan B hoặc viêm gan C có liên quan đến ung thư gan.
+- Xơ gan: Xơ gan gây ra vấn đề trong hoạt động bình thường của gan, từ đó làm tăng nguy cơ ung thư gan. Xơ gan là do uống nhiều rượu hoặc nhiễm virus như viêm gan B hoặc C.
+- Rượu: Uống hơn 5 đơn vị rượu mỗi ngày có thể dẫn đến xơ gan và tăng nguy cơ ung thư.
+- Bệnh gan nhiễm mỡ không do rượu: Sự lắng đọng chất béo quá mức trong gan do béo phì hoặc tiểu đường gây tổn thương các tế bào bình thường của gan dẫn đến xơ gan. Người bị gan nhiễm mỡ có nguy cơ mắc ung thư gan cao gấp 5 lần người khác.
+- Tiền sử gia đình: Theo nghiên cứu, những thành viên trong gia đình bị ung thư gan có nguy cơ mắc ung thư gan cao gấp đôi so với những người khác.
+- Aflatoxin: Tiêu thụ thực phẩm bị ô nhiễm dẫn đến việc tiếp xúc với nấm gọi là aflatoxin. Năm 1988, IARC đã xếp aflatoxin B1 vào danh sách các chất gây ung thư ở người.
+- Trầu cau: Theo Cơ quan Nghiên cứu Ung thư Quốc tế và Tổ chức Y tế Thế giới nhai trầu cau làm tăng nguy cơ ung thư gan.
+- Hóa chất: Tiếp xúc lâu dài với các hóa chất như vinyl chloride được sử dụng để sản xuất nhựa, bao bì và ống dẫn có thể dẫn đến tổn thương gan và tăng khả năng ung thư gan.

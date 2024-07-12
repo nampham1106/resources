@@ -1,0 +1,11 @@
+# doc_id = health_cancer_213
+# url = https://dantri.com.vn/suc-khoe/dieu-tri-ung-thu-bang-robot-sieu-nho-20210314200402960.htm
+# date = 20210314
+Điều trị ung thư bằng robot siêu nhỏ
+Robot có kích thước nhỏ, dạng đinh vít, nhỏ như một đốm bụi, mang thuốc đến vị trí các khối u mà không cần phẫu thuật.
+Quan sát bằng X-quang, bác sĩ có thể theo dõi quá trình di chuyển và hoạt động của robot và điều hướng chúng đến chính xác tới đích qua nam châm bên ngoài tạo ra từ trường.
+Robot siêu nhỏ dạng đinh vít mang thuốc tới khối u để tiêu diệt.
+Khi đến đích, robot sẽ nhận lệnh để đưa thuốc vào khối u, tối đa hóa hiệu quả tiêu diệt tế bào gây bệnh và giảm thiểu các tác dụng phụ.
+Hiện các nhà nghiên cứu đang hướng đến mục tiêu một số dạng ung thư cụ thể tác động đến thân não. Các robot sẽ được tiêm vào tủy sống ở vị trí thuận lợi, robot sẽ di chuyển tới vị trí có tế bào ung thư để tiêu diệt tế bào này mà không gây hại các tế bào lành khác.
+Theo Sức khỏe và đời sống
+(ITC- 3/2021)

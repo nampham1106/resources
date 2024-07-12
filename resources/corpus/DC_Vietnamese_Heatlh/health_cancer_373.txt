@@ -1,0 +1,25 @@
+# doc_id = health_cancer_373
+# url = https://dantri.com.vn/suc-khoe/ebv-virus-lay-qua-nu-hon-co-gay-ung-thu-20210103103652963.htm
+# date = 20210103
+EBV- virus lây qua nụ hôn có gây ung thư?
+Ung thư vòm mũi họng gặp chủ yếu loại ung thư biểu mô không biệt hóa của vòm mũi họng là một trong những loại ung thư phổ biến và mang tính khu vực. Các trường hợp ung thư này gặp nhiều ở các nước châu Á và châu Phi. Nam giới mắc bệnh nhiều hơn nữ giới, với tỷ lệ khoảng 2-3 nam/1 nữ.
+Một trong những yếu tố nguy cơ của bệnh ung thư nay là virus Epstein-Barr (EBV). Theo BS Đỗ Tất Cường, khoa Xạ trị, Bệnh viện Ung bướu Hà Nội, dựa trên sự tăng cao của kháng huyết thanh anti-EBV có trong máu của các bệnh nhân ung thư vòm họng và sự có mặt của ADN virus trong nhân các tế bào ung thư có thể thấy được vai trò quan trọng của virus này trong nguyên nhân gây bệnh.
+EBV là một trong những loại virus thuộc họ herpes phổ biến nhất ở người. Nước bọt là con đường lây nhiễm chủ yếu nên bệnh EBV còn được gọi là bệnh nụ hôn.
+Dù vậy, vai trò gây bệnh trực tiếp của virus chưa được khẳng định chắc chắn vì tỷ lệ nhiễm virus EBV này trong dân khá cao trong khi chỉ một số bị ung thư vòm.
+Các triệu chứng của ung thư vòm mũi họng
+BS Cường cho biết, các dấu hiệu sớm thường nghèo nàn, dễ bỏ qua vì hay bị nhầm với các triệu chứng của bệnh viêm nhiễm vùng tai mũi họng. Các triệu chứng lúc đầu thường xuất hiện ở một bên hay một vị trí, sau đó tăng dần.
+Các triệu chứng có thể gặp:
+- Hạch cổ: vị trí hay gặp là hạch cổ vị trí góc hàm hoặc xuất hiện nhiều hạch ở 1 hay 2 bên cổ.
+- Các triệu chứng tai: thường biểu hiện một bên như nghe kém, ù tai hoặc hiếm gặp hơn là đau tai hay chảy dịch ở tai.
+- Các triệu chứng mũi: ngạt tắc mũi một hoặc 2 bên hoặc chảy máu mũi dai dẳng điều trị nội khoa không cải thiện
+- Các triệu chứng thần kinh: nhìn đôi và lác trong, đau nửa mặt hoặc đau họng, đau đầu hoặc đau nửa đầu khi u xâm lấn nội sọ.
+- Các triệu chứng mắt: xâm lấn ổ mắt hiếm gặp, chủ yếu gặp lồi mắt hoặc liệt vận nhãn
+Cách phát hiện ung thư vòm họng
+Thăm khám lâm sàng:
+- Soi tai mũi họng và khám hạch cổ: cho phép quan sát rõ tổn thương, đánh giá vị trí tổn thương, hình dạng, kích thước, mức độ lan rộng của bệnh và kết hợp sinh thiết giúp chẩn đoán mô bệnh học. Thăm khám hạch cổ và hạch ngoại vi nhằm phát hiện ra các tổn thương hạch có giá trị trong đánh giá giai đoạn bệnh ung thư vòm.
+- Các triệu chứng gợi ý di căn xa: dưới 10% trường hợp có di căn xa tại thời điểm chẩn đoán ban đầu, thường gặp nhất là di căn xương gây đau hoặc gãy xương bệnh lý, hiếm hơn có thể gặp di căn gan hoặc di căn phổi
+Thăm khám toàn trạng: giúp cho việc xác định phác đồ điều trị và tiên lượng bệnh cho bệnh nhân.
+Các xét nghiệm cận lâm sàng
+- Chụp cắt lớp vi tính (CT-scan) và chụp cộng hưởng từ (MRI): cho phép đánh giá thể tích u, mức độ xâm lấn tại chỗ, tại vùng.
+- Các xét nghiệm đánh giá di căn xa: chụp X-quang ngực, siêu âm bụng và xạ hình xương là các xét nghiệm cần thiết trong tìm kiếm di căn xa. PET/CT-scan là phương pháp hiện đại có giá trị cao trong tìm kiếm các di căn xa.
+- Xét nghiệm máu: Các xét nghiệm công thức máu, sinh hóa máu giúp đánh giá tình trạng toàn thân và chức năng gan, thận, định liều tải lượng virus huyết thanh, kháng thể kháng EBV type IgA/antiEA và IgA/antiVCA.

@@ -1,0 +1,36 @@
+# doc_id = health_cancer_416
+# url = https://dantri.com.vn/suc-khoe/cac-yeu-to-lam-tang-nguy-co-ung-thu-gan-20220415203902167.htm
+# date = 20220415
+Các yếu tố làm tăng nguy cơ ung thư gan
+Theo Bệnh viện Ung bướu Hà Nội, có rất nhiều yếu tố có thể làm tăng nguy cơ mắc ung thư tế bào gan (HCC):
+Giới tính
+Ung thư tế bào gan thường gặp ở nam giới hơn nữ giới. Phần lớn là do các hành vi ảnh hưởng đến các yếu tố nguy cơ được mô tả ở dưới đây. Thể phụ fibrolamellar của ung thư tế bào gan lại thường gặp ở phụ nữ hơn.
+Viêm gan virus mạn tính
+Trên thế giới, yếu tố nguy cơ phổ biến nhất của ung thư gan là viêm gan mạn tính do virus viêm gan B (HBV) hoặc virus viêm gan C (HCV). Tình trạng viêm gan dẫn đến xơ gan và là nguyên nhân dẫn đến ung thư gan, loại ung thư phổ biến nhất ở nhiều vùng lãnh thổ trên thế giới.
+Xơ gan
+Xơ gan là bệnh khi tế bào gan bị phá hủy và được thay thế bằng các mô xơ. Người xơ gan sẽ gia tăng nguy cơ ung thư gan. Phần lớn (nhưng không phải tất cả) bệnh nhân ung thư gan đều có biểu hiện xơ gan.
+Có nhiều nguyên nhân gây ra xơ gan. Ở Hoa Kỳ, nguyên nhân gây bệnh nhiều nhất là nghiện rượu hoặc nhiễm virus viêm B, C mạn tính.
+Bệnh gan nhiễm mỡ không do rượu
+Bệnh gan nhiễm mỡ không do rượu là tình trạng phổ biến ở người béo phì. Người bệnh mắc một thể của bệnh này, được gọi là viêm gan nhiễm mỡ không do rượu (NASH), chúng có thể dẫn đến xơ gan.
+Xơ gan ứ mật nguyên phát
+Một số loại bệnh tự miễn ảnh hưởng đến gan cũng có thể là nguyên nhân gây xơ gan. Ví dụ, trong bệnh xơ gan ứ mật nguyên phát (PBC) đường mật trong gan bị tổn thương, thậm chí là phá hủy dẫn đến xơ gan. Người bệnh mắc xơ gan ứ mật nguyên phát có yếu tố nguy cơ cao tiến triển thành ung thư gan.
+Bệnh chuyển hóa di truyền
+Một số bệnh chuyển hóa di truyền có thể dẫn tới xơ gan. Người bệnh mắc bệnh nhiễm sắc tố mô di truyền sẽ hấp thu nhiều sắt hơn từ thức ăn. Sắt được sắp xếp tại các mô mềm trên khắp cơ thể, bao gồm cả gan. Nếu có quá nhiều sắt trong gan, có thể dẫn đến xơ gan và ung thư gan.
+Nghiện rượu
+Sử dụng quá nhiều rượu là nguyên nhân hàng đầu gây xơ gan ở Mỹ và làm tăng nguy cơ ung thư gan.
+Hút thuốc lá
+Hút thuốc lá làm tăng nguy cơ mắc ung thư gan. Người hút thuốc lá trong quá khứ (đã bỏ thuốc) có nguy cơ thấp hơn người đang hút, nhưng cả 2 nhóm trên đều có nguy cơ cao hơn những người không hút thuốc.
+Béo phì
+Béo phì (thừa quá nhiều cân) làm tăng nguy cơ phát triển ung thư gan. Điều này có thể do béo phì dẫn đến bệnh gan nhiễm mỡ và xơ gan.
+Tiểu đường type 2
+Tiểu đường type 2 làm tăng nguy cơ ung thư gan, thường gặp hơn ở những bệnh nhân có yếu tố nguy cơ như nghiện rượu và hoặc viêm gan mạn. Những nguy cơ này cũng có thể tăng lên vì những người mắc đái tháo đường type 2 thường thừa cân hoặc béo phì, do đó có thể gây ra các vấn đề về gan.
+Một số bệnh hiếm gặp
+Một số bệnh làm tăng nguy cơ ung thư gan bao gồm:
+- Bệnh tyrosin huyết.
+- Thiếu hụt men Alpha1-antitrypsin.
+- Bệnh Porphyria cutanea tarda (PCT).
+-Bệnh rối loạn dự trữ glycogen.
+-Bệnh Wilson.
+Aflatoxins
+Các chất gây ung thư này được tạo ra từ loại nấm nhiễm trong hạt lạc, lúa mỳ, đậu nành, các loại hạt, ngô và gạo. Nấm phát triển nếu ta bảo quản trong môi trường ẩm, ấm. Hầu hết chúng có thể xuất hiện ở bất kỳ nơi nào, nhưng phổ biến hơn ở các nước nhiệt đới và ấm. Các nước phát triển như Mỹ và các nước châu Âu có xét nghiệm kiểm tra mức aflatoxins trong thực phẩm.
+Tiếp xúc lâu dài với các aflatoxin làm tăng nguy cơ ung thư gan. Nguy cơ sẽ càng tăng lên ở người nhiễm viêm gan virus B,C.

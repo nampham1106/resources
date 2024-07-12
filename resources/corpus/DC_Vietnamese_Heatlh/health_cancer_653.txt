@@ -1,0 +1,26 @@
+# doc_id = health_cancer_653
+# url = https://dantri.com.vn/suc-khoe/nhung-hieu-lam-thuong-gap-ve-ung-thu-phoi-20221106081208757.htm
+# date = 20221106
+Những hiểu lầm thường gặp về ung thư phổi
+Theo Bệnh viện K, ung thư phổi là một trong những bệnh lý ung thư thường gặp nhất, nhưng vẫn có rất nhiều hiểu lầm về căn bệnh này như dưới đây:
+Hiểu lầm 1: Không hút thuốc sẽ không mắc ung thư phổi
+Đa số bệnh nhân ung thư phổi có liên quan đến tiền sử hút thuốc lá. Khói thuốc lá chứa hơn 7000 chất hóa học, ít nhất 250 chất đã được biết là gây hại tới sức khỏe. Trong 250 chất này, có ít nhất 69 chất gây ung thư.
+Tuy nhiên có khoảng 10-15% các bệnh nhân ung thư phổi chưa từng hút thuốc lá.
+Trong một nghiên cứu gần đây, các tác giả tổng hợp trên gần 130.000 bệnh nhân ung thư phổi được chẩn đoán từ năm 2011-2016 tại Mỹ, kết quả cho thấy, tại thời điểm chẩn đoán ung thư phổi có đến 15,7% các bệnh nhân nữ và 9,6% các bệnh nhân nam chưa từng hút thuốc lá.
+Tại Việt Nam, phần nhiều phụ nữ không có thói quen hút thuốc lá, tuy nhiên năm 2018 cũng có tới gần 7000 ca ung thư phổi mới phát hiện ở nữ giới. Như vậy có thể thấy hút thuốc là làm tăng nguy cơ mắc ung thư phổi, và nhiều người dù không hút thuốc nhưng có tiếp xúc khói thuốc hay hút thuốc lá thụ động cũng vẫn mắc căn bệnh này.
+Hiểu lầm 2: Không thể sàng lọc ung thư phổi
+Trong bệnh lý ung thư phổi, để sàng lọc - phát hiện sớm ung thư phổi, chụp cắt lớp vi tính đa dãy liều thấp (low-dose CT scan) giúp giảm tới 20% tỷ lệ tử vong do ung thư phổi.
+Các đối tượng nguy cơ cao dưới đây nên sàng lọc ung thư phổi: tuổi từ 55-74, có thể trạng tốt và đang hút thuốc lá (hoặc mới bỏ thuốc lá chưa đến 15 năm) và tiền sử hút thuốc lá lâu năm, tần suất lặp lại nhiều như 01 bao/ngày.
+Ngoài phương án chụp CT liều thấp được liệt kê phía trên, thì tất cả các phương án khác bao gồm: chụp X-quang, làm xét nghiệm trên đờm, xét nghiệm các chỉ điểm ung thư trong máu… đều chưa chứng minh được lợi ích trong việc sàng lọc ung thư phổi cũng như giảm tỷ lệ tử vong do ung thư phổi.
+Hiểu lầm 3: Mắc ung thư phổi là "án tử"
+Đối với nhiều người, việc phát hiện ung thư phổi khiến tâm lý suy sụp và nghĩ rằng "án tử" đang tới rất gần. Thực tế không phải như vậy, đối với ung thư phổi giai đoạn sớm, tỷ lệ sống trên 5 năm của bệnh nhân ung thư phổi không tế bào nhỏ giai đoạn IA, IB, IIA, IIB lần lượt là 85%, 72%, 65% và 56%.
+Ngay cả đối với bệnh nhân được chẩn đoán ung thư phổi giai đoạn IV, với những tiến bộ gần đây, có nhiều bệnh nhân vẫn đạt được sống thêm lâu dài và có chất lượng cuộc sống tốt, ít độc tính mắc phải do điều trị.
+Cần ghi nhớ, càng phát hiện sớm, cơ hội điều trị càng cao.
+Hiểu lầm 4: Động dao kéo làm tăng nhanh di căn, tử vong sớm
+Đây là một hiểu lầm phổ biến, không chỉ gặp trong ung thư phổi mà còn gặp trong rất nhiều bệnh lý ung thư khác.
+Thực tế hoàn toàn ngược lại, đối với đa số các loại ung thư, phẫu thuật là phương pháp điều trị quan trọng nhất để cứu chữa bệnh nhân ung thư ở giai đoạn sớm. Còn phẫu thuật được cho thấy bệnh nhân có tiên lượng điều trị tốt.
+Tuy nhiên, vì hiểu lầm này, nhiều bệnh nhân sợ hãi và trốn tránh phẫu thuật, thử dùng thuốc này thuốc kia các nơi, khi bệnh đã nặng mới vào viện, thời điểm vàng của quá trình điều trị đã trôi qua, thời cơ chữa khỏi bệnh bằng phẫu thuật đã mất.
+Tuy nhiên, vấn đề gì cũng có hai mặt, nếu phẫu thuật không đạt được triệt căn, không tuân thủ theo các nguyên tắc phẫu thuật ung thư; thì chúng ta đã gặp thất bại bước đầu trong điều trị, mà đôi khi sẽ dẫn đến khó khăn cho những điều trị tiếp theo bởi sự suy giảm về thể trạng bệnh nhân sau phẫu thuật.
+Hiểu lầm 5: Cao tuổi nên không điều trị được ung thư phổi
+Nhiều bệnh nhân ung thư phổi lớn tuổi khá băn khoăn liệu mình có thể điều trị được, liệu mình có chịu đựng được các tác dụng phụ của điều trị. Riêng yếu tố về tuổi là chưa đủ để đánh giá đầy đủ về sức khỏe chung của một bệnh nhân. Bên cạnh tuổi, đó là thể trạng chung của bệnh nhân, khả năng hoạt động thể lực và thực hiện các sinh hoạt thường ngày, các bệnh lý kèm theo, …
+Trong bệnh lý ung thư phổi, bên cạnh những điều trị kinh điển (phẫu thuật, hóa chất, xạ trị), với những tiến bộ gần đây về điều trị đích và điều trị miễn dịch - đây là 2 phương án điều trị toàn thân có ít tác dụng phụ và hoàn toàn có thể điều trị trên nhóm bệnh nhân cao tuổi.

@@ -1,0 +1,22 @@
+# doc_id = health_cancer_558
+# url = https://dantri.com.vn/suc-khoe/nghien-cuu-chuyen-sau-ve-ung-thu-tim-phuong-phap-dieu-tri-hieu-qua-20201212171533352.htm
+# date = 20201212
+Nghiên cứu chuyên sâu về ung thư tìm phương pháp điều trị hiệu quả
+Sáng 12/12, Chương trình hỗ trợ nghiên cứu và công nghệ trong ung thư V-CART, một sáng kiến của Viện Ung thư Quốc gia, Bệnh viện K đã chính thức ra mắt.
+Mỗi năm Việt Nam ghi nhận khoảng 165.000 ca ung thư mới, 115.000 ca tử vong. Theo ước tính, 40% số ca ung thư có thể dự phòng, 30% có thể chữa khỏi nếu phát hiện sớm và điều trị kịp thời. Với các biện pháp điều trị ung thư hiện tại có thể cứu 30% số bệnh nhân ung thư còn lại.
+Dù đã đạt được nhiều tiến bộ trong chẩn đoán, điều trị song nhiều bệnh ung thư vẫn còn là thách thức lớn trong điều trị. Ung thư phổi, tụy đều được xếp vào nhóm bệnh ung thư khó phát hiện sớm. Cũng vì thế, bệnh tiên lượng rất xấu. Đa phần bệnh nhân phát hiện bệnh khi đã ở giai đoạn muộn, việc điều trị không còn nhiều ý nghĩa.
+PGS.TS Lê Văn Quảng, Giám đốc Bệnh viện K Trung ương (Hà Nội) cho biết Bệnh viện đang thực hiện 3 nghiên cứu cấp Nhà nước về 3 bệnh ung thư phổi, tụy, khoang miệng. Trong đó, ung thư phổi là bệnh hay gặp, hiện có có nhiều tiến bộ trong điều trị (thuốc mới, kỹ thuật xạ trị mới). Ung thư tụy là bệnh khó điều trị, tiên lượng rất xấu vì thế vấn đề đặt ra là cần phát hiện sớm bệnh. Hiện có nhiều công nghệ sinh học để phát hiện sớm, Bệnh viện đang nghiên cứu theo hướng này nhằm cải thiện chất lượng điều trị.
+Tương tự với bệnh ung thư khoang miệng, hiện có nhiều phương pháp xác định giai đoạn bệnh chính xác hơn, từ đó giúp điều trị đạt hiệu quả cao hơn. Chẳng hạn như vấn đề xạ trị trước kia có nhiều tai biến, hiện nay với công nghệ xạ trị mới góp phần giảm tai biến nhiều hơn.
+"Chúng tôi kỳ vọng có thể lập bản đồ ung thư của Việt Nam, ghi nhận cả số mắc ở vùng sâu vùng xa để có số liệu chính xác hơn. Những bệnh ung thư phổ biến tại nước ta hiện nay là ung thư phổi, gan, vú, cổ tử cung, dạ dày, đại trực tràng. Một điểm đáng lưu ý là nhiều bệnh ung thư có xu hướng trẻ hóa", PGS Quảng chia sẻ.
+Theo chuyên gia nếu có bản đồ dịch tễ có thể đưa ra nhận định về xu hướng của các bệnh ung thư, từ đó có chiến lược sàng lọc phát hiện sớm bệnh. Các nghiên cứu về ung thư hiện nay tập trung vào tìm các biện pháp sàng lọc phát hiện sớm bệnh, tìm phương pháp điều trị có hiệu quả.
+Vì thế, Chương trình hỗ trợ nghiên cứu và công nghệ trong ung thư V-CART ra đời với mục tiêu hỗ trợ các nhà khoa học Việt Nam thực hiện các nghiên cứu chất lượng cao, cùng xây dựng hệ thống cơ sở dữ liệu phong phú và tin cậy tại Việt Nam, tạo tiền đề cho những bước tiến mới về dự phòng, chẩn đoán và điều trị ung thư.
+V-CART ra đời đánh dấu bước ngoặt lớn trong việc nghiên cứu chuyên sâu về ung thư, kết quả nghiên cứu có thể nâng cao hiệu quả của các phương pháp điều trị hiện tại cũng như tìm ra các hướng đi mới góp phần kiểm soát ung thư trên thế giới nói chung, Việt Nam nói riêng.
+GS.TS Trần Văn Thuấn, Thứ trưởng Bộ Y tế cho biết V-CART là nơi kết nối các nhà khoa học với nhau, kết nối các nhà khoa học Việt Nam với các nhà khoa trên thế giới để cùng nghiên cứu tìm ra các biện pháp mới hiệu quả trong phòng chống ung thư. Chương trình nhằm kết nối, hỗ trợ ý tưởng mới, ý tưởng sáng tạo, đặc biệt là kết nối với ý tưởng mới của các nhà khoa học trên thế giới để cùng nhau hợp tác vì mục đích chung.
+Chương trình nghiên cứu ung thư tại Việt Nam bắt đầu kết nối với quốc tế từ những năm đầu của thập niên 90. Viện Nghiên cứu Ung thư quốc gia là nơi hội tụ các nghiên cứu để làm sao tìm các biện pháp hiệu quả trong sàng lọc phát hiện sớm, chẩn đoán, điều trị để nâng cao tỷ lệ chữa khỏi, nâng cao chất lượng sống cho người bệnh ung thư.
+Mỗi năm chương trình V-CART sẽ tuyển chọn 20 ý tưởng xuất sắc nhất. Các nghiên cứu tiềm năng sẽ nhận được kinh phí hỗ trợ thực hiện nghiên cứu cùng sự tư vấn hỗ trợ chuyên môn từ các chuyên gia đầu ngành về nghiên cứu ung thư tại Việt Nam và trên Thế giới.
+Quy trình xét chọn hồ sơ đăng ký hàng năm bao gồm:
+Tháng 12: Thông báo chương trình hỗ trợ từng năm
+Tháng 1: Ứng viên gửi ý tưởng nghiên cứu
+Tháng 2: Hội đồng chất lượng đánh giá ý tưởng nghiên cứu và thông báo kết quả tuyển chọn ý tưởng.
+Tháng 3: Ứng viên gửi hồ sơ nghiên cứu. Hội đồng đánh giá hồ sơ sơ nghiên cứu và thông báo kết quả.
+Các ứng viên gửi nộp ý tưởng, tải và nộp hồ sơ nghiên cứu, theo dõi kết quả trên website: www.vcart.nci.vn

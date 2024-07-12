@@ -1,0 +1,11 @@
+# doc_id = health_cancer_656
+# url = https://dantri.com.vn/suc-khoe/hop-chat-moi-ngan-chan-su-phat-trien-cua-te-bao-ung-thu-20210414162444122.htm
+# date = 20210414
+Hợp chất mới ngăn chặn sự phát triển của tế bào ung thư
+Các nhà nghiên cứu tại Viện Sinh học Lão hóa Max Planck ở Cologne, Viện Karolinska, Stockholm, Thụy Điển mới đây cho biết đã phát hiện hợp chất ngăn chặn sự phát triển của tế bào ung thư.Hợp chất này có thể được sử dụng như một loại thuốc chống khối u tiềm năng trong tương lai.
+Ti thể cung cấp cho tế bào năng lượng và các chất xây dựng tế bào cần thiết cho chức năng bình thường của mô và cơ quan. Tế bào gốc ung thư phụ thuộc nhiều vào quá trình chuyển hóa của ti thể.Trong khi các loại thuốc nhắm vào chức năng của ti thể thường rất độc, và rất khó nhắm vào ti thể
+Trong nghiên cứu mới, nhóm các nhà khoa học Thụy Điển và Đức đã tìm ra cách để khắc phục những khó khăn này.Bằng cách tạo ra một loại thuốc ung thư tiềm năng nhắm vào chức năng của ti thể mà không có tác dụng phụ nghiêm trọng và không gây hại cho các tế bào khỏe mạnh.
+Hợp chất mới giúp ngăn chặn sự phát triển của tế bào ung thư.
+Ti thể chứa vật liệu di truyền của riêng chúng, các phân tử AND nằm trong ti thể gọi tắt là (mtDNA), được liên kết trung gian bởi một tập hợp các protein chuyên dụng.Một trong những loại protein như vậy là enzyme mitochondrial RNA polymerase (POLRMT).
+Nhóm nghiên cứu đã thiết kế một phương pháp kiểm tra giúp xác định hợp chất hóa học ức chế POLRMT.Chất ức chế POLRMT, về cơ bản sẽ bỏ đói các tế bào ung thư mà không gây tác dụng phụ độc hại, ít nhất là trong một khoảng thời gian nhất định, đồng thời làm giảm mạnh khả năng tồn tại của tế bào ung thư và sự phát triển của khối u trong cơ thể.
+Với vai trò quan trọng của quá trình trao đổi chất trong ti thể tế bào, chất ức chế biểu hiện gen ti thể có thể được sử dụng như một công cụ trong nhiều lĩnh vực khác nhau, và mở ra xu hướng mới trong phát triển các loại thuốc chống ung thư. Nghiên cứu cũng giúp các nhà khoa học hiểu sâu hơn về tác động tế bào của rối loạn chức năng ti thể và các bệnh về ti thể. Đây được coi là một bước tiến mới trong nghiên cứu về gen và tế bào.

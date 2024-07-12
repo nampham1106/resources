@@ -1,0 +1,8 @@
+# doc_id = health_cancer_127
+# url = https://dantri.com.vn/suc-khoe/san-pham-dieu-tri-ung-thu-bang-nhiet-do-thap-20210407180059302.htm
+# date = 20210407
+Sản phẩm điều trị ung thư bằng nhiệt độ thấp
+Hãng thiết bị y tế của Israel vừa được Cơ quan Quản lý Thực phẩm và Dược phẩm Mỹ (FDA) chứng nhận sản phẩm công nghệ ProSense trong điều trị khối u bằng nhiệt độ thấp một cách an toàn, nhanh chóng và không gây đau đớn.
+Theo đó, ProSense đã được Chương trình thiết bị đột phá của FDA cấp chứng nhận và đề xuất áp dụng với các bệnh nhân ung thư vú xâm lấn giai đoạn T1 và những bệnh nhân có thể trạng không phù hợp để áp dụng biện pháp phẫu thuật.
+Sản phẩm chủ lực của hãng là ProSense, dựa trên thủ thuật nhiệt động sử dụng khí ni-tơ hóa lỏng ở nhiệt độ cực thấp đưa vào cơ thể của bệnh nhân, qua đó tiêu diệt khối u mà không cần phẫu thuật.
+Công ty của Israel này kỳ vọng đây sẽ là sản phẩm tiêu biểu cho phương pháp nhiệt động trong điều trị ung thư thời gian tới.

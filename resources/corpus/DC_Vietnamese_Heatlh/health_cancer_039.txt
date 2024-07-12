@@ -1,0 +1,19 @@
+# doc_id = health_cancer_039
+# url = https://dantri.com.vn/suc-khoe/sarcoma-co-van-hay-gap-o-tre-em-phat-hien-benh-nhu-the-nao-20221114091441543.htm
+# date = 20221114
+Sarcoma cơ vân hay gặp ở trẻ em, phát hiện bệnh như thế nào?
+Sarcoma cơ vân là khối u ác tính có nguồn gốc từ tế bào trung mô chưa trưởng thành.
+U xuất phát từ trung mô, do đó vị trí tổn thương nguyên phát có thể gặp ở bất kỳ nơi nào trong cơ thể, hay gặp là ở vùng đầu cổ và hệ sinh dục tiết niệu.
+Tuổi mắc bệnh trung bình là 5, có đến 2/3 được chẩn đoán dưới 6 tuổi. Nam có xu hướng mắc nhiều hơn nữ, với tỷ lệ nam/nữ là 1,4/1.
+Có sự liên quan nhất định giữa vị trí khối u, tuổi mắc bệnh và thể mô bệnh học. U vùng đầu cổ thường gặp ở trẻ em dưới 8 tuổi, nếu phát sinh từ ổ mắt thường là sarcomacơ vân thể bào thai. U vùng chi hay gặp ở trẻ vị thành niên, mô bệnh học thường là thể hốc. U vùng bàng quang, âm đạo có hình ảnh dạng chùm nho.
+Nguyên nhân gây bệnh chưa rõ ràng, có thể liên quan đến một số yếu tố di truyền như bệnh u xơ thần kinh, đột biến gen P53, hội chứng Noonan, hội chứng Li - Fraumeni, hội chứng Beckwith - Wiedermann và một số yếu tố môi trường như bà mẹ mang thai sử dụng cần sa, cocaine, tiền sử thai chết lưu, mẹ phơi nhiễm với tia xạ.
+Dấu hiệu cảnh báo bệnh
+Khối u vùng mi, ổ mắt thường gây ra lồi mắt, đôi khi liệt mắt. U cận màng não (trừ ổ mắt) thường gây tắc nghẽn mũi, xoang, tiết dịch mủ bất thường, liệt thần kinh sọ, có thể kèm đau đầu, nôn, tăng huyết áp.
+Khối u vùng bàng quang gây bí đái, đái máu, đôi khi chảy dịch nhày máu. Khối u vùng tuyến tiền liệt đôi khi đái buốt, đái rắt, táo bón xu hướng di căn phổi, tủy xương và xương. U vùng âm đạo thường ở trẻ nhỏ gây tiết dịch âm đạo bất thường.
+U vùng chi, thân mình xuất hiện bằng khối bất thường đỏ da, tăng nhạy cảm đau. Các vị trí khác hiếm gặp trong lồng ngực, sau phúc mạc, trong tiểu khung khó phát hiện sớm. U vùng đáy chậu và quanh hậu môn lâm sàng đôi khi giống như ổ áp xe hay polyp. Tại đường mật biểu hiện bằng vàng da tắc nghẽn.
+Điều trị sarcomacơ vân như thế nào?
+Ba phương pháp chính điều trị sarcoma cơ vân là phẫu thuật, xạ trị và hóa trị, tùy thuộc vào vị trí u nguyên phát.
+- Với u vị trí tại hốc mắt và cận màng não, phẫu thuật giới hạn, ưu tiên lựa chọn xạ trị và hóa trị.
+- U vị trí thân mình: Giai đoạn I, II: Phẫu thuật và hóa chất; giai đoạn III: Kết hợp xạ trị, phẫu thuật, hóa trị; giai đoạn IV: Hóa trị và xạ trị.
+- U vị trí sinh dục, tiết niệu: U vùng bàng quang, tuyến tiền liệt, âm đạo chỉ định hóa trị, xạ trị, cân nhắc phẫu thuật.
+- U vị trí khác có thể phẫu thuật, xạ trị, hóa trị.

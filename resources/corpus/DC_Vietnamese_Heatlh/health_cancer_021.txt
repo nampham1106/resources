@@ -1,0 +1,30 @@
+# doc_id = health_cancer_021
+# url = https://dantri.com.vn/suc-khoe/khi-nao-benh-nhan-ung-thu-phoi-can-thuc-hien-hoa-tri-xa-tri-20221113085901551.htm
+# date = 20221113
+Khi nào bệnh nhân ung thư phổi cần thực hiện hóa trị, xạ trị?
+Bệnh viện K cho biết, với bệnh ung thư phổi, lý tưởng nhất vẫn là phát hiện ở giai đoạn sớm. Ở giai đoạn này, phẫu thuật là phương pháp ưu tiên hàng đầu để cắt bỏ khối u khi nó chưa xâm lấn.
+Còn nếu phát hiện ở giai đoạn muộn hơn, khi đã có xâm lấn ra xung quanh, thì không thực hiện được phẫu thuật. Thường từ giai đoạn III của ung thư phổi không tế bào nhỏ bệnh nhân sẽ được thực hiện đồng thời hóa trị và xạ trị.
+Trong đó, hóa trị là phương pháp sử dụng các thuốc chống ung thư để tiêu diệt các tế bào ung thư được thực hiện qua đường uống hoặc truyền tĩnh mạch.
+Xạ trị là phương pháp sử dụng các tia bức xạ năng lượng cao để phá hủy các tế bào ung thư, thu nhỏ khối u.
+Hiện tại, có rất nhiều phương pháp xạ trị gồm:
+- Xạ trị IMRT: Cung cấp các chùm tia X rất khớp với hình dạng của mục tiêu và bảo vệ nhiều mô lành hơn. Điều trị kết thúc trong khoảng 6 tuần.
+- Xạ trị 3D: Cung cấp chùm tia X phù hợp với hình dạng của mục tiêu nhưng có thể không tập trung như IMRT. Điều trị kết thúc trong khoảng 6 tuần.
+- Xạ trị SABR: Điều trị ung thư bằng chùm tia X liều cao, rất chính xác. Nó cung cấp một liều lượng bức xạ rất cao cho mỗi lần điều trị, nhưng chỉ cho một vài lần điều trị. Quá trình điều trị kết thúc trong khoảng >1 tuần.
+Xạ Proton: Liệu pháp proton điều trị ung thư bằng chùm tia proton. Chùm tia proton phân phối bức xạ chủ yếu trong khối u. Điều trị hoàn thành trong khoảng 6 tuần.
+Tuy nhiên, khi tiến hành hóa xạ trị, bệnh nhân có thể gặp các tác dụng phụ sau:
+- Rụng tóc
+- Mệt mỏi
+- Thay đổi vị giác
+- Đau miệng
+- Khó nuốt
+- Khó thở
+- Ho
+- Đau ngực
+- Tăng nguy cơ nhiễm trùng (ức chế miễn dịch, hạ bạch cầu)
+- Thiếu máu
+- Buồn nôn và nôn
+- Kích ứng da
+- Tăng nguy cơ chảy máu / bầm tím
+- Tiêu chảy…
+Khi có bất cứ tác dụng phụ nào xuất hiện, hãy trao đổi ngay với bác sĩ điều trị để có hướng dẫn theo dõi và xử trí phù hợp.
+Người bị ung thư phổi thường có các dấu hiệu báo động đỏ như: Ho ra máu, đau ngực, thỉnh thoảng co giật, đặc biệt giảm cân rất nhanh. Có bệnh nhân giảm đến 10kg trong 3 tháng.

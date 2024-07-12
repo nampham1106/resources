@@ -1,0 +1,19 @@
+# doc_id = health_cancer_273
+# url = https://dantri.com.vn/suc-khoe/ung-thu-la-gi-va-no-bat-dau-nhu-the-nao-20220406110304967.htm
+# date = 20220406
+Ung thư là gì và nó bắt đầu như thế nào?
+Thay đổi tế bào và ung thư
+Tất cả các bệnh ung thư đều bắt đầu trong tế bào. Cơ thể chúng ta được tạo thành từ hơn một trăm triệu triệu (100.000.000.000.000.000) tế bào. Ung thư bắt đầu với những thay đổi trong một tế bào hoặc một nhóm nhỏ tế bào.
+Theo Nghiên cứu Ung thư Vương quốc Anh, thông thường, các tế bào tạo ra tín hiệu để kiểm soát mức độ và tần suất phân chia của các tế bào. Nếu bất kỳ tín hiệu nào trong số này bị lỗi hoặc bị thiếu, các tế bào có thể bắt đầu phát triển và nhân lên quá nhiều và hình thành khối u.
+Khối u chính là nơi ung thư bắt đầu. Một số loại ung thư, được gọi là bệnh bạch cầu bắt đầu từ các tế bào máu. Chúng không tạo thành khối u rắn. Thay vào đó, các tế bào ung thư tích tụ trong máu và đôi khi là tủy xương.
+Để bắt đầu phát bệnh ung thư, một số thay đổi nhất định diễn ra trong gen của một tế bào hoặc một nhóm tế bào.
+Các loại tế bào khác nhau trong cơ thể làm những công việc khác nhau. Nhưng về cơ bản chúng tương tự nhau.
+Tất cả các tế bào đều có một trung tâm điều khiển được gọi là nhân. Bên trong nhân là các nhiễm sắc thể được tạo thành từ hàng nghìn gen. Các gen chứa các chuỗi DNA dài (axit deoxyribonucleic), là các thông điệp được mã hóa cho biết tế bào hoạt động như thế nào.
+Mỗi gen là một chỉ dẫn yêu cầu tế bào tạo ra một thứ gì đó. Đây có thể là một protein hoặc một loại phân tử khác được gọi là RNA (axit ribonucleic). Cùng với nhau, protein và RNA kiểm soát tế bào. Chúng quyết định tế bào có chức năng gì, khi nào phân chia, khi nào chết…
+Thay đổi gen trong tế bào
+Gen đảm bảo rằng các tế bào phát triển và tạo ra các bản sao (tái tạo) một cách có trật tự và có kiểm soát. Và cần thiết để giữ cho cơ thể khỏe mạnh.
+Đôi khi một sự thay đổi xảy ra trong các gen khi một tế bào phân chia. Đây là một đột biến. Nó có nghĩa là một gen đã bị hư hỏng hoặc bị mất hoặc được sao chép quá nhiều lần.
+Các đột biến có thể xảy ra một cách tình cờ khi một tế bào đang phân chia. Một số đột biến có nghĩa là tế bào không còn hiểu các chỉ dẫn của nó. Nó có thể bắt đầu phát triển ngoài tầm kiểm soát. Phải có khoảng 6 đột biến khác nhau trước khi một tế bào bình thường biến thành tế bào ung thư.
+Có thể mất nhiều năm để một tế bào bị tổn thương phân chia và phát triển và tạo thành một khối u đủ lớn để gây ra các triệu chứng hoặc hiển thị trên phim chụp cắt lớp.
+Làm thế nào đột biến xảy ra?
+Các đột biến có thể xảy ra một cách tình cờ khi một tế bào đang phân chia. Chúng cũng có thể được gây ra bởi các quá trình sống bên trong tế bào hoặc do những yếu tố đến từ bên ngoài cơ thể, chẳng hạn như các chất hóa học trong khói thuốc lá. Và một số người có thể thừa hưởng các lỗi trong các gen cụ thể khiến họ có nhiều khả năng mắc bệnh ung thư hơn.

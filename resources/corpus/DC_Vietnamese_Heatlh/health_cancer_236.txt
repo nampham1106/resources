@@ -1,0 +1,17 @@
+# doc_id = health_cancer_236
+# url = https://dantri.com.vn/suc-khoe/y-nghia-cua-xet-nghiem-afp-trong-tam-soat-ung-thu-gan-20220719211141272.htm
+# date = 20220719
+Ý nghĩa của xét nghiệm AFP trong tầm soát ung thư gan
+BSCKII Vũ Thị Hương, Trưởng khoa Hóa sinh, Viện Huyết học - Truyền máu Trung ương cho biết AFP là một globulin được hình thành trong túi noãn hoàng và gan của bào thai. Nếu thai nhi phát triển bình thường, nồng độ AFP trong máu của mẹ sẽ tăng lên. AFP sẽ chỉ còn lại không đáng kể trong máu mẹ sau sinh.
+AFP cũng được coi như một chất chỉ điểm (marker) khối u đối với một số loại ung thư (nhất là ung thư gan nguyên phát). Khi nồng độ AFP càng cao thì khả năng ung thư càng lớn.
+Xét nghiệm AFP được các bác sĩ chỉ định để:
+- Chẩn đoán ung thư gan nguyên phát: Khi nồng độ AFP > 500ng/mL có thể khẳng định gần như chắc chắn bệnh nhân bị ung thư gan. Ngoài ra, AFP còn được sử dụng để đánh giá đáp ứng điều trị của bệnh nhân.
+- Sàng lọc khuyết tật ống thần kinh của bào thai như: tật nứt đốt sống và quái thai không não. Xét nghiệm được làm trong khoảng thời gian từ tuần thứ 15 đến tuần 20 khi mang thai. Nếu AFP tăng cao bất thường cần làm thêm các xét nghiệm bổ sung khác (siêu âm thai, định lượng AFP trong dịch ối).
+Hiện nay, bộ 3 xét nghiệm gồm: AFP, estriol và HCG (triple test) được sử dụng để sàng lọc khuyết tật ống thần kinh của bào thai, hội chứng 3 NST 18 (trisomy 18), hội chứng Down (trisomy 21).
+Bạn không cần phải nhịn ăn trước khi làm xét nghiệm AFP.
+Giá trị bình thường của xét nghiệm AFP < 7 ng/mL, giảm AFP ít có ý nghĩa nên không được quan tâm nhiều.
+Tăng AFP thường gặp trong:
+- Ung thư: tăng nhiều trong ung thư gan, tăng ít trong ung thư dạ dày, phổi, tụy, thận, tinh hoàn, đại tràng, vú.
+- Các bệnh lý khác không phải ác tính như viêm gan, khuyết tật ống thần kinh của thai, suy thai, đa thai.
+Tuy nhiên, việc phân tích kết quả xét nghiệm phải do bác sĩ thực hiện và đưa ra lời khuyên dựa trên việc tổng hợp khám lâm sàng cùng với các xét nghiệm khác. Đặc biệt cần chú ý AFP, cả triple test chỉ được coi như một xét nghiệm sàng lọc ban đầu. Để chẩn đoán xác định vẫn cần thêm những kết quả thăm dò khác như siêu âm, giải phẫu bệnh…, tình trạng khám lâm sàng.
+Kết quả được trả trong vòng 2 giờ đồng hồ kể từ khi nhận mẫu.

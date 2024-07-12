@@ -1,0 +1,23 @@
+# doc_id = health_cancer_210
+# url = https://dantri.com.vn/suc-khoe/ung-thu-phoi-khong-te-bao-nho-tien-trien-nhanh-nhu-the-nao-20220726214013915.htm
+# date = 20220726
+Ung thư phổi không tế bào nhỏ tiến triển nhanh như thế nào?
+Ung thư phổi không tế bào nhỏ (NSCLC) là loại ung thư phổi phổ biến nhất ở Hoa Kỳ. Hiệp hội Ung thư Hoa Kỳ ước tính rằng hơn 200.000 người ở Hoa Kỳ sẽ được chẩn đoán mắc bệnh ung thư phổi vào năm 2022 và lưu ý rằng khoảng 84% các trường hợp ung thư phổi là NSCLC.
+Giống như tất cả các bệnh ung thư khác, NSCLC dễ điều trị nhất khi bác sĩ có thể chẩn đoán nó trước khi nó lây lan. Nhiều yếu tố ảnh hưởng đến tốc độ và sự tiến triển của NSCLC, bao gồm giai đoạn chẩn đoán, loại NSCLC, dân tộc của người bị NSCLC và phản ứng của người đó với điều trị.
+Các nhà khoa học thường đo tốc độ phát triển của khối u trong thời gian nhân đôi. Đó là thời gian để một nhóm tế bào ung thư tăng gấp đôi kích thước.
+Một nghiên cứu năm 2019 cho thấy thời gian nhân đôi trung bình của NSCLC là 230 ngày. Một số khối u được nghiên cứu có kích thước tăng gấp đôi trong vòng 19 ngày, nhưng những khối u khác thì không bao giờ phát triển nhiều như vậy.
+Các nhà nghiên cứu đã chia những người tham gia nghiên cứu thành hai nhóm: những người có khối u có số lần nhân đôi trong 400 ngày trở lên và những người có khối u có số lần nhân đôi dưới 400 ngày. Những người tham gia trong nhóm có thời gian nhân đôi ngắn hơn có nhiều khả năng là nam giới và lớn tuổi hơn.
+Ngược lại, một đánh giá năm 2020 liệt kê thời gian tăng gấp đôi đối với ung thư phổi tế bào nhỏ (SCLC) là 86 ngày.
+Các triệu chứng thường gặp
+- Ho: gặp trong khoảng 80% bệnh nhân, thường thấy thay đổi về tần suất và mức độ trên người hút thuốc, có thể ho khan hoặc kèm theo khạc đờm.
+- Ho ra máu.
+- Khó thở.
+- Viêm phổi tái diễn một vị trí.
+- Tràn dịch màng phổi.
+- Đau ngực.
+- Đau vai, tay.
+- Triệu chứng do chèn ép: khó nuốt, khàn tiếng, hội chứng tĩnh mạch chủ trên...
+Các triệu chứng do di căn
+- Nhức đầu, buồn nôn, nôn, rối loạn nhận thức, vận động, triệu chứng thần kinh khu trú...
+- Đau xương, hạn chế vận động do đau...
+- Tê, yếu, mất vận động chi, đại tiểu tiện không tự chủ…

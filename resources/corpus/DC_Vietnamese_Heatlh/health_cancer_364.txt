@@ -1,0 +1,11 @@
+# doc_id = health_cancer_364
+# url = https://dantri.com.vn/suc-khoe/phuong-phap-chan-doan-ung-thu-noi-mac-tu-cung-20220704165349478.htm
+# date = 20220704
+Phương pháp chẩn đoán ung thư nội mạc tử cung
+Ung thư xảy ra khi các tế bào phát triển vượt quá khả năng kiểm soát của cơ thể. Tế bào ung thư nội mạc tử cung có thể lan tới các cơ quan khác của cơ thể (ví dụ như gan, phổi) và phát triển tại đó. Tình trạng này gọi là di căn xa.
+Bệnh nhân mắc ung thư nội mạc tử cung thường đến khám với các triệu chứng như chảy máu, rong kinh, khí hư âm đạo; đau và/hoặc sờ thấy khối ở vùng bụng dưới; hoặc gầy sút cân bất thường. Các bác sĩ sẽ hỏi bệnh và khám lâm sàng để đưa ra chẩn đoán.
+Nếu có triệu chứng nghi ngờ ung thư nội mạc tử cung, các bác sĩ sẽ chỉ định thêm các xét nghiệm cần thiết như:
+- Siêu âm tử cung buồng trứng qua đường âm đạo: Trong trường hợp này, một đầu dò siêu âm sẽ được đặt trong âm đạo, phát ra sóng siêu âm và thu nhận lại hồi âm từ các mô tế bào. Những hồi âm này sẽ được thể hiện dưới dạng hình ảnh trên máy tính. Những hình ảnh này có thể cho thấy khối u trong lớp nội mạc tử cung, hoặc dày niêm mạc tử cung. Đây có thể là dấu hiệu của ung thư nội mạc tử cung. Siêu âm cũng có thể đánh giá mức độ xâm lấn lớp cơ của ung thư.
+- Soi tử cung: Một ống soi sẽ được dùng để quan sát buồng tử cung. Các bác sĩ sẽ bơm nước muối sinh lý để quan sát lớp nội mạc rõ hơn, từ đó phát hiện và lấy bỏ những phần bất thường. Thuốc tê sẽ được sử dụng nhưng bệnh nhân vẫn hoàn toàn tỉnh táo.
+- Hút buồng tử cung: Các bác sĩ sẽ lấy một phần nội mạc để làm xét nghiệm tìm tế bào ung thư. Các bác sĩ sẽ đưa một ống nhỏ vào buồng tử cung để hút ra các mảnh nội mạc tử cung. Đây là xét nghiệm khẳng định chắc chắn ung thư nội mạc tử cung.
+- Nạo buồng tử cung: Xét nghiệm này được chỉ định khi hút buồng tử cung chưa khẳng định ung thư (do chưa đủ bệnh phẩm, hoặc kết quả chưa rõ ràng). Các bác sĩ sẽ mở tử cung qua cổ tử cung, sử dụng một dụng cụ đặc biệt nạo buồng tử cung, lấy các mảnh nội mạc tử cung. Thuốc gây mê có thể được sử dụng.

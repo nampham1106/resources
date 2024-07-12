@@ -1,0 +1,20 @@
+# doc_id = health_cancer_529
+# url = https://dantri.com.vn/suc-khoe/nguyen-nhan-dan-den-benh-ung-thu-20221204105445128.htm
+# date = 20221204
+Nguyên nhân dẫn đến bệnh ung thư
+Có khoảng hơn 200 bệnh ung thư khác nhau ở người. Ung thư thường phát triển âm thầm một thời gian dài trước khi gây ra các dấu hiệu và triệu chứng trên lâm sàng để có thể phát hiện được.
+Đôi khi ung thư không gây các triệu chứng lâm sàng mà chỉ được phát hiện tình cờ khi bệnh nhân đi khám định kỳ, bên cạnh đó khi ung thư gây ra các biểu hiện trên lâm sàng thì biểu hiện rất đa dạng và đôi khi cũng mơ hồ, không đặc hiệu, dễ bị bỏ sót và nhầm lẫn với các bệnh lành tính thông thường khác.
+Khi bệnh phát triển ngày càng nặng thì các triệu chứng lâm sàng rõ ràng của bệnh ung thư mới ngày càng điển hình.
+Ung thư xảy ra bởi những đột biến của ADN trong tế bào (Ảnh: H.D).
+Ung thư được gây ra bởi những thay đổi (đột biến) đối với ADN trong tế bào. ADN chứa thông tin di truyền cần thiết cho quá trình sản xuất các thành phần tế bào, các bào quan và quay vòng chu kỳ sống. Các lỗi trong hướng dẫn có thể khiến tế bào ngừng hoạt động bình thường và có thể khiến tế bào trở thành ung thư.
+Đột biến gen là gì?
+Theo Healthline, một đột biến gen có thể hướng dẫn một tế bào khỏe mạnh:
+- Cho phép tăng trưởng nhanh chóng: Đột biến gen có thể khiến tế bào phát triển và phân chia nhanh hơn. Điều này tạo ra nhiều tế bào mới mà tất cả đều có cùng một đột biến.
+- Không thể ngăn chặn sự phát triển không kiểm soát của tế bào: Các tế bào bình thường biết khi nào ngừng phát triển để bạn có đúng số lượng của mỗi loại tế bào. Các tế bào ung thư mất khả năng kiểm soát (gen ức chế khối u) cho chúng biết khi nào ngừng phát triển. Một đột biến trong gen ức chế khối u khiến các tế bào ung thư tiếp tục phát triển và tích lũy.
+- Mắc lỗi khi sửa lỗi ADN: Các gen sửa chữa ADN tìm kiếm các lỗi trong ADN của tế bào và tiến hành sửa chữa. Một đột biến trong gen sửa chữa ADN có thể có nghĩa là các lỗi khác không được sửa chữa, dẫn đến các tế bào trở thành ung thư.
+Những đột biến này là những đột biến phổ biến nhất được tìm thấy trong bệnh ung thư. Nhưng nhiều đột biến gen khác có thể góp phần gây ung thư.
+Nguyên nhân gây đột biến gen?
+Ví dụ, đột biến gen có thể xảy ra vì một số lý do:
+- Đột biến gen bạn được sinh ra: Bạn có thể được sinh ra với một đột biến di truyền mà bạn được thừa hưởng từ cha mẹ mình. Loại đột biến này chiếm một tỷ lệ nhỏ trong các bệnh ung thư.
+- Đột biến gen xảy ra sau khi sinh: Hầu hết các đột biến gen xảy ra sau khi bạn được sinh ra và không được di truyền. Một số yếu tố có thể gây đột biến gen, chẳng hạn như hút thuốc, phóng xạ, virus, hóa chất gây ung thư, béo phì, viêm mãn tính, lười vận động...
+Đột biến gen xảy ra thường xuyên trong quá trình tăng trưởng tế bào bình thường. Tuy nhiên, cơ thể có các cơ chế để nhận ra các lỗi này và sửa chữa lỗi đó. Đôi khi, một sai lầm bị bỏ qua. Điều này có thể khiến một tế bào trở thành ung thư.
