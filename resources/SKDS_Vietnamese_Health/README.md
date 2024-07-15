@@ -7,7 +7,12 @@ Vietnamese News Corpus is a text corpus collected by `nampham1106` in 2024 from 
 We collect documents from 700 diseases categories.
 This corpus contains more than 227814 sentences from 6163 documents.
 
+### Maintain scripts
 
+Build Corpus
+
+```
+$ python scripts/build.py
 [+] BUILD SUCCESS
 
 # CORPUS STATISTICS

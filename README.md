@@ -11,3 +11,9 @@
 Dan Chu health news corpus
 
 `task:corpus` `domain:health` `version:2.0-alpha` `year:2024`
+
+[SKDS_Vietnamese_Health](resources/corpus/SKDS_Vietnamese_Health/)
+
+Suc Khoe Doi Song Diseases news corpus
+
+`task:corpus` `domain:health` `version:2.0-alpha` `year:2024`
