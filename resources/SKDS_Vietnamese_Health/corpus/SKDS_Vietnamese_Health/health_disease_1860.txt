@@ -1,0 +1,29 @@
+# doc_id = health_disease_1860
+# url = https://suckhoedoisong.vn/cac-benh-co-the-du-phong-bang-vac-xin-benh-viem-nao-nhat-ban-169147477.htm
+# date = 17-08-2018
+Các bệnh có thể dự phòng bằng vắc-xin: Bệnh viêm não Nhật Bản
+Virut có sức đề kháng với nhiệt độ cơ thể và tác động hóa học. Virut bị phá hủy ở nhiệt độ trên 560C trong 30 phút; điểm bất hoạt nhiệt (TIP) là 400C. Virut cũng bị bất hoạt trong môi trường axit với pH 1-3 (ổn định trong môi trường kiềm pH 7-9).
+Virut rất không ổn định và không sống được trong môi trường tự nhiên; nhạy cảm với ánh sáng cực tím và phóng xạ gamma.
+Vật chủ chính
+Lợn và lây nhiễm qua muỗi. Các ổ chứa tự nhiên cho virut VNNB là các loài chim (chim diệc).
+Động vật khác có thể nhiễm virut VNNB mà có thể không góp phần lan truyền bao gồm: bò, cừu, dê, chó, mèo, gà, vịt, thú hoang dã, các loài bò sát và lưỡng cư.
+Phương thức lây truyền: Lây truyền từ động vật (chủ yếu là lợn và chim) sang người qua muỗi đốt (muỗi Culex, chủ yếu là muỗi Culex tritaeniorhynchus).
+Virut viêm não Nhật Bản truyền từ lợn và chim sang người qua muỗi đốt.
+Triệu chứng: Sốt cao, nôn, rối loạn vận động (gồng vặn người từng cơn, run rẩy, múa giật, co giật), tăng tiết đờm rãi, nói khó, ngủ gà gật, mất trí nhớ, lơ mơ, li bì, hôn mê. Có thể không có triệu chứng.
+Biến chứng: Để lại di chứng liệt cứng, di chứng thần kinh (không nói được, rối loạn tính cách, thiểu năng trí tuệ...), tử vong.
+Đường truyền: Lây truyền chủ yếu vào mùa hè/đầu mùa thu liên quan đến di chuyển của các loài chim từ phương Bắc, các loài chim cũng mang và gây bùng phát virut, muỗi gây nhiễm virut sang lợn. Do đó, dịch bệnh có thể gặp cuối mùa hè hoặc đầu mùa thu ở các vùng phía Bắc hoặc bệnh dịch quanh năm của vùng nhiệt đới phía Nam.
+Có chu kỳ liên tục giữa các loài chim, lợn và muỗi - vectơ truyền bệnh: Chủ yếu là muỗi Tritaeniorhynchus Culex sống ở các vùng ngập nước (ao cá, ruộng lúa, mương) và hoạt động nhiều nhất vào giờ hoàng hôn,
+Phòng bệnh không đặc hiệu
+Thực hiện tốt vệ sinh môi trường, giữ gìn nhà ở, chuồng trại gia súc, lợn sạch sẽ để hạn chế muỗi, nên để chuồng trại xa nhà, loại bỏ các ổ bọ gậy.
+Khi đi ngủ cần mắc màn, thường xuyên sử dụng các biện pháp xua, diệt muỗi trong các hộ gia đình, không cho trẻ em chơi gần chuồng gia súc để phòng muỗi đốt.
+Phòng bệnh đặc hiệu
+Tiêm vắc-xin VNNB đầy đủ và đúng lịch là biện pháp phòng bệnh hiệu quả nhất:
+Tiêm chủng 3 liều vắc-xin cơ bản:
+Mũi 1 khi trẻ 1 tuổi, mũi 2 sau mũi 1 từ 1-2 tuần.
+Mũi 3 sau mũi 2 một năm.
+Vắc-xin VNNB được triển khai trong tiêm chủng thường xuyên của Chương trình TCMR từ năm 2015. Các bà mẹ cần đưa con đến các điểm tiêm chủng của trạm y tế xã vào ngày tiêm chủng thường xuyên khi trẻ đến tuổi tiêm chủng vắc-xin VNNB để trẻ được phòng bệnh VNNB hiệu quả.
+Chống chỉ định
+Dị ứng nặng (sốc phản vệ) sau mũi tiêm trước hoặc với bất cứ thành phần nào của vắc-xin; các bệnh nhiễm trùng đang tiến triển; phụ nữ mang thai; bệnh tim, thận hoặc gan; bệnh tiểu đường hoặc suy dinh dưỡng; bệnh ung thư máu và các bệnh ác tính nói chung; bệnh về não, bệnh động kinh không kiểm soát được và các bệnh về thần kinh khác; chức năng miễn dịch suy giảm hoặc đang điều trị thuốc ức chế miễn dịch.
+Tác dụng không mong muốn
+Phản ứng thông thường: Đau, sưng, nóng nhẹ tại chỗ tiêm.
+Phản ứng nặng: Sốt cao, phát ban dị ứng, phù mạch thần kinh, viêm não tủy, sốc phản vệ.

@@ -1,0 +1,98 @@
+# doc_id = health_disease_1567
+# url = https://suckhoedoisong.vn/nhiem-vi-khuan-hpylori-co-them-phuong-phap-chua-tri-169220511161547217.htm
+# date = 12-05-2022
+Người bệnh nhiễm vi khuẩn H.Pylori có thêm phương pháp chữa trị
+1.Liệu pháp mới
+điều trị vi khuẩn H.Pylori
+Vonoprazan
+là một thuốc ức chế acid cạnh tranh kali, có tác dụng ức chế bơm proton ở tế bào thành dạ dày, từ đó ức chế bước cuối cùng trong bài tiết acid vào dịch vị. Thuốc này có thời gian khởi phát ngắn và có thể kiểm soát pH dạ dày kéo dài (hay nói cách khác
+là có tác dụng kháng tiết nhanh và bền).
+Liệu pháp ức chế acid từ lâu đã được coi là xương sống cho các phác đồ điều trị
+H. pylori
+nhằm tăng cường hiệu quả của
+kháng sinh
+. Người ta đã giả thuyết rằng một chất ức chế acid mạnh hơn như vonoprazan có thể giúp cải thiện tỷ lệ tiệt trừ vi khuẩn của các phác đồ hiện hành.
+Hiện, tỷ lệ diệt trừ
+H. pylori
+tiếp tục giảm một phần do tình trạng
+kháng thuốc kháng sinh
+, ức chế acid không đầy đủ và phác đồ điều trị phức tạp, dẫn đến thất bại trong điều trị và biến chứng cho bệnh nhân. Các điều trị dựa trên vonoprazan sẽ cung cấp một liệu pháp mới cho những người bệnh nhiễm
+H. Pylori
+.
+Vi khuẩn H.Pylori – một thủ phạm gây viêm loét dạ dày.
+Theo đó hai sản phẩm được phê duyệt là:
+Voquezna Triple Pak
+là một sản phẩm đóng gói chung có chứa vonoprazan,
+amoxicillin
+- một loại kháng sinh nhóm penicillin và clarithromycin- một chất kháng khuẩn macrolide.
+Voquezna Dual Pak
+là một sản phẩm đóng gói chung có chứa vonoprazan và amoxicillin.
+Các phác đồ điều trị chứa voquezna này được cung cấp dưới dạng vỉ giúp thúc đẩy việc tuân thủ điều trị; cung cấp cho bác sĩ sự linh hoạt của hai lựa chọn điều trị khác nhau bao gồm chế độ điều trị không có kháng sinh clarithromycin, mang lại tiềm năng cải thiện kết quả lâm sàng ở bệnh nhân nhiễm
+H. pylori
+Để giảm sự phát triển của vi khuẩn kháng thuốc và duy trì hiệu quả của hai thuốc này và các loại thuốc kháng khuẩn khác, cả hai sản phẩm chỉ nên được sử dụng để điều trị hoặc ngăn ngừa nhiễm trùng đã được chứng minh hoặc nghi ngờ là do vi khuẩn gây ra.
+2. Một số thông tin quan trọng khi dùng thuốc
+2.1 Lưu ý chung
+-Chống chỉ định
+:
+Không dùng thuốc ở những
+bệnh nhân quá mẫn với vonoprazan hoặc amoxicillin, hoặc bất kỳ thành phần nào khác của công thức, bất kỳ beta-lactam nào khác, hoặc ở những bệnh nhân đang dùng các sản phẩm có chứa rilpivirine (
+thuốc điều trị HIV
+).
+Do chứa thành phần clarithromycin, nên Voquezna Triple Pak cũng được chống chỉ định ở những bệnh nhân quá mẫn với clarithromycin hoặc bất kỳ kháng sinh macrolide nào, ở những bệnh nhân đang dùng pimozide (thuốc chống loạn thần),
+thuốc hạ lipid máu
+(lomitapide, lovastatin, simvastatin), thuốc trị đau nửa đầu (ergotamine, dihydroergotamine), colchicine (thuốc trị gút) ở bệnh nhân suy thận hoặc gan, hoặc những người có tiền sử vàng da ứ mật / rối loạn chức năng gan.
+-
+Phản ứng quá mẫn
+: Các phản ứng nghiêm trọng và đôi khi gây tử vong (ví dụ:
+Sốc phản vệ
+) đã được báo cáo. Nếu phản ứng quá mẫn xảy ra, ngừng sử dụng và tiến hành điều trị ngay lập tức (ví dụ, xử trí phản vệ).
+Hậu quả nghiêm trọng do nhiễm H.pylori
+ĐỌC NGAY
+-Phản ứng có hại trên da nghiêm trọng (SCAR):
+Ngừng sử dụng thuốc khi có dấu hiệu hoặc triệu chứng đầu tiên của SCAR hoặc các dấu hiệu quá mẫn khác và xem xét đánh giá thêm. SCAR, bao gồm hội chứng Stevens-Johnson (SJS) và hoại tử biểu bì nhiễm độc (TEN) đã được báo cáo với các thành phần của cả hai sản phẩm. Ngoài ra, phản ứng của thuốc với tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS), mụn mủ ngoại ban tổng quát cấp tính (AGEP) đã được báo cáo với amoxicillin và clarithromycin.
+-
+Tiêu chảy
+do liên kết với Clostridioides difficile (CDAD):
+CDAD đã được báo cáo khi sử dụng các liệu pháp ức chế acid và gần như tất cả các chất kháng khuẩn và có thể ở mức độ nghiêm trọng từ tiêu chảy nhẹ đến
+viêm đại tràng
+gây tử vong. Nếu CDAD được xác nhận, ngừng điều trị và điều trị thích hợp.
+-Các phản ứng có hại
+thường gặp nhất bao gồm tiêu chảy, rối loạn tiêu hóa, nhiễm nấm Candida âm đạo, đau bụng, nhức đầu, tăng huyết áp và viêm mũi họng.
+2.2
+Đối với sản phẩm chứa clarithromycin trị vi khuẩn H.Pylori
+-
+Hội chứng QT kéo dài:
+Đây là một trong những bệnh lý về tim khi hệ thống điện tim trở nên bất thường.
+Tránh dùng Voquezna Triple Pak ở những bệnh nhân có QT kéo dài hoặc đang dùng thuốc được biết là kéo dài khoảng QT, loạn nhịp thất (
+xoắn đỉnh
+), hạ kali máu...
+-Độc tính trên gan
+: Ngừng sử dụng Voquezna Triple Pak nếu các dấu hiệu và triệu chứng của bệnh viêm gan xảy ra.
+-Phản ứng có hại nghiêm trọng do sử dụng đồng thời với các thuốc khác
+: Phản ứng có hại nghiêm trọng có thể xảy ra với Voquezna Triple Pak do
+tương tác thuốc
+của clarithromycin với colchicine, một số thuốc hạ lipid, một số thuốc chẹn kênh canxi, thuốc hạ đường huyết bao gồm insulin, quetiapine, warfarin, benzodiazepine, và các loại thuốc khác.
+-Độc tính với phôi thai:
+Voquezna Triple Pak không được khuyến cáo sử dụng trong thời kỳ mang thai vì clarithromycin có thể gây hại cho thai nhi.
+-
+Bệnh nhược cơ
+:
+Đợt cấp của bệnh nhược cơ có thể xảy ra với Voquezna Triple Pak vì nó đã được báo cáo ở những bệnh nhân dùng viên nén clarithromycin.
+Mời độc giả xem thêm video:
+Hậu covid- Phục hồi chức năng cho người mắc COVID-19 nhẹ và không triệu chứng
+Ngọc Bích
+Theo Drugs
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

@@ -1,0 +1,38 @@
+# doc_id = health_disease_1659
+# url = https://suckhoedoisong.vn/suy-than-cap-do-dung-thuoc-dieu-tri-16998587.htm
+# date = 12-06-2015
+Suy thận cấp do dùng thuốc điều trị
+Bài 1: Bệnh ống
+thận
+do nhiễm độc trực tiếp
+Cần lưu ý rằng ngay cả với những loại thuốc không gây độc đối với thận nhưng phần lớn cũng được thải qua đường
+thận
+. Trong trường hợp
+thận
+bị suy, thuốc thường bị tích lũy lại và đưa nồng độ thuốc tăng cao ở trong máu để gây nhiễm độc cho cơ thể; vì vậy trường hợp này phải dùng thuốc với liều lượng thấp hơn và thưa hơn.
+Các nhà khoa học đã chia bệnh suy thận cấp làm 4 thể loại khác nhau căn cứ vào sinh lý bệnh gồm: bệnh ống
+thận
+do nhiễm độc trực tiếp và đây là loại hay gặp nhất; bệnh ống thận - mô kẽ do miễn dịch - dị ứng; suy
+thận
+chức năng do giảm lưu lượng máu đến thận với cơ chế trước thận; tắc ống thận do kết tủa các hóa chất với cơ chế sau thận và trường hợp này ít gặp.
+Bệnh gây nên do tế bào biểu mô ống thận bị thương tổn; có thể ở màng tế bào, nhân, lưới bào tương, ty lạp thể hoặc lysosom. Cần lưu ý tình trạng bệnh lý nhẹ hay nặng không chỉ phụ thuộc vào lượng chất độc của thuốc mà còn phụ thuộc vào cơ địa của cơ thể bệnh nhân như tuổi cao, thiếu nước, suy tuần hoàn, các bệnh mãn tính khác... Chúng có thể làm cho tình trạng suy thận nặng thêm rất nhiều.
+Những thuốc có thể gây bệnh ống thận do nhiễm độc trực tiếp gồm:
+Kháng sinh
+thuộc nhóm aminoglucosid là nguyên nhân khá phổ biến, có thể chiếm từ 10 - 15% các trường hợp gây nên suy thận cấp. Theo các nhà khoa học, cứ 10 người dùng kháng sinh nhóm aminoglucosid để điều trị bệnh thì 1 người có chỉ số creatinin máu tăng. Trong nhóm thuốc này, neomycin có độc tính cao nhất; sau đó đến gentamycin, tobramycin và ít độc hơn cả là streptomycin. Tuy nhiên khi chọn lựa loại
+kháng sinh
+, cần căn cứ vào độ nhạy cảm của vi khuẩn nhiều hơn là dựa vào mức độ độc. Những yếu tố nguy cơ có thể gây nhiễm độc ống thận là sử dụng liều lượng cao, dùng dài ngày, dùng cho người cao tuổi, có suy thận từ trước, dùng đồng thời nhiều loại thuốc gây độc cho thận, bị giảm thể tích cơ thể, xơ gan... Tình trạng suy thận cấp thường xuất hiện từ 7 - 10 ngày sau khi dùng thuốc và lượng nước tiểu ít khi giảm. Để phòng ngừa, cần cân nhắc kỹ liều lượng và thời gian dùng thuốc, chọn loại thuốc thích hợp nhất là bệnh nhân có yếu tố nguy cơ cao. Đối với kháng sinh thuộc nhóm cephalosporin thế hệ 1 như: cefadroxyl, cefalexin, cefalotin, cefazolin có thể gây bệnh ống thận do nhiễm độc nhưng thế hệ thứ 2 như: cefamandol, cefoxitin và thế hệ tứ 3 như cefoperazon, cefotaxim, cefotetan, ceftriaxon, cefixim... rất ít độc đối với ống thận nên có thể sử dụng an toàn hơn. Còn
+kháng sinh
+nhóm amphotericin B là kháng sinh chống nấm có khả năng gây nhiễm độc vì tác động lên lipid ở màng tế bào biểu mô ống thận...; vì vậy thuốc có thể gây suy thận cấp, nhiễm toan do ống thận, tiểu nhạt do thận; do đó nên tính liều lượng dùng vừa đủ, tránh sử dụng liều cao. Ngoài ra,
+kháng sinh
+thuộc nhóm polypeptid như polymixin và colistin có độc tính cao đối với thận nên hiện nay không dùng thuốc bằng đường tiêm truyền vì đã có nhiều loại kháng sinh khác thay thế.
+Hóa chất chống ung thư như cisplatin dùng liều cao có thể gây suy thận cấp và làm hạ magnesium máu. Vì vậy, để ngăn ngừa nên tiếp nước đầy đủ và dùng kèm thuốc lợi tiểu để tiểu tiện nhiều. Còn đối với methyl CCNU, streptozocin, mitomycin C, mithramycin, adriamycin ít khi gây suy thận cấp.
+Thuốc cản tia quang tuyến X có cơ chế gây suy thận cấp do chúng làm co động mạch thận và có độc tính trực tiếp lên nhu mô thận. Tuy vậy, trên thực tế biến chứng này ít khi xảy ra trừ trường hợp bệnh nhân có các yếu tố nguy cơ như bị suy thận từ trước, đái tháo đường, u tủy xương, thiếu nước, suy tim nặng, vàng da, tuổi cao, đang dùng thuốc chống viêm không steroid vì chúng cũng có khả năng gây co mạch máu thận... Phòng ngừa bằng cách tiếp nước đầy đủ và dùng thuốc lợi tiểu để làm đi tiểu nhiều.
+Thuốc ciclosporin là loại thuốc giảm miễn dịch có thể gây suy thận cấp qua cơ chế giảm lọc cầu thận. Nếu trong điều trị dùng đồng thời phối hợp thêm với kháng sinh thuộc nhóm aminoglycosid và amphotericin B thì càng gây độc cho thận hơn. Vì vậy, phòng ngừa bằng cách dùng liều lượng thích hợp, giữ cho nồng độ trong huyết tương ở mức độ thấp.
+Thuốc gây mê có fluor cũng có thể gây suy thận cấp vì fluor qua gan sẽ bị chuyển hóa thành những hợp chất độc đối với thận. Những loại thuốc mới như halothan ít độc hơn nên hiện nay được dùng khá phổ biến, thay thế cho các loại thuốc cũ như methoxyfluran, enfluran, isofluran.
+Thuốc giảm đau có khả năng gây suy thận cấp. Nhóm thuốc amino-4-quinolein như glafenin, floctofenin, antrafenin gây lắng đọng axít hydroxyglafenic làm tắc nghẽn các ống thận nên hiện nay đã có chỉ định cấm sử dụng. Thuốc paracetamol dùng phổ biến hơn nhưng nếu uống liều cao trên 15g có thể gây viêm gan cấp kèm theo suy thận cấp do bị hoại tử ống thận. Nếu uống liều thấp hơn nhưng dùng dài ngày cũng có thể gây suy thận cấp, đặc biệt đối với người bệnh nghiện rượu hoặc bị suy dinh dưỡng.
+Lời khuyên của thầy thuốc
+Theo các nhà khoa học, dù cơ chế gây bệnh nào ở trước thận, tại thận hay sau thận thì bệnh thận do dùng thuốc gồm 3 bệnh cảnh lâm sàng chủ yếu là suy thận cấp, suy thận mãn và hội chứng thận hư. Suy thận cấp là tình trạng thường hay gặp và khá nguy hiểm, có thể gây tử vong nếu không được phát hiện, xử trí phù hợp. Vì vậy khi dùng thuốc để điều trị cần phải có chỉ định, tư vấn và hướng dẫn cụ thể của bác sĩ; đặc biệt là những người có tiền sử về bệnh thận để tránh những tai biến đáng tiếc xảy ra.
+TTƯT.BS. NGUYỄN VÕ HINH
+Thuốc trầm cảm Sertralin: Sự thận trọng cần thiết
+6 ca tử vong do MERS-CoV tại Hàn Quốc, Việt Nam nâng cao cảnh giác
+Chuyến du lịch đầu tiên ra Trường Sa

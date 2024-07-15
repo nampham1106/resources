@@ -1,0 +1,19 @@
+# doc_id = health_disease_1404
+# url = https://suckhoedoisong.vn/ieu-can-luu-y-khi-dung-cac-thuoc-ha-acid-uric-mau-169164180.htm
+# date = 06-10-2019
+Ðiều cần lưu ý khi dùng các thuốc hạ acid uric máu
+Khi acid uric trong máu tăng cao vượt quá độ bão hòa, nó có thể kết tinh lại thành các tinh thể urat, lắng đọng ở khớp gây ra cơn gút cấp (bệnh gút); hoặc lắng đọng tại da, mô mềm thành các hạt tophi hoặc tạo thành sỏi urat ở thận. Việc dùng thuốc hạ acid uric giúp tránh được các biến chứng này, tuy nhiên khi dùng cần lưu ý sao cho dùng thuốc vừa đạt hiệu quả lại an toàn...
+Nhóm thuốc giảm tổng hợp acid uric
+Nhóm này có tác dụng ức chế men xanthine oxodase (XO), gồm các thuốc:
+Allopurinol: Được sử dụng điều trị hạ acid uric ở bệnh gút từ năm 1966 cho tới nay. Allopurinol ức chế men XO và nhanh chóng chuyển hóa thành oxypurinol để thải trừ qua thận. Trên lâm sàng, allopurinol được sử dụng để giảm nồng độ acid uric nhất là do viêm khớp gút và sỏi thận. Những chỉ định khác gồm tăng acid uric máu trong hội chứng Lesch-Nyhan và trong bệnh đa u tủy xương.
+Khi dùng allopurinol có thể gặp những tác dụng phụ sau: kích ứng dạ dày ruột, ban đỏ và hội chứng Steven-Johnson. Ngoài ra còn có hội chứng tăng nhạy cảm với Allopurinol (AHS) mặc dù hiếm gặp nhưng nguy cơ tử vong ở những bệnh nhân là 2-8%. Những biến chứng này có thể gặp với tỉ lệ cao hơn nếu bệnh nhân có tình trạng suy thận, do đó cần chỉnh liều thuốc khi bệnh nhân có suy thận. Khi dùng cùng ampicillin hoặc amoxicillin có thể làm tăng tác dụng phụ của allopurinol.
+Febuxostat: Là một thuốc ức chế XO chọn lọc không purine, thuốc được chỉ định điều trị tăng acid uric máu ở bệnh nhân có gút, nhưng không chỉ định cho những trường hợp tăng acid uric máu không triệu chứng. Thuốc dùng được với những bệnh nhân có suy giảm chức năng thận.
+Febuxostat được chỉ định điều trị hạ acid uric máu khi bệnh nhân dị ứng với allopurinol, nhưng cũng cần thận trọng ở bệnh nhân có bệnh lý tim mạch. Sử dụng febuxostat trên lâm sàng vẫn còn thấp vì giá thành của nó cao hơn nhiều so với allopurinol.
+Để hạ acid uric máu cần phối hợp nhiều loại thuốc.
+Nhóm thuốc tăng thải acid uric
+Nhiều nghiên cứu cho thấy, tăng acid uric máu ở một số bệnh nhân còn có thể là do giảm đào thải acid uric qua thận. Điều này gợi ý tới việc đưa các thuốc thải acid uric vào điều trị hạ acid uric máu. Nhóm thuốc này được lựa chọn như hàng thứ hai để giảm acid uric máu khi không đạt hiệu quả đối với thuốc ức chế men XO. Phối hợp 2 nhóm thuốc này cho thấy hiệu quả hạ acid uric máu nhanh và giải quyết được các hạt tophi. Không chỉ định nhóm thuốc tăng thải acid uric cho những bệnh nhân có sỏi thận.
+Các thuốc thuộc nhóm này gồm probenecid, lesinurad... Cần chú ý rằng, các thuốc thải acid uric được sử dụng để tăng đào thải acid uric qua thận, vì vậy cần chú ý với những bệnh nhân có sỏi thận và những biện pháp kiềm hóa nước tiểu.
+Các thuốc hủy urat
+Nhóm thuốc này gồm có pegloticase và rasburicase. Ở người, uricase làm biến đổi acid uric thành chất allatonin tan trong nước và được đào thải qua thận. Chính vì vậy, biện pháp truyền enzyme uricase tái tổ hợp được sử dụng trong những trường hợp cần hạ nhanh và tức thời acid uric máu đó chính là pegloticase, rasburicase. Thuốc được chấp thuận vào năm 2010 để điều trị gút kháng trị, gút có tophi gây hủy hoại khớp và các biến chứng. Tuy vậy, do tính hạ acid uric máu nhanh, thuốc được biết tới với hệ quả làm tái phát cơn gút nhanh. Tuy nhiên cũng gây kháng thuốc sau một vài tháng điều trị.
+Các phản ứng không mong muốn của thuốc bao gồm khó thở, đau ngực, bốc hỏa, nặng hơn có thể gặp tan máu, shock phản vệ. Phản ứng xuất hiện nhiều ở nhóm bệnh nhân xuất hiện kháng thể kháng thuốc. Trong các trường hợp này có thể điều trị corticoid, kháng histamin. Tuy nhiên cần thận trọng với bệnh nhân suy tim sung huyết.
+Như vậy, có rất nhiều thuốc dùng để hạ acid uric máu. Vì vậy, người bệnh cần đi khám để được bác sĩ chỉ định thuốc phù hợp.

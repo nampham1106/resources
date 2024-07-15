@@ -1,0 +1,9 @@
+# doc_id = health_disease_1951
+# url = https://suckhoedoisong.vn/thiet-bi-ho-tro-chan-doan-chung-roi-loan-pho-tu-ky-169194822.htm
+# date = 11-06-2021
+Thiết bị hỗ trợ chẩn đoán chứng rối loạn phổ tự kỷ
+Theo đó, hệ thống Cognoa ASD Diagnosis Aid là một phần mềm dựa trên máy học nhằm giúp các nhà cung cấp dịch vụ chăm sóc sức khỏe chẩn đoán ASD ở trẻ em từ 18 tháng đến 5 tuổi có các triệu chứng tiềm ẩn của rối loạn.
+Rối loạn phổ tự kỷ có thể làm chậm phát triển thể chất, nhận thức và xã hội của trẻ, bao gồm chậm phát triển kỹ năng vận động, học tập, giao tiếp và tương tác với người khác. Theo Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh, các triệu chứng ASD có thể rất khác nhau, nên khó chẩn đoán rối loạn này.Trong khi ASD có thể được phát hiện sớm nhất là 18 tháng tuổi thì nhiều trẻ em không được chẩn đoán sớm dẫn tới trì hoãn việc điều trị và can thiệp sớm.
+Thiết bị mới sử dụng thuật toán máy học để nhận thông tin đầu vào từ cha mẹ hoặc người chăm sóc, nhà cung cấp dịch vụ chăm sóc sức khỏe… sau đó phân tích các dữ liệu hỗ trợ các bác sĩ đánh giá một bệnh nhân có nguy cơ mắc ASD hay không sẽ cho các kết quả “Dương tính với ASD” hoặc “Âm tính với ASD” hoặc không cho kết quả nào khi không có đủ dữ liệu để cho ra hai kết quả trên
+Các rủi ro liên quan đến việc sử dụng thiết bị bao gồm chẩn đoán sai và chẩn đoán chậm ASD, dựa trên kết quả dương tính giả hoặc âm tính giả hoặc khi không có kết quả nào được tạo ra. Cả chẩn đoán sai hoặc chẩn đoán bỏ sót đều có thể dẫn đến việc điều trị ASD chậm trễ và đưa ra phương pháp điều trị không phù hợp với ASD.
+Hỗ trợ chẩn đoán ASD Cognoa được chỉ định cho bệnh nhân từ 18 tháng đến 5 tuổi có nguy cơ chậm phát triển dựa trên mối quan tâm của cha mẹ, người chăm sóc hoặc nhà cung cấp dịch vụ chăm sóc sức khỏe.Chỉ sử dụng thiết bị để hỗ trợ cho quá trình chẩn đoán của bác sĩ, chứ không dùng kết quả này để chẩn đoán ASD một cách độc lập.

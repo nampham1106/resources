@@ -1,0 +1,29 @@
+# doc_id = health_disease_865
+# url = https://suckhoedoisong.vn/vang-da-o-tre-so-sinh-khi-nao-can-dieu-tri-16968215.htm
+# date = 05-11-2013
+Vàng da ở trẻ sơ sinh - Khi nào cần điều trị?
+Vàng da sơ sinh là do tăng bilirubin gián tiếp rất hay gặp, chiếm 25 - 30% ở trẻ đủ tháng và đa số ở trẻ non tháng. Bệnh thường xảy ra trong tháng tuổi đầu tiên nhưng nguy hiểm nhất là trong 2 tuần đầu. Vàng da sơ sinh có thể ở mức độ nhẹ (vàng da sinh lý) nhưng cũng có thể tiến triển nặng (vàng da bệnh lý). Nếu không phát hiện và điều trị vàng da bệnh lý kịp thời thì có thể xảy ra biến chứng nhiễm độc thần kinh (còn gọi là vàng da nhân) do bilirubin gián tiếp thấm vào não mà hậu quả là trẻ sẽ bị tử vong hoặc bị bại não suốt đời.
+Thế nào là vàng da sinh lý ở trẻ sơ sinh?
+Ở trẻ đủ tháng, bình thường thì vàng da được coi là sinh lý khi vàng da xuất hiện sau 24 giờ tuổi. Hết trong vòng 1 tuần với trẻ đủ tháng và 2 tuần đối với trẻ non tháng. Mức độ vàng da nhẹ (chỉ vàng da vùng mặt, cổ, ngực và vùng bụng phía trên rốn). Vàng da đơn thuần, không kết hợp các triệu chứng bất thường khác (thiếu máu, gan lách to, bỏ bú, lừ đừ...). Nồng độ bilirubin/máu không quá 12mg% ở trẻ đủ tháng và không quá 14mg% ở trẻ non tháng...Tốc độ tăng bilirubin/máu không quá 5mg% trong 24 giờ.
+Chiếu đèn điều trị vàng da bệnh lý ở trẻ sơ sinh.
+Thế nào là vàng da bệnh lý ở trẻ sơ sinh?
+Vàng da được coi là bệnh lý khi có bất thường từ một trong số các tiêu chuẩn sau:
+- Vàng da đậm xuất hiện sớm;
+- Không hết vàng sau 1 tuần với trẻ đủ tháng và 2 tuần đối với trẻ non tháng;
+- Mức độ vàng toàn thân và cả mắt;
+- Vàng da kết hợp các triệu chứng bất thường khác (trẻ lừ đừ, bỏ bú, co giật...);
+- Xét nghiệm bilirubin trong máu tăng hơn bình thường.
+Khi có các dấu hiệu vàng da bệnh lý như nói trên, cần phải đưa ngay trẻ đi khám bác sĩ chuyên khoa Nhi để được chẩn đoán và điều trị
+càng sớm càng tốt.
+Các phương pháp điều trị vàng da sơ sinh?
+Cho đến nay, tại các khoa sơ sinh, điều trị vàng da sơ sinh bằng 3 phương pháp chính, đó là:
+- Cung cấp đầy đủ nước và năng lượng (qua cho bú hoặc truyền dịch), truyền albumin và dùng một số loại thuốc để gia tăng tốc độ chuyển hoá bilirubin gián tiếp.
+- Chiếu đèn là phương pháp điều trị vàng da sơ sinh hiệu quả nhất, an toàn, đơn giản và kinh tế nhất.
+- Thay máu khi bé có triệu chứng đe dọa nhiễm độc thần kinh do bilirubin trong máu tăng cao.
+Tùy trường hợp cụ thể, các bác sĩ có thể sử dụng 1 - 2 hay 3 phương pháp cùng lúc.
+Chiếu đèn điều trị vàng da được chỉ định khi nào?
+Chiếu đèn là sử dụng ánh sáng có bước sóng từ 400 - 500nm, cực điểm 450 - 460nm tương ứng với đỉnh hấp thụ của bilirubin (ánh sáng màu xanh dương). Khi chiếu đèn năng lượng, ánh sáng sẽ xuyên qua da, tác động lên các phân tử bilirubin nằm trong lớp mỡ dưới da để biến đổi các phân tử bilirubin gián tiếp (độc cho não của trẻ) thành các sản phẩm đồng phân hay các sản phẩm quang oxy hoá tan được trong nước, không độc và sẽ được đào thải qua gan (qua mật) và thận (qua nước tiểu). Chiếu đèn được chỉ định sau 24 giờ tuổi để điều trị vàng da tăng bilirubin gián tiếp bệnh lý chưa có triệu chứng tiền nhiễm độc hay nhiễm độc thần kinh. Cũng có thể chiếu đèn dự phòng trong các trường hợp có nguy cơ vàng da sơ sinh như: trẻ non tháng, có bướu huyết thanh, sọ to, trẻ có tán huyết...
+Chú ý: Khi chiếu đèn, trẻ được cởi trần, có che kín mắt và bộ phận sinh dục, thường xuyên xoay trở mình cho trẻ để tăng diện tích da tiếp xúc với ánh sáng. Có thể chiếu đèn liên tục hay cách quãng, với trẻ đủ tháng khỏe mạnh, khoảng sau 3 giờ, có thể cho trẻ ra ngoài để bú mẹ hoặc thay tã. Ở nơi có điều kiện, các trẻ vàng da bệnh lý mức độ nhẹ hoặc trung bình thì có thể thực hiện chiếu đèn tại phòng riêng của mẹ có sự theo dõi của bác sĩ chứ không cần ở phòng cách ly. Thực hiện việc chiếu đèn sớm có tác dụng khi trẻ xuất viện sẽ không còn nguy cơ vàng da nặng.
+Lời khuyên của thầy thuốc
+Như trên đã nói, nếu không phát hiện và điều trị vàng da bệnh lý kịp thời sẽ dẫn đến vàng da nhân, hậu quả là để lại di chứng bại não suốt đời, thậm chí tử vong. Do vậy, tốt nhất để phòng vàng da bệnh lý bằng cách các bà mẹ mang thai cần khám thai định kỳ, đặc biệt, các tháng cuối cần có chế độ ăn uống, nghỉ ngơi hợp lý để không bị sinh non; khi sinh cần đến cơ sở y tế để được cán bộ có chuyên môn theo dõi và đỡ đẻ; Đối với các trẻ mới chớm vàng da thì có thể tắm nắng ấm mỗi sáng, nhưng nếu trẻ đã vàng da nhiều thì phải sớm đưa trẻ đi khám ở bác sĩ chuyên khoa Nhi để được điều trị ngay.
+BS.Trần Minh Nguyệt

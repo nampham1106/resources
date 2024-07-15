@@ -1,0 +1,57 @@
+# doc_id = health_disease_2940
+# url = https://suckhoedoisong.vn/chan-doan-va-phong-ngua-benh-soi-16978723.htm
+# date = 02-05-2019
+Chẩn đoán và phòng ngừa bệnh sởi
+Sởi
+là một bệnh truyền nhiễm cấp tính gây ra bởi virút Polynosa morbillorum thuộc giống Morbillivirus, họ Paramyxoviridae.
+Việt Nam là quốc gia có
+bệnh sởi
+lưu hành, chủ yếu gặp ở trẻ em dưới 5 tuổi. Bệnh thường xuất hiện vào mùa đông xuân, thỉnh thoảng gây ra những vụ dịch lớn nếu không chủng ngừa đầy đủ cho cộng đồng như vụ dịch năm 2009. Hàng năm chương trình
+tiêm chủng
+quốc gia rất chú ý đến việc tiêm ngừa sởi.
+Virút sởi chịu đựng kém ở môi trường bên ngoài, chúng chết ở ngoại cảnh trong vòng 30 phút, dễ bị bất hoạt bởi các thuốc sát trùng thông thường.
+Biểu hiện lâm sàng của
+bệnh sởi
+:
+Bệnh sởi
+có 3 giai đoạn:
+- Thời kỳ ủ bệnh: 7 - 18 ngày:
+Bệnh nhân sau khi tiếp xúc với nguồn bệnh thì trong vòng 7 - 18 ngày sẽ không thấy triệu chứng gì bất thường.
+- Giai đoạn tiền triệu: 3 - 5 ngày:
+Sau thời kỳ ủ bệnh, bệnh nhân sốt, có biểu hiện viêm đường hô hấp như: ho, nhảy mũi, đỏ mắt, chảy nước mũi... Giai đoạn này có dấu hiện lâm sàng điển hình là dấu Koplik ở niêm mạc má (các hạt Koplik ở niêm mạc miệng, mặt trong má).
+- Giai đoạn phát ban:
+Giai đoạn này bệnh nhân sẽ xuất hiện ban đỏ toàn thân, theo thứ tự từ trên xuống dưới, bắt đầu là ở đầu, mặt, cổ, rồi đến thân, lan ra tứ chi.
+Đặc điểm của ban sởi là nốt sẩn mịn, có màu hồng nhạt, khi dùng tay ấn vào sẽ biến mất. Khi
+bệnh sởi
+lui, ban sởi sẽ nhạt dần và mất đi theo đúng thứ tự lúc xuất hiện, trên da sẽ còn lại những vết thâm loang lổ như da hổ.
+Nên đặt biệt lưu ý thời kỳ lây nhiễm: bệnh nhân sởi có thể lây bệnh cho người tiếp xúc trong khoảng thời gian từ 5 ngày trước đến 5 ngày sau khi phát ban.
+Ngoài ra còn có thể lâm sàng không điển hình của
+bệnh sởi
+:
+- Bệnh nhân chỉ có sốt nhẹ thoáng qua, viêm long hô hấp nhẹ và các nốt ban xuất hiện ít, tổng trạng thường ổn.
+- Bệnh nhân sốt cao liên tục nhưng ban xuất hiện không điển hình, có thể có viêm phổi kèm theo, có phù nề tay chân...
+Các phương pháp cận lâm sàng chẩn đoán bệnh sởi:
+Các xét nghiệm cơ bản:
+- Công thức máu: bạch cầu giảm, thành phần lympho giảm.
+- X-quang phổi: quan trọng để tránh bỏ sót biến chứng viêm phổi ở trẻ em, nên chụp X-quang sớm, có thể phát hiện viêm phổi kẽ hoặc viêm phổi do bội nhiễm.
+Xét nghiệm chuyên biệt phát hiện virút sởi:
+- Huyết thanh miễn dịch học:
+Xét nghiệm máu vào ngày thứ 3 - 4 sau khi bệnh nhân có xuất hiện ban sởi để tìm kháng thể IgM.
+- Phân lập virút (khó làm, chỉ thực hiện được ở các phòng thí nghiệm có kỹ thuật cao).
+- Dùng phương pháp sinh học phân tử (RT-PCR) để khuếch đại gen của virút sởi.
+Kỹ thuật này có độ nhạy trên 90% và đều có độ đặc hiệu là 100%.
+Phòng bệnh sởi:
+1. Phòng bệnh chủ động bằng
+vắc-xin
+:
+- Tiêm chủng 2 mũi vắc-xin cho trẻ em trong độ tuổi tiêm chủng theo quy định của Dự án tiêm chủng mở rộng quốc gia.
+- Tiêm vắc-xin phòng sởi cho các đối tượng khác trên 2 tuổi khi có dịch để khống chế dịch kịp thời, vấn đề này phải do cơ quan chống dịch quy định cụ thể.
+2. Cách ly bệnh nhân và vệ sinh cá nhân:
+- Bệnh nhân sởi phải được cách ly tại nhà hoặc tại cơ sở điều trị theo nguyên tắc cách ly đối với bệnh lây truyền qua đường hô hấp:
+Sắp xếp các bệnh nhân cùng chẩn đoán trong các khu vực riêng biệt.
+Sử dụng khẩu trang phẫu thuật cho bệnh nhân, người chăm sóc, tiếp xúc gần và nhân viên y tế.
+Hạn chế việc tiếp xúc gần không cần thiết của nhân viên y tế và người thăm bệnh nhân đối với bệnh nhân.
+Thời gian cách ly trong suốt giai đoạn viêm long cho đến ít nhất 4 ngày sau khi bắt đầu phát ban.
+- Tăng cường vệ sinh cá nhân, sát trùng mũi họng, giữ ấm cơ thể, nâng cao thể trạng để tăng sức đề kháng.
+- Khi có biểu hiện sốt phát ban dạng sởi thì cần đến ngay cơ sở y tế để được khám và điều trị kịp thời.
+TS.BS. TRẦN PHỦ MẠNH SIÊU

@@ -1,0 +1,28 @@
+# doc_id = health_disease_1143
+# url = https://suckhoedoisong.vn/kich-hoat-gen-lieu-phap-co-the-dieu-tri-benh-alzheimer-trong-tuong-lai-169221111183508554.htm
+# date = 16-12-2022
+Kích hoạt gen- Liệu pháp điều trị bệnh Alzheimer trong tương lai?
+1.Tìm ra một loại gen bị thiếu hụt gây trầm trọng bệnh Alzheimer
+Nghiên cứu được công bố trên Tạp chí Molecular Neurodegeneration cho thấy: Việc xóa bỏ CX3CR1 - một gen liên quan đến các bệnh thoái hóa thần kinh ở động vật mắc
+bệnh Alzheimer
+, khiến tình trạng bệnh trầm trọng hơn.
+CX3CR1 đã được chứng minh trong các nghiên cứu trên người và động vật trước đây là có khả năng điều chỉnh giảm các
+bệnh thoái hóa thần kinh
+khi kích hoạt tế bào microglia (tế bào miễn dịch của não).
+Trước đây, CX3CR1-V249I lần đầu tiên được xác định có liên quan đến thoái hóa điểm vàng. Sau đó được chứng minh là có liên quan đến sự thoái hóa thần kinh trong bệnh Alzheimer và hội chứng
+xơ cứng teo cơ một bên
+(ALS).
+Hình ảnh tế bào thần kinh bị ảnh hưởng do bệnh Alzheimer.
+GS. Shweta Puntambekar - chuyên gia về y học và di truyền học phân tử, người đứng đầu nghiên cứu, cho biết: Nghiên cứu này cho thấy tế bào microglia ở những bệnh nhân Alzheimer trở nên rối loạn chức năng sớm hơn nếu không có gen CX3CR1. Sự rối loạn chức năng này dẫn đến một loạt các sự kiện nhiễm độc thần kinh trong não.
+2.Vì sao thiếu gene CX3CR1 lại làm bệnh nặng hơn?
+Nghiên cứu đã xem xét mối liên hệ giữa amyloid beta và tau trong não (là các protein đặc trưng thường liên quan đến các bệnh thoái hóa thần kinh). Các protein amyloid beta kết tụ lại với nhau và tạo thành mảng, phá hủy các kết nối tế bào thần kinh. Sau đó, tau có thể hình thành trong não sau các mảng amyloid. Các nhà khoa học đã tìm thấy mối liên hệ không chỉ giữa amyloid và tau, mà còn thấy cách microglia có thể định hình toàn bộ quá trình bệnh tật.
+Nếu không có CX3CR1, các microglia (hoạt động như tuyến phòng thủ đầu tiên chống lại virus, vật liệu độc hại tấn công các tế bào thần kinh) bị tổn thương, không thể di chuyển đến gần các mảng để dọn sạch protein. Điều này xảy ra sớm trong bệnh và dẫn đến nhiều hiện tượng nhiễm độc thần kinh. Chẳng hạn như sự tích tụ của các loại amyloid beta độc hại khác và làm trầm trọng thêm tau trong các giai đoạn bệnh sau này.
+Cảnh báo: Bệnh Alzheimer trẻ hóa, nhiều người 30 tuổi đã lúc nhớ lúc quên
+ĐỌC NGAY
+GS.Puntambekar cho biết, một số amyloid beta không lắng đọng trong não dưới dạng mảng, mà tích tụ trong não dưới dạng hòa tan. Các dạng này cũng đã được chứng minh là có liên quan đến suy giảm nhận thức. Những amyloid beta này cũng tăng lên khi không có CX3CR1.
+3. Phát triển các giải pháp điều trị mới bệnh Alzheimer
+Trước đây, hầu hết các liệu pháp nhắm vào các protein amyloid beta trong não đều tập trung vào các mảng không hòa tan, nhưng các loại thuốc trong nhiều năm qua đã được chứng minh là không hiệu quả trong các thử nghiệm lâm sàng.
+GS.Puntambekar cho biết: Với tập dữ liệu mới này, chúng ta có thể bắt đầu đặt ra câu hỏi, liệu hiệu quả lâm sàng hạn chế của các liệu pháp điều trị bệnh Alzheimer trước đây có phải do không nhắm mục tiêu đúng amyloid beta? Chúng ta nên bắt đầu nhắm mục tiêu các loại hòa tan khác để có được kết quả tốt hơn.
+Ngoài ra, việc kích hoạt và làm tăng gen CX3CR1 có phải là một liệu pháp cần nghiên cứu nhằm điều trị Alzheimer trong tương lai. Nếu nghiên cứu được tiếp tục tiến hành rộng hơn, sẽ giúp các nhà khoa học xác định cách nhắm mục tiêu loại tế bào này, phát triển liệu pháp điều trị hiệu quả bệnh Alzheimer trong tương lai.
+Mời độc giả xem thêm video:
+Sương mù dày đặc miền Bắc, hàng chục chuyến bay không thể hạ cánh

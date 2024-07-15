@@ -1,0 +1,58 @@
+# doc_id = health_disease_654
+# url = https://suckhoedoisong.vn/tieu-chay-nhiem-trung-nguyen-nhan-trieu-chung-chan-doan-va-dieu-tri-169240626081606239.htm
+# date = 26-06-2024
+Tiêu chảy nhiễm trùng: Nguyên nhân, triệu chứng, chẩn đoán và điều trị
+1. Tiêu chảy nhiễm trùng là gì?
+Tiêu chảy
+nhiễm trùng
+(tiếng Anh là Infectious diarrhea / Stomach flu) là tình trạng người bệnh bị tiêu chảy do sự xâm nhập của các tác nhân như vi khuẩn, vi nấm, virus, ký sinh trùng. Khi các tác nhân gây nhiễm trùng này xâm nhập vào cơ thể người bệnh, chúng tấn công và gây tổn thương hệ đường ruột, gây rối loạn chức năng và tạo ra các triệu chứng như tiêu chảy, buồn nôn, nôn, đau bụng và mất nước. Điều quan trọng là phát hiện và điều trị kịp thời để ngăn chặn sự lây lan và giúp người bệnh phục hồi khỏe mạnh.
+Bệnh tiêu chảy nhiễm trùng được phân thành các loại: Tiêu chảy do virus, tiêu chảy do vi khuẩn, tiêu chảy do ký sinh trùng.
+Các loại vi sinh bao gồm nấm men, virus, ký sinh trùng, vi khuẩn dạng campylobacter, Escherichia coli (E. coli), Salmonella, Clostridium, khuẩn tụ cầu... đều có thể là tác nhân gây tiêu chảy nhiễm trùng.
+Bệnh chủ yếu lây qua đường ăn uống, khi tiếp xúc với thực phẩm hoặc nguồn nước vệ sinh kém. Mức độ nghiêm trọng của nhiễm trùng sẽ phụ thuộc vào loại mầm bệnh gây ra.
+Tiêu chảy nhiễm trùng là tình trạng người bệnh bị tiêu chảy do sự xâm nhập của các tác nhân như vi khuẩn, vi nấm, virus, ký sinh trùng.
+2. Nguyên nhân tiêu chảy nhiễm trùng
+Nguyên nhân phổ biến nhất gây tiêu chảy nhiễm trùng đường ruột là do mầm bệnh xâm nhập qua đường miệng, hoặc cũng một phần do hệ miễn dịch của người bệnh yếu nên vi khuẩn dễ tấn công. Các nguyên nhân khác như tiếp xúc với nguồn nước bị ô nhiễm và sinh hoạt kém vệ sinh cũng có thể gây ra tiêu chảy nhiễm trùng:
+Mầm bệnh: Các mầm bệnh từ bên ngoài đi vào cơ thể và gây kích thích các mô trong đường tiêu hóa. Đường tiêu hóa có thể trở nên viêm nhiễm và đau.
+Nguồn nước bị ô nhiễm: Việc tiếp xúc với nguồn nước bị ô nhiễm cũng có thể dẫn đến nhiễm trùng đường ruột. Vì vậy mọi người nên uống nước đã đun sôi hoặc tiệt trùng kỹ.
+Vệ sinh kém: Điều này cũng có thể gây lây lan vi khuẩn gây nhiễm trùng đường ruột. Cần chú ý rửa tay sạch sau khi đi vệ sinh để tránh vi khuẩn xâm nhập vào cơ thể.
+Các tác nhân gây tiêu chảy nhiễm trùng:
+Virus (thường gặp nhất): Rotavirus, norovirus, Adenovirus, Sapovirus.
+Vi khuẩn: E.coli (EPEC,ETEC,EITC,EHEC,EAEC); Campylobacter jejuni; Các chủng Shigella; Salmonella không gây thương hàn; tụ cầu, Clostridium difficile…
+Ký sinh trùng: Cryptosporidium, lỵ amip, đơn bào Giardia.
+Nấm: nấm candida, Aspergillus,...
+3. Triệu chứng tiêu chảy nhiễm trùng
+Các triệu chứng thông thường của tiêu chảy nhiễm trùng đường ruột là:
+Đau bụng: Khi tình hình nhiễm trùng đường ruột trở nên nghiêm trọng hơn, bệnh nhân thường thấy đau quặn bụng từng cơn, đau khắp vùng bụng. Mức độ nghiêm trọng của cơn đau sẽ phụ thuộc vào nguyên nhân gây nhiễm trùng.
+Triệu chứng tiêu chảy nhiễm trùng là bệnh nhân thường thấy đau quặn bụng từng cơn, đau khắp vùng bụng.
+Tiêu chảy: Phân lỏng, nhiều nước, có thể có nhầy máu, mùi chua, tùy căn nguyên gây bệnh. Tốc độ tiêu chảy phụ thuộc vào từng căn nguyên.
+Nôn và buồn nôn: Ăn không ngon thường kèm theo buồn nôn, nôn. Xuất hiện trước hoặc cùng với tiêu chảy, thường gặp trong Rotavirus, tụ cầu. Thời gian: thường 1-3 ngày.
+Chán ăn: Người bệnh cảm thấy khó chịu, miệng đắng, chán ăn là những dấu hiệu chung của nhiễm trùng đường ruột.
+Dấu hiệu mất nước: do bị nôn và đi ngoài nhiều lần nên cơ thể người bệnh bị mất nước cũng như chất điện giải. Tình trạng cơ thể thiếu nước sẽ khiến bệnh nhân có biểu hiện bên ngoài như cổ họng khô rát và khát nước, môi khô, độ đàn hồi của da giảm ( nếu véo da mất chậm), mắt trũng . Trường hợp mất nước nặng trẻ có các triệu chứng thần kinh: kích thích, vật vã, li bì, hôn mê, có thể rơi vào tình trạng sốc giảm thể tích, nguy hiểm đến tính mạng.
+Triệu chứng toàn thân: Dinh dưỡng: cân nặng của bệnh nhân giảm khi bị tiêu chảy. Sốt: Có thể sốt nhẹ, hoặc sốt cao liên tục. Triệu chứng thiếu kali: Chướng bụng, liệt ruột cơ năng, loạn nhịp tim, nhược cơ toàn thân. Các biểu hiện nhiễm khuẩn: môi khô, lưỡi bẩn, hơi thở hôi.
+Nhiễm siêu vi đường hô hấp:
+mầm bệnh vi rút gây tiêu chảy nhiễm trùng có thể ảnh hưởng đến các bộ phận khác của cơ thể. Người bệnh có thể bị nhiễm trùng xoang mũi, sổ mũi hoặc ho khi tình trạng nhiễm trùng xảy ra.
+Các triệu chứng phụ đi kèm:
+Rối loạn giấc ngủ: Các triệu chứng khó chịu liên quan đến tiêu chảy nhiễm trùng đường ruột sẽ khiến người bệnh khó ngủ. Đây cũng có thể là một dấu hiệu cho thấy gan đang làm việc quá sức vì phải cố gắng loại trừ các tác nhân gây nhiễm trùng.
+Trầm cảm: Những người bị nhiễm trùng nấm men có thể gặp nguy cơ cao mắc trầm cảm, cơ thể mệt mỏi gây tác động tiêu cực đến tâm lý.
+Đau nhức đầu: có thể gặp.
+4. Phương pháp phòng ngừa tiêu chảy nhiễm trùng
+Cách tốt nhất để phòng ngừa tiêu chảy nhiễm trùng là thực hiện vệ sinh cẩn thận, bao gồm rửa tay thường xuyên bằng xà phòng trước khi xử lý thức ăn hoặc ăn, sau khi thay tã, đi vệ sinh… để tránh vi khuẩn xâm nhập vào cơ thể.
+Sử dụng thực phẩm sạch để phòng ngừa tiêu chảy nhiễm trùng.
+Khi ăn uống, mọi người nên uống nước đã đun sôi hoặc tiệt trùng kĩ; ăn chín uống sôi, tránh đồ tái sống. Đậy thức ăn tránh ruồi nhặng phát tán vi khuẩn vào thức ăn.
+Đối với các hộ chăn nuôi, khi tiếp xúc với gia súc, gia cầm bị bệnh nên chủ động sử dụng dụng cụ bảo hộ, quần áo, giày khi vào chuồng trại, tránh để chất thải của gia súc gia cầm ở gần khu vực người sinh sống, ăn ở. Tránh ôm ấp hay gần gũi với thú cưng khi chúng bị bệnh.
+Đối với người thường xuyên chăm sóc trẻ em, cần lưu ý rửa tay trước khi cho trẻ ăn hoặc bú sữa, rửa tay sau khi thay tã cho trẻ, sau khi đi vệ sinh và ngay sau khi bị dây bẩn.
+Nuôi con hoàn toàn bằng sữa mẹ ít nhất 6 tháng đầu, kéo dài tới 2 tuổi sẽ giảm nguy cơ tiêu chảy. Cho trẻ uống vitamin A cũng có thể giúp hạn chế bị tiêu chảy. Tiêm phòng sởi cũng là biện pháp gián tiếp phòng ngừa tiêu chảy vì trẻ dễ mắc suy giảm miễn dịch sau nhiễm sởi.
+5. Cách chẩn đoán tiêu chảy nhiễm trùng
+Để chẩn đoán tiêu chảy nhiễm trùng, các bác sĩ có thể yêu cầu người bệnh mô tả về các triệu chứng và yêu cầu thực hiện một số xét nghiệm liên quan như xét nghiệm mẫu phân để xác định nhiễm khuẩn đường ruột là do virus hay vi khuẩn, ký sinh trùng.
+Nhiễm trùng do virus: đa phần nhiễm trùng đường ruột do virus sẽ gây ra hiện tượng tiêu chảy trong 3-5 ngày. Tiêu chảy do virus thường phân lỏng tóe nước nhiều, không lẫn nhầy máu.
+Nhiễm trùng do vi khuẩn: Tiêu chảy do vi khuẩn: phân lỏng, thường có nhầy, có thể có máu, mùi tanh, nếu không điều trị kháng sinh đặc hiệu bệnh sẽ ngày càng nặng lên.
+6. Các biện pháp điều trị bệnh tiêu chảy nhiễm trùng
+Tiêu chảy nhiễm trùng
+và cách điều trị hiện đang là mối quan tâm của nhiều người, nhất là những gia đình có trẻ nhỏ, người có hệ miễn dịch yếu hoặc đang sinh sống tại khu vực có vệ sinh kém. Một số phương pháp điều trị có thể tham khảo như sau:
+Trường hợp nhẹ:
+Đa phần các trường hợp tiêu chảy nhiễm trùng nếu nhẹ thì có thể tự cầm tiêu chảy sau một vài ngày, bệnh nhân chỉ cần nghỉ ngơi, ăn các thức ăn dạng lỏng, dễ tiêu hóa và uống thật nhiều nước, bổ sung điện giải bằng oresol ( nên tham khảo bác sĩ về cách sử dụng oresol, vì nếu pha sai có thể làm cho tình trạng tiêu chảy nặng nề hơn, ảnh hưởng nặng nề đến sức khỏe người bệnh.
+Trường hợp nặng:
+Nếu các biểu hiện tiêu chảy nhiễm trùng trở nặng như: nôn ói không thể ăn uống, tiêu chảy phân nước nhiều, phân nhầy có máu, sốt cao hoặc rất mệt mỏi, người bệnh nên cân nhắc nhập viện để thực hiện các phương pháp điều trị chuyên môn như: bồi phụ nước và điện giải qua truyền dịch tĩnh mạch, sử dụng thuốc kháng sinh theo chỉ định của bác sĩ.
+Nếu thực hiện chăm sóc đúng cách, người bệnh sẽ cảm thấy đỡ hơn trong vòng vài ngày đến một tuần, hoặc có thể mất vài tuần trước khi hệ thống đường ruột, dạ dày hồi phục hoàn toàn. Tuy nhiên tiêu chảy nhiễm trùng trẻ sơ sinh và trẻ em là những trường hợp gia đình cần theo dõi chặt chẽ và đưa nhập viện ngay nếu cần thiết.
+Khi nào người bệnh tiêu chảy nên tập thể dục?
+SKĐS – Tập thể dục giúp tăng cường sức khỏe, bệnh nhanh phục hồi. Vậy khi nào người bệnh tiêu chảy nên tập thể dục?

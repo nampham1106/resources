@@ -1,0 +1,99 @@
+# doc_id = health_disease_5426
+# url = https://suckhoedoisong.vn/ung-thu-gan-bieu-hien-nguyen-nhan-dieu-tri-va-nhung-dieu-can-biet-169220410230439764.htm
+# date = 12-04-2022
+Ung thư gan: Biểu hiện, nguyên nhân, điều trị và những điều cần biết
+1. Tổng quan về
+ung thư gan
+Theo GLOBOCAN 2020, Việt Nam có thêm 26.418 người mắc ung thư gan và 25.272 người tử vong vì ung thư gan. Ung thư gan là bệnh có tỷ lệ mắc mới và tử vong cao nhất trong các bệnh ung thư thường gặp. Phần lớn người bệnh đến khám khi bệnh đã tiến triển đến giai đoạn muộn gây khó khăn cho việc điều trị bởi ở giai đoạn đầu ung thư gan thường không có những biểu hiện rõ ràng.
+Ung thư gan được chia thành 2 loại:
+Ung thư gan nguyên phát:
+Khối u có nguồn gốc tại gan. Về bản chất tế bào thì người ta chia ra nhiều loại, nhưng loại thường gặp nhất là ung thư biểu mô tế bào gan (HCC).
+Ung thư gan thứ phát
+(còn gọi là
+ung thư di căn gan
+) nếu khối u xuất phát từ những cơ quan khác (
+dạ dày
+, phổi, vú, đại tràng,...) rồi sau đó di chuyển đến gan.
+2. Nguyên nhân dẫn đến ung thư gan
+Nguyên nhân gây bệnh ung thư gan đến nay vẫn chưa được xác định rõ. Tuy nhiên, một số yếu tố có thể làm tăng nguy cơ mắc bệnh như: Các bệnh gan mạn tính thường được coi là nền của ung thư gan, trong đó kể đến bệnh xơ gan,
+viêm gan mạn tính
+,
+viêm gan virus
+...
+Tùy theo bệnh mà tỷ lệ ung thư hóa nhiều hay ít, xơ gan hoại tử sau viêm gan virus 15- 20% ung thư hóa. Xơ gan do dinh dưỡng có 1% ung thư hóa.
+Ở các nước phương Tây, xơ gan phần lớn do rượu, ung thư xảy ra chủ yếu ở các trường hợp
+xơ gan do rượu
+. Các bệnh viêm gan do virus, độc tố Aflatoxin của nấm mốc (AF); Các yếu tố nguy cơ khác trong đó có rượu là nguyên nhân chủ yếu dẫn đến các bệnh gan mạn tính như xơ gan, viêm gan mạn...
+Ung thư gan ở giai đoạn sớm thường không biểu hiện, rất khó phát hiện.
+‎Ngoài ra, còn có yếu tố di truyền. Các nghiên cứu cho tỷ lệ nam giới mắc ung thư cao trội hơn hẳn phụ nữ. Mức testosterol cao cũng liên quan tới gia tăng ung thư gan. Chất độc màu da cam có chứa tạp chất Dioxin, với một liều nhỏ Dioxin (một vài microgam) đã có thể làm hỗn loạn hệ thống gen của gan, tác dụng giống và mạnh hơn các chất gây ung thư khác như Benzopyren và Dimetylamin...
+‎Yếu tố nguy cơ khác cũng có thể gây ung thư gan như: Các yếu tố môi trường, chế độ ăn uống lạm dụng thuốc lá, thức uống có cồn... cũng là yếu tố nguy cơ.
+3. Triệu chứng của ung thư gan
+Ung thư gan ở giai đoạn sớm thường không biểu hiện rất khó phát hiện. Phần lớn người bệnh đến khám khi bệnh đã tiến triển đến giai đoạn muộn gây khó khăn cho việc điều trị. Ở giai đoạn sớm của ung thư có thể gặp các triệu chứng của viêm gan mạn tính hoặc xơ gan tiến triển với các biểu hiện chán ăn, đau, nặng tức vùng hạ sườn phải, trướng bụng, vàng da, củng mạc mắt,…
+Ở giai đoạn muộn, khi khối u đã lớn các triệu chứng trên rõ ràng hơn, hoặc xuất hiện thêm các biến chứng của bệnh với các biểu hiện: Sụt cân không rõ nguyên nhân, buồn nôn, nôn, mệt mỏi, chán ăn... có cảm giác ngứa, trướng bụng, đau, nặng tức vùng hạ sườn phải, vàng da,...
+Bài thuốc hỗ trợ trị bệnh gan mật
+Viêm gan do rượu gia tăng trong đại dịch COVID-19
+4. Phân chia giai đoạn tiến triển ung thư gan
+Mức độ tiến triển của khối u trong cơ thể có thể được phân chia như sau.
+- Ung thư gan giai đoạn I:
+Có một khối u duy nhất trong gan, chưa xâm lấn đến bất kỳ mạch máu nào trong gan.
+-
+Ung thư gan giai đoạn II:
+Một khối u duy nhất trong gan đã xâm lấn các mạch máu, hoặc nhiều khối u nằm trong gan nhưng có kích thước dưới 5cm.
+- Ung thư gan giai đoạn III:
+Giai đoạn IIIA: Có nhiều khối u trong gan và ít nhất một khối u lớn hơn 5cm; chưa có di căn đến hạch hoặc cơ quan khác ngoài gan.
+Giai đoạn IIIB: Có một hoặc nhiều khối u gan, xâm lấn vào một trong những mạch máu chính trong gan (tĩnh mạch cửa hoặc tĩnh mạch gan) hoặc xâm lấn vào phúc mạc, chưa có di căn đến hạch hoặc cơ quan khác ngoài gan.
+- Ung thư gan giai đoạn IV:
+Giai đoạn IVA:
+Các khối u đã di căn vào các hạch bạch huyết gần gan, nhưng chưa đến những cơ quan ở xa.
+Giai đoạn IVB:
+Khối u đã di căn đến các cơ quan ở xa như phổi, xương hoặc não.
+Khi khối u đã lớn các triệu chứng rõ ràng hơn như: Sụt cân không rõ nguyên nhân, buồn nôn, nôn, mệt mỏi, chán ăn
+5. Biến chứng thường gặp của bệnh ung thư gan
+Bệnh ung thư gan nguy hiểm có thể dẫn đến một số biến chứng như:
+-Suy gan:
+Các mô ung thư gây những tổn thương nghiêm trọng đến gan bệnh nhân. Điều này khiến gan không thể loại bỏ các độc chất trong cơ thể và dẫn đến bệnh não gan, là nguyên nhân chính gây tử vong do ung thư gan.
+-
+Suy thận:
+Hiện tượng ung thư gan dẫn đến suy thận gây rối loạn khả năng loại thải chất độc khỏi cơ thể.
+-Ung thư gan di căn:
+Thường gặp các tế bào ung thư di căn đến phổi và xương. Khi di căn đến phúc mạc, gây ra báng bụng. Vì vậy, ung thư gan nằm gần cơ hoành thâm nhiễm trực tiếp lên cơ hoành và màng phổi, có thể dẫn đến tràn dịch tràn máu màng phổi.
+6. Chẩn đoán ung thư gan
+Khi có các dấu hiệu nghi ngờ ung thư gan, các bác sĩ sẽ chỉ định các xét nghiệm nhằm chẩn đoán bệnh.
+-Siêu âm để chẩn đoán về khối u và là xét nghiệm đầu tiên được sử dụng để thăm khám gan.
+-Chụp CT giúp hiển thị kích thước, hình dạng và vị trí của bất kỳ khối u nào trong hoặc gần gan.
+-Chụp MRI có thể cho biết các khối u trong gan có phải là ung thư hay không. Chúng cũng có thể được sử dụng để xem xét các mạch máu trong và xung quanh gan, đồng thời giúp tìm ra liệu ung thư gan đã di căn hay chưa.
+-Xét nghiệm máu có thể giúp xác định tình trạng chức năng gan của bệnh nhân.
+-Sinh thiết gan sẽ được kiểm tra để đánh giá sự hiện diện của các tế bào ung thư.
+Tuy nhiên, đôi khi, chụp MRI hoặc CT là đủ để xác định chính xác ung thư gan và không cần làm sinh thiết.
+7. Điều trị ung thư gan
+Điều trị ung thư gan phụ thuộc vào số lượng, kích thước và vị trí của các khối u trong gan; tình trạng hoạt động của gan và khối u còn khu trú hay đã di căn. Điều trị có thể dùng một phương pháp hoặc kết hợp nhiều phương pháp với nhau. Một số phương pháp điều trị ung thư gan như:
+Phẫu thuật cắt gan (cắt bỏ phần gan có mang khối u)
+Phẫu thuật ghép gan
+Đốt u (phá hủy khối u tại chỗ)
+Hóa trị
+Xạ trị
+Miễn dịch trị liệu,…
+Ghép gan có thể sử dụng 1 phương pháp, hoặc phối hợp nhiều phương pháp khác nhau. Tùy theo giai đoạn bệnh, số lượng và kích thước khối ung thư gan mà bác sĩ sẽ tư vấn cho bệnh nhân và lựa chọn phương pháp phù hợp nhất.
+Các biểu hiện ung thư gan thường gặp. Ảnh minh họa
+8. Cần tầm soát sớm ung thư gan
+Tầm soát ung thư gan giúp phát hiện được bệnh ở giai đoạn rất sớm, ngay cả khi chưa có triệu chứng. Ở giai đoạn sớm bác sĩ phẫu thuật để loại bỏ khối u giúp bệnh nhân hồi phục nhanh và không để lại di chứng. Phẫu thuật ở giai đoạn này còn giúp ngăn chặn khối u di căn đến các cơ quan khác trên cơ thể.
+Việc phát hiện sớm và điều trị cũng giúp cho bệnh nhân không phải chịu những thương tổn về thể chất hay tâm lý. Ngoài ra điều trị ở giai đoạn sớm sẽ không gây tốn kém về mặt kinh tế cho người bệnh. Do đó việc tầm soát ung thư gan sớm là điều nên làm với những đối tượng có nguy cơ cao mắc bệnh.
+Đối tượng nào cần tầm soát ung thư gan sớm được làm 2 nhóm đối tượng có khả năng mắc ung thư gan cao đó là:
+Đang nhiễm virus và các bệnh liên quan đến gan
+Tiền sử gia đình có người bị ung thư gan
+Mắc virus viêm gan B và viêm gan C (nguyên nhân hàng đầu gây ung thư tế bào gan nguyên phát)
+Viêm gan do nguyên nhân tự miễn, có thể đi kèm các bệnh tự miễn khác như đái tháo đường typ 1, Basedow, viêm khớp dạng thấp, Lupus ban đỏ,....
+Gan nhiễm mỡ không do rượu.
+Ngoài ra, những người mắc các bệnh khác nhưng có nguy cơ bị ung thư gan bao gồm:
+Người mắc các bệnh béo phì, tiểu đường làm tăng nguy cơ bị ung thư gan.
+Xơ gan do sử dụng rượu bia, các chất kích thích quá nhiều.
+Những người có biểu hiện nghi ngờ như thường xuyên mệt mỏi, nước tiểu có màu vàng đậm, đau âm ỉ vùng gan, xuất huyết dưới da thì cũng nên khám thường xuyên để nhận được lời khuyên của bác sĩ.
+Tóm lại:
+Ung thư gan là loại ung thư phổ biến, có tỷ lệ tử vong cao do phần lớn các trường hợp chỉ được chẩn đoán khi ung thư đã ở giai đoạn muộn. Chính vì vậy phòng bệnh là phương pháp tốt nhất. Phải nỗ lực làm giảm xơ gan, phát hiện sớm và điều trị viêm gan siêu vi mãn tính.
+Cần tiêm vaccine phòng viêm gan A , B, đặc biệt với người viêm gan C. Không nên uống rượu. Phải khám sức khỏe định kỳ những người có nguy cơ nhằm phát hiện ung thư gan sớm.
+Ngoài ra, cần tái khám và tầm soát định kì (3-6 tháng một lần) đối với những người đã bị viêm gan mạn tính (viêm gan virus B, C) hoặc xơ gan. Bệnh nhân mắc các bệnh viêm gan mạn tính khác ( ví dụ bệnh Wilson, bệnh tích lũy sắt, bệnh viêm gan tự miễn, …) đều cần được điều trị bằng các phác đồ đặc biệt theo đúng nguyên nhân.
+Tất cả các bệnh nhân bị viêm gan mạn tính (đặc biệt bệnh nhân viêm gan do rượu) cần phải tuyệt đối kiêng rượu bia.
+Coi chừng gan nhiễm mỡ có thể gây xơ gan, ung thư gan
+SKĐS - Gan nhiễm mỡ còn gọi là thoái hóa mỡ gan ngày càng có xu hướng gia tăng trong cuộc sống hiện đại ngày nay. Bệnh có thể gây ra viêm gan, xơ gan, thậm chí dẫn tới ung thư gan nếu không được chữa trị đúng kịp thời.
+Mời xem video được quan tâm:
+Những bài tập thể dục buổi sáng giúp bạn tăng cường sức khỏe

@@ -1,0 +1,93 @@
+# doc_id = health_disease_046
+# url = https://suckhoedoisong.vn/cac-phuong-phap-dieu-tri-viem-khop-dang-thap-169230512103954248.htm
+# date = 13-05-2023
+Các phương pháp điều trị viêm khớp dạng thấp
+1. Nguyên nhân và
+biểu hiện viêm khớp dạng thấp
+Đến nay vẫn chưa rõ nguyên nhân gây
+viêm khớp dạng thấp
+, nhưng có liên quan đến nhiễm khuẩn, giới tính (nữ mắc nhiều hơn nam), độ tuổi (trung niên) và rối loạn đáp ứng miễn dịch…
+Viêm khớp
+dạng thấp thường có biểu hiện:
+Cứng khớp
+buổi sáng, kéo dài trên 1 giờ
+Sưng phần mềm hay tràn dịch tối thiểu 3 trong số 14 nhóm khớp sau: Khớp ngón gần bàn tay, khớp bàn ngón tay, khớp cổ tay, khớp khuỷu, khớp gối, khớp cổ chân, khớp bàn ngón chân.
+Viêm các khớp ở bàn tay: Sưng tối thiểu một nhóm trong số các khớp cổ tay, khớp ngón gần bàn tay, khớp bàn ngón tay.
+Viêm khớp đối xứng.
+Hạt dưới da...
+Vị trí các khớp bàn tay bị tổn thương do viêm khớp dạng thấp.
+Ngoài ra, cần các xét nghiệm cận lâm sàng với các chỉ số:
+Yếu tố dạng thấp trong huyết thanh dương tính.
+Chụp X - quang khớp tại bàn tay, cổ tay hoặc khớp tổn thương có hình bào mòn, hình hốc, hình khuyết đầu xương, hẹp khe khớp, mất chất khoáng đầu xương.
+Ngoài các biểu hiện trên, còn các biểu hiện ngoài khớp như: Teo cơ, viêm mống mắt, tràn dịch màng ngoài tim, tràn dịch màng phổi, viêm mạch máu... thường ít gặp, biểu hiện nhẹ nên dễ bị bỏ sót.
+Dựa trên các biểu hiện lâm sàng và các xét nghiệm, bác sĩ sẽ có chẩn đoán và phác đồ điều trị tùy theo giai đoạn.
+2.
+Đ
+iều trị viêm khớp dạng thấp
+thế nào?
+Nguyên tắc là phải điều trị toàn diện, tích cực ngay từ giai đoạn sớm. Quá trình điều trị dài hạn và phải theo dõi thường xuyên...
+2.1 Điều
+trị triệu chứng viêm khớp dạng thấp
+Mục đích nhằm cải thiện triệu chứng viêm,
+giảm đau
+, duy trì khả năng vận động. Tuy nhiên đây chỉ là các thuốc giảm triệu chứng, không làm thay đổi được sự tiến triển của bệnh. Các thuốc thường được dùng là:
+- Các
+thuốc kháng viêm không steroid
+(NSAIDs):
++ Các thuốc kháng viêm ức chế chọn lọc COX2 được chọn lựa đầu tiên. Các thuốc giảm đau này cũng thường phải sử dụng dài ngày, gồm các thuốc:
+Celecoxib dạng uống.
+Hoặc meloxicam dạng uống hoặc tiêm bắp 15 mg tiêm (chích) bắp.
+Hoặc etoricoxib dạng uống.
++ Các thuốc thuốc kháng viêm ức chế không chọn lọc gồm:
+Diclofenac uống hoặc tiêm bắp liều cao từ 3-7 ngày. Sau đó giảm liều trong 4-6 tuần.
+Brexin (piroxicam + cyclodextrin) uống hàng ngày.
+Hoặc các thuốc kháng viêm không steroid khác theo chỉ định của bác sĩ dựa trên từng bệnh nhân.
+Lưu ý:
+Đối với bệnh nhân có các yếu tố nguy cơ cao gặp phải tác dụng phụ của thuốc NSAIDs (người cao tuổi, tiền sử có bị bệnh lý dạ dày…) hoặc điều trị dài ngày, cần theo dõi chức năng thận và bảo vệ dạ dày bằng các
+thuốc ức chế bơm proton
+.
+- Các
+thuốc chống viêm
+corticosteroids
+: Như prednisolone, prednisone, methylprednisolone, thường sử dụng ngắn hạn, trong lúc chờ đợi các thuốc điều trị cơ bản có hiệu lực. Chỉ định khi có đợt tiến triển.
+Khi bị viêm khớp dạng thấp, biểu hiện cứng khớp buổi sáng, kéo dài trên 1 giờ.
+2.2 Điều trị cơ bản bệnh
+Hiện nay, các thuốc điều trị cơ bản là nhóm thuốc DMARDs (Disease-modifying antirheumatic drugs). Các thuốc kinh điển như:
+Methotrexate
+, sulfasalazine, hydroxychloroquine... có vai trò quan trọng trong việc ổn định bệnh. Thời gian điều trị kéo dài nhưng thuốc thường có tác dụng phụ. Do đó bệnh nhân cần tái khám định kỳ để được đánh giá đáp ứng thuốc, cũng như tác dụng phụ của thuốc có thể gây ra, để điều chỉnh liều lượng hoặc thay thế thuốc kịp thời (nếu cần thiết).
+Các thuốc sinh học
+còn được gọi là DMARDs sinh học: Kháng TNF a, kháng interleukin 6, kháng lympho B, được chỉ định đối với thể kháng điều trị với DMARDs kinh điển, thể nặng hoặc tiên lượng nặng hơn. Do thuốc sinh học có các tác dụng phụ và chống chỉ định nghiêm ngặt, nên chỉ có bácsĩ chuyên khoa cơ xương khớp mới được chỉ định sau khi thực hiện đúng quy trình: Làm các xét nghiệm tầm soát lao, viêm gan (virus B, C), kiểm tra chức năng gan thận, đánh giá hoạt tính bệnh bằng chỉ số DAS 28…
+Các thuốc chống thấp làm thay đổi tiến triển của bệnh DMARDs để làm chậm hoặc làm ngừng tiến triển của bệnh, cần điều trị lâu dài và theo dõi các triệu chứng lâm sàng, cận lâm sàng trong suốt thời gian điều trị). Theo đó:
+- Thể mới mắc và thể thông thường sử dụng các thuốc DMARDs kinh điển.
+- Thể nặng, kháng trị với các DMARDs kinh điển (không có đáp ứng sau 6 tháng) cần kết hợp với các thuốc DMARDs sinh học.
+Phân biệt viêm khớp dạng thấp với các bệnh khớp khác
+ĐỌC NGAY
+2.3 Các điều trị phối hợp khác
+- Các biện pháp hỗ trợ
+Tập luyện, hướng dẫn vận động chống co rút gân, dính khớp, teo cơ.
+Trong đợt viêm cấp cần để khớp nghỉ ở tư thế cơ năng, tránh kê, độn tại khớp. Khuyến khích tập ngay khi triệu chứng viêm thuyên giảm, tăng dần, tập nhiều lần trong ngày, cả chủ động và thụ động theo đúng chức năng sinh lý của khớp.
+Phục hồi chức năng
+, vật lý trị liệu, tắm suối khoáng, phẫu thuật chỉnh hình (cắt xương sửa trục, thay khớp nhân tạo khi có chỉ định).
+- Phòng ngừa và điều trị các biến chứng của điều trị, các bệnh kèm theo
+Trên 80% bệnh nhân không có triệu chứng lâm sàng của viêm, loét dạ dày tá tràng, do đó cần chủ động tầm soát phát hiện bệnh, để có phương pháp phòng ngừa tác dụng phụ của thuốc, bằng thuốc ức chế bơm proton, kèm thuốc điều trị vi khuẩn H. Pylori (nếu có nhiễm).
+Khi sử dụng corticosteroid bất cứ liều nào trên 1 tháng, cần bổ sung calcium, vitamin D để phòng ngừa
+loãng xương
+. Khi đã có loãng xương, tùy theo mức độ loãng xương, tuổi, giới và điều kiện cụ thể của người bệnh mà lựa chọn các thuốc phù hợp.
+Theo dõi tình trạng thiếu máu để dùng acid folic, sắt, vitamin B12…
+Mời độc giả xem thêm video:
+Đắp thuốc lá trị ung thư tuyến vú, người phụ nữ bị hoại tử da - SKĐS
+ThS.Lê Thủy
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

@@ -1,0 +1,22 @@
+# doc_id = health_disease_751
+# url = https://suckhoedoisong.vn/u-trong-tim-benh-kho-phong-ngua-169192136.htm
+# date = 12-05-2021
+U trong tim, bệnh khó phòng ngừa
+Các khối u nguyên phát ở tim khá hiếm gặp, tỉ lệ gặp dưới 0,1%. U tim gồm u lành tính và u ác tính. U ác tính có thể nguyên phát tại tim cũng có thể do di căn từ ung thư cơ quan khác đến. Trong số các u nguyên phát tại tim thì 80% là u lành tính và trong số các u lành tính thì u nhầy là thể thường gặp nhất chiếm trên 50%. Ở các u ác tính, tỉ lệ u tim do di căn nhiều gấp 20 lần ung thư nguyên phát tại tim.
+Các u tim lành tính gồm myxoma (u nhầy), papillary fibroelastoma, Rabdomyoma, Fibroma (u xơ), lipoma (u mỡ), u nút nhĩ thất.
+Các u tim ác tính gồm: angiosarcoma, osteosarcoma, leiomyosarcoma, rhabdomyosarcoma, lymphoma, pericardial mesothelioma.
+Triệu chứng bệnh
+Triệu chứng của u tim đa dạng, từ không có triệu chứng, tình cờ phát hiện cho đến nhiều dấu hiệu phức tạp khác nhau. Các triệu chứng có thể gặp: tắc mạch: tắc mạch phổi hoặc tắc mạch hệ thống; triệu chứng do tắc nghẽn: khối u tim gây cản trở sự tống máu, cản trở sự hoạt động của các van tim gây ra nhiều dấu hiệu của suy tim như: khó thở, khó thở khi gắng sức, phù, gan to...; khối u ác tính xâm lấn cơ tim gây giảm chức năng thất trái, các rối loạn nhịp, block nhĩ thất, tràn dịch màng ngoài tim (có thể gây ép tim cấp hoặc không)..; một số loại u có thể gây đột tử.
+U nhầy nhĩ trái.
+Đối tượng nguy cơ bệnh u tim
+Các đối tượng nguy cơ của u nguyên phát tại tim (lành tính và ác tính) đều chưa được nghiên cứu nhiều và ít đề cập trong các tài liệu. Một số loại u người ta thấy tỉ lệ ở nữ cao hơn nam như u nhầy. U nhầy ở người trẻ có thể có yếu tố gia đình với sự tác động đa nhân tố.
+Các khối u thứ phát do di căn có thể từ ung thư phổi, ung thư vú, ung thư thực quản, tuyến giáp, biểu mô thận, lơ-xê-mi... có thể có các yếu tố nguy cơ chung như: hút thuốc lá, uống rượu nhiều, phơi nhiễm với các tia X...
+Chẩn đoán bệnh: trước đây chẩn đoán khối u trong tim rất khó khăn, nhưng ngày nay đã trở nên dễ dàng hơn nhờ có máy siêu âm tim. Khi người bệnh có dấu hiệu nghi ngờ như khó thở, đau ngực, hoặc có lần bị ngất trước đó, cần được tiến hành siêu âm tim. Trên siêu âm tim thấy rõ khối u di động trong buồng tim, thấy được cuống của khối u bám vào vách tim (hay gặp nhất là bám vào vách liên nhĩ). Siêu âm còn giúp cho đánh giá chính xác kích thước khối u, thấy được sự di động qua van hai lá trong chu kỳ co bóp của tim.
+Các biến chứng có thể xảy ra
+Thông thường, bệnh nhân khi đến khám thường ở giai đoạn muộn, khối u đã to. Nhiều người chỉ cảm thấy mệt, khó thở, ngất... và thường hay chữa nhầm là bệnh động kinh.
+Chỉ tính riêng u nhầy đã có tới 15% bệnh nhân bị đột tử do tắc cấp tính van hai lá hoặc mạch vành.
+Với khối u khác, đặc biệt là u ác tính di căn từ nơi khác đến tim, thường gây suy tim ứ huyết, tràn dịch màng ngoài tim, rối loạn nhịp và blốc tim, tiên lượng rất xấu, bệnh nhân có thể tử vong nhanh chóng.
+Điều trị thế nào?
+Điều trị u tim tùy thuộc u lành tính hay ác tính, nguyên phát hay thứ phát và giai đoạn của nó. Đa số u lành tính cần phải phẫu thuật. Cũng có thể tiến hành phẫu thuật đối với các u ác tính nguyên phát mà chưa có bằng chứng di căn. Đối với những u đã di căn thì điều trị hóa chất. Có thể hóa xạ trị kết hợp trong trường hợp là lymphomas. Tiên lượng của các u lành tính sau phẫu thuật khá tốt, còn đối với u ác tính nguyên phát thì xấu hơn.
+Đối với các khối u nguyên phát tại tim thì chưa có biện pháp phòng ngừa. Chủ yếu có thể giảm nguy cơ nói chung bằng cách: bỏ thuốc lá, giảm rượu, lối sống lành mạnh, có biện pháp bảo vệ khi phải phơi nhiễm với tia xạ, tầm soát ung thư phổi, tuyến giáp, ung thư vú...
+Các chuyên gia khuyến cáo, bệnh u ở tim là bệnh lý không thể dự phòng, bệnh lại có thể xuất hiện ở nhiều lứa tuổi, vì thế khi có biểu hiện đau ngực, nhịp tim nhanh biểu hiện bằng đánh trống ngực, khó thở, mệt mỏi, đặc biệt ngất khi thay đổi tư thế người bệnh cần đi khám tại cơ sở y tế chuyên khoa tim mạch để có thể phát hiện bệnh sớm. Bệnh có tỷ lệ tái phát dù đã được phẫu thuật, vì vậy người bệnh dù đã được phẫu thuật cần được tái khám định kỳ theo hướng dẫn của bác sĩ.

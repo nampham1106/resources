@@ -1,0 +1,141 @@
+# doc_id = health_disease_5898
+# url = https://suckhoedoisong.vn/suy-tim-nguyen-nhan-trieu-chung-phong-ngua-va-dieu-tri-169240706145220692.htm
+# date = 06-07-2024
+Suy tim: Nguyên nhân, triệu chứng, phòng ngừa và điều trị
+Suy tim
+là một hội chứng lâm sàng biểu hiện bởi các triệu chứng cơ năng (
+khó thở
+,
+phù
+mắt cá chân, mệt mỏi) và thực thể (
+nhịp tim nhanh
+, nhịp thở nhanh, tĩnh mạch cổ nổi, phù ngoại vi, sung huyết phổi) gây ra bởi bất thường cấu trúc hoặc chức năng tim dẫn đến giảm cung lượng tim và tăng áp lực trong buồng tim lúc nghỉ ngơi hoặc khi gắng sức.
+1. Nguyên nhân suy tim
+Xác định nguyên nhân suy tim là rất cần thiết, từ đó có hướng điều trị thích hợp. Có rất nhiều nguyên nhân gây suy tim. Theo ESC 2016 (Hội Tim Châu Âu), nguyên nhân suy tim được chia ra bệnh cơ tim và bất thường cung lượng tim:
+Bệnh cơ tim
+Bệnh tim thiếu máu
+: Sẹo cơ tim, cơ tim ngủ đông, bệnh
+động mạch vành
+, bất thường hệ vi mạch của mạch vành, rối loạn chức năng nội mạc
+Ngộ độc cơ tim
+: lạm dụng chất kích thích (rượu, cocaine, amphetamine…); kim loại nặng (đồng, sắt, chì, combatl…); thuốc (thuốc độc tế bào, thuốc ức chế miễn dịch…); tia phóng xạ
+Tổn thương do phản ứng viêm và qua trung gian miễn dịch
+: Liên quan tới nhiễm trùng như vi khuẩn, nấm, ký sinh trùng, rickettsie, HIV…; Không liên quan tới nhiễm trùng bao gồm: quá mẫn và viêm cơ tim tăng bạch cầu toan, viêm cơ tim lympho/tế bào khổng lồ, các bệnh tự miễn (bệnh Graves, bệnh thấp tim, viêm khớp, rối loạn mô liên kết, lupus ban đỏ hệ thống…)
+Thâm nhiễm cơ tim
+: Liên quan tới bệnh ác tính như thâm nhiễm trực tiếp hay di căn; Không liên quan tới bệnh ác tính như Amyloidossis, sarcoidosis, bệnh tích lũy glycogen (ví dụ như bệnh pompe).
+Rối loạn chuyển hóa
+: Hormone bao gồm các bệnh lý tuyến giáp (cường giáp hoặc suy giáp), bệnh tuyến cận giáp, suy tuyến yên, bệnh liên quan tới thai kỳ mang thai và chu sản); Dinh dưỡng thiếu vitamin B1, sắt, canxi, phosphate…
+Bất thường gen
+: Đa hình thái như loạn dưỡng cơ tim, bệnh cơ tim hạn chế.
+ThS.BS Nguyễn Thu Huyền (Khoa Nội tim mạch, Bệnh viện 19-8).
+Bất thường cung lượng tim
+Tăng
+huyết áp
+Bất thường van tim hay cấu trúc tim
+: Một số bệnh mắc phải là bệnh van hai lá, van động mạch chủ, van ba lá, van động mạch phổi…; Một số bệnh bẩm sinh như thông liên nhĩ, thông liên thất, hẹp hai lá bẩm sinh…
+Bệnh lý màng ngoài tim và nội mạc cơ tim
+: Ngoài màng tim gồm có các bệnh viêm màng ngoài tim co thắt, tràn dịch màng ngoài tim; Nội tâm mạc có bệnh lý xơ hóa nội mạc cơ tim.
+Tăng cung lượng tim
+: Thiếu máu, nhiễm trùng, cường giáp, bệnh Paget, thông động tĩnh mạch,
+phụ nữ mang thai
+.
+2. Triệu chứng suy tim
+Theo ESC 2016, các triệu chứng của suy tim gây ra do hai cơ chế chính là giảm cung lượng tim và do quá tải dịch bao gồm:
+Các triệu chứng do quá tải dịch
+Ở tuần hoàn phổi
+: Khó thở khi gắng sức, khó thở khi nằm, khó thở khi nghỉ ngơi, cơn khó thở kịch phát về đêm
+Ở tuần hoàn ngoại vi
+: Phù (cần lưu ý rằng cũng có nguyên nhân khác nhau gây phù mắt cá chân như huyết khối hoặc tắc nghẽn tĩnh mạch, viêm tĩnh mạch, hạ albumin máu, bệnh lý gan,
+thận
+, tắc mạch bạch huyết…), gan to, tĩnh mạch cổ nổi…
+Các triệu chứng do giảm cung lượng tim
+Mệt mỏi, gầy sút cân
+Đau tức ngực
+Mạch nhanh
+Tụt huyết áp
+Theo Hiệp hội Tim mạch New York (NYHA) phân độ mức độ nặng của suy tim được chia từ I đến IV như sau:
+I: Không có giới hạn về hoạt động thể chất.
+II: Giới hạn nhẹ về khả năng gắng sức, các triệu chứng xuất hiện với mức gắng sức trung bình như leo cầu thang.
+III: Giới hạn nhiều về khả năng gắng sức, các triệu chứng xuất hiện với mức gắng sức nhẹ như mặc quần áo.
+IV: Triệu chứng xuất hiện cả khi nghỉ ngơi.
+Bệnh nhân suy tim thường phải nằm tại phòng cấp cứu và thở oxy.
+Theo phân loại của Hiệp hội Tim mạch Hoa Kỳ/Trường Môn Tim mạch Mỹ (AHA/ACC) 2016, suy tim được chia làm 4 giai đoạn.
+Giai đoạn A
+: Có nguy cơ bị suy tim nhưng chưa có bằng chứng về tổn thương cấu trúc và chức năng tim, chưa có triệu chứng suy trên lâm sàng. Thường gặp ở các bệnh nhân tăng huyết áp, đái tháo đường, xơ vữa mạch, béo phì, hội chứng chuyển hóa.
+Giai đoạn B
+: Có bằng chứng về tổn thương cấu trúc và chức năng tim nhưng chưa có triệu chứng suy tim trên lâm sàng. Thường gặp ở các bệnh nhân
+nhồi máu cơ tim
+cũ, phì đại cơ tim thất trái, giảm EF, tổn thương van tim
+Giai đoạn C
+: Có bằng chứng về tổn thương cấu trúc và chức năng tim, có triệu chứng suy tim trên lâm sàng (tiền sử hoặc triệu chứng lần đầu nhập viện). Bệnh nhân có bệnh tim cấu trúc và chức năng trước đó và kèm theo các triệu chứng của suy tim.
+Giai đoạn D
+: Suy tim không đáp ứng với điều trị. Bệnh nhân có các triệu chứng suy tim rõ ràng khi chỉ gắng sức nhẹ hoặc khi nghỉ ngơi, hoặc các bệnh nhân nhập viện vì suy tim.
+Trong lâm sàng, suy tim cũng được chia thành:
+Suy tim cấp
+và suy tim mạn; Suy tim tâm thu và suy tim tâm trương.
+Suy tim cấp và suy tim mạn
+Các biểu hiện lâm sàng phụ thuộc vào tốc độ tiến triển của suy tim:
+Suy tim cấp
+được miêu tả với triệu chứng khó thở cấp, phù phổi, thậm chí là sốc tim với tụt huyết áp và vô hiệu. Suy tim cấp có thể do nhồi máu cơ tim,
+rối loạn nhịp tim
+hoặc tổn thương van tim cấp tính (ví dụ viêm nội tâm mạc nhiễm khuẩn), tổn thương cơ tim cấp trong viêm cơ tim.
+Suy tim mạn
+: là bệnh nhân bị suy tim trong một thời gian tương đối dài.  Nếu các bệnh nhân khi được điều trị tình trạng không xấu đi trong tối thiểu 1 tháng thì được gọi là ổn định. Ngược lại, nếu tình trạng ổn định mất đi, bệnh nhân sẽ chuyển sang suy tim mạn mất bù, quá trình này có thể diễn ra từ từ hoặc nhanh chóng, đây là nguyên nhân khiến bệnh nhân phải nhập viện và là một yếu tố tiên lượng xấu.
+Suy tim tâm thu và suy tim tâm trương
+Hầu hết các bệnh nhân suy tim đều có cả suy tim tâm thu (suy giảm chức năng tống máu) và suy tim tâm trương (rối loạn chức năng giãn và đổ đầy của tâm thất).
+Suy tim tâm trương
+: Là những bệnh nhân có triệu chứng và dấu hiệu của suy tim nhưng chức năng tâm thu thất trái bảo tồn. Thuật ngữ suy tim tâm trương, suy tim chức năng tâm thu bình thường và suy tim chức năng tâm thu bảo tồn có thể sử dụng thay thế cho nhau.
+Theo phân loại của ESC 2016 chia ra 3 nhóm: Suy tim phân suất tống máu giảm (EF < 40%), suy tim phân suất tống máu bảo tồn (EF ≥ 50%), suy tim phân suất tống máu giới hạn (EF: 40-49%), việc phân loại thêm nhóm EF  40-49% sẽ thúc đẩy các nghiên cứu về cơ chế bệnh sinh, đặc điểm lâm sàng và điều trị ở nhóm bệnh nhân đặc biệt này.
+Tuy nhiên, người bệnh cần biết suy tim là một bệnh lý có thể gây rối loạn đa chức năng đa cơ quan cho bệnh nhân. Có nhiều bệnh nhân nhập viện trong tình trạng:
+Rối loạn về tiêu hóa thứ phát
+do suy tim sung huyết như gan to, cổ trướng, giảm tưới máu ruột, phù (chướng bụng, chán ăn, đầy hơi, nôn, buồn nôn,
+táo bón
+, vàng da)
+Rối loạn về hệ sinh dục tiết niệu thứ phát
+do giảm tưới máu thận (thiểu niệu/vô niệu, tiểu nhiều lần, tiểu về đêm)
+Triệu chứng thần kinh trung ương thứ phát
+do giảm tưới máu não và rối loạn điện giải (lú lẫn, giảm trí nhớ, lo lắng, đau đầu, mất ngủ, rối loạn hành vi, loạn thần, thao cuồng, ảo giác)
+Các triệu chứng thần kinh cơ
+: Chuột rút, gout,
+hội chứng ống cổ tay
+Nhiều người bệnh chủ quan và bỏ qua các dấu hiệu của suy tim. Do vậy, cách tốt nhất để phát hiện suy tim là thăm khám sức khỏe định kỳ hoặc khám sức khỏe khi có bất kỳ dấu hiệu bất thường nào của cơ thể.
+Có rất nhiều nguyên nhân gây suy tim, người bệnh cần được thăm khám tại các chuyên khoa tim mạch để tìm nguyên nhân và điều trị sớm.
+3. Suy tim có lây không?
+Suy tim không phải là một bệnh truyền nhiễm do vậy không thể lây từ người này sang người khác.
+4. Phòng ngừa suy tim
+Để phòng ngừa suy tim cần chú ý các điều sau:
+Kiểm soát các yếu tố nguy cơ có thể dẫn đến hoặc đóng góp vào sự phát triển của suy tim, ví dụ tăng huyết áp, đái tháo đường, béo phì.
+Ngăn cản tổn thương cơ tim tiến triển, tái cấu trúc cơ tim và tái phát triệu chứng ở bệnh nhân suy tim.
+Bên cạnh đó, theo khuyến cáo của ESC
+bệnh nhân suy tim cần có kỹ năng và thói quen tự chăm sóc bao gồm:
+Hiểu được nguyên nhân suy tim và vì sao xuất hiện các triệu chứng
+Theo dõi và ghi nhận các dấu hiệu, triệu chứng. Ghi theo dõi cân nặng hàng ngày và phát hiện tình trạng tăng cân nhanh. Hiểu cách thức và biết khi nào cần thông báo cho bác sĩ điều trị. Sử dụng linh hoạt liều lợi tiểu nếu có thể.
+Bệnh nhân cần hiểu chỉ định, liều và tác dụng phụ của mỗi thuốc điều trị. Ghi nhận tác dụng phổ biến của mỗi thuốc.
+Phân tầng nguy cơ: Người bệnh cần hiểu được tầm quan trọng của việc bỏ thuốc lá, theo dõi huyết áp nếu có tăng huyết áp. Duy trì kiểm soát đường huyết nếu bệnh nhân có đái tháo đường, tránh thừa cân béo phì.
+Chế độ ăn: Bệnh nhân cần hạn chế muối nếu được chỉ định; Tránh đưa vào cơ thể quá nhiều dịch. Cần hạn chế tối đa việc uống rượu bia đồng thời theo dõi và tránh tình trạng
+thiếu dinh dưỡng
+.
+Tập luyện thể dục: Người bệnh cần cảm thấy an tâm và thoải mái về hoạt động thể lực đồng thời hiểu về lợi ích của rèn luyện thể dục. Duy trì các bài tập thể dục thường xuyên.
+Tình dục
+: Bệnh nhân nên trao đổi với bác sĩ để đánh giá lại nhu cầu tình dục và hiểu được các vấn đề về tình dục cụ thể.
+Tiêm phòng
+: Nên tiêm phòng cúm hàng năm và phế cầu 5 năm/lần.
+Rối loạn giấc ngủ
+và nhịp thở: Người bệnh cần biết các biện pháp dự phòng như giảm cân đối với người thừa cân béo phì, cai thuốc lá, bỏ rượu… hoặc can thiệp điều trị nếu cần.
+Tuân thủ điều trị: Hiểu được tầm quan trọng của tuân thủ chế độ điều trị và thúc đẩy việc duy trì tuân thủ điều trị.
+Rối loạn tâm thần: Người bệnh cần nhận thức được các triệu chứng suy nhược và rối loạn tâm lý là phổ biến ở các bệnh nhân suy tim cũng như vai trò quan trọng của hỗ trợ xã hội. Ở một số trường hợp sẽ can thiệp nếu cần thiết.
+Tiên lượng: Người bệnh cần nhận thức được các yếu tố tiên lượng và đưa ra những quyết định thiết thực hay tìm kiếm sự hỗ trợ về mặt tâm lý nếu có thể.
+5. Điều trị suy tim
+Suy tim là một bệnh lý phổ biến với gánh nặng kinh tế đáng kể trên toàn thế giới. Phác đồ điều trị thường được cá nhân hóa. Tùy thuộc vào nguyên nhân gây suy tim, tình trạng của người bệnh, giai đoạn bệnh, loại suy tim mắc phải… các bác sĩ sẽ lựa chọn phương án điều trị phù hợp. Một số phương án
+điều trị suy tim
+là:
+Nội khoa
+: Mục đích điều trị nội khoa là cải thiện triệu chứng lâm sàng bằng thuốc lợi tiểu, giãn mạch, kiểm soát nhịp… Điều trị nguyên nhân ví dụ nhồi máu cơ tim thì tái thông động mạch vành...và điều trị cá thể hóa từng bệnh nhân.
+Can thiệp
+: Các thiết bị hỗ trợ trong điều trị suy tim là máy phá rung tự động ICD, liệu pháp tái đồng bộ cơ tim CRT, một số chỉ định phẫu thuật: thay
+sửa van tim
+, phẫu thuật bắc cầu nối chủ vành,
+ghép tim
+Ngoài việc tuân thủ điều trị thuốc cũng như các bệnh lý kèm theo (tăng huyết áp, bệnh động mạch vành, đái tháo đường, rung nhĩ… ) người bệnh suy tim cần thực hiện thay đổi lối sống một cách nghiêm ngặt, giảm các yếu tố nguy cơ, thực hiện chế độ ăn nhạt và vận động thể lực… dựa theo khuyến cáo của bác sĩ điều trị.
+Các thuốc điều trị suy tim
+SKĐS - Suy tim là tình trạng tim hoạt động bất thường, làm cho việc bơm máu của tim trở nên khó khăn hơn và người bệnh thường thấy khó thở, mệt mỏi... Vấn đề quan trọng và cũng là mấu chốt để thay đổi tiên lượng cho các bệnh nhân suy tim đó là phát hiện sớm và điều trị kịp thời.

@@ -1,0 +1,38 @@
+# doc_id = health_disease_2810
+# url = https://suckhoedoisong.vn/diem-mat-cac-amip-tu-do-gay-viem-nao-16955499.htm
+# date = 28-10-2012
+Điểm mặt các amip tự do gây viêm não
+(SKDS) -
+Amip là những đơn bào (những động vật cấu tạo chỉ gồm một tế bào), di chuyển bằng chân giả, có thể sống tự do hoặc ký sinh. Bệnh do amip ở người thường do loại amip ký sinh là Entamoeba histolytica, chúng gây bệnh lỵ amip, đôi khi gây áp-xe gan, phổi, não... Bệnh do amip tự do rất hiếm gặp nhưng rất nguy hiểm, tỷ lệ tử vong cao.
+Các amip tự do gây viêm não
+Naegleria fowleri gây viêm não - màng não nguyên phát (PAM)
+N. fowleri là loại amip ưa nhiệt, phát triển tốt ở nhiệt độ cao tới 45
+0
+C. Gặp ở khắp nơi trên thế giới, trong đất, trong nước ngọt (ao, hồ, sông, nước máy, nước giếng...) nhưng không tìm thấy trong nước biển. Sự hiện diện của N. fowleri liên quan tới nhiệt độ nước, thường gặp ở vùng nhiệt đới, cận nhiệt đới, ở vùng ôn đới nếu nước lẫn nước nóng vẫn có thể gặp amip. Khi nhiệt độ nước giảm, amip thường tìm thấy ở lớp cặn dưới đáy hồ, các kén của amip có thể chịu đựng được tới 8 tháng ở nhiệt độ 4
+0
+C. N. fowleri gây PAM, được gọi là amip ăn não người - “brain-eating ameba”.
+Mặc dù phơi nhiễm với amip rất nhiều nhưng rất hiếm trường hợp mắc PAM và các yếu tố bảo vệ của cơ thể còn chưa được hiểu rõ. Những ca bệnh được thông báo thường ở những vùng có khí hậu nóng, trong những tháng ấm áp. Phần lớn ca bệnh có tiền sử tiếp xúc với nước ngọt trong các hoạt động giải trí (bơi, lặn...), một vài trường hợp sau khi vẩy nước máy vào mũi hay nhiễm phải kén qua đường hô hấp. Amip theo thần kinh khứu giác, mạch máu xâm nhập hệ thần kinh.
+Bệnh thường gặp ở người trẻ (tuổi trung bình là 12), phần lớn là nam giới (78%). Thời gian ủ bệnh 2 – 5 ngày, thậm chí đến 2 tuần, biểu hiện sớm là rối loạn khứu giác, đôi khi cả rối loạn vị giác, sau đó xuất hiện sốt, đau đầu, buồn nôn, nôn, thay đổi ý thức, tiến triển rất nhanh tới hôn mê và tử vong trước khi có tổn thương thần kinh khu trú, thường trong vòng 10 ngày, tỷ lệ tử vong rất cao (97% trường hợp).
+Xét nghiệm dịch não tủy có thể phát hiện amip, phản ứng kháng thể thường chưa xuất hiện bệnh nhân đã tử vong nên ít ý nghĩa, ngoài ra có thể nuôi cấy amip hoặc sử dụng sinh học phân tử.
+Khi bệnh nhân nghi ngờ PAM cần được điều trị amphotericin B liều cao, kết hợp thuốc nhóm azoles (ví dụ miconazole, fluconazole), rifampin hoặc các kháng sinh khác.
+Acanthamoeba gây viêm não u hạt (GAE) và viêm giác mạc (AK)
+Acanthamoeba là loại amip có mặt trong đất, nước ngọt và nước mặn, không khí khắp nơi trên thế giới. Acanthamoeba bị ức chế bởi nhiệt độ cao (35 – 39
+0
+C). Rất nhiều người nhiễm amip, amip được phát hiện thấy ở dịch hầu họng của người bình thường, tỷ lệ có kháng thể với amip tới 50 – 100%. Viêm não u hạt do Acanthamoeba thường sau viêm giác mạc do Acanthamoeba, chủ yếu gặp ở người suy giảm miễn dịch, trẻ em suy dinh dưỡng, ở người rất trẻ (<15 tuổi) hoặc già (>60 tuổi), bệnh xuất hiện quanh năm. Tiến triển âm thầm và bán cấp, thường xuất hiện tổn thương thần kinh khu trú, thời gian bệnh trung bình 39 ngày, phần lớn trường hợp cũng đều tử vong.
+Việc chẩn đoán miễn dịch ít giá trị do kháng thể có thể xuất hiện ở người bình thường, chủ yếu chẩn đoán bằng sinh thiết não.
+Điều trị dựa vào chẩn đoán GAE sớm và điều trị kết hợp thuốc như pentamidine, azole (fluconazole; itraconazole hay ketoconazole), sulfonamide, flucytosine. Chưa có phác đồ tối ưu và các xét nghiệm đánh giá sự nhạy cảm thuốc có thể có ích trong quyết định phác đồ điều trị.
+Balamuthia mandrillaris gây viêm não u hạt
+Balamuthia mandrillaris là loại amip gây nhiễm cho người và động vật khắp thế giới, tỷ lệ tử vọng rất cao, tuy nhiên ít gặp ở tự nhiên, trong đất, nước. Amip lan theo đường máu từ những ổ nhiễm khuẩn ở phổi, da tới não. Bệnh tiến triển bán cấp hoặc mạn tính, triệu chứng chính là sốt, đau đầu, buồn nôn, nôn, co giật, tổn thương thần kinh khu trú, tử vong trong vòng vài tháng.
+Hiện chưa có phác đồ tối ưu, cần chẩn đoán sớm và kết hợp thuốc, các ca bệnh thành công được điều trị bằng flucytosine, pentamidine, fluconazole, sulfadiazine và macrolide (azithromycin hay clarithromycin).
+Sappinia gây viêm não u hạt
+Sappinia amip thường thấy trong đất, phân động vật. Mới chỉ có một ca bệnh GAE được thông báo, bệnh nhân trước đó hoàn toàn khỏe mạnh, sau đó xuất hiện khối phát triển ở thùy thái dương, phân lập được amip.
+Điều trị thành công bằng azithromycin, pentamidine, itraconazole và flucytosine.
+Ngoài ra Acanthamoeba SPP còn gây viêm giác mạc (AK): xuất hiện ở người khỏe mạnh mang kính áp tròng hay bị chấn thương giác mạc.
+Phòng bệnh do amip tự do
+Do Acanthamoeba và B. mandrillaris phân bố rộng rãi, việc phòng chống nhiễm rất khó khăn. PAM rất hiếm gặp, do đó việc giám sát thường xuyên N. fowleri ở các bể bơi công cộng thường ít được thực hiện. Tuy nhiên, chỉ với một nguồn nhiễm (ví dụ một bể bơi) có thể gây ra một chùm ca bệnh cùng phơi nhiễm, do đó các nhà chức trách cần xem xét đóng cửa nơi nghi ngờ.
+Nước máy cũng có thể nhiễm N. fowleri, do đó các biện pháp xử lý nước mới có khả năng loại trừ amip tự do đang được nghiên cứu. N. fowleri dễ bị diệt bằng chlor, do đó cần kiểm soát chất lượng nước bằng chlor với nồng độ phù hợp. Cần lưu ý nguy cơ nhiễm amip tự do ở những vùng nước tự nhiên ấm, tù đọng. Tránh bơi lội ở những vùng nước như vậy, sử dụng dụng cụ bảo vệ mũi để tránh bị nước vào mũi. Viêm giác mạc do amip Acanthamoeba (AK) chủ yếu liên quan tới kính áp tròng, do đó, không nên đeo kính áp tròng khi bơi, tắm, vệ sinh kính hàng ngày bằng dung dịch chuyên dụng mới, sau đó để khô. Cần sử dụng dung dịch vệ sinh kính có khả năng diệt Acanthamoeba.
+Do kết quả điều trị phụ thuộc rất lớn vào thời gian nên những bệnh nhân có tiền sử tiếp xúc với nước ấm, có các triệu chứng rối loạn khứu giác, vị giác, sốt, đau đầu, buồn nôn... cần nhanh chóng đến các cơ sở y tế để được chẩn đoán và điều trị kịp thời.
+TS.
+Lê Trần Anh
+(
+Bộ môn Ký sinh trùng - Học viện Quân y)

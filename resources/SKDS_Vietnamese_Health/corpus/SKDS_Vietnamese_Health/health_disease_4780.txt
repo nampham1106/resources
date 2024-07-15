@@ -1,0 +1,44 @@
+# doc_id = health_disease_4780
+# url = https://suckhoedoisong.vn/thuoc-dung-trong-phi-dai-lanh-tinh-tien-liet-tuyen-169131710.htm
+# date = 20-02-2019
+Thuốc dùng trong phì đại lành tính tiền liệt tuyến
+Nam giới tuổi 50 có khoảng 50% và tuổi 60 hơn 60% bị phì đại lành tính tuyến tiền liệt. Trước đây hầu hết phải mổ cắt bỏ, hiện nay chỉ có khoảng 20% cần phải mổ, còn lại 80% cần theo dõi chưa điều trị ngay hoặc dùng liệu pháp nội khoa.
+Đánh giá thuốc theo tiêu chuẩn nào? Có ba tiêu chuẩn đánh giá: đánh giá mức giảm các triệu chứng (tính theo thang điểm IPS); đánh giá mức tăng tăng lưu lượng dòng chảy tối đa (Qmax); đánh giá mức giảm kháng thể đặc hiệu tiền liệt tuyền (PSA) máu. Theo WHO (2001) thiết kế nghiên cứu phải theo dõi đủ các chỉ số này ít nhất trong 12 tháng có so sánh với giả dược.
+Các nhóm thuốc
+Nhóm thuốc ức chế 5 alphareductase (5-ARI):
+Enzym 5- alphareductase có vai trò chuyển đổi dihydrotestosteron và chất này kích hoạt các thụ thể androgen trong tuyền tiền liệt gây ra sự chuyển mã và giải mã một số yếu tố tăng trưởng (như yếu tố tăng trưởng biểu mô EGF). Thuốc ức chế enzym 5- alphareductase làm chậm lại quá trình phì đại tuyến tiền liệt.
+Dutasterid:
+một nghiên cứu mù đôi, có đối chứng với với giả dược trên 1.570 người dùng thuốc này, theo dõi trong 4 năm thấy: so với lúc đầu, dutasterid làm giảm thể tích tuyến tiền liệt > 26%, làm giảm thể tích vùng chuyển tiếp 20%, giảm các triệu chứng (tính theo thang điểm ISPP)> 6% , tăng lưu lượng dòng chảy tối đa (Qmax) 2,8 ml/giây, giảm PSA máu 57%, giảm bí tiểu 57%, giảm 48% phải phẫu thuật.
+Finasterid:
+các nghiên cứu cho thấy dùng finasterid 1 năm làm giảm thể tích tuyến tiền liệt khoảng 24% làm tăng lưu lượng dòng chảy tối đa (Qmax) 23%, cải thiện khoảng 30% các triệu chứng rối loạn tiểu. Với trường hợp kích thước tuyến tiền liệt to, thuốc làm giảm 55% nguy cơ bí tiểu tiện cấp, nguy cơ phải mổ.
+Trong phì đại lành tính tuyền tiền liệt, rối loạn tiểu không tăng tỉ lệ thuận hoàn toàn với khối u, nên thầy thuốc chỉ cho dùng các thuốc này khi người bệnh có thể tích tuyến tiền liệt lớn. Sau khi dùng thuốc 3 - 6 tháng mới thấy có tác dụng. Không nên dùng các thuốc này khi chưa cần, lúc dùng không nên nôn nóng, không nên quá lo, không được tự ý ngừng thuốc nếu có một vài tác dụng phụ nhỏ.
+Nhóm thuốc chẹn 5 alpha- adrenergic:
+Trong phì đại lành tính tuyền tiền liệt có khoảng 60% thành phần mô tăng sinh là tế báo cơ trơn và mô liên kết. Khi các thụ thể alpha nằm trong cơ trơn tuyến tiền liệt bị kích thích thì trương lực cơ tăng, gây rối loạn tiểu. Thụ thể alpha còn có nhiều ở vùng tam giác hang, cổ bàng quang. Thuốc chẹn alpha ngăn chặn sự tăng trượng lực cơ, giúp cổ bàng quang mở ra dễ dàng, cải thiện các triệu chứng liên quan đến chức năng tống xuất của bàng quang, làm giảm sự rối loạn tiểu. Như vậy, thuốc chẹn thụ thể alpha chỉ làm chậm sự tiến triển, làm giảm sự rối loạn tiểu chứ không chữa khỏi bệnh.
+Thời gian đáp ứng của thuốc nhanh. Sau khi dùng 1 - 3 tuần sự rối loạn tiểu giảm dần. Khi dùng 3 - 4 tháng mà không hiệu quả thì không nên tiếp tục, cần khám lại chọn liệu pháp khác.
+Thuốc gây hạ huyết áp tư thế đứng, ù tai, chóng mặt, mệt mỏi, sung huyết mũi, rối loạn xuất tinh. Khoảng 20 - 45% người phì đại lành tính tuyến tiền liệt thường có kèm theo bệnh cao huyết áp. Đôi khi người bệnh đã được chỉ định thuốc hạ huyết áp trước, trong khi đó thuốc chẹn thụ thể alpha lại gây hạ huyết áp tư thế dứng nên cần phải thận trọng dùng chẹn thụ thể alpha cho những người này. Không được dùng thuốc chẹn thụ thể alpha cho người suy tim sung huyết.
+Nhóm thuốc chiết xuất từ thảo dược:
+Nhóm thuốc chiết xuất từ thảo dược chiếm một tỉ lệ cao trong tổng số thuốc chữa phì đại lành tính tuyến tiền liệt (Đức, Pháp 25,3 - 36,8% - Italia, Tây BanNha 3,5 - 10%). Toàn thế giới có 33 loại chiết xuất từ thảo dược với các thành phần khá phức tạp chủ yếu là các phytosterol, betasitosterol, axít béo, lecitin.
+Cơ chế của chúng được giả thiết là ức chế hoạt động của enzym 5-alphareductase, chẹn thụ thể alpha, tăng hoạt động của aromatose, chẹn androgen, ức chế tổng hợp prostaglandin, kháng viêm. Tuy nhiên, một số cơ chế nói trên ở một số thuốc mới chỉ được chứng minh trong phòng thí nghiệm mà chưa được chứng minh trong lâm sàng và vẫn còn thiếu các nghiên cứu về dược động học sinh khả dụng. Ví dụ không chứng minh được giảm PSA máu thì không thể chấp nhận cơ chế ức chế hoạt động của enzym 5-alphareductase.
+Các thuốc chiết xuất từ thảo dược cải thiện rối loạn tiểu cho những người có triệu chứng rối loạn tiểu đường tiểu tiện dưới. Chỉ dùng thuốc này khi phì đại lành tính tuyến tiền liệt nhẹ, ít có nguy cơ tiến triển.
+Hiện nay Hiệp hội Niệu khoa thế giới (SIU), Hiệp hội Niệu khoa Mỹ (AUA) chưa đưa các chiết xuất thảo dược vào danh mục thuốc chữa phì đại lành tính tuyến tiền liệt, tuy nhiên trong thực tế nhiều nước vẫn dùng các thuốc này. Ba thuốc thường dùng nhất là tanedan, peponen, crila:
+Tanedan:
+chiết xuất từ quả cây cọ lùn châu Phi (
+Serenoa repens)
+, châu Mỹ (
+Saw palmetto)
+. Biệt dược tanedan chiết từ
+pygeum africanum.
+Thuốc làm giảm các triệu chứng rối loạn tiểu dưới. Cơ chế được giả thiết là ức chế 5-alpha reductase ngăn cản testosteron chuyển thành dihydrotestosteron, nhưng nghiên cứu cơ chế chưa thống nhất.
+Peponen:
+hạt quả cây bí ngô (
+Curcubita pepo Curcubitaceae)
+có chất có delta 7-phytosterol, có tác dụng làm giảm số lần tiểu ban đêm, giảm thể tích nước tiểu tồn dư, cải thiện chứng khó tiểu, tiểu nhiều lần, tiểu buốt ; làm dịu các hoạt động quá mức của bàng quang (nguyên nhân gây tiểu són, tiểu rát và đái dầm thường gặp ở người già); ngoài ra còn có thể ngăn sự xuất hiện, làm chậm sự tiến triển rối loạn lipid - máu, phòng ngừa xơ vữa mạch. Hungary đã chuẩn hóa loại cây này để quả cho hoạt chất ổn định và chế ra biệt dược viên nang mềm Peponen.
+Crila:
+trinh nữ hoàng cung có tên khoa học
+Crinum latiforum.
+Cây này trước đây trồng trong hoàng cung Campuchia dùng chữa bệnh. Nhân dân ta dùng trinh nữ hoàng cung (từ 1989 -1990 ) là dựa theo kinh nghiệm này. Tuy nhiên thường dùng nhầm với một số cây cùng họ tương tự.
+Nhóm phối hợp nhóm 5- ARI và nhóm ức chế alpha adrenergic:
+Thử nghiệm lâm sàng CombAT tiến hành trên 35 nước phối hợp dutasterid (0,5mg) với tamsulosin (0,4mg) trên 4.844 nam giới ( với tiêu chuẩn được lựa chọn IPSS >12 điểm, thể tích tuyến tiền liệt > 30ml, định lượng PSA >1,5mg/ml, Qmax từ 5 - 15ml, khối lượng nước tiểu >125ml) so sánh với nhóm chứng chỉ dùng một loại thuốc; theo dõi trong hai năm thấy: liệu trình phối hợp so với các chỉ số khởi điểm thì IPSS giảm 6,2 điểm (dutasterid giảm 4,9 điểm, tamsulosin giảm 4,3 điểm), kích thước tuyến tiền liệt giảm 26% (dutasterid giảm 28%, tamsulosin không giảm), kích thước vùng chuyển tiếp giảm 23,4% (dutasterid giảm 22,8% tasulosin không giảm mà tăng 8,8%), PSA huyết tương giảm 56% (dutasterid giảm 55% tamsulosin không giảm mà tăng 11,2%). Các tác dụng phụ như: rối loạn cương, xuất tinh yếu, giảm ham muốn tình dục trong liệu pháp phối hợp có cao hơn liệu pháp đơn nhưng chỉ ở mức nhẹ. Như vậy dùng liêu pháp phối hợp tốt hơn dùng đơn.
+Cần lưu ý khi dùng thuốc
+Phì đại lành tính tuyến tiền liệt không đe dọa tính mạng, chỉ có 40% bị rối loạn tiểu, tiến triển chậm và tự nhiên, triệu chứng đường tiểu dưới theo thời gian có sự thay đổi, có nhóm có lúc tăng, có lúc giảm, có nhóm giảm cho dù có khi không dùng thuốc, tỉ lệ phải phẫu thuật sau 4 năm ở nhóm nhẹ là 10% ở nhóm nặng là 19%.
+Với trường hợp chưa cần điều trị ngay, người bệnh cần tự theo dõi, khám bệnh định kỳ để biết tiến triển bệnh, kịp thời dùng thuốc khi cần. Với trường hợp được chỉ định dùng thuốc cần thấy rõ lợi ích của liệu pháp này, tin tưởng yên tâm không nôn nóng. Chọn thời điểm dùng, chọn thuốc, dánh giá hiệu quả phải có kiến thức chuyên khoa. Chỉ được dùng thuốc theo chỉ định của thầy thuốc.

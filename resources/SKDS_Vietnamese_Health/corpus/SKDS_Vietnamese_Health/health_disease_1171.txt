@@ -1,0 +1,33 @@
+# doc_id = health_disease_1171
+# url = https://suckhoedoisong.vn/bat-loi-qua-trung-gian-mien-dich-cua-thuoc-tri-ung-thu-noi-mac-tu-cung-169191294.htm
+# date = 03-05-2021
+Bất lợi qua trung gian miễn dịch của thuốc trị ung thư nội mạc tử cung
+Ung thư nội mạc tử cung, là bệnh ác tính phổ biến nhất ở Mỹ và là bệnh ung thư phổ biến thứ sáu ở phụ nữ trên toàn thế giới.Đối với nhiều phụ nữ mắc bệnh ung thư nội mạc tử cung tiến triển sau khi hóa trị chứa platinum hoặc có khiếm khuyết chức năng chỉnh lỗi trên DNA (dMMR), việc sử dụng jemperli (mới được FDA chấp thuận) mang đến một lựa chọn điều trị mới cho một nhóm bệnh nhân này.
+Phản ứng có hại qua trung gian miễn dịch của thuốc trị ung thư nội mạc tử cung
+Các phản ứng có hại qua trung gian miễn dịch, có thể nghiêm trọng hoặc gây tử vong, có thể xảy ra ở bất kỳ hệ thống cơ quan hoặc mô nào và có thể xảy ra bất kỳ lúc nào trong hoặc sau khi điều trị bằng kháng thể ngăn chặn PD-1 / PD-L1, bao gồm cả jemperli.
+Theo dõi chặt chẽ các dấu hiệu và triệu chứng của các phản ứng có hại qua trung gian miễn dịch.Đánh giá các xét nghiệm men gan, creatinin, chức năng tuyến giáp tại thời điểm ban đầu và định kỳ trong quá trình điều trị.Đối với các phản ứng có hại nghi ngờ qua trung gian miễn dịch, cần loại trừ các nguyên nhân khác bao gồm cả nhiễm trùng. Cần quản lý y tế kịp thời, và hội chẩn chuyên khoa khi cần.
+Dựa trên mức độ nghiêm trọng của phản ứng có hại, ngừng tạm thời hoặc ngừng vĩnh viễn jemperli và dùng corticosteroid toàn thân để ứng phó với bất lợi do thuốc. Cân nhắc sử dụng các thuốc ức chế miễn dịch toàn thân khác ở những bệnh nhân không kiểm soát được phản ứng có hại qua trung gian miễn dịch với corticosteroid.
+Một số tình trạng cụ thể của phản ứng có hại
+Viêm phổi
+Jemperli có thể gây viêm phổi qua trung gian miễn dịch, có thể gây tử vong.Tỷ lệ viêm phổi ở những bệnh nhân dùng thuốc ức chế PD-1 / PD-L1, bao gồm cả jemperli, có thể tăng lên ở những bệnh nhân đã được xạ trị lồng ngực trước đó.
+Viêm ruột kết
+Jemperli có thể gây viêm đại tràng qua trung gian miễn dịch.Tuy nhiên, viêm đại tràng không dẫn đến việc ngừng dùng jemperli ở bất kỳ bệnh nhân nào.
+Viêm gan
+Jemperli có thể gây ra bệnh viêm gan qua trung gian miễn dịch, có thể gây tử vong.Corticosteroid toàn thân được sử dụng để ứng phó với tình trạng này.
+Bệnh nội tiết
+Suy thượng thận: Jemperli có thể gây suy thượng thận nguyên phát hoặc thứ phát.Đối với suy thượng thận độ 2 trở lên, bắt đầu điều trị triệu chứng theo hướng dẫn của cơ sở, bao gồm thay thế hormone theo chỉ định lâm sàng.Trong một số trường hợp, suy tuyến thượng thận có thể dẫn đến ngưng thuố.
+Rối loạn tuyến giáp: Jemperli có thể gây rối loạn tuyến giáp qua trung gian miễn dịch.Viêm tuyến giáp có thể có hoặc không kèm theo bệnh nội tiết.Suy giáp có thể theo sau cường giáp.Bắt đầu thay thế hormone hoặc quản lý y tế cường giáp theo chỉ định lâm sàng.
+Đái tháo đường loại 1: Jemperli có thể gây ra bệnh đái tháo đường týp 1, có thể xuất hiện cùng với nhiễm toan ceton do đái tháo đường.Theo dõi bệnh nhân về tình trạng tăng đường huyết hoặc các dấu hiệu và triệu chứng khác của bệnh tiểu đường.Bắt đầu điều trị bằng insulin theo chỉ định lâm sàng.Tiếp tục dùng hoặc ngừng vĩnh viễn jemperli tùy thuộc vào mức độ nghiêm trọng.
+Viêm thận qua trung gian miễn dịch với rối loạn chức năng thận
+Jemperli có thể gây viêm thận qua trung gian miễn dịch, có thể gây tử vong.Viêm thận xảy ra ở 0,5% (2/444) bệnh nhân trong thử nghiệm lâm sàng, cả hai đều là độ 2. Viêm thận không dẫn đến ngừng jemperli và khỏi ở cả hai bệnh nhân.1 trong 2 bệnh nhân bị viêm thận cần dùng corticosteroid toàn thân.
+Phản ứng có hại ngoài da
+Jemperli có thể gây phát ban hoặc viêm da qua trung gian miễn dịch.Viêm da nổi mụn nước và tróc da, bao gồm hội chứng Stevens-Johnson (SJS), hoại tử biểu bì nhiễm độc (TEN) và phát ban do thuốc với tăng bạch cầu ái toan và các triệu chứng toàn thân (DRESS), đã xảy ra với kháng thể ngăn chặn PD-1 / PD-L1.Thuốc làm mềm da và / hoặc corticosteroid bôi tại chỗ có thể thích hợp để điều trị phát ban không bóng nước / tróc da từ nhẹ đến trung bình.Tiếp tục dùng hoặc ngừng vĩnh viễn jemperli tùy thuộc vào mức độ nghiêm trọng.
+Các phản ứng có hại khác
+Hệ thần kinh:Viêm màng não, viêm não, hội chứng nhược cơ / bệnh nhược cơ, hội chứng Guillain-Barre, liệt dây thần kinh, bệnh thần kinh tự miễn
+Tim mạch / mạch máu:Viêm cơ tim, viêm màng ngoài tim, viêm mạch máu
+Mắt:Viêm màng bồ đào, viêm mống mắt, nhiễm độc viêm mắt khác.Một số trường hợp có thể liên quan đến bong võng mạc.Có thể xảy ra nhiều mức độ khiếm thị khác nhau bao gồm mù lòa.
+Tiêu hóa:Viêm tụy, bao gồm tăng nồng độ amylase và lipase huyết thanh, viêm dạ dày, viêm tá tràng
+Cơ xương và mô liên kết:Viêm cơ / viêm đa cơ, tiêu cơ vân và các di chứng liên quan bao gồm suy thận, viêm khớp, đau đa cơ do thấp khớp
+Nội tiết:Suy tuyến cận giáp
+Độc tính đối với phôi thai và quá trình cho con bú
+Dựa trên cơ chế hoạt động, jemperli có thể gây hại cho thai nhi.Tư vấn cho phụ nữ có thai về nguy cơ có thể xảy ra đối với thai nhi.Tư vấn cho phụ nữ có khả năng sinh sản sử dụng biện pháp tránh thai hiệu quả trong khi điều trị bằng jemperli và trong 4 tháng sau liều cuối cùng.Do có khả năng xảy ra các phản ứng có hại nghiêm trọng từ jemperli ở trẻ bú sữa mẹ, khuyên phụ nữ không nên cho con bú trong khi điều trị với jemperli và trong 4 tháng sau liều cuối cùng.

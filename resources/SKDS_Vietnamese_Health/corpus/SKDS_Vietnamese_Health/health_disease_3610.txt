@@ -1,0 +1,65 @@
+# doc_id = health_disease_3610
+# url = https://suckhoedoisong.vn/bac-si-nam-khoa-chi-ten-6-loai-thuoc-co-the-gay-vo-sinh-nam-169211107131622538.htm
+# date = 07-11-2021
+Bác sĩ nam khoa chỉ tên 6 loại thuốc có thể gây vô sinh nam
+BS Nguyễn Bá Hưng, Bệnh viện Nam học và Hiếm muộn Hà Nội chỉ ra một số loại thuốc có thể làm ảnh hưởng tới sinh tinh, giảm
+chất lượng tinh trùng
+, có thể gây vô sinh namcần lưu ý:
+1.
+Thuốc ức chế miễn dịch
+chống thải ghép có thể gây vô sinh nam
+Sirolimus là thuốc được sử dụng để ngăn ngừa thải ghép nội tạng, gây ra teo các ống sinh tinh (nhưng có thể hồi phục). Ngoài ra, sirolimus ngăn chặn quá trình sinh tinh từ giai đoạn tế bào mầm, làm giảm dần số lượng tế bào dòng tinh.
+Sirolimus cũng làm giảm testosterone nội sinh dẫn tới ức chế sinh tinh thông qua làm giảm trình diện protein StAR (protein có vai trò lớn trong việc vận chuyển cholesterol, tiền chất để tổng hợp testosterone trong tế bào Leydig).
+Do những tác động đến cả hai cơ chế quan trọng của quá trình sinh tinh nên sirolimus làm giảm mạnh số lượng và chất lượng, hình dạng
+tinh trùng
+.
+Rối loạn sinh tinh sẽ ảnh hưởng tới khả năng sinh sản của nam giới.
+2.
+Thuốc phiện
+và cocaine
+Thuốc phiện kích thích tiết prolactin bằng cách ức chế hoạt động dopaminergic ở ống cuống tuyến yên vùng dưới đồi, qua đó làm gián đoạn trục dưới đồi - tuyến yên và gây ra thiểu năng tuyến sinh dục. Điều này có thể làm giảm lượng testosterone trong tinh hoàn, tuy nhiên, các tác động đến tinh trùng vẫn khó đánh giá. Theo báo cáo của Katz & Mazer (2009), liệu pháp opioid dài hạn gây suy sinh dục do ức chế trung ương tiết hormone giải phóng gonadotropin ở vùng dưới đồi. Trên thực tế, các nghiên cứu đều khẳng định dùng opioid gây vô sinh, mất ham muốn tình dục và bất lực ở nam giới.
+Sử dụng cocaine thường xuyên lâu dài ảnh hưởng đến chất lượng tinh trùng (giảm khả năng vận động, tỷ lệ sống, hình dạng của tinh trùng), và giảm cả số lượng tinh trùng (Bracken, 1990).
+3. Các chất kháng Androgen
+Các chất kháng androgen được sử dụng trong điều trị với nhiều mục đích khác nhau. Hai loại hay được sử dụng nhiều nhất đó là:
+-
+Chất ức chế thụ thể 5α-reductase (finasteride, dustaride…):
+Làm giảm sản xuất dihydrotestosterone (một chất chuyển hóa của testosterone nhưng có ái lực với receptor androgen hơn testostosterone rất nhiều), qua đó làm giảm tác dụng của androgens. Nhóm thuốc này được điều trị chủ yếu trong tăng sản lành tính tiến liệt tuyến. Ngoài ra còn được sử dụng trong các bệnh lý rụng tóc do androgen.
+-
+Các loại progestin (cyproterone acetate):
+Tác dụng ức chế cạnh tranh rất mạnh tại vị trí gắn của men 5α-reductase trong các tế bào đích. Do đó làm giảm nồng độ androgens, gây ra những tác động điều trị. Nó được sử dụng trong nhiều chỉ định như tránh thai, mụn trứng cá, rậm lông, dậy thì sớm, ung thư tiền liệt tuyến…
+Một số thuốc làm ảnh hưởng tới khả năng sinh sản, có thể gây vô sinh nam.
+Finasteride, được sử dụng để điều trị tăng sản lành tính tuyến tiền liệt, là một chất ức chế thụ thể của 5α-reductase (chất chuyển đổi testosterone thành dihydrotestosterone, có ái lực mạnh hơn testosterone đối với các thụ thể androgen trong tế bào đích). Dùng lâu làm giảm nồng độ dihydrotestosterone có thể có tác động xấu đến các thông số của tinh trùng và chức năng sinh sản của nam giới.
+Sử dụng cyproterone acetate là phương pháp điều trị giảm nhẹ ung thư tuyến tiền liệt, dậy thì sớm, mụn trứng cá... Thuốc kháng androgen mạnh này làm ngăn chặn các androgen hoạt động trên các tế bào đích, ngoài ra ở mức độ trung tâm (vùng dưới đồi tuyến yên) nó còn có tác dụng kháng gonadotropin do đó làm giảm rất mạnh tổng hợp testosterone trong tinh hoàn.
+Một nghiên cứu tiến hành trên 25 nam thanh niên tình nguyện sử dụng cyproterone acetate trong 16 tuần đã cho thấy giảm rõ rật mật độ, độ di động và hình dạng thậm chí có trường hợp còn giảm đến mức không có tinh trùng. Tuy nhiên ảnh hưởng này có thể đảo ngược khi ngừng thuốc này trong vòng 6-22 tuần.
+4. Các thuốc chẹn thụ thể Alpha trong điều trị huyết áp và giãn cơ cổ bàng quang
+Thuốc chẹn alpha là chất đối kháng với các thụ thể α1-adrenergic của các tế bào cơ trơn, bao gồm cả các thụ thể của đường tiết niệu. Chúng được sử dụng để điều trị huyết áp cao và tăng sản lành tính tuyến tiền liệt.
+Thuốc chẹn alpha hay dùng như tamsulosin có ái lực với các thụ thể dopamine và serotonin ở cấp độ trung ương. Sự tương tác giữa tamsulosin và một số chất dẫn truyền thần kinh trung ương có thể góp phần vào giảm các thông số của tinh trùng nhưng cơ chế của sự thay đổi này vẫn chưa được biết rõ. Sử dụng tamsulosin làm giảm thể tích tinh dịch, số lượng tinh trùng, khả năng di động và hình thái tinh trùng, nhưng có thể hồi phục được sau khi ngừng thuốc.
+Afluzosin cũng là một chất cùng nhóm với tamsulosin hay được dùng nhưng lại rất ít ảnh hưởng đến tinh trùng do khác biệt về cấu trúc phân tử.
+5.
+Thuốc lợi tiểu
+Thuốc lợi tiểu spironolactone có tác dụng kháng androgen ngoại vi bằng cách ức chế tế enzy cytocrome P450 của thượng thận, tinh hoàn có liên quan đến sinh tổng hợp testosterone. Spironolactone có tác dụng kháng androgen ngoại vi bằng cách ức chế enzym cytochrome P450 của thượng thận và tinh hoàn liên quan đến sinh tổng hợp testosterone. Ngoài ra, nó còn ngăn chặn androgen liên kết với các tế bào đích thông qua hiện tượng cạnh tranh ở cấp độ thụ thể. Spironolactone làm suy giảm khả năng vận động của tinh trùng.
+6. Các tác nhân kháng khuẩn
+Hầu hết các loại thuốc kháng sinh đều làm thay đổi khả năng di chuyển của tinh trùng trong ống nghiệm, nhưng dữ liệu trong cơ thể thì rất ít được báo cáo.
+Biết được các thuốc có thể ảnh hưởng đến sinh tinh hoặc có nguy cơ cao ảnh hưởng đến khả năng sinh sản, sẽ giúp cả bác sĩ và người bệnh sẽ cẩn trọng hơn khi dùng thuốc...
+BS Nguyễn Bá Hưng, Bệnh viện Nam học và Hiếm muộn Hà Nội
+Nitrofurantoin được cho là có khả năng gây hại cho quá trình sinh tinh thông qua tác dụng gây độc trực tiếp ở tế bào tinh nguyên bào và tinh tử. Ở liều cao, nitrofurantoin có thể ngăn cản quá trình trưởng thành của tế bào mầm do đó ảnh hưởng của nó là làm giảm số lượng và khả năng di chuyển của tinh trùng, tuy nhiên có thể hồi phục sau khi ngừng điều trị kháng sinh.
+Ketoconazole là một loại thuốc chống nấm ức chế hoạt động của các enzym cytochromes P450, tham gia vào quá trình tạo steroid. Nó phong tỏa phức hợp enzyme 17α -hydroxylase dẫn đến việc giảm tổng hợp nội tiết tố testosterone và có thể làm giảm các thông số của tinh trùng tuy nhiên có hồi phục khi ngừng điều trị. Khuyến cáo nam giới nên ngừng dùng ketoconazole trước khi thụ thai.
+Chloroquine là một loại thuốc chống sốt rét, nó có thể ức chế phản ứng acrosome cực đầu của tinh trùng và làm giảm khả năng thụ tinh của chúng.
+Ribavirin, được sử dụng để điều trị viêm gan C mãn tính, có thể làm thay đổi các tế bào mầm đồng thời làm giảm khả năng vận động và hình thái của tinh trùng và có thể hồi phục khi ngưng điều trị từ sau 4 tháng trở đi.
+Mời độc giả xem thêm video:
+Cháo trai- món ăn bổ dưỡng
+BS Nguyễn Bá Hưng
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

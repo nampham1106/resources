@@ -1,0 +1,56 @@
+# doc_id = health_disease_852
+# url = https://suckhoedoisong.vn/cac-thuoc-dieu-tri-gan-nhiem-mo-169240408145104359.htm
+# date = 09-04-2024
+Các thuốc điều trị gan nhiễm mỡ
+Hiện nay, phương pháp điều trị chính cho người bệnh
+gan nhiễm mỡ
+là điều chỉnh lối sống. Điều này có thể bao gồm chế độ ăn kiêng (chẳng hạn như chế độ ăn ít calo) và tập thể dục với mục tiêu chung là giảm cân, giảm hoặc loại bỏ việc tiêu thụ rượu, sử dụng các loại thuốc để kiểm soát các bệnh mạn tính nếu có như bệnh
+đái tháo đường type 2
+hoặc tăng cholesterol. Ngoài ra, tùy từng nguyên nhân và tình trạng bệnh, bác sĩ có thể kê đơn một số loại thuốc để
+điều trị gan nhiễm mỡ
+.
+1. Các thuốc điều trị gan nhiễm mỡ
+Các thuốc dùng trong điều trị gan nhiễm mỡ có thể kể đến như:
+- Chất nhạy cảm insulin:
+Thiazolidinedione (TZDs) là chất chủ vận thụ thể kích hoạt peroxisome (PPAR) và làm tăng độ nhạy insulin. Rosiglitazone và pioglitazone là các TZDs đại diện. Rosiglitazone cải thiện tình trạng nhiễm mỡ và nồng độ aminotransferase ở các bệnh nhân gan nhiễm mỡ.
+Tuy nhiên, hạn chế sử dụng rosiglitazone vì nó có thể làm tăng nguy cơ đau tim (bệnh tim thiếu máu cục bộ). Sử dụng pioglitazone cải thiện đáng kể nồng độ aminotransferase huyết thanh và mô học gan nhưng lại gây ra các tác dụng phụ bao gồm tăng cân, phù nề, suy tim và giảm mật độ xương.
+Ngoài ra, có thông tin cho rằng nguy cơ ung thư bàng quang tăng lên nếu dùng pioglitazone trong hơn 2 năm. Metformin có tác dụng cải thiện bệnh gan nhiễm mỡ và đảo ngược tình trạng gan to, nhiễm mỡ và các bất thường aminotransferase trong các thử nghiệm.
+- Thuốc hạ lipid máu (các statin, ezetimibe):
+Có tác dụng cải thiện
+rối loạn lipid máu
+bằng cách ức chế một enzym quan trọng trong quá trình sản xuất cholesterol ở gan và tăng khả năng gan loại bỏ LDL - cholesterol khỏi máu, nhờ đó giảm nồng độ cholesterol máu.
+Tác dụng không mong muốn có thể gặp của các thuốc hạ lipid máu bao gồm
+tăng men gan
+, tăng men cơ (với liều cao hoặc ở người già, người dùng nhiều kháng sinh nhóm macrolid), vì vậy cần thận trọng khi dùng thuốc đối với người bệnh có bệnh lý về gan.
+- Pentoxifylline:
+Pentoxifylline được cho là có khả năng ngăn chặn sự tiến triển của bệnh
+gan nhiễm mỡ không do rượu
+. Tuy nhiên, thuốc có thể dẫn đến các tác dụng phụ như buồn nôn và nôn mửa.
+- Thuốc chẹn thụ thể angiotensin (telmisartan, valsartan):
+Các thuốc ức chế thụ thể angiotensin II (ARB) được dùng trong bệnh gan nhiễm mỡ để ngăn chặn viêm trong gan.
+Tác dụng phụ của thuốc có thể gặp như chóng mặt (thường gặp nhất), tăng kali máu, sưng phù dưới da do giữ nước, tiêu chảy, sụt cân… Không dùng thuốc với người chức năng thận kém hoặc mắc bệnh lý về thận. Phụ nữ đang mang thai hoặc nghi ngờ có thai chống chỉ định dùng các thuốc này.
+- Corticosteroid:
+Thuốc corticosteroid như prednisolone 40mg/ngày uống trong 4 tuần, tiếp theo là giảm dần liều có thể được chỉ định ở bệnh nhân viêm gan do rượu cấp tính nặng.
+Tuy nhiên, sử dụng corticosteroid liều cao hoặc kéo dài có thể dẫn đến nhiều tác dụng phụ nguy hiểm như tăng nguy cơ nhiễm trùng,
+loãng xương
+, loét dạ dày, hội chứng Cushing, teo tuyến thượng thận… Chống chỉ định với người quá mẫn với thành phần của thuốc, sử dụng đồng thời vaccine sống hoặc vaccine sống giảm độc lực (khi sử dụng liều ức chế miễn dịch), nhiễm nấm toàn thân, loãng xương, tăng đường huyết không kiểm soát trong đái tháo đường, tăng nhãn áp, nhiễm trùng khớp…
+Khi sử dụng corticosteroid, người bệnh cần tuyệt đối tuân thủ hướng dẫn của bác sĩ về liều lượng cũng như cách sử dụng thuốc. Thuốc có tác dụng nhanh nhưng cũng có nguy cơ gây ra tác dụng phụ nghiêm trọng, đặc biệt là khi sử dụng liều cao hoặc kéo dài.
+Người bệnh gan nhiễm mỡ chỉ sử dụng các loại thuốc được chỉ định, không tùy ý dùng thuốc khi bác sĩ không kê đơn.
+- Các vitamin:
+Vitamin tan trong dầu như vitamin A, D và E được tìm thấy nhiều trong phủ tạng động vật, cá biển và các sản phẩm từ sữa. Các vitamin tan trong dầu đóng vai trò quan trọng trong quá trình điều hòa miễn dịch, kiểm soát cân bằng oxy hóa khử và điều chỉnh sự phân hóa mô.
+Ngoài ra, chúng còn có đặc tính chống viêm, chống oxy hóa và chống xơ hóa cần thiết trong chiến lược điều trị hiệu quả bệnh gan nhiễm mỡ không do rượu/viêm gan nhiễm mỡ không do rượu.
+Riêng vitamin E còn có thể ngăn chặn mỡ biến tính trong tế bào gan và khả năng hoại tử gan, ngăn ngừa khả năng phát sinh thành tổ chức xơ.
+Vitamin tan trong nước như các vitamin nhóm B, vitamin C giúp ngăn chặn quá trình oxy hóa LDL, đóng vai trò là đồng yếu tố trong quá trình sinh tổng hợp enzym của collagen, carnitine và norepinephrine và thực hiện các chức năng cần thiết trong các quá trình cản trở sự tiến triển của bệnh gan nhiễm mỡ không do rượu.
+2. Lưu ý khi dùng thuốc
+Các thuốc kể trên được chứng minh là có hiệu quả cải thiện gan nhiễm mỡ trong các thử nghiệm lâm sàng. Tuy nhiên, không có loại thuốc nào được phê duyệt để điều trị gan nhiễm mỡ. Cần thêm nhiều nghiên cứu hơn nữa để khẳng định hiệu quả của các thuốc trên. Do đó, người bệnh không tự ý mua thuốc về uống.
+Việc sử dụng thuốc điều trị gan nhiễm mỡ cần được chỉ định và hướng dẫn cụ thể từ bác sĩ chuyên khoa. Trong quá trình sử dụng các loại thuốc chữa gan nhiễm mỡ, cần lưu ý:
+- Chủ động thăm khám để biết bệnh đang ở mức độ nào, từ đó có liệu trình điều trị thích hợp.
+- Chỉ sử dụng các loại thuốc được chỉ định, không tùy ý sử dụng thuốc khi không có sự kê đơn của bác sĩ. Không tự ý tăng liều, giảm liều, lạm dụng thuốc.
+- Thận trọng ở người mẫn cảm với bất kỳ thành phần nào của thuốc.
+Ngoài ra, việc sử dụng thảo dược và thực phẩm chức năng vì bất kỳ lý do gì có thể gây hại nhiều hơn lợi. Dữ liệu hiện có cho thấy rằng thực phẩm chức năng từ thảo dược là nguyên nhân gây ra 20% trường hợp tổn thương gan ở Hoa Kỳ. Đặc biệt, chiết xuất trà xanh được sử dụng khá nhiều trong các loại thuốc bổ gan được bán trên thị trường như một "chất đốt cháy chất béo" hay sản phẩm giảm cân có thể gây ra tổn thương gan chẳng hạn như viêm gan cấp tính.
+Do vậy, nếu bạn muốn dùng bất kỳ loại thực phẩm chức năng nào được cho là thuốc bổ gan, bạn nên tham khảo ý kiến bác sĩ chuyên khoa trước để đảm bảo sản phẩm đó là cần thiết và an toàn cho bạn, trong đó không tương tác bất lợi với các thuốc đang dùng (nếu có).
+Mời bạn đọc tham khảo thêm:
+Gan nhiễm mỡ: Nguyên nhân, biểu hiện, điều trị và phòng bệnh
+SKĐS - Gan nhiễm mỡ là một tình trạng phổ biến do có quá nhiều chất béo tích tụ trong gan. Tình trạng này có thể gây tổn thương gan, viêm gan và tạo sẹo, thậm chí dẫn đến suy gan nếu không được phát hiện và chữa trị sớm.
+Các câu hỏi thường gặp liên quan đến gan nhiễm mỡ
+SKĐS - Gan nhiễm mỡ là tình trạng lượng mỡ trong gan dư thừa quá nhiều, gây ảnh hưởng đến chức năng của gan. Ở những người nghiện rượu, người bị béo phì... có nguy cơ cao bị gan nhiễm mỡ.

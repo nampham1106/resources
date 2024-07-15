@@ -1,0 +1,29 @@
+# doc_id = health_disease_2108
+# url = https://suckhoedoisong.vn/nguoi-benh-nhuoc-co-co-co-hoi-khoi-benh-16948347.htm
+# date = 23-04-2012
+Người bệnh nhược cơ có cơ hội khỏi bệnh?
+Bệnh nhược cơ là bệnh có thể xuất hiện ở mọi lứa tuổi. Cho dù chưa có một bằng chứng xác đáng nào chứng minh hiệu quả tuyệt đối của các biện pháp điều trị nhưng bệnh nhược cơ là bệnh có nhiều cơ hội điều trị thành công.
+Tại sao bị bệnh?
+Nhược cơ là tình trạng sức cơ của người bệnh yếu dần, tiến triển, nặng dần vào cuối ngày và sau khi vận động. Mặc dù cấu trúc cơ bình thường, mặc dù sức khỏe các hệ cơ quan khác bình thường nhưng người bệnh lại không thể làm được việc gì dù nhỏ nhất. Trong những giai đoạn điển hình, người bệnh thậm chí còn không thể nhấc được tay lên mà chỉ có ngồi để thở.
+Hiện nay, cơ chế gây bệnh được giả thuyết theo 3 hướng: Hướng thứ nhất là trong cơ thể người bệnh xuất hiện các tự kháng thể kháng lại các thụ cảm thể của acetylcholin, gọi tắt là Ach. Các Ach không gắn được vào màng sau synap và không thể dẫn truyền xung động thần kinh tới cơ. Cơ bị yếu lực. Hướng thứ hai là trong cơ thể người xuất hiện các tự kháng thể kháng lại enzym kinase đặc hiệu cơ. Enzym này bị kháng thì các thụ cảm thể của Ach khó được biệt hóa và hình thành.
+Hướng thứ ba là do hệ miễn dịch của người bệnh quá mẫn cảm do u tuyến ức gây ra. Tuyến ức phát triển quá mạnh, tự sản xuất ra các tự kháng thể chống lại các thụ cảm thể của Ach. Trong 75% số nạn nhân của bệnh, người ta tìm thấy có bằng chứng rõ ràng của sự phát triển bất thường của tuyến ức. Có khoảng 15% số nạn nhân có sự xuất hiện của u tuyến ức.
+Dựa theo ba giả thuyết như trên mà hiện nay có ba phương pháp điều trị khả thi là: dùng thuốc, lọc máu và phẫu thuật cắt bỏ tuyến ức.
+Dùng thuốc điều trị bệnh
+Phương pháp dùng thuốc là phương pháp đầu tiên được áp dụng để điều trị. Trong phương pháp này, người ta sử dụng nhiều thuốc khác nhau để làm bình thường hóa sự dẫn truyền xung động thần kinh tới cơ.
+Vì trong đa phần các trường hợp, cơ chế gây bệnh chủ yếu theo giả thuyết thứ nhất, nghĩa là trong cơ thể tự xuất hiện các tự kháng thể kháng lại các thụ cảm thể của Ach. Cho nên các thuốc được sử dụng bao gồm: các thuốc ức chế men cholinestearase, thuốc ức chế miễn dịch, kháng thể IgG và một số thuốc phối hợp điều trị khác.
+Thuốc ức chế men cholinestearasen là thuốc cơ bản nhất, đầu tiên nhất được chỉ định. Cơ chế là làm tăng nồng độ và thời gian lưu tồn của Ach trong synap. Khi nồng độ Ach thấp thì có thể không đủ sức mạnh để gắn vào thụ cảm thể Ach. Nhưng nếu nồng độ Ach cao thì chúng đủ sức mạnh gắn vào những thụ cảm thể đang bị kém hoạt tính. Bằng chứng trên thực tế cho thấy, ngay từ liều đầu tiên và ngay những ngày đầu điều trị, người bệnh đã có những đáp ứng rất tốt và gần như đạt hiệu quả.
+Sau một thời gian hoặc ở những thể bệnh đặc biệt như sự kháng lại thụ cảm thể Ach quá mạnh, người ta phải dùng thêm các thuốc ức chế miễn dịch. Mục tiêu dùng các thuốc này làm giảm nồng độ các tự kháng thể trong máu và giảm sự chống lại các thụ cảm thể Ach trong synap. Các thụ cảm Ach được giải phóng và được hoạt hóa trở lại. Sức cơ được cải thiện.
+Hiệu quả của phương pháp dùng thuốc là khá cao. Tỷ lệ thành công và làm ổn định bệnh có thể đạt tới 70-90% tùy thuộc vào từng người và từng giai đoạn bệnh. Tuy nhiên, chúng ta cần lưu ý, tuy bệnh có đáp ứng với điều trị nhưng điều đó không có nghĩa là bệnh khỏi mãi mãi. Chúng ta chỉ có thể làm ổn định bệnh và khống chế triệu chứng. Việc điều trị lặp lại sẽ xuất hiện khi bệnh tái phát.
+Phương pháp lọc huyết tương
+Phương pháp lọc huyết tương là phương pháp dùng một máy móc bên ngoài kiểu như chạy thận nhân tạo để lọc máu loại bỏ bớt các tự kháng thể ra khỏi máu. Phương pháp này tỏ ra khá ưu việt vì nó loại bỏ trực tiếp căn nguyên gây ra bệnh - các tự kháng thể. Tuy vậy, việc điều trị đắt và đòi hỏi máy móc.
+Ưu điểm lớn nhất là phương pháp lọc máu có tỷ lệ thành công cao, ngay cả ở những trường hợp khó, những trường hợp mà không đáp ứng với thuốc hoặc những thể bệnh đặc biệt. Thường thì sau một số lần điều trị nhất định, thuốc tỏ ra kém đáp ứng. Cũng có thể là do tác dụng phụ của thuốc quá lớn và không thể tiếp tục. Hoặc là do thể bệnh thuộc loại kháng enzym kinase đặc hiệu cơ. Khi đó cần phải lọc huyết tương.
+Lọc huyết tương có tác dụng duy trì thời gian khỏi bệnh trong một thời gian tương đối ngắn. Thường thì sau 2 tháng, người bệnh lại phải tiến hành lọc một lần. Phương pháp này có ưu điểm rất lớn là công hiệu rất cao, hầu như không có kháng trị. Nhưng nó lại không kéo dài tác dụng.
+Sơ đồ thần kinh điều khiển cơ.
+Phương pháp cắt bỏ tuyến ức
+Phương pháp cắt bỏ tuyến ức là phương pháp cắt bỏ u tuyến ức để loại bỏ nơi sản xuất ra các tự kháng thể trong máu. Người ta cho là u tuyến ức hay là tuyến ức quá phát là nơi sản xuất ra các tự kháng thể gây ra bệnh nhược cơ. Cho nên nếu như cắt bỏ tuyến này đi thì sẽ triệt tiêu được nguồn gốc gây ra bệnh.
+Cắt bỏ tuyến ức chỉ được áp dụng khi người bệnh có sự phát triển bất thường rõ ràng của tuyến ức. Xét nghiệm để chẩn đoán được u tuyến ức là chụp cắt lớp vi tính (chụp CT) hoặc chụp Xquang có bơm hơi trong lồng ngực.
+Phương pháp phẫu thuật được áp dụng không nhiều vì chỉ có khoảng 15% số bệnh nhân có u tuyến ức. Tốc độ cải thiện bệnh của nó chậm. Phải sau 2-24 tháng thì người bệnh mới thuyên giảm được các triệu chứng. Nhưng biện pháp này có thể duy trì thời gian khỏi bệnh tới tận 7-10 năm và tỷ lệ thành công vào khoảng 40-60%.
+Tuy có một tỷ lệ người bệnh tái phát hoặc không đáp ứng với điều trị nhưng thời gian khỏi bệnh rất ấn tượng. Những người mà có u tuyến ức thực thụ thì họ có thời gian khỏi bệnh rất lâu, lâu nhất so với các biện pháp khác.
+Tóm lại, mặc dù là bệnh tự miễn (bệnh thuộc hàng khó trị) nhưng bệnh nhược cơ là bệnh dễ kiểm soát nhất trong nhóm bệnh này. Người bệnh có nhiều cơ hội lựa chọn các phương pháp điều trị khác nhau và đương nhiên là có nhiều cơ hội quay trở lại với cuộc sống bình thường.
+BS.
+Yên Lâm Phúc

@@ -1,0 +1,8 @@
+# doc_id = health_disease_1062
+# url = https://suckhoedoisong.vn/du-thua-sat-trong-nao-anh-huong-toi-benh-parkinson-169111869.htm
+# date = 03-02-2016
+Dư thừa sắt trong não ảnh hưởng tới bệnh Parkinson
+Tổn hại xuất phát từ sự suy giảm lysosome, các bào quan đóng vai trò như một trung tâm tái tạo tế bào cho các protein bị tổn thương. Sự suy giảm này cho phép dư thừa sắt thoát ra ngoài tế bào thần kinh từ đó gây stress oxy hóa độc hại.
+Các nhà nghiên cứu nhận thấy một trong những chức năng quan trọng nhất của lysosome là tích trữ sắt ở nơi tế bào không thể tiếp cận tới nó để tham gia vào các phản ứng gây stress oxy hóa độc hại. Cho tới nay, họ đã chứng minh được rằng một đột biến gen lysosome giải phóng chất độc của sắt vào tế bào gây chết tế bào thần kinh.
+Hoạt động này bao gồm một đột biến gen ATP13A2 có liên quan tới dạng Pakinson hiếm gặp gọi là hội chứng Kufor-Rakeb. Khi các nhà nghiên cứu loại bỏ gen này, lysosome không thể duy trì cân bằng sắt trong tế bào.
+Nghiên cứu này có thể cung cấp cho các nhà khoa học đích cụ thể để tác động một cách chọn lọc tới độc tính của sắt trong tế bào thần kinh bị ảnh hưởng.

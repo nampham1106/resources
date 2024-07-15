@@ -1,0 +1,22 @@
+# doc_id = health_disease_1533
+# url = https://suckhoedoisong.vn/can-nguyen-benh-ram-long-mat-o-phu-nu-169121062.htm
+# date = 15-08-2016
+Căn nguyên bệnh "rậm lông mặt" ở phụ nữ
+Câu hỏi:
+Chào bác sĩ. Tôi tôi vừa rồi tôi có cho con đi xét nghiệm máu ở bệnh viện nhi Trung Ương, thời gian từ 7 giờ đến 9 giờ. Cháu 23 tháng tuổi. Khi xét nghiệm, coctisoh trong máu của cháu giảm còn 3,14 mol/lít. Bác sĩ kết luận cháu bị hội chứng Cushing. Bác sĩ cho tôi hỏi cách điều trị bệnh của cháu như thế nào? Rất mong bác sĩ giúp đỡ. Xin cảm ơn bác sĩ.
+Trả lời:
+Hội chứng Cushing là một bệnh nội tiết do rối loạn sản xuất
+hoóc-môn
+vỏ tuyến thượng thận, gây gia tăng mạn tính
+hoóc-môn
+glucocorticoid không kìm hãm được. Hội chứng Cushing được phân loại theo nguyên nhân.
+Triệu chứng của bệnh Cushing: Bụng nhô ra, béo phì phần thân, cánh tay và chân nhỏ, da nổi mụn hoặc bị nhiễm trùng, cổ trâu, trầm cảm, tiểu đường, cơ thể dễ bị bầm tím, đau đầu, liệt dương, đi tiểu nhiều, mặt tròn đỏ, xương yếu, lông mặt rậm (ở phụ nữ), vô kinh, yếu cơ, tăng cân.
+Theo đó, BS. Nguyễn Văn An - Chuyên khoa Nội - Bệnh viện Đa khoa tỉnh Nam Định, cho biết:
+- Hội chứng Cushing do thuốc: là nguyên nhân thường gặp do điều trị quá liều và kéo dài bằng
+corticoid
+.
+- Hội chứng Cushing phụ thuộc ACTH (ACTH là hoóc-môn được tiết ra từ tuyến yên để kích thích tuyến vỏ thượng thận sản xuất ra cortisol): u tuyến yên, ung thư tuyến yên, các loại ung thư có tiết ACTH (ung thư phế quản, tuyến ức, ruột, tụy, buồng trứng,….)
+- Hội chứng Cushing không phụ thuộc ACTH: adenoma và carcinoma tuyến thượng thận.
+Hội chứng Cushing ở trẻ em thường gặp là do ung thư tuyến thượng thận. Điều trị tùy thuộc vào từng nguyên nhân gây hội chứng Cushing. Nếu hội chứng Cushing do ung thư tuyến thượng thận thì sẽ phải tiến hành phẫu thuật
+cắt bỏ khối u
+và phối hợp hóa trị và xạ trị. Nếu bệnh nhân không có chỉ định phẫu thuật hoặc tia xạ thì có thể áp dụng điều trị bằng thuốc: Ketoconazole, Metyrapon, Aminoglutethimid...

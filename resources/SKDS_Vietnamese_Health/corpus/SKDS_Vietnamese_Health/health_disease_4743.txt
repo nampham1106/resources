@@ -1,0 +1,13 @@
+# doc_id = health_disease_4743
+# url = https://suckhoedoisong.vn/khoa-hoc-tien-gan-den-viec-chong-lai-anh-huong-lau-dai-cua-covid-19-169195157.htm
+# date = 19-06-2021
+Khoa học tiến gần đến việc chống lại ảnh hưởng lâu dài của COVID-19
+Theo đó, các nhà nghiên cứu đã tạo ra những hình ảnh cấp độ nguyên tử về sự tác động qua lại giữa một loại protein tìm thấy trong virus và các protein có trong các mô của cơ thể người, bao gồm cả phổi.
+Đồng tác giả của nghiên cứu – Giáo sư Marc Kvansakul, Đại học La Trobe cho biết, hiểu được cách thức virus tấn công mô phổi là việc rất quan trọng nếu chúng ta muốn ngăn ngừa tổn thương phổi lâu dài ở một số bệnh nhân COVID 19, kể cả những người có ít hoặc không có yếu tố nguy cơ.
+Giáo sư Kvansakul cho biết: “Chúng tôi đã chứng kiến nhiều bệnh nhân trên khắp thế giới hồi phục sau giai đoạn cấp tính của dịch bệnh, nhưng họ lại bị những
+tổn thương lâu dài
+ở phổi và các cơ quan khác. Việc xác định chính xác cách thức xảy ra tổn thương này mang đến một bước tiến quan trọng để phát triển các phương pháp điều trị có thể thực hiện ngay khi bệnh nhân đang được chăm sóc đặc biệt. Mục đích cuối cùng là giúp người bệnh phục hồi nhanh hơn và phục hồi hoàn toàn, ngăn ngừa bất kỳ vấn đề hô hấp kéo dài nào”.
+SARS-CoV-2 E liên kết và chiếm đoạt protein Pals.
+Các nhà khoa học tại Australian Synchrotron (Trung tâm khoa học hiện đại chuyên nghiên cứu về synchrotron) đã sử dụng chùm ánh sáng mạnh, có thể tạo ra hình ảnh về cách SARS-CoV-2 E liên kết và chiếm đoạt Pals – một loại protein quan trọng tìm thấy trong mô người. Điều này tạo ra một khoảng trống cho virus xâm nhập vào các mô phổi mong manh, dẫn đến những “sẹo” không thể hồi phục.
+Đồng tác giả của nghiên cứu, Giáo sư Patrick Humbert, Đại học La Trobe cho biết, mặc dù vắc xin COVID-19 đang được sử dụng trên khắp thế giới, việc tìm kiếm các phương pháp điều trị chống lại tác dụng lâu dài của dịch bệnh vẫn rất quan trọng. Giáo sư chia sẻ: “Virus ngày càng đột biến thành những biến chủng mới, có nghĩa là vắc xin hiện tại không phải lúc nào cũng có hiệu quả. Đặc biệt, rất nhiều quốc gia trên thế giới, bao gồm cả Australia không có khả năng đạt được mức tiêm chủng cao trong một thời gian ngắn. Virus sẽ tồn tại trong một thời gian dài, vì vậy việc giúp mọi người phục hồi nhanh chóng và hoàn toàn là vô cùng quan trọng”.
+Theo giáo sư Kvansakul, bước tiếp theo là phát triển các loại thuốc nhằm mục tiêu ảnh hưởng tới sự tương tác giữa virus và vật chủ, làm giảm khả năng lây nhiễm và lây lan của virus, cũng như tổn thương phổi. Điều này đặc biệt quan trọng đối với những người chưa được tiêm chủng hoặc những người có phản ứng kém với các loại vắc xin hiện tại.

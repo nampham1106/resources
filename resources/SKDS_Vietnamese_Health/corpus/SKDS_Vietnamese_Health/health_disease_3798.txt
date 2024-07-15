@@ -1,0 +1,47 @@
+# doc_id = health_disease_3798
+# url = https://suckhoedoisong.vn/bien-phap-dieu-tri-ap-xe-gan-do-amip-169240621094216606.htm
+# date = 23-06-2024
+Biện pháp điều trị áp xe gan do amip
+1.
+Áp xe gan do amip
+là gì?
+Áp xe gan được định nghĩa là một khối chứa đầy mủ trong gan có thể phát triển do tổn thương gan hoặc nhiễm trùng trong ổ bụng lan truyền từ hệ tuần hoàn cửa. Áp xe gan sinh mủ và áp xe gan do amip là hai loại áp xe gan phổ biến nhất.
+Áp xe gan do amip do Entamoeba histolytica gây ra. Ký sinh trùng này có hai giai đoạn sống: Ở dạng u nang, là dạng truyền nhiễm và thể tư dưỡng, là dạng gây bệnh xâm lấn.
+Những người bị nhiễm bệnh thải ra các u nang trong phân và lây truyền sang người khác qua thức ăn và nước uống bị ô nhiễm. Khi các u nang đến đường tiêu hóa, chúng sẽ vỡ ra và giải phóng các thể tư dưỡng bám vào niêm mạc đường tiêu hóa và gây bệnh.
+Tổn thương gan
+xảy ra khi Entamoeba histolytica xâm nhập vào hệ tuần hoàn cửa vào tĩnh mạch mạc treo và di chuyển đến gan, nơi chúng hình thành một hoặc nhiều áp xe. Thùy gan phải thường bị ảnh hưởng nhiều hơn thùy trái.
+Trong số các bệnh do ký sinh trùng, áp xe gan do amip đứng thứ hai sau sốt rét về tỷ lệ tử vong.
+Bệnh nhân thường có biểu hiện kết hợp sốt, đau bụng bên phải và gan to. Áp xe gan do amip thường khó chẩn đoán do biểu hiện lâm sàng khác nhau và khó phân biệt với áp xe gan do mủ. Chẩn đoán được thực hiện thông qua chụp X-quang, siêu âm, xét nghiệm huyết thanh học và chọc hút áp xe.
+Áp xe gan do amip có nguy cơ tử vong cao ở những bệnh nhân không được điều trị. Khi nghi ngờ bị áp xe gan, người bệnh phải đi khám bệnh càng sớm càng tốt để được chẩn đoán và điều trị kịp thời, tránh biến chứng nguy hiểm có thể xảy ra.
+2. Biện pháp điều trị áp xe gan do amip
+Phương pháp chính điều trị áp xe gan do amip là điều trị nội khoa bằng thuốc chống ký sinh trùng như
+metronidazole
+hoặc tinidazole.
+Dẫn lưu mủ qua da được thực hiện trong trường hợp bệnh nhân không đáp ứng với thuốc chống amip trong 3 đến 5 ngày, khi áp xe gan bị nhiễm vi khuẩn hoặc khi có nguy cơ cao bị vỡ thùy trái của gan.
+Phẫu thuật chỉ giới hạn trong các trường hợp
+viêm phúc mạc
+do vỡ, trường hợp đường ruột nối với áp xe gan, hoặc nhiễm trùng huyết do nhiễm khuẩn.
+2.1. Thuốc diệt amip
+Thuốc chống amip được lựa chọn đầu tiên là metronidazole vì hiệu quả cao, an toàn, tỷ lệ khỏi bệnh là 70 đến 90%. Thuốc được truyền tĩnh mạch hoặc uống trong 10 ngày và không quá 500 - 750mg/liều.
+Tác dụng phụ của metronidazole bao gồm buồn nôn, có vị kim loại trong miệng và đau đầu. Trong một số trường hợp hiếm gặp, metronidazole có khả năng gây rối loạn hệ thần kinh trung ương nghiêm trọng. Tuy nhiên, độc tính thần kinh không phụ thuộc vào liều lượng và khi ngừng thuốc, có thể hồi phục hoàn toàn.
+Không dùng metronidazole cho các trường hợp quá mẫn cảm với imidazole, bệnh nhân động kinh, rối loạn đông máu, người mang thai 3 tháng đầu và phụ nữ nuôi con bằng sữa mẹ do thuốc được bài tiết qua sữa mẹ.
+Tinidazole cũng được chỉ định trong điều trị các nhiễm khuẩn do vi khuẩn kỵ khí, trong đó có áp xe gan do amip do Entamoeba histolytica. Thuốc cũng có tác dụng phụ là buồn nôn, nôn, đau bụng, đầy hơi, khó tiêu, táo bón, chóng mặt, nhức đầu...
+Mặc dù metronidazole và tinidazole có thể có tác dụng với bào nang E. histolytica, tuy nhiên không có hiệu quả diệt bào nang amip. Do đó, để tránh bệnh phát triển xâm lấn và lây lan những nơi khác trong cơ thể và cho người khác thường sử dụng loại thuốc thứ hai để diệt bào nang amip trong ruột. Các thuốc thường sử dụng bao gồm: Lodoquinol, paromomycin và diloxanide furoate.
+Điều trị áp xe gan do amip chủ yếu là điều trị nội khoa bằng thuốc chống ký sinh trùng như metronidazole.
+2.2. Các thuốc khác
+- Nếu người bệnh bị bội nhiễm, cần sử dụng kháng sinh phối hợp.
+- Sử dụng thuốc giảm đau và hạ sốt (nếu cần), như paracetamol 30 - 70 mg/kg/ngày. Lưu ý, đối với liều cao, chỉ sử dụng trong 5 ngày.
+- Bệnh nhân có triệu chứng tiêu hóa cần bù nước và điện giải và điều trị hỗ trợ khác.
+3. Các lưu ý trong quá trình điều trị áp xe gan do amip
+- Điều trị thuốc là điều trị cơ bản. Dù có phải chọc hút mủ hay mổ dẫn lưu, cắt gan, việc dùng thuốc đầy đủ và đúng cách mới tránh được tái phát. Vì vậy, người bệnh phải tuân thủ đúng liều lượng và thời gian điều trị mà bác sĩ chỉ định.
+- Tránh uống rượu trong thời gian sử dụng metronidazole hoặc tinidazole.
+- Bổ sung dinh dưỡng đầy đủ, uống nhiều nước để giúp cơ thể nhanh hồi phục.
+- Thông báo ngay cho bác sĩ nếu có triệu chứng bất thường hoặc nếu tình trạng không cải thiện sau một thời gian điều trị.
+- Thông báo cho bác sĩ về tất cả các loại thuốc, thực phẩm chức năng hoặc thảo dược đang sử dụng để tránh tương tác thuốc.
+- Không tự ý sử dụng các loại thuốc kháng sinh khác mà không có chỉ định của bác sĩ, vì có thể gây kháng thuốc và làm phức tạp quá trình điều trị.
+- Sau khi hoàn thành liệu trình điều trị, nếu có các triệu chứng như sốt, đau bụng, hoặc các dấu hiệu của áp xe gan tái phát, cần thông báo ngay cho bác sĩ.
+Hiện nay chưa có vaccine dự phòng bệnh amip. Vì vậy để phòng ngừa cách tốt nhất là đảm bảo vệ sinh và an toàn thực phẩm. Rửa tay sau khi ăn và đi vệ sinh. Tránh ăn thực phẩm chưa nấu chín và trái cây chưa gọt vỏ, thực phẩm hoặc đồ uống không đảm bảo vệ sinh.
+Áp xe gan: Nguyên nhân, triệu chứng, cách điều trị và phòng bệnh
+SKĐS - Áp xe gan là do tổ chức tế bào gan bị phá hủy tạo thành ổ mủ ở gan dẫn đến sự hình thành của một ổ đơn độc hoặc nhiều ổ mủ rải rác.
+Mời xem thêm video được quan tâm:
+6 thói quen gây sỏi mật.

@@ -1,0 +1,7 @@
+# doc_id = health_disease_5106
+# url = https://suckhoedoisong.vn/covid-19-co-the-lam-ton-thuong-than-tram-trong-hon-169189154.htm
+# date = 31-03-2021
+COVID -19 có thể làm tổn thương thận trầm trọng hơn
+AKI là tình trạng suy giảm chức năng lọc của thận đột ngột xảy ra với khoảng 15% bệnh nhân COVID-19 nhập viện và làm tăng nguy cơ tử vong của bệnh nhân lên gấp 10 lần.
+Nghiên cứu bao gồm 182 bệnh nhân nhập viện với AKI liên quan đến COVID -19 và 1.430 bệnh nhân có AKI nhưng không mắc COVID-19. Sáu tháng sau khi nằm viện, bệnh nhân AKI có COVID-19 bị suy giảm chức năng thận gấp 12 lần so với những người không có COVID-19.
+Tác giả nghiên cứu, TS F. Perry Wilson, Đại học Yale cho biết, có thể giảm phần nào điều này thông qua việc kiểm soát tốt huyết áp và bệnh tiểu đường. Hiện các nhà khoa học tiếp tục theo dõi các bệnh nhân COVID-19 / AKI để tìm hiểu thêm về ảnh hưởng lâu dài của tình trạng này.

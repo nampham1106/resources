@@ -1,0 +1,122 @@
+# doc_id = health_disease_1408
+# url = https://suckhoedoisong.vn/nhung-thuc-pham-nen-an-va-nen-tranh-khi-bi-vay-nen-169210925082944471.htm
+# date = 25-09-2021
+Bị vảy nến nên ăn gì, kiêng gì để khỏe mạnh?
+Thông tin chia sẻ uy tín, chuẩn xác từ
+BS. Nguyễn Thị Hà Vinh và BSNT. Nguyễn Thị Mai Hương - Bệnh viện Da liễu Trung ương.
+Vảy nến
+là một bệnh lý viêm mạn tính, liên quan đến sự hoạt hóa của trục TNF-α/IL-23/IL-17, dẫn đến tăng sinh và biệt hóa bất thường của tế bào sừng.
+Bệnh thường liên quan đến một số rối loạn chuyển hóa như: Béo phì, tiểu đường,
+rối loạn mỡ máu
+, bệnh lý tim mạch và bệnh lý viêm ruột.
+Bệnh nhân vảy nến thường có thói quen ăn uống không cân bằng như ăn nhiều chất béo hơn và ăn ít cá hoặc chế độ ăn ít chất xơ. Những thói quen ăn uống như vậy có thể liên quan đến khởi phát và mức độ nghiêm trọng của bệnh. Dinh dưỡng đã được chứng minh là yếu tố ảnh hưởng đến sự phát triển và tiến triển của
+bệnh vảy nến
+và các bệnh đi kèm.
+Trong phạm vi bài viết này, chúng tôi trình bày thông tin cập nhật liên quan đến tác động của các chất dinh dưỡng hoặc thức ăn đối với bệnh vẩy nến và khả năng làm giảm bệnh vảy nến bởi các chiến lược dinh dưỡng phù hợp.
+Dinh dưỡng phù hợp giúp giảm bệnh vảy nến.
+1. Các thực phẩm nên tránh khi bị vảy nến
+-
+Chất béo bão hòa
+và omega-6
+Chất béo bão hòa có nhiều trong thịt đỏ và mỡ động vật. Chế độ ăn giàu các loại chất béo này làm nặng thêm tổn thương viêm da dạng vảy nến trên mô hình chuột thực nghiệm. Các chất béo bão hòa kích hoạt sản xuất IL-1 và IL-18 hoạt động từ đại thực bào. Sự gia tăngIL-1 thúc đẩy sự biểu hiện của CCL20 trong lớp biểu bì, dẫn đến sự tích tụ của các tế bào Th17 vào vùng da tổn thương.
+Các chất béo không bão hòa dạng omega-6, đại diện là acid linoleic, có nhiều trong dầu thực vật và bơ thực vật. Mối liên hệ giữa việc tiêu thụ các loại chất béo này với bệnh vảy nến vẫn còn nhiều tranh cãi. Trong cơ thể, acid linoleic được chuyển hóa thành acid arachidonic, là tiền chất của một loạt các chất trung gian của phản ứng viêm như các prostanoid (tiêu biểu là prostaglanin E2 và thromboxane A2) và leukotriene, đây có thể là các yếu tố thúc đẩy tổn thương viêm trong bệnh vảy nến.
+- Carbohydrate đơn giản
+Các loại carbohydrate đơn giản (sucrose, fructose)được ghi nhận là một thực phẩm có thể kích hoạt đợt nặng lên của tổn thương vảy nến, do làm tăng nặng các stress oxy hóa và phản ứng viêm. Mô hình chuột thực nghiệm với chế độ ăn giàu fructose có nồng độ IL-17F cao hơn nhóm đối chứng.
+Một nghiên cứu khác cho thấy béo phì không phải là yếu tố duy nhất ảnh hưởng đến bệnh vảy nến mà chế độ ăn nhiều carbohydrate đơn cũng có vai trò quan trọng.
+- Thịt đỏ
+Thịt đỏ (thịt bò, thịt lợn) chứa nhiều acid béo bão hòa, hoạt hóa con đường IL-23 / IL-17, do đó, ăn quá nhiều thịt đỏ có thể làm trầm trọng thêm tình trạng viêm ở bệnh vảy nến.
+- Rượu
+Rượu, bia hay đồ uống có cồn nói chung, đã được ghi nhận một cách rõ ràng là một yếu tố kích hoạt hoặc làm nặng lên bệnh vảy nến: ethanol làm tăng sản xuất TNF-α trong bạch cầu đơn nhân /đại thực bào, và tăng sinh tế bào lympho và giải phóng histamine từ tế bào mast.
+Tổn thương gan do rượu
+có thể làm suy giảm chức năng hàng rào bảo vệ da và hoạt hóa sự tăng sinh của tế bào sừng. Ngoài ra, rượu có thể thúc đẩy con đường viêm thông qua Th17.
+Bên cạnh đó, việc uống rượu hay nghiện rượu cũng làm giảm tuân thủ điều trị, giảm hiệu quả và tăng độc tính của các phương pháp trị liệu toàn thân. Bệnh nhân vảy nến nên tránh tối đa sử dụng rượu bia và các
+đồ uống có cồn
+khác.
+2. Các thực phẩm nên sử dụng khi bị vảy nến
+- Các acid béo omega-3
+Mức acid béo không no omega-3 (n-3 p
+olyunsaturated fatty acids
+hay n-3 PUFA) trong huyết thanh ở bệnh nhân vảy nến có tương quan nghịch với chỉ số diện tích và mức độ bệnh vảy nến (PASI). Các báo cáo chỉ ra rằng n-3 PUFAs ức chế sự phát triển của Th17, và giảm sự biểu hiện của IL-23, IL-17A, IL-17F, IL-22, và TNF-α trong các tổn thương, do đó cải thiện tình trạng bệnh.
+Các loại dầu cá có nhiều acid béo omega-3 có thể sử dụng là: cá hồi tươi, cá mòi và cá thu.
+Ngoài ra, dầu hạt hướng dương và dầu mè cũng chứa nhiều acid béo omega-3.
+- Carbohydrate phức tạp
+Chất xơ đại diện cho carbohydrate phức tạp không bị tiêu hóa ở ruột non và trải qua các mức độ lên men khác nhau ở ruột già. Tinh bột có nhiều trong ngũ cốc hoặc các loại đậu, và có khả năng lên men cao. Việc bổ sung chất xơ trong chế độ ăn uống được báo cáo cho thấy tác dụng chống viêm toàn thân và đường ruột. Việc hấp thụ chất xơ dẫn đến giảm CRP, IL-6, hoặc TNF-α song song với việc giảm trọng lượng cơ thể.
+Vì chế độ ăn giàu chất xơ có mật độ năng lượng thấp hơn và
+béo phì
+là tình trạng viêm mạn tính ở mức độ thấp, tác dụng chống viêm của chất xơ có thể một phần thông qua việc giảm trọng lượng cơ thể; tuy nhiên, các cơ chế không liên quan đến béo phì cũng được đề xuất.
+Chất xơ, đặc biệt là tinh bột được lên men trong ruột già tạo ra acid béo chuỗi ngắn có thể thúc đẩy hoạt động của Tregs trong ruột già và cả trong da thông qua tuần hoàn, dẫn đến việc điều chỉnh quá trình viêm. Ngoài ra, chất xơ cũng góp phần điều chỉnh hệ vi sinh vật đường ruột.
+Thực nghiệm trên mô hình chuột vảy nến, chế độ ăn giàu
+chất xơ
+làm giảm các tổn thương da dạng vảy nến và giảm triệu chứng gãi.
+- Các loại vitamin và khoáng chất
+Vitamin D
+Ở người, vitamin D được cung cấp thông qua chế độ ăn uống và qua tổng hợp trong da do tiếp xúc với ánh nắng mặt trời. Các nguồn thực phẩm cung cấp
+vitamin D
+là:
++ Dầu gan cá,
++ Cá kiếm, cá hồi, cá ngừ, cá mòi,
++ Gan bò,
++ Trứng hoặc pho mát.
+Vitamin D là một chất trung gian chính của phản ứng viêm. Vitamin D có tác động trên bạch cầu đơn nhân/ đại thực bào và điều chỉnh giảm việc sản xuất TNF-α, IL-1β, IL-6, hoặc IL-8. Nồng độ vitamin D trong huyết thanh bị giảm ở những bệnh nhân bị bệnh vảy nến so với người bình thường. Một số thử nghiệm bổ sung vitamin D3 đường uống đang được tiến hành để sử dụng trong điều trị bệnh vảy nến.
+Vitamin B12
+Vitamin B12 có nhiều trong cá/ động vật có vỏ (sò, hàu, ngao, hoặc trứng cá hồi) hoặc gan (bò, lợn, gà). Vitamin B12 có tác dụng bảo vệ các tế bào khỏi các stress oxy hóa do viêm.
+Tác dụng của vitamin B12 tại chỗ trên bệnh vảy nến cũng được báo cáo. Tuy nhiên, một thử nghiệm lâm sàng về tiêm bắp vitamin B12 cùng với liệu pháp thông thường không làm tăng hiệu quả điều trị đối với bệnh vảy nến.
+Vitamin A
+Các nguồn cung cấp
+vitamin A
+(retinol) trong chế độ ăn uống là gan, cá, trứng hoặc bơ, tiền vitamin A như beta-carotene, có nhiều trong các rau củ màu xanh lá cây/ vàng như cà rốt hoặc rau bina. Vitamin A trong chế độ ăn uống được hấp thụ trong ruột, chủ yếu được phân phối đến gan, và ở mức độ thấp hơn là thận, mô mỡ hoặc tủy xương.
+Sản phẩm chuyển hóa hoạt động của vitamin A là vitamin A acid (RAs). RAs có hiệu quả cao trong điều trị bệnh vảy nến. RAs bình thường hóa quá trình tăng sinh và kích thích biệt hóa tế bào sừng, đồng thời ức chế sản xuất TNF-α và giảm mức mRNA của enzym tổng hợp oxit nitric cảm ứng trong tế bào sừng.
+Tuy nhiên, chế độ ăn uống bổ sung vitamin A ở bệnh nhân
+viêm khớp vảy nến
+cao hơn ở bệnh nhân vẩy nến không bị viêm khớp trong một nghiên cứu của Nhật Bản. Mối quan hệ giữa lượng vitamin A trong chế độ ăn và sự phát triển hoặc trầm trọng thêm của viêm khớp vảy nến cần được nghiên cứu thêm.
+Selenium
+Selenium có nhiều trong cá/ động vật có vỏ, trứng, thịt gia cầm hoặc ngũ cốc. Đây là một nguyên tố vi lượng có đặc tính chống oxy hóa và điều hòa miễn dịch. Mặc dù không có nhiều bằng chứng cụ thể về vai trò của vi chất này, các chuyên gia vẫn khuyến cáo nên bổ sung selenium, dựa trên những quan sát cho thấy hàm lượng selenium có xu hướng giảm ở bệnh nhân vảy nến.
+Genistein (có trong đậu nành)
+Đậu nành được cho là một chất hỗ trợ chống bệnh vảy nến tiềm năng. Isoflavone là phytoestrogen có nhiều trong đậu nành, và genistein là isoflavone chính có hoạt tính chống viêm mạnh.
+Probiotics
+Probiotics là những vi sinh vật sống mang lại lợi ích sức khỏe cho vật chủ khi được sử dụng với số lượng thích hợp. Việc sử dụng các probiotics được cho là mang lại hiệu quả có lợi cho bệnh nhân vảy nến.
+Bị bệnh vảy nến có cần ăn kiêng?
+Một số vi khuẩn đường ruột (
+Bacteroides fragilis, Faecalibacterium prausnitzii, Clostridium cluster
+) và các chất chuyển hóa của chúng (RAs, polysaccharideA, các acid béo chuỗi ngắn) làm tăng số lượng và hoạt động của Treg. Các nghiên cứu đã chỉ ra rằng
+hệ vi sinh vật đường ruột
+ở những bệnh nhân vảy nến ít đa dạng hơn so với nhóm chứng, giảm
+Coprococcus
+,
+Parabacteroides
+và
+Coprobacillus
+ở bệnh nhân vảy nến thông thường, giảm
+Akkermansia
+và
+Ruminococcus
+ở bệnh nhân viêm khớp vảy nến. Giảm các vi khuẩn có lợi có thể dẫn đến điều tiết kém đối với tình trạng viêm đường ruột và viêm hệ thống bao gồm cả da và khớp...
+Một số loại thực phẩm có chứa probiotics, bao gồm thực phẩm lên men như kim chi, dưa cải muối, nấm thủy sâm, sữa chua và nấm sữa kefir. Hiện nay, chưa có nghiên cứu nào xác định rõ liều sử dụng, liều probiotics trong các thử nghiệm lâm sàng khá dao động. Thực tế, rất khó có thể xác định liều các probiotics có nguồn gốc vi khuẩn vì nó phụ thuộc nhiều vào khả năng sống được và bám dính vi khuẩn sau khi vào trong cơ thể.
+Chỉ thay đổi chế độ ăn đơn thuần không mang lại hiệu quả điều trị rõ rệt mà cần kết hợp với các thuốc điều trị đặc hiệu.
+Từ những ảnh hưởng của thức ăn và chế độ dinh dưỡng trên bệnh nhân vảy nến, bác sĩ da liễu nên đánh giá chế độ dinh dưỡng của bệnh nhân tại thời điểm chẩn đoán bệnh, thông qua tư vấn của một chuyên gia về dinh dưỡng. Từ đó, hướng dẫn bệnh nhân đến một chế độ ăn uống phù hợp nếu cần thiết.
+- Chế độ ăn với lượng calo thích hợp và thành phần cân bằng của các chất dinh dưỡng có thể được đề xuất cho phù hợp với từng bệnh nhân. Nói chung, bệnh nhân vảy nến nên thực hiện chế độ ăn với thành phần thích hợp của chất béo và đường, ăn đủ cá/ hải sản có vỏ, đậu tương, và chế độ ăn giàu chất xơ, tránh ăn quá nhiều thịt đỏ, đường đơn và rượu.
+- Các acid béo không bão hòa như DHA hoặc EPA có thể được khuyến nghị. Bệnh nhân béo phì có thể cân nhắc sử dụng chế độ ăn ít calo để giảm cân.
+- Bệnh nhân vảy nến có nồng độ vitamin D hoặc selen trong huyết thanh thấp có thể được xem xét để bổ sung vitamin D hoặc selen tương ứng.
+Tóm lại, các chất béo bão hòa, thịt đỏ, carbohydrate đơn giản, hoặc rượu làm trầm trọng thêm bệnh vảy nến và các bệnh đi kèm của nó thông qua việc kích hoạt trục TNF-α / IL-23 / IL-17, tạo các gốc oxy hóa, prostanoids/ leukotrien, rối loạn sinh học đường ruột hoặc ức chế Tregs.
+Ngược lại, các acid béo omega-3, vitamin D, vitamin B12, chất xơ, genistein, selenium hoặc chế phẩm sinh học cải thiện bệnh vảy nến hoặc các bệnh đi kèm của nó thông qua việc ức chế tín hiệu viêm ở trên đường dẫn hoặc cảm ứng Tregs.
+Điều chỉnh chế độ ăn có thể góp phần quan trọng cho việc kiểm soát bệnh vảy nến, bên cạnh việc sử dụng các thuốc điều trị đặc hiệu. Chế độ ăn kiêng cá nhân hóa có thể được đề xuất cho từng bệnh nhân dựa trên tình trạng dinh dưỡng và tình trạng bệnh vảy nến và các bệnh đi kèm.
+Bệnh nhân vảy nến có nên tiêm vaccine phòng COVID-19?
+SKĐS - Đại dịch COVID-19 diễn biến phức tạp có tác động đáng kể đến việc cung cấp dịch vụ chăm sóc thích hợp cho bệnh nhân vảy nến.
+Xem thêm video đang được quan tâm:
+Tư liệu đặc biệt - Theo chân bác sĩ cấp cứu ca F0 nguy kịch tại nhà, cấp tốc chuyển về bệnh viện dã chiến.
+BS. Nguyễn Thị Hà Vinh; BSNT. Nguyễn Thị Mai Hương
+Bệnh viện Da liễu Trung ương
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

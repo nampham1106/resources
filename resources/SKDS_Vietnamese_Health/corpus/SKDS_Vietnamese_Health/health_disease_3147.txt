@@ -1,0 +1,13 @@
+# doc_id = health_disease_3147
+# url = https://suckhoedoisong.vn/fluoroquinolones-co-lien-quan-den-tang-nguy-co-phinh-dong-mach-chu-169185210.htm
+# date = 09-01-2021
+Fluoroquinolones có liên quan đến tăng nguy cơ phình động mạch chủ
+Trong một nghiên cứu về hàng triệu đơn thuốc kháng sinh được thực hiện tại Hoa Kỳ, các nhà khoa học phát hiện ra rằng fluoroquinolones có liên quan đến sự gia tăng nguy cơ mắcchứng phình động mạch chủ, có khả năng gây tử vong, ngay cả ở những người trẻ khỏe mạnh.
+Fluoroquinolones đã trở thành trụ cột của liệu pháp kháng sinh trong nhiều thập kỷ.Chúng bao gồm các loại thuốc như Cipro (ciprofloxacin), Levaquin (levofloxacin) và Factive (gemifloxacin). Một số nghiên cứu trước đây cũng đã liên kết fluoroquinolones với nguy cơ cao mắc chứng phình động mạch chủ, có thể gây chảy máu và tử vong.
+Dựa trên những phát hiện trước đó, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ đã đưa ra cảnh báo vào năm 2018, cho biết những người có nguy cơ cao bị phình động mạch chủ (người cao tuổi, người bị tăng huyết áp hoặc có tiền sử bị tắc nghẽn hoặc chứng phình động mạch ở bất kỳ động mạch nào), nên tránh dùng fluoroquinolones.
+Nghiên cứu mới được công bố tháng 1/2021 trên tạp chí
+JAMA Surgery
+, cho thấy, nhóm dân số rộng hơn cũng cần thận trọng với nguy cơ này. Các nhà khoa học đã tìm thấy mối liên hệ giữa fluoroquinolones và chứng phình động mạch chủ ở tất cả người lớn từ 35 tuổi trở lên - bao gồm cả những người không bị huyết áp cao, tiểu đường hoặc tăng cholesterol. Điều này cần mở rộng cảnh báo đối với loại thuốc này. Tiến sĩ Melina Kibbe, Đại học Bắc Carolina tại Chapel Hill, cho biết.
+Trong nghiên cứu này, tỷ lệ mắc bệnh là 7,5 trường hợp phình động mạch chủ cho mỗi 10.000 đơn thuốc được mua, so với 4,6 trường hợp cho mỗi 10.000 đơn thuốc kháng sinh khác. Mặc dù nguy cơ này là hiếm gặp và những phát hiện không thể chứng minh fluoroquinolones là nguyên nhân gây ra chứng phình động mạch. Nhưng theo các nhà khoa học mối liên kết này do thuốc có thể ảnh hưởng đến tính toàn vẹn của collagen - một loại protein cấu trúc trong các mô liên kết của cơ thể.
+Đối với nghiên cứu của mình, Kibbe và nhóm đã xây dựng cơ sở dữ liệu bảo hiểm y tế, sử dụng thông tin về gần 47,6 triệu đơn thuốc kháng sinh trên toàn quốc.Trong số hơn 9 triệu đơn thuốc fluoroquinolone. Sau khi các nhà nghiên cứu cân nhắc các yếu tố khác - chẳng hạn như tuổi của bệnh nhân và tình trạng sức khỏe mãn tính - người dùng fluoroquinolone có nguy cơ bị phình động mạch chủ cao hơn 20% so với những người được kê đơn thuốc kháng sinh khác.
+Vì vậy, theo Kibbe, các bác sĩ nên cẩn thận hơn với các đơn thuốc fluoroquinolone, ngay cả đối với những bệnh nhân không có nguy cơ cao bị phình động mạch.

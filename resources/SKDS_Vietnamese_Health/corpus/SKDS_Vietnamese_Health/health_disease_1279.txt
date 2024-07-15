@@ -1,0 +1,30 @@
+# doc_id = health_disease_1279
+# url = https://suckhoedoisong.vn/nhan-biet-cac-the-gay-nhiem-va-dieu-tri-sot-ret-169167019.htm
+# date = 20-12-2019
+Nhận biết các thể gây nhiễm và điều trị sốt rét
+Bệnh gây ra bởi ký sinh trùng Plasmodium, lây truyền từ người này sang người khác khi những người này bị muỗi đốt. Khi điều trị đúng cách, người bị sốt rét thường có thể hồi phục hoàn toàn. Tuy nhiên, bệnh sốt rét nặng có thể tiến triển cực kỳ nhanh chóng và gây tử vong chỉ trong vòng vài giờ hoặc vài ngày.
+Bệnh sốt rét nguy hiểm thế nào?
+Bệnh phổ biến ở các khu vực nhiệt đới và cận nhiệt đới của châu Mỹ, châu Á và châu Phi. Mỗi năm có khoảng hơn 500 triệu người mắc bệnh, con số tử vong lên đến 3 triệu - đa số là trẻ em ở khu vực phía Nam sa mạc Sahara và châu Phi. Sốt rét thường đi kèm với đói nghèo, lạc hậu và là một cản trở lớn đối với sự phát triển kinh tế.
+Mọi người đều có thể nhiễm bệnh sốt rét. Khả năng miễn dịch với sốt rét không đầy đủ và ngắn, do vậy có thể bị tái nhiễm ngay. Không có miễn dịch chéo nên một người có thể nhiễm đồng thời 2-3 loại ký sinh trùng sốt rét.
+Bệnh sốt rét ở trẻ em gây mất máu và gây tổn thương não trực tiếp do sốt rét thể não. Những trẻ sống sót do sốt rét thể não có nguy cơ bị suy giảm thần kinh và nhận thức, rối loạn hành vi và động kinh.
+Triệu chứng bệnh sốt rét.
+Các thể gây nhiễm của ký sinh trùng sốt rét
+Sốt rét thể thông thường: Cơn sốt sơ nhiễm: Cơn sốt đầu tiên thường không điển hình, sốt cao liên miên vài ngày liền. Những lần sốt sau điển hình hơn.
+Cơn sốt điển hình: Một cơn sốt rét điển hình lần lượt qua 3 giai đoạn sau:
+Giai đoạn rét run: Rét run toàn thân, môi tái, mắt quầng, nổi da gà. Giai đoạn rét run khoảng 30 phút - 2 giờ.
+Giai đoạn sốt nóng: Rét run giảm, bệnh nhân thấy nóng dần, thân nhiệt có thể tới 40 - 41oC, mặt đỏ, da khô nóng, mạch nhanh, thở nhanh, đau đầu, khát nước, có thể hơi đau tức vùng gan lách. Giai đoạn sốt nóng khoảng 1-3 giờ.
+Giai đoạn vã mồ hôi: Thân nhiệt giảm nhanh, vã mồ hôi, khát nước, đỡ nhức đầu, mạch trở lại bình thường, bệnh nhân cảm thấy dễ chịu và ngủ thiếp đi.
+Cơn sốt thể cụt: Sốt không thành cơn, chỉ thấy ớn rét, gai sốt, kéo dài khoảng 1-2 giờ. Thể sốt này hay gặp ở những bệnh nhân đã nhiễm sốt rét nhiều năm.
+Thể ký sinh trùng lạnh (người lành mang trùng).
+Xét nghiệm máu có ký sinh trùng nhưng không bị sốt, vẫn sinh hoạt và lao động bình thường. Trường hợp này hay gặp trong điều tra cắt ngang tại vùng sốt rét lưu hành nặng.
+Chu kỳ của cơn sốt khác nhau tùy loại ký sinh trùng. Sốt do P.falciparum: sốt hàng ngày, tính chất cơn sốt nặng, hay gây sốt rét ác tính và tử vong nếu không điều trị kịp thời. Sốt do P.vivax: thường sốt cách nhật (cách 1 ngày sốt 1 cơn). Sốt do P.malariae và P.ovale: Sốt cách nhật hoặc sốt 3 ngày 1 cơn.
+Thể não: Đây là thể chiếm khoảng 80-95% sốt rét biến chứng. Dấu hiệu tiền ác tính nổi bật là có rối loạn ý thức (li bì hoặc vật vã, cuồng sảng, nói lảm nhảm), sốt cao liên tục, mất ngủ nhiều, nhức đầu dữ dội, nôn hoặc tiêu chảy nhiều, thể trạng nặng.
+Hội chứng tâm thần: hôn mê đột ngột hoặc từ từ, hôn mê sâu dần. Co giật kiểu động kinh. Rối loạn cơ vòng, đồng tử giãn. Các dấu hiệu khác: rối loạn hô hấp hoặc suy hô hấp do phù não, ứ đọng đờm dãi. Huyết áp giảm do mất nước hoặc tăng do phù não. Nôn và tiêu chảy. Có thể gặp suy thận, đái ít hoặc vô niệu, urê huyết cao, đái huyết cầu tố do tan máu ồ ạt. Tỷ lệ tử vong do sốt rét ác tính thể não từ 20 - 50%.
+Thể đái huyết cầu tố: Là thể diễn biến nặng do tan huyết ồ ạt, trụy tim mạch, suy thận. Sốt thành cơn dữ dội, nôn khan hoặc dịch màu vàng, đau lưng. Vàng da, niêm mạc do tán huyết. Đái ra huyết cầu tố, nước tiểu màu đỏ nâu sau chuyển sang màu cà phê hoặc màu nước vối đặc, lượng nước tiểu sau giảm dần và vô niệu. Thiếu máu và thiếu oxy cấp. Hồng cầu và huyết sắc tố giảm mạnh.
+Ngoài ra còn có những thể khác như:
+• Thể giá lạnh: Toàn thân lạnh, huyết áp tụt, da xanh tái, ra nhiều mồ hôi, đau đầu.
+• Thể phổi: Khó thở, thở nhanh, tím tái, có thể khạc ra bọt màu hồng. Đáy phổi có nhiều ran ẩm, ran ngáy.
+• Thể gan mật: Vàng da vàng mắt, buồn nôn và nôn. Phân màu vàng, nước tiểu màu vàng có nhiều muối mật. Hôn mê.
+• Thể tiêu hóa: Đau bụng, nôn, tiêu chảy cấp, thân nhiệt hạ.
+Phòng ngừa bệnh sốt rét
+Tuyên truyền giáo dục phòng chống sốt rét, khi bị sốt, người bệnh cần đến cơ sở y tế để khám và điều trị. Ngủ màn kể cả ở nhà, nương rẫy hoặc ngủ trong rừng. Phòng chống muỗi truyền bệnh vẫn được coi là biện pháp hữu hiệu nhất: Diệt muỗi bằng phun tồn lưu mặt trong tường vách và tẩm màn bằng hóa chất diệt muỗi mỗi năm 1 lần vào trước mùa mưa. Xoa kem xua muỗi. Phát quang bụi rậm, khơi thông cống rãnh quanh nhà, làm nhà xa rừng và xa nguồn nước, mặc quần áo dài vào buổi tối. Hạn chế bọ gậy: khơi thông dòng chảy, vớt rong rêu làm thoáng mặt nước. Uống thuốc dự phòng: các nước sốt rét lưu hành nặng có chủ trương uống thuốc dự phòng cho những người vào vùng sốt rét ngắn ngày, phụ nữ có thai ở vùng sốt rét, người mới đến định cư tại vùng sốt rét. Ở nước ta hiện nay, do bệnh sốt rét đã giảm mạnh nên không uống thuốc dự phòng mà chỉ cấp thuốc cho các đối tượng trên để tự điều trị khi đã mắc bệnh sốt rét. An toàn truyền máu, đặc biệt với người có tiền sử sốt rét hoặc đã sống trong vùng sốt rét.

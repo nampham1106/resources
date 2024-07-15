@@ -1,0 +1,17 @@
+# doc_id = health_disease_1540
+# url = https://suckhoedoisong.vn/benh-do-leptospira-va-cach-dung-thuoc-169385.htm
+# date = 27-05-2008
+Bệnh do leptospira và cách dùng thuốc
+DS.
+Bùi Văn Uy
+Leptospira là bệnh truyền nhiễm cấp do xoắn khuẩn Leptospira gây nên. Xoắn khuẩn có trong các loại động vật (chuột, lợn, chó, sói, nhím). Súc vật thường không có triệu chứng bệnh. Người có thể bị lây trực tiếp qua da bị xây xát, qua niêm mạc mắt mũi miệng, bộ phận sinh dục khi tiếp xúc. Người cũng có thể bị lây gián tiếp qua môi trường (đất cát, nước, rau...) bị nhiễm xoắn khuẩn do nước tiểu súc vật thải ra. Về lâm sàng, có thể chia thành 2 thể:
+Thể vàng da xuất huyết: Đây là thể nặng với các biểu hiện: sốt dao động, da sung huyết, mắt đỏ ngầu, đau cơ nặng (chủ yếu ở cơ bắp khi co bóp). Có ban xuất huyết thưa ở lưng và ngực (vào ngày thứ 6 hay thứ 7), thiếu máu huyết tán. Vàng da và niêm mạc. Một số người bị sưng đau gan. Đa số người tiểu ít hay vô niệu. Có thể có các biến chứng: viêm màng não thanh dịch, suy thận cấp, xuất huyết đường tiêu hóa hoặc hô hấp, viêm cơ tim, rối loạn ý thức , bị sảy thai... Tỷ lệ tử vong thể này cao 5-10%
+Thể không vàng da: Là thể nhẹ hơn với các biểu hiện: sốt dao động, da sung huyết, mắt đỏ ngầu, đau cơ nặng (chủ yếu ở cơ bắp chân, khi co bóp). Một số người có hạch sưng, đau, không nóng đỏ. Hội chứng vàng da và hội chứng gan không rõ. Thể này không có tử vong.
+Thuốc và những lưu ý khi dùng:
+- Dùng thuốc thật sớm: Penicillin G chỉ có hiệu lực cao khi dùng sớm. Dùng sớm sẽ ngăn ngừa sốt tái phát và biến chứng đến phủ tạng. Nếu dùng penicillin từ ngày mắc thứ năm trở đi thì hiệu quả bị hạn chế.
+- Dùng thuốc đặc hiệu: Có khá nhiều thuốc ức chế xoắn khuẩn: Penicillin G, cephalosporin, lincomycin, erythromycin, doxicyclin. Tùy khả năng dung nạp của người bệnh, thể bệnh (vàng da xuất huyết hay không vàng da xuất huyết) mà lựa chọn thuốc.
+Với thể vàng da xuất huyết, chẩn đoán căn bản dựa vào lâm sàng. Nhưng với thể không vàng da xuất huyết cần có xác định đặc hiệu mới chẩn đoán được. Các thuốc dùng như penicillin (với thể không vàng da dùng liều thấp, đợt ngắn. Với thể vàng da xuất huyết dùng liều cao, đợt dài). Có thể dùng doxyciclin (cho thể không vàng da). Khi dùng penicillin hiệu quả không cao, có thể chọn dùng một loại cephalosporin thay thế tùy theo diễn biến của bệnh.
+Khi bệnh nặng và có biến chứng phức tạp phải dùng các thuốc và biện pháp hỗ trợ tùy theo tình trạng bệnh và biến chứng. Các thuốc hỗ trợ gồm:
+- Bù nước-muối: Ở thể không vàng da chỉ mất nước-muối do sốt nên bù nước-muối bằng đường uống. Ở thể có vàng da xuất huyết mất nước-muối do cả sốt mất máu cần truyền dung dịch bù muối- nước. Khi cần thiết có thể truyền máu
+- Dùng thuốc và biện pháp hỗ trợ: Cần có các biện pháp và thuốc hỗ trợ chống suy thận, chống vô niệu, chống suy tim... tương thích với từng biến chứng.
+- Ngừng điều trị đúng lúc: Chỉ ngừng điều trị cho xuất viện khi hết sốt, hết vàng da, hồng cầu, bạch cầu bình thường, tiểu tiện bình thường, u rê máu bình thường.

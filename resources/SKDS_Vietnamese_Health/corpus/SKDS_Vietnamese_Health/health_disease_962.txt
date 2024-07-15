@@ -1,0 +1,21 @@
+# doc_id = health_disease_962
+# url = https://suckhoedoisong.vn/lieu-phap-moi-tri-benh-thoai-hoa-vong-mac-16970299.htm
+# date = 28-12-2013
+Liệu pháp mới trị bệnh thoái hóa võng mạc
+Cuộc thử nghiệm đầu tiên về y khoa phục hồi chức năng sử dụng “tế bào gốc đa năng iPS” đã được tiến hành ở Nhật Bản. Các nguy cơ thường kết hợp vơi các tế bào tái lập trình này sẽ được nghiên cứu kỹ càng.
+Tế bào gốc iPS
+là gì?
+Đây là lần đầu tiên trên thế giới, cuộc thử nghiệm sử dụng tế bào iPS được tiến hành ở bệnh nhân bị chứng bệnh thoái hóa võng mạc vào tháng 9/2013. Ngày 19/7/2013, Bộ Y tế Nhật Bản đã cho phép thử nghiệm lâm sàng với tế bào gốc iPS này mà trước đây hoàn toàn bị cấm đoán ở người. iPS là các tế bào gốc đa năng cảm ứng. Các tế bào này được phân biệt bởi tính năng và nguồn gốc của chúng. Thực vậy, chúng có thể tạo ra một cách tùy hứng tất cả các loại tế bào của cơ thể tương tự như các tế bào gốc phôi đã làm. Nhưng ngược lại với các tế bào gốc phôi, các tế bào iPS này không xuất phát từ phôi: các nhà khoa học có được tế bào iPS này bằng cách “tái lập trình” các tế bào đã biệt hóa được lấy từ người trưởng thành.
+(1): Điểm vàng, nằm ở trung tâm võng mạc, là vùng bị tổn thương do thoái hóa võng mạc theo tuổi.(2): Các tế bào da lấy từ bệnh nhân sẽ được tái lập trình thành tế bào iPS.(3): Lớp thượng bì sắc tố bị tổn thương và các mạch máu nằm dưới đó được phẫu thuật lấy ra. “Tấm thảm” tế bào mới được tạo ra sẽ được ghép vào lớp thượng bì sắc tố bị tổn thương.
+Chọn lọc bệnh nhân
+Ở Nhật Bản, căn bệnh này khiến cho 700.000 người mắc phải đối với dân số của nước này là 127 triệu người. Theo TS. Olivier Goureau thuộc Viện Mắt Paris (Pháp) cũng có khoảng một triệu người bị chứng bệnh này.
+Bệnh này gây tác hại tại vùng trung tâm của võng mạc (tức là điểm vàng) có chức năng về thị lực và tối cần thiết cho việc lái xe hay đọc sách. Tiến triển theo tuổi mà nguyên nhân vẫn chưa được biết rõ, lớp ngoài của võng mạc bị thoái hóa dần. Thế mà lớp ngoài này được gọi là thượng bì sắc tố rất cần thiết cho chức năng thụ cảm ánh sáng của điểm vàng nằm kế cận. Khi lớp thượng bì này bị thoái hóa, các tế bào cảm thụ ánh sáng cũng chịu chung số phận, gây nên chứng giảm thị lực trung tâm.
+Để bảo tồn thị giác, một trong những phương pháp được nhắm đến là phẫu thuật để cắt bỏ lớp thượng bì bị thoái hóa và thay bằng một thượng bì sắc tố hoàn hảo được tạo ra từ phòng thí nghiệm. Mục tiêu của “liệu pháp tế bào” này là dập tắt sự thoái hóa của các tế bào cảm thụ ánh sáng. Trong công trình nghiên cứu tại Nhật Bản, lớp thượng bì sắc tố sẽ được “chế tạo” từ tế bào gốc iPS. Một công trình nghiên cứu tương tự tại Hoa Kỳ lại sử dụng tế bào gốc phôi.
+TS. Masayo Takahashi và cộng sự của Viện Riken đã tiến hành cuộc nghiên cứu trên 6 bệnh nhân có độ tuổi hơn 50 bị chứng thoái hóa võng mạc nặng.
+Việc chọn lọc này được thực hiện từ tháng 8/2012 nhưng phải đến mùa hè 2014 mới khởi sự việc ghép thượng bì sắc tố võng mạc. Tại sao lại có chuyện chậm trễ này? Nguyên do là tế bào iPS chỉ có thể lấy được từ tế bào da của chính người bệnh này. Như vậy, điều lợi ích là sự tương thích miễn dịch của tế bào iPS đối với tế bào thượng bì võng mạc của bệnh nhân được ghép sẽ hoàn hảo hơn. Nên cần phải có thời gian.
+Triển vọng của liệu pháp tế bào gốc iPS
+Kỹ thuật của phương pháp này đã có nhiều tiến bộ vượt bậc trong thập niên qua. Thí dụ như các nhà nghiên cứu có thể sử dụng các tiểu phân tử ADN được gọi là episom. Nhờ các tiểu phân tử này, các gen được tiêm vào võng mạc sẽ được biểu hiện và tái lập trình tế bào mà không cần gắn vào bộ mã gen. Hơn nữa, các mô tế bào có được từ tế bào gốc iPS sẽ được trắc nghiệm để xác định xem chúng có bị đột biến gen và có bị nhiễm virut hay không.
+Như vậy, các cuộc thử nghiệm lâm sàng với tế bào gốc iPS không còn xa nữa. Đây thực sự là một niềm hy vọng lớn lao cho những người bệnh bị chứng mù lòa do thoái hóa võng mạc theo tuổi và còn có thể là các bệnh khác nữa.
+BS.
+Nguyễn Văn Thông
+(Theo LaRecherche, 9/2013)

@@ -1,0 +1,54 @@
+# doc_id = health_disease_5908
+# url = https://suckhoedoisong.vn/thuoc-dieu-tiet-lipid-16931565.htm
+# date = 20-12-2009
+Thuốc điều tiết lipid
+Tăng lipid huyết là hiện tượng tăng nồng độ lipid ở huyết tương: đó là biểu hiện của sự rối loạn tổng hợp và chuyển hóa của lipoprotein trong huyết tương, phản ánh chế độ dinh dưỡng nhiều mỡ. Sự lo lắng của bệnh nhân bị tăng lipid máu là nguy cơ cao về bệnh thiếu máu cục bộ ở tim (do xơ vữa động mạch và bệnh ở động mạch vành).
+Ăn rau xanh giúp ngừa tăng lipid máu.
+Lipid có tỷ lệ cao trong bệnh thiếu máu cục bộ cơ tim là cholesterol, thành phần chủ yếu của màng tế bào, chất tiền sinh trong tổng hợp các hormon steroid và triglycerid, một nguồn năng lượng quan trọng. Các chất này chuyển vào máu dưới dạng lipoprotein.
+Lipoprotein là những hạt gồm có vỏ kỵ nước là phospholipid, cholesterol tự do và các polypeptid gọi là apolipoprotein (hay apoprotein) xung quanh nhân gồm có tỷ lệ khác nhau về triglycerid và cholesterol (dưới dạng cholesteryl este).
+Phân loại bệnh tăng lipoprotein máu
+Ở cơ thể bình thường, nồng độ lipoprotein trong máu ở trạng thái cân bằng động. Khi trạng thái này bị rối loạn, sự chuyển hoá lipoprotein trong máu bị rối loạn.
+Các nguyên nhân gây bệnh:
+- Gia tăng cholesterol, triglycerid ngoại sinh.
+- Rối loạn chức năng xúc tác chuyển hoá lipoprotein của men lipoproteinase.
+- Yếu tố toàn thân làm tăng chuyển hoá glucid, lipid để tổng hợp lipid, tăng hoạt động của một số hormon làm giảm sự thuỷ phân ở cơ, gan, mỡ.
+- Yếu tố di truyền.
+Dựa vào sự tăng các loại lipoprotein khác nhau, người ta phân ra 6 týp tăng lipoprotein máu (phân loại của Tổ chức Y tế Thế giới hiện được sử dụng rộng rãi):
+I: Chylomicron
+IIa: LDL
+IIb: LDL và VLDL
+III: Cấu trúc bất thường của LDL
+IV:VLDL
+V: Chylomicron và VLDL
+Trong các týp trên, các nhà điều trị học đặc biệt quan tâm đến 4 týp IIa, IIb, III và IV.
+Các thuốc làm hạ lipoprotein máu
+Đến nay, người ta đã nghiên cứu và sử dụng nhiều loại thuốc làm hạ lipoprotein máu với cơ chế khác nhau, nhưng chưa có loại thuốc nào có tác dụng tốt nhất trên tất cả 6 týp bệnh trên.
+Người ta chia làm 2 loại thuốc:
+Thuốc làm giảm hấp thu và tăng thải trừ lipid:
+Cholestyramin, colestipol là những thuốc có tính hấp thụ mạnh, tạo phức với acid mật, làm giảm quá trình nhũ hoá của lipid ở ruột, làm giảm hấp thu và tăng thải lipid qua phân. Các thuốc này còn làm tăng chuyển hoá cholesterol, tạo thành acid mật, thông qua men hydroxylase ở gan (men điều hoà tổng hợp acid mật từ cholesterol bị ức chế bởi acid mật).
+Các thuốc: cholestyramin, colestipol, divistyramin, colesevelam được coi là nhựa liên kết acid mật.
+Các thuốc ảnh hưởng tới sinh tổng hợp lipid:
+- Các fibrat (dẫn xuất của acid fibric) như: beclobrat, bezafibrat, ciprofibrat,clinofibrat, clofibrat, clofibrid, etofyllin, fonofibrat, gemfibrozil, pirifibrat, simfibrat, tocofibrat.
+- Các statin như atorvastatin, cervastatin, fluvastatin, lovastatin, mevastatin, pravastatin, rovastatin và simvastatin.
+- Các nicotinat bao gồm acid nicotinic và dẫn chất như: acipimox, binfibrat, etofibrat, niceritrol, nocofibrat, pirozadil, ronifibrat, sorbinicat, tocoferil nicotinat.
+- Các fibrat và statin thông qua cứ ức chế men HMG-CoA-reductase làm tăng sự tổng hợp cholesterol, đồng thời tăng sinh thụ thể LDL ở màng tế bào.
+- Các nicotinat làm hạ lipoprotein máu thông qua sự tăng sinh thụ thể LDL, giảm hoạt tính của men triglyceridlipase, làm giảm LDL-cholesterol.
+Người ta còn xếp vào loại thuốc ảnh hưởng tới sinh tổng hợp lipid.
+- Thuốc probucol có cấu trúc hoá học khác hẳn các nhóm thuốc trên và cơ chế tác dụng còn cần nhiều nghiên cứu thêm.
+- D-thyroxin có tác dụng hạ lipoprotein máu mạnh do tăng chuyển hoá cholesterol thành acid mật và tăng thải qua phân.
+Ngoài các loại thuốc trên, hiện nay, người ta còn sử dụng một số thuốc có cấu tạo omega-3 triglycerid: docosahexaenoic acid, eicosapentaenoic acid, omega-3 marine tryglycerid.
+Với tác dụng làm giảm lipoprotein máu đặc biệt là giảm triglycerid trong huyết tương.
+Tác dụng không mong muốn của các thuốc hạ lipid máu:
+Cholestyramin (nhựa liên kết acid mật) có thể gây:
+- Rối loạn tiêu hoá: buồn nôn, nôn, đầy bụng, táo bón.
+- Giảm hấp thụ một số thuốc khi uống cùng lúc (như phenylbutazon, phenobarbital, coumarin, thyroxin...). Để tránh tuơng tác, các thuốc trên phải uống 1 giờ trước hay sau khi dùng cholestyramin.
+Các fibrat gây nhiều phản ứng phụ như:
+- Clofibrat gây nôn, tiêu chảy, giảm cân, buồn ngủ, tăng tần suất rối loạn tim mạch...
+- Fenofibrat gây rối loạn tiêu hoá, ngoài ra còn gây phản ứng trên da, thần klinh, cơ xương...
+- Các statin có tác dụng phụ giống nhau như: đau cơ, sẩn ngứa, đau đầu, chóng mặt, rối loạn tiêu hoá và tăng cao men transaminase trong máu.
+- Các statin không đuợc dùng cho phụ nữ có thai và cho con bú (thuốc qua được rau thai vào sữa mẹ). Tránh dùng cho người suy gan, thận (khi dùng thuốc phải theo dõi chức năng gan và thuốc dùng lâu dài, men transaminase tăng gấp 3-4 lần bình thường, khi ngừng thuốc thì men này lại trở về mức bình thường).
+Các nicotinat có tác dụng không mong muốn như:
+- Acipimox có thể gây rối loạn tiêu hoá (buồn nôn, tiêu chảy), ban đỏ, ngoài da.
+- Pirozadil gây phù, đánh trống ngực, tê, cóng.
+Các omega-3 triglycerid có thể làm buồn nôn, ợ hơi, nhất là khi dùng liều cao. Thuốc này có tác dụng kháng huyết khối dùng cho bệnh nhân bị rối loạn đông máu.
+DS. Thế Hiệp

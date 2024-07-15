@@ -1,0 +1,7 @@
+# doc_id = health_disease_4295
+# url = https://suckhoedoisong.vn/phat-hien-khuyet-tat-gen-gay-khoi-u-nao-o-tre-em-16941717.htm
+# date = 13-07-2011
+Phát hiện khuyết tật gen gây khối u não ở trẻ em
+Sau một thời gian nghiên cứu, các chuyên gia Trung tâm Nghiên cứu ung thư Đức (GCRC) đứng đầu là TS. Peter Lichter đã phát hiện thấy khuyết tật gen gây khối u não ở trẻ có tên là u tế bào hình sao sợi (Pilocystic astrocytoma), dạng u lành tính phát triển chậm nhưng phẫu thuật lại không thể cắt bỏ hoàn toàn, buộc phải qua các phương pháp điều trị tiếp, như hóa trị liệu hay chiếu xạ và để lại nhiều tác dụng phụ. Khuyết tật di truyền gây u não đã được khoa học biết đến từ lâu nhưng trong nghiên cứu này, các nhóm đề tài đã phát hiện thấy gen đơn có tên là BRAF khi bị lỗi có thể tạo ra khối u trong não. Để kiểm chứng, các nhà khoa học đã đưa gen BRAF khuyết tật vào một virut và cài vào trong các tế bào thần kinh của chuột. Kết quả có tới 91% số chuột tham gia nghiên cứu đã phát triển khối u tế bào hình sao xung quanh vùng khu vực tiêm. Các khối u có đặc tính sinh học, cấu trúc mô giống như u tế bào hình sao, nghĩa là có tất cả các triệu chứng điển hình của một gen BRAF bị lỗi và như vậy chỉ cần có một gen đơn bị lỗi cũng có thể gây khối u não, nhất là khi có mặt của một enzyme kinase MAP hoạt hóa, nó sẽ liên tục truyền tín hiệu tăng trưởng trong các tế bào u bướu và giúp cho các tế bào phát triển. Với phát hiện trên, hy vọng trong tương lai, người ta sẽ tìm ra loại thuốc mới để ức chế enzyme kinase MAP.
+KHẮC NAM
+(Theo SD, 7/2011)

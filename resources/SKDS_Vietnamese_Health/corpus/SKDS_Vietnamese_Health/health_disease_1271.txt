@@ -1,0 +1,26 @@
+# doc_id = health_disease_1271
+# url = https://suckhoedoisong.vn/ket-hop-thuoc-va-chinh-sua-gen-lieu-phap-moi-chong-lai-ung-thu-gan-169211215142623308.htm
+# date = 17-12-2021
+Kết hợp thuốc và chỉnh sửa gen chống lại ung thư gan
+Kỹ thuật này kết hợp thuốc và chỉnh sửa gen CRISPR-Cas9 thành các hạt nano lipid, sau đó kích hoạt chúng bằng sóng siêu âm.
+Một phương pháp điều trị mới nổi chống lại bệnh
+ung thư
+được gọi là liệu pháp sonodynamic (SDT), bao gồm đưa thuốc đến
+khối u
+và sau đó kích hoạt chúng bằng xung siêu âm.Điều đó tạo ra các loại oxy phản ứng (ROS) có thể gây ra stress oxy hóa trên các tế bào ung thư để tiêu diệt chúng.
+Ung thư gan, loại ung thư gây tử vong hàng đầu thế giới.
+CRISPR và thuốc sản xuất ROS có ít tác dụng phụ hơn so với các phương pháp điều trị ung thư gan khác
+Ung thư có thể chống lại các phương pháp điều trị bằng các enzym
+chống oxy hóa,
+làm giảm hiệu quả của phương pháp. Vì vậy, đối với nghiên cứu mới, các nhà khoa học đã tìm ra cách để loại bỏ hệ thống phòng thủ đó.Nhóm nghiên cứu cho rằng họ có thể sử dụng CRISPR để tắt một gen gọi là NFE2L2, mà tế bào ung thư sử dụng để thiết lập khả năng phòng thủ chống oxy hóa của chúng.Nhóm nghiên cứu đã kết hợp cả CRISPR và thuốc sản xuất ROS thành các hạt nano lipid, có thể được kích hoạt bằng các xung siêu âm.
+Đầu tiên, nhóm nghiên cứu đã thử nghiệm kỹ thuật này trên ung thư biểu mô tế bào gan.Các tế bào đã sử dụng các hạt nano, và ROS được hình thành khi siêu âm, phá vỡ các lysosome của tế bào.Điều đó cho phép CRISPR xâm nhập vào nhân tế bào, nơi nó hoạt động để loại bỏ biểu hiện của NFE2L2.Do đó, nhiều ROS được tạo ra hơn, gây tổn hại và giết chết nhiều tế bào ung thư hơn đáng kể so với cùng một kỹ thuật mà không cần
+chỉnh sửa gen
+.
+TIN LIÊN QUAN
+"Những biện pháp ngăn chặn viêm gan - xơ gan - ung thư gan"
+Trong các thí nghiệm tiếp theo, nhóm nghiên cứu đã thử nghiệm kỹ thuật này trên chuột bị ung thư biểu mô tế bào gan ở người được cấy ghép. Tất cả đều cho thấy
+các khối u của chúng thu nhỏ lại sau 15 ngày.
+Nhóm nghiên cứu cho biết, kỹ thuật này sẽ có ít tác dụng phụ hơn so với các phương pháp điều trị khác, bởi vì ROS và CRISPR chỉ được giải phóng vào các tế bào trong khu vực hướng các xung siêu âm.Siêu âm cũng có thể thâm nhập sâu hơn vào mô so với một kỹ thuật liên quan được gọi làliệu pháp quang động, được kích hoạt bằng ánh sáng hồng ngoại.
+Tất nhiên, các nhà khoa học vẫn cần phải vượt qua khoảng cách giữa thử nghiệm trên động vật và thử nghiệm trên người.Nhưng kết quả của nghiên cứu đã mang lại những tín hiệu hết sức lạc quan.
+Mời xem thêm video đang được quan tâm:
+Giải báo chí Vì sức khỏe nhân dân.

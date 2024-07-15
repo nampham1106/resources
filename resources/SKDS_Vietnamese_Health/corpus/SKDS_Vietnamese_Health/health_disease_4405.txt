@@ -1,0 +1,50 @@
+# doc_id = health_disease_4405
+# url = https://suckhoedoisong.vn/dieu-tri-som-viem-khop-dang-thap-de-tranh-tan-phe-169231212092800663.htm
+# date = 14-12-2023
+Điều trị sớm viêm khớp dạng thấp để tránh tàn phế
+Điều trị viêm khớp dạng thấp
+về nguyên tắc là phải toàn diện, tích cực, dài hạn và phải được theo dõi thường xuyên.
+1. Các thuốc điều trị
+triệu chứng viêm khớp dạng thấp
+Các thuốc này không làm thay đổi được sự tiến triển của bệnh mà chỉ giúp cải thiện triệu chứng viêm, giảm đau, duy trì khả năng vận động, bao gồm các thuốc:
+- Nhóm
+thuốc kháng viêm không steroid
++ Các thuốc kháng viêm ức chế chọn lọc COX2 được chọn lựa đầu tiên vì thường phải sử dụng dài ngày và ít có tương tác bất lợi với methotrexat (là một trong những thuốc điều trị cơ bản đầu tay) như: Celecoxib, meloxicam, etoricoxib.
++ Các thuốc thuốc kháng viêm ức chế không chọn lọc như diclofenac (dạng uống hoặc tiêm), piroxicam...
+Tùy từng tình trạng bệnh mà bác sĩ sẽ lựa chọn thuốc, chỉ định liều lượng, thời gian sử dụng thuốc. Đối với bệnh nhân có các yếu tố nguy cơ gặp phải tác dụng không mong muốn của thuốc như trường hợp bệnh nhân già yếu, tiền sử có mắc bệnh lý dạ dày…
+Đối với bệnh nhân dùng thuốc điều trị dài ngày, cần được bảo vệ dạ dày bằng các thuốc ức chế bơm proton và theo dõi chức năng thận định kỳ.
+Các biểu hiện và biến chứng tại bàn tay của bệnh viêm khớp dạng thấp.
+- Nhóm thuốc chống viêm corticosteroid
+Các thuốc trong nhóm này như prednisolone, prednisone, methylprednisolone... thường sử dụng ngắn hạn trong lúc chờ đợi các thuốc điều trị cơ bản có hiệu lực và chỉ định khi có đợt tiến triển được bác sĩ cơ xương khớp đánh giá cẩn thận.
+Sử dụng dài hạn cho trường hợp bệnh nhân nặng, phụ thuộc corticoid hoặc có suy thượng thận do dùng corticoid kéo dài. Khi điều trị cơ bản có hiệu lực (6-8 tuần) có thể chỉ định ngừng thuốc nếu bệnh nhân đáp ứng được.
+2. Điều trị cơ bản
+Các thuốc chống thấp cơ bản (DMARDs) làm thay đổi tiến triển của bệnh, giúp làm chậm hoặc làm ngừng tiến triển bệnh. Các thuốc này cần điều trị lâu dài và theo dõi các triệu chứng lâm sàng, cận lâm sàng trong suốt thời gian điều trị.
+- Thể mới mắc và thể thông thường: Sử dụng các thuốc DMARDs kinh điển, bao gồm một trong các thuốc sau: Methotrexat, sulfasalazin... Liều lượng và thời gian sử dụng tùy theo bệnh nhân bác sĩ sẽ có chỉ định cụ thể. Bác sĩ có thể kê phối hợp thuốc trong trường hợp đơn trị liệu không hiệu quả.
+- Thể nặng, khi kháng trị với các DMARDs kinh điển, tức là không có đáp ứng điều trị sau 6 tháng, cần kết hợp với các thuốc sinh học (các DMARDs sinh học). Các thuốc sinh học cần phải có ý kiến của các bác sĩ chuyên khoa cơ xương khớp. Trước khi chỉ định cần thực hiện đúng quy trình: Làm các xét nghiệm tầm soát lao, viêm gan B, viêm gan C; đánh giá chức năng gan, thận và đánh giá mức độ hoạt động bệnh (máu lắng hoặc CRP, DAS 28, HAQ).
+3. Phòng ngừa và điều trị các biến chứng
+tác dụng phụ của thuốc
+Các thuốc điều trị viêm khớp dạng thấp có nguy cơ cao gây viêm loét dạ dày tá tràng, nên cần chủ động phát hiện và điều trị. Khi có các yếu tố nguy cơ cần phòng ngừa và điều trị bằng thuốc ức chế bơm proton. Nếu bệnh nhân có nhiễm vi khuẩn H.pylori, cũng cần dùng thuốc điều trị.
+Khi sử dụng corticosteroid bất cứ liều thấp hay cao, nhưng nếu kéo dài trên 1 tháng, cần bổ xung canxi, vitamin D để phòng ngừa loãng xương. Nếu bệnh nhân có nguy cơ loãng xương cao có thể sử dụng bisphosphonates. Khi đã có loãng xương, tùy theo mức độ loãng xương, tuổi, giới và điều kiện cụ thể của người bệnh mà lựa chọn các thuốc phù hợp.
+Điều trị dự phòng thiếu máu bằng acid folic, sắt, vitamin B12…
+Ngoài sử dụng thuốc, bệnh nhân cần kết hợp với biện pháp hỗ trợ điều trị khác như:
+- Tập luyện, vận động chống co rút gân, dính khớp, teo cơ.
+- Trong đợt viêm cấp để khớp nghỉ ở tư thế cơ năng, tránh kê, độn tại khớp. Nên tập ngay khi triệu chứng viêm thuyên giảm. Mức độ tập tăng dần, tập nhiều lần trong ngày. Tập chủ động và thụ động theo đúng chức năng sinh lý của khớp.
+- Phục hồi chức năng bằng vật lý trị liệu, tắm suối khoáng, phẫu thuật chỉnh hình (cắt xương sửa trục, thay khớp nhân tạo khi có chỉ định).
+- Bệnh nhân điều trị lâu dài và theo dõi trong suốt quá trình điều trị.
+Mời độc giả xem thêm video:
+6 loại thực phẩm nên tránh khi bị viêm khớp | SKĐ
+ThS.Nguyễn Xuân Tuấn
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

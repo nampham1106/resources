@@ -1,0 +1,45 @@
+# doc_id = health_disease_5034
+# url = https://suckhoedoisong.vn/cac-thuoc-dieu-tri-benh-nhuoc-co-169147588.htm
+# date = 20-08-2018
+Các thuốc điều trị bệnh nhược cơ
+Tìm hiểu về bệnh nhược cơ
+Bệnh nhược cơ là một bệnh tự miễn tương đối hiếm gặp, với tình trạng rối loạn sự dẫn truyền thần kinh-cơ, do kháng thể của hệ miễn dịch tấn công lên thụ thể acetyl cholin (thụ thể dẫn truyền thần kinh) trên màng tế bào cơ của cơ thể. Sự tấn công này gây ra hậu quả: cơ không tiếp nhận đầy đủ các tín hiệu thần kinh và trở nên suy yếu.
+Bệnh nhược cơ thường gặp ở nữ giới (chiếm tỉ lệ gần gấp đôi nam giới), có thể xảy ra ở mọi lứa tuổi nhưng thường gặp ở nữ giới < 40 tuổi và nam giới > 60 tuổi.
+Nguyên nhân:
+Bình thường, các tế bào thần kinh phóng thích
+acetylcholin
+(một chất dẫn truyền thần kinh), gắn lên các thụ thể acetylcholin trên cơ, giúp cơ tiếp nhận các dẫn truyền thần kinh để vận động. Khi các kháng thể phá hủy hay ngăn chặn sự hoạt động của các thụ thể acetyl cholin trên cơ, khiến cơ không tiếp nhận đầy đủ các dẫn truyền thần kinh và trở nên suy yếu nhanh chóng.
+Ngoài ra, tuyến ức có vai trò quan trọng đối với hệ miễn dịch của cơ thể. Những bệnh lý của tuyến ức như tăng sản tuyến ức (
+thymis hyperplasia
+) hay u tuyến ức (
+thymis tumor
+) cũng làm gia tăng các kháng thể tấn công thụ thể acetylcholin gây ra bệnh nhược cơ.
+Bệnh nhược cơ
+Triệu chứng:
+- Sụp mi mắt.
+- Nhìn mờ hay nhìn đôi.
+- Khó nói hay giọng nói thay đổi.
+- Khó nhai, khó nuốt.
+- Yếu cơ cổ, cánh tay, chân.
+- Khó thở.
+Thuốc điều trị
+Hiện nay, y học vẫn chưa có thuốc điều trị bệnh nhược cơ. Các thuốc được sử dụng chỉ giúp làm giảm các triệu chứng của bệnh. Sau đây là các thuốc thường được sử dụng trong điều trị bệnh nhược cơ:
+Nhóm thuốc ức chế enzym cholinesterase
+(pyridostigmin, neostigmin
+), có tác dụng ức chế sự hoạt động của enzym cholinesterase, là enzym có vai trò phân hủy acetylcholin trong não. Do đó, thuốc làm gia tăng nồng độ acetylcholine, nên tăng cường sự dẫn truyền thần kinh đến cơ, giúp cơ cải thiện sức mạnh.
+Nữ giới chiếm tỉ lệ gần gấp đôi nam giới
+Cần lưu ý: tác dụng phụ của nhóm thuốc này là co cứng cơ, chán ăn, tiêu chảy, buồn nôn…
+Nhóm thuốc ức chế miễn dịch
+(
+các thuốc corticosteroid, azathioprine, methotrexat…)
+có tác dụng ức chế hệ miễn dịch sản sinh ra các kháng thể nên được sử dụng trong điều trị bệnh nhược cơ.
+Cần lưu ý: tác dụng phụ của nhóm thuốc này là buồn nôn, viêm loét dạ dày, gia tăng nguy cơ nhiễm trùng, tổn thương gan, thận…
+Y học vẫn chưa có thuốc điều trị bệnh nhược cơ
+Nhóm thuốc kháng thể đơn dòng:
+Rituximab
+là một kháng thể đơn dòng có tác dụng làm suy yếu bạch cầu, thay đổi hệ miễn dịch nên thường được sử dụng để cải thiện triệu chứng của bệnh nhược cơ.
+Cần lưu ý: tác dụng phụ của
+Rituximab
+là nhức đầu, sốt, ớn lạnh, nôn ói, viêm dạ dày…
+Hầu hết các thuốc sử dụng trong điều trị bệnh nhược cơ đều là những thuốc kê đơn và có thể gây ra các tác dụng phụ nguy hiểm, nên người bệnh cần tuân theo đúng chỉ định của thầy thuốc, tránh tự ý sử dụng.
+Bên cạnh việc dùng thuốc, người bệnh cần nghỉ ngơi, chế độ dinh dưỡng tốt, tránh căng thẳng stress… giúp thuyên giảm nhanh các triệu chứng của bệnh nhược cơ.

@@ -1,0 +1,43 @@
+# doc_id = health_disease_241
+# url = https://suckhoedoisong.vn/cac-phuong-phap-dieu-tri-ung-thu-phoi-hien-nay-ra-sao-169211027122034368.htm
+# date = 28-10-2021
+Các phương pháp điều trị ung thư phổi năm 2021
+Ung thư phổi được xếp vào loại ung thư khó phát hiện sớm. Dù đã có nhiều tiến bộ trong chẩn đoán và điều trị, song tiên lượng bệnh vẫn còn dè dặt. Tiền sử bệnh, thể trạng, loại mô học ung thư phổi, giai đoạn, phương pháp và phản ứng với điều trị là các tác nhân đóng vai trò tiên lượng trong bệnh lý ác tính này.
+Ung thư phổi
+hay ung thư phế quản là bệnh lý ác tính phát triển từ biểu mô phế quản, tiểu phế quản, phế nang hoặc từ các tuyến của phế nang.
+Bệnh gồm hai nhóm khác nhau về điều trị và tiên lượng bệnh: Ung thư phổi tế bào nhỏ (chiếm 15-20%) và Ung thư phổi không phải tế bào nhỏ (chiếm 80-85%).
+Hiện nay, mặc dù đã có nhiều tiến bộ vượt bậc trong chẩn đoán sớm và điều trị, tuy nhiên, chỉ khoảng 19% bệnh nhân ung thư phổi nói chung có thời gian sống thêm sau 5 năm ở tất cả các giai đoạn được chẩn đoán.
+Hình ảnh khối u phổi
+Ung thư phổi điều trị ra sao?
+Mục đích điều trị ung thư phổi hiện nay là giảm triệu chứng, cải thiện chất lượng cuộc sống và kéo dài thời gian sống thêm cho bệnh nhân.
+Cũng như điều trị ung thư khác, điều trị ung thư phổi hiện nay là điều trị theo hướng đa mô thức bao gồm các biện pháp phẫu thuật, hóa chất, xạ trị, điều trị đích, liệu pháp miễn dịch và điều trị tại chỗ.
+Tùy theo giai đoạn, thể bệnh như: tế bào nhỏ hay không tế bào nhỏ, tế bào vảy hay không phải tế bào vảy, tình trạng đột biến gen, biểu lộ miễn dịch, toàn trạng của bệnh nhân và các bệnh đồng mắc… mà các bác sĩ sẽ lựa chọn biện pháp điều trị đối với bệnh.
+Với bệnh nhân ung thư phổi tế bào nhỏ, do đặc điểm tiến triển nhanh và di căn sớm nên biện pháp cơ bản đối với
+type
+tế bào này là điều trị toàn thân bằng hóa chất hoặc hóa chất kết hợp xạ trị, miễn dịch.
+Các giai đoạn của ung thư phổi.
+Các biện pháp được đề cập dưới đây tập trung vào bệnh nhân ung thư phổi không tế bào nhỏ.
+- Ở giai đoạn sớm: Đối với người bệnh phát hiện được ở giai đoạn sớm, phẫu thuật là biện pháp triệt căn được lựa chọn hàng đầu và mang lại hiệu quả tốt nhất.
+Chỉ định phẫu thuật không chỉ căn cứ vào giai đoạn của khối u mà còn phải bao gồm cả chỉ định từ phía thể trạng của người bệnh.
+Có nghĩa là tình trạng sức khỏe của người bệnh phải không có bệnh lý nặng kết hợp như các bệnh phổi mạn tính, nhồi máu cơ tim, suy tim, các bệnh lý mạch máu ngoại vi, suy thận, bệnh lý mạn tính của gan..., và cần có một chức năng hô hấp tốt.
+Tuy nhiên, có khoảng 25% bệnh nhân ung thư phổi không tế bào nhỏ giai đoạn sớm không có chỉ định phẫu thuật do các bệnh lý kết hợp nặng hoặc chức năng hô hấp kém. Với các trường hợp như vậy, xạ trị lập thể định vị thân là một biện pháp điều trị triệt căn hiệu quả, ít tác dụng phụ và mang lại đáp ứng điều trị cũng như thời gian sống thêm tương đương với phẫu thuật.
+Đối với người bệnh còn khả năng phẫu thuật: Phẫu thuật vẫn là biện pháp chính mang lại kết quả tốt. Tuy nhiên, bệnh nhân có thể được điều trị với hóa chất, xạ trị bổ trợ trước mổ hoặc điều trị bổ trợ sau mổ để mang lại hiệu quả cao nhất.
+Điều trị ung thư bao gồm các biện pháp phẫu thuật, hóa chất, xạ trị, điều trị đích, liệu pháp miễn dịch và điều trị tại chỗ.
+- Ở giai đoạn III không phẫu thuật được: Điều trị hóa xạ trị đồng thời sau đó duy trì bằng Durvalumab 10mg/kg cân nặng mỗi 2 tuần cho kết quả rất tốt về đáp ứng điều trị cũng như kéo dài thời gian sống thêm cho người bệnh.
+- Ở giai đoạn muộn, đã có tiến triển tại chỗ hoặc di căn xa: Điều trị toàn thân là chỉ định tốt nhất. Các biện pháp này bao gồm: điều trị hóa chất, điều trị đích và điều trị miễn dịch, kết hợp với điều trị tại chỗ các vị trí u nguyên phát và các ổ di căn như xạ phẫu hoặc xạ toàn não với di căn não, xạ trị giảm đau xương.
+8 thực phẩm người bệnh ung thư phổi nên ăn thường xuyên
+Cảnh báo 5 dấu hiệu không ngờ đến của ung thư phổi
+Hóa trị
+, mặc dù hiện nay các thế hệ hóa chất ra đời đã mang lại kết quả điều trị cao hơn và giảm các tác dụng không mong muốn cho người bệnh. Tuy nhiên, thể trạng của người bệnh là một yếu tố quan trọng để cân nhắc lựa chọn phác đồ điều trị. Bên cạnh đó, các tác dụng phụ đặc biệt là giảm bạch cầu dẫn đến viêm phổi cũng cần được theo dõi và điều trị kịp thời.
+Điều trị đích
+với các loại đột biến gen như EGFR, ALK, ROS1, BRAF, MET…, ngày càng được áp dụng rộng rãi. Trong đó, đột biến gen EGFR là loại đột biến gen phổ biến nhất tại nước ta và có nhiều loại thuốc để lựa chọn nhất.
+Kết quả điều trị cho thấy, các loại thuốc đích này mang lại chất lượng cuộc sống tốt hơn và kéo dài thời gian sống thêm tốt hơn cho người bệnh so với hóa trị, nhất là vẫn có thể điều trị được với bệnh nhân thể trạng kém.
+Tuy nhiên, vấn đề giá thành là một cản trở không nhỏ đối với bệnh nhân ung thư phổi ở nước ta, khi mà các loại thuốc này còn đắt và chưa được chỉ trả hoàn toàn bởi bảo hiểm y tế, bên cạnh đó, một số loại thuốc đích hiện nay cũng chưa có mặt tại Việt Nam.
+Điều trị miễn dịch:
+Đây là một biện pháp không phải bây giờ mới được áp dụng. Tuy nhiên, với việc phát hiện ra các yếu tố biểu lộ miễn dịch PD-L1/PD-1 và CTLA-4 của 2 nhà khoa học Honjo Tasuku người Nhật Bản và Jame P.Allison người Mỹ được trao giải Nobel Y học năm 2018, các thuốc điều trị miễn dịch ức chế các chốt kiểm soát đã ra đời, mang lại hiệu quả tốt cho người bệnh, đặc biệt là nhóm bệnh nhân không mang đột biến gen. Các thuốc miễn dịch đang được sử dụng tại Việt Nam là Pembrolizumab, Atezolizumab...
+Cùng với điều trị đích, điều trị miễn dịch là một cánh cửa mới, mở ra con đường tươi sáng hơn trong điều trị bệnh nhân ung thư phổi. Với ung thư phổi không tế bào nhỏ, từ khi có điều trị đích và điều trị miễn dịch, tỉ lệ sống thêm 5 năm ở bệnh nhân giai đoạn di căn xa đã có những thay đổi đáng kể từ 15 – 50%.
+Theo thống kê, có khoảng 80% bệnh nhân ung thư phổi được chẩn đoán khi bệnh đã ở giai đoạn muộn với các triệu chứng trên lâm sàng như ho, đau ngực, khó thở, sụt cân...
+Như vậy có thể thấy, với sự phát triển không ngừng của khoa học và y học, cơ hội để bệnh nhân ung thư phổi có thể được phát hiện sớm, chẩn đoán sớm, điều trị triệt căn ở giai đoạn sớm của bệnh đang ngày càng tăng lên.
+Và dù là giai đoạn muộn, bằng việc ra đời của nhiều biện pháp điều trị mới, cơ hội để có chất lượng cuộc sống tốt hơn và thời gian sống thêm dài hơn của người bệnh cũng ngày càng được mở ra.
+Giúp bạn đương đầu với ung thư phổi
+SKĐS- Nhận được chẩn đoán ung thư phổi có thể gây ra cho bạn và gia đình những cảm xúc khó khăn. Hãy nhớ, vẫn luôn có những nguồn lực phù hợp để hỗ trợ và dẫn đường, giúp bạn ứng phó với bệnh tật dễ dàng hơn.

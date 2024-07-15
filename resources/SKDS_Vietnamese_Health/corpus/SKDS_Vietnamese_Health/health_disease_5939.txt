@@ -1,0 +1,30 @@
+# doc_id = health_disease_5939
+# url = https://suckhoedoisong.vn/enzyme-men-banh-mi-co-tac-dung-dieu-tri-benh-bach-cau-cap-tinh-169127613.htm
+# date = 20-02-2017
+Enzyme men bánh mì có tác dụng điều trị bệnh bạch cầu cấp tính
+Bệnh bạch cầu lymphoblastic cấp tính là dạng hay gặp nhất trong bệnh bạch cầu ở trẻ em. Trong một nghiên cứu mới các nhà nghiên cứu cho thấy làm thế nào một chất được tách ra từ men bánh mì có thể giúp điều trị bệnh.
+Bệnh bạch cầu lymphoblastic cấp tính (ALL) còn được gọi là bệnh bạch cầu lymphocytic cấp tính, là bệnh ung thư bắt đầu từ lymphoblasts – tế bào máu trắng chưa trưởng thành trong tủy xương.
+Quá nhiều lymphoblasts phát triển thành ALL làm giảm lượng bạch cầu, hồng cầu và tiểu cầu. Kết quả là bệnh nhân ALL thường bị thiếu máu và dễ nhiễm trùng.
+Trẻ em dưới 5 tuổi có nguy cơ mắc ALL nhiều nhất, phần lớn các trường hợp tử vong là người trưởng thành.
+Khi nói đến điều trị ALL, hóa trị thường được nhắc đến đầu tiên. Các phương pháp điều trị khác có thể là: cấy ghép tế bào gốc, xạ trị, phẫu thuật và dùng thuốc.
+Xác định một phương pháp điều trị an toàn hơn cho bệnh bạch cầu cấp tính
+Theo nghiên cứu của đồng tác giả Gisele Monteiro của Khoa Dược lý ở Đại học São Paulo tại Brazil, một enzyme được tách từ vi khuẩn Escherichia coli và Erwinia chrysanthemi ( được gọi là L-asparaginase) đã được dùng trong điều trị ALL nhiều thập kỷ.
+Theo các nhà nghiên cứu, loại enzyme tìm thấy trong men bánh mỳ có khả năng tiêu diệt tế bào leukemia mà không gây tổn hại cho tế bào khỏe mạnh
+Điều trị bằng enzyme vi khuẩn này có tỷ lệ hồi phục cao, Monteiro cũng lưu ý rằng, nó có thể gây kích ứng từ nhẹ đến nặng ở khoảng 25% bệnh nhân. Vì vậy, một loại dược phẩm sinh học ít độc hơn để điều trị ALL là cần thiết.
+Trong một nghiên cứu được công bố trên tạp chí
+Scientific Reports,
+Moteiro và nhóm nghiên cứu đã cho biết làm cách nào họ tách được L-asparaginase- enzyme tương tự từ
+Saccharomyces cerevisiae
+có nguồn gốc không phải vi khuẩn, mà từ men bánh mì hoặc men bia.
+“Mục tiêu của chúng tôi trong nghiên cứu này không phải là sản xuất enzyme, mà để tìm ra nguồn mới của biodrug trong vi sinh vật dùng cho những bệnh nhân kháng lại enzyme vi khuẩn” đồng tác giả nghiên Marcos Antonio de Oliveira của Viện khoa học sinh học tại Đại học bang São Paulo Brazil phát biểu.
+Tách L-asparaginase - enzyme tương tự từ nấm men
+Để đạt được kết quả nghiên cứu, các nhà nghiên cứu đã sử dụng công cụ bioinformatics để phân tích bộ gen của một vài loài có tiết asparaginase.
+Từ đây nhóm nghiên cứu đã xác định được một gen trong S.cerevisiae gọi là ASP1 mã hoa một enzyme tương tự như L-asparaginase.
+Tác giả nghiên cứu đầu tiên Iris Munhoz Costa, cũng ở Khoa Dược của Đại học São Paulo giải thích rằng: không giống như vi khuẩn nấm men là dạng nhân điển hình. Điều này có nghĩa, nó có lớp màng bao quanh nhân có mang vật liệu di truyền, giống tế bào người.
+Vì vậy, giả thuyết cho rằng, enzyme có nguồn gốc nấm men ít có khả năng gây kích ứng nặng đáp ứng miễn dịch so với enzymes vi khuẩn.
+Với suy nghĩ này, các nhà nghiên cứu đã nhân bản vô tính gen ASP1, với sự hỗ trợ của kỹ thuật di truyền, họ có khả năng thúc đẩy E.coli để sản xuất dạng tinh khiết của nấm men nguồn gốc L-asparaginase.
+Tinh chất, nấm men - nguồn gốc của L-asparaginase ít độc hơn với tế bào khỏe mạnh
+Các nhà nghiên cứu thử nghiệm cả L-asparaginase tinh khiết từ nấm men và L-asparaginase từ E.coli trên ba nhóm tế bào bạch cầu người. Một nhóm các tế bào không sản xuất được asparagine như bình thường (MOLT4), một nhóm sản xuất asparagine ở mức bình thường và nhóm cuối cùng (nhóm chứng) lành tính (HUVECs).
+Nhóm nghiên cứu nhận thấy tinh chất, L-asparaginase nguồn gốc nấm men giết chết khoảng 70-80% tế bào MOLT4 so với 90% của L-asparaginase nguồn gốc E.coli. Tuy nhiên, L-asparaginase tinh khiết từ nấm men ít độc với HUVECs hơn L-asparagianse từ E.coli.
+Dạng L-asparaginase được tìm ra có tác dụng chống lại tế bào REH, nhóm nghiên cứu báo cáo.
+Nhìn chung các nhà nghiên cứu nói rằng: phát hiện của họ cho thấy L-asparaginase nguồn gốc nấm men an toàn hơn và hiệu quả hơn trong điều trị bệnh bạch cầu cấp tính.

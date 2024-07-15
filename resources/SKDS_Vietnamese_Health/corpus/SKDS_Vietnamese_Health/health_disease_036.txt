@@ -1,0 +1,28 @@
+# doc_id = health_disease_036
+# url = https://suckhoedoisong.vn/than-trong-voi-streptomycin-trong-dieu-tri-lao-16940109.htm
+# date = 30-04-2011
+Thận trọng với streptomycin trong điều trị lao
+Trong nhóm kháng sinh trị bệnh lao thì kháng sinh loại streptomycin dạng tiêm là thuốc hay gây tác dụng phụ nhất. Tuy vậy nó vẫn là một thuốc thường được sử dụng vì những hiệu năng điều trị. Nhưng cũng cần biết khi điều trị liều cao hoặc kéo dài những tác hại của nó gây ra (nếu có) cũng rất nghiêm trọng.
+Nguyên nhân
+Streptomycin là một kháng sinh thuộc dòng aminoglycosid. Kháng sinh này khi được đưa vào cơ thể chúng sẽ thâm nhập vào tế bào vi khuẩn lao và gắn vào tiểu phân ribosom, tiểu phân tổng hợp protein sống cho vi khuẩn. Khi gắn kết vào tiểu phân ribosom, chúng làm sai lạc trình tự các axít amin trong phân tử protein do đó tổng hợp nên những protein dị thường không có chức năng. Vi khuẩn vì thế mà không có đủ protein cho quá trình sinh sản, và đương nhiên các hoạt động sống của chúng cũng bị đình chỉ dần. Đây là một thuốc được xếp vào nhóm kìm khuẩn và diệt khuẩn ở liều cao.
+Với đặc điểm ức chế vi khuẩn mạnh mẽ, thuốc được lựa chọn hàng đầu trong điều trị lao, ngay cả với lao đã kháng thuốc. Tuy nhiên, cũng cần biết, khi điều trị liều cao hoặc kéo dài, những tác hại của nó gây ra, nếu có, cũng thực nghiêm trọng. Có thể thấy những tác dụng phụ điển hình của chúng như sau:
+Hình ảnh phổi của bệnh nhân lao phổi trên phim chụp Xquang.
+Tổn thương ốc tai tiền đình:
+Ở đây, ốc tai chịu trách nhiệm thu nhận âm thanh, tiền đình chịu trách nhiệm điều khiển thăng bằng. Cả hai cấu trúc này đều có thể bị tổn thương. Đó là vì thuốc làm hỏng hay làm mất chức năng cấu trúc lông chuyển, những cấu trúc chức năng quan trọng vào bậc nhất của các hệ thống này. Những tổn thương này là khó hồi phục và có thể là vĩnh viễn nếu không được phát hiện sớm. Người bệnh sẽ có biểu hiện nghe kém, nghễnh ngãng trong quá trình điều trị. Song song với đó, người bệnh sẽ có các biểu hiện chóng mặt, đau đầu, ù tai, tròng chành, loạng choạng.
+Nhiễm độc thận:
+Là một tác dụng phụ có thể nói là nghiêm trọng và phụ thuộc vào liều. Thuốc làm tổn thương các tế bào ống thận. Khi đó, thận của người bệnh không còn thực hiện được toàn vẹn chức năng tái hấp thu, trong đó axít amin, đường, điện giải không được hấp thu hoàn toàn. Người bệnh bị đái ra đường và đái ra axít amin. Trên cơ thể, người bệnh có biểu hiện mệt mỏi, uể oải, nước tiểu “ngọt” nên có kiến bâu. Đặc biệt số lượng nước tiểu tăng lên
+Bất hoạt sự dẫn truyền thần kinh cơ:
+Thuốc có khả năng làm mất liên kết giữa thần kinh và cơ tại thụ cảm thể thần kinh cơ. Người bệnh có biểu hiện tê bì ở mặt, ở tay chân. Cơ bị yếu giống như người bị bệnh nhược cơ vậy. Đặc điểm dễ nhận thấy nhất là tình trạng tê bì ở môi, mặt và tay, chân. Khi có dấu hiệu tê bì ở môi thì đó là dấu hiệu cần khám xét.
+Một số tác dụng phụ khác:
+dị ứng, nổi ban, giảm tạo máu, thiếu máu, chảy máu. Những biểu hiện này tăng lên theo liều và thời gian sử dụng. Vì điều trị lao cần thời gian dài, tối thiểu là 6 tháng, nên những biểu hiện nhiễm độc của thuốc là khó tránh khỏi. Chúng ta nên biết để thông báo kịp thời cho bác sĩ điều trị.
+Những điều nên biết khi trị lao
+Vì lý do tình trạng người bệnh dễ nhiễm độc thuốc khi điều trị lao nên chúng ta cần chú ý một số điểm sau khi điều trị và theo dõi liệu trình điều trị:
+- Giải thích đầy đủ cho bệnh nhân những tác dụng phụ có thể gặp khi áp dụng điều trị. Tránh để tình trạng nhiễm độc quá nặng mới phát hiện thì khó phục hồi.
+- Khi điều trị cho những bệnh nhân là người cao tuổi, những đối tượng dễ bị tổn thương tiền đình thì việc dùng thuốc phải hết sức thận trọng. Có thể xem xét phải giảm liều đến liều nhỏ nhất. Khi bệnh nhân có biểu hiện bị nhiễm độc thuốc cần chuyển sang thuốc khác ngay. Thậm chí, nếu tiên lượng được những biến cố chắc chắn xảy ra thì chúng ta nên thay streptomycin bằng một thuốc khác để kiểm soát như ethambutol là một ví dụ.
+Tổn thương ốc tai tiền đình có thể vĩnh viễn nếu không được phát hiện sớm
+.
+- Cần lưu ý ở những đối tượng như có huyết áp thấp, có sức nghe giảm, bị tổn thương sẵn ở tai, người đang dùng thuốc lợi tiểu thì có nguy cao bị nhiễm độc thuốc này. Nên xem xét đề phòng và giảm liều đến mức tối đa.
+- Khi có biểu hiện nhiễm độc thuốc thì việc chuyển thuốc là đương nhiên, cùng với đó là điều trị tác dụng phụ của thuốc cho bệnh nhân.
+- Với bệnh nhân, khi thấy một trong bất kỳ biểu hiện nào sau đây: chóng mặt, ù tai, tê bì mặt, tay chân, choáng váng thì cần thông báo kịp thời cho bác sĩ điều trị và cần tái khám ngay. Tuyệt nhiên, không được bỏ liệu trình vì sẽ gây ra lao kháng thuốc. Và cũng tuyệt nhiên không được cố gắng điều trị vì đến khi tổn thương tiền đình rõ ràng thì mọi chuyện coi như đã muộn.
+BS.
+Nhất Đa

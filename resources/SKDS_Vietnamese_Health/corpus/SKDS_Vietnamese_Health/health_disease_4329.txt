@@ -1,0 +1,10 @@
+# doc_id = health_disease_4329
+# url = https://suckhoedoisong.vn/nhan-dien-gen-gay-benh-bach-cau-cap-tre-em-16966433.htm
+# date = 15-09-2013
+Nhận diện gen gây bệnh bạch cầu cấp trẻ em
+Bệnh bạch cầu cấp là một bệnh nguy hiểm, nó thường được gọi là ung thư máu. Bệnh này nếu xảy ra ở trẻ em có thể gây ra tỷ lệ tử vong tương đối cao.
+Mới đây, các nhà khoa học đã tìm ra căn nguyên gen di truyền gây bệnh bạch cầu cấp ở trẻ em. Các nhà khoa học đến từ Đại học Washington (Hoa Kỳ) đã nghiên cứu thành công và công bố công trình của mình trên tạp chí khoa học Nature Genetics.
+Đột biến gen của bệnh này lần đầu tiên được chú ý ở các thành viên trong vài thế hệ khác nhau của một gia đình bị mắc bệnh bạch cầu cấp đã điều trị ở Bệnh viện Memorial Sloan-Kettering (Mỹ). Gen đó là gen PAX5, chịu trách nhiệm cho việc gây ra sự hư hỏng cho tế bào lympho B, tế bào bị tác động của ung thư máu. Khi gen này bị thiếu hụt hoặc đột biến, chúng sẽ không thể kiểm soát chức năng của tế bào lympho B và dẫn tới bệnh bạch cầu cấp.
+Sự phát hiện này đang là một hứa hẹn tiềm năng cho việc tìm ra cách điều trị vào các yếu tố dịch mã, nhằm giải quyết tận gốc bệnh bạch cầu cấp vốn có sự đột biến gen.
+Lâm Phúc
+(Theo Nature Genetics, 8/2013)

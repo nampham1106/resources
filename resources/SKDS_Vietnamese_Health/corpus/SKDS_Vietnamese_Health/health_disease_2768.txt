@@ -1,0 +1,41 @@
+# doc_id = health_disease_2768
+# url = https://suckhoedoisong.vn/mun-coc-va-thuoc-169120315.htm
+# date = 06-07-2017
+Mụn cóc và thuốc
+Cần hiểu đây là bệnh do virút và dù loại nào cũng cần phải chữa theo hướng dẫn của thầy thuốc da liễu.
+Mụn cóc do HPV (human papilloma virus) gây ra, làm thành các thương tổn khác nhau như những sẩn, u nhỏ trên da niêm mạc. Tùy theo vị trí thương tổn mà có những tên khác nhau: sùi mào gà ở bộ phận sinh dục, mụn cóc ở gan bàn chân, mụn cóc dưới móng, hạt cơm phẳng, mụn cóc thông thường. Tùy theo mụn cóc mà cách chữa có thể khác nhau bao gồm các phương pháp thông thường lẫn hiện đại.
+Thuốc dùng tại chỗ thông thường
+Loại thuốc này có thể tự dùng tại nhà sau khi được hướng dẫn về bệnh cần dùng, bệnh không được dùng, tên thuốc, nồng độ, cách bôi (chấm).
+Axít salicylic - axít tricloracetic:
+những chất tiêu sừng (keratolic). Thường dùng nồng độ khá cao từ 5 - 40%. Riêng axít tricloracetic với nồng độ cao khoảng 80% sẽ gây hoại tử tổ chức. Khi chấm lên lên mụn cóc, chúng sẽ làm tiêu sừng, mụn cóc mất đi, tỉ lệ khỏi khoảng 70%. Không dược dùng chúng chữa chàm, mụn ruồi, bớt sắc tố, sùi mào gà. Phải dùng cọ chấm thật khéo lên mụn cóc, không làm dây ra vùng da lành, đặc biệt không làm dây vào mắt. Axít salicylic mỗi ngày chỉ dùng một lần, axít tricloracetic mỗi tuần chỉ dùng 4 lần. Thận trọng khi dùng tricloracetic để tránh để lại sẹo.
+Podophyllum
+(tên khác: pasapilin, condyline, podopylox, artec, Pocodon-25): nhựa của cây
+Podophyllum pelatum Berberitaceae
+chứa độc tố (hàm lượng thường thay đổi), độc tố này có tính chống phân bào, dùng chữa mụn cóc ở gan bàn chân, vùng hậu môn, sinh dục, đặc biệt rất tốt trong điều trị mụn cóc sinh dục, ngoài ra còn dùng điều trị một số carcinom. Thường dùng ở nồng độ 3,5 - 30% tùy theo nồng độc chất ở trong nhựa. Phải chấm rất khéo lên vùng có mụn cóc. Mỗi ngày chấm lên mụn cóc 2 lần, mỗi đợt 3 ngày. Chậm nhất là 6 giờ sau khi chấm phải rửa sạch. Có thể dùng nhắc lại sau 4 tuần. Thận trọng khi dùng vì thuốc có thể gây nôn mửa, sốt, lẫn lộn, hôn mê, tắc ruột suy thận, không bôi trên diện rộng, không dùng cho nữ có thai, không được dùng chữa mụn cóc trên mặt.
+Colomax:
+thành phần gồm axít lactic, axít salicylic, polidocanol. Dùng chữa mụn cóc (như nói ở phần axít salicylic, tricloracetic ở trên). Cần chấm rất khéo lên mụn cóc, không làm dây ra vùng da lành đặc biệt không làm dây vào mắt. Không dược dùng các thuốc này chữa chàm, mụn ruồi, bớt sắc tố, mụn cóc trên mặt, mụn cóc có lông ở bộ phận sinh dục. Thuốc
+Duofilm
+có thành phần tương tự nhưng như colomac nồng độ các thành phần lại cao hơn trong colomax.
+Thuốc tiêm vào nơi thương tổn
+Thuốc này dành chữa cho các trường hợp mụn cóc nặng có thương tổn, mụn cóc kháng trị với các thuốc khác.
+Bleomycin:
+hóa chất ức chế tổng hợp AND trong tế bào và virút, tác dụng trên cả tổ chức nhiễm khuẩn làm biến đổi mao mạch, hoại tử thượng bì, dùng tiêm vào nơi thương tổn, rất tốt cho trường hợp mụn cóc kháng trị. Tỉ lệ khỏi bệnh 33 - 92%. Thuốc có thể gây nổi mày đay, tím đầu chi, hoại tử đầu chi, phản ứng đặc ứng đặc ứng như sốc phẩn vệ… vì vậy phải theo dõi cẩn thận khi tiêm.
+Interferon alpha-2a Interferon alpha-2b:
+loại cytokin có tác dụng kháng virút kháng khuẩn, kháng ung thư. Tiêm vào thương tổn có tác dụng mạnh hơn tiêm toàn thân. Tỉ lệ khỏi 36 - 63%.
+Thuốc tiêm hay uống toàn thân
+Có thể dùng thuốc kháng thụ thể histamin H2 cimetidin, dạng uống, nhưng hiệu quả không cao. Thường dùng hơn là retinol, cidofovir.
+Retinol:
+bản chất là vitamin A. Nó làm mất khả năng tạo sừng của mụn cóc, làm giảm đau, cũng có tác dụng làm giảm tổn thương mụn cóc ở những người ghép thận. Thuốc có thể gây phản ứng khô da, viêm môi, nhạy cảm với ánh nắng, rụng tóc, viêm ruột; nếu thấy đi ngoài ra máu, đau bụng tiêu chảy phải ngừng thuốc ngay. Không dùng cho người có thai, trong dộ tuổi sinh để.
+Cidofovir:
+tiêm tĩnh mạch để điều trị mụn cóc kháng trị. Thận trọng vì thuốc có thể gây nhiễm độc thận.
+Các phương pháp điều trị khác
+Laser:
+phương pháp đắt tiền áp dụng với các mụn cóc to, mụn cóc kháng trị, mụn cóc sinh dục, mụn cóc lòng bàn chân bàn tay, quanh móng, Dùng laser CO
+2
+và Nd:YAG là thông dụng nhất. Phẫu thuật viên laser phải thận trọng vì HPV có thể theo khói vào phôi gây u nhú.
+Đốt lạnh: dùng nitơ lỏng (-196
+0
+C)là phương pháp phẫu thuật lạnh hiệu quả nhất. Phủ lên thương tổn, phủ ra xung quanh mụn cóc 1 - 2mm, nhắc lại sau 2 - 4 tuần, trong vòng 3 tháng. Theo dõi cẩn thận tránh để lại sẹo nhất là mụn cóc phẳng.
+Đốt điện kết hợp với thìa nạo:
+có kết quả hơn đốt lạnh nhưng đau và để lại sẹo.
+Lưu ý: không chữa mụn cóc bằng các biện pháp cạo gọt bôi axít, thuốc tím nồng độ cao vì dễ làm lây ra chỗ khác, dễ làm thương tổn da để lại sẹo.

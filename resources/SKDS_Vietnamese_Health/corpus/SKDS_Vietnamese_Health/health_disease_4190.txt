@@ -1,0 +1,28 @@
+# doc_id = health_disease_4190
+# url = https://suckhoedoisong.vn/thuong-han-de-gay-nhieu-bien-chung-vi-sao-16941435.htm
+# date = 28-06-2011
+Thương hàn dễ gây nhiều biến chứng, vì sao?
+Thương hàn là một bệnh truyền nhiễm cấp tính, lây bằng đường tiêu hóa, do trực khuẩn Salmonella typhi và Salmonella paratyphi gây nên. Biểu hiện lâm sàng là hội chứng nhiễm khuẩn nhiễm độc toàn thân, kèm theo tổn thương đặc hiệu tại đường tiêu hóa. Nếu không được điều trị kịp thời, bệnh có nhiều diễn biến phức tạp, nhiều biến chứng có thể xảy ra, thậm chí dẫn đến tử vong.
+Mầm bệnh từ đâu?
+Salmonella là loại trực khuẩn gram âm, có lông, có sức đề kháng tốt ở ngoại cảnh; trong đất sống được vài tháng; trong nước và phân sống được vài tuần; trong thực phẩm đông lạnh được 2 - 3 tháng và sống cả ở những thực phẩm có nồng độ muối cao; ở 1000C phải hơn 5 phút mới diệt được.
+Nguồn bệnh trước hết là bệnh nhân, ở đối tượng này vi khuẩn chủ yếu ra ngoài theo phân, ngoài ra còn theo đường nước tiểu, đờm, chất nôn. Trực khuẩn thải theo từng đợt, thải qua phân ở tất cả các giai đoạn của bệnh, nhiều nhất là vào giai đoạn nung bệnh.
+Ngoài ra nguồn bệnh quan trọng nhất người mang khuẩn không triệu chứng, vì đây là đối tượng khó kiểm soát (do không có biểu hiện lâm sàng làm chúng ta chủ quan) và người mang bệnh sau khi khỏi; có khoảng 3 - 5% bệnh nhân khỏi về lâm sàng nhưng vẫn tiếp tục mang vi khuẩn đến hàng tháng, hàng năm sau do vi khuẩn khu trú trong đường mật, đường ruột.
+Salmonella xâm nhập cơ thể qua đường miệng và hầu hết là do ăn phải thức ăn bị nhiễm như thực phẩm, sữa, nước uống... Sau khi xuyên qua hàng rào axít dạ dày, vi khuẩn di động về phía ruột non và sinh sản ở đó, tiếp tục chui qua màng nhầy vào thành ruột và đi vào máu. Vi khuẩn sẽ được chuyên chở bởi những tế bào bạch cầu ở gan, lách và tủy xương. Khi đó vi khuẩn sẽ sinh sôi nảy nở trong tế bào của những cơ quan này và quay lại dòng máu. Vi khuẩn xâm nhập vào túi mật, hệ thống ống mật và mô limpho trong ruột. Tại đây, chúng sinh sôi nảy nở với số lượng lớn. Khi vi khuẩn vào trong ruột, nó có thể được chẩn đoán bằng cách cấy phân để xét nghiệm. Một xét nghiệm khác là xét nghiệm Widal giúp phát hiện và lượng giá kháng thể của vi khuẩn thương hàn trong máu và trong nước tiểu.
+Bệnh thương hàn là do lây truyền qua đường ăn uống bởi nước hay thức ăn bị nhiễm. Bệnh nhân bị bệnh cấp tính có thể lây ra môi trường nước xung quanh qua phân. Ở giai đoạn cấp, các chất thải (phân) có chứa nồng độ vi khuẩn rất cao.
+Sốt là biểu hiện thường gặp trong bệnh thương hàn. Ảnh minh họa
+Biểu hiện của bệnh
+Trung bình sau khi nhiễm bệnh 7-15 ngày, ở giai đoạn này không có biểu hiện gì, sẽ xuất hiện các triệu chứng quan trọng
+- Sốt: đây là triệu chứng quan trọng và hằng định, sốt cao liên tục 39-400C, sốt hình cao nguyên và sốt nóng là chủ yếu. Tùy theo trường hợp, biểu hiện thần kinh ở các mức độ khác nhau từ nhức đầu, mất ngủ, ù tai, nói ngọng, đến tình trạng nằm bất động thờ ơ với ngoại cảnh, rồi có thể li bì, mê sảng hoặc hôn mê (ít gặp).
+- Xuất hiện các ban dát nhỏ 2- 3mm, màu hồng thường mọc ở bụng, mạng sườn, ngực - còn gọi là hồng ban.
+- Gan to mềm, bụng trướng nhẹ, đau dọc hố chậu phải, đi ngoài khoảng 5-6 lần/ngày, phân màu vàng nâu, đặc biệt mùi rất khắm.
+- Hình ảnh rìa lưỡi đỏ, giữa lưỡi phủ một lớp rêu màu trắng hoặc xám.
+- Mạch chậm tương đối so với huyết áp, huyết áp thấp.
+Chẩn đoán bệnh chủ yếu dựa vào lâm sàng, kết hợp với xét nghiệm máu, cấy phân và dựa vào yếu tố dịch tễ.
+Bệnh phó thương hàn (paratyphoid fever) cũng có hình ảnh lâm sàng tương tự như bệnh thương hàn nhưng nhẹ hơn và tỷ lệ tử vong thấp hơn nhiều. Trường hợp bị nhiễm khuẩn thương hàn không có biểu hiện toàn thân mà chỉ có biểu hiện viêm dạ dày - ruột do vi khuẩn Salmonella typhimurium hoặc Salmonella enteritidis từ động vật nhiễm vào thực phẩm thì gọi là bệnh nhiễm khuẩn thức ăn do vi khuẩn Salmonella hoặc bệnh Salmonella.
+Biến chứng
+Có thể nói đây là một trong các bệnh có nhiều biến chứng nguy hiểm nhất trong số các bệnh lây truyền qua đường tiêu hóa. Biến chứng có thể do nhiều nguyên nhân: do độc tố, do bội nhiễm vi khuẩn khác, do tai biến của kháng sinh. Hiện nay mặc dù đã có kháng sinh tốt, tỷ lệ biến chứng đã giảm nhưng vẫn có thể gặp các biến chứng sau: Xuất huyết tiêu hóa: gặp khoảng 15%, tùy mức độ mất máu mà có các biểu hiện khác nhau như vã mồ hôi, da xanh niêm mạc nhợt, đi ngoài phân đen, mạch nhanh nhỏ, huyết áp tụt; thủng ruột: gặp khoảng 1-3%; viêm cơ tim; trụy tim mạch; viêm túi mật, viêm gan; viêm não màng não, viêm cầu thận, viêm đài bể thận.
+Điều trị và dự phòng
+Kháng sinh là thuốc đầu tay, hiện nay có rất nhiều kháng sinh có thể lựa chọn với ưu tiên là các thuốc thuộc nhóm quinolon thế hệ hai, ngoài ra có thể sử dụng các nhóm thuốc cũ như cefalosporin, choloramphenicol. Tùy theo tình trạng, tùy theo mức độ và tùy theo điều kiện thực tế mà bác sĩ sẽ cho chỉ định điều trị hợp lý.
+Bên cạnh dùng kháng sinh thì các vấn đề khác cũng cần được chú ý như bù nước và điện giải, trợ tim mạch, sinh tố an thần.
+Để dự phòng cần cải thiện tình trạng vệ sinh môi trường, kiểm soát nước, chất thải, cống rãnh, khử trùng nguồn nước; cách ly và xử lý chất thải của bệnh nhân, kiểm soát chặt chẽ và điều trị người lành mang trùng. Trong vùng có nhiều người mắc bệnh hoặc vùng bị lũ lụt, ô nhiễm môi trường nặng cần được sát khuẩn bằng dung dịch cloramin B, vôi bột. Ở những nơi bệnh thương hàn thường xuyên xảy ra nên tiêm phòng bằng vaccin, tùy từng hiệu lực của từng loại vaccin có thể tiêm nhắc lại sau 2-5 năm.
+ThS. Nguyễn Bạch Đằng

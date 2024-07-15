@@ -1,0 +1,81 @@
+# doc_id = health_disease_552
+# url = https://suckhoedoisong.vn/cac-bien-phap-dieu-tri-suy-than-169240517202249685.htm
+# date = 19-05-2024
+Các biện pháp điều trị suy thận
+1.
+Điều trịsuy thận
+cấp
+- Mục tiêu điều trị
+suy thận
+cấp:
+Bảo vệ tính mạng bệnh nhân, phục hồi thận, giảm thiểu nguy cơ diễn tiến thành bệnh thận mạn. Do đó bệnh nhân suy thận cần đến bệnh viện để được thăm khám và điều trị sớm.
+- Nguyên tắc điều trị chung
+: Nhanh chóng loại bỏ các nguyên nhân gây suy thận, phục hồi dòng nước tiểu và điều chỉnh các rối loạn tuần hoàn và rối loạn nội môi do suy thận gây ra. Ngoài ra, cần điều trị các triệu chứng, kiểm soát chế độ ăn, cân bằng nước điện giải theo từng giai đoạn của bệnh. Khi cần thiết có thể cần chỉ định lọc máu ngoài thận.
+Điều trị suy thận cấp tùy theo nguyên nhân và từng giai đoạn bệnh:
+Điều trị suy thận cấp do nguyên nhân các bệnh ngoài thận gây ra
+Có thể chia ra các nhóm để điều trị như sau:
+- Giảm thể tích tuần hoàn:
+Điều trị nguyên nhân gây giảm thể tích tuần hoàn. Trường hợp bệnh nhân không có choáng mất máu, sẽ được dùng dung dịch tinh thể và đánh giá hiệu quả theo các chỉ số quy định.
+- Giảm cung lượng tim:
+Nếu suy thận cấp do giảm cung lượng tim, cần điều trị bắt đầu từ các bệnh nền như suy tim ứ huyết, chèn ép tim cấp, nhồi máu cơ tim cấp, thuyên tắc động mạch phổi…
+- Giảm kháng mạch hệ thống:
+Tiến hành điều trị nhiễm trùng huyết, xơ gan mất bù… để khôi phục sức khỏe cho thận.
+- Điều trị suy thận cấp tại thận (hoại tử ống thận cấp):
+Đây là do có tình trạng thiếu máu đến toàn thận hay cục bộ. Nguyên nhân thường do suy thận cấp trước thận nặng và kéo dài. Ngoài ra, còn do sử dụng một số thuốc như: Kháng sinh nhóm aminoglycosides, amphotericine B, pentamidine, nhiễm độc kim loại nặng, cyclosporine, thuốc cản quang tiêm tĩnh mạch… hoặc do các sắc tố gây độc ống thận, viêm thận mô kẽ dị ứng…
+Nếu do nguyên nhân độc chất, người bệnh được chỉ định ngừng ngay hoặc giảm liều với các thuốc không thể ngừng đột ngột. Nếu do thiếu máu thì cần bù hoàn dịch, máu, điện giải để cải thiện tưới máu thận. Điều trị bằng thuốc lợi tiểu, dopamine liều thấp, fenoldopam…
+Hoại tử ống thận cấp giai đoạn thiểu niệu – vô niệu cần điều trị để giải quyết các hậu quả và biến chứng của suy thận cấp. Chú trọng cân bằng nước - điện giải, kiềm toan và biến dưỡng.
+Suy thận là tình trạng suy giảm hoặc mất chức năng tạm thời của cả hai thận.
+Điều trị suy thận cấp theo từng giai đoạn
+- Giai đoạn tấn công của tác nhân gây bệnh:
+Nhận biết giai đoạn này có vai trò rất quan trọng trong điều trị. Nếu được phát hiện sớm và điều trị kịp thời bệnh sẽ không diễn biến qua giai đoạn nặng. Việcđiều trị
+suy thận cấp
+sớm sẽ thuận lợi hơn rất nhiều. Ngoài điều trị nguyên nhân, tiến hành các bước điều trị:
++ Bù máu bù dịch để nâng huyết áp. Khi đã bù đủ dịch nhưng huyết áp tâm thu chưa đạt đến 90mmHg thì cần nâng huyết áp bằng cách thuốc vận mạch như dopamine.
++ Sử dụng các nhóm
+kháng sinh
+ít độc với thận để ngăn ngừa nhiễm khuẩn.
++ Theo dõi sát tình trạng thiểu niệu, vô niệu của người bệnh.
+- Điều trị suy thận cấp giai đoạn thiểu niệu, vô niệu:
+Khi bệnh tiến triển đến giai đoạn này sẽ xuất hiện rầm rộ các triệu chứng nặng và các biến chứng có thể gây tử vong cho người bệnh. Việcđiều trị cần khẩn trương, theo dõi tình trạng người bệnh chặt chẽ. Điều trị cần đặc biệt chú trọng đến các yếu tố:
++ Giữ cân bằng nước, điện giải: Ở bệnh nhân vô niệu hoặc thiểu niệu nhưng có phù, phải đảm bảo lượng nước vào cơ thể ít hơn lượng nước ra. Trường hợp suy thận cấp trước thận, cần bù đủ thể tích tuần hoàn. Khi chưa bù đủ khối lượng tuần hoàn thì không dùng thuốc lợi tiểu.
++ Gây bài niệu bằng thuốc lợi tiểu như furosemid, manitol khi bệnh nhân không còn dấu hiệu mất nước; huyết áp tâm thu trên 90mmHg; áp lực tĩnh mạch trung tâm từ 8-10cm H2O.
+- Dự phòng và điều trị tăng kali máu:
+Không dùng dịch truyền, thức ăn, các thuốc có nhiều kali. Trường hợp bệnh nhân có chảy máu đường tiêu hóa, cần loại máu nhanh khỏi đường tiêu hóa. Đồng thời phải loại bỏ các ổ hoại tử, nhiễm khuẩn (nếu có). Trường hợp kali máu từ 6-6.5mmol/l phải dùng thuốc để làm giảm kali. Các thuốc có thể sử dụng như canxi gluconat, canxi clorua, glucose 20% kết hợp insulin, natribicarbonat... Trường hợp kali máu trên 6.5mmol/l hoặc gây biến đổi nhịp tim cần chỉ định lọc máu bằng lọc màng bụng hoặc chạy thận nhân tạo.
+Hạn chế tăng nitơphiprotein bằng chế độ ăn giảm đạm và loại bỏ các ổ nhiễm khuẩn. Điều trị rối loạn điện giải, chống toan máu, các triệu chứng và các biến chứng như tăng huyết áp, suy tim (nếu có).
++ Điều trị suy thận cấp giai đoạn đái trở lại:
+Trong giai đoạn này, bệnh nhân cần được theo dõi sát điện giải máu, đo chính xác lượng nước tiểu của trong 24 giờ. Nếu lượng nước tiểu ít hơn 3l trong 24 giờ và bệnh nhân không có điện giải nặng, cho bệnh nhân uống dung dịch oresol. Nếu lượng nước tiểu lớn hơn 3l trong 24 giờ, bù dịch và điện giải cho bệnh nhân bằng đường truyền tĩnh mạch.
++ Điều trị suy thận trong giai đoạn phục hồi chức năng:
+Giai đoạn này điều trị chủ yếu là bù nước, điện giải cho người bệnh bằng các dung dịch đẳng trương như NaCl 0.9%, Glucose 5%, Ringer lactat. Dự phòng tăng kali, urê máu trở lại bằng thuốc và chế độ ăn. Bệnh nhân ăn đủ đạm và vitamin khi nồng độ urê máu về bình thường. Tiếp tụcđiều trị suy thận cấpchính và các biến chứng khác nếu có.
+Người bệnh suy thận nên ăn gì và kiêng gì để bảo vệ chức năng thận?
+ĐỌC NGAY
+Lọc máu trong suy thận cấp
+Chạy
+thận nhân tạo
+hay lọc máu màng bụng đều có hiệu quả như nhau trong điều trị suy thận cấp tính. Tuy nhiên, chạy thận nhân tạo sẽ được chọn lựa trong các trường hợp khẩn cấp, khi bệnh nhân bị phù phổi cấp, tăng kali máu, rung thất….
+- Chạy thận nhân tạo:
+Là phương pháp dùng máy đặt bên ngoài cơ thể tạo ra một vòng tuần hoàn dẫn máu chứa nhiều chất điện giải, chất thải qua bộ lọc rồi trả máu sạch trở lại cho người bệnh.
+- Lọc màng bụng:
+Hay còn gọi là thẩm phân phúc mạc. Phương pháp lọc màng bụng là dùng chính niêm mạc vùng bụng của người bệnh để đào thải chất độc ra khỏi máu.
+Phòng ngừa suy thận
+cấp
+Suy thận cấp thường khó phòng ngừa, Nhưng có thể giảm nguy cơ mắc bệnh bằng cách:
+- Thận trọng trong việc dùng thuốc, nhất là các thuốc có thể gây nhiễm độc thận.
+- Chỉ dùng thuốc khi có bệnh theo đơn sau khi bác sĩ khám bệnh.
+- Tuân thủ hướng dẫn đối với thuốc như aspirin, ibuprofen, aproxen sodium, acetaminophen... Dùng quá nhiều những loại thuốc này có thể làm tăng nguy cơ tổn thương thận, nhất là với những người có bệnh thận, đái tháo đường hoặc tang huyết áp.
+- Không tự ý dùng các thực phẩm chức năng.
+2.
+Điều trị suy thận mạn
+Khi suy thận giai đoạn mạn, tùy theo tình trạng sức khỏe của bệnh nhân, giai đoạn bệnh, bác sĩ sẽ chọn lựa những phương pháp điều trị thích hợp nhất. Tuy nhiên cần đảm bảo các nguyên tắc:
+- Điều trị nguyên nhân kết hợp điều trị triệu chứng.
+- Kiểm soát, điều trị huyết áp.
+- Kiểm soát được lượng cholesterol trong quá trình điều trị để hạn chế được những nguy cơ biến chứng tim mạch sau suy thận mạn.
+- Điều trị và hạn chế biến chứng sau suy thận mạn như ứ dịch, tăng kali máu, giảm protein...
+- Xây dựng chế độ ăn phù hợp theo giai đoạn suy thận.
+Trường hợp suy thận giai đoạn cuối có thể phải lựa chọn phương pháp điều trị như: Cấy ghép thận, lọc màng bụng hoặc chạy thận nhân tạo.
+Bệnh nhân chỉ dùng thuốc theo hướng dẫn của bác sĩ điều trị.
+3. Lưu ý khi điều trị suy thận
+Nhiều bệnh nhân mắc phải sai lầm khi dùng thuốc chữa suy thận. Thực tế lâm sàng gặp không ít các trường hợp uống không theo kê đơn của bác sĩ; tự ý tăng liều; bỏ điều trị theo đơn và chuyển sang dung thuốc đông y, bài thuốc dân gian… Khi tùy ý điều trị sẽ gây ra những hậu quả nghiêm trọng như tăng huyết áp, phù phổi cấp, bệnh tim mạch, hoặc tăng kali máu đe dọa đến tính mạng.
+Do đó việc điều trị bệnh cần kiên trì tuân theo phác đồ của bác sĩ chuyên khoa. Người bệnh không nên tự ý dùng thuốc hoặc tự chữa trị bằng các phương pháp chưa được kiểm chứng.
+Quá trình điều trị nếu muốn bổ sung bất kỳ loại thực phẩm chức năng hoặc thuốc nào, cần trao đổi với bác sĩ điều trị.
+Mời độc giả xem thêm video:
+Suy thận cấp do uống thuốc kháng sinh không theo liều lượng được khuyến cáo | SKĐS

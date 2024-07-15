@@ -1,0 +1,29 @@
+# doc_id = health_disease_1616
+# url = https://suckhoedoisong.vn/viem-quanh-khop-vai-dung-thuoc-the-nao-169157676.htm
+# date = 20-05-2019
+Viêm quanh khớp vai, dùng thuốc thế nào?
+Khi bị VQKV người bệnh thường phải dùng những thuốc gì, cần lưu ý gì trong quá trình sử dụng các thuốc này?...
+Khớp vai là một trong những khớp lớn của cơ thể, có biên độ vận động lớn. Viêm quanh khớp vai là một thuật ngữ chỉ tất cả các trường hợp đau và hạn chế vận động khớp vai do các bệnh lý của các cấu trúc tổ chức phần mềm quanh khớp vai bao gồm dây chằng, gân cơ, bao thanh mạc và không bao gồm các bệnh lý có tổn thương của xương, sụn khớp, màng hoạt dịch như viêm khớp nhiễm khuẩn, viêm khớp dạng thấp, chấn thương gãy xương, trật khớp, đứt gân cơ... VQKV tuy không ảnh hưởng trực tiếp đến tính mạng nhưng gây đau đớn dai dẳng, hạn chế vận động khớp, ảnh hưởng nhiều đến lao động, sinh hoạt của người bệnh.
+Nguyên nhân của VQKV chưa được biết rõ nhưng nhiều tác giả cho rằng nguyên nhân chính là do quá trình thoái hóa gân cơ dây chằng của ổ khớp và các động tác gây đè ép giữa các mỏm xương, dây chằng và gân cơ gây nên. Các yếu tố nguy cơ được biết bao gồm: Tuổi (thường gặp ở người trung và cao tuổi); giới (nữ gặp nhiều hơn nam); tiền sử chấn thương, bất động khớp vai trong thời gian dài; những người có các hoạt động nghề nghiệp đặc thù, vận động viên, người tập thể thao phải vận động khớp vai nhiều; thứ phát ở những bệnh nhân bị đột quỵ não, đái tháo đường, bệnh lý rễ thần kinh cổ, một số bệnh mạn tính (viêm khớp dạng thấp, cường giáp hoặc suy giáp, bệnh mạn tính của phổi và lồng ngực); những trường hợp không rõ yếu tố nguy cơ được cho là có thể do rối loạn miễn dịch, nội tiết, rối loạn thần kinh sinh dưỡng vùng khớp vai, VQKV do lạnh...
+Khi bị viêm quanh khớp vai người bệnh cần chú ý dùng thuốc theo chỉ dẫn của bác sĩ.
+Các thuốc dùng trong điều trị viêm quanh khớp vai
+- T
+huốc giảm đau thông thường:
+Acetaminofen (paracetamol) thường sử dụng trong những trường hợp đau nhẹ. Dùng đơn độc hiệu quả thường không cao và chỉ có tác dụng giảm đau trong thời gian ngắn. Paracetamol phối hợp với codein và paracetamol phối hợp với tramadol để điều trị các cơn đau từ trung bình đến nặng hoặc trong trường hợp dùng các thuốc giảm đau thông thường không hiệu quả.
+Các thuốc này cần thận trọng đối với những bệnh nhân suy gan, suy thận. Ngoài ra, thuốc giảm đau phối hợp cũng có nhiều tác dụng phụ khác như gây chóng mặt, buồn nôn, khô miệng... và nhiều chống chỉ định. Người bệnh cần đọc kỹ hướng dấn sử dụng trước khi dùng để xem mình có nằm trong mục “chống chỉ định” của thuốc không.
+-
+Nhóm các thuốc chống viêm không steroid (NSAIDs):
+Gồm nhóm các thuốc chống viêm ức chế COX-1 như ibuprofen, diclofenac... và nhóm ức chế COX-2 như celecoxib, enterocoxib... có tác dụng chống viêm và giảm đau. Nhóm COX-1 có tác dụng phụ lên hệ tiêu hóa, nhóm này không dùng cho bệnh nhân hen phế quản; nhóm COX-2 đặc biệt là enterocoxib hay gây giữ nước, có dụng phụ đối với hệ tim mạch, huyết áp... Do đó, các thuốc này cần cân nhắc đối với những người có tiền sử viêm loét tiêu hóa, tiền sử tăng huyết áp, bệnh lý tim mạch.
+Các thuốc chống viêm không steroid có thể dùng đơn độc hoặc phối hợp với các nhóm thuốc giảm đau thông thường, giảm đau phối hợp và thuốc giãn cơ, nhưng về nguyên tắc không được đồng thời phối hợp hai loại thuốc chống viêm không steroid vì sẽ chỉ làm tăng tác dụng phụ mà không tăng hiệu quả điều trị.
+-
+Nhóm corticoid:
+Trong điều trị VQKV thường ít khi dùng các thuốc nhóm này đường toàn thân mà chủ yếu dùng tại chỗ như tiêm bao gân, tiêm điểm bám gân và tiêm nội khớp. Đối với những trường hợp VQKV thể thông thường hiệu quả thường rất tốt, tuy nhiên với thể đông cứng hiệu quả còn hạn chế, khi đó các bác sĩ có thể cân nhắc tiêm nong khớp. Việc tiêm corticoid điều trị phải được chỉ định và thực hiện bởi các bác sĩ chuyên khoa cơ xương khớp với những nguyên tắc nghiêm ngặt cần tuân thủ để tránh những nguy cơ, biến chứng không mong muốn.
+-
+Nhóm thuốc giãn cơ:
+thiocolchicoside, eperisone, tolperisone... thường được phối hợp với các nhóm thuốc trên để tăng hiệu quả điều trị giảm đau và cải thiện tầm vận động khớp.
+-
+Nhóm các thuốc dùng ngoài:
+Gồm các thuốc giảm đau thông thường có menthol (bạc hà), các thuốc có các thành phần chính là các thuốc kháng viêm như diclophenac, ketoprofen... dùng để bôi xoa tại vùng đau, được dùng phối hợp với các nhóm thuốc uống trên.
+Điều trị phối hợp
+Ngoài việc dùng thuốc, các phương pháp vật lý trị liệu, y học cổ truyền cũng được dùng phối hợp nhằm tăng cường hiệu quả điều trị giảm đau, giãn cơ và đặc biệt là phục hồi tầm vận động khớp. Bệnh nhân cần phối hợp với bác sĩ, tự tập các bài tập đơn giản các tư thế vận động khớp vai giúp nhanh chóng phục hồi khả năng vận động, phòng chống tái phát dính khớp.
+Để phòng bệnh VQKV cần chú ý không nên mang vác nặng, sai tư thế. Khi chơi các môn thể thao như bóng bàn, cầu lông, bóng chuyền cần thận trọng, khởi động kỹ để tránh chấn thương. Nếu đã bị VQKV cần vận động và tập luyện theo hướng dẫn của bác sĩ, tránh tập sai khiến bệnh càng nặng hơn.

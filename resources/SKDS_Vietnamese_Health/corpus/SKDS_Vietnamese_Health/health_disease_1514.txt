@@ -1,0 +1,51 @@
+# doc_id = health_disease_1514
+# url = https://suckhoedoisong.vn/xac-dinh-nhan-to-ngan-ngua-soc-insulin-o-benh-nhan-dai-thao-duong-169230425130545935.htm
+# date = 02-05-2023
+Xác định nhân tố ngăn ngừa “sốc” insulin
+1. Thiếu hay thừa
+insulin
+đều gây nguy hiểm
+Insulin hiện là phương pháp điều trị thiết yếu cho bệnh
+đái tháo đường
+. Trải qua hơn 100 năm nghiên cứu, kể từ khi insulin ra đời, các nhà khoa học đã nâng cao rất nhiều hiểu biết về y học và sinh hóa về cách thức hoạt động của insulin và điều gì sẽ xảy ra khi thiếu insulin, nhưng ngược lại, cách ngăn chặn phản ứng quá mức với insulin có khả năng gây tử vong, vẫn còn là một bí ẩn.
+Trong nghiên cứu mới, một nhóm các nhà khoa học tại Trường Đại học Y California San Diego, đã mô tả một nhân tố chủ chốt trong cơ chế phòng vệ, giúp bảo vệ khỏi phản ứng quá mức insulin trong cơ thể.
+Tác giả nghiên cứu, GS.TS Michael Karin cho biết: "Mặc dù insulin là một trong những loại hormone thiết yếu nhất, nếu thiếu insulin có thể dẫn đến tử vong, nhưng quá nhiều insulin cũng có thể gây tử vong. Trong khi cơ thể chúng ta tinh chỉnh quá trình sản xuất insulin, những bệnh nhân được điều trị bằng insulin hoặc thuốc kích thích tiết insulin thường bị
+hạ đường huyết
+, một tình trạng nếu không được phát hiện và điều trị có thể dẫn đến co giật, hôn mê và thậm chí tử vong, được gọi chung là tình trạng sốc insulin".
+Insulin hiện được sử dụng phổ biến để điều trị bệnh đái tháo đường.
+2. Phát triển một loại peptide không gây 'sốc' insulin
+Trong nghiên cứu này, các nhà khoa học đã phát hiện một van bảo vệ hay van an toàn tự nhiên của cơ thể, sẽ giúp giảm nguy cơ sốc insulin từ một loại enzyme chuyển hóa có tên là fructose-1,6, bisphosphate phosphatase hoặc FBP1.
+FBP1 hoạt động để kiểm soát quá trình tạo đường, một quá trình trong đó gan tổng hợp glucose trong khi ngủ và tiết ra để duy trì nguồn cung cấp glucose ổn định trong máu.
+Những đứa trẻ sinh ra với chứng rối loạn di truyền hiếm gặp, trong đó chúng không sản xuất đủ FBP1 cũng có thể khỏe mạnh và sống lâu. Nhưng trong những trường hợp khác, khi cơ thể thiếu
+glucose
+hoặc carbohydrate, sự thiếu hụt FBP1 có thể dẫn đến hạ đường huyết nghiêm trọng. Nếu không truyền glucose, co giật, hôn mê và có thể tử vong có thể xảy ra.
+Sự thiếu hụt FPB1 kết hợp với tình trạng đói glucose tạo ra các tác dụng phụ như gan to, nhiễm mỡ,
+tổn thương gan
+và tăng lipid hoặc chất béo trong máu.
+TIN LIÊN QUAN
+Insulin là gì? Hướng sử dụng insulin cho người bệnh tiểu đường
+Để hiểu rõ hơn về vai trò của FBP1, các nhà nghiên cứu đã tạo ra một mô hình chuột bị thiếu hụt FBP1 đặc hiệu ở gan, mô phỏng chính xác tình trạng của con người.
+Giống như những đứa trẻ bị thiếu FBP1, những con chuột này có vẻ bình thường và khỏe mạnh cho đến khi nhịn ăn, điều này nhanh chóng dẫn đến hạ đường huyết nghiêm trọng và các bất thường về gan và tăng lipid máu được mô tả ở trên.
+Các nhà nghiên cứu đã phát hiện ra rằng FBP1 có nhiều vai trò. Ngoài việc đóng vai trò chuyển đổi fructose thành glucose, FBP1 còn có một chức năng quan trọng thứ hai là ức chế protein kinase AKT, đây là đường dẫn chính của hoạt động insulin.
+Về cơ bản, FBP1 kiểm soát AKT và bảo vệ chống lại phản ứng quá mức với insulin, sốc hạ đường huyết và bệnh
+gan nhiễm mỡ
+cấp tính. Do vậy, họ đã phát triển một peptide (một chuỗi axit amin) có nguồn gốc từ FBP1 làm gián đoạn sự liên kết của FBP1 với AKT và một loại protein khác làm bất hoạt AKT.
+Peptide này hoạt động giống như một chất bắt chước insulin, kích hoạt AKT, khi được tiêm vào những con chuột đã bị kháng insulin và khôi phục khả năng kiểm soát đường huyết bình thường. Các nhà nghiên cứu hy vọng peptide này sẽ là một chất thay thế hữu ích về mặt lâm sàng cho insulin bởi nó không có khả năng gây sốc insulin.
+Mời xem thêm video đang được quan tâm:
+Vitamin E có an toàn với phụ nữ mang thai không-
+Duy Đăng
+(Theo Eurekalert)
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

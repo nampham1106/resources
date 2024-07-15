@@ -1,0 +1,37 @@
+# doc_id = health_disease_959
+# url = https://suckhoedoisong.vn/duong-lay-benh-bach-hau-va-bieu-hien-can-biet-169230922083301889.htm
+# date = 22-09-2023
+Đường lây bệnh bạch hầu và biểu hiện cần biết
+Hiện nay,
+bệnh bạch hầu
+xuất hiện ở Điện Biên với 3 ổ dịch được ghi nhận (6 ca mắc, trong đó có 1 trường hợp tử vong). Bệnh bạch hầu thuộc nhóm B (là các bệnh truyền nhiễm nguy hiểm có khả năng lây truyền nhanh và có thể gây tử vong) trong Luật phòng, chống bệnh truyền nhiễm của nước ta.
+Bệnh bạch hầu là một bệnh truyền nhiễm cấp tính, có tính chất gây dịch, chủ yếu lây truyền theo đường hô hấp, do trực khuẩn bạch hầu (Corynebacterium diphtheriae) gây nên. Bệnh có thể gặp ở mọi lứa tuổi nhưng 70% là ở trẻ dưới 15 tuổi và chưa tiêm vaccine. Ngay cả khi được điều trị, tỷ lệ tử vong của bệnh cũng lên tới 5-10%.
+Tại Việt Nam, nhờ có chiến lược tiêm chủng vaccine Bạch hầu – Ho gà – Uốn ván (DPT) trong chương trình Tiêm chủng mở rộng từ năm 1981 mà tỷ lệ nhiễm bạch hầu đã giảm mạnh vào những năm 2010. Tuy vậy, từ năm 2013, các đợt bùng phát dịch lẻ tẻ đã xảy ra, chủ yếu ở các tỉnh miền Trung và Tây Nguyên và gần đây là các tỉnh phía Bắc như Hà Giang, Điện Biên, Thái Nguyên.
+1. Tác nhân gây bệnh bạch hầu
+Bệnh bạch hầu do vi khuẩn Corynebacterium diphtheriae gây ra. C. diphtheriae là trực khuẩn hình que hơi phình một đầu hình chùy, Gram dương, hiếu khí, không sinh nha bào, không có vỏ, không di động.
+Vi khuẩn gây bệnh chủ yếu bằng ngoại độc tố (exotoxin) dẫn đến phù nề, sau đó hoại tử và loét niêm mạc, tạo ra các giả mạc bám chặt vào niêm mạc.
+2. Bệnh bạch hầu lây qua đường nào?
+Nguồn gây bệnh bạch hầu là các bệnh nhân nhiễm bệnh hoặc người lành mang vi khuẩn nhưng không biểu hiện bệnh. Bệnh chủ yếu lây qua đường hô hấp khi tiếp xúc với giọt bắn của người nhiễm bệnh lúc ho, hắt hơi.
+Ngoài ra, bệnh có thể lây qua con đường gián tiếp khi tiếp xúc với đồ vật bị nhiễm dịch mũi hầu từ người bệnh. Bệnh cũng có thể lây nhiễm khi tiếp xúc với vùng da tổn thương do bạch hầu.
+3. Biểu hiện bệnh bạch hầu
+Thể bệnh hay gặp nhất của bệnh bạch hầu là ở đường hô hấp (mũi, họng, thanh quản, khí phế quản), trong đó 70% là bạch hầu họng. Ngoài ra, các vị trí khác có thể nhiễm bệnh như bạch hầu da, bạch hầu mắt…
+Với thể bạch hầu họng, sau thời gian ủ bệnh từ 2-5 ngày, bệnh nhân bắt đầu có các triệu chứng như sốt nhẹ 37,5 độ C - 38 độ C, đau họng, khó chịu, sổ mũi có thể lẫn máu; khám họng có thể thấy họng hơi đỏ, amydan có điểm trắng mờ; sờ thấy hạch cổ nhỏ, di động, không đau.
+Sau khoảng 3 ngày, bệnh bước vào giai đoạn toàn phát với các triệu chứng điển hình nhất: sốt tăng 38 độ C - 38,5 độ C, nuốt đau, da xanh tái, mệt nhiều, sổ mũi nhiều, nước mũi trắng hoặc lẫn mủ. Khám họng thấy giả mạc lan tràn ở một bên hoặc 2 bên amydan, có thể lan trùm cả lưỡi gà và màn hầu; hạch vùng cổ sưng đau, phù nề, khi có dấu hiệu cổ bạnh (bull neck) là dấu hiệu nặng.
+Giả mạc lan rộng có thể gây thở rít, tắc nghẽn đường thở và suy hô hấp, thậm chí tử vong nếu không được xử trí kịp thời. Nếu được chẩn đoán và điều trị sớm, giả mạc hết nhanh (1-3 ngày), bệnh nhân hết sốt và hồi phục dần sau 2-3 tuần.
+Bệnh bạch hầu có thể gây ra nhiều biến chứng nguy hiểm, gọi là bạch hầu ác tính, nếu không được điều trị kịp thời. Các biến chứng thường gặp nhất là biến chứng tim (thường là viêm cơ tim và rối loạn dẫn truyền trong tim) và thần kinh (gây liệt). Ngoài ra có thể gặp biến chứng trên thận, gan, tuyến thượng thận…
+Hình ảnh mô tả trực khuẩn bạch hầu. (Nguồn: CDC)
+Trực khuẩn bạch hầu nhuộm bằng kỹ thuật xanh methylene. (Nguồn: CDC)
+4. Điều trị bệnh bạch hầu
+Bệnh bạch hầu cần được phát hiện và điều trị sớm để tránh gây biến chứng và dẫn đến tử vong. Bộ Y tế đã ban hành "Hướng dẫn chẩn đoán, điều trị bệnh Bạch hầu" theo quyết định số 2957/QĐ-BYT ngày 10/07/2020.
+Liệu pháp điều trị chính của bệnh bạch hầu là huyết thanh kháng độc tố bạch hầu (SAD), cần được sử dụng càng sớm càng tốt để trung hòa độc tố bạch hầu còn lưu hành trong máu (hiệu quả nhất là trong vòng 48 giờ đầu).
+Bên cạnh đó, kháng sinh (thường là Penicillin và Erythromycin) cũng được sử dụng để ngăn chặn sự phát triển và sinh độc tố của vi khuẩn và làm giảm sự lây nhiễm bệnh.
+Các biện pháp điều trị phối hợp khác cũng được sử dụng như corticosteroid, quản lý đường thở, quản lý tim mạch và chế độ dinh dưỡng.
+5. Phòng bệnh bạch hầu
+Tất cả người bệnh nghi bạch hầu phải được vào viện để cách ly, theo dõi, chẩn đoán và điều trị. Nhà ở của người bệnh, dụng cụ trong phòng, đồ dùng, quần áo của người bệnh phải được tẩy uế và sát khuẩn.
+Thực hiện rửa tay đúng quy cách bằng xà phòng hoặc dung dịch sát khuẩn.
+Người tiếp xúc với bệnh nhân bạch hầu cần được sử dụng kháng sinh dự phòng.
+Vaccine bạch hầu có vai trò rất quan trọng trong việc bảo vệ cơ thể tránh nhiễm bệnh và làm giảm tỷ lệ mắc bệnh trong quần thể dân số nói chung. Do đó, trẻ em cần được tiêm chủng đầy đủ vaccine (Bạch hầu – Ho gà – Uốn ván, DPT) theo chương trình tiêm chủng. Người lớn nên tiêm nhắc lại vaccine bạch hầu mỗi 10 năm để củng cố khả năng miễn dịch của cơ thể.
+Bệnh bạch hầu quay trở lại, những hệ lụy khi trẻ không được tiêm vaccine đầy đủ
+SKĐS - Bệnh bạch hầu đang quay lại một số tỉnh như Điện Biên, Hà Giang, đến nay đã ghi nhận 3 ca tử vong. Như vậy có thể thấy những bệnh dịch trước đây tưởng như đã có thể ngăn ngừa bằng tiêm chủng thì nay đang trở lại. Một trong những hệ lụy cần phải nói đến là việc anti vaccine.
+Xem thêm video đang được quan tâm:
+Bệnh nhân đái tháo đường có cần dùng thuốc bổ gan? | SKĐS

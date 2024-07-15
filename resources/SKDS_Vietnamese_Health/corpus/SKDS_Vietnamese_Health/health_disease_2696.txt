@@ -1,0 +1,62 @@
+# doc_id = health_disease_2696
+# url = https://suckhoedoisong.vn/dieu-tri-ung-thu-phoi-khong-te-bao-nho-bang-lieu-phap-mien-dich-16922122911455582.htm
+# date = 29-12-2022
+Điều trị ung thư phổi không tế bào nhỏ bằng liệu pháp miễn dịch
+Ung thư phổi
+là một trong những loại ung thư thường gặp nhất và có tỉ lệ tử vong cao. Ung thư phổi được chia thành 2 loại chính là ung thư phổi tế bào nhỏ (10-15%) và ung thư phổi không tế bào nhỏ (80 – 85%).
+Liệu pháp miễn dịch là gì?
+Liệu pháp miễn dịch
+là phương pháp dùng các thuốc nhằm giúp
+hệ miễn dịch của cơ thể
+chống lại tế bào ung thư.
+Thông thường, hệ thống miễn dịch tự nhiên của cơ thể có khả năng nhận biết các tế bào bất thường như tế bào u, sau đó tiêu diệt và ngăn chặn sự phát triển của các tế bào này. Tuy nhiên, ở cơ thể người bệnh ung thư,
+tế bào ung thư
+tìm cách lẩn trốn sự nhận diện này bằng nhiều cơ chế khác nhau khiến cho hệ miễn dịch bị “vô hiệu hóa”. Dựa trên cơ chế này, các thuốc miễn dịch được thiết kế nhằm tăng khả năng nhận diện của tế bào miễn dịch đối với các tế bào u và từ đó tiêu diệt chúng.
+Hình ảnh cắt lớp bệnh nhân ung thư phổi trước (trái) và sau (phải) điều trị bằng liệu pháp miễn dịch.
+Một số loại liệu pháp miễn dịch trong điều trị ung thư phổi bao gồm:
+Các kháng thể đơn dòng
+Liệu pháp miễn dịch không đặc hiệu
+Liệu pháp tế bào T
+Vaccine chống ung thư
+Kháng thể đơn dòng
+Khi
+hệ thống miễn dịch của cơ thể
+phát hiện ra một cái gì đó có hại, nó tạo ra kháng thể. Các kháng thể là các protein chống lại nhiễm trùng.
+Các kháng thể đơn dòng là một loại trị liệu đặc biệt được tạo ra trong phòng thí nghiệm. Chúng có thể được sử dụng theo nhiều cách khác nhau. Ví dụ, các kháng thể đơn dòng có thể được sử dụng như là một liệu pháp nhắm đích để chặn một protein bất thường trong tế bào ung thư.
+Ung thư phổi không tế bào nhỏ chiếm 80 – 85% các trường hợp ung thư phổi
+Các kháng thể đơn dòng cũng có thể được sử dụng như là một liệu pháp miễn dịch. Ví dụ, một số kháng thể đơn dòng gắn với các protein cụ thể trên tế bào ung thư. Điều này đánh dấu các tế bào cho hệ thống miễn dịch của cơ thể để nó có thể nhận ra và phá hủy các tế bào ung thư.
+Các loại kháng thể khác hoạt động bằng cách giải phóng “một cái phanh” hệ thống miễn dịch để nó có thể tiêu diệt các tế bào ung thư. Các nhà nghiên cứu đã xác định được các con đường PD-1 / PD-L1 và CTLA-4 là yếu tố quyết định đến khả năng kiểm soát sự phát triển ung thư của hệ miễn dịch. Những con đường này thường được gọi là "điểm kiểm soát miễn dịch". Nhiều bệnh ung thư sử dụng những con đường này để thoát khỏi hệ thống miễn dịch của cơ thể. Chặn những con đường này với các kháng thể cụ thể gọi là các chất ức chế điểm kiểm soát cho phép hệ thống miễn dịch của cơ thể đáp ứng chống lại bệnh ung thư. Một khi hệ thống miễn dịch có thể nhận ra và
+chống lại bệnh ung thư
+, nó có thể ngăn chặn hoặc
+làm chậm sự phát triển của ung thư
+.
+Các chất ức chế điểm kiểm soát có thể kể đến là Pembrolizumab (Keytruda), Durvalumab (Imfinzi), Atezolizumab (Tecentriq), Nivolumab (Opdivo).
+Cơ chế tác dụng của thuốc ức chế điểm kiểm soát miễn dịch
+Các thử nghiệm lâm sàng về kháng thể đơn dòng đang được tiến hành đối với một số
+loại ung thư
+.
+Tác dụng phụ của điều trị kháng thể đơn dòng phụ thuộc vào mục đích của thuốc. Ví dụ, các phản ứng phụ của các kháng thể đơn dòng được sử dụng cho liệu pháp nhắm đích khác với các phản ứng miễn dịch. Các tác dụng phụ của chất ức chế điểm kiểm soát có thể bao gồm các phản ứng phụ tương tự như phản ứng dị ứng.
+Các liệu pháp miễn dịch không đặc hiệu
+Giống như các kháng thể đơn dòng, các liệu pháp miễn dịch không đặc hiệu cũng giúp hệ miễn dịch tiêu diệt các tế bào ung thư. Hầu hết các liệu pháp miễn dịch không đặc hiệu được dùng sau hoặc cùng lúc với
+phương pháp điều trị ung thư
+khác: như hóa trị hoặc xạ trị. Tuy nhiên, một số liệu pháp miễn dịch không đặc hiệu được coi là phương pháp điều trị ung thư chính.
+Liệu pháp miễn dịch điều trị ung thư giai đoạn cuối
+ĐỌC NGAY
+Hai liệu pháp miễn dịch thông thường không đặc hiệu là:
+-Interferon:
+Interferon giúp hệ miễn dịch chống lại ung thư và có thể làm chậm sự phát triển của tế bào ung thư. Một interferon được tạo ra trong phòng thí nghiệm, được gọi là interferon alpha (Roferon-A [2a], Intron A [2b], Alferon [2a]), là loại interferon phổ biến nhất được sử dụng trong điều trị ung thư. Tác dụng phụ của điều trị bằng interferon có thể bao gồm các triệu chứng giống như cúm, tăng nguy cơ nhiễm trùng, phát ban, và rụng tóc .
+- Interleukins:
+Interleukins giúp hệ miễn dịch tạo ra tế bào tiêu diệt ung thư. Interleukin được làm trong phòng thí nghiệm, được gọi là interleukin-2, IL-2, hoặc aldesleukin (Proleukin), được sử dụng để điều trị ung thư thận và ung thư da, bao gồm u hắc tố. Tác dụng phụ thường gặp của điều trị IL-2 bao gồm tăng cân và hạ huyết áp, các tác dụng này có thể điều trị bằng các thuốc khác. Một số người cũng có thể bị các triệu chứng cúm.
+Liệu pháp tế bào T
+Đối với loại liệu pháp miễn dịch này, một số
+tế bào T
+được lấy ra khỏi máu của bệnh nhân. Sau đó, các tế bào được biến đổi trong phòng thí nghiệm vì vậy chúng có các proteinđặc biệt gọi là thụ thể. Những thụ thể này cho phép những tế bào T nhận diện các tế bào ung thư. Các tế bào T thay đổi được phát triển với số lượng lớn trong phòng thí nghiệm và được đưa trở lại cơ thể bệnh nhân. Khi đó các tế bào T tìm ra và phá hủy các tế bào ung thư. Loại liệu pháp này được gọi là liệu pháp tế bào T (CAR).
+Các nhà nghiên cứu vẫn đang nghiên cứu điều này và những cách khác để điều chỉnh tế bào T để điều trị ung thư. Hiện nay, các phương pháp điều trị này chỉ có trong các thử nghiệm lâm sàng.
+Vaccine điều trị ung thư
+Vaccine là một phương pháp khác được sử dụng để giúp cơ thể chống lại bệnh tật. Một loại vaccine làm bộc lộ một kháng nguyên với hệ miễn dịch. Điều này kích hoạt hệ thống miễn dịch nhận ra và tiêu hủy protein hoặc các chất liên quan. Có 2 loại vaccỉne ung thư: vaccine phòng ngừa và vaccine điều trị.
+Các thuốc và phương pháp điều trị ung thư phổi
+SKĐS – Tại Việt Nam, ung thư phổi là 1 trong 10 loại ung thư thường gặp trên cả hai giới và là nguyên nhân gây tử vong hàng đầu...
+Ung thư phổi - những điều cần biết
+SKĐS - Ung thư phổi là căn bệnh thường gặp, có tỷ lệ tử vong cao. Tuy nhiên những yếu tố nguy cơ gây bệnh ung thư phổi, các triệu chứng sớm của bệnh cũng như các phương pháp xét nghiệm và điều trị ung thư phổi mới nhất hiện nay ... là điều mà rất nhiều người muốn biết.
+Chẩn đoán ung thư phổi bằng cách nào?
+SKĐS - Nhờ sự phát triển của khoa học kỹ thuật, hiện nay có nhiều kỹ thuật và cách thức chẩn đoán bệnh ung thư phổi cũng như chẩn đoán chính xác giai đoạn ung thư phổi, từ đó bác sĩ sẽ lựa chọn phác đồ điều trị tiên tiến, hiệu quả và thích hợp nhất cho các bệnh nhân.

@@ -1,0 +1,8 @@
+# doc_id = health_disease_946
+# url = https://suckhoedoisong.vn/thu-mau-co-the-tien-luong-muc-do-nhiem-trung-huyet-169166516.htm
+# date = 06-12-2019
+Thử máu có thể tiên lượng mức độ nhiễm trùng huyết
+Nhiễm trùng huyết là một tình trạng nghiêm trọng. Nguyên nhân gây nhiễm trùng có thể do vi khuẩn, nấm, virus... Tiến triển của nhiễm trùng huyết thường không thể đoán trước và là một nguyên nhân đáng kể gây tử vong và nhập viện.
+Trong nghiên cứu mới, các nhà khoa học đã đánh giá phiên bản PERSEVERE mới nhất bằng cách sử dụng mẫu máu của 461 trẻ em bị bệnh nghiêm trọng với nhiễm trùng huyết đang được chăm sóc tại một số bệnh viện nhi ở Mỹ và thử nghiệm công cụ này trên mô hình chuột nhiễm trùng huyết. Kết quả cho thấy PERSEVERE dự đoán nhiễm trùng huyết với độ tin cậy cao, cho biết trường hợp nào sẽ bị nhiễm trùng huyết nặng và trường hợp nào thì không.
+Sau đó, các nhà khoa học đã sử dụng 5 dấu ấn sinh học. Mỗi dấu ấn sinh học là một protein “phản ánh sinh học nhiễm trùng huyết” trong mô hình chuột nhiễm trùng huyết. Thử nghiệm đã dự đoán chính xác động vật nào có nguy cơ tử vong cao và thấp. So với những con chuột có nguy cơ thấp, những con có nguy cơ cao có lượng vi khuẩn trong máu lớn hơn nhiều so với những con có nguy cơ thấp và cần liều kháng sinh cao hơn nhiều để khắc phục nhiễm trùng. Tiếp đó, các nhà nghiên cứu đã quay lại các mẫu của trẻ em và xác nhận rằng những người có nguy cơ tử vong cao hơn do nhiễm trùng huyết cũng có lượng vi khuẩn trong máu cao hơn nhiều.
+Theo các nhà khoa học, trọng tâm chính của PERSEVERE không phải là chẩn đoán mà là “làm giàu tiên lượng”. Mục đích của nó là giúp các bác sĩ dự đoán tốt hơn quá trình nhiễm trùng huyết ở các cá nhân và đưa ra phương pháp điều trị phù hợp.

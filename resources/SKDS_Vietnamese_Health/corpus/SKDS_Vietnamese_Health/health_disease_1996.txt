@@ -1,0 +1,79 @@
+# doc_id = health_disease_1996
+# url = https://suckhoedoisong.vn/cac-thuoc-dieu-tri-viem-phoi-169240304225425094.htm
+# date = 19-03-2024
+Các thuốc điều trị bệnh viêm phổi
+1. Các thuốc điều trị viêm phổi
+1.1.Thuốc kháng sinh trong điều trị viêm phổi
+-
+Tác dụng của thuốc
+: Kháng sinh là phương pháp điều trị chính cho bệnh viêm phổi do vi khuẩn. Nên sử dụng kháng sinh theo kinh nghiệm càng sớm càng tốt khi đã xác định là viêm phổi. Thời gian sử dụng kháng sinh từ 7-14 ngày tùy vào tác nhân gây bệnh.
+Một số loại
+thuốc kháng sinh thường dùng trong điều trị viêm phổi
+như: Amoxicilin - acid clavulanic, clarithromycin, erythromycin, clindamycin, azithromycin, cefuroxim, levofloxacin, moxifloxacin, cefotaxim, ceftriaxon, ceftazidim…
+- Tác dụng phụ:
+Một số tác dụng phụ thường gặp của kháng sinh thường gặp như phát ban, ngứa, tiêu chảy, buồn nôn, nôn…
+-
+Chống chỉ định:
+Không dùng thuốc cho người mẫn cảm với thuốc và/hoặc các thành phần của thuốc…
+- Lưu ý khi sử dụng
+:
++ Thời điểm dùng thuốc: Tùy theo từng loại thuốc mà có thể dùng kháng sinh sau khi ăn no hoặc sau bữa ăn nhẹ hoặc trước bữa ăn 30 phút. Nên nuốt nguyên viên thuốc với nước, đặc biệt không nghiền hoặc nhai viên thuốc phóng thích kéo dài (có tác dụng kéo dài).
++ Khoảng cách dùng thuốc: Thuốc kháng sinh sẽ đạt hiệu quả tốt nhất khi nồng độ thuốc trong cơ thể người bệnh được giữ ở mức ổn định. Do vậy, bệnh nhân nên uống thuốc theo khoảng cách đều nhau (thường dùng thuốc mỗi 12 giờ đối với thuốc dùng 2 lần/ngày), dùng thuốc vào các thời điểm nhất định trong ngày.
++ Tiếp tục sử dụng thuốc cho tới khi bác sĩ yêu cầu ngưng thuốc (ngay cả khi các triệu chứng đã biến mất). Ngưng thuốc quá sớm có thể khiến vi khuẩn tiếp tục phát triển và dẫn đến tái nhiễm trùng. Bệnh nhân cũng nên báo cho bác sĩ nếu tình trạng bệnh không cải thiện hoặc càng xấu đi.
+Viêm phổi cần được điều trị kịp thời để tránh những biến chứng nguy hiểm cho người bệnh.
+1.2.Thuốc kháng virus trong điều trị viêm phổi
+- Tác dụng:
+Thuốc kháng virus có thể được chỉ định cho một số trường hợp viêm phổi do virus. Một số thuốc có thể dùng như: Oseltamivir, zanamivir, peramivir, peramivir và ribavirin...
+- Tác dụng phụ:
+Một số tác dụng phụ thường gặp nhất như đau đầu, buồn nôn và nôn. Các triệu chứng này thường xảy ra trong 2 ngày đầu dùng thuốc với ở mức độ không nghiêm trọng.
+- Chống chỉ định:
+Không dùng thuốc cho người suy thận nặng hoặc người bệnh đang chạy thận nhân tạo. Chỉ dùng cho phụ nữ mang thai khi thật cần thiết, có cân nhắc đến nguy cơ ảnh hưởng lên thai.
+Mặc dù viêm phổi do virus đơn thuần xảy ra, nhưng tình trạng bội nhiễm vi khuẩn vẫn phổ biến và cần dùng kháng sinh khi bị bội nhiễm vi khuẩn.
+1.3. Thuốc giảm ho, long đờm
+- Tác dụng:
+Người bệnh viêm phổi có thể được sử dụng
+thuốc giảm ho
+, long đờm để làm dịu cơn ho. Tuy nhiên, ho giúp tống đờm ra khỏi phổi, do đó không nên lạm dụng thuốc giảm do.
+Thuốc chứa thành phần acetylcystein dùng để long đờm ở các bệnh liên quan đến đường hô hấp. Sau khi sử dụng thuốc chứa thành phần này có thể làm loãng đờm nhầy, giúp đờm dễ dàng di chuyển và tống ra ngoài bằng phản xạ ho.
+- Tác dụng phụ
+: Một số tác dụng phụ của thuốc bao gồm buồn nôn, nôn, phù, tim đập nhanh...
+-
+T
+hận trọng khi dùng
+: Thận trọng khi sử dụng thuốc nếu có tiền sử dị ứng thuốc, bởi nó có nguy cơ phát hen. Không được dùng đồng thời các thuốc ho khác hoặc bất cứ thuốc nào làm giảm bài tiết phế quản trong thời gian điều trị bằng acetylcystein.
+Cần tuân thủ tuyệt đối chỉ định của bác sĩ khi dùng thuốc trị viêm phổi.
+1.4. Thuốc hạ sốt giảm đau
+-
+Tác dụng
+: Làm hạ sốt (một triệu chứng của viêm phổi). Với những bệnh nhân viêm phổi kèm sốt có thể sử dụng
+thuốc hạ sốt, giảm đau
+như acetaminophen (paracetamol).
+Paracetamol
+thường được chỉ định điều trị trong các trường hợp đau và sốt từ nhẹ đến vừa.
+Khi cần hạ sốt hoặc giảm đau cho người lớn nếu sử dụng viên nén paracetamol 500mg uống cách nhau tối thiểu 4- 6h. Không sử dụng paracetamol vượt mức liều khuyến cáo.
+-
+Tác dụng phụ
+: Có thể gây dị ứng, viêm gan (nếu dùng liều cao, kéo dài)…
+-
+Chống chỉ định:
+Người mẫn cảm với thuốc, suy gan nặng…
+- Lưu ý khi sử dụng
+: Người bị bệnh gan hoặc có tiền sử nghiện rượu, người bị bệnh thận cần phải tham khảo ý kiến của bác sĩ trước khi sử dụng. Đối với người mang thai, sử dụng paracetamol ở liều thấp nhất có thể, đủ đảm bảo hiệu quả giảm đau cũng như hạ sốt, sử dụng trong thời gian càng ngắn càng tốt.
+Nếu các cơn đau và sốt vẫn không giảm sau khi dùng thuốc hoặc định dùng thuốc thường xuyên, gọi bác sĩ để được tư vấn. Tuyệt đối không tự ý dùng tăng liều thuốc paracetamol. Không nên uống rượu trong thời gian dùng thuốc. Không tự ý sử dụng bất kỳ loại thuốc nào khác để trị ho, cảm lạnh, dị ứng kết hợp với paracetamol khi chưa có chỉ định của bác sĩ hoặc hướng dẫn của dược sĩ.
+2. Những lưu ý khi dùng thuốc điều trị viêm phổi
+Để dùng
+các thuốc trị viêm phổi an toàn
+, mang lại hiệu quả cao trong điều trị, người bệnh cần tuân thủ:
+-
+Sử dụng thuốc theo chỉ định: Sử dụng thuốc đúng liều, đúng thời gian theo đơn thuốc. Khi bệnh thuyên giảm, bệnh nhân vẫn phải dùng thuốc như chỉ định theo đúng số ngày thuốc được cho.
+Điều trị viêm phổi tại nhà và những lưu ý giúp sớm phục hồi sức khỏe
+ĐỌC NGAY
+- Tất cả các thuốc dùng trong giai đoạn thai kỳ đều cần có sự tham vấn với bác sĩ trước khi sử dụng.
+- Dành thời gian nghỉ ngơi dưỡng bệnh, không nên làm việc quá sức, bệnh nhân cần nghỉ ngơi để hồi phục sức khỏe.
+- Uống đủ nước giúp chất đờm (nhầy) trong cổ họng loãng ra, giúp dễ dàng đưa ra ngoài qua phản xạ ho.
+- Giữ răng miệng sạch sẽ tránh để vi khuẩn xâm nhập gây ảnh hưởng tới bệnh.
+- Sử dụng máy tạo độ ẩm không khí giúp đường thở có độ ẩm, ngăn ngừa bệnh cúm và hỗ trợ loại bỏ đờm hiệu quả.
+- Người bệnh cần ăn uống đầy đủ dinh dưỡng, giúp cơ thể nhanh chóng hồi phục.
+Xem thêm:
+Viêm phổi: Biểu hiện, nguyên nhân, chẩn đoán và điều trị
+SKĐS - Viêm phổi là bệnh lý nhiễm trùng tại nhu mô phổi do các căn nguyên vi khuẩn, virus, nấm gây nên. Đây là bệnh lý phổ biến, ảnh hưởng tới khoảng 450 triệu người trên khắp toàn cầu. Tỉ lệ tử vong do viêm phổi khoảng 7% mỗi năm.

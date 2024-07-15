@@ -1,0 +1,66 @@
+# doc_id = health_disease_2296
+# url = https://suckhoedoisong.vn/thuoc-moi-dieu-tri-thieu-mau-o-benh-nhan-roi-loan-di-truyen-hiem-gap-169220220211243746.htm
+# date = 21-02-2022
+Thuốc mới điều trị thiếu máu ở bệnh nhân rối loạn di truyền hiếm gặp
+Hiểu đúng về bệnh Thalassemia
+SKĐS - Gia đình tôi có người bị bệnh Thalassemia. Xin hỏi bác sĩ Thalassemia là bệnh gì? có phải là bệnh ung thư và bệnh có tính di truyền không? Điều trị thế nào?
+1. Thiếu máu tán huyết là bệnh gì?
+Thiếu máu tán huyết
+là một rối loạn trong đó các tế bào hồng cầu bị phá hủy nhanh hơn mức chúng có thể được tạo ra. Sự phá hủy các tế bào hồng cầu được gọi là quá trình tán huyết.
+Các tế bào hồng cầu mang oxy đến tất cả các bộ phận của cơ thể. Khi cơ thể thiếu máu, oxy không được mang đủ đến tất cả các mô và cơ quan khiến cơ thể không thể hoạt động tốt như bình thường.
+Nguyên nhân thiếu máu huyết tán có thể do di truyền hoặc do mắc phải.
+- Thiếu máu huyết tán
+di truyền
+xảy ra khi cha mẹ truyền gen gây bệnh này cho con cái của họ. Phổ biến là bệnh
+thiếu máu hồng cầu hình liềm
+và bệnh thalassemia. Những tình trạng này tạo ra các tế bào hồng cầu không sống lâu như các tế bào hồng cầu bình thường.
+- Thiếu máu huyết tán
+mắc phải
+không phải là thứ bạn sinh ra đã có mà do phát triển tình trạng sau đó. Nguyên nhân có thể do một số
+bệnh nhiễm trùng
+(do virut hoặc vi khuẩn), thuốc (penicillin, thuốc điều trị sốt rét, acetaminophen), ung thư máu, rối loạn tự miễn dịch (lupus,
+viêm khớp dạng thấp
+), viêm loét đại tràng, lá lách hoạt động quá mức, van tim cơ học có thể làm hỏng các tế bào hồng cầu khi chúng rời khỏi tim, phản ứng nghiêm trọng khi truyền máu.
+Thiếu máu tán huyết là một rối loạn trong đó các tế bào hồng cầu bị phá hủy nhanh hơn mức chúng có thể được tạo ra.
+2. Thiếu hụt Pyruvat kinase gây thiếu máu?
+Thiếu
+Pyruvat kinase
+là một rối loạn di truyền hiếm gặp, gây phá hủy tế bào hồng cầu sớm, dẫn đến thiếu máu (giảm số lượng hồng cầu). Bệnh nhân bị thiếu hụt Pyruvat kinase
+có một loạt các triệu chứng, bao gồm mệt mỏi, da nhợt nhạt bất thường, vàng da và vàng mắt, khó thở và nhịp tim nhanh. Bệnh nhân cũng có thể phát triển lá lách to, có quá tải sắt trong máu do truyền máu nhiều lần và sỏi mật (cặn nhỏ trong túi mật hoặc ống dẫn mật).
+Thiếu hụt Pyruvat kinase là rất hiếm. Trong thực hành lâm sàng, tần suất của nó là khoảng 3 đến 9 trường hợp trên một triệu người. Tuy nhiên, thiếu hụt Pyruvat kinase có thể bị chẩn đoán nhầm hoặc không được chẩn đoán, gây khó khăn cho việc xác định tần suất của bệnh trong dân số nói chung.
+Người bệnh thiếu máu tán huyết nên: Tránh xa những người bị bệnh, tránh đám đông lớn, rửa tay thường xuyên, không ăn thực phẩm nấu chưa chín, đánh răng thường xuyên, tiêm phòng cúm mỗi năm.
+3. Hiệu quả của thuốc mới điều trị rối loạn di truyền hiếm gặp
+Mới đây, Cơ quan quản lý thuốc và thực phẩm Hoa Kỳ (FDA) đã phê duyệt viên nén pyrukynd (mitapivat) để điều trị bệnh thiếu máu tán huyết ở người lớn bị thiếu pyruvate kinase (PK).
+Hiệu quả của pyrukynd đã được đánh giá trong hai nghiên cứu. Trong các nghiên cứu này, bệnh nhân được dùng pyrukynd lên đến 50 mg, uống 2 lần/ngày. Thời gian trung bình khoảng 24 tuần trong nghiên cứu ngẫu nhiên và khoảng 40 tuần trong nghiên cứu đơn nhóm.
+Trong nghiên cứu ngẫu nhiên, hiệu quả của pyrukynd dựa trên phản ứng
+hemoglobin
+(nồng độ hemoglobin tăng 1,5 g/dL trở lên) ngay từ đầu nghiên cứu và được duy trì ở 2 hoặc nhiều lần đánh giá theo lịch trình. Hemoglobin là thước đo lượng hồng cầu không bị phá hủy. Vào cuối nghiên cứu, 40% người tham gia nhận pyrukynd có phản ứng với hemoglobin, những người nhận giả dược thì không có phản ứng.
+Trong nghiên cứu đơn nhóm, hiệu quả dựa trên việc giảm gánh nặng truyền máu được truyền trong 24 tuần điều trị cuối cùng so với gánh nặng truyền máu trước đây đối với từng người tham gia. Kết quả là, 30% người dùng pyrukynd đã giảm gánh nặng truyền máu này. Ttrong đó, 22% người không cần truyền máu trong 24 tuần điều trị.
+4. Tác dụng phụ của thuốc
+Các tác dụng phụ phổ biến nhất của pyrukynd là giảm estrone và estradiol (các loại hormone estrogen) ở nam giới, tăng urat (một loại muối trong cơ thể), đau lưng và cứng khớp. Không thể đánh giá một cách đáng tin cậy ảnh hưởng của Pyrukynd đối với estrone và estradiol ở phụ nữ vì những thay đổi bình thường của các hormone này trong chu kỳ kinh nguyệt và sử dụng biện pháp tránh thai bằng hormone.
+Bổ sung vitamin trong điều trị thiếu máu đại hồng cầu
+Bệnh thiếu máu: Nguyên nhân và cách điều trị
+Do tương tác thuốc, bệnh nhân nên tránh sử dụng pyrukynd với một số loại thuốc khác hoặc điều chỉnh liều pyrukynd nếu phải dùng cùng (khi cần thiết).
+Ngừng pyrukynd đột ngột có thể làm trầm trọng thêm tình trạng phá hủy tế bào hồng cầu sớm. Bệnh nhân nên tránh đột ngột ngừng hoặc tạm dừng pyrukynd và làm theo hướng dẫn của bác sĩ để ngừng điều trị.
+5. Sống chung với bệnh thiếu máu tán huyết
+Để sống chung an toàn với căn bệnh, tránh làm trầm trọng thêm nguy cơ phá vỡ hồng cầu và nguy cơ nhiễm trùng, các chuyên gia khuyên người bệnh trao đổi với các bác sĩ chuyên khoa.
+Chẳng hạn như: Thời tiết lạnh thường có thể kích hoạt sự phân hủy của các tế bào hồng cầu. Vì vậy để tránh rét, hãy giữ ấm cơ thể: Mặc quần áo ấm, giữ ấm căn nhà của bạn.
+Ngoài ra, cũng có thể giảm nguy cơ nhiễm trùng bằng cách: Tránh xa những người bị bệnh, tránh đám đông lớn, rửa tay thường xuyên, không ăn thực phẩm nấu chưa chín, đánh răng thường xuyên, tiêm phòng cúm mỗi năm.
+Xem thêm video đang được quan tâm:
+WHO khuyến nghị rút ngắn thời gian cách ly F0 ở những nước gia tăng ca mắc COVID-19.
+DS. Hoàng Vân
+(Theo fda.gov, 17/2/2022)
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

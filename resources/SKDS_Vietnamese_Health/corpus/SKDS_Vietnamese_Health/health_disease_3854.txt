@@ -1,0 +1,50 @@
+# doc_id = health_disease_3854
+# url = https://suckhoedoisong.vn/them-lieu-phap-chua-tri-cho-nguoi-benh-suy-tim-16923052908553367.htm
+# date = 29-05-2023
+Thêm liệu pháp chữa trị cho người bệnh suy tim
+Theo đó, thuốc inpefa (sotagliflozin) được FDA (Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ phê duyệt, để giảm nguy cơ tử vong do tim mạch, nhập viện do
+suy tim
+ở người lớn bị suy tim mắc
+đái tháo đường type 2
+, bệnh thận mãn tính và các yếu tố nguy cơ tim mạch khác. Thuốc được dùng uống mỗi ngày một lần.
+Inpefa là chất ức chế cả chất đồng vận chuyển natri-glucose loại 2 (SGLT2) và loại 1 (SGLT1). Nhóm thuốc ức chế SGLT được Hiệp hội Tim mạch Hoa Kỳ (AHA), Đại học Tim mạch Hoa Kỳ (ACC) và Hiệp hội Suy tim Hoa Kỳ (HFSA) khuyến cáo là phương pháp điều trị đầu tay cho
+bệnh suy tim
+.
+Một tuyên bố đồng thuận của chuyên gia ACC vào tháng 4 năm 2023 đã nêu bật lợi ích của thuốc ức chế SGLT như một phần của liệu pháp y tế theo hướng dẫn, ở bệnh nhân suy tim với phân suất tống máu bảo tồn (HFpEF). Thuốc ức chế SGLT2 nên được bắt đầu ở tất cả những người mắc HFpEF ổn định trong thời gian nhập viện và không có chống chỉ định.
+Ở Mỹ có khoảng 6,7 triệu người bị suy tim, với tỷ lệ hiện mắc dự kiến sẽ tăng lên 8 triệu vào năm 2030.
+Suy tim là nguyên nhân hàng đầu khiến những người từ 65 tuổi trở lên phải nhập viện…
+Suy tim là nguyên nhân hàng đầu khiến những người từ 65 tuổi trở lên phải nhập viện, gây ra khoảng 1,3 triệu ca nhập viện mỗi năm. Bệnh nhân suy tim có nguy cơ cao nhất bị suy tim trong 30 ngày đầu tiên sau khi xuất viện, với 7% tử vong và 25% phải nhập viện lại trong vòng một tháng.
+Với sự chấp thuận của FDA này, inpefa hiện là một lựa chọn có giá trị để các bác sĩ cân nhắc khi điều trị cho bệnh nhân khi xuất viện.
+Một số lưu ý quan trọng khi dùng thuốc:
+- Liều lượng:
+Đánh giá chức năng thận, tình trạng thể tích và nếu cần điều chỉnh tình trạng suy giảm thể tích trước khi bắt đầu dùng inpefa. Liều dùng inpefa cho bệnh nhân suy tim mất bù có thể bắt đầu khi bệnh nhân ổn định về mặt huyết động, kể cả khi nhập viện hoặc ngay sau khi xuất viện.
+Nguyên nhân nào gây suy tim?
+ĐỌC NGAY
+- Chống chỉ định
+:
+Không sử dụng inpefa ở những bệnh nhân quá mẫn cảm với Inpefa hoặc bất kỳ thành phần nào của sản phẩm.
+-
+Nhiễm toan ceton
+:
+Inpefa làm tăng nguy cơ nhiễm toan ceton ở bệnh nhân đái tháo đường typs 1 (T1DM). Bệnh đái tháo đường type 2 (T2DM) và rối loạn tuyến tụy cũng là những yếu tố nguy cơ.
+Nguy cơ nhiễm toan ceto có thể lớn hơn với liều cao hơn. Thực tế lâm sàng đã có các báo cáo về biến cố gây tử vong do nhiễm toan ceton ở bệnh nhân đái tháo đường type 2 sử dụng chất ức chế vận chuyển natri glucose 2 (SGLT2).
+Do đó, trước khi bắt đầu dùng inpefa, hãy đánh giá các yếu tố nguy cơ nhiễm toan ceton. Cân nhắc theo dõi ceton ở bệnh nhân mắc bệnh T1DM và xem xét theo dõi ceton ở những người khác có nguy cơ nhiễm toan ceton và tư vấn cho người bệnh về các dấu hiệu/triệu chứng nhiễm toan ceton.
+Bệnh nhân dùng inpefa có thể yêu cầu theo dõi và ngừng điều trị tạm thời trong các tình huống lâm sàng được biết là dễ dẫn đến nhiễm toan ceton. Inpefa không được chỉ định để kiểm soát đường huyết.
+Theo dõi bệnh nhân để giải quyết tình trạng nhiễm toan ceton trước khi khởi động dùng lại inpefa.
+- Viêm niệu đạo và viêm bể thận:
+Điều trị bằng thuốc ức chế SGLT2, bao gồm cả inpefa, làm tăng nguy cơ
+nhiễm trùng đường tiết niệu
+. Nhiễm trùng đường tiết niệu nghiêm trọng bao gồm nhiễm trùng niệu và viêm bể thận cần nhập viện đã được báo cáo. Đánh giá bệnh nhân về các dấu hiệu và triệu chứng của nhiễm trùng đường tiết niệu và điều trị kịp thời.
+-
+Hạ đường huyết
+khi sử dụng đồng thời với insulin và thuốc kích thích tiết insulin:
+Insulin và thuốc kích thích tiết insulin được biết là gây hạ đường huyết. Inpefa có thể làm tăng nguy cơ hạ đường huyết khi kết hợp với các thuốc này. Do đó, có thể cần dùng liều insulin hoặc thuốc kích thích tiết insulin thấp hơn để giảm thiểu nguy cơ hạ đường huyết khi sử dụng với inpefa.
+-
+Nhiễm nấm sinh dục
+:
+Inpefa làm tăng nguy cơ nhiễm nấm sinh dục nên cần theo dõi và điều trị khi thích hợp.
+-
+Các phản ứng bất lợi thường gặp:
+Các phản ứng bất lợi được báo cáo phổ biến nhất là nhiễm trùng đường tiết niệu, giảm thể tích tuần hoàn, tiêu chảy và hạ đường huyết.
+Mời độc giả xem thêm video:
+Làm gì để giảm huyết áp?

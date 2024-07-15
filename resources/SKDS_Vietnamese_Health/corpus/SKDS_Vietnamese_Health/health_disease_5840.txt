@@ -1,0 +1,23 @@
+# doc_id = health_disease_5840
+# url = https://suckhoedoisong.vn/phat-hien-va-xu-tri-som-diec-dot-ngot-169180107.htm
+# date = 12-09-2020
+Phát hiện và xử trí sớm điếc đột ngột
+Hiện nay, số người bệnh đến khám vì điếc đột ngột đang ngày một tăng. Bệnh có xu hướng xảy ra nhiều đối với người làm việc ở những nơi ồn ào, công việc căng thẳng.Tuy nhiên, bệnh có thể không thuyên giảm kể cả khi điều trị tích cực, khiến người bệnh lo lắng, để lại di chứng ảnh hưởng đến sinh hoạt và công việc về sau.
+Không dễ dàng xác định
+nguyên nhân
+Nguyên nhân của điếc đột ngột phần lớn khó có thể xác định. Một số giả thuyết về bệnh nguyên của điếc đột ngột đã được đưa ra như:
+Giả thuyết nhiễm virus:
+30-40% các trường hợp ghi nhận có nhiễm trùng đường hô hấp trên trong vòng 1 tháng trước khi triệu chứng điếc đột ngột xuất hiện. Giả thuyết mạch máu gồm các tổn thương làm giảm lưu lượng máu đến tai trong như vi huyết khối, vi thuyên tắc mạch, co thắt mạch máu, giảm huyết áp, xuất huyết nội mê nhĩ. Giả thuyết miễn dịch - kháng thể kết hợp các kháng nguyên nội sinh ở tai trong. Giả thuyết mất cân bằng áp lực như trong trường hợp sũng nước mê nhĩ.
+Đo thính lực cho bệnh nhân tại BV Tai mũi họng TW. Ảnh: TM
+Chỉ khoảng 10-15% các trường hợp điếc đột ngột có thể xác định được nguyên nhân. Các nguyên nhân thường gặp nhất bao gồm: Các bệnh truyền nhiễm - viêm màng não, viêm mê nhĩ, viêm ốc tai có thể do các tác nhân nấm, vi trùng, virus (sởi, quai bị, Rubella, virus gây bệnh mụn rộp, virus gây bệnh thủy đậu,...). Các bệnh lý mạch máu: tắc hoặc co thắt mạch máu tai trong, đặc biệt ở nhóm người bệnh có yếu tố nguy cơ cao như đái tháo đường, tăng huyết áp, béo phì, rối loạn mỡ máu,... Các bệnh lý của tai trong như bệnh Ménière. Sử dụng các thuốc độc cho tai: kháng sinh nhóm aminoglycosides, quinine, aspirin, cisplatin.Các bệnh lý tân sinh u: u góc cầu - tiểu não, u ống tai trong, u di căn từ nơi khác đến xương thái dương hay màng não. Các bệnh lý tự miễn: u hạt Wegener, viêm đa khớp, hội chứng Cogan, bệnh Lupus ban đỏ hệ thống. Các chấn thương: chấn thương đầu, chấn thương tai do áp lực (lặn sâu, đi máy bay, leo vùng núi cao,...), chấn thương tai do âm thanh, rò ngoại dịch. Các bệnh lý chuyển hóa: rối loạn chuyển hóa sắt, suy thận,...
+Nhận biết và chẩn đoán
+Bệnh cảnh điển hình của một trường hợp điếc đột ngột là buổi sáng thức dậy, người bệnh có cảm giác nghe kém 1 bên tai, thường được phát hiện tình cờ khi người bệnh nghe điện thoại. Các triệu chứng khác có thể xuất hiện kèm theo là: đầy nặng tai, ù tai, chóng mặt. Triệu chứng có thể xuất hiện và tiến triển nhanh trong vài phút đến vài giờ hoặc tăng dần trong vài ba ngày.
+Để chẩn đoán điếc đột ngột, tiến hành đo thính lực đồ đơn âm. Khám nghiệm này giúp phân biệt giữa một trường hợp giảm thính lực dẫn truyền với một trường hợp giảm thính lực tiếp nhận. Tiêu chuẩn chẩn đoán điếc đột ngột: Giảm thính lực tiếp nhận trên 30 decibels. Giảm thính lực ở 3 tần số âm liên tiếp. Giảm thính lực xảy ra trong vòng 3 ngày.
+Trong số các nguyên nhân điếc đột ngột, khoảng 0,8 - 4% người bệnh có u ống tai trong hoặc u góc cầu - tiểu não
+(xem ảnh)
+, ngay cả khi người bệnh đã hồi phục thính lực hoàn toàn cũng không thể hoàn toàn loại trừ các nguyên nhân này. Do đó, chụp cộng hưởng từ (MRI) có tiêm gadolinium là xét nghiệm phù hợp nhất để loại trừ các bệnh lý sau ốc tai. Nếu không thể chụp cộng hưởng từ, người bệnh nên được đo điện thính giác thân não hoặc đo lại thính lực đồ trong quá trình điều trị, các bất thường kéo dài trên 2 xét nghiệm này có thể gợi ý cho các bệnh lý sau ốc tai.
+Chụp CT xương thái dương không được khuyến cáo thực hiện thường quy ở các người bệnh điếc đột ngột, ngoại trừ các trường hợp người bệnh trẻ tuổi. Nhóm người bệnh này có tỉ lệ bệnh lý u sau ốc tai thấp nhưng có tỉ lệ bất thường về cấu trúc giải phẫu cao. Các bất thường giải phẫu có thể phát hiện bằng chụp CT ở nhóm người bệnh này bao gồm: thiểu sản ốc tai, hội chứng Mondini, giãn rộng cống tiền đình.
+Khối u thần kinh tiền đình ở góc cầu - tiểu não gây điếc đột ngột.
+Phòng bệnh hơn chữa bệnh
+Để tránh điếc đột ngột cần tránh những nơi có âm thanh lớn hoặc đeo dụng cụ hỗ trợ chống tiếng ồn. Có chế độ làm việc và nghỉ ngơi phù hợp. Sử dụng thuốc đúng chỉ định, tránh tự ý sử dụng kháng sinh không có y lệnh bác sĩ. Tầm soát và điều trị các bệnh lý tim mạch, rối loạn mỡ - máu và đái tháo đường.
+Khi các triệu chứng của điếc đột ngột xuất hiện, cần đến khám bác sĩ ngay nhằm tìm nguyên nhân và điều trị càng sớm càng tốt.

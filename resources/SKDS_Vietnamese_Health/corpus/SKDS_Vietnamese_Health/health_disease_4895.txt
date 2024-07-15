@@ -1,0 +1,10 @@
+# doc_id = health_disease_4895
+# url = https://suckhoedoisong.vn/thuoc-tri-roi-loan-tim-lam-giam-con-buon-ngu-trong-benh-parkinson-169180788.htm
+# date = 09-10-2020
+Thuốc trị rối loạn tim làm giảm cơn buồn ngủ trong bệnh Parkinson
+TS. BS. Jean-Christophe Corvol, Đại học Sorbonne, Paris, Pháp cùng cộng sự đã tiến hành một thử nghiệm pha 2, quốc tế, mù đôi, chéo gồm 3 giai đoạn trong đó các bệnh nhân PD mắc EDS được chỉ định ngẫu nhiên dùng giả dược hoặc một trong hai liều hoạt động của thuốc: modafinil 200 mg/ngày với liều thấp của flecainide, 2 mg hoặc 18 mg mỗi ngày. EDS được định nghĩa là tổng điểm của Thang điểm buồn ngủ Epworth (ESS) ≥ 14, cho thấy mức độ buồn ngủ ban ngày từ trung bình đến nặng.
+Thuốc flecainide giúp điều chỉnh sự tương tác giữa các mạng lưới thần kinh cải thiện tình trạng buồn ngủ ban ngày.
+Kết quả, sử dụng modafinil 200 mg với 2 mg flecainide đã hạ điểm ESS so với ban đầu 3,84 so với mức giảm 2,44 khi dùng giả dược. Điều thú vị là sử dụng modafinil 200mg với 18mg flecainide kém hiệu quả hơn khi chỉ làm giảm điểm ESS xuống 3,18, không có ý nghĩa thống kê so với giả dược. Ngoài ra, phân tích an toàn cho thấy không có tác dụng phụ nghiêm trọng liên quan đến điều trị. Hầu hết các tác dụng phụ xảy ra trong khoảng thời gian dùng liều cao hơn như đau đầu, buồn nôn và viêm mũi họng, mất ngủ, trạng thái bối rối, ác mộng và khô miệng. Trong giai đoạn dùng modafinil 200mg với 2 mg flecainide, có hai báo cáo về buồn nôn và một về mất ngủ.
+Tác giả cho biết mối liên quan giữa việc phối hợp hai thuốc (
+thuốc chống rối loạn nhịp tim
+và thuốc trị rối loạn giấc ngủ) và giảm cơn buồn ngủ này cải thiện sự tỉnh táo và nhận thức có lẽ bằng cách điều chỉnh sự tương tác giữa các mạng lưới thần kinh và thần kinh đệm trong não.

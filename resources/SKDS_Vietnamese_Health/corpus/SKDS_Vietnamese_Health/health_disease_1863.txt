@@ -1,0 +1,53 @@
+# doc_id = health_disease_1863
+# url = https://suckhoedoisong.vn/tam-soat-te-bao-ung-thu-co-tu-cung-cang-som-100-kha-nang-dieu-tri-khoi-169151100.htm
+# date = 26-11-2018
+Tầm soát tế bào ung thư cổ tử cung càng sớm, 100% khả năng điều trị khỏi
+Sàng lọc chuẩn ung thư cổ tử cung
+Phết tế bào cổ tử cung (PAP smear) đã trở thành phương pháp sàng lọc chuẩn cho ung thư cổ tử cung và tổn thương tiền ung ra đời năm 1941. Việc kết hợp xét nghiệm virút gây u nhú ở người papillomavirus (HPV) vào các chương trình tầm soát ung thư cổ tử cung đã cải thiện việc phát hiện ung thư cổ tử cung và cho phép phân tầng nguy cơ bệnh nhân.
+Nhóm HPV nguy cơ cao
+16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68, 69, 82.
+Nhóm HPV nguy cơ thấp
+6, 11, 40, 42, 43, 44, 54, 61, 72, 81.
+Các kết quả của phết tế bào cổ tử cung có thể là:
+- Tế bào gai không điển hình (ASC).
+- Tổn thương biểu mô gai mức độ thấp (LSIL).
+- Tổn thương biểu mô gai mức độ cao (HSIL).
+- Tế bào tuyến không điển hình (AGC).
+Tổn thương biểu mô gai mức độ cao (HSIL) là một trong những kết quả bất thường của phết tế bào cổ tử cung ít phổ biến nhất. Trong một nghiên cứu trên 965.360 mẫu phết tế bào cổ tử cung ở phụ nữ tuổi từ 30 đến 64, tỷ lệ của HSIL là 0,21%.
+PAP smear
+Nguy cơ tiền ung thư và các bệnh lý ác tính
+Nguy cơ ung thư cổ tử cung xâm lấn ở phụ nữ có kết quả HSIL là đáng kể. Một nghiên cứu trên một triệu mẫu phết tế bào cổ tử cung ở phụ nữ trong Chương trình Y khoa Kaiser Permanente, một Trung tâm Chăm sóc Sức khỏe ở Mỹ, đánh giá nguy cơ tiền ung thư hoặc ung thư trong 5 năm của HSIL ở phụ nữ từ 30 - 64. Những nguy cơ bệnh ác tính cho phụ nữ tuổi từ 30 đến 64 có kết quả phết tế bào cổ tử cung bất thường cũng được thể hiện trong bảng HSIL đơn độc - tổn thương trong biểu mô cổ tử cung grad 2 hoặc nặng hơn: CIN 2 (69%); CIN 3 (47%); ung thư cổ tử cung (7,3%).
+HSIL HPV dương tính - CIN 2 (71%); CIN 3 (49%); ung thư cổ tử cung (6,6%).
+HSIL, HPV âm tính - CIN 2 (49%); CIN 3 (30%); ung thư cổ tử cung (6,8%).
+Xét nghiệm HPV thường không được sử dụng để theo dõi phụ nữ có HSIL, vì nguy cơ CIN 2 cao bất kể kết quả xét nghiệm HPV. Một số dữ liệu cho thấy vai trò của xét nghiệm HPV trong quần thể bệnh nhân này để đánh giá nhiễm HPV dai dẳng, nhưng đây không phải là một phần của quản lý lâm sàng tiêu chuẩn. Trong cùng một nghiên cứu, nguy cơ 5 năm đối với phụ nữ trẻ là:
+21 đến 24 tuổi: CIN 3 (28%) và ung thư cổ tử cung (không xác định trường hợp nào).
+25 đến 29 tuổi: CIN 3 (28%) và ung thư cổ tử cung (2,0%).
+Các nghiên cứu về diễn tiến tự nhiên của CIN 2, 3 cho thấy một số tổn thương không được điều trị, nhiều ca sẽ thoái lui, nhưng một tỷ lệ đáng kể sẽ tiến triển đến ung thư xâm lấn.
+Tầm soát ung thư cổ tử cung nên được bắt đầu ở tuổi 21
+Chiến lược đánh giá
+Các phương pháp đánh giá được trình bày ở đây được cung cấp bởi các hướng dẫn đồng thuận năm 2012 của Hiệp hội Soi Cổ tử cung và Bệnh lý Cổ tử cung Mỹ (The American Society for Colposcopy and Cervical Pathology - ASCCP) phối hợp với nhiều tổ chức chính phủ và tổ chức phi chính phủ tại Hoa Kỳ và Canada. Quản lý dựa trên nguyên tắc “quản lý bình đẳng các rủi ro”, áp dụng cùng một mức độ quản lý hoặc theo dõi rủi ro của tiền ung thư hoặc ung thư trên kết quả sàng lọc hiện tại bao gồm xét nghiệm HPV kết hợp sàng lọc kết quả tế bào học trước đây.
+Phụ nữ từ 25 tuổi trở lên
+Nếu kết quả HSIL cho nguy cơ cao về ung thư cổ tử cung, nhóm phụ nữ này cần được đánh giá hoặc điều trị kịp thời. Hầu hết phụ nữ có HSIL đều dương tính với các loại HPV nhóm nguy cơ cao (89 đến 97% trong một nghiên cứu), và khả năng tân sinh trong biểu mô cổ tử cung grad cao (CIN) hoặc ung thư cao kể cả khi HPV test âm tính; do đó, việc phân loại HSIL với xét nghiệm HPV không được khuyến cáo.
+Phụ nữ từ 21 đến 24 tuổi
+Các khuyến cáo theo dõi kết quả sàng lọc cổ tử cung bất thường là khác nhau đối với phụ nữ từ 21 đến 24 tuổi và phụ nữ từ 25 tuổi trở lên. Các chuyên gia khuyến cáo thực hiện thủ thuật cắt bỏ cổ tử cung để chẩn đoán chỉ khi kết quả bất thường nghiêm trọng hoặc bệnh tái phát. Điều này là do nguy cơ ung thư cổ tử cung thấp và tỷ lệ nhiễm HPV thoáng qua cao trong nhóm bệnh nhân này.
+Bệnh nhân trong nhóm tuổi này có HSIL nên được đánh giá bằng soi cổ tử cung. Kết quả soi cổ tử cung âm tính có nghĩa là soi cổ tử cung được thực hiện đầy đủ và kết quả nạo kênh cổ tử cung âm tính…
+Phụ nữ mang thai
+Phụ nữ có thai với HSIL nên được đánh giá bằng soi cổ tử cung. Nguyên tắc quản lý phụ nữ mang thai bao gồm:
+Không nên thực hiện thủ thuật cắt bỏ chẩn đoán ngay lập tức.
+Khi soi cổ tử cung được thực hiện trong thai kỳ:
+Không nên thực hiện lấy mẫu nội sinh bằng cách dùng curette và lấy mẫu nội mạc tử cung vì có nguy cơ gây rối loạn thai kỳ; tuy nhiên, các kênh cổ tử cung có thể được lấy mẫu nhẹ nhàng bằng chổi.
+Sinh thiết cổ tử cung nên được thực hiện chỉ khi tổn thương nghi ngờ ung thư.
+Nếu kiểm tra không đạt yêu cầu, lặp lại soi cổ tử cung sau 6 đến 12 tuần sẽ cho phép thấy vùng chuyển tiếp.
+Sinh thiết để chứng minh ung thư cổ tử cung vi xâm lấn hoặc xâm lấn ở phụ nữ có thai đòi hỏi phải tham khảo ý kiến bác sĩ chuyên khoa phụ khoa và sản khoa. Một thủ thuật cắt bỏ chẩn đoán chỉ được chỉ định trong thai kỳ nếu xác nhận bệnh xâm lấn sẽ làm thay đổi thời gian hoặc phương thức chấm dứt thai kỳ. Nếu không, việc điều trị được hoãn lại cho đến khi giai đoạn hậu sản sinh để tránh làm gián đoạn thai kỳ.
+Nếu không có bất kỳ bằng chứng nào về ung thư xâm lấn, có thể chấp nhận thực hiện các xét nghiệm bổ sung và soi cổ tử cung không thường xuyên hơn 12 tuần một lần. Sinh thiết chỉ được khuyến cáo nếu các tổn thương xuất hiện tồi tệ hơn trên soi cổ tử cung và/hoặc các tế bào học là gợi ý của ung thư cổ tử cung xâm lấn; hoặc hoãn đánh giá cho đến ít nhất sáu tuần sau khi sinh. Các thủ thuật cắt bỏ chẩn đoán được dành riêng cho những phụ nữ bị nghi ngờ xâm nhập và sẽ thay đổi việc quản lý thai kỳ hoặc sinh nở.
+Nếu không có CIN 2,3, khuyến cáo của ASCCP 2006 đề nghị tái đánh giá với phết tế bào cổ tử cung và soi cổ tử cung không sớm hơn sáu tuần sau khi sinh. Các chuyên gia ung bướu sẽ thực hiện đánh giá phết tế bào và soi cổ tử cung sau sinh trên tất cả phụ nữ được chẩn đoán HSIL trong khi mang thai, nhưng có thể trì hoãn cho đến ít nhất sáu tuần sau sinh.
+Các nghiên cứu về lịch sử tự nhiên của tổn thương biểu mô gai trong thai kỳ cho thấy sự tiến triển của ung thư biểu mô xâm lấn trong thai kỳ là rất hiếm (0 đến 0,4%) và tự phát HSIL và CIN 2,3 là phổ biến (48 đến 70% tổn thương) thoái lui trong suốt quá trình mang thai khi so sánh và xét nghiệm mô học/tế bào học sau sinh). Cho dù sinh con qua ngã âm đạo có liên quan đến tỷ lệ hồi quy cao hơn so với việc mổ lấy thai vẫn còn gây tranh cãi.
+Tầm quan trọng của một đánh giá sau khi sinh toàn diện được minh họa trong một nghiên cứu xác định 28 phụ nữ có HSIL trong một nghiên cứu tế bào cổ tử cung trước sinh trong ba tháng đầu thai kì. Tất cả đều được theo dõi bằng soi cổ tử cung và sinh thiết, trong thai kỳ và sau 6 đến 8 tuần sau khi sinh. Sau sinh, HSIL tiếp tục tồn tại ở 89% (25 trong số 28) và vi xâm lấn đã được tìm thấy ở 11% (3 trong số 28). Hầu như tất cả những phụ nữ này (24/28) đều có tiền sử tổn thương biểu mô gai. Phương thức chấm dứt thai kỳ dựa trên các yếu tố sản khoa thông thường; CIN 2,3 không phải là chỉ định cho mổ lấy thai.
+Phụ nữ sau mãn kinh
+Phụ nữ sau mãn kinh có HSIL được quản lý giống như các phụ nữ khác từ 25 tuổi trở lên.
+Thanh thiếu niên
+Tầm soát ung thư cổ tử cung nên được bắt đầu ở tuổi 21. Nếu thanh thiếu niên vô tình được sàng lọc, việc quản lý các kết quả bất thường phải tuân thủ các khuyến nghị dành cho phụ nữ từ 21 đến 24.
+Tỷ lệ mắc ung thư cổ tử cung ở thanh thiếu niên (0,15 trên 100.000 nữ mỗi năm trong một nghiên cứu của Hoa Kỳ) thậm chí còn thấp hơn ở phụ nữ từ 21 đến 24 (1,4 trên 100.000). Như với phụ nữ tuổi từ 21 đến 24, tỷ lệ nhiễm virút HPV thường cao hơn và tổn thương trong biểu mô cổ tử cung thường tái phát tự phát.
+Phụ nữ suy giảm miễn dịch
+Xét nghiệm ung thư cổ tử cung (xét nghiệm tế bào hoặc xét nghiệm HPV) ở phụ nữ suy giảm miễn dịch nên được quản lý theo cách tương tự như phụ nữ có hệ miễn dịch bình thường
+Các kết quả phết tế bào cổ tử cung có thể được là các tế bào gai không điển hình (ASC), tổn thương biểu mô gai mức độ thấp (LSIL), tổn thương biểu mô gai mức độ cao (HSIL) hoặc các tế bào tuyến không điển hình (AGC). Kết quả phết tế bào cổ tử cung bất thường đòi hỏi phải đánh giá thêm để loại trừ sự hiện diện của một tình trạng tiền ung thư hoặc ung thư.

@@ -1,0 +1,87 @@
+# doc_id = health_disease_4627
+# url = https://suckhoedoisong.vn/thuoc-nao-chua-hoi-chung-viem-da-he-thong-hau-covid-19-o-tre-169220425215446621.htm
+# date = 27-04-2022
+Thuốc nào chữa hội chứng viêm đa hệ thống hậu COVID-19 ở trẻ?
+Cha mẹ cần làm gì để phòng ngừa hội chứng viêm đa hệ thống ở trẻ sau mắc COVID-19?
+SKĐS - Hầu hết trẻ em nhiễm COVID-19 có triệu chứng nhẹ. Nhưng ở một số trẻ sau khi khỏi bệnh từ 2 đến 6 tuần có thể gặp hội chứng viêm đa hệ thống. Các triệu chứng viêm nghiêm trọng xảy ra ở các cơ quan và mô có thể dẫn tới tổn thương vĩnh viễn, thậm chí tử vong.
+1. Nguyên nhân gây hội chứng viêm đa hệ thống là gì?
+Đến nay, cơ chế chính xác giải thích cho
+hội chứng viêm đa hệ thống
+vẫn còn chưa rõ ràng. Một số giả thuyết cho rằng, hội chứng này là kết quả đáp ứng miễn dịch bất thường với virus SAR-CoV-2, gây ra tình trạng viêm quá mức trong hệ thống cơ quan của trẻ.
+Bên cạnh đó, do MIS-C chỉ gặp ở một số ít trẻ mắc COVID-19 nên giả thiết về các yếu tố nguy cơ di truyền quan đến MIS-C cũng được đưa ra.
+2. Tỷ lệ gặp MIS-C có cao không?
+Ở Mỹ, một nghiên cứu đoàn hệ cho thấy tỉ lệ trẻ, thanh thiếu niên dưới 21 tuổi mắc MIS-C là 316/1 triệu ca hậu COVID-19 (tức có khoảng 1/3000 trường hợp trẻ em và thanh thiếu niên mắc SAR-CoV-2). Độ tuổi trung bình của trẻ mắc hội chứng đáp ứng viêm là 9 tuổi, 75% trường hợp không có các bệnh đi kèm trước đó.
+Tại Việt Nam, theo báo cáo nhanh của từ các bệnh viện chuyên khoa nhi tại TP.HCM, trong giai đoạn từ tháng 6/2021 đến tháng 3/2022, ghi nhận có 315 trẻ được chẩn đoán MIS-C hoặc nghi ngờ MIS-C trên tổng số trẻ em mắc COVID-19 là 71.076 trẻ, chiếm tỷ lệ 0,4%, tất cả đều đáp ứng tốt với điều trị, không có trường hợp nào tử vong. Trong đó, lứa tuổi thường gặp nhất là trẻ dưới 5 tuổi (47,3%), kế đến là trẻ từ 5 đến 12 tuổi (46%) và cuối cùng là trẻ trên 12 tuổi (6,7%).
+Nên cho trẻ đi khám khi có triệu chứng bất thường sau mắc COVID-19.
+3. Dấu hiệu của MIS-C
+Trẻ nghi ngờ mắc hội chứng viêm đa hệ thống khi có các triệu chứng sau:
+Sốt
+≥ 3 ngày (sốt trên 38,5 độ C)
+Rối loạn tiêu hóa (nôn,
+tiêu chảy
+, đau bụng)
+Mắt đỏ ngầu
+Chóng mặt hoặc choáng váng (dấu hiệu của huyết áp thấp)
+Da phát ban
+.
+Tuy nhiên, không phải tất cả trẻ đều có các triệu chứng giống nhau. Trên thực tế nếu cha mẹ thấy trẻ sau khi khỏi COVID-19 từ 2-6 tuần mà có các biểu hiện dưới đây thì nên cho trẻ tới bệnh viện để được thăm khám kịp thời:
+Khó thở
+Đau tức ngực thường xuyên
+Ngủ kém, hay thức giấc, giảm tập trung, hay quên, thay đổi tâm trạng
+Da, móng tay, môi nhợt nhạt nhạt, xám màu.
+4. Điều trị MIS-C thế nào?
+Hội chứng viêm đa hệ thống ở trẻ em do COVID-19 và khả năng hồi phục tổn thương tim
+ĐỌC NGAY
+Trẻ nghi mắc MIS-C cần được thăm khám và điều trị tại các bệnh viện chuyên khoa nhi. Nếu không được chẩn đoán sớm và điều trị thích hợp, MIS-C có thể gây các biến chứng nghiêm trọng đối với các cơ quan quan trọng của cơ thể như tim, phổi hoặc thận. Trong một số trường hợp hiếm hoi, MIS-C có thể gây ra tổn thương vĩnh viễn hoặc thậm chí tử vong.
+Việc điều trị hội chứng viêm đa hệ thống thường tập trung làm giảm triệu chứng để ngăn ngừa bệnh trở nặng. Trường hợp chưa loại trừ nguyên nhân nhiễm khuẩn, trẻ có thể được chỉ định kháng sinh phổ rộng theo kinh nghiệm như sốc nhiễm trùng. Trường hợp trẻ sốt liên tục đi kèm biểu hiện mất nước, có thể được chỉ định truyền dịch nếu cần thiết.
+Theo phác đồ điều trị COVID-19 ở trẻ em hiện nay của Bộ Y tế, các thuốc điều trị MIS-C chủ yếu bao gồm:
+Thuốc điều hòa miễn dịch Imunoglobulin truyền tĩnh mạch (IVIG) và thuốc ức chế miễn dịch (corticosteroid) để giảm tình trạng viêm ở mạch máu, tim…
+4.1. Imunoglobulin truyền tĩnh mạch
+Đây là sản phẩm được chiết xuất từ huyết tương người, là phương pháp điều trị phổ biến và hiệu quả trong điều trị bệnh Kawasaki - một tình trạng viêm hiếm gặp khác trên trẻ em có các triệu chứng trùng lặp với hội chứng viêm đa hệ thống.
+Đối với Kawasaki, t
+huốc điều hòa miễn dịch Imunoglobulin truyền tĩnh mạch (IVIG) giúp thuyên giảm triệu chứng nhanh và có thể ngăn ngừa tổn thương động mạch vành nếu dùng sớm, một biến chứng cũng được quan sát ở một số trẻ mắc MIS-C. Các nhà khoa học tại Đại học California - San Diego đã phát hiện rằng lượng bạch cầu trung tính hoạt hóa ở những bệnh nhân MIS-C cao chính là nguồn cung cấp IL-1 beta, một trong những tác nhân gây viêm của cơ thể. Sử dụng IVIG giúp giảm đáng kể lượng bạch cầu đa nhân trung tính này.
+Trẻ nghi mắc MIS-C cần được thăm khám và điều trị tại các bệnh viện chuyên khoa nhi. Nếu không được chẩn đoán sớm và điều trị thích hợp, MIS-C có thể gây các biến chứng nghiêm trọng đối với các cơ quan quan trọng của cơ thể như tim, phổi hoặc thận. Trong một số trường hợp hiếm hoi, MIS-C có thể gây ra tổn thương vĩnh viễn hoặc thậm chí tử vong.
+4.2. Chống viêm corticosteroid
+Cho đến nay, vẫn chưa rõ phác đồ tối ưu trong điều trị MIS-C, tuy nhiên, hướng dẫn mới nhất của Hội Thấp khớp học Hoa Kỳ khuyến cáo phối hợp IVIG và corticosteroid cho hầu hết bệnh nhân nhập viện với MIS-C, giảm dần liều cortidosteroid từ 2 đến 3 tuần (hoặc lâu hơn).
+Các nghiên cứu đa trung tâm và phân tích hồi cứu cũng cho thấy các bệnh nhân sử dụng IVIG + corticosteroid có nguy cơ bổ sung liệu pháp điều trị, nguy cơ rối loạn chức năng tim mạch thấp hơn và thời gian điều trị tích cực ngắn hơn so với nhóm dùng đơn độc IVIG.
+4.3. Thuốc chống đông hoặc aspirin liều thấp
+Thuốc chống đông
+hoặc
+aspirin
+liều thấp được sử dụng để giảm nguy cơ đông máu, tắc mạch. Lưu ý dùng thuốc chống đông cần cân nhắc cẩn thận, nhất là ở trẻ < 12 tuổi. Đồng thời, cần chỉnh liều thuốc chống đông dựa trên dấu hiệu chảy máu trên lâm sàng và các xét nghiệm cận lâm sàng.
+Trong trường hợp lâm sàng không cải thiện, cần hội chẩn chuyên khoa để dùng IVIG liều 2 hoặc các thuốc sinh học như anakinra, tocilizumab.
+Nên cho trẻ tiêm vaccine phòng COVID-19 để ngăn ngừa mắc hội chứng MIS-theo theo hướng dẫn của Bộ Y tế.
+4.4. Thuốc sinh học anakinra
+Đây là 1 loại thuốc sinh học được sử dụng phổ biến trong điều trị MIS-C tại Mỹ. Thuốc được sử dụng rộng rãi với bằng chứng về độ an toàn cao trên bệnh nhi mắc các hội chứng tăng viêm khác như viêm khớp thiếu niên tự phát thể hệ thống, hội chứng hoạt hóa đại thực bào.
+Anakinra cũng được sử dụng thành công trong điều trị Kawasaki kháng IVIG. Thuốc có thời gian bán hủy ngắn (4–6 giờ), có tác dụng điều hòa miễn dịch bằng cách liên kết cạnh tranh với IL-1 từ đó ức chế hoạt động của IL-1, một cytokine tiền viêm trung gian cho nhiều phản ứng tế bào. Anakinra liều cao (5–10 mg/kg/ngày) được khuyến cáo cho MIS-C dựa trên hiệu quả cải thiện của thuốc đối với hội chứng hoạt hóa đại thực bào.
+4.5. Kháng thể đơn dòng tocilizumab
+Đây là một kháng thể đơn dòng, đã được FDA chấp thuận để điều trị một số bệnh tự miễn dịch. Tocilizumab cũng có tác dụng chặn hoạt động của IL-6, và do đó làm giảm cơ bão cytokines là phản ứng quá mức của hệ thống miễn dịch liên quan đến SAR-CoV-2 ở cả trẻ em cũng như người lớn. Tuy nhiên, mức IL-6 có vẻ thấp hơn trong MIS-C so với trường hợp nhiễm SARS-CoV-2 nặng ở người lớn.
+Các trẻ sau khi bị MIS-C đã điều trị ổn định được xuất viện vẫn cần phải theo dõi và tái khám định kì tại chuyên khoa tim mạch mỗi 2 tuần, đánh giá đáp ứng điều trị trên lâm sàng, cận lâm sàng (xét nghiệm máu, siêu âm tim) trong 1 tháng đầu, sau đó mỗi tháng trong 6-12 tháng.
+Hội chứng viêm đa hệ thống, trẻ nào dễ bị tổn thương hơn?
+Cha mẹ cần làm gì để phòng ngừa hội chứng viêm đa hệ thống ở trẻ sau mắc COVID-19?
+5. Các biện pháp phòng ngừa MIS-C ở trẻ
+Biện pháp tốt nhất để ngăn ngừa trẻ em mắc hội chứng MIS-C là cho tất cả trẻ em trong độ tuổi quy định theo hướng dẫn của Bộ Y tế
+tiêm vaccine phòng COVID-19
+. Đồng thời cần tiếp tục thực hiện các biện pháp hạn chế nhiễm COVID-19:
+Thường xuyên rửa tay với xà phòng và nước trong ít nhất 20 giây, trường hợp không có, hãy dùng nước rửa tay sát khuẩn có chứa ít nhất 60% cồn.
+Tránh tiếp xúc gần với những người bị bệnh, người có biểu hiện ho, hắt hơi hay các dấu hiệu khác nghi ngờ nhiễm bệnh.
+Đeo khẩu trang khi đến nơi công cộng, những khu vực có khả năng lây truyền cao ngay cả khi đã được tiêm phòng vaccine đầy đủ.
+Ngoài ra, cần nâng cao thể trạng toàn diện cho trẻ bằng một chế độ dinh dưỡng khoa học, khuyến khích trẻ vận động nhẹ nhàng, nghỉ ngơi hợp lý.
+Xem thêm video đang được quan tâm:
+Cảnh báo di chứng kéo dài hậu COVID-19 có thể thành hội chứng phổ biến.
+DS. Phạm Quỳnh Như
+Bệnh viện Trung ương Huế
+Bình luận
+Xem thêm bình luận
+Ý kiến của bạn
+Hãy nhập họ và tên
+Đăng nhập để tham gia bình luận
+Bình luận không đăng nhập
+Gửi
+Đăng nhập với socail
+Facebook
+Google
+Ghi nhớ tài khoản
+Đăng nhập
+Thông báo
+Bạn đã gửi thành công.

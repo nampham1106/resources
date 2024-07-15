@@ -1,0 +1,59 @@
+# doc_id = health_disease_4072
+# url = https://suckhoedoisong.vn/ung-thu-vu-phuong-phap-chan-doan-va-cach-cham-soc-ban-than-de-phong-benh-169211025110503135.htm
+# date = 26-10-2021
+Ung thư vú: Phương pháp chẩn đoán và cách chăm sóc bản thân để phòng bệnh
+Có nhiều nguyên nhân dẫn đến ung thư vú, nhưng đến nay các nhà nghiên cứu chưa xác định được rõ ràng. Nhiều nghiên cứu cho rằng có vai trò của yếu tố gen (sự biến đổi gen BRCA1 hoặc BRCA2), ô nhiễm môi trường không khí, nước, tia phóng xạ, hóa chất trong thực phẩm, nghiện thuốc lá… đã làm tăng tỷ lệ đáng kể ung thư vú.
+Hiện nay với việc tầm soát ung thư vú ở phụ nữ đã làm thay đổi rõ ràng như bệnh được phát hiện sớm hơn, và việc điều trị ngày càng có hiệu quả hơn, cải thiện đáng kể tiên lượng bệnh.
+Tuy nhiên, chẩn đoán ung thư vú, nhất là ung thư vú sớm vẫn còn là vấn đề lớn của toàn thế giới, đặc biệt là ở các nước đang và kém phát triển. Trong chương trình khám sàng lọc sớm ung thư vú được triển khai ở Vương quốc Anh hàng năm với 48.000 trường hợp mắc cũng chỉ có 1/3 được phát hiện nhờ khám sàng lọc, số còn lại là do chẩn đoán hàng ngày tại bệnh viện.
+Các phương pháp tầm soát ung thư vú
+Các phụ nữ trên 40 tuổi cần được khám vú mỗi năm, nhân viên y tế cần hướng dẫn cho bệnh nhân cách
+tự khám vú
+.
+Ngoài ra cũng có thể tự khám vú: đây là việc dễ thực hiện để phát hiện sớm u vú, điều trị sớm và tiên lượng tốt.
+Theo Hiệp hội quốc tế về
+tầm soát ung thư
+(UICC - Union for International Cancer Control) việc khám lâm sàng tuyến vú có thể chấp nhận được để thay thế chụp Mammography ở các quốc gia không có phương tiện.
+Về chẩn đoán hình ảnh trong bệnh lý ung thư vú, hiện nay thường áp dụng như chụp Mammography, siêu âm, chụp cắt lớp vi tính, chụp cộng hưởng từ.
+Tầm soát ung thư vú ở những phụ nữ cải thiện đáng kể tiên lượng bệnh.
+Chẩn đoán xác định ung thư vú
+Trước khi xác định
+ung thư vú
+cần chẩn đoán phân biệt với các u lành tuyến vú: u xơ tuyến vú (hay gặp nhất), u tuyến bã, u mỡ, u máu, u nang, …
+Có ba yếu tố để chẩn đoán ung thư vú đó là:
+Khám lâm sàng: có khối u, rắn, chắc, ranh giới không rõ, muộn thì hạn chế di động hoặc cố định, có thể thay đổi màu sắc da hay hình sẩn da cam, tụt núm vú, chảy dịch núm vú.
+Chụp XQ – siêu âm tuyến vú: thấy u ranh giới không đều, nhiều gai tua, có hình can xi hóa hay vi vôi hóa, một ổ hay nhiều ổ (siêu âm phân chia độ ác tính của u theo BIRADS).
+Chọc hút tế bào dưới hướng dẫn của siêu âm, XQ làm FNA có kết quả tế bào ác tính.
+Bài tập và xoa bóp giúp phục hồi sức khỏe cho bệnh nhân ung thư vú
+Đậu nành, lợi hay hại đối với bệnh nhân ung thư vú?
+Vi khuẩn đường ruột có nguy cơ gây ung thư vú
+Khi cả ba phương pháp đều cho kết quả dương tính thì chẩn đoán xác định là ung thư vú. Nếu 1 trong 3 yếu tố âm tính thì cần phải làm thêm các xét nghiệm khác và thường phải sinh thiết để xác định mô bệnh học. Nếu cả 3 yếu tố đều âm tính thì khả năng ung thư vú là rất thấp, theo dõi tiếp. Mô bệnh học là tiêu chuẩn vàng để chẩn đoán ung thư.
+Sau khi chẩn đoán xác định ung thư, cần chẩn đoán xác định giai đoạn bệnh. Ung thư vú chia làm 5 giai đoạn.
+Giai đoạn 0, I, II, III, IV. Ở giai đoạn 0 là giai đoạn tại chỗ, chưa có di căn hạch. Giai đoạn càng cao khi u càng to hoặc có di căn hạch. Giai đoạn IV là giai đoạn cuối bất kể u to hay nhỏ, có hạch di căn nhiều hay ít nhưng đã có di căn xa vào xương, phổi, gan, não,... vì vậy bệnh nhân cần được làm các xét nghiệm để đánh giá tình trạng toàn thân gan, phổi, não, xương, thận,..
+Để đáp ứng nhu cầu điều trị, bệnh nhân cần được chẩn đoán độ biệt hóa của tế bào (biệt hóa cao, vừa, thấp và không biệt hóa). Mức độ biệt hóa càng thấp, độ ác tính của tế bào càng cao, điều trị hóa chất càng cần thiết. Đánh giá mức độ đáp ứng thụ thể nội tiết ER, PR và HER- 2/Neu bằng hóa mô miễn dịch. Nếu ER/PR (+) HER -2/Neu có 3(+) cần được điều trị nội tiết và trúng đích. Nếu HER- 2/Neu chỉ có 2 (+) cần làm thêm FISH nếu (-) không có chỉ định điều trị trúng đích.
+Chụp XQ – siêu âm tuyến vú là một trong những phương pháp chẩn đoán bệnh.
+Cách chăm sóc bản thân giảm nguy cơ ung thư
+Ung thư vú đã là một vấn đề được quan tâm ở tất cả phụ nữ. Mọi người đã bắt đầu quan tâm đến sức khỏe vòng ngực một cách nghiêm túc hơn và thường xuyên kiểm tra bản thân xem có bất kỳ thay đổi nào không. Ngoài ra phụ nữ cần phải biết chăm sóc bản thân để giảm nguy cơ ung thư vú bằng các bí quyết sau đây:
+Cho con bú
+- tốt cho bé lợi cho mẹ
+Các nhà khoa học cho rằng, những phụ nữ cho con bú có tỷ lệ mắc bệnh ung thư vú thấp hơn so với những phụ nữ không cho con bú. Giải thích vấn đề này có thể là do việc cho con bú làm gián đoạn quá trình rụng trứng và giúp sản xuất estrogen nhiều hơn. Một lý do khác là khi con bú giúp mẹ bình phục nhanh hơn sau sinh, khiến kinh nguyệt xuất hiện trở lại muộn hơn, giảm nguy cơ mang thai trong cữ, giảm cân nhanh và giảm đáng kể nguy cơ ung thư vú
+thời kỳ tiền mãn kinh
+. Cho con bú giúp tử cung nhanh chóng trở lại tình trạng trước khi mang thai. Bú mẹ kích thích sản xuất hormone oxytocin, làm co tử cung và giảm nguy cơ chảy máu sau sinh.
+Cũng theo nghiên cứu, khi cho con bú, một loại protein kháng thể phức hợp trong sữa mẹ là e-lactabumin có thể bảo vệ bầu vú khỏi những tế bào ung thư vú. Thời gian sản xuất sữa của bầu vú càng dài và càng liên tục thì khả năng loại bỏ tế bào ung thư vú càng cao.
+Những phụ nữ có tiền sử gia đình bị ung thư vú nhưng đã từng cho con bú mẹ đủ thời gian cần thiết có thể giảm đến 60% nguy cơ mắc bệnh ung thư vú thời kỳ tiền mãn kinh.
+Cho con bú tốt cho con, lợi cho mẹ giảm đáng kể nguy cơ ung thư vú
+Thường xuyên
+tập thể dục
+Thường xuyên tập thể dục có lợi cho sức khỏe nói chung và ung thư vú nói riêng. Bên cạnh việc giữ gìn vóc dáng cân đối, thon thả, các nghiên cứu cho thấy phụ nữ luyện tập thường xuyên sẽ có nguy cơ mắc ung thư vú thấp hơn. Theo CDC Mỹ hàng tuần, mỗi người nên có ít nhất 75 phút thể dục cường độ cao hay 150 phút tập luyện với cường độ trung bình. Cường độ tập luyện cao hay trung bình thể hiện qua mức năng lượng tiêu hao trong quá trình vận động. Vận động mức độ trung bình là khi bạn vận động thân thể (có tăng nhịp thở và nhịp tim), nhưng vẫn có thể nói chuyện bình thường, không thể hát. Vận động mức độ cao là chỉ có thể nói vài chữ, sau đó phải ngắt quãng để thở. Như vậy, chị em có thêm cho mình một động cơ để tích cực tập luyện thể dục thể thao, bảo vệ bản thân trước nguy cơ ung thư vú.
+Kiểm soát cân nặng
+Thừa cân,
+béo phì
+có thể làm tăng nguy cơ mắc ung thư vú, đặc biệt là sau thời kỳ mãn kinh. Một trong những biện pháp phòng ngừa ung thư vú tốt nhất là kiểm soát cân nặng của mình.
+Theo các nhà khoa học phụ nữ càng có nhiều mỡ, mô mỡ trong cơ thể thì càng sản xuất nhiều estrogen. Lượng estrogen dư thừa này có thể làm tăng nguy cơ mắc ung thư vú và ung thư tử cung. Để có thể kiểm soát cân nặng hiệu quả, cần phải hoạt động thể chất thường xuyên và thực hiện một chế độ ăn uống lành mạnh. Để làm được điều này cần ăn nhiều rau quả nhất là rau xanh thẫm chứa nhiều chất xơ, đây là một chất chống ôxy hóa mạnh giúp cơ thể chuyển hóa estrogen nhanh hơn, và bài tiết lượng dư thừa ra khỏi cơ thể.
+Nói tóm lại, cần duy trì cân nặng bình thường, cân đối với cơ thể không nên giảm cân một cách nhanh chóng hoặc tăng cân ngay sau khi bạn bị sút cân đáng kể. Việc thay đổi trọng lượng một cách đột ngột đều ảnh hưởng không tốt cho sức khỏe, nhất là đối với bệnh ung thư.
+Duy trì trọng lượng tối ưu cho chiều cao của bạn là một cách hữu hiệu giúp làm giảm nguy cơ ung thư vú.
+Kiểm tra sức khỏe định kỳ
+Việc kiểm tra sức khỏe định kỳ nói chung, tầm soát ung thư vú nói riêng là vô cùng quan trọng. Vì vậy, là phụ nữ hãy yêu bản thân, nâng niu vòng 1 của mình. Nên kiểm tra sức khỏe thường xuyên để có thể phát hiện bệnh và có phương pháp điều trị hợp lý. Chụp quang tuyến vú có thể phát hiện u vú và các bất thường khác không thể tự cảm nhận được. Nghiên cứu cho thấy các biện pháp sàng lọc giúp giảm nguy cơ tử vong do ung thư vú ở phụ nữ.
+Tham khảo thêm
+Chẩn đoán ung thư vú bằng trí tuệ nhân tạo
+Video bạn có thể quan tâm:
+Những dấu hiệu cảnh báo bạn có thể đang bị ung thư da

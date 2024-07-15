@@ -1,0 +1,67 @@
+# doc_id = health_disease_5947
+# url = https://suckhoedoisong.vn/diet-vi-khuan-hp-phong-duoc-ung-thu-da-day-can-thiet-hay-khong-169211008153258184.htm
+# date = 09-10-2021
+Diệt vi khuẩn H.P phòng ung thư dạ dày cần thiết hay không?
+Có cần xét nghiệm máu tìm kháng thể IgG trong huyết thanh để phát hiện nhiễm
+vi khuẩn H.P
+?
+Có thể khẳng định xét nghiệm máu tìm kháng thể IgG trong huyết thanh để phát hiện nhiễm H.P là không chính xác, gây lãng phí .
+Có rất nhiều cách phát hiện có bị nhiễm vi khuẩn H.P trong dạ dày hay không trong đó có các phương pháp dưới đây:
+1. Phương pháp qua
+nội soi dạ dày
+: Sinh thiết cấy tìm vi khuẩn H.P, làm xét nghiệm giải phẫu bệnh tìm vi khuẩn H.P, làm test nhanh urease.
+2. Các phương pháp không cần nội soi dạ dày: test thở C
+13
+, C
+14
+, xét nghiệm kháng thể IgG trong huyết thanh, xét nghiệm kháng nguyên vi khuẩn H.P trong phân.
+Tổ chức Tiêu hóa thế giới khuyến cáo trong thực tiễn khám và điều trị H.P hay dùng hai phương pháp: làm test nhanh ureas, test thở C
+13
+, C
+14
+và xét nghiệm kháng nguyên vi khuẩn H.P trong phân (hay làm ở trẻ em). Các phương pháp khác chủ yếu làm với mục đích nghiên cứu dịch tễ hoặc nghiên cứu sâu.
+Hiện nay, một số đơn vị khám chữa bệnh sử dụng xét nghiệm máu tìm kháng thể IgG trong huyết thanh để phát hiện nhiễm H.P là không chính xác, gây lãng phí.
+Vì nếu xét nghiệm cho thấy có khảng thể trong máu (dương tính), thì chỉ biết đã từng nhiễm H.P chứ không chắc chắn hiện tại có nhiễm H.P hay không, và hơn nữa sau khi điều trị diệt hoàn toàn H.P thì kháng thể IgG vẫn còn tồn tại trong máu sau đó rất lâu nên không cho biết được liệu bệnh nhân còn hay hết vi khuẩn H.P.
+Xét nghiệm máu tìm kháng thể IgG trong huyết thanh để phát hiện nhiễm H.P là không chính xác, gây lãng phí
+Khi nào cần điều trị diệt vi khuẩn H.P ?
+Theo khuyến cáo của thế giới những trường hợp dưới đây có nhiễm H.P thì cần điều trị diệt:
+- Loét dạ dày;
+- Loét hành tá tràng;
+- Chứng khó tiêu do H.P;
+-
+Ung thư dạ dày
+sớm được cắt hớt hoặc cắt tách niêm mạc qua nội soi.
+- Ung thư dạ dày đã phẫu thuật.
+- Những người có bố, mẹ, anh em ruột bị ung thư dạ dày.
+- Khối u dạ dày: adenoma, polyp tăng sản, đã cắt hớt niêm mạc;
+- Viêm teo nặng niêm mạc dạ dày;
+- Thiếu máu thiếu sắt không rõ căn nguyên;
+- Xuất huyết giảm tiểu cầu không rõ căn nguyên…
+Một số nước như Nhật Bản chủ trương cứ có H.P là điều trị diệt trừ vì tại đó tỉ lệ ung thư dạ dày rất cao và tỉ lệ nhiễm vi khuẩn H.P khoảng 51 % dân số.
+Ngược lại, tại một số vùng của các nước phát triển vùng cực bắc bán cầu như: Greenland của Đan Mạch, Alaska của Mỹ, một số vùng của Canada và Nga…- Nơi có tỉ lệ nhiễm H.P chiếm trên 60% dân số và có độ tuổi mắc giống Việt Nam (bắt đầu nhiễm H.P nhiều ở trẻ 4-5 tuổi và tỉ lệ này tăng rất nhanh đến độ tuổi 15) lại không chủ trương như vậy.
+Mặc dù các vùng này là ở các nước đã phát triển, các chuyên gia đã khuyến cáo không nên diệt H.P cho tất cả mọi người, ngay cả những người có chứng khó tiêu như: Đầy bụng sau ăn, ăn nhanh no, nóng rát vùng thượng vị, đau vùng thượng vị cũng không đặt vấn đề diệt H.P lên hàng đầu.
+Hình ảnh biến chứng khi nhiễm H.P
+Trong chỉ định điều trị diệt trừ H.P ở nước ta cũng có nhiều vấn đề phải cân nhắc thận trọng
+Tỉ lệ nhiễm H.P của nước ta chiếm trên 70% dân số, tỉ lệ tái xuất hiện H.P là rất cao, trung bình 11 tháng sau diệt H.P tái xuất xuất hiện trong dạ dày là 23,5%. Mặt khác tỉ lệ H.P
+kháng kháng sinh
+tại Việt Nam rất cao: trung bình amocixillin 24,9%, Clarithromycin 34,1% (có nghiên cứu là 85,5%), metronidazole 69,4% (có nghiên cứu là 95,5%), levofloxacin 27,9%, tetraxycline17,9% và đồng thời kháng nhiều loại kháng sinh trung bình là 47,4%.
+Vì vậy, việc điều trị diệt HP trở nên khó khăn, việc điều trị diệt H.P càng phải cần nhắc kỹ, đúng chỉ định không nên lạm dụng.
+Nếu một người Việt Nam có biểu hiện chứng khó tiêu như: Đầy bụng sau ăn, ăn nhanh no, nóng rát vùng thượng vị, đau vùng thượng vị mà xét nghiệm tìm H.P khả năng bị nhiễm H.P là trên 70%.
+Ngay cả khi bị chứng khó tiêu mà điều trị diệt vi khuẩn H.P thì theo nghiên cứu gộp (năm 2014) cứ 15 người điều trị có 1 người giảm triệu chứng, như vậy kết quả diệt H.P trong điều trị chứng khó tiêu cũng là khiêm tốn.
+Theo khuyến cáo của Hàn Quốc, là một nước có tỉ lệ nhiễm H.P cao những người có biểu hiện chứng khó tiêu, không được chủ định xét nghiệm và diệt H.P ngay từ đầu mà chỉ xét nghiệm và diệt H.P khi điều trị các phương pháp khác không kết quả.
+Vậy ở Việt Nam, một người có triệu chứng của chứng khó tiêu mà có nhiễm H.P có nên diệt H.P là lựa chọn hàng đầu hay không cũng phải rất thận trọng, thầy thuốc cần cân nhắc kỹ.
+Nhiễm H.P vì cho đó là nguyên nhân gây ung thư dạ dày
+Nếu nhiễm H.P vì cho đó là nguyên nhân gây ung thư dạ dày nên cần diệt, thì có thật sự xác đáng không ?
+Ung thư dạ dày có hai loại: ung thư vùng tâm vị và đoạn cuối thực quản ít liên quan tới nhiễm H.P.
+Còn loại ung thư không phải tâm vị (đây cũng là loại hay gặp hơn so với ung thư tâm vị) có liên quan đến nhiễm H.P.
+Mặc dù nước ta có tỉ lệ nhiễm vi khuẩn H.P hàng đầu thế giới với trên 70% dân số, nhưng tỉ lệ ung thư dạ dày chỉ là nước đứng thứ 10 trên thế giới.
+Ung thư dạ dày hình thành là hậu quả sự tác động giữa cơ thể con người và môi trường: như nhiễm vi khuẩn H.P, chế độ ăn có nhiều muối, hút thuốc lá, uống rượu, ăn ít rau và quả, ngoài ra còn liên quan tới yếu tố gia đình và gene thường gặp ở người ung thư dạ dày xuất hiện ở người trẻ tuổi trước 40 tuổi.
+Vì thế năm 2003, Tổ chức Y tế thế giới và Tổ chức Nông nghiệp và Thực phẩm thế giới (FAO) khuyên nên ăn không quá tổng lượng 5g muối/ngày sẽ có lợi cho phòng nhiều bệnh trong đó có giảm nguy cơ ung thư dạ dày.
+Nguyên nhân ung thư dạ dày không chỉ do vi khuẩn H.P gây ra mà còn nhiều yếu tố tác động. Theo số liệu điều tra năm 2015, trung bình người Việt Nam ăn 9,4 g muối mỗi ngày. Ăn nhạt cũng làm giảm nguy cơ ung thư dạ dày, vậy tại sao chúng ta không thực hiện?
+Nhiễm vi khuẩn H.P gây ung thư dạ dày có nên điều trị tiêu diệt là một vấn đề cần cân nhắc
+Việc kháng thuốc và điều trị diệt H.P
+Theo thống kê tỉ lệ kháng kháng sinh clarithromycin tại Việt Nam là rất cao từ 21,4 - 50,9%. Sở dĩ có tình trạng kháng thuốc kháng sinh cao vì việc sử dụng kháng sinh lan tràn trong các bệnh lý khác hoặc dùng kháng sinh với mục đích diệt vi khuẩn H.P nhưng không đúng chỉ định hoặc không đúng phác đồ điều trị.
+Theo khuyến cáo Hội tiêu hóa Việt Nam cũng như thế giới khi mà tỉ lệ kháng kháng sinh clarithromycin tại vùng dân cư trên 20% thì không nên sử dụng phác đồ sử dụng tiêu chuẩn trước kia: gồm thuốc ức chế bài tiết axit thông qua bơm proton (PPI) cùng 2 kháng sinh là clarithromycin và amoxicillin, mà phải thay bằng phác đồ khác.
+Như vậy, vi khuẩn H.P là nguyên nhân chủ yếu gây loét dạ dày tá tràng và ung thư dạ dày. Tuy nhiên, không phải tất cả những người bị nhiễm vi khuẩn H.P đều bị bệnh, vì thế cần điều trị diệt H.P đúng chỉ định để tránh không gây lãng phí, đồng thời không gây tình trạng kháng thuốc kháng sinh chéo từ người này sang người khác dẫn tới tình trạng khi cần điều trị diệt vi khuẩn H.P thì kháng sinh không còn hiệu quả.
+Nhiễm vi khuẩn Helicobacter pylori và nỗi lo ung thư dạ dày
+SKĐS- Nhiều người được chẩn đoán có nhiễm Helicobacter pylori (H.P) bằng các phương pháp khác nhau, đã rất lo lắng. Họ cho rằng nhiễm H.P là nguyên nhân gây ra loét dạ dày tá tràng, đặc biệt là gây ung thư dạ dày. Vậy, nhiễm H.P như thế nào và có đáng lo không?
