@@ -1,0 +1,78 @@
+# doc_id = health_disease_804
+# url = https://tamanhhospital.vn/lieu-phap-nham-trung-dich/
+# date = 04/12/2023
+Liệu pháp nhắm trúng đích trong điều trị ung thư cho bệnh nhân
+Liệu pháp nhắm trúng đích trong điều trị cho bệnh nhân ung thư là quá trình sử dụng các loại thuốc nhắm vào mục tiêu thành phần bên trong hoặc bề mặt tế bào ung thư, làm gián đoạn tín hiệu phân chia tế bào mà protein truyền đi, kiểm soát và ức chế ung thư phát triển.
+Mục lụcLiệu pháp nhắm trúng đích là gì?Vai trò của liệu pháp nhắm trúng đích trong điều trị ung thưLiệu pháp nhắm trúng đích trong điều trị ung thư gồm những loại nào?1. Thuốc phân tử nhỏ2. Kháng thể đơn dòngLiệu pháp nhắm trúng đích khác với hóa trị liệu như thế nào?Đối tượng nào sử dụng liệu pháp nhắm trúng đích?Liệu pháp trúng đích chống lại tế bào ung thư như thế nào?Hạn chế của liệu pháp nhắm trúng đíchTác dụng phụ của liệu pháp nhắm trúng đíchĐiều trị ung thư bằng liệu pháp nhắm trúng đích ở đâu?Liệu pháp nhắm trúng đích là gì?
+Liệu pháp nhắm trúng đích (liệu pháp nhắm mục tiêu) là việc sử dụng các loại thuốc được nghiên cứu trong phòng thí nghiệm để “nhắm mục tiêu” vào những thay đổi, đột biến gen của các tế bào ung thư, tấn công chúng mà không ảnh hưởng đến các tế bào khỏe mạnh. Liệu pháp trúng đích có thể được chỉ định làm phương pháp điều trị ban đầu, kết hợp với các phương pháp điều trị khác nhằm tối ưu hiệu quả điều trị bệnh ung thư. (1)
+Điều trị trúng đích có khả năng tấn công các tế bào ung thư, bảo vệ tế bào khỏe mạnh.
+Vai trò của liệu pháp nhắm trúng đích trong điều trị ung thư
+Tế bào ung thư có những thay đổi nhất định trong bộ gen, khiến chúng khác biệt so với tế bào thường. Gen là một phần của DNA tế bào. Khi gen tế bào thay đổi, nó sẽ không hoạt động như một tế bào bình thường. Đơn cử trong tế bào ung thư, khi tế bào có bộ gen thay đổi khiến các tế bào phân chia một cách rất nhanh, không theo trật tự nào, khiến các tế bào này trở thành tế bào ung thư.
+Không phải mọi tế bào ung thư đều giống nhau. Ngay cả những người cùng mắc một loại ung thư, các tế bào ung thư cũng có thể có những thay đổi gen khác nhau. Điều này được hiểu là các tế bào ung thư người này sẽ không giống tế bào ung thư của người khác, cách điều trị có thể khác biệt.
+Các nhà nghiên cứu cho biết môi trường ung thư bắt đầu và phát triển không hoàn toàn giống nhau. Một số căn bệnh ung thư có những loại protein hoặc enzyme nhất định có nhiệm vụ gửi tín hiệu để báo cho tế bào ung thư phát triển, tự sao chép nhân rộng. Cơ chế hoạt động của thuốc nhắm trúng đích làm gián đoạn các thông điệp mà protein hoặc enzyme này gửi đến các tế bào ung thư, khiến ung thư ngừng phát triển hoặc phát đi tín hiệu cho tế bào ung thư tự diệt chúng. (2)
+Liệu pháp điều trị nhắm trúng đích cho bệnh nhân ung thư vẫn đang được các nhà nghiên cứu phát triển và mở rộng. Hiện nay chỉ có một số loại ung thư được điều trị bằng những loại thuốc này, thường được bác sĩ chỉ định kết hợp với các phương pháp điều trị như phẫu thuật, hóa trị, xạ trị, liệu pháp hormone… để tối ưu hiệu quả điều trị.
+Liệu pháp nhắm trúng đích trong điều trị ung thư gồm những loại nào?
+Các nhà nghiên cứu sau khi hiểu được cách thức hoạt động của các đột biến gen tế bào ung thư, họ sẽ xác định bộ phận cụ thể của tế bào ung thư để nhắm mục tiêu điều trị. Tùy thuộc vào từng trường hợp bệnh, đôi khi mục tiêu sẽ nằm trên bề mặt tế bào ung thư, số khác nhắm vào chất bên trong tế bào ung thư.
+Các nhà nghiên cứu sẽ xác định bộ phận cụ thể của tế bào ung thư để nhắm mục tiêu điều trị
+2 loại liệu pháp điều trị trúng đích phổ biến và cơ chế tiêu diệt ung thư gồm: (3)
+1. Thuốc phân tử nhỏ
+Các loại thuốc gắn trực tiếp vào mục tiêu cụ thể trên tế bào ung thư, có tác dụng ức chế sự phát triển, tiêu diệt các tế bào ung thư.
+2. Kháng thể đơn dòng
+Là các protein được tạo ra từ phòng thí nghiệm, có thành phần tương tự hệ thống miễn dịch của cơ thể người bệnh. Các protein này có khả năng rà soát, phát hiện các dấu hiệu protein lạ xâm nhập (kháng nguyên) do nhiễm trùng, virus. Bên cạnh đó, chúng có thể đưa vào các phân tử có thuốc vào trong hoặc trên bề mặt tế bào để tiêu diệt tế bào ung thư.
+Liệu pháp nhắm trúng đích khác với hóa trị liệu như thế nào?
+Các loại thuốc trong điều trị nhắm trúng đích tương tự phương pháp hóa trị bằng thuốc. Về mặt kỹ thuật, chúng đều được coi là hóa trị liệu. Tuy nhiên về bản chất, các loại thuốc nhắm trúng đích tập trung vào sự thay đổi làm cho tế bào ung thư khác với các tế bào bình thường khỏe mạnh. Thuốc liệu pháp nhắm trúng đích hoạt động theo 2 cách:
+Liệu pháp nhắm trúng đích
+Hóa trị truyền thống
+Mục tiêu
+Các loại thuốc ảnh hưởng đến tế bào ung thư và để lại tế bào bình thường khỏe mạnh.
+Gây độc tế bào, đồng nghĩa các loại thuốc này có thể gây độc cả tế bào khỏe mạnh lẫn tế bào ung thư trong quá trình điều trị khối u.
+Cách hoạt động
+Ngăn chặn các tế bào ung thư tự sao chép, chăn chặn tế bào ung thư phân chia tạo tế bào ung thư mới.
+Giết chết các tế bào ung thư đã được tạo ra.
+Đối tượng nào sử dụng liệu pháp nhắm trúng đích?
+Không phải tất cả các loại ung thư đều có thể điều trị bằng liệu pháp nhắm trúng đích. Hiện nay, các nhà nghiên cứu phát triển hơn 80 loại liệu pháp nhắm trúng đích trong điều trị cho bệnh nhân ung thư. Một số loại ung thư có thể điều trị bằng liệu pháp nhắm trúng đích gồm: (4)
+Ung thư máu: ung thư bạch cầu, ung thư hạch
+Ung thư não
+Ung thư xương và mô mềm
+Ung thư vú
+Ung thư tiêu hóa: ung thư đại trực tràng, ung thư thực quản, ung thư tuyến tụy, ung thư dạ dày, ung thư gan, ung thư tuyến mật, ung thư hạch không hodgkin…
+Ung thư vùng đầu cổ: ung thư vòm họng, ung thư miệng, ung thư thanh quản…
+Ung thư phổi
+Ung thư hệ sinh dục: ung thư cổ tử cung, ung thư nội mạc tử cung
+Ung thư tuyến giáp
+Ung thư hệ tiết niệu: ung thư bàng quang, ung thư thận, ung thư tuyến tiền liệt
+Để biết chính xác người bệnh có thể tiếp nhận điều trị bằng phương pháp nhắm trúng đích hay không, bác sĩ sẽ kiểm tra các mẫu tế bào chứa mục tiêu cụ thể đang giúp tế bào ung thư phát triển. Cùng một loại ung thư, bác sĩ có thể chỉ định các phương pháp điều trị nhắm trúng đích khác nhau dựa trên các kết quả xét nghiệm của từng mẫu bệnh.
+Liệu pháp trúng đích chống lại tế bào ung thư như thế nào?
+Liệu pháp nhắm trúng đích trong điều trị ung thư hoạt động theo cơ chế tập trung can thiệp vào các protein giúp khối u phát triển, lan rộng khắp cơ thể. Điều này khác với phương thức hóa trị truyền thống, có khả năng tiêu diệt cả tế bào ung thư lẫn tế bào bình thường. (5)
+Liệu pháp nhắm trúng đích can thiệp trực tiếp vào các protein giúp khối u phát triển.
+Cách thức hoạt động của liệu pháp nhắm trúng đích như sau:
+Hỗ trợ hệ thống miễn dịch tự nhiên tiêu diệt ung thư: Lý do khiến tế bào ung thư có thể phát triển nhanh chóng, khỏe mạnh chính nhờ khả năng bất hoạt tạm thời hoặc ẩn mình khỏi sự kiểm soát, phát hiện của hệ thống miễn dịch. Liệu pháp nhắm trúng đích giúp đánh dấu các tế bào ung thư để hệ miễn dịch tìm và tiêu diệt tế bào ung thư nhanh chóng, dễ dàng hơn.
+Ngăn chặn tế bào ung thư phát triển: Các tế bào khỏe mạnh trong cơ thể thường phân chia khi chúng nhận được tín hiệu, nhằm tạo ra các tế bào mới thay thế cho tế bào cũ hoặc mất đi. Tín hiệu này liên kết với các protein bề mặt tế bào, có chức năng báo cho tế bào phân chia. Tuy nhiên một số lý do khiến quá trình truyền tín hiệu này bị rối loạn, những thay đổi protein trên bề mặt tế bào khiến chúng phân chia mất kiểm soát, hình thành ung thư. Liệu pháp nhắm trúng đích can thiệp vào các loại protein này, ngăn tín hiệu phân chia tế bào, giúp kiểm soát quá trình phát triển khối u.
+Ngừng tín hiệu hình thành mạch máu: Các khối u cần các mạch máu mới để tạo mạch, giúp ung thư phân chia và tiến triển. Liệu pháp nhắm mục tiêu có khả năng can thiệp vào luồng tín hiệu hình thành mạch máu mới, giúp ức chế quá trình tạo mạch, kiểm soát kích thước khối u.
+Cung cấp các chất tiêu diệt tế bào ung thư: Một số loại kháng thể đơn dòng kết hợp với các chất tiêu diệt tế bào ung thư có trong thuốc hóa trị hoặc xạ trị. Các kháng thể đơn dòng gắn vào các mục tiêu trên bề mặt tế bào ung thư, khiến tế bào ung thư hấp thụ các chất tiêu diệt tế bào và bị tiêu diệt. Các tế bào không có mục tiêu sẽ không bị ảnh hưởng.
+Gây chết tế bào ung thư: Các tế bào bình thường sẽ hư hại hoặc mất đi nếu chúng không còn cần thiết cho cơ thể. Tuy nhiên các tế bào ung thư có cách lẩn tránh quá trình này. Do đó liệu pháp nhắm mục tiêu có khả năng khiến các tế bào ung thư trải qua quá trình mất đi, tương tự các tế bào bình thường.
+Ngăn chặn tạo ra hormone nuôi ung thư: Một số loại ung thư cần hormone nhất định cho quá trình phát triển. Liệu pháp nhắm trúng đích có tác dụng ngăn cơ thể tạo ra những loại hormone mà tế bào ung thư “ưa thích”.
+Hạn chế của liệu pháp nhắm trúng đích
+Bên cạnh những ưu điểm hỗ trợ cho quá trình điều trị ung thư, liệu pháp nhắm trúng đích cũng có những nhược điểm như:
+Liệu pháp nhắm trúng đích được đánh giá không hiệu quả nếu khối u không có sự thay đổi gen hoặc protein cụ thể mà thuốc nhắm đến.
+Khối u có thể không đáp ứng thuốc.
+Tế bào ung thư kháng thuốc sau một thời gian điều trị (tế bào ung thư không đáp ứng thuốc hoặc tìm cách phát triển mới).
+Không phải tất cả bệnh nhân ung thư đều có thể điều trị liệu pháp nhắm trúng đích.
+Tác dụng phụ của liệu pháp nhắm trúng đích
+Người bệnh có thể gặp tác dụng phụ khi điều trị bằng liệu pháp nhắm trúng đích. Tuy nhiên, chúng có sự khác nhau với từng loại thuốc, từng ca bệnh cụ thể. Một số tác dụng phụ có thể xuất hiện gồm:
+Tiêu chảy
+Khô da
+Tăng huyết áp
+Nhạy cảm với tia cực tím (UV)
+Mất màu tóc
+Thay đổi móng tay
+Rối loạn đông máu
+Phát ban
+Nhịp tim thay đổi
+Ảnh hưởng hệ thống thần kinh
+Bệnh phổi kẽ (xơ phổi, gây sẹo và viêm kẽ phổi)
+Tăng men gan
+Điều trị ung thư bằng liệu pháp nhắm trúng đích ở đâu?
+Hiện nay, liệu pháp nhắm trúng đích trong điều trị bệnh ung thư đã được triển khai tại Khoa Ung bướu, BVĐK Tâm Anh. Bệnh viện được trang bị hệ thống máy móc, phương tiện chẩn đoán ung thư hiện đại, chính xác như CT, MRI,… cũng như có đầy đủ các loại thuốc điều trị trúng đích, thuốc điều trị miễn dịch hỗ trợ hiệu quả quá trình điều trị ung thư. BVĐK Tâm Anh áp dụng phương pháp điều trị đa mô thức từ phẫu thuật, hóa trị, xạ trị, kết hợp điều trị nhắm mục tiêu, điều trị miễn dịch, các thuốc đích… trong điều trị ung thư. Bên cạnh đó, hệ thống phòng bệnh, giường truyền hóa chất hiện đại, riêng tư, tạo sự thoải mái cho người bệnh trong quá trình điều trị.
+Để tìm hiểu thông tin điều trị ung thư bằng liệu pháp nhắm trúng đích tại BVĐK Tâm Anh, Quý khách có thể liên hệ theo thông tin:
+Liệu pháp nhắm trúng đích mở ra một kỷ nguyên mới trong điều trị ung thư, góp phần cải thiện hiệu quả điều trị, kéo dài thời gian sống cho người bệnh cũng như nâng cao chất lượng cuộc sống bệnh nhân ung thư một cách hiệu quả.

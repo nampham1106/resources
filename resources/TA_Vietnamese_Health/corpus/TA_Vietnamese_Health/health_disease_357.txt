@@ -1,0 +1,50 @@
+# doc_id = health_disease_357
+# url = https://tamanhhospital.vn/tai-luong-virus-la-gi/
+# date = 01/09/2021
+Tải lượng virus là gì? Vì sao kết quả đo cao, thấp quan trọng?
+Tải lượng virus là số lượng virus tìm được khi thực hiện xét nghiệm các bệnh truyền nhiễm như: HIV/AIDS, viêm gan, COVID-19… Thông qua chỉ số này, bác sĩ sẽ biết được lượng virus có trong máu hoặc dịch tiết của người bệnh để đưa ra phác đồ điều trị phù hợp.
+Bài viết được tư vấn chuyên môn bởi NGND.PGS.TS.BS. Nguyễn Thị Hà, Trưởng khoa Xét nghiệm kiêm Giám đốc TTĐT&NCKH BVĐK Tâm Anh Hà Nội.
+Mục lụcTải lượng virus là gì?Cách xét nghiệm đo tải lượng virus như thế nào?Khi nào cần làm xét nghiệm đo tải lượng virus?1. Nghi ngờ mắc bệnh do virus tấn công2. Kiểm tra, đánh giá phác đồ điều trị bệnh3. Tiêu chuẩn để xuất viện, xác định giới hạn không lây nhiễmHướng dẫn cách đọc các chỉ số tải lượng virus để biết thấp/cao?1. Đối với bệnh nhân viêm gan B2. Đối với người mắc COVID-19Tải lượng virus không thể phát hiện là gì?Tải lượng virus và COVID-19Tải lượng virus là gì?
+Tải lượng virus là số lượng virus có trong máu hay dịch tiết của người bệnh bị virus tấn công, được tìm thấy thông qua xét nghiệm PCR hay Realtime RT-PCR. Dựa trên số liệu virus phát hiện được, các bác sĩ có cơ sở đánh giá tình trạng bệnh, lên chiến lược điều trị hay cho người bệnh xuất viện.
+Nếu kết quả xét nghiệm cho thấy mẫu bệnh phẩm có thông số tải lượng virus cao thì virus đang tấn công mạnh vào cơ thể. Chúng “giành quyền” kiểm soát cơ chế hoạt động hoặc cơ chế phân chia của tế bào, từ đó điều khiển tế bào tạo ra hàng loạt bản sao của virus. Lúc này, cơ thể sẽ kích thích hoạt động của hệ miễn dịch để “chiến đấu” lại virus. Nếu virus quá mạnh, hệ miễn dịch không ngăn chặn được thì người bệnh cần nhập viện điều trị bằng các loại thuốc ức chế, thuốc kháng virus.
+Tải lượng virus sẽ có những thông số khác nhau tùy theo từng thời điểm xét nghiệm và sức đề kháng, hay khả năng đáp ứng điều trị của mỗi cá nhân.
+Ảnh: Minh họa virus Corona trong cơ thể người
+Cách xét nghiệm đo tải lượng virus như thế nào?
+Xét nghiệm tải lượng virus là đo số lượng vật liệu di truyền của một loại virus có trong máu. Hiện có 3 cách xét nghiệm đo tải lượng virus là xét nghiệm phản ứng chuỗi polymerase phiên mã ngược (RT-PCR), xét nghiệm DNA phân nhánh (bDNA) và xét nghiệm khuếch đại dựa trên trình tự axit nucleic (NASBA).
+Các xét nghiệm này có thể cho ra kết quả tải lượng virus khác nhau và tải lượng virus có thể phát hiện mức độ virus xuống còn 50 bản sao trên 1 ml máu.
+Các phép đo tải lượng virus có thể khác nhau theo thời gian virus xâm nhập vào cơ thể. Do đó, bác sĩ thường yêu cầu người bệnh cần xét nghiệm tải lượng virus nhiều lần để đánh giá tình trạng phát triển virus, tiến triển khi dùng thuốc điều trị của các bệnh truyền nhiễm. Khi tải lượng virus tăng lên, bệnh được coi là tiến triển. Nếu các phép đo cho thấy tải lượng virus giảm trong một số lần thử nghiệm, tức là virus bị ức chế.
+Khi nào cần làm xét nghiệm đo tải lượng virus?
+Xét nghiệm đo tải lượng virus là một xét nghiệm khá phổ biến và có giá trị cao trong các bệnh nhiễm trùng mạn tính như viêm gan siêu vi B, C và HIV, COVID-19. Chỉ định xét nghiệm tải lượng virus được bác sĩ yêu cầu vào 3 thời điểm sau:
+1. Nghi ngờ mắc bệnh do virus tấn công
+Một số virus gây bệnh truyền nhiễm như SARS-CoV-2 thường có dấu hiệu: đau đầu, sốt, ho, khó thở sẽ được chỉ định xét nghiệm Realtime RT-PCR để khẳng định mắc COVID-19. Ngoài ra, một số bệnh viêm gan B, C lại diễn biến âm thầm, người bệnh chỉ được phát hiện ở giai đoạn sớm do tình cờ đi khám bệnh, hay kiểm tra sức khỏe tổng quát do men gan tăng cao. Lúc này, bác sĩ cho làm xét nghiệm PCR để chẩn đoán chính xác, đánh giá tình trạng nhiễm virus và kê đơn thuốc điều trị.
+2. Kiểm tra, đánh giá phác đồ điều trị bệnh
+Xét nghiệm tải lượng virus giúp đánh giá quá trình điều trị, hiệu quả sử dụng các loại thuốc kháng virus. Nếu tải lượng virus giảm, điều đó chứng tỏ bệnh nhân đáp ứng thuốc tốt. Ngược lại, tải lượng virus giảm không đáng kể, chứng tỏ người bệnh không đáp ứng với thuốc, hay với phác đồ điều trị đã áp dụng. Trên cơ sở đó, bác sĩ sẽ thay đổi thuốc và phác đồ điều trị thích hợp.
+Một người mắc COVID-19 tiến triển nặng
+3. Tiêu chuẩn để xuất viện, xác định giới hạn không lây nhiễm
+Người mắc COVID-19 thường được xét nghiệm tải lượng virus tối thiểu 2-3 lần trong khoảng thời gian từ 14-21 ngày, kể từ khi có kết quả khẳng định dương tính với virus SARS-CoV-2. Mới đây Bộ Y tế Việt Nam đã hướng dẫn, những người nhiễm COVID-19 điều trị tại cơ sở y tế, nếu có tải lượng virus thấp thông qua chỉ số CT>=30 sẽ được xuất viện, cách ly tại nhà.
+Tại các Hội nghị khoa học Thế giới về HIV/AIDS năm 2017 tại Paris và 2018 tại Hà Lan cũng đã công bố một người nhiễm HIV được điều trị ARV có tải lượng vi rút dưới 200 bản sao/ml máu (hay còn gọi là dưới ngưỡng phát hiện), sẽ ngăn ngừa được lây truyền HIV qua đường tình dục.
+Hướng dẫn cách đọc các chỉ số tải lượng virus để biết thấp/cao?
+Mỗi xét nghiệm đo tải lượng virus sẽ có quy chuẩn khác nhau, cách đọc tải lượng virus cũng khác biệt. Nhưng nhìn chung, các xét nghiệm PCR, Realtime RT-PCR giúp bác sĩ phân biệt các trường hợp diễn tiến bệnh như sau:
+Không thấy virus xuất hiện trong bệnh phẩm mẫu máu: Người được xét nghiệm không mắc bệnh, hoặc đã điều trị khỏi.
+Tải lượng virus đạt dưới ngưỡng được phát hiện: Virus đã bị ức chế, suy yếu không có khả năng lây bệnh cho người khác.
+Đo được nồng độ tải lượng virus cụ thể: Virus đang trong quá trình nhân lên, phát triển.
+1. Đối với bệnh nhân viêm gan B
+Thông thường, giá trị trung bình của HBV-DNA
+Từ 10^3 – 10^5 copies/ml máu chứng tỏ virus đang ở giai đoạn khởi đầu sao chép.
+Từ 10^5 – 10^7 copies/ml máu chứng tỏ virus đang ở giai đoạn sao chép tương đối mạnh.
+Từ vượt ngưỡng 10^7 copies/ml máu chứng tỏ virus đang ở giai đoạn sao chép rất mạnh.
+2. Đối với người mắc COVID-19
+Tải lượng virus SARS-CoV-2, thể hiện qua chỉ số CT
+Khi mới nhiễm thì chỉ số CT cao, nồng độ virus thấp.
+CT giảm dần thì nồng độ virus tăng lên nhiều.
+CT lại cao lên, nồng độ virus giảm xuống.
+Chỉ số CT>=30 thì người đó đã có tải lượng virus rất thấp, khó lây và sẽ được xuất viện. Nếu chỉ số CT tiếp tục tăng đến trên 33 thì virus trong cơ thể họ không có khả năng lây nhiễm cho người khác.
+Trung tâm Xét nghiệm BVĐK Tâm Anh tiến hành xét nghiệm COVID-19.
+Tải lượng virus không thể phát hiện là gì?
+Tải lượng virus không thể phát hiện có nghĩa là số lượng virus trong mẫu xét nghiệm từ máu, dịch tiết cơ thể không còn hoặc dưới ngưỡng phát hiện của máy xét nghiệm PCR, Realtime RT-PCR. Điều đó đồng nghĩa, người bệnh đã khỏi bệnh, hoặc lượng virus trong máu bệnh nhân rất thấp, không còn nguy cơ lây nhiễm cho người khác.
+Hiện có nhiều loại thuốc điều trị virus hiệu quả dùng trong chữa các bệnh như viêm gan siêu vi B, C mạn tính, HIV. Nhờ sử dụng thuốc điều trị lâu dài, virus bị ức chế, suy yếu, từ đó xét nghiệm kiểm tra cho thấy tải lượng virus đã về dưới ngưỡng phát hiện, là một điều trị thành công, giảm được biến chứng nguy hiểm.
+Tải lượng virus và COVID-19
+Do đại dịch COVID-19 đã và đang lây lan và ảnh hưởng đến sức khỏe, kinh tế, đời sống người dân trên toàn thế giới. Các chuyên gia y tế thế giới cũng đã tập trung nghiên cứu tải lượng virus SARS-CoV-2 để có chiến lược điều trị hiệu quả cho người không may lây nhiễm COVID-19.
+Mặc dù, khái niệm tải lượng virus SARS-CoV-2 còn khá mới mẻ vì đại dịch COVID-19 chỉ xuất hiện trong vòng 2 năm qua nhưng nghiên cứu về virus SARS-CoV-2 cũng cho thấy tải lượng virus cao trong tuần đầu tiên khởi phát triệu chứng và đạt đỉnh 10-14 ngày sau khi các triệu chứng xuất hiện lần đầu tiên. Như vậy, virus có khả năng lây truyền từ rất sớm. Đặc biệt chủng Delta được đánh giá là chủng virus có tốc độ lây truyền cao nhất, lây nhanh hơn virus cúm thông thường.
+Hiện nay, tải lượng virus SARS-CoV-2 cũng được tìm thấy ở người bệnh không có triệu chứng. Điều này cho thấy người không có triệu chứng vẫn có thể truyền bệnh. Do đó, công tác xét nghiệm sàng lọc người nhiễm COVID-19, xác định tải lượng virus, đánh giá khả năng lây truyền…. sẽ có vai trò quan trọng trong chiến dịch kiểm soát bệnh truyền nhiễm lây lan trong cộng đồng.
+Tại hệ thống BVĐK Tâm Anh, Trung tâm Xét nghiệm đã sử dụng 2 quy trình chẩn đoán COVID-19 là quy trình của Charite – Berlin theo khuyến cáo của WHO (đích phát hiện là gen E và gen RdRp của COVID-19), và quy trình của US.CDC (đích phát hiện là 2 đoạn khác nhau trên gen N của COVID-19). Nhờ vận hành hệ thống xét nghiệm Realtime RT-PCR hiện đại, hệ thống BVĐK Tâm Anh góp phần sàng lọc các ca nhiễm COVID-19 trong cộng đồng, và đánh giá tải lượng virus có trong mẫu xét nghiệm một cách chính xác, hỗ trợ các cơ sở điều trị COVID-19 có chiến lược điều trị cho người nhiễm bệnh với liệu trình phù hợp.

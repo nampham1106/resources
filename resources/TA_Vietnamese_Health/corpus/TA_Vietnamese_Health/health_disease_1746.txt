@@ -1,0 +1,84 @@
+# doc_id = health_disease_1746
+# url = https://tamanhhospital.vn/nhoi-mau-co-tim-co-st-chenh-len/
+# date = 16/02/2023
+Nhồi máu cơ tim có ST chênh lên: Chẩn đoán và điều trị
+Chiếm hơn 30% các ca nhồi máu cơ tim, nhồi máu cơ tim có ST chênh lên xảy ra khi một động mạch vành bị tắc nghẽn hoàn toàn, khiến phần lớn cơ tim không được cung cấp đủ máu. Đây là một dạng nhồi máu cơ tim nghiêm trọng có thể đe dọa tính mạng bệnh nhân.
+Cơn nhồi máu cơ tim có ST chênh lên xảy đến đột ngột, có khả năng đe dọa tính mạng bệnh nhân nếu không cấp cứu kịp thời
+Mục lụcNhồi máu cơ tim có ST chênh lên là gì?Triệu chứng thường gặpYếu tố nguy cơPhương pháp chẩn đoánBiến chứngPhương pháp điều trị nhồi máu cơ tim có ST chênh lên1. Can thiệp mạch vành qua da2. Sử dụng thuốc3. Phẫu thuật bắc cầu động mạch vànhBiện pháp phòng ngừaNhồi máu cơ tim có ST chênh lên là gì?
+Nhồi máu cơ tim có ST chênh lên (STEMI) là hội chứng mạch vành cấp tính nghiêm trọng nhất, xảy ra khi một động mạch vành bị tắc nghẽn hoàn toàn, cắt đứt nguồn cung cấp máu cho tim. Hệ quả là cơ tim chết từ từ mà không thể tự phục hồi hoặc tái tạo. Nếu cơ tim bị tổn thương quá nhiều, điều này dẫn đến một trạng thái gọi là sốc tim, thường gây tử vong. Ngoài ra, thiếu máu cục bộ cơ tim cũng có khả năng gây ra một nhịp tim nguy hiểm (nhịp nhanh thất hoặc rung thất), có thể khiến người bệnh ngừng tim và đột tử. (1)
+Bệnh có đặc trưng là đoạn ST chênh lên trên điện tâm đồ và không cải thiện khi sử dụng nitroglycerin.
+Cơ chế dẫn tới một cơn nhồi máu cơ tim STEMI là:
+Mảng xơ vữa tích tụ trong các động mạch vành cung cấp máu cho tim.
+Sự tích tụ mảng xơ vữa là căn nguyên gây hẹp lòng động mạch vành.
+Khi mảng xơ vữa vỡ ra, tạo điều kiện thuận lợi hình thành cục máu đông gây tắc nghẽn hoàn toàn động mạch vành.
+Khi bị tắc nghẽn, phần cơ tim được cung cấp máu bởi động mạch đó sẽ nhanh chóng bị thiếu oxy, còn gọi là thiếu máu cục bộ.
+Một số cơ tim bắt đầu chết, dẫn đến nhồi máu cơ tim.
+Triệu chứng thường gặp
+Các triệu chứng nhồi máu cơ tim có ST chênh lên ở mỗi người không giống nhau. Một số triệu chứng phổ biến bao gồm: (2)
+Đau xung quanh bả vai, cánh tay, ngực, hàm, bụng trên
+Đau hoặc cảm thấy đè nặng xung quanh vùng ngực, còn gọi là đau thắt ngực
+Đổ mồ hôi, khó thở
+Khó chịu hoặc nặng tức ở cổ/cánh tay
+Khó tiêu, khó chịu ở dạ dày và ngực
+Ợ chua
+Buồn nôn và nôn
+Mệt mỏi, kiệt sức
+Chóng mặt
+Nhịp tim nhanh hoặc không đều
+Yếu tố nguy cơ
+Yếu tố nguy cơ gây ST chênh lên trong nhồi máu cơ tim được chia thành 2 nhóm: nhóm yếu tố có thể kiểm soát và nhóm yếu tố không thể kiểm soát.
+Các yếu tố có thể kiểm soát:
+Hút thuốc lá
+Chế độ ăn uống thừa muối (làm tăng huyết áp), đường (gây bệnh đái tháo đường) hoặc chất béo xấu (tăng nguy cơ xơ vữa động mạch)
+Lối sống ít vận động
+Uống quá nhiều rượu
+Lạm dụng ma túy (đặc biệt là chất kích thích như amphetamine, cocaine hoặc các loại thuốc ảnh hưởng đến tim)
+Lạm dụng rượu bia là một trong những yếu tố đẩy nhanh quá trình xơ vữa động mạch gây tắc nghẽn mạch máu dẫn đến nhồi máu cơ tim
+Các yếu tố không thể kiểm soát:
+Tuổi tác: Bạn càng lớn tuổi, khả năng bị nhồi máu cơ tim càng tăng lên.
+Giới tính: Nguy cơ nhồi máu cơ tim tăng cao đối với nam giới sau tuổi 45. Trong khi đó, phần lớn phụ nữ trên 50 tuổi hoặc sau khi mãn kinh mới đối mặt với nguy cơ này.
+Tiền sử gia đình: Nếu bạn có cha mẹ hoặc anh chị em bị nhồi máu cơ tim, nguy cơ của bạn sẽ tăng lên đáng kể.
+Ngoài ra, nếu bạn có cha/anh trai được chẩn đoán mắc bệnh tim trước 55 tuổi hoặc mẹ/chị gái bị bệnh tim trước 65 tuổi, bạn cũng tăng khả năng bị nhồi máu cơ tim.
+Di truyền hoặc bẩm sinh: Một số tình trạng bệnh lý bẩm sinh hoặc di truyền (chẳng hạn như rối loạn mỡ máu, tăng huyết áp…) có thể làm tăng nguy cơ nhồi máu cơ tim.
+Phương pháp chẩn đoán
+Để chẩn đoán cơn nhồi máu cơ tim có ST chênh lên, bác sĩ sẽ dựa trên các triệu chứng cũng như kết quả cận lâm sàng của người bệnh. Bên cạnh đó, bác sĩ có thể khai thác tiền sử gia đình, tình trạng bệnh lý cũng như thói quen ăn uống, sinh hoạt của bệnh nhân.
+Các cận lâm sàng thường được chỉ định để xác nhận hoặc loại trừ cơn nhồi máu cơ tim có ST chênh lên bao gồm:
+Điện tâm đồ (EKG): là chìa khóa để chẩn đoán STEMI, giúp xác định có đoạn ST chênh lên trên điện tâm đồ hay không.
+Siêu âm tim: Xét nghiệm hình ảnh phổ biến nhất được sử dụng khi nghi ngờ cơn nhồi máu cơ tim là siêu âm tim.
+Phương pháp này sử dụng nguyên lý sóng siêu âm để quan sát cấu trúc tim cũng như sự vận động và chức năng của quả tim.
+Chụp cắt lớp vi tính (CT) và cộng hưởng từ (MRI): giúp bác sĩ xác định vị trí hẹp và tắc nghẽn trong lòng động mạch. Tuy nhiên, kỹ thuật này không thể thay thế hoàn toàn được việc chụp động mạch vành qua da.
+Xét nghiệm troponin T: Khi cơ tim bị tổn thương, một lượng lớn troponin T sẽ được giải phóng vào máu. Xét nghiệm này giúp định lượng nồng độ troponin T trong máu, từ đó chẩn đoán cơn nhồi máu cơ tim cấp cũng như các bất thường ở tim.
+Biến chứng
+Cơn nhồi máu cơ tim có ST chênh lên có thể dẫn đến những biến chứng nghiêm trọng như: (3)
+Rối loạn nhịp tim: Các cơ bị tổn thương làm gián đoạn sự truyền tín hiệu điện điều khiển tim, gây ra tình trạng rối loạn nhịp tim với các dạng như tim đập quá nhanh (nhịp tim nhanh trên thất), đập quá chậm (nhịp tim chậm), đập không đều (rung tâm nhĩ)…
+Suy tim: Suy tim xảy ra khi tim không thể bơm máu đi khắp cơ thể một cách hiệu quả. Biến chứng này có thể phát triển sau một cơn nhồi máu cơ tim nếu cơ tim bị tổn thương quá nhiều, thường là ở phía tim trái (tâm thất trái).
+Sốc tim: Cơ chế của sốc tim tương tự như suy tim nhưng nghiêm trọng hơn. Nó xảy ra khi cơ tim bị tổn thương quá mức, không còn khả năng bơm đủ máu để duy trì nhiều chức năng của cơ thể. Lúc này có người bệnh có thể rơi vào tình trạng tụt huyết áp và tử vong nếu không được điều trị kịp thời.
+Vỡ tim: Đây là một biến chứng cực kỳ nghiêm trọng tương đối hiếm gặp của nhồi máu cơ tim, khiến các cơ thành tim bị tổn thương và thủng. Vỡ tim có khả năng xảy ra nếu tim bị tổn thương nặng nề trong vòng 1-5 ngày kể từ khi cơn nhồi máu cơ tim xuất hiện. Khi có biến chứng này tiên lượng cho những người bệnh rất xấu. Người ta ước tính rằng cứ 2 người bị vỡ tim do nhồi máu cơ tim thì có 1 người tử vong trong vòng 5 ngày sau đó.
+Phương pháp điều trị nhồi máu cơ tim có ST chênh lên
+Khi gặp phải cơn STEMI, người bệnh cần được đưa đến bệnh viện càng sớm càng tốt. Việc cấp cứu kịp trong thời điểm “giờ vàng” sẽ tăng cơ hội tái thông lòng mạch, giảm tổn thương cơ tim và giảm nguy cơ để lại di chứng sau điều trị. Một số phương pháp thường được áp dụng để cấp cứu cho bệnh nhân nhồi máu cơ tim có ST chênh lên là: (4)
+1. Can thiệp mạch vành qua da
+Đây là phương pháp chụp mạch máu và đặt stent (giá đỡ kim loại) để tái thông tắc nghẽn, phục hồi lại lưu lượng máu cho cơ tim. Bác sĩ sẽ đưa dụng cụ (có gắn bóng có thể bơm dung dịch vào để làm phồng bóng) qua mạch máu ở ngoại vị (thường ở cổ tay hoặc đùi) luồn lên tim và đến mạch máu tổn thương. Khi đến đúng vị trí tắc nghẽn trong lòng mạch, quả bóng được bơm phồng để nong mạch máu. Tiếp đó, bác sĩ có thể đặt stent tại đây để giữ cho động mạch mở rộng, ngăn chặn sự tái tắc nghẽn.
+Một ca can thiệp điều trị nhồi máu cơ tim được thực hiện tại khoa Tim mạch, BVĐK Tâm Anh Hà Nội
+2. Sử dụng thuốc
+Điều trị thuốc là điều trị nền tảng quan trọng cùng với can thiệp hoặc phẫu thuật để điều trị nhồi máu cơ tim. Những loại thuốc này thường là:
+Thuốc chẹn beta: có tác dụng làm giảm tốc độ tim bơm máu và làm chậm nhịp tim, nhờ đó cải thiện tình trạng nhịp tim không đều và giảm tổn thương cho tim.
+Statin: giúp hạ cholesterol trong máu. Điều này rất quan trọng vì cholesterol xấu là thành phần chính của mảng xơ vữa – tác nhân gây tắc nghẽn động mạch.
+Aspirin và các thuốc chống kết tập tiểu cầu: Những loại thuốc này giúp giảm sự hình thành cục máu đông ở các mạch máu tổn thương cũng như trên bề mặt stent.
+Thuốc chống đông máu: cũng có tác dụng ngăn ngừa nguy cơ hình thành cục máu đông.
+Nitroglycerin: rất hiệu quả trong việc làm giãn mạch (làm cho các mạch máu mở rộng ra), nhờ vậy giúp giảm cơn đau ngực do tắc nghẽn mạch máu.
+Thuốc giảm đau: Khi người bệnh đau ngực dữ dội, morphin hoặc các loại thuốc giảm đau khác sẽ được bác sĩ cân nhắc sử dụng.
+3. Phẫu thuật bắc cầu động mạch vành
+Đối với những động mạch tim bị tắc nghẽn nghiêm trọng, bác sĩ không thể đặt stent mà cần tiến hành một phương pháp khác, đó là phẫu thuật bắc cầu động mạch vành. Trong thủ thuật này, một mạch máu từ nơi khác trong cơ thể người bệnh sẽ được lấy để thay thế cho mạch máu đã bị hẹp. Tiếp đến, bác sĩ tạo đường đi mới cho máu thông qua mạch máu mới này, giúp tăng lưu lượng máu đến nuôi tim.
+Biện pháp phòng ngừa
+Không thể ngăn ngừa tuyệt đối cơn nhồi máu cơ tim có ST chênh lên, nhất là với những người có sẵn các yếu tố nguy cơ không thể kiểm soát. Tuy nhiên, bạn có thể giảm rủi ro bằng một số cách phòng ngừa nhồi máu cơ tim như:
+Duy trì cân nặng hợp lý, tránh thừa cân – béo phì vì đây là tiền căn dẫn tới mỡ máu cao, gây xơ vữa động mạch làm tắc hẹp mạch máu.
+Duy trì chế độ ăn uống có lợi cho sức khỏe tim mạch: tăng cường rau xanh, trái cây, ngũ cốc nguyên hạt, cá và thịt gia cầm bỏ da, chất béo tốt; tránh xa thức ăn chiên rán nhiều dầu mỡ, thực phẩm đã qua chế biến, thức ăn nhanh; hạn chế muối và đường trong khẩu phần ăn; không lạm dụng rượu bia…
+Tập thể dục cường độ trung bình ít nhất 150 phút mỗi tuần.
+Nếu bạn đang hút thuốc lá, hãy bỏ thuốc càng sớm càng tốt.
+Kiểm soát các bệnh lý đi kèm, chẳng hạn như cholesterol cao, tăng huyết áp, đái tháo đường.
+Kiểm tra sức khỏe định kỳ, đặc biệt là những đối tượng có các yếu tố nguy cơ của cơn nhồi máu cơ tim.
+Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh quy tụ đội ngũ chuyên gia giàu kinh nghiệm trong lĩnh vực siêu âm tim, điện tâm đồ, nội tim mạch, thông tim can thiệp, phẫu thuật tim… chẩn đoán và điều trị kịp thời các trường hợp nhồi máu cơ tim có ST chênh lên và nhồi máu cơ tim không có ST chênh lên trong một quy trình khép kín, chuyên nghiệp.
+Bên cạnh đó, Hệ thống Bệnh viện Đa khoa Tâm Anh trang bị hệ thống chụp mạch can thiệp số hóa xóa nền (DSA) hiện đại và ứng dụng những phần mềm can thiệp tim mạch tiên tiến nhất trên thế giới giúp rút ngắn thời gian can thiệp, giảm lượng thuốc cản quang, phòng biến chứng giúp bệnh nhân hồi phục nhanh, xuất viện sớm như: DRA (chích động mạch quay xa – giảm biến chứng, đi lại sớm sau thủ thuật 2-3 tiếng); Cardiac Swing – chụp mạch vành tối thiểu lượng thuốc cản quang, an toàn cho bệnh nhân suy tim, suy thận; IVUS (siêu âm trong lòng mạch giúp chọn stent kích thước lớn, phòng tái hẹp); iFR/FFR (đo phân suất lưu lượng mạch vành không dùng thuốc Adenosine); Rotablator (khoan cắt mảng xơ vữa vôi hóa bằng đầu khoan phủ kim cương…
+BVĐK Tâm Anh áp dụng bảo hiểm y tế và hỗ trợ trả góp 0% lãi suất trong 6 tháng đối với các dịch vụ khám, điều trị bệnh tim mạch nhằm chia sẻ gánh nặng tài chính và điều trị kịp thời cho người bệnh.
+Liên hệ đặt lịch khám và điều trị với các chuyên gia Trung tâm Tim mạch, Hệ thống BVĐK Tâm Anh:
+Sự phục hồi của người bệnh sau khi trải qua cơn nhồi máu cơ tim có ST chênh lên sẽ phụ thuộc vào mức độ nghiêm trọng của bệnh cũng như thời điểm, cách thức điều trị cho bệnh nhân. Nếu được cấp cứu kịp thời và chữa trị đúng phác đồ, người bệnh có khả năng hồi phục hoàn toàn và giảm thiểu di chứng. Sau điều trị, việc duy trì thói quen ăn uống – sinh hoạt khoa học kết hợp với uống thuốc và tái khám định kỳ sẽ giúp ngăn ngừa nguy cơ tái phát cơn nhồi máu cơ tim có ST chênh lên.

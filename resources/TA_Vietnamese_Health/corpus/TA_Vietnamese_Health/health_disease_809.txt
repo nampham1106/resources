@@ -1,0 +1,74 @@
+# doc_id = health_disease_809
+# url = https://tamanhhospital.vn/tan-mau-bam-sinh/
+# date = 01/12/2023
+Bệnh tan máu bẩm sinh: Nguyên nhân, dấu hiệu, chẩn đoán, phòng ngừa
+Tan máu bẩm sinh hay còn gọi là Thalassemia là bệnh lý di truyền có đặc điểm gây tan máu thường xuyên và dẫn tới tình trạng thiếu máu. Tại Việt Nam ước tính cứ mỗi năm có thêm 8000 trẻ bị bệnh tan máu bẩm sinh. Đây là bệnh lý nguy hiểm, nhiều người mắc bệnh cần phải điều trị y tế suốt đời, chất lượng cuộc sống thấp. Đó là thiệt thòi lớn cho người bệnh, gia đình bệnh nhân và cho toàn xã hội.
+Mục lụcBệnh tan máu bẩm sinh là gì?Các thể tan máu bẩm sinh thường gặpMức độNguyên nhân gây bệnh tan máu bẩm sinhDấu hiệu bệnh tan máu bẩm sinh thalassemiaBệnh tan máu bẩm sinh có nguy hiểm không?Phương pháp chẩn đoán chứng bệnh tan máu bẩm sinhCần làm gì khi được chẩn đoán mang gen tan máu bẩm sinh?Bệnh có chữa được không?Phương pháp phòng ngừa chứng bệnh tan máu bẩm sinh ThalassemiaBệnh tan máu bẩm sinh là gì?
+Bệnh tan máu bẩm sinh là bệnh xảy ra do gen quy định chức năng tổng hợp hemoglobin trên gen NST số 11 và NST số 16 bị lỗi, có thể là một đột biến điểm hoặc mất một đoạn trên gen tạo ra các hemoglobin bất thường.
+Từ các hemoglobin bất thường này sẽ dẫn tới tổng hợp các hồng cầu không có chức năng vận chuyển oxy và dễ bị các cơ quan khác bắt giữ và phá hủy từ đó gây nên các hiện tượng thiếu máu và các tình trạng khác. (1)
+Ở trên thế giới, tan máu bẩm sinh được phát hiện và nghiên cứu từ những năm 1925. Ở Việt Nam đến nhưng năm 1960 các nhà khoa học mới bắt đầu nghiên cứu căn bệnh này. Hiện nay trên thế giới có khoảng 300 triệu người bệnh tan máu bẩm sinh, trong đó khoảng 500.000 người mắc bệnh ở thể nặng.
+Tan máu bẩm sinh là bệnh thường gặp trong dân số Việt Nam với khoảng 13 triệu người mang gen bệnh, đặc biệt là tỷ lệ người lành mang gen phân bố ở hầu hết các khu vực và dân tộc. Ước tính tại nước ta có hơn 20.000 người bị tan máu bẩm sinh ở mức độ nặng cần chăm sóc y tế trọn đời. Khoảng 8.000 trẻ chào đời mỗi năm bị bệnh trong đó 2000 trẻ mắc bệnh ở mức độ nặng và 800 trẻ không có cơ hội chào đời do phù thai.
+Các thể tan máu bẩm sinh thường gặp
+Tan máu bẩm sinh có hai thể chính thường gặp là Alpha thalassemia và Beta thalassemia. Các gen alpha nằm trên NST 16 và gen beta nằm trên NST 11 quy định sự tạo thành hemoglobin và tạo thành hồng cầu có chức năng vận chuyển oxy. (2)
+Thể Alpha: do 4 gen alpha nằm trên NST số 16 là 2 gen HBA2 và 2 gen HBA1. Nếu mất một hoặc nhiều gen sẽ gây ra các ảnh hưởng khác nhau đối với bệnh alpha thalassemia. Nặng nhất nếu bệnh nhân mất cả 4 gen alpha sẽ gây nên hội chứng phù thai.
+Thể Beta do các gen nằm trên NST số 11 có thể xuất hiện từ mức độ nhẹ đến trung bình. Hiện có khoảng 250 đột biến gen beta thalassemia được phát hiện trong đó có khoảng 20 đột biến thường gặp.
+Mức độ
+Tùy vào thể bệnh và số lượng gen bị mất sẽ có những mức độ bệnh khác nhau. Thông thường người bị tan máu bẩm sinh thường có các mức độ bao gồm:
+Thể nhẹ: người bệnh ở thể nhẹ thường không có dấu hiệu hoặc biểu hiện thiếu máu kín đáo. Phần lớn bệnh nhân phát hiện bệnh sau khi đi thăm khám sức khỏe, mang thai, phải làm phẫu thuật hoặc mắc bệnh lý nhiễm trùng cần điều trị… Người bệnh tan máu bẩm sinh thể nhẹ thường không cần điều trị, chỉ theo dõi tình trạng thiếu máu.
+Thể trung bình: người bệnh ở mức độ trung bình thường có dấu hiệu thiếu máu rõ ràng khi qua 6 tuổi. Người bệnh xuất hiện một số triệu chứng lâm sàng như thiếu máu nhẹ và có chuỗi globin giảm.
+Thể nặng: người bệnh tan máu bẩm sinh mức độ nặng thường xuất hiện tình trạng thiếu máu tặng ở giai đoạn 5-6 tuổi. Với người bệnh thể nặng nếu không được phát hiện và điều trị đúng lúc sẽ dẫn đến các hậu quả nghiêm trọng như thiếu máu nặng, gan, lách to, vàng da. Bên cạnh đó, người bệnh tan máu bẩm sinh thể nặng cũng có một số biểu hiện về ngoại hình đặc trưng của bệnh như xương trán dô ra, hàm trên hô, mũi tẹt, xương chẩm… Người bệnh mắc các vấn đề về phát triển cả về sức khỏe thể chất, vận động và tâm thần.
+Thể rất nặng: thường có biểu hiện ngay ở giai đoạn còn trong bụng mẹ, thai nhi có nguy cơ phù thai gây lưu thai. Trẻ mắc bệnh ở mức độ rất nặng sinh ra có nguy cơ tử vong cao do thiếu máu nặng và suy tim thai.
+Người bệnh tan máu bẩm sinh thể nặng cần điều trị truyền máu trong suốt cuộc đời.
+Nguyên nhân gây bệnh tan máu bẩm sinh
+Nguyên nhân tan máu bẩm sinh do bất thường hoặc có đột biến ở các gen liên quan đến việc sản xuất ra hemoglobin. Đây là một bệnh di truyền lặn, đồng nghĩa với việc bố mẹ mang gen nhưng không biểu hiện bệnh, nhưng khi người con nhận cả 2 gen bất thường của bố mẹ thì sẽ biểu hiện bệnh. (3)
+Theo quy luật về di truyền học, mỗi em bé khi được hình thành sẽ nhận 1 nửa vật chất di truyền đến từ mẹ và nửa còn lại đến từ bố. Trường hợp chỉ có bố hoặc mẹ là người bình thường, và người còn lại mang gen bệnh thì tỷ lệ em bé được sinh ra mang gen bệnh là 50% và 50% là bình thường.
+Đối với trường hợp cả bố và mẹ đều là người mang gen bệnh tan máu bẩm sinh (gen dị hợp tử) thì em bé được tạo thành có thể rơi vào 1 trong 3 trường hợp bao gồm:
+50% em bé sinh ra giống bố mẹ (mang gen bệnh nhưng không có biểu hiện bệnh)
+25% em bé khỏe mạnh bình thường, không mang gen bệnh.
+25% em bé sinh ra bị tan máu bẩm sinh và có biểu hiện bệnh (thiếu máu tán huyết).
+Dấu hiệu bệnh tan máu bẩm sinh thalassemia
+Tùy vào từng mức độ bệnh, thể bệnh thalassemia sẽ có những dấu hiệu cảnh báo. Dấu hiệu bệnh tan máu bẩm sinh có thể kể đến như:
+Da nhợt nhạt, xanh xao, vàng da;
+Người mệt mỏi;
+Thường xuyên gặp vấn đề về nhiễm trùng;
+Chán ăn, ăn không ngon miệng;
+Chậm phát triển;
+Lách to;
+Việc điều trị sớm sẽ giúp ngăn chặn những biến chứng của bệnh. Vì vậy, nếu có các dấu hiệu kể trên hoặc nghi ngờ mình bị mắc bệnh tan máu bẩm sinh, người bệnh có thể đến các bệnh viện để được làm xét nghiệm kiểm tra và lên phương án điều trị.
+Bệnh tan máu bẩm sinh có nguy hiểm không?
+Tan máu bẩm sinh là bệnh lý nguy hiểm. Bệnh có các mức độ từ nhẹ đến nặng trong đó mức độ nặng nhất có thể gây nên tình trạng phù thai, thai chết lưu khi còn ở trong tử cung của người mẹ. Trường hợp người bệnh ở thể nặng phải sống phụ thuộc vào việc truyền máu và thải sắt suốt đời kèm theo các biến chứng ở các cơ quan như suy gan, suy tim, suy giảm nội tiết tố, biến dạng mặt, xơ gan, gặp vấn đề về sinh sản… thậm chí là tử vong. (4)
+Qua một báo cáo từ năm 2001 cho đến nay, chất lượng sống của bệnh nhân tan máu bẩm sinh thấp và số tử vong lớn. Có tới 20% bệnh nhân tan máu bẩm sinh tử vong ở lứa tuổi từ 6-7 tuổi, phần lớn các bệnh nhân ở mức độ nặng thường không có cơ hội lập gia đình.
+Với số lượng người mắc bệnh tan máu bẩm sinh lớn khiến việc điều trị ở nhiều bệnh viện quá tải. Điều này gây ra áp lực đối với ngân hàng máu cũng như tăng gánh nặng về chi phí xã hội. Ước tính việc điều trị cho một người bệnh tan máu bẩm sinh thể nặng từ khi sinh ra cho đến năm 30 tuổi sẽ rơi vào khoảng 3 tỷ đồng, và cần 470 đơn vị máu để thực hiện truyền máu, duy trì cuộc sống cho người bệnh đến năm 21 tuổi.
+Trên thế giới, ước tính có 80% bệnh nhân tan máu bẩm sinh sinh sống ở các quốc gia, khu vực có thu nhập thấp và trung bình, họ phải đối mặt với nhiều khó khăn về việc đáp ứng dịch vụ chăm sóc y tế cũng như các dịch vụ chăm sóc liên quan khác. May mắn, tan máu bẩm sinh là bệnh lý nguy hiểm tuy nhiên có thể chủ động phòng ngừa.
+Phương pháp chẩn đoán chứng bệnh tan máu bẩm sinh
+Làm sao để chẩn đoán bệnh tan máu bẩm sinh là vấn đề mà nhiều người quan tâm. Việc chẩn đoán tan máu bẩm sinh có thể thực hiện qua các xét nghiệm máu như:
+Tổng phân tích tế bào máu ngoại vi: Với phương pháp này, nếu kết quả cho thấy lượng huyết sắc tố giảm và ghi nhận hồng cầu nhỏ nhược sắc, với kích thước và hình thái đa dạng… Bác sĩ có thể chẩn đoán sơ bộ về tình trạng của bạn có mắc bệnh tan máu bẩm sinh hay không.
+Điện di huyết sắc tố: Với phương pháp này có thể chẩn đoán thể bệnh tan máu bẩm sinh mắc phải. Đây cũng là xét nghiệm quan trọng trong việc chẩn đoán bệnh.
+Xét nghiệm DNA: Xét nghiệm này giúp xác định các đặc điểm tổn thương gen tổng hợp chuỗi globin, giúp phát hiện những bất thường trong các vật chất di truyền ở người bệnh.
+Các xét nghiệm sinh hóa kết hợp khác.
+Hiện nay có thể chẩn đoán bệnh tan máu bẩm sinh thông qua việc thực hiện một số xét nghiệm.
+Cần làm gì khi được chẩn đoán mang gen tan máu bẩm sinh?
+Khi được chẩn đoán mắc bệnh tan máu bẩm sinh, điều đầu tiên người bệnh cần tham vấn với bác sĩ về tình trạng của mình và những lưu ý về việc điều trị bệnh cũng như chăm sóc người bệnh.
+Việc tuân thủ kế hoạch trị liệu của bác sĩ là rất quan trọng đối với người bệnh. Bên cạnh đó người bệnh nên duy trì một thói quen sống lành mạnh, chế độ dinh dưỡng phù hợp như:
+Chú ý tránh tình trạng dư sắt: người bệnh không được tự ý sử dụng các loại vitamin hoặc thuốc bổ sung sắt khi chưa có chỉ định của bác sĩ;
+Chế độ ăn lành mạnh bổ sung thêm rau chủ, hạn chế các thực phẩm giàu chất sắt và loại thực phẩm như ngũ cốc, bánh mì, các loại trái cây như chuối, lựu…
+Bổ sung axit folic để tăng tạo hồng cầu và ngăn ngừa những tác động của việc thừa sắt trong cơ thể. Tuy nhiên việc bổ sung liều lượng như nào cần được chỉ định bởi bác sĩ, không tự sử dụng khi chưa có chỉ định.
+Tránh việc nhiễm trùng: người bị bệnh tan máu bẩm sinh có nguy cơ nhiễm trùng cao hơn so với người bình thường. Đặc biệt với người bệnh đã làm phẫu thuật cắt lách cần chú ý hơn về vấn đề này. Khi người bệnh có dấu hiệu sốt, nguy cơ nhiễm trùng cần đến bệnh viện để được thăm khám.
+Tiêm phòng đầy đủ là điều cần thiết đối với người bệnh để phòng tránh bệnh tật như cúm, viêm não, rubella…
+Bệnh có chữa được không?
+Hiện nay có nhiều phương pháp được áp dụng điều trị bệnh tan máu bẩm sinh.Tùy vào mức độ bệnh, tình trạng bệnh sẽ có những chỉ định điều trị phù hợp. Các chỉ định điều trị tan máu bẩm sinh cơ bản như:
+Truyền máu: Chỉ định truyền máu áp dụng với người bệnh có thiếu máu, kết quả sau 2 lần kiểm tra mà nồng độ hemoglobin là 7g/dl và không có nguyên nhân khác kèm theo, hoặc mức hemoglobin trên 7g/dl và có biến dạng về xương. Việc truyền máu cần được thực hiện đúng chỉ định và người bệnh được theo dõi chặt chẽ tại bệnh viện.
+Thải sắt: Việc điều trị ứ sắt thường được chỉ định bằng việc tiêm hoặc uống. Người bệnh nên được thải sắt khi ferritine huyết thanh trên 1000ng/ml. Việc điều trị thải sắt thường là điều trị cả đời.
+Cắt lách: Với bệnh nhân đáp ứng ít hiệu quả với việc truyền máu hoặc lách phát triển quá to, gây đau đớn ảnh hưởng đến việc sinh hoạt thì sẽ có chỉ định này.
+Ghép tế bào gốc: đây là phương pháp tiên tiến với hy vọng có thể chữa khỏi bệnh. Phương pháp này được áp dụng với những người bệnh ở mức độ nặng, tuy nhiên có một hạn chế là khó tìm được tế bào gốc phù hợp. Quá trình cấy ghép cũng tồn tại nhiều rủi ro.
+Phương pháp phòng ngừa chứng bệnh tan máu bẩm sinh Thalassemia
+Việc phòng ngừa bệnh tan máu bẩm sinh là vấn đề được nhà nước quan tâm và tuyên truyền đến cộng đồng nâng cao ý thức trong việc phát hiện, điều trị và phòng ngừa bệnh. Tan máu bẩm sinh là bệnh có thể phòng ngừa bằng các sàng lọc trước sinh và xét nghiệm tiền hôn nhân.
+Khám tiền hôn nhân: Cặp đôi trước khi kết hôn, sinh con nên thăm khám tiền hôn nhân để không chỉ kiểm tra về sức khỏe sinh sản mà còn nên thực hiện các xét nghiệm kiểm tra bệnh tan máu bẩm sinh. Trong trường hợp phát hiện một trong hai hoặc cả hai cùng mang gen bệnh, bác sĩ sẽ tư vấn về căn bệnh này cũng như các phương pháp tối ưu nhất để có thể sinh ra những em bé khỏe mạnh, không mang gen bệnh trong tương lai.
+Phụ nữ mang thai cần đảm bảo sức khỏe tốt và thực hiện các mốc thăm khám thai đầy đủ. Với trường hợp mẹ bầu lo lắng em bé có thể mắc bệnh tan máu bẩm sinh có thể trao đổi với bác sĩ để thực hiện một số xét nghiệm trước sinh như chọc ối, sinh thiết gai nhau.
+Cặp vợ chồng cùng mang gen bệnh và lo lắng sinh em bé mang gen bệnh nặng hoặc có tiền sử lưu thai do phù thai, em bé sinh ra mắc tan máu bẩm sinh thể nặng có thể cân nhắc đến việc thực hiện thụ tinh trong ống nghiệm, tạo phôi và tiến hành sinh thiết phôi để lựa chọn những phôi khỏe mạnh, không mang gen bệnh để chuyển vào buồng tử cung người mẹ.
+Tại IVFTA-HCMC áp dụng các kỹ thuật xét nghiệm hiện đại trong sàng lọc phôi để sàng lọc các bệnh lý về gen. Với bệnh tan máu bẩm sinh có thể sàng lọc ở giai đoạn phôi thai với xét nghiệm sàng lọc di truyền tiền làm tổ PGT-Preimplantation Genetic Testing. Xét nghiệm này được biết đến là kỹ thuật chuyên sâu về di truyền bên trong phôi.
+Điều này giúp bác sĩ ghi nhận được những thông tin của phôi, lựa chọn phôi có bộ nhiễm sắc thể bình thường trước khi chuyển phôi. Nhờ áp dụng kỹ thuật này mà ngăn ngừa được một số bệnh di truyền cũng như giảm tỷ lệ đình chỉ thai kỳ vì các bệnh lý di truyền trong đó có bệnh tan máu bẩm sinh.
+Với mục tiêu nâng cao tỷ lệ thành công trong điều trị hiếm muộn, giúp các cặp vợ chồng thuận lợi đón những em bé khỏe mạnh về nhà. IVFTA-HCM áp dụng những công nghệ mới nhất cùng phác đồ cá thể hóa trong điều trị.
+IVF Tâm Anh tiên phong trong việc xây dựng lab phôi học công nghệ cao, thiết kế lab-in-a-lab duy nhất tại Việt Nam kết hợp cùng phòng nuôi cấy phôi theo tiêu chuẩn ISO 5… đóng vai trò trọng yếu vào kết quả mang thai của khách hàng.
+Những kỹ thuật khó, như kỹ thuật trưởng thành trứng non (IVM), micro-TESE, trữ giao tử số lượng ít, xét nghiệm chẩn đoán di truyền tiền làm tổ (PGT), bơm huyết tương giàu tiểu cầu tự thân, xét nghiệm sinh thiết tử cung Era test xác định chính xác ngày chuyển phôi…, những kỹ thuật mà trước đây khách hàng cần phải ra nước ngoài để thực hiện thì hiện nay có thể thực hiện ngay tại phòng lab của IVFTA.
+Hy vọng bài viết đã cung cấp đầy đủ thông tin về bệnh tan máu bẩm sinh và các điều trị, phòng ngừa của căn bệnh nguy hiểm này. Việc sàng lọc bệnh tan máu bẩm sinh có thể thực hiện được và giúp bố mẹ sinh ra những em bé khỏe mạnh. Vì vậy khi có kế hoạch sinh con, các cặp vợ chồng nên lựa chọn các cơ sở y tế uy tín, bác sĩ giàu kinh nghiệm để được tư vấn và lên phác đồ điều trị.

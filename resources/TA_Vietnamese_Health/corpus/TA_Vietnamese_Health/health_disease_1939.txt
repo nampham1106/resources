@@ -1,0 +1,59 @@
+# doc_id = health_disease_1939
+# url = https://tamanhhospital.vn/chan-doan-hinh-anh-tuyen-vu/
+# date = 27/05/2024
+Kỹ thuật chẩn đoán hình ảnh tuyến vú phát hiện sớm bệnh vùng ngực
+Chẩn đoán ung thư vú thường bắt đầu bằng việc thăm khám và khai thác các triệu chứng của người bệnh. Sau đó, bác sĩ sẽ chỉ định các kỹ thuật chẩn đoán hình ảnh để phát hiện bất thường ở vú. Vậy có bao nhiêu kỹ thuật chẩn đoán hình ảnh tuyến vú? Lợi ích và tác hại của các kỹ thuật này như thế nào? Bài viết sau đây của thạc sĩ bác sĩ Huỳnh Bá Tấn, Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM sẽ giải đáp chi tiết các phương pháp này.
+Mục lụcCác kỹ thuật chẩn đoán hình ảnh tuyến vú1. Chụp nhũ ảnh (X-quang tuyến vú)2. Siêu âm vú3. Chụp cộng hưởng từ (MRI) tuyến vú4. Sinh thiết vúChẩn đoán hình ảnh vú giúp phát hiện các bệnh lý tuyến vú nào?1. U xơ tuyến vú2. U nang tuyến vú3. Viêm vú4. Ung thư vúLợi ích và tác hại của kỹ thuật chẩn đoán hình ảnh cho vúCác kỹ thuật chẩn đoán hình ảnh tuyến vú
+Các kỹ thuật chẩn đoán hình ảnh tuyến vú bao gồm:
+1. Chụp nhũ ảnh (X-quang tuyến vú)
+Chụp nhũ ảnh (X-quang tuyến vú) là kỹ thuật chẩn đoán hình ảnh tuyến vú được áp dụng để tầm soát và phát hiện các bệnh liên quan đến tuyến vú. Kỹ thuật này thường được thực hiện khi khám tầm soát định kỳ, đóng vai trò quan trọng trong tầm soát sớm ung thư vú. Chụp nhũ ảnh là phương pháp tầm soát ung thư vú nhanh chóng, không xâm lấn, hiệu quả và ít tốn kém.
+Kết quả chụp nhũ ảnh
+Chụp X-quang tuyến vú bao gồm 2 dạng:
+1.1 Chụp X-quang vú 2D
+Chụp X-quang vú 2D là kỹ thuật chẩn đoán hình ảnh tuyến vú dùng tia X đi qua tuyến vú để ghi hình ảnh lên phim hoặc dưới dạng ảnh kỹ thuật số. Khi nhũ ảnh, người bệnh ở tư thế ngồi hoặc đứng, ép nhẹ vú giữa 2 bản ép của máy. Các máy X-quang vú 2D được trang bị chế độ tự động, ép vú vừa phải, không đau nhưng vẫn đảm bảo hình ảnh có chất lượng tốt. Hiện y học công nhận 2 tư thế căn bản cho việc chụp X-quang tuyến vú: thế thẳng trên dưới (CC) và thế chếch trong ngoài (MLO).
+Việc ép vú giúp giảm độ dày tuyến vú, tia X xuyên qua đồng nhất hơn, giảm khoảng cách từ vú đến phim. Từ đó giúp độ phân giải tốt hơn, tách rời các cấu trúc trong tuyến. Liều kVp thấp (25 – 30) rất quan trọng khi chụp nhũ ảnh.
+1.2 Chụp X-quang vú 3D
+Chụp nhũ ảnh 3D là phương pháp chẩn đoán hình ảnh tuyến vú hiện đại, thu nhận và kết hợp các thông tin hình ảnh mô vú từ nhiều góc độ khác nhau để tạo khối dữ liệu 3D toàn bộ mô vú.
+Khối dữ liệu 3D hiển thị dưới dạng các lát cắt song song với bề mặt tấm nhận ảnh đồng thời giảm ảnh hưởng của xảo ảnh chồng lấp, khắc phục nhược điểm của kỹ thuật chụp nhũ ảnh 2D.
+Người bệnh đang thực hiện chụp nhũ ảnh
+2. Siêu âm vú
+Siêu âm vú là phương pháp chẩn đoán bệnh lý tuyến vú, áp dụng sóng âm tần số cao để tạo nên hình ảnh. Sóng âm đi xuyên qua vú và phản âm từ các mô khác nhau, tạo hình ảnh cấu trúc bên trong vú.
+Siêu âm vú là kỹ thuật chẩn đoán hình ảnh được áp dụng rộng rãi trong y khoa, bác sĩ thường chỉ định để khảo sát các triệu chứng liên quan đến vú hoặc bản chất tổn thương sờ thấy khi khám lâm sàng.
+2.1 Siêu âm vú 2D
+Siêu âm vú 2D được thực hiện bằng cách sử dụng hình ảnh siêu âm 2 chiều (2D) tiêu chuẩn. Tuy nhiên, hình ảnh 2D không cung cấp đầy đủ hình ảnh về mô bên trong của mẫu phẫu thuật. Từ đó dẫn đến một số ung thư có thể bị bỏ sót và người bệnh phải thực hiện thủ thuật lại nhiều lần.
+2.2 Siêu âm vú 3D
+Siêu âm vú 3D cung cấp giải pháp hiển thị đầy đủ mô bên trong của vú. Khác với siêu âm vú 2D, kỹ thuật chẩn đoán hình ảnh tuyến vú này giúp hình dung khuôn vú theo 3 chiều. Từ đó giúp bác sĩ xác định chính xác các khối ung thư nhỏ và giảm khả năng bỏ sót bệnh.
+Siêu âm vú 3D cho phép bác sĩ khảo sát toàn bộ vú dưới dạng các lát cắt kỹ thuật số 1mm thông qua hình ảnh 3D, giúp nhìn xuyên qua các mô vú chồng lên nhau. Kỹ thuật này đặc biệt hữu ích trong trường hợp mô vú dày đặc bằng cách tăng khả năng hình dung các tổn thương, không cần thực hiện nhiều lần hoặc siêu âm lại.
+Siêu âm vú là kỹ thuật chẩn đoán hình ảnh được bác sĩ chỉ định để khảo sát bản chất tổn thương sờ được trên lâm sàng hoặc khi có các triệu chứng liên quan đến vú.
+3. Chụp cộng hưởng từ (MRI) tuyến vú
+Chụp cộng hưởng từ (MRI) tuyến vú là kỹ thuật chẩn đoán hình ảnh tuyến vú, trong đó từ trường, sóng vô tuyến và máy tính hiện đại được sử dụng để tạo hình ảnh chi tiết bên trong vú mà không cần dùng tia X.
+Máy MRI (magnetic resonance imaging) là 1 ống hình trụ lớn được bao quanh bởi 1 nam châm tròn. Người bệnh nằm trên bàn khám trượt và được di chuyển vào giữa máy.
+Chất tương phản dạng lỏng (gadolinium), không có tính phóng xạ, thường được tiêm vào tĩnh mạch mu bàn tay hoặc cánh tay, giúp phát hiện các mô bất thường bên trong vú (có xu hướng thu hút chất tương phản) trên kết quả chụp MRI.
+Chụp cộng hưởng từ thường kết hợp với các phương pháp chẩn đoán hình ảnh tuyến vú khác để tăng độ chính xác trong việc tầm soát hay chẩn đoán. Chụp MRI vú thường không được thực hiện đơn lẻ cũng như không thể thay thế cho X-quang vú bởi MRI có khả năng bỏ sót một số bất thường mà chụp nhũ ảnh có thể phát hiện.
+4. Sinh thiết vú
+Sinh thiết vú là phương pháp chẩn đoán hình ảnh tuyến vú, thu thập mẫu mô ở vú để quan sát dưới kính hiển vi để phát hiện các bất thường ở vú. Bác sĩ thường chỉ định sinh thiết khi người bệnh có 1 khối u, cộm ở ngực, có thể cảm nhận lâm sàng hoặc vô tình phát hiện khi kiểm tra tuyến vú tại bệnh viện.
+Có nhiều phương pháp sinh thiết, bao gồm: chọc hút tế bào bằng kim nhỏ (FNA); sinh thiết vú bằng kim lớn hay sinh thiết lõi (CNB); sinh thiết tuyến vú bằng thiết bị có hút chân không (VABB); phẫu thuật sinh thiết hay sinh thiết qua mổ hở.
+Chẩn đoán hình ảnh vú giúp phát hiện các bệnh lý tuyến vú nào?
+Chẩn đoán hình ảnh tuyến vú giúp phát hiện các bệnh sau:
+1. U xơ tuyến vú
+U xơ tuyến vú hay bướu sợi tuyến vú là cục u lành tính, có thể di chuyển trong mô vú. Một người có thể có một hoặc nhiều u xơ. U xơ tuyến vú có thể duy trì kích thước, co lại hoặc phát triển theo thời gian.
+2. U nang tuyến vú
+Nang vú là túi chứa dịch bên trong vú, thường lành tính và ít khi liên quan đến ung thư. Có thể có một hay nhiều nang, thường nhỏ bằng quả nho hoặc bong bóng nước, mật độ căng.
+U nang tuyến vú thường không cần điều trị trừ trường hợp gây bất tiện do quá to hoặc gây đau. Nếu nang quá to, bác sĩ sẽ chọc hút dịch nang để giảm khó chịu, điều trị triệu chứng cho người bệnh.
+U nang vú có thể được phát hiện bằng các phương pháp chẩn đoán hình ảnh tuyến vú, xuất hiện ở mọi lứa tuổi, phổ biến ở phụ nữ dưới 50 tuổi, tiền mãn kinh và có sử dụng thuốc hỗ trợ nội tiết tố nữ.
+3. Viêm vú
+Viêm vú là tình trạng viêm mô vú đôi khi dẫn đến nhiễm trùng. Tình trạng viêm dẫn đến đau vú, sưng, nóng và đỏ. Bạn cũng có thể bị sốt và ớn lạnh.
+Viêm vú thường ảnh hưởng nhất đến phụ nữ đang cho con bú (viêm vú cho con bú). Nhưng viêm vú có thể xảy ra ở những phụ nữ không cho con bú và ở nam giới.
+Viêm vú trong giai đoạn cho con bú có thể khiến người bệnh kiệt sức, ảnh hưởng đến việc chăm sóc con. Đôi khi bệnh viêm vú khiến người mẹ phải cai sữa cho con trước khi có ý định. Nhưng tiếp tục cho con bú sữa mẹ, ngay cả khi đang dùng thuốc kháng sinh để điều trị viêm vú, sẽ tốt hơn cho bạn và con bạn.
+4. Ung thư vú
+Ung thư vú là bệnh u vú ác tính, xảy ra khi các tế bào ác tính hình thành từ trong mô tuyến vú. Sau đó, các tế bào ung thư xâm lấn ra toàn bộ vú và di căn sang các bộ phận khác của cơ thể. Ung thư vú là loại ung thư phổ biến nhất ở nữ giới.
+Tổ chức Ung thư toàn cầu (GLOBOCAN) ghi nhận năm 2020, ung thư vú là loại ung thư phổ biến nhất ở phụ nữ với 24,5%. [1]
+Loại ung thư vú phổ biến nhất là ung thư ống tuyến vú (ductal carcinoma), xuất phát từ tế bào của ống tuyến. Ung thư xuất phát từ thùy tuyến vú và tiểu thùy được gọi là ung thư tiểu thùy (lobular carcinoma). Ung thư vú dạng viêm thường có biểu hiện sưng, đỏ, nóng và là dạng ung thư vú hiếm gặp.
+Kết quả siêu âm tuyến vú
+Lợi ích và tác hại của kỹ thuật chẩn đoán hình ảnh cho vú
+Chẩn đoán hình ảnh vú có thể cung cấp thông tin quan trọng về sức khỏe của người bệnh. Với công nghệ không xâm lấn, bác sĩ có thể phát hiện sớm các vấn đề liên quan đến tuyến vú, chẩn đoán bệnh và chỉ định phương pháp điều trị thích hợp, giúp quá trình điều trị thuận lợi hơn cho từng người bệnh.
+Hiện chưa có nhận định, đánh giá nào liên quan đến tác hại của siêu âm đến cơ thể của người làm xét nghiệm, nghĩa là sóng siêu âm không ảnh hưởng đến sức khỏe mà còn giúp phát hiện bệnh trên cơ thể người. Siêu âm hoàn toàn vô hại, không xâm lấn, giúp tiết kiệm chi phí hơn so với các phương pháp khác.
+Chụp X-quang, CT scan sử dụng tia X để phát hiện bệnh sớm, tia X này nếu được sử dụng liều cao trong khoảng thời gian ngắn hay liều thấp trong khoảng thời gian dài sẽ ảnh hưởng đến sức khỏe. Các bác sĩ chuyên khoa chẩn đoán hình ảnh khuyến nghị, để giảm thiểu tác hại của tia X, người làm xét nghiệm cần tuân thủ luật an toàn của bức xạ.
+Với hệ thống trang thiết bị hiện đại, đội ngũ chuyên gia nhiều kinh nghiệm, làm việc phối hợp đa chuyên khoa như Chẩn đoán hình ảnh – Giải phẫu bệnh – Nội khoa Ung thư, Khoa Ngoại vú Bệnh viện Đa khoa Tâm Anh TP.HCM giúp chẩn đoán bệnh về vú chính xác, điều trị tốt cho những người bệnh liên quan đến tuyến vú nói chung và ung thư vú nói riêng.
+Bệnh viện Đa khoa Tâm Anh TP.HCM liên tục nhập các máy móc, thiết bị chẩn đoán hình ảnh tuyến vú hiện đại, nhằm hỗ trợ bác sĩ trong việc chẩn đoán và điều trị cho người bệnh. Ngoài ra, khoa còn lập nhóm “CLB bệnh nhân ung thư vú bệnh viện Tâm Anh” giúp người bệnh có thể chia sẻ những khó khăn lo lắng với những người bệnh cùng hoàn cảnh.
+Kỹ thuật chẩn đoán hình ảnh tuyến vú có vai trò quan trọng trong tầm soát, chẩn đoán các bệnh liên quan đến tuyến vú. Vì vậy, bạn nên thực hiện tầm soát định kỳ để phát hiện sớm bệnh (nếu có) và điều trị dứt điểm.

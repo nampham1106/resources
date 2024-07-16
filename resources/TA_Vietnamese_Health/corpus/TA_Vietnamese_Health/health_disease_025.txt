@@ -1,0 +1,83 @@
+# doc_id = health_disease_025
+# url = https://tamanhhospital.vn/ngoai-tam-thu/
+# date = 03/07/2024
+Ngoại tâm thu là gì? Nguyên nhân, triệu chứng, điều trị, phòng ngừa
+Ngoại tâm thu là tình trạng rối loạn nhịp tim thường gặp. Ở người khỏe mạnh, bệnh được xem là lành tính và không cần điều trị. Tuy nhiên, nếu bệnh nhân bị ngoại tâm thu có các bệnh nền liên quan đến tim mạch, cần chú ý thăm khám và điều trị sớm.
+Mục lụcNgoại tâm thu là gì?Phân loại ngoại tâm thu thường gặp1. Ngoại tâm thu thất2. Ngoại tâm thu nhĩ3. Ngoại tâm thu bộ nốiNguyên nhân ngoại tâm thuTriệu chứng ngoại tâm thu thường gặp1. Cảm giác nhịp tim không đều2. Buồn nôn3. Cảm giác hồi hộp lo lắng ở người bệnh ngoại tâm thu4. Đau ngực5. Khó thở6. Đau bụng7. Nhanh có cảm giác mắc tiểu8. Đau đầuNgoại tâm thu có ảnh hưởng nhiều đến sức khỏe không?Phương pháp chẩn đoán ngoại tâm thu1. Điện tâm đồ ECG2. Nghiệm pháp gắng sứcPhương pháp điều trị ngoại tâm thu1. Điều trị bằng các điều chỉnh lối sống2. Dùng thuốc3. Can thiệp xâm lấnBiện pháp phòng tránh ngoại tâm thu hiệu quảMột số câu hỏi thường gặp về ngoại tâm thu1. Ngoại tâm thu có chữa khỏi được không?2. Bệnh ngoại tâm thu khi nào cần được điều trị?3. Bệnh ngoại tâm thu có tự khỏi được không?Ngoại tâm thu là gì?
+Ngoại tâm thu là rối loạn nhịp thường gặp nhất, xảy ra thường xuyên ở những bệnh nhân có bệnh nền tiềm ẩn và ở cả những người hoàn toàn khỏe mạnh. Ngoại tâm thu được đặc trưng bởi sự xuất hiện các nhịp đến sớm bất thường không nằm trong sự kiểm soát của nút xoang. Các nhát bóp sớm có thể xuất hiện đơn độc, hoặc nhiều nhát xuất hiện và được nối tiếp bằng một khoảng nghỉ bù ngay sau đó.
+Ngoại tâm thu có thể xuất hiện đơn độc, hoặc báo hiệu một chuỗi nhịp nhanh sau đó. Tùy theo số ngoại tâm thu liên tiếp và thời gian xuất hiện mà ta có tên gọi khác nhau ngoại tâm thu:
+Ngoại tâm thu nhịp đôi (bigeminy): Một ngoại tâm thu đi xen kẽ một nhát xoang bình thường.
+Ngoại tâm thu nhịp 3 (trigeminy): Một ngoại tâm thu đi sau mỗi hai nhát xoang bình thường.
+Ngoại tâm thu cặp (couplet): Ngoại tâm thu hai nhát liên tiếp.
+Ngoại tâm thu chuỗi (tạo thành cơn): Có ≥ 3 ngoại tâm thu liên tiếp.
+Theo dõi điện tâm đồ 24 giờ ở 50 sinh viên y khoa không mắc bệnh tim mạch cho thấy, có 56% có ngoại tâm thu nhĩ, 50% ngoại tâm thu thất. (1)
+Phân loại ngoại tâm thu thường gặp
+Bệnh ngoại tâm thu được phân loại thành nhiều dạng thường gặp là:
+1. Ngoại tâm thu thất
+Ngoại tâm thu thất là tình trạng rối loạn nhịp tim do tâm thất tự động phát nhịp khiến tim đập sớm hơn so với bình thường.
+Ngoại tâm thu thất được chia thành ngoại tâm thu thất trái và ngoại tâm thu thất phải. Cần chẩn đoán phân biệt vì ngoại tâm thu thất trái thường đi kèm với bệnh tim thực thể và có khả năng kích hoạt cơn rung thất trong giai đoạn nhồi máu cơ tim. Trong khi đó ngoại tâm thu thất phải thường chỉ gặp ở người bình thường không bệnh tim
+2. Ngoại tâm thu nhĩ
+Ngoại tâm thu nhĩ là tình trạng xuất hiện xung động ở nhĩ sớm hơn bình thường từ đó gây ra một nhát bóp sớm hơn so với nhịp xoang thông thường. Ngoại tâm thu nhĩ tương đối phổ biến, có thể xảy ra ở cả những người khỏe mạnh nhưng hiếm khi gây triệu chứng và đa phần là vô hại.
+Khi ngoại tâm thu nhĩ xuất hiện quá sớm trong lúc nút nhĩ thất còn trong thời gian trơ, thì sẽ không có phức bộ QRS theo sau. Hiện tượng này gọi là ngoại tâm thu nhĩ không dẫn (nonconducted). Ngoại tâm thu nhĩ xuất hiện quá sớm khi mà nhĩ còn trong thời kỳ trơ, có thể kích hoạt cơn nhịp nhanh do vòng vào lại, rung nhĩ hay cuồng nhĩ.
+Ngoại thu tâm nhĩ khá phổ biến, xảy ra ở cả những người khỏe mạnh
+3. Ngoại tâm thu bộ nối
+Loại rối loạn nhịp tim này hiếm gặp hơn so với ngoại tâm thu nhĩ và ngoại tâm thu thất. Ngoại tâm thu bộ nối bắt nguồn từ xung điện bất thường phát sinh từ nút nhĩ thất – nút dẫn truyền tín hiệu từ nút xoang xuống đến tâm thất. Hầu hết các tường hợp ngoại tâm thu bộ nối là lành tính, nhưng khi xuất hiện thường xuyên, các triệu chứng nặng dần, nên đếm chuyên khoa tim mạch để thăm khám sớm.
+Nguyên nhân ngoại tâm thu
+Ngoại tâm thu có thể xảy ra ở những người mắc bệnh về tim mạch và cả những người khỏe mạnh. Trong hầu hết các trường hợp, ngoại tâm thu thường không xác định được nguyên nhân. Các yếu tố làm tăng nguy cơ ngoại tâm thu có thể bao gồm: lo lắng, căng thẳng kéo dài, mệt mỏi… Một số trường hợp hiếm gặp hơn, ngoại tâm thu có thể do thiếu máu, cường giáp, suy giáp, thoát vị hoặc bệnh trào ngược dạ dày thực quản… (2)
+Triệu chứng ngoại tâm thu thường gặp
+Ngoại tâm thu thường không có triệu chứng và được chẩn đoán trong quá trình thăm khám các bệnh khác. Khi ngoại tâm thu trở nên thường xuyên hơn, người bệnh có thể gặp các triệu chứng sau:
+1. Cảm giác nhịp tim không đều
+Người bệnh có thể cảm nhận được nhịp tim nhanh hơn so với bình thường hoặc cảm giác bị mất nhịp. Nếu ngoại tâm thu lặp đi lặp lại, xuất hiện thường xuyên và kéo dài, nhịp tim sẽ thay đổi. (3)
+2. Buồn nôn
+Một số trường hợp bệnh nhân bị ngoại tâm thu có thể cảm thấy buồn nôn, khó chịu. Nguyên nhân có thể là do trào ngược dạ dày thực quản gây ra ngoại tâm thu, khiến người bệnh cảm thấy buồn nôn hoặc nôn.
+3. Cảm giác hồi hộp lo lắng ở người bệnh ngoại tâm thu
+Ở bệnh nhân bị ngoại tâm thu, nhịp tim bị rối loạn, đập không đều, bị lỡ nhịp hoặc đập sớm hơn so với bình thường. Điều này khiến người bệnh có cảm giác hồi hộp và lo lắng khó tả.
+4. Đau ngực
+Đau và khó chịu ở ngực là triệu chứng thường gặp ở bệnh nhân bị ngoại tâm thu. Đôi khi, người bệnh có thể cảm nhận cơn đau tức ngực lan rộng đến vùng cổ họng hoặc cảm giác đập thình thịch trong lồng ngực.
+5. Khó thở
+Triệu chứng này thường đi kèm với tình trạng nhịp tim nhanh kéo dài và trở nên nghiêm trọng hơn khi người bệnh lo lắng, hồi hộp. Người bệnh cảm thấy bị hụt hơi, khó thở, đau tức ở ngực.
+6. Đau bụng
+Triệu chứng đau, khó chịu ở bụng thường bị nhầm lẫn với biểu hiện của bệnh lý liên quan đến tiêu hóa. Tuy nhiên, bệnh trào ngược dạ dày thực quản có thể là yếu tố nguy cơ dẫn đến ngoại tâm thu. Do đó, bệnh nhân có thể cảm thấy đau bụng, kèm theo đó là các triệu chứng như ợ hơi, khó chịu vùng thượng vị…. Tốt nhất khi có những biểu hiện này, người bệnh nên thăm khám sớm để xác định chính xác nguyên nhân gây đau bụng và được điều trị thích hợp.
+7. Nhanh có cảm giác mắc tiểu
+Sử dụng quá nhiều những thức uống có chứa caffeine hoặc lạm dụng rượu được xem là yếu tố nguy cơ dẫn đến ngoại tâm thu. Do đó, ngoài các triệu chứng liên quan đến rối loạn nhịp tim, khó thở, đau ngực thì người bệnh có thể nhanh mắc tiểu hơn.
+8. Đau đầu
+Ở bệnh nhân ngoại tâm thu, tình trạng rối loạn nhịp tim làm ảnh hưởng đến lượng máu và oxy cung cấp lên não, gây ra triệu chứng đau đầu, chóng mặt. Nếu ngoại thu kéo dài, biểu hiện đau đầu có thể nghiêm trọng hơn, ảnh hưởng đến công việc và chất lượng đời sống của người bệnh.
+Ngoại tâm thu có thể gây triệu chứng đau nhức đầu
+Ngoại tâm thu có ảnh hưởng nhiều đến sức khỏe không?
+Tình trạng này có thể xuất hiện ở cả những người khỏe mạnh. Vậy ngoại tâm thu có nguy hiểm không?
+Ngoại tâm thu là bệnh lành tính, hầu hết các trường hợp đều tự khỏi mà không cần điều trị. Tuy nhiên, một số trường hợp có thể tiến triển thành nhịp tim nhanh hoặc nhịp tim chậm. Vì vậy, bệnh nhân cần theo dõi thường xuyên để kịp thời phát hiện các bất thường.
+Phương pháp chẩn đoán ngoại tâm thu
+Trường hợp bị ngoại tâm thu có thể được chẩn đoán dễ dàng và nhanh chóng trên lâm sàng. Các phương pháp giúp chẩn đoán ngoại tâm thu thường là:
+1. Điện tâm đồ ECG
+Đo điện tâm đồ là phương pháp kiểm tra đơn giản nhất để chẩn đoán ngoại tâm thu. Phương pháp này giúp ghi lại hoạt động điện học của tim, giúp bác sĩ có thể đánh giá các bất thường về nhịp tim.
+Trường hợp nghi ngờ mắc bệnh ngoại tâm thu, nhưng không thể đưa ra kết luận khi đo điện tâm đồ, bác sĩ có thể chỉ định người bệnh đeo máy theo dõi Holter 24 giờ để theo dõi nhịp tim cả trong lúc nghỉ ngơi hoặc làm việc.
+2. Nghiệm pháp gắng sức
+Trong một số trường hợp nhất định, bác sĩ có thể chỉ định cho bệnh nhân gắng sức. Phương pháp này tạo ra bài kiểm tra gắng sức nhằm kích thích cơ tim, từ đó giúp bác sĩ có thể phát hiện được những bất thường khi gắng sức. Tùy vào hiện trạng ở mỗi bệnh nhân, bác sĩ sẽ lựa chọn phương pháp gắng sức phù hợp là vận động tự nhiên hoặc bằng Dobutamine.
+Phương pháp điều trị ngoại tâm thu
+1. Điều trị bằng các điều chỉnh lối sống
+Ở những người khỏe mạnh bị ngoại tâm thu do các tình trạng không phải bệnh lý gây ra như lo lắng, căng thẳng, thiếu ngủ, khó tiêu… thường không cần điều trị vì những trường hợp này là lành tính. Bác sĩ Phạm Thanh Bình khuyến cáo người bệnh nên điều chỉnh về lối sống, có chế độ ăn uống khoa học, hoạt động thể chất thường xuyên, duy trì cân nặng bình thường, đặc biệt là hạn chế những sản phẩm có chứa chất kích thích.
+2. Dùng thuốc
+Bệnh nhân có triệu chứng do lo lắng quá mức có thể được chỉ định dùng thuốc làm chậm nhịp tim như thuốc chẹn beta với liều lượng thấp hoặc thuốc trị rối loạn lo âu, thuốc chống trầm cảm.
+Trường hợp ngoại tâm thu là thứ phát sau các bệnh không phải bệnh tim như: cường giáp, thiếu máu hoặc rối loạn tiêu hóa thì trước tiên cần điều trị những bệnh lý cơ bản này. Khi có bệnh tim tiềm ẩn, ngoại tâm thu có thể gây rối loạn nhịp tim nghiêm trọng hơn. Do đó, bệnh nhân có thể được chỉ định dùng thuốc chống loạn nhịp, thuốc chẹn beta, thuốc chẹn kênh canxi hoặc amiodarone.
+3. Can thiệp xâm lấn
+Nếu sử dụng thuốc không cải thiện ngoại tâm thu hoặc trong trường hợp cần điều trị bệnh tim tiềm ẩn, bác sĩ sẽ xem xét lựa chọn các phương pháp can thiệp xâm lấn như: can thiệp mạch vành, thay van, cắt đốt ổ loạn nhịp, đặt máy để điều hòa nhịp tim.
+Cấy máy tạo nhịp tim cho bệnh nhân bị rối loạn nhịp tim
+Biện pháp phòng tránh ngoại tâm thu hiệu quả
+Để phòng tránh ngoại tâm thu cũng như hạn chế bệnh tiến triển nặng, nên có sự điều chỉnh lối sống và sinh hoạt:
+Hạn chế các yếu tố có thể gây rối loạn nhịp tim như: caffeine, rượu, bia, thuốc lá…
+Rèn thói quen tập luyện thể dục đều đặn để nâng cao thể lực, giảm căng thẳng và tăng cường sức khỏe tim mạch.
+Kiểm soát tốt các bệnh tim mạch sẵn có bằng cách dùng thuốc và điều trị theo phác đồ của bác sĩ.
+Có chế độ ăn uống tốt cho tim mạch: Ăn nhiều rau xanh, ngũ cốc nguyên hạt, trái cây, cá, thịt nạc, thịt da cầm đã bỏ da. Đồng thời, hạn chế những thực phẩm được chế biến sẵn, món ăn được chiên rán…
+Thư giãn tinh thần, tránh căng thẳng, lo lắng hoặc áp lực quá mức.
+Thăm khám sức khỏe tim mạch theo định kỳ.
+Một số câu hỏi thường gặp về ngoại tâm thu
+1. Ngoại tâm thu có chữa khỏi được không?
+Hầu hết các trường hợp ngoại tâm thu là lành tính và không cần phải điều trị. Nếu ngoại tâm thu xuất hiện dày kèm theo triệu chứng nặng, hoặc tiến triển trên nền của một bệnh lý tim mạch khác vẫn có thể điều trị được nếu phát hiện sớm.
+>> Xem thêm: Ngoại tâm thu có chữa được không? Liệu có tự khỏi hẳn? [GIẢI ĐÁP]
+2. Bệnh ngoại tâm thu khi nào cần được điều trị?
+Ngoại tâm thu xuất hiện ít, thưa, triệu chứng nhẹ thì không cần phải điều trị. Tuy nhiên, khi ngoại tâm thu tiến triển nặng hơn, tần suất xuất hiện dày, kèm theo cảm giác khó thở, đánh trống ngực, mệt mỏi,… người bệnh cần đến gặp bác sĩ để thăm khám và điều trị. Hoặc trường hợp ngoại tâm thu xuất hiện trên nền của những bệnh tim khác, cần tập trung chữa các bệnh lý chính, chữa ngoại tâm thu chỉ là một phần trong điều trị.
+3. Bệnh ngoại tâm thu có tự khỏi được không?
+Ngoại tâm thu có thể tự khỏi mà không cần điều trị bằng thuốc hay can thiệp ở người khỏe mạnh, không mắc bệnh tim mạch nào. Tuy nhiên, cần chú ý điều chỉnh lối sống khoa học để tránh nguy cơ rối loạn nhịp tim.
+Hiện nay, Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh là địa chỉ được nhiều người tin tưởng đến thăm khám và điều trị các bệnh lý về tim mạch, mạch máu và lồng ngực. Các bác sĩ giàu kinh nghiệm trong lĩnh vực tim mạch sẽ trực tiếp thăm khám và đưa ra phác đồ điều trị phù hợp cho từng người bệnh. Bên cạnh đó, có sự hỗ trợ của hệ thống máy móc, trang thiết bị hiện đại, giúp chẩn đoán bệnh chính xác và nhanh chóng.
+Để đặt lịch khám, tư vấn và điều trị tại Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh, Quý khách có thể liên hệ theo thông tin sau:
+Ngoại tâm thu có thể là dấu hiệu cảnh báo bất thường liên quan đến tim. Do đó, khi nhận thấy các dấu hiệu của ngoại tâm thu, tốt nhất nên đến bệnh viện có chuyên khoa Tim mạch để thăm khám, giúp xác định tình trạng bệnh có nghiêm trọng hay không và có hướng điều trị sớm.

@@ -1,0 +1,55 @@
+# doc_id = health_disease_1074
+# url = https://tamanhhospital.vn/dieu-tri-viem-gan-d/
+# date = 12/12/2023
+Điều trị viêm gan D được không? Chữa mất bao lâu?
+Các phương pháp điều trị viêm gan D dứt điểm vẫn chưa được nghiên cứu thành công. Hiện nay, sử dụng bulevirtide và interferon là lựa chọn tối ưu nhất, giúp cải thiện triệu chứng, đồng thời làm chậm diễn tiến bệnh. Tuy nhiên, với các trường hợp bị tổn thương gan nghiêm trọng, bác sĩ sẽ chỉ định thực hiện phẫu thuật ghép gan để kéo dài sự sống tối đa.
+Mục lụcViêm gan D có chữa được không?Phương pháp điều trị viêm gan D1. Dùng thuốc2. Ghép ganChăm sóc hỗ trợ người bệnh viêm gan DĐiều trị viêm gan D mất bao lâu?Viêm gan virus B mạn có đồng nhiễm viêm gan virus D?Người bị viêm gan D nên ăn và kiêng ăn gì?1. Thực phẩm nên ăn2. Thực phẩm nên tránhViêm gan D có chữa được không?
+Viêm gan D là tình trạng viêm gan do virus viêm gan D (HDV) gây ra, nhân lên dựa vào virus HBV. Đồng nhiễm HDV-HBV được coi là dạng viêm gan siêu vi mạn tính nghiêm trọng nhất. Tốc độ diễn tiến rất nhanh, có nguy cơ cao chuyển thành ung thư biểu mô tế bào gan, dẫn đến tử vong.
+Hiện nay, chưa có liệu pháp dược lý nào có thể điều trị dứt điểm bệnh viêm gan D mạn tính. Hiệu quả ức chế quá trình nhân lên của virus HDV khi sử dụng interferon hoặc pegylat interferon alpha (PEGIFN) chỉ được ghi nhận ở 25% bệnh nhân. Các chất tương tự nucleos(t)ide được sử dụng trong điều trị HBV không có hoạt tính kháng virus đối với HDV.
+Virus viêm gan D dựa vào vào vỏ bọc virus viêm gan B (HBV) (kháng nguyên bề mặt HBV, HBsAg) để hình thành các hạt HDV truyền nhiễm. Khoảng 13% trường hợp nhiễm virus viêm gan B (HBV) đồng nhiễm HDV. Người bệnh nhiễm HDV có nguy cơ cao phải đối mặt với tình trạng xơ gan và ung thư biểu mô tế bào gan (HCC).(1)
+Không có liệu pháp dược lý nào có thể kháng lại hoạt động của virus viêm gan D
+Phương pháp điều trị viêm gan D
+Hiện nay, không có phương pháp điều trị dứt điểm viêm gan D cấp tính và mạn tính. Không giống như các dạng viêm gan khác, các loại thuốc kháng virus được sử dụng phổ biến gần như không thể ức chế hoàn toàn hoạt động của HDV. Do đó, quá trình điều trị viêm gan D (HDV) chủ yếu tập trung vào các biện pháp hỗ trợ, chẳng hạn như:(2)
+1. Dùng thuốc
+Phương pháp điều trị bằng thuốc đầu tiên đối với HDV là sử dụng bulevirtide (Hepcludex), đã được Liên minh Châu u phê duyệt vào tháng 7/ 2020. Bulevirtide có khả năng ngăn chặn sự xâm nhập của virus vào tế bào gan thông qua thụ thể chức năng NTCP (một thụ thể bề mặt tế bào xuất hiện ở màng đáy tế bào gan, là điều kiện cần cho sự xâm nhập của HBV và HDV).
+Ngoài ra, các chất tương tự Peginterferon alfa-2a (PEG-IFNa2a) và nucelos(t)ide cũng đã từng được chỉ định sử dụng để kiểm soát bệnh viêm gan D mạn tính. Tuy nhiên, chỉ có PEG-IFN cho thấy có thể chống lại HDV, đáp ứng tốt với virus và giúp cải thiện triệu chứng bệnh ở 29,4% người bệnh.
+Người bệnh cũng có thể dùng interferon liều cao trong tối đa 12 tháng để ngăn chặn virus viêm gan D lây lan và hỗ trợ cải thiện triệu chứng bệnh. Tuy nhiên, hiệu quả điều trị không vượt quá 30%, phải ngưng điều trị thường xuyên do tác dụng phụ nghiêm trọng và tỷ lệ tái phát quá cao. Nói cách khác, sau khi dùng thuốc, kết quả xét nghiệm vẫn có thể dương tính. Vì vậy, biện pháp quan trọng nhất là chủ động phòng ngừa bệnh ngay từ đầu để ngăn ngừa lây truyền.
+Liệu pháp kháng virus bằng interferon alfa cũng có thể được xem xét sử dụng cho những trường hợp nhiễm virus viêm gan D mạn tính (HDV). Điều trị cho trẻ em bằng interferon alfa có vẻ an toàn nhưng tương đối không hiệu quả. Không cần điều trị đối với bệnh nhân đồng nhiễm do tỷ lệ thanh thải tự phát cao. Lamivudine, ribavirin và corticosteroid không có hiệu quả trong điều trị.
+Bác sĩ đang khám cho bệnh nhân trẻ bị viêm gan D
+2. Ghép gan
+Các trường hợp gan bị tổn thương, chẳng hạn như xơ gan, có thể được chỉ định cấy ghép gan. Đây là một cuộc đại phẫu, tiến hành loại bỏ lá gan bị tổn thương và thay thế bằng gan khỏe mạnh từ người hiến tặng. Khoảng 70% người bệnh sống được tối thiểu 5 năm sau khi thực hiện phẫu thuật này.
+Chăm sóc hỗ trợ người bệnh viêm gan D
+Dưới đây là một số lưu ý quan trọng trong quá trình chăm sóc hỗ trợ người bệnh viêm gan D:
+Đối với các trường hợp nhiễm virus viêm gan D cấp tính, người bệnh cần được theo dõi ít nhất trong vòng 6 tháng để xác định khả năng tiến triển thành nhiễm virus viêm gan B (HBV) và virus viêm gan D (HDV) mạn tính.
+Thực hiện sinh thiết gan để xác định giai đoạn bệnh trước khi bắt đầu điều trị bằng interferon alfa.
+Người bệnh có thể tiếp tục điều trị bằng interferon sau thời gian 1 năm nếu cơ thể dung nạp tốt và cho thấy hiệu quả rõ rệt.
+Cần theo dõi sát sao nồng độ HDV RNA và kháng nguyên bề mặt viêm gan B (HBsAg) trong quá trình điều trị bằng interferon.
+Nếu người bệnh không thể ăn uống, cần truyền dịch qua đường tĩnh mạch để đảm bảo cung cấp dinh dưỡng cần thiết cho cơ thể.
+Điều trị viêm gan D mất bao lâu?
+Quá trình điều trị viêm gan D bằng Pegylat interferon alpha nên được kéo dài ít nhất 48 tuần. Khả năng đáp ứng của virus với phương pháp điều trị này không cao nhưng có thể làm chậm diễn tiến của bệnh.
+Pegylat interferon alpha thường gây ra nhiều tác dụng đáng lo ngại, do đó không được khuyến cáo sử dụng cho người bệnh bị xơ gan mất bù, bệnh tự miễn, tâm thần… Đối với những trường hợp này, bác sĩ có thể chỉ định thay thế bằng Bulevirtide.
+Thời gian điều trị viêm gan D tùy thuộc vào mức độ nghiêm trọng của bệnh và phương pháp điều trị
+Viêm gan virus B mạn có đồng nhiễm viêm gan virus D?
+5 -15% trường hợp người nhiễm HBV cũng đồng thời nhiễm HDV, dẫn đến suy gan tối cấp (1%). Đồng nhiễm HBV-HDV là dạng viêm gan siêu vi nặng nhất. Mục tiêu của các phương pháp điều trị là phục hồi lâm sàng hoàn toàn và loại bỏ đồng nhiễm.
+Nhiễm HDV ở người đã dương tính với kháng nguyên bề mặt viêm gan B (HBsAg) được gọi là bội nhiễm, dẫn đến suy gan tối cấp (5%). Khoảng 80-90% bị nhiễm HDV mạn tính. Những trường hợp này diễn tiến nhanh hơn, dẫn đến xơ gan và nguy cơ cao gây ung thư biểu mô tế bào gan.
+Người bị viêm gan D nên ăn và kiêng ăn gì?
+Người mắc bệnh viêm gan D, đang điều trị viêm gan D cần tuân thủ chế độ ăn uống khoa học và lành mạnh, cụ thể như sau:
+1. Thực phẩm nên ăn
+Trái cây và rau quả
+Các loại ngũ cốc nguyên hạt như yến mạch, gạo lứt…
+Protein nạc như cá, thịt gà không da, lòng trắng trứng, đậu
+Các sản phẩm từ sữa ít béo hoặc không béo
+Chất béo lành mạnh từ các loại hạt, quả bơ, dầu ô liu…
+2. Thực phẩm nên tránh
+Chất béo bão hòa có trong bơ, kem, các loại thực phẩm từ sữa giàu chất béo, thịt mỡ, đồ chiên
+Đồ ăn có đường như bánh quy, bánh ngọt, soda, kẹo ngọt…
+Thực phẩm chứa nhiều muối
+Rượu bia
+Động vật có vỏ hoặc chưa được nấu chín (có nguy cơ cao chứa vi khuẩn, virus)
+Thực phẩm chế biến sẵn (chứa chất phụ gia hóa học, hàm lượng muối cao).
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Nơi đây quy tụ đội ngũ bác sĩ Nội soi tiêu hóa – Nội khoa và Ngoại khoa Tiêu hóa – Gan Mật Tụy – Hậu môn trực tràng chuyên môn cao, giàu kinh nghiệm. Đặc biệt, các phương pháp ngoại khoa tiên tiến được áp dụng trong các lĩnh vực Nội soi và Phẫu thuật nội soi ít xâm lấn, giúp bệnh nhân nhanh hồi phục, không để lại sẹo với các tên tuổi hàng đầu như TS.BS Đỗ Minh Hùng, TTƯT.TS.BS Phạm Hữu Tùng, BS.CKII Nguyễn Quốc Thái, TS.BS Trần Thanh Bình, ThS.BS.CKII Trần Hiếu Nhân, BS.CKII Hồ Thị Bích Thủy, BS.CKI Đặng Lê Bích Ngọc; điều trị Gan Mật Tụy kỹ thuật hiện đại với TS.BS Phạm Công Khánh, BS.CKII Võ Ngọc Bích; thăm khám và tư vấn bệnh lý nội tiêu hóa với ThS.BS.CKII Lê Thanh Quỳnh Ngân, BS.CKI Huỳnh Văn Trung, BS.CKI Hoàng Đình Thành, ThS.BS Nguyễn Thị Ngọc Bích, ThS.BS.CKI Đoàn Hoàng Long; phẫu thuật trong điều trị các bệnh lý hậu môn trực tràng như ThS.BS Nguyễn Văn Hậu, ThS.BS Ngô Hoàng Kiến Tâm, ThS.BS Nguyễn Thanh Biên…
+Các bác sĩ Khoa Ngoại Tổng hợp cũng dẫn đầu với các kỹ thuật hiện đại trong phẫu thuật nội soi ổ bụng với các tên tuổi chuyên gia như TTƯT.PGS.TS Triệu Triều Dương, ThS.BS.CKII Nguyễn Văn Trường, ThS.BS Lê Văn Lượng… Các chuyên gia thuộc lĩnh vực nội soi tiêu hóa tiêu biểu như TS.BS Vũ Trường Khanh, BSNT Đào Trần Tiến, BSNT Hoàng Nam, BS.CKII Bùi Quang Thạch…
+Ngoài ra, bệnh viện còn được trang bị hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Trên đây là tổng hợp tất cả các thông tin liên quan đến vấn đề điều trị viêm gan D và phòng ngừa hiệu quả. Hy vọng thông qua những chia sẻ này, bạn đã có thêm nhiều cập nhật hữu ích để chủ động theo dõi, phát hiện bệnh từ sớm, nhằm hạn chế tối đa biến chứng nguy hiểm.

@@ -1,0 +1,36 @@
+# doc_id = health_disease_790
+# url = https://tamanhhospital.vn/sieu-am-tim-danh-dau-mo/
+# date = 24/11/2021
+Kỹ thuật siêu âm tim đánh dấu mô là gì? | Bệnh viện Tâm Anh
+Siêu âm tim đánh dấu mô được ứng dụng để phát hiện những thay đổi cơ tim dưới lâm sàng khi những kỹ thuật chẩn đoán hình ảnh cổ điển không thể phát hiện.
+Bài viết được tư vấn chuyên môn bởi ThS.BS Phạm Đỗ Anh Thư, Bác sĩ Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Mục lụcSiêu âm tim đánh dấu mô là gì?Những ứng dụng lâm sàng của siêu âm tim đánh dấu môChỉ số bình thường của sức căng cơ timSiêu âm tim đánh dấu mô là gì?
+Siêu âm tim đánh dấu mô (Speckle Tracking Echocardiography) là một trong những kỹ thuật mới giúp đánh giá trực tiếp biến dạng cơ tim, phát hiện sớm rối loạn chức năng cơ tim ngay cả khi phân suất tống máu thất trái (EF) bảo tồn. Từ đó, có phương pháp can thiệp điều trị sớm, hạn chế nguy cơ đưa đến rối loạn chức năng cơ tim nặng.(1)
+Siêu âm tim đánh dấu mô giúp phát hiện sớm các bất thường chức năng cơ tim, ngăn ngừa nguy cơ dẫn đến rối loạn chức năng cơ tim nặng
+Nguyên lý của siêu âm tim đánh dấu mô là phương pháp ngoại tuyến. Các vòng lặp kỹ thuật số sẽ được ghi lại và sau đó được xử lý bởi một phần mềm, chức năng cơ tim được theo dõi trong suốt chu kỳ tim. Kết thúc quá trình, phần mềm sẽ tính toán mức độ biến dạng và hiển thị kết quả dưới nhiều hình thức khác nhau.
+So với các kỹ thuật chẩn đoán hình ảnh cổ điển, kỹ thuật siêu âm tim đánh dấu mô có những ưu điểm sau:
+Không phụ thuộc vào góc của chùm tia siêu âm, có thể đánh giá chức năng tim theo nhiều hướng khác nhau.
+Cung cấp một lượng giá khách quan về chức năng tim, hạn chế được sự sai lệch kết giữa giữa những người đánh giá và những lần đánh giá khác nhau.
+Có khả năng tái lập lại chức năng theo từng vùng cũng như toàn bộ cơ tim.
+Giúp phát hiện sớm những bất thường chức năng cơ tim.
+Những ứng dụng lâm sàng của siêu âm tim đánh dấu mô
+Kỹ thuật siêu âm tim đánh dấu mô cho phép đánh giá sức căng cơ tim. Sức căng cơ tim có thể đo lường được độ biến dạng cơ tim, là một đặc tính nội tại của cơ tim.
+Đánh giá sức căng cơ tim giúp phản ánh trực tiếp chức năng tâm thu cơ tim hơn các chỉ số siêu âm tim thông thường khác, thường không nhạy với những thay đổi sớm của chứng năng cơ tim.
+Bệnh cơ tim có thể xảy ra trước khi những thay đổi cấu trúc cơ tim biểu hiện trên những kỹ thuật hình ảnh truyền thống. Siêu âm tim đánh dấu mô đã được chứng minh là phương pháp có độ nhạy cao giúp phát hiện tổn thương chức năng cơ tim ở giai đoạn sớm.
+Siêu âm tim đánh dấu mô được chứng minh có độ nhạy cao, phát hiện tổn thương chức năng cơ tim ở giai đoạn sớm
+Chỉ số bình thường của sức căng cơ tim
+Ở những người khỏe mạnh, chỉ số trung bình của sức căng cơ tim thất trái theo chiều dọc từ -18% đến -20%.
+Phát hiện sớm giảm chức năng cơ tim:
+Trong bệnh cơ tim không do thiếu máu cục bộ: Sức căng cơ tim thường giảm và được sử dụng để đánh giá tiến triển của bệnh cũng như hiệu quả của điều trị.
+Bệnh cơ tim phì đại: Sức căng cơ tim theo trục dọc thường giảm trong bệnh cơ tim phì đại. Sự giảm sức căng không đồng nhất, điển hình với giảm nhiều ở vùng đáy hoặc giữa vách liên thất, giúp phân biệt bệnh cơ tim phì đại với những nguyên nhân khác gây phì đại cơ tim như tăng huyết áp hay tim của vận động viên.
+Bệnh cơ tim giãn nở: Thường giảm sức căng theo tất cả các hướng.
+Bệnh cơ tim hạn chế: Siêu âm tim đánh dấu mô có thể phân biệt bệnh cơ tim hạn chế với viêm màng ngoài tim co thắt. Ngoài ra, dấu hiệu đặc trưng “Cherry On Top” hoặc “bảo tồn mỏm” (Apical Sparing) trên siêu âm tim đánh dấu mô giúp xác định bệnh cơ tim hạn chế do Amyloidosis.
+Bệnh cơ tim do điều trị ung thư: Bệnh nhân ung thư được điều trị với hóa chất và/hoặc xạ trị đều có thể phát triển bệnh cơ tim trong vài năm hoặc vài chục năm sau khi kết thúc điều trị. Bệnh nhân sau hóa trị có thể giảm sức căng cơ tim dù chức năng tâm thu vẫn bình thường. Việc phát hiện sớm và điều trị tổn thương cơ tim do hóa chất sẽ giúp giảm sự phát triển suy tim sau này.
+Phát hiện loạn nhịp tim ác tính: Bệnh nhân có bệnh tim liên quan đến một số đột biến gen có thể phát triển loạn nhịp ác tính trước khi thay đổi chức năng cơ tim trên những kỹ thuật hình ảnh truyền thống. Do đó, đánh giá chức năng cơ tim là quan trọng ở những bệnh nhân này. Phân tán cơ học, phản ánh sự không đồng nhất đạt đỉnh co bóp cơ tim, trên siêu âm tim đánh dấu mô là chỉ điểm cho loạn nhịp thất và đột tử.
+Bệnh cơ tim thiếu máu cục bộ: Khi kết hợp với siêu âm tim gắng sức Dobutamin, siêu âm tim đánh dấu mô giúp tiên lượng kích thước vùng cơ tim bị nhồi máu, động mạch vành liên quan, kết quả sau can thiệp mạch vành và tái cấu trúc tất trái. Ngoài ra, siêu âm tim đánh dấu mô còn giúp phát hiện sợi hóa cơ tim và vùng cơ tim còn sống. Tăng phân tán cơ học trên siêu âm tim đánh dấu mô liên quan với tăng nguy cơ loạn nhịp tim trên bệnh nhân thiếu máu cơ tim.
+Đánh giá chức năng thất phải: Chỉ số bình thường của sức căng cơ tim chiều dọc ở thành tự do thất phải: -28 +/- 4%. Siêu âm tim đánh dấu mô là phương pháp tin cậy giúp đánh giá chức năng thất phải trong một số trường hợp như bệnh cơ tim thất phải sinh loạn nhịp, bệnh tim bẩm sinh,…
+Hình ảnh siêu âm tim đánh dấu mô
+Hình ảnh “mắt bò” trong siêu âm tim đánh dấu mô
+Hình ảnh “bảo tồn mỏm” (Apical Sparing) hay “Cherry On Top” ở bệnh nhân cơ tim Amyloidosis
+Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh quy tụ đội ngũ bác sĩ giỏi chuyên môn, giàu kinh nghiệm, trang bị hệ thống máy móc hiện đại, cập nhật nhanh chóng những tiến bộ mới nhất trong tầm soát, chẩn đoán và điều trị hiệu quả các bệnh lý tim mạch, trong đó có kỹ thuật siêu âm tim đánh dấu mô giúp phát hiện sớm những bất thường chức năng cơ tim. Nhờ đó, bệnh nhân được chẩn đoán sớm và can thiệp điều trị kịp thời, hiệu quả.
+Siêu âm tim đánh dấu mô có ý nghĩa quan trọng trong tầm soát, phát hiện sớm các bất thường chức năng cơ tim, từ đó can thiệp kịp thời và hiệu quả.

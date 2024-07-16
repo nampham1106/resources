@@ -1,0 +1,87 @@
+# doc_id = health_disease_2597
+# url = https://tamanhhospital.vn/dieu-tri-ung-thu-vu-her2-duong-tinh/
+# date = 24/05/2024
+Điều trị ung thư vú HER2 dương tính và phòng ngừa rủi ro biến chứng
+Ung thư vú dương tính với HER2 chiếm 30% tổng số ca ung thư vú [1]. Vậy ung thư vú dương tính HER2 so với HER2 âm tính khác nhau như thế nào? Điều trị ung thư vú HER2 dương tính bằng cách nào? Bài viết này được thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM chia sẻ một số cách điều trị bệnh này và phòng ngừa rủi ro biến chứng.
+Mục lụcUng thư vú dương tính HER2 là gì?Các phương pháp điều trị ung thư vú HER2 dương tính1. Phẫu thuật2. Hóa trị3. Liệu pháp nhắm mục tiêuLựa chọn điều trị ung thư vú dương tính HER2 thế nào?1. Khối u giai đoạn đầu2. Ung thư dương tính HER2 di cănUng thư dương tính với HER2 hoạt động thế nào?1. Mức độ ác tính – Cấp độ khối u (gọi là Grad)2. Ăn lan đến các hạch bạch huyết3. Nguy cơ tái phát: sớm và muộn4. Di cănĐối tượng nguy cơ mắc bệnhTiên lượng bệnh và rủi ro biến chứngChẩn đoán ung thư vú HER2 dương tính thế nào?1. Hóa mô miễn dịch (IHC)2. Lai huỳnh quang tại chỗ (FISH)Các kết quả xét nghiệm HER2 dương tínhKhám, điều trị & chăm sóc tại BVĐK Tâm AnhUng thư vú dương tính HER2 là gì?
+Ung thư vú được chia thành nhiều loại dựa trên trạng thái thụ thể của khối u. Điểm khác biệt giữa các loại ung thư vú là các protein được tìm thấy trên bề mặt tế bào, có liên quan đến sự phát triển của khối u. Những protein này liên quan đến vật liệu di truyền của tế bào ung thư.
+Ví dụ, bệnh ung thư vú dương tính với thụ thể estrogen, estrogen liên kết với các thụ thể cụ thể trên tế bào ung thư vú, kích thích tăng sinh những tế bào này. Tương tự, thụ thể HER2 trên bề mặt tế bào ung thư vú cũng được kích thích bởi protein HER2, thúc đẩy sự tiến triển và di căn của ung thư vú.
+Ung thư vú dương tính với HER2 xảy ra khi gen HER2 đột biến
+Tuy nhiên, điều quan trọng cần lưu ý là tất cả các tế bào vú – cả ung thư và không ung thư-đều có thụ thể HER2 trên bề mặt. Sự khác biệt là tế bào ung thư vú dương tính với HER2 có lượng thụ thể nhiều hơn từ 40 – 100 lần so với tế bào ung thư vú âm tính với HER2 hoặc tế bào vú bình thường. Trong những trường hợp HER2 dương tính, số lượng lớn các thụ thể sẽ thúc đẩy ung thư tiến triển.
+Việc xác định tình trạng thụ thể HER2 giúp bác sĩ chỉ định phương pháp điều trị ung thư vú HER2 dương tính hiệu quả nhất. Các lựa chọn nhắm vào thụ thể HER2 sẽ không có kết quả nếu tình trạng HER2 âm tính, nhưng việc điều trị sẽ rất hiệu quả và chính xác nếu tình trạng HER2 dương tính.
+Sự khác biệt giữa tế bào bình thường và HER2 dương tính
+Các phương pháp điều trị ung thư vú HER2 dương tính
+Xác định phương pháp điều trị ung thư vú HER2 dương tính phụ thuộc vào các yếu tố như giai đoạn ung thư và tình trạng HER2.
+1. Phẫu thuật
+Việc chọn lựa giống như cho tất cả các loại ung thư thuộc nhóm sinh học khác trong giai đoạn 1. Nếu bướu to hơn 2cm hoặc có di căn hạch vùng từ đầu tiên mới chẩn đoán (từ giai đoạn 2 trở lên) thì nên điều trị sinh học và hóa trị tiền phẫu sau đó sẽ phẫu thuật.
+2. Hóa trị
+Hóa trị để thu nhỏ khối u trước khi bác sĩ thực hiện phẫu thuật cắt bỏ (liệu pháp hoá trị tân hỗ trợ) hoặc hoá trị hỗ trợ sau mổ cho bướu nhỏ nguy cơ thấp.
+3. Liệu pháp nhắm mục tiêu
+Liệu pháp nhắm mục tiêu bao gồm: liệu pháp kháng thể đơn dòng, thuốc ức chế tyrosine kinase và liên hợp kháng thể-thuốc (ADC). ADC điều trị ung thư bằng cách nhắm mục tiêu lên bề mặt của tế bào ung thư. ADC kết hợp thuốc trị ung thư và kháng thể để tìm kiếm tế bào ung thư.
+Lựa chọn điều trị ung thư vú dương tính HER2 thế nào?
+Các lựa chọn điều trị ung thư vú HER2 dương tính khác nhau đáng kể với HER2 âm tính, ngay cả với ung thư giai đoạn đầu và di căn (giai đoạn IV), cụ thể:
+1. Khối u giai đoạn đầu
+Trước khi phát triển các liệu pháp nhắm mục tiêu điều trị ung thư vú HER2 dương tính, chẳng hạn như Herceptin, đáp ứng điều trị người bệnh ung thư vú dương tính với HER2 không tốt bằng người bệnh âm tính với HER2.
+Liệu pháp nhắm mục tiêu điều trị ung thư vú dương tính với HER2 đã thay đổi tiên lượng sống cho người bệnh, kết quả điều trị về cơ bản giống với các khối u âm tính với HER2 (mặc dù các khối u dương tính với HER2 có xu hướng lớn hơn). Những loại thuốc này đã thay đổi tiên lượng sống của người bệnh ung thư vú dương tính với HER2 giai đoạn I-III từ kém sang tốt.
+Herceptin giúp giảm nguy cơ tái phát và cải thiện tỷ lệ sống sau 10 năm với người bệnh từ giai đoạn I-III. Tuy nhiên, nguy cơ tái phát và di căn cao hơn với tình trạng HER2 dương tính và tỷ lệ sống thấp hơn một chút so với các khối u âm tính với HER2 nhưng dương tính với thụ thể estrogen.
+Người bệnh có khối u dương tính với HER2 ít có khả năng đáp ứng với hóa trị liệu ung thư vú so với người bệnh âm tính với HER2.
+2. Ung thư dương tính HER2 di căn
+Năm 2022, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã mở rộng việc sử dụng Enhertu (trastuzumab-deruxtecan) để điều trị ung thư vú HER2 dương tính và ung thư vú có HER2 thấp. Nếu người bệnh đã được điều trị bằng liệu pháp thuốc nhắm mục tiêu HER2 và bệnh tái phát trong vòng 6 tháng sau khi kết thúc điều trị hoặc khối u không thể loại bỏ bằng phẫu thuật hoặc đã lan sang các bộ phận khác của cơ thể, Enhertu có thể được sử dụng. [2]
+Cũng có sự khác biệt trong phương pháp điều trị tốt nhất cho người bệnh ung thư vú âm tính với HER2 và người bệnh dương tính với HER2 di căn. Giống như các khối u ở giai đoạn đầu, các liệu pháp nhắm vào HER2 thường cải thiện khả năng sống, trong khi các liệu pháp kháng estrogen thường không hiệu quả. Những khối u này cũng có thể phản ứng khác nhau với các phương pháp điều trị từ hóa trị đến thuốc trị liệu miễn dịch.
+Ung thư dương tính với HER2 hoạt động thế nào?
+Các khối u dương tính với HER2 có thể hoạt động khác nhau theo một số cách, bao gồm:
+1. Mức độ ác tính – Cấp độ khối u (gọi là Grad)
+Bác sĩ đánh giá mức độ khối u dựa trên sự xuất hiện của các tế bào dưới kính hiển vi. Con số này mô tả mức độ xâm lấn của khối u, trong đó Grad 1 là ít xâm lấn nhất và Grad 3 là xâm lấn nhất. Bởi khối u Grad 3 có xu hướng phát triển nhanh hơn khối u ở mức độ Grad thấp hơn. Thông thường, khối u dương tính với HER2 có nhiều khả năng ở cấp độ Grad 3.
+2. Ăn lan đến các hạch bạch huyết
+Ung thư vú dương tính với HER2 có nhiều khả năng di căn đến các hạch bạch huyết. Vì vậy, bác sĩ có thể chẩn đoán giai đoạn bệnh cao hơn so với khối u âm tính HER2. Đồng thời, ung thư vú dương tính với HER2 cũng ảnh hưởng đến khả năng sống của người bệnh.
+Ung thư vú dương tính với HER2 có nhiều khả năng xâm lấn đến các hạch bạch huyết
+3. Nguy cơ tái phát: sớm và muộn
+Ung thư vú giai đoạn đầu dương tính với HER2 (giai đoạn I và giai đoạn II) có khả năng tái phát cao gấp 2-5 lần so với khối u âm tính HER2. Đặc biệt, khối u dương tính với HER2 rất nhỏ (đường kính dưới 1cm) có hạch bạch huyết âm tính có nguy cơ tái phát cao hơn nhiều so với khối u âm tính với HER2. Điều trị bằng Herceptin (trastuzumab) có thể giảm một nửa nguy cơ tái phát.
+Mức độ tái phát ung thư vú cũng khác nhau. Các khối u nhỏ cũng có nhiều khả năng tái phát di căn hơn nếu dương tính với HER2. Trong khi đó, các khối u chỉ tái phát tại chỗ hoặc tái phát hạch vùng khi âm tính với HER2
+Mặc dù các khối u dương tính với HER2 và âm tính với thụ thể estrogen có nhiều khả năng tái phát sớm hơn so với ung thư dương tính với thụ thể estrogen và HER2 âm tính, nhưng các trường hợp tái phát muộn 10 năm sau hoặc lâu hơn ít hơn nhiều.
+Ung thư vú dương tính với thụ thể estrogen có nhiều khả năng tái phát sau 5 năm so với trong 5 năm đầu tiên và nguy cơ tái phát vẫn ổn định mỗi năm trong ít nhất 20 năm sau chẩn đoán. Ngược lại, người bệnh có khối u dương tính với HER2 và đạt mốc 5 năm có nhiều khả năng ổn định và không bị tái phát.
+4. Di căn
+Khối u dương tính với HER2 có khả năng di căn cao hơn khối u có HER2 âm tính hay không còn phụ thuộc vào vị trí di căn của ung thư vú. Nguy cơ di căn nói chung, đặc biệt là di căn não, được cho là tăng lên, nhưng nhiều nghiên cứu về vấn đề này đã được thực hiện trước khi Herceptin được sử dụng rộng rãi.
+Các nghiên cứu được thực hiện sau khi sử dụng Herceptin và các liệu pháp nhắm mục tiêu kháng HER2 khác đã phát hiện ra ung thư vú dương tính với HER2 tiếp tục có tỷ lệ di căn não tương đối cao. Các khối u dương tính với HER2 có xu hướng di căn sớm đến hạch bạch huyết ở nách, phổi, gan, tủy xương, buồng trứng và tuyến thượng thận.
+Khả năng di căn của khối u dương tính với HER2 có thể khác nhau tùy thuộc vào việc khối u đó có dương tính với thụ thể estrogen hay không. Nguy cơ di căn não, gan, xương và phổi ở các khối u dương tính với HER2 cũng bị ảnh hưởng bởi việc khối u dương tính hay âm tính với thụ thể estrogen.
+Nguy cơ di căn cũng phụ thuộc vào các yếu tố liên quan. Ví dụ nguy cơ di căn gan do ung thư vú sẽ cao hơn ở những khối u dương tính với HER2 nếu người bệnh cũng hút thuốc.
+Chắc chắn có những trường hợp ngoại lệ đối với những phát hiện này và điều quan trọng là mỗi người bệnh và mỗi bệnh ung thư vú đều mang đặc điểm riêng và không giống nhau. Nên việc chẩn đoán và điều trị ung thư vú HER2 dương tính mỗi người là khác nhau
+Đối tượng nguy cơ mắc bệnh
+Tất cả phụ nữ đều có gen HER2 mã hóa protein HER2, có liên quan đến sự phát triển của tế bào tuyến vú. Khi có quá nhiều bản sao của gen HER2 do vật liệu di truyền trong tế bào bị tổn thương hoặc do đột biến thì việc sản xuất quá mức HER2 sẽ gây một số hậu quả.
+Một số người có nhiều khả năng mắc ung thư vú dương tính với HER2 hơn những người khác. Nghiên cứu LACE và PATHWAYS đã xem xét đặc điểm của những người có nguy cơ cao dương tính với HER2 hoặc âm tính với HER2, cụ thể [3]:
+Những phụ nữ có khối u dương tính với HER2 và có thụ thể estrogen âm tính thường trẻ hơn, ít sử dụng liệu pháp thay thế hormone hơn và nhiều khả năng là người châu Á hoặc gốc Tây Ban Nha.
+Các khối u dương tính với HER2 dường như không liên quan đến việc uống rượu hoặc hút thuốc. Và không giống các khối u dương tính với thụ thể estrogen, hoạt động thể chất dường như không có tác dụng ngăn loại bệnh này.
+Đàn ông mắc bệnh ung thư vú ít có khả năng khối u dương tính với HER2 hơn phụ nữ.
+Ung thư biểu mô ống tuyến vú tại chỗ (DCIS) hoặc khối u giai đoạn 0 có nhiều khả năng dương tính với HER2 hơn so với ung thư vú xâm lấn do có liên quan đến quá trình phát triển khối u.
+Một số loại ung thư vú ít có khả năng dương tính với HER2 hơn. Ví dụ: hiếm khi ung thư vú dạng nhầy, ung thư biểu mô tủy hoặc ung thư biểu mô ống ở vú dương tính với HER2.
+Tình trạng HER2 có thể thay đổi tùy theo các yếu tố nguy cơ di truyền với bệnh ung thư vú. Ví dụ, ung thư vú liên quan đến BRCA1 ít có khả năng dương tính với HER2.
+Tiên lượng bệnh và rủi ro biến chứng
+Mặc dù tiên lượng chung của việc điều trị ung thư vú HER2 dương tính có xu hướng kém hơn một chút so với người bệnh dương tính với thụ thể estrogen nhưng âm tính với HER2, việc áp dụng rộng rãi các liệu pháp HER2 đang tạo sự khác biệt về tỷ lệ sống cũng như giảm nguy cơ tái phát.
+Với nhiều phương pháp điều trị ung thư vú HER2 dương tính mới được phê duyệt trong những năm gần đây, ngày càng có nhiều người bệnh được kéo dài sự sống khi mắc bệnh ung thư vú dương tính với HER2. Điều quan trọng là trạng thái HER2 có thể thay đổi. Một khối u ban đầu dương tính với HER2 có thể âm tính với HER2 nếu tái phát, lan rộng hoặc di căn.
+Tương tự như vậy, một khối u ban đầu âm tính với HER2 có thể trở nên dương tính nếu tái phát. Vì vậy, tất cả các trường hợp tái phát hay di căn luôn được sinh thiết lại để xác định tình trạng thụ thể HER2. Các thụ thể estrogen và progesterone cũng được kiểm tra lại sau tái phát.
+Chẩn đoán ung thư vú HER2 dương tính thế nào?
+Bác sĩ chẩn đoán tất cả các bệnh ung thư vú bằng sinh thiết vú. Nếu sinh thiết vú phát hiện ung thư, bác sĩ giải phẫu bệnh sẽ kiểm tra các tế bào mô vú để tìm dấu hiệu của protein HER2. Các xét nghiệm HER2 bao gồm:
+1. Hóa mô miễn dịch (IHC)
+Sinh thiết vú được sử dụng để xác định tình trạng HER2, giúp cho việc lựa chọn phương án điều trị ung thư vú HER2 dương tính chính xác hơn. Kết quả sinh thiết được gửi đi xét nghiệm hóa mô miễn dịch.
+Kết quả xét nghiệm hóa mô miễn dịch cho thấy các mức độ dương tính HER2 khác nhau. Ví dụ: một khối u có thể được báo cáo kết quả là 0, 1+, 2+ hoặc 3+. Các khối u có số lượng HER2 cao hơn có thể được coi là dương tính với HER2.
+Sinh thiết vú được sử dụng để xác định tình trạng HER2
+2. Lai huỳnh quang tại chỗ (FISH)
+Trong trường hợp xét nghiệm hóa mô miễn dịch không xác định rõ HER2, xét nghiệm lai huỳnh quang được thực hiện tại chỗ để tìm gen HER2 trong tế bào ung thư vú.
+Các kết quả xét nghiệm HER2 dương tính
+Theo Hiệp hội Ung thư Hoa Kỳ, kết quả xét nghiệm hóa mô miễn dịch cần được xem xét như sau:
+Kết quả
+Ý nghĩa
+0
+HER2-âm tính
+1+
+HER2-âm tính
+2+
+Không xác định (sẽ thực hiện xét nghiệm lai huỳnh quang tại chỗ bằng kỹ thuật FISH hoặc Dual ISH)
+3+
+HER2-dương tính
+Tác động của việc điều trị ung thư vú HER2 dương tính với tiên lượng sống của người bệnh ung thư vú là mối quan tâm hàng đầu. Số liệu thống kê có thể gây hiểu nhầm nếu không xem xét các khía cạnh khác trong chẩn đoán, bao gồm giai đoạn ung thư khi chẩn đoán và liệu khối u có dương tính với thụ thể estrogen và/hoặc progesterone hay không.
+Người bệnh cũng có thể được kiểm tra các thụ thể progesterone và estrogen. Ung thư vú bộ ba âm tính là âm tính với HER2, estrogen và progesterone, trong khi ung thư vú bộ ba dương tính là dương tính với cả ba loại này.
+Khám, điều trị & chăm sóc tại BVĐK Tâm Anh
+Khám, điều trị & chăm sóc tại Bệnh viện Đa khoa Tâm Anh TP.HCM với các chuyên gia đầu ngành, bác sĩ nhiều kinh nghiệm, liên tục trau dồi các phương pháp điều trị mới trên thế giới, giúp chị em tầm soát ung thư vú hoặc các bệnh lý liên quan đến tuyến vú để bác sĩ lập kế hoạch điều trị hiệu quả, toàn diện và rút ngắn thời gian điều trị đáng kể.
+Bệnh viện Đa khoa Tâm Anh TP.HCM cũng liên tục nhập các máy móc, trang thiết bị tân tiến nhằm hỗ trợ bác sĩ trong việc chẩn đoán và điều trị cho người bệnh. Ngoài ra, khoa Ngoại Vú còn lập nhóm “CLB bệnh nhân ung thư vú bệnh viện Tâm Anh” giúp người bệnh có thể chia sẻ những khó khăn, lo lắng với những người bệnh cùng hoàn cảnh.
+Ung thư vú HER2 dương tính là loại ung thư tiến triển nhanh, có thể nhanh chóng di căn từ vú sang các khu vực khác trên cơ thể. Bác sĩ có thể chẩn đoán sớm và điều trị ung thư vú HER2 dương tính hiệu quả nếu được phát hiện sớm.

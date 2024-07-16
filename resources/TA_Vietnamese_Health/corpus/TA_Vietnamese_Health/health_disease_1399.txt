@@ -1,0 +1,45 @@
+# doc_id = health_disease_1399
+# url = https://tamanhhospital.vn/chan-doan-nhoi-mau-co-tim/
+# date = 13/06/2022
+Các phương pháp chẩn đoán nhồi máu cơ tim chính xác, hiệu quả
+Thông qua các biểu hiện lâm sàng của người bệnh hoặc các xét nghiệm như siêu âm tim, chụp cắt lớp vi tính, chụp cộng hưởng từ… để bác sĩ có thể chẩn đoán nhồi máu cơ tim nhằm can thiệp kịp thời.
+Bài viết được tư vấn chuyên môn bởi ThS.BS Nguyễn Tuấn Long, Khoa Tim mạch Bệnh viện Đa khoa Tâm Anh.
+Người bệnh nhồi máu cơ tim cần được chẩn đoán sớm và xử trí kịp thời.
+Mục lụcBạn cần biết gì về nhồi máu cơ tim?Phân loại các cơn nhồi máu cơ timPhương pháp chẩn đoán nhồi máu cơ timĐặc điểm bệnh nhânTriệu chứng của bệnh nhânThăm khám lâm sàngĐiện tâm đồ (ECG)Xét nghiệm men timSiêu âm timCách phòng ngừa nhồi máu cơ timBạn cần biết gì về nhồi máu cơ tim?
+ThS.BS Nguyễn Tuấn Long, Khoa Tim mạch Bệnh viện Đa khoa Tâm Anh cho biết, nhồi máu cơ tim là một bệnh lý trong đó mạch máu của tim (mạch vành) bị hẹp nặng hoặc tắc nghẽn hoàn toàn khiến quá trình cung cấp máu cho cơ tim không đảm bảo. Đây là tình trạng cực kỳ nguy hiểm vì khi không nhận đủ oxy, cơ tim sẽ bị tổn thương, không đảm bảo chức năng co bóp vốn có. Trường hợp dòng máu đến cơ tim không được tái lập một cách kịp thời, nhồi máu cơ tim có thể gây ra tổn thương tim vĩnh viễn, dẫn đến choáng tim, suy tim không hồi phục và thậm chí dẫn đến tử vong. (1)
+Nhồi máu cơ tim là bệnh lý nặng nề và không hiếm gặp trong cuộc sống. Tính riêng tại Hoa Kỳ, mỗi năm có 635.000 người bị nhồi máu cơ tim và có khoảng 300.000 người mỗi năm bị nhồi máu cơ tim lần thứ hai. Khoảng 1/7 trường hợp tử vong là do bệnh mạch vành.
+Phân loại các cơn nhồi máu cơ tim
+Theo bác sĩ Long, hiện nay có thể chia làm 3 loại nhồi máu cơ tim, bao gồm:
+Nhồi máu cơ tim có ST chênh lên (STEMI): Điều này xảy ra khi động mạch vành có các mảng xơ vữa trên thành mạch bị nứt vỡ, dẫn đến quá trình hình thành cục máu đông khiến mạch vành bị tắc nghẽn hoàn toàn. Chính điều này sẽ khiến một vùng cơ tim tương ứng không được máu đến nuôi dưỡng. Đây là một tổn thương trầm trọng mà nếu không được tái thông kịp thời sẽ dẫn đến những tổn thương cơ tim và khó hồi phục.
+Nhồi máu cơ tim không có ST chênh lên (NSTEMI): Dạng thứ hai của nhồi máu cơ tim diễn ra khi động mạch vành chỉ bị tắc nghẽn một phần. Mặc dù trong dạng bệnh lý này, mạch vành có thể không tắc nghẽn hoàn toàn như dạng bệnh lý trên, nhưng nếu không được điều trị kịp thời, những tổn thương cơ tim có thể cũng nặng nề không kém. Sự nguy hiểm của dạng nhồi máu này là đôi khi bệnh nhân chỉ có cơn đau đơn thuần và không có các biến đổi điện tâm đồ. Lúc này bác sĩ sẽ cần tới các dấu ấn sinh học quan trọng (troponin T) giúp cho sự chẩn đoán. Dạng tổn thương này cũng cần được điều trị can thiệp nhằm tái thông mạch máu.
+Co thắt mạch vành hoặc đau thắt ngực không ổn định: là dạng biểu hiện thứ ba của nhồi máu cơ tim, trong đó bệnh nhân chỉ có biểu hiện đau ngực, đôi khi cơn đau ngực không thực sự điển hình. Bệnh nhân thường sẽ không có biểu hiện trên điện tâm đồ và cũng không có biểu hiện biến đổi các dấu ấn sinh học quan trọng. Do đó, dạng tổn thương này rất dễ bỏ sót và nếu không điều trị kịp thời cũng sẽ dẫn đến những tổn thương cơ tim nặng nề.
+Xem thêm: Phân loại nhồi máu cơ tim – Loại nào nguy hiểm nhất?
+Phương pháp chẩn đoán nhồi máu cơ tim
+Dù là dạng biểu hiện nào, bệnh lý nhồi máu cơ tim cũng đều trầm trọng và nặng nề nếu không được chẩn đoán cũng như điều trị tái thông kịp thời. Do đó việc chẩn đoán nhồi máu cơ tim đóng vai trò quan trọng. (2)
+Để xác định người bệnh mắc nhồi máu cơ tim, các bác sĩ sẽ dựa vào tiêu chuẩn chẩn đoán nhồi máu cơ tim sau:
+Đặc điểm bệnh nhân
+Một người có nguy cơ bị nhồi máu cơ tim khi có một số đặc điểm: tuổi cao; thường xuyên sử dụng thuốc lá; có các bệnh lý tim mạch nguy cơ cao như bệnh cao huyết áp, đái tháo đường, suy thận, rối loạn lipid máu.
+Ngoài ra, những bệnh nhân có chế độ ăn nhiều chất béo bão hòa và chất béo chuyển hóa; sử dụng nhiều chất có hại như bia, rượu; hoặc tiền sử gia đình mắc bệnh động mạch vành hoặc tiền sử cá nhân của bệnh động mạch vành thì cũng có nguy cơ bị nhồi máu cơ tim.
+Triệu chứng của bệnh nhân
+Những người bị nhồi máu cơ tim thường có các triệu chứng như: cảm thấy khó thở; đổ mồ hôi lạnh; buồn nôn, khó chịu hoặc đau dạ dày (có thể cảm thấy khó tiêu hoặc ợ chua); hoặc tim đập nhanh, cảm giác khó chịu khi nhịp tim như đang bỏ nhịp hoặc thêm nhịp; cảm thấy lâng lâng, chóng mặt hoặc thậm chí là ngất xỉu.
+Bên cạnh các dấu hiệu nhồi máu cơ tim kể trên, người có nguy cơ mắc nhồi máu cơ tim còn có triệu chứng yếu, liệt tay chân hoặc đau thắt ngực, có biểu hiện đau kiểu nặng tức, bóp nghẹn ở sau xương ức, cơn đau có thể kéo dài 5 – 7 phút hoặc nhiều hơn (nếu là nhồi máu cơ tim); cơn đau có thể lan lên cằm hoặc cánh tay trái.
+Thăm khám lâm sàng
+Để có thêm thông tin, bác sĩ có thể tiến hành thăm khám lâm sàng bằng cách nghe tim, đánh giá hô hấp, kiểm tra mạch, huyết áp… Sau đó, thông qua người bệnh hoặc thân nhân, bác sĩ sẽ hỏi bệnh sử để thu thập thông tin về người bệnh, bao gồm chi tiết về lối sống hiện tại, hoàn cảnh cá nhân và tiền sử bệnh lý nếu có.
+Điện tâm đồ (ECG)
+Để hỗ trợ cho chẩn đoán, bác sĩ sẽ chỉ định một số các xét nghiệm cần thiết. Và điện tâm đồ nhồi máu cơ tim là một trong những cách quan trọng nhất để chẩn đoán tình trạng bệnh. Nhồi máu cơ tim cấp sẽ gây tổn thương cơ tim, từ đó gây ra những biến đổi về mặt điện học của cơ tim. Thông qua những biến đổi của sóng điện tim, bác sĩ sẽ chẩn đoán được tình trạng tổn thương của tim. Phương pháp này phát hiện hoạt động bất thường của tim và hiển thị dưới dạng sóng. Một cơn nhồi máu cơ tim có thể gây ra những thay đổi trong mô hình, bác sĩ sẽ dựa vào đây để chẩn đoán tình trạng tim của người bệnh. (3)
+Xét nghiệm men tim
+Khi các tế bào cơ tim bị tổn thương hoặc chết đi vì bất cứ lý do gì, một chất hóa học được gọi là troponin sẽ được giải phóng và có thể được phát hiện bằng các xét nghiệm máu. Đây là một xét nghiệm rất quan trọng để chẩn đoán dạng nhồi máu cơ tim không ST chênh lên, trong đó các bác sĩ có thể dựa và kết quả men tim lần đầu hoặc nhiều lần để chẩn đoán bệnh.
+Ngoài ra, xét nghiệm này cũng giúp phân biệt nhồi máu cơ tim với một số bệnh lý khác có biểu hiện trên lâm sàng hoặc điện tim như hình thái nhồi máu cơ tim, ví dụ: viêm cơ tim hoặc màng ngoài tim, rối loạn nhịp, rối loạn điện giải, các vấn đề về tim do căng thẳng quá độ hoặc căng thẳng về cảm xúc (bệnh cơ tim takotsubo, còn được gọi là hội chứng trái tim tan vỡ). Do đó, xét nghiệm men tim là một trong những thông tin đáng tin cậy để chẩn đoán nhồi máu cơ tim.
+Siêu âm tim
+Đây là kỹ thuật tiêu chuẩn trong chẩn đoán nhồi máu cơ tim. Dựa trên hình ảnh siêu âm tim, bác sĩ sẽ thấy được những hình ảnh rối loạn vận động của quả tim do hậu quả của tắc mạch vành tim, nhồi máu cơ tim. Bên cạnh đó, siêu âm tim cũng giúp đánh giá chức năng của tâm thất trái và biến chứng sau nhồi máu cơ tim như hở van tim, tràn dịch màng ngoài tim, thủng thành tim,…
+Ngày nay, siêu âm tim là một công cụ hỗ trợ quan trọng và được sử dụng phổ biến để giúp các bác sĩ chẩn đoán bệnh lý nhồi máu cơ tim.
+Bệnh nhân được siêu âm tim tầm soát nguy cơ nhồi máu cơ tim tại BVĐK Tâm Anh Hà Nội.
+Cách phòng ngừa nhồi máu cơ tim
+Bác sĩ Long cho biết, nhồi máu cơ tim đến đột ngột nhưng bệnh đã khởi phát và tiến triển trong một thời gian dài. Do đó, để phòng tránh nhồi máu cơ tim, mỗi người cần thực hiện: (4)
+Dành ít nhất 2,5 giờ mỗi tuần để tập thể dục cường độ vừa phải. Một số bộ môn thể thao có thể tham khảo như đi bộ nhanh, bơi lội…
+Tích cực ăn trái cây, rau, ngũ cốc nguyên hạt, protein nạc (chẳng hạn như cá), đậu, các loại hạt và dầu ô liu. Đây là một chế độ ăn uống lành mạnh cho tim, cần được chú tâm và lưu ý.
+Tránh thịt đỏ, thực phẩm chế biến sẵn và đồ uống có đường.
+Ngủ đủ giấc, có thể từ 7 – 9 tiếng mỗi đêm.
+Bỏ thuốc lá; giữ gìn tinh thần thoải mái, giảm sự căng thẳng.
+Đi khám sức khỏe định kỳ hằng năm, đảm bảo được thăm khám theo dõi kỹ lưỡng.
+Có nhiều cách để thay đổi lối sống rất đơn giản mà bạn có thể thực hiện để ngăn ngừa các cơn đau tim và duy trì cuộc sống lành mạnh sau cơn đau tim. Nhưng điều quan trọng cần nhớ là không nên áp dụng các phương pháp điều trị thay thế nếu bạn đang có các triệu chứng. Thay vào đó, bạn nên tìm kiếm sự chăm sóc y tế ngay lập tức để được chẩn đoán nhồi máu cơ tim sớm và hiệu quả nhất.

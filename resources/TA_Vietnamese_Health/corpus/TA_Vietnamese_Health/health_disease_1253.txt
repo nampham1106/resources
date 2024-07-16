@@ -1,0 +1,89 @@
+# doc_id = health_disease_1253
+# url = https://tamanhhospital.vn/ung-thu-thanh-quan-giai-doan-1/
+# date = 08/09/2023
+Ung thư thanh quản giai đoạn I: Triệu chứng, chẩn đoán và điều trị
+Ung thư thanh quản giai đoạn 1 thường dễ bị bỏ qua do không có các dấu hiệu cảnh báo điển hình hoặc người bệnh chủ quan nhầm tưởng với các bệnh lý tai – mũi – họng thông thường.
+Mục lụcUng thư thanh quản giai đoạn I là gì?Giai đoạn T, N, M trong ung thư thanh quản giai đoạn IYếu tố nguy cơ gây ung thư thanh quản cần chú ýTriệu chứng ung thư thanh quản giai đoạn 1Tiên lượng ung thư thanh quản giai đoạn 1Cách chẩn đoán ung thư thanh quản giai đoạn 1Cách điều trị ung thư thanh quản giai đoạn 11. Phương pháp xạ trị2. Phương pháp phẫu thuậtUng thư thanh quản giai đoạn I là gì?
+Ung thư thanh quản giai đoạn 1 là sự xuất hiện của các tế bào ung thư trong thanh quản, giới hạn tại khu vực thanh quản và chưa xâm lấn hạch bạch huyết vùng hoặc di căn vị trí xa. (1)
+Thanh quản là một phần của đường dẫn khí, nằm giữa hầu họng và khí quản. Thanh quản đảm nhận vai trò chính là phát âm, ngoài ra còn hỗ trợ quá trình nuốt, thở và bảo vệ đường dẫn khí bên dưới.
+Thanh quản gồm có 3 phần chính: thanh môn, thượng thanh môn và hạ thanh môn.
+Thượng thanh môn: Phần thanh quản phía trên dây thanh, bao gồm cả nắp thanh quản.
+Thanh môn: Phần giữa thanh quản chứa hai dây thanh.
+Hạ thanh môn: Phần dưới thanh quản nằm giữa dây thanh ở trên và khí quản ở dưới.
+Ung thư thanh quản giai đoạn 1 là sự xuất hiện của tế bào ung thư thanh quản, chưa ghi nhận lây lan hạch bạch huyết vùng.
+Giai đoạn T, N, M trong ung thư thanh quản giai đoạn I
+Giai đoạn ung thư thanh quản được xác định dựa trên hệ thống phân đoạn TNM của Ủy ban Ung thư Hoa Kỳ (American Joint Committee on Cancer – AJCC) bao gồm 3 yếu tố chính: (2)
+T (Tumor): Đánh giá khối tế bào ung thư hình thành đầu tiên trong thanh quản, hay còn gọi là u nguyên phát. Đánh giá T dựa trên vị trí khối u, mức độ xâm lấn các cấu trúc lân cận, mức độ ảnh hưởng đến chuyển động của dây thanh âm. Yếu tố T đi kèm một chữ số từ 1-4. Chữ số này biểu thị mức độ phát triển của khối u. Số lớn hơn tương ứng với mức độ phát triển nhiều hơn.
+N (Node): Hạch bạch huyết (hay gọi tắt là hạch) là các cấu trúc nhỏ dạng bầu dục giúp cơ thể chống đỡ lại bệnh tật. Đánh giá yếu tố N dựa trên mức độ lan đến các hạch bạch huyết lân cận từ khối u nguyên phát, số lượng, kích thước và vị trí hạch cùng bên hay đối bên với vị trí u. Yếu tố N đi kèm một chữ số từ 1-3. Chữ số này biểu thị mức độ lan rộng đến các hạch. Số lớn hơn tương ứng với mức độ lan rộng hơn.
+M (Metastasis): Yếu tố M cho biết ung thư đã lan đến các cơ quan khác của cơ thể hay chưa (còn gọi là di căn). Ung thư thanh quản có thể di căn đến các cơ quan như phổi, xương, gan…
+Kết hợp các yếu tố T, N, M cho ra giai đoạn cụ thể.
+Giai đoạn I ung thư thanh quản
+Phân đoạn
+Chi tiết
+Thượng thanh môn
+T1
+N0
+M0
+U chỉ giới hạn tại 1 vị trí của thượng thanh môn, dây thanh di động bình thường.
+Ung thư chưa di căn đến các hạch bạch huyết lân cận (N0), chưa di căn đến các cơ quan khác của cơ thể (M0).
+Thanh môn
+T1
+N0
+M0
+U chỉ giới hạn tại dây thanh, dây thanh di động bình thường.
+Ung thư chưa di căn đến các hạch bạch huyết lân cận (N0), chưa di căn đến các cơ quan khác của cơ thể (M0).
+Hạ thanh môn
+T1
+N0
+M0
+U chỉ giới hạn tại hạ thanh môn.
+Ung thư chưa di căn đến các hạch bạch huyết lân cận (N0), chưa di căn đến các cơ quan khác của cơ thể (M0).
+Đa phần ung thư thanh quản thuộc loại ung thư tế bào vảy (gai), là loại tế bào mỏng, dẹt lót trong thanh quản. Ung thư thanh quản là một phần trong ung thư đầu cổ. (3)
+Xem thêm:
+Ung thư thanh quản giai đoạn 0
+Ung thư thanh quản giai đoạn 2
+Ung thư thanh quản giai đoạn 3
+Ung thư thanh quản giai đoạn 4
+Yếu tố nguy cơ gây ung thư thanh quản cần chú ý
+Yếu tố nguy cơ của bệnh ung thư là những điều làm tăng khả năng mắc bệnh đó. Vì vậy, nên hiểu một cách chính xác rằng có yếu tố nguy cơ không đồng nghĩa là sẽ chắc chắn mắc bệnh, và ngược lại.
+Hút thuốc lá và uống rượu bia quá mức là những yếu tố đã được chứng minh làm tăng nguy cơ mắc ung thư biểu mô tế bào vảy của đường hô hấp và tiêu hóa trên. Đối với những người hút thuốc lá, nguy cơ mắc ung thư thanh quản giảm sau khi họ ngừng hút thuốc nhưng vẫn cao hơn những người không hút thuốc, ngay cả sau khi đã ngưng nhiều năm.
+Triệu chứng ung thư thanh quản giai đoạn 1
+Các triệu chứng của bệnh ung thư thanh quản giai đoạn sớm thường rất kín đáo: khàn tiếng, âm sắc thô, với đặc điểm tiến triển chậm, ngày càng tăng dần và không tự khỏi; khá giống với triệu chứng của các bệnh lý tai mũi họng thông thường khác. Vì vậy, đa số bệnh nhân thường chủ quan dẫn tới việc đi khám ở giai đoạn đã muộn. Do đó, đối với các trường hợp khàn tiếng kéo dài, điều trị nội khoa nhiều lần không đỡ, có yếu tố nguy cơ cao như hút thuốc lá… cần được nội soi tai mũi họng để tầm soát ung thư thanh quản. Đây là bước rất quan trọng giúp phát hiện, điều trị sớm và mang lại cơ hội điều trị thành công cao. (4)
+Triệu chứng ung thư thanh quản giai đoạn 1 có thể như sau:
+Thay đổi giọng nói: Dấu hiệu này thường gặp ở hầu hết các bệnh nhân ung thư thanh quản. Đây là triệu chứng quan trọng cảnh báo sớm ung thư. Nếu có hiện tượng thay đổi giọng nói – khàn tiếng kéo dài không thuyên giảm với điều trị nội khoa, người bệnh nên chủ động tầm soát ung thư thanh quản.
+Các bất thường ở họng: Các triệu chứng đau họng kéo dài, có cảm giác vướng ở cổ họng, ho kéo dài cũng được xem là những dấu hiệu cần tầm soát ung thư thanh quản.
+Triệu chứng ung thư thanh quản giai đoạn 1 không rõ ràng, dễ nhầm lẫn với các bệnh tai mũi họng thông thường
+Tiên lượng ung thư thanh quản giai đoạn 1
+Các yếu tố tiên lượng quan trọng nhất đối với ung thư thanh quản bao gồm giai đoạn khối u (T) và di căn hạch bạch huyết (N). Các yếu tố tiên lượng khác bao gồm giới tính, tuổi tác, thể trạng và một số đặc điểm của khối u như độ biệt hóa và mức độ xâm lấn.
+Ung thư thanh quản giai đoạn 1 có khối u chỉ xuất hiện ở một phần thanh quản, dây thanh âm vẫn di động bình thường. Tế bào ung thư khu trú, chưa xâm lấn đến các mô lân cận, chưa di căn hạch bạch huyết vùng và chưa di căn cơ quan khác.
+Tiên lượng ung thư thanh quản giai đoạn 1 rất tốt. Tỷ lệ chữa khỏi là 75-95% tùy thuộc vào vị trí, kích thước khối u và mức độ xâm lấn. Đa số bệnh nhân ung thư thanh quản giai đoạn sớm có thể được chữa khỏi bằng xạ trị hoặc phẫu thuật. Tiên lượng sống sau 5 năm của bệnh nhân ung thư thanh quản giai đoạn 1 rất khả quan, khoảng 90%. Do đó việc phát hiện bệnh ở giai đoạn sớm và lựa chọn phương pháp điều trị phù hợp có vai trò rất quan trọng. (5)
+Cách chẩn đoán ung thư thanh quản giai đoạn 1
+Thăm khám lâm sàng: Khai thác các dấu hiệu nghi ngờ ung thư, khai thác bệnh sử của bệnh nhân và tiền sử gia đình. Khám vùng họng và vùng đầu cổ, khám vùng cổ để xác định hạch bạch huyết bất thường.
+Sinh thiết: Bác sĩ lấy một phần tổn thương nghi ngờ, sau đó xử lý và soi dưới kính hiển vi nhằm xác định tính chất của các tế bào ung thư. Mẫu mô sinh thiết có thể được lấy bằng cách soi thanh quản: Kiểm tra thanh quản bằng gương hoặc ống soi thanh quản để kiểm tra tổn thương nghi ngờ. Ống soi thanh quản là loại dụng cụ chuyên dụng nhỏ hình ống, có đèn và một thấu kính để quan sát bên trong cổ họng. Chúng còn có một dụng cụ giúp sinh thiết tổn thương thanh quản, có trang bị camera đầu dò và hệ thống thấu kính giúp phóng đại hình ảnh lớn gấp 30-50 lần, giúp bác sĩ dễ dàng quan sát bên trong cổ họng và thanh quản. Máy nội soi thanh quản có thể lấy mẫu mô nhờ một dụng cụ đặc biệt được gắn trên ống nội soi. Mẫu mô này được kiểm tra dưới kính hiển vi để tìm kiếm dấu hiệu ung thư.
+Chụp cắt lớp vi tính (CT): Kỹ thuật này dựng hình ảnh chi tiết bên trong cơ thể từ các góc độ khác nhau. Trước khi chụp CT, người bệnh có thể được tiêm thuốc cản quang tĩnh mạch nhằm giúp các mô, cơ quan hiển thị tốt hơn. Kỹ thuật này nhằm đánh giá kích thước, vị trí của khối u, mức độ tế bào ung thư lan rộng các cơ quan lân cận, cũng như để phát hiện sự xâm lấn của bệnh đến các hạch bạch huyết và các cơ quan xa khác.
+Chụp cộng hưởng từ (MRI): Máy MRI hoạt động bằng cách tạo ra một từ trường mạnh bên trong cơ thể. Một máy tính lấy các tín hiệu từ MRI để tạo ra hàng loạt ảnh, mỗi bức ảnh cho thấy một phần của cơ thể. MRI cho hình ảnh kích thước và phạm vi xâm lấn các cấu trúc xung quanh.
+Chụp cắt lớp vi tính là một trong những phương pháp tầm soát ung thư thanh quản
+Cách điều trị ung thư thanh quản giai đoạn 1
+Một số phương pháp điều trị ung thư thanh quản giai đoạn 1 được chỉ định hiện nay: (6)
+1. Phương pháp xạ trị
+Đây là phương pháp sử dụng chùm tia năng lượng cao như tia X hoặc chùm protons nhằm tiêu diệt tế bào ung thư. Xạ trị ngoài được thực hiện khi hệ thống máy xạ phát ra chùm tia xạ năng lượng cao nhắm đến vùng chứa khối u trên cơ thể người bệnh. Máy xạ có thể xoay tròn quanh cơ thể bệnh nhân giúp phân bố liều xạ thích hợp và hạn chế ảnh hưởng đến các cấu trúc xung quanh khối u.
+Mỗi bệnh nhân được thiết kế một mặt nạ phù hợp để giữ cố định đầu và cổ trong quá trình xạ trị. Ở giai đoạn I ung thư thanh quản, bác sĩ có thể chỉ định xạ trị đơn thuần nhằm tiêu diệt tế bào ung thư. Xạ trị được ghi nhận đạt hiệu quả cao hơn ở những bệnh nhân đã ngừng hút thuốc trước khi bắt đầu điều trị. Một phần tia xạ ảnh hưởng đến tuyến giáp, có thể gây thay đổi về chức năng và hình thái tuyến giáp. Vì vậy, xét nghiệm kiểm tra chức năng và hình thái tuyến giáp có thể được thực hiện trước và sau khi điều trị.
+Xạ trị tăng phân liều có thể được sử dụng để điều trị ung thư thanh quản. Xạ trị tăng phân liều là phương pháp xạ trị trong đó tổng liều xạ hàng ngày được chia thành hai liều nhỏ và xạ trị được thực hiện hai lần một ngày. Xạ trị tăng phân liều được tiến hành trong cùng một khoảng thời gian (ngày hoặc tuần) như xạ trị tiêu chuẩn. Có nhiều phương pháp xạ trị mới đang được nghiên cứu trong điều trị ung thư thanh quản.
+2. Phương pháp phẫu thuật
+Phương pháp này phụ thuộc vào phạm vi lan rộng của khối u. Bác sĩ có thể chỉ định một trong các phương pháp sau:
+Phẫu thuật cắt u: áp dụng khi khối u khu trú ở một vị trí nhỏ trong thanh quản, có thể điều trị bằng phẫu thuật nội soi. Bác sĩ sẽ đưa một ống nội soi từ miệng vào thanh quản, sau đó dùng dao phẫu thuật hoặc laser để cắt khối u.
+Phẫu thuật cắt bỏ một phần thanh quản: được chỉ định trong trường hợp khối u lan rộng. Việc cắt bỏ một phần thanh quản giúp bảo tồn tối đa chức năng thanh quản, giúp người bệnh nói và thở dễ dàng hơn.
+Phẫu thuật cắt toàn bộ thanh quản: được chỉ định trong trường hợp khối u đã lan rộng. Người bệnh sẽ thở qua một lỗ được mở ở vùng cổ, thông với khí quản. Một số phương pháp giúp phục hồi chức năng nói của người bệnh như thanh quản điện tử, tập nói giọng bụng.
+Phương pháp điều trị ung thư thanh quản giai đoạn 1 phụ thuộc vào vị trí tìm thấy ung thư trong thanh quản.
+Ung thư ở thượng thanh môn:
+Xạ trị
+Phẫu thuật cắt thanh quản thượng thanh môn
+Ung thư ở thanh môn:
+Xạ trị
+Cắt dây thanh
+Cắt thanh quản một phần, cắt nửa thanh quản hoặc cắt thanh quản toàn phần.
+Ung thư ở hạ thanh môn:
+Phẫu thuật đơn thuần.
+Xạ trị
+Để tìm hiểu thông tin khám, tầm soát ung thư thanh quản tại BVĐK Tâm Anh, quý khách có thể liên hệ theo thông tin sau:
+Phát hiện sớm và điều trị hiệu quả ung thư thanh quản giai đoạn 1 giúp bệnh có tiên lượng tốt, hơn 90% bệnh nhân sống qua 5 năm kể từ thời điểm được chẩn đoán. Để sớm phát hiện bệnh ung thư thanh quản giai đoạn 1, những người có nguy cơ cao nên khám sức khỏe và tầm soát ung thư định kỳ, và nên chủ động đến bệnh viện khám nếu có triệu chứng bất thường.

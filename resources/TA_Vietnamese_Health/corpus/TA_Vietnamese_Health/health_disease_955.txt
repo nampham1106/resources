@@ -1,0 +1,52 @@
+# doc_id = health_disease_955
+# url = https://tamanhhospital.vn/vang-da-tac-mat/
+# date = 20/04/2024
+Vàng da tắc mật: Nguyên nhân, triệu chứng, biến chứng và phòng ngừa
+Vàng da tắc mật có thể xuất phát từ nguyên nhân lành tính hoặc ác tính, trong đó phổ biến là sỏi mật, ung thư đường mật, ung thư túi mật… Tùy vào từng tình trạng cụ thể, bác sĩ có thể chỉ định phương pháp điều trị phù hợp, hiệu quả, nhưng chủ yếu là can thiệp phẫu thuật.
+Mục lụcVàng da tắc mật là gì?Đối tượng có nguy cơ bị vàng da tắc mậtNguyên nhân gây vàng da tắc mật1. Nguyên nhân ác tính2. Nguyên nhân lành tínhTriệu chứng nhận biết vàng da tắc mậtChẩn đoán vàng da tắc mậtBiến chứng vàng da tắc mậtĐiều trị vàng da tắc mậtPhòng ngừa hội chứng vàng da tắc mậtVàng da tắc mật là gì?
+Vàng da tắc mật là tình trạng da, niêm mạc và kết mạc mắt bị vàng do hệ thống đường mật chính bị tắc nghẽn. Nguyên nhân có thể do yếu tố cơ học hoặc sinh lý ảnh hưởng đến ống mật trong hoặc ngoài gan. Sự tắc nghẽn này làm tăng nồng độ bilirubin trong máu, khiến da, mắt bị vàng nước tiểu sẫm màu, ngứa và phân nhạt màu.
+Vàng da tắc mật xảy ra khi đường mật bị tắc nghẽn
+Đối tượng có nguy cơ bị vàng da tắc mật
+Nhóm đối tượng có nguy cơ cao bị vàng da tắc mật gồm:
+Nữ giới dưới 60 tuổi
+Người đang mắc các bệnh ác tính như ung thư ác tính, ung thư túi mật…
+Nguyên nhân gây vàng da tắc mật
+Nguyên nhân lành tính phổ biến gây ra tình trạng vàng da tắc mật là do sỏi mật. Trong khi đó, nguyên nhân ác tính chiếm tỷ lệ cao là ung thư đầu tụy, ung thư túi mật hoặc ống mật. Cụ thể như sau:
+1. Nguyên nhân ác tính
+Việc chẩn đoán ung thư tuyến tụy thường được khuyến khích thực hiện sau 55 tuổi. Phương pháp chủ yếu được sử dụng là chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI). Đối với các khối u tuyến tụy, bác sĩ có thể chỉ định phẫu thuật cắt bỏ.
+Ung thư túi mật rất hiếm gặp nhưng có tỷ lệ tử vong cao. Bệnh thường không có triệu chứng và có xu hướng di căn sang các bộ phận khác trong cơ thể. Do đó, phần lớn các trường hợp bệnh đều được phát hiện ở giai đoạn từ trung bình đến nặng. Ung thư túi mật gây vàng da tắc mật theo cơ chế: các tế bào ác tính xâm nhập trực tiếp qua ống mật chủ dọc theo ống túi mật hoặc di căn đến cửa gan. Phương pháp chẩn đoán tối ưu là chụp CT hoặc MRI có cản quang. Phẫu thuật cắt bỏ túi mật kết hợp hóa xạ trị bổ trợ có khả năng mang lại cơ hội sống sót lâu dài cao hơn.
+Ung thư đường mật (một loại ung thư ống mật) cũng là một trong những nguyên nhân hàng đầu gây vàng da tắc mật, có tiên lượng xấu. Khối u ác tính phát sinh từ biểu mô ống mật gây tắc nghẽn một phần hoặc toàn bộ ống mật. Ung thư đường mật xảy ra ở những người trên 50 tuổi (độ tuổi trung bình dao động từ 55 – 75 tuổi), chủ yếu là nam giới, nhưng người trẻ tuổi vẫn có nguy cơ mắc bệnh. Tỷ lệ sống sót được cải thiện nếu sử dụng liệu pháp bổ trợ kết hợp với phẫu thuật trong điều trị.(1)
+Khối u tá tràng cũng là khối u hiếm gặp ở đường tiêu hóa, chỉ chiếm ít hơn 1%, gây ra triệu chứng vàng da tắc mật khi khối u xâm nhập bóng Vater. Bác sĩ sẽ chỉ định nội soi dạ dày tá tràng, sinh thiết và chụp CT để chẩn đoán tình trạng bệnh, giai đoạn bệnh và khả năng cắt bỏ. Phương pháp điều trị phổ biến là phẫu thuật cắt bỏ kết hợp hóa trị bổ trợ.
+2. Nguyên nhân lành tính
+Sỏi mật là nguyên nhân lành tính phổ biến nhất ra bệnh vàng da tắc mật. Sỏi bị kẹt trong lòng ống mật chủ, gây cản trở dòng chảy tự nhiên của mật vào tá tràng.
+Siêu âm sàng lọc kết hợp với chụp đường mật tụy cộng hưởng từ (MRCP) là phương pháp tối ưu giúp phát hiện sỏi ống mật chủ. Trong một số trường hợp có sỏi túi mật kèm với sỏi ống mật chủ thì phương pháp điều trị phổ biến là phẫu thuật nội soi cắt túi mật kèm nội soi mật tụy ngược dòng lấy sỏi ống mật chủ hoặc phẫu thuật nội soi cắt túi mật kèm mở ống mật chủ lấy sỏi.
+Sỏi mật là nguyên nhân lành tính gây vàng da tắc mật
+Triệu chứng nhận biết vàng da tắc mật
+Vàng da tắc mật có thể xuất hiện với các triệu chứng sau đây:
+Da, lòng trắng mắt chuyển sang màu vàng
+Ngứa ngáy
+Đau bụng
+Sốt
+Ớn lạnh
+Buồn nôn, nôn mửa
+Chẩn đoán vàng da tắc mật
+Để chẩn đoán vàng da tắc mật, bác sĩ có thể chỉ định thực hiện các phương pháp sau:
+Chụp CT
+Quét MRI
+Xét nghiệm máu để kiểm tra nồng độ bilirubin
+Nội soi mật tụy ngược dòng (ERCP)
+Siêu âm nội soi (EUS)
+Biến chứng vàng da tắc mật
+Người bệnh bị vàng da tắc mật thường có nguy cơ cao bị thiếu hụt dinh dưỡng, nhiễm trùng. Các biến chứng khác như rối loạn đông máu, cũng có thể làm tăng tỷ lệ tử vong và nhiều tình trạng đáng lo ngại khác.
+Điều trị vàng da tắc mật
+Tùy thuộc vào nguyên nhân gây vàng da tắc mật, ban đầu, bác sĩ có thể kê đơn thuốc giảm đau và kháng sinh để điều trị nhiễm trùng, đặc biệt nếu liên quan đến bệnh sỏi mật. Chẩn đoán hình ảnh và xét nghiệm máu thường là phương pháp chẩn đoán tối ưu giúp phân biệt được các nguyên nhân khác nhau gây nên tình trạng này. Phương pháp và khả năng điều trị dứt điểm sẽ phụ thuộc vào từng trường hợp cụ thể.(2)
+Nếu chẩn đoán thấy sỏi mật, bác sĩ sẽ chỉ định can thiệp phù hợp để loại bỏ sỏi mật. Ngoài ra, đôi khi, đặt stent qua nội soi mật tụy ngược dòng cũng là biện pháp tạm thời để giảm tắc nghẽn ống mật và giảm nhiễm trùng trước khi phẫu thuật điều trị dứt điểm.
+Nếu nguyên nhân gốc rễ của vàng da tắc mật là khối u ác tính, phẫu thuật cắt bỏ là phương pháp điều trị tối ưu. Đội ngũ bác sĩ phẫu thuật chuyên về gan, tuyến tụy, đường mật sẽ phụ trách chính cho ca phẫu thuật.
+Nếu người bệnh không đáp ứng với phẫu thuật, hóa trị và/hoặc xạ trị sẽ là phương án tiếp theo được lựa chọn. Tình trạng vàng da tắc mật có thể được cải thiện sau khi đặt stent đường mật hoặc dẫn lưu đường mật xuyên gan qua da.
+Nếu bệnh vàng da tắc mật không được điều trị, nguy cơ nhiễm trùng sẽ tăng cao khi bilirubin tràn vào máu. Ngoài ra, điều quan trọng là phải phân biệt các nguyên nhân khác nhau gây ra bệnh. Vàng da đi kèm đau bụng nghiêm trọng thường liên quan đến sỏi mật. Trong khi đó, vàng da không đau thường là triệu chứng của khối u.
+Điều trị tắc mật vàng da
+Phòng ngừa hội chứng vàng da tắc mật
+Để ngăn ngừa bệnh vàng da do bệnh sỏi mật, hãy ăn một chế độ ăn uống cân bằng, lành mạnh, cắt giảm lượng chất béo béo trong thực đơn hàng ngày và đặc biệt không uống rượu. Ngoài ra, bác sĩ khuyến khích nên đi khám sức khỏe định kỳ để phát hiện kịp thời các khối u ở gan, tụy, đường mật.
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Trên đây là tổng quan các thông tin liên quan đến tình trạng vàng da tắc mật, nguyên nhân, triệu chứng bệnh lý và phương pháp chẩn đoán, điều trị hiệu quả. Hy vọng thông qua những chia sẻ này, người bệnh đã có thêm nhiều cập nhật hữu ích liên quan đến vấn đề điều trị và chăm sóc sức khỏe.

@@ -1,0 +1,80 @@
+# doc_id = health_disease_1501
+# url = https://tamanhhospital.vn/ngo-doc-thuc-pham-o-tre-em/
+# date = 07/10/2023
+Ngộ độc thực phẩm ở trẻ em: Nguyên nhân và cách điều trị
+Ngộ độc thực phẩm ở trẻ em là một vấn đề sức khỏe nghiêm trọng, cần được phát hiện và hỗ trợ điều trị khẩn cấp. Nhiều trường hợp trẻ bị ngộ độc không được điều trị đúng cách, trẻ bị rối loạn nhịp tim, rối loạn hô hấp, tụt huyết áp,… thậm chí là tử vong.
+Bài viết được tư vấn chuyên môn bởi ThS.BS Nguyễn Anh Duy Tùng – Trung tâm Thông tin Y khoa, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Mục lụcNgộ độc thực phẩm ở trẻ em là gì?Nguyên nhân gây ngộ độc thức ăn ở trẻDấu hiệu ngộ độc thực phẩm ở trẻ emLàm thế nào để sơ cứu trẻ em bị ngộ độc thực phẩmCách điều trị ngộ độc thực phẩm cho trẻChăm sóc trẻ bị ngộ độc thực phẩm1. Chế độ ăn của trẻ2. Uống nhiều nước3. Chế độ nghỉ ngơiPhòng ngừa ngộ độc thực phẩm cho trẻKhi nào nên đưa trẻ đến bác sĩ?Ngộ độc thực phẩm ở trẻ em là gì?
+Ngộ độc thực phẩm ở trẻ em là tình trạng trẻ bị ngộ độc do ăn phải thực phẩm bị vi khuẩn, virus hoặc vi trùng xâm nhập. Sau khi các tác nhân gây ngộ độc xâm nhập vào cơ thể trẻ, chúng bắt đầu giải phóng độc tố khiến trẻ xuất hiện các triệu chứng của ngộ độc thực phẩm, điển hình là tiêu chảy và nôn mửa.
+Trẻ dưới 5 tuổi là đối tượng dễ bị ngộ độc thực phẩm nhất, hơn nữa, các triệu chứng của chúng khi ngộ độc cũng có diễn tiến nghiêm trọng hơn. Bới, chúng có sức đề kháng kém, hệ tiêu hóa còn yếu. (1)
+Nguyên nhân gây ngộ độc thức ăn ở trẻ
+Thông thường, các trường hợp ngộ độc thực phẩm ở trẻ bắt nguồn từ các thực phẩm có nguồn gốc động vật (thịt, trứng, hải sản, sữa, các chế phẩm từ sữa). Trái cây, rau xanh, nước nhiễm bẩn cũng có thể khiến trẻ bị ngộ độc.
+Các tác nhân gây ngộ độc thực phẩm thường gặp gồm:
+Vi khuẩn Salmonella: Ngộ độc thực phẩm do vi khuẩn Salmonella chủ yếu qua các sản phẩm từ sữa, thịt chưa nấu chín kỹ hay các sản phẩm tươi bị nhiễm khuẩn.
+Vi khuẩn E.coli: Vi khuẩn có thể xâm nhập vào cả thức ăn và nước uống khi chúng tiếp xúc với phân động vật.
+Vi khuẩn Listeria: Chúng chủ yếu được tìm thấy trong các sản phẩm sữa chưa tiệt trùng, hải sản, thịt chế biến sẵn. Một số trường hợp ít gặp hơn, vi khuẩn được tìm thấy ở trái cây bị ô nhiễm.
+Vi khuẩn Campylobacter: Vi khuẩn thường xâm nhập vào thịt và sữa chưa tiệt trùng. Ngoài ra, nó còn được tìm thấy trong nước.
+Vi khuẩn Staphylococcus Aureus: Vi khuẩn có thể lây lan qua tiếp xúc tay, hắt hơi hoặc ho. Chúng được tìm thấy nhiều trọng thịt, rau xà lách chế biến sẵn và các chế phẩm từ sữa không đảm bảo vệ sinh.
+Vi khuẩn Shigella: Vi khuẩn này thường được tìm thấy trong hải sản, trái cây và rau sống không đảm bảo vệ sinh.
+Virus viêm gan A: Các trường hợp ngộ độc thực phẩm do virus viêm gan A thường khó xác định nguồn lây vì bệnh nhân thường không có biểu hiện sau 15 – 50 ngày kể từ khi nhiễm virus. (2)
+Norovirus: Virus có khả năng lây lan nhanh chóng từ người này sang người khác, nhất là ở những khu vực đông người như nhà trẻ, trường học.
+Một số tác nhân khác: Rotavirus, Cryptosporidium, Entamoeba histolytica, Giardia, Toxoplasma, Bacillus cereus, …
+Lưu ý, các trường hợp ngộ độc thực phẩm do vi khuẩn E.coli hoặc Listeria, bệnh nhân có nguy cơ đối mặt với các biến chứng liên quan đến tim mạch, thận và xuất huyết.
+Phần lớn trẻ bị ngộ độc do ăn phải thực phẩm bị nhiễm bẩn.
+Dấu hiệu ngộ độc thực phẩm ở trẻ em
+Dấu hiệu ngộ thường sẽ xuất hiện sau một vài giờ hoặc vài ngày kể từ khi trẻ ăn hoặc uống thực phẩm nhiễm độc. Các triệu chứng này thường là:
+Về tiêu hóa: Đau bụng, nôn, buồn nôn, tiêu chảy.
+Về hô hấp: Ho, thở nhanh, khó thở, da tím tái.
+Về thần kinh: Có thể xuất hiện co giật, chi run, run cơ mặt, có thể liệt khi không được hỗ trợ điều trị kịp thời, rối loạn nhịp tim, hôn mê.
+Dấu hiệu tăng tiết nhờn: Chảy nước dãi, đổ nhiều mồ hôi, có đờm nhớt, dịch tiêu hóa.
+Khi trẻ có các biểu hiện trên, phụ huynh nên đưa trẻ đến bệnh viện để được thăm khám và hỗ trợ càng sớm càng tốt. Việc kéo dài có thể khiến trẻ rơi vào tình trạng mất nước, mất điện giải dẫn đến trụy tim mạch, sốc nhiễm khuẩn (khi nguyên nhân gây ngộ độc có liên quan đến vi khuẩn) và nhiều biến chứng nguy hiểm khác.
+Làm thế nào để sơ cứu trẻ em bị ngộ độc thực phẩm
+Khi trẻ có dấu hiệu ngộ độc thực phẩm, bố mẹ phải ngưng không cho trẻ ăn món ăn đó, nước uống hay sử dụng loại thuốc đó nữa, đồng thời, gọi cấp cứu để đưa trẻ đến bệnh viện nhanh chóng. Trong khoảng thời gian đợi xe cấp cứu, bố mẹ nên:
+Nếu trẻ nôn ói, bố mẹ tuyệt đối không cho trẻ nôn khi nằm ngửa vì điều này có thể khiến chất nôn sặc lên mũi, xuống phổi, gây nguy hiểm tính mạng. Trường hợp trẻ nôn gấp, bị sặc lên mũi, bố mẹ nên dùng dụng cụ hút mũi để lấy chất nôn ra khỏi đường hô hấp của trẻ nhanh chóng. Sau khi nôn, trẻ nên súc miệng với nước lọc và nghỉ ngơi.
+Cho trẻ nằm nghỉ ngơi và theo dõi tình trạng mất nước, từ đó, thực hiện phương pháp bù nước, uống dung dịch Oresol với liều lượng thích hợp nhằm cân bằng nước và điện giải.
+Nếu trẻ sốt cao, hạ sốt cho trẻ bằng paracetamol 10 – 15 mg/kg/lần, mỗi lần cách nhau 4 – 6 giờ.
+Giữ lại toàn bộ thức ăn, phân, chất nôn và các loại thuốc đã dùng để hỗ trợ quá trình chẩn đoán, xét nghiệm.
+Cách điều trị ngộ độc thực phẩm cho trẻ
+Đa số các trường hợp ngộ độc thực phẩm ở trẻ có thể tự hồi phục trong một vài ngày khi được chăm sóc đúng cách. Tuy nhiên, một số trường hợp tình trạng sức khỏe của trẻ trở nên tồi tệ hơn, nguy cơ xuất hiện biến chứng nguy hiểm, bố mẹ cần được đưa trẻ đến bệnh viện để được hỗ trợ kịp thời. Trẻ có thể được bác sĩ kê kháng sinh nếu ngộ độc thực phẩm do vi khuẩn gây ra. Nếu trẻ mất nước nghiêm trọng, bác sĩ có thể chỉ định thực hiện truyền tĩnh mạch (IV).
+Thuốc cầm tiêu chảy không được sử dụng trong điều trị ngộ độc thực phẩm cho trẻ. Tiêu chảy được đánh giá là một trong những cách cơ thể tống hết các thức ăn gây ngộ độc ra ngoài cơ thể. Việc cho trẻ dùng thuốc cầm tiêu chảy sẽ khiến vi khuẩn, độc tố lưu lại lâu hơn trong hệ tiêu hóa, trẻ ngày càng khó chịu.
+Chăm sóc trẻ bị ngộ độc thực phẩm
+Bên cạnh việc tuân theo các hướng dẫn điều trị của bác sĩ, chăm sóc trẻ đúng cách sẽ giúp trẻ nhanh chóng hồi phục sức khỏe, tăng hiệu quả điều trị ngộ độc thực phẩm.
+1. Chế độ ăn của trẻ
+Trẻ bị ngộ độc cần được bổ sung đủ chất dinh dưỡng và năng lượng cho cơ thể để các cơ quan hoạt động, chống lại tác nhân gây ngộ độc. Tuy nhiên, lúc này hệ tiêu hóa của trẻ rất yếu, do đó, bố mẹ cần lưu ý:
+Lựa chọn các món ăn loãng, mềm, dễ tiêu hóa như súp, cháo canh,…
+Chi nhỏ các bữa ăn chính trong ngày nhằm đảm bảo trẻ vẫn được bổ sung đủ dưỡng chất và năng lượng.
+Không ép trẻ ăn quá nhiều trong 1 bữa.
+Tăng cường các loại rau xanh, sữa chua, trái cây có tác dụng hỗ trợ hệ tiêu hóa.
+Chuyển từ từ các món ăn dạng lỏng sang dạng đặc hơn như cơm, bánh và một số món ăn khác khi tình trạng sức khỏe của trẻ có dấu hiệu cải thiện tốt, trở lại bình thường.
+Tránh cho trẻ ăn các thực phẩm gây “kích thích” đường ruột, khó tiêu, nhiều dầu mỡ, đồ chiên rán.
+Hạn chế cho trẻ dùng sữa và các chế phẩm từ sữa do lúc này trẻ có thể gặp khó khăn khi dung nạp lactose.
+2. Uống nhiều nước
+Ngộ độc thực phẩm khiến trẻ nôn mửa, tiêu chảy nhiều, từ đó, mất nước và mất cân bằng điện giải. Vì vậy, lúc này bố mẹ nên cho trẻ uống nhiều nước hơn bình thường và có thể cho trẻ dùng các dung dịch bù nước, bù điện giải theo hướng dẫn của bác sĩ. Ngoài ra, bố mẹ có thể cho trẻ uống thêm các loại nước hoa quả nhằm bổ sung vitamin và khoáng chất, tăng cường sức đề kháng, hỗ trợ hệ miễn dịch cho trẻ. Lưu ý, bố mẹ tuyệt đối không cho trẻ uống nước đá, nước ngọt hay các loại nước ngọt có ga trong giai đoạn này vì chúng không chỉ không giúp cải thiện tình trạng sức khỏe của trẻ mà còn gây kích thích ruột, khiến bệnh chuyển biến xấu hơn.
+3. Chế độ nghỉ ngơi
+Các triệu chứng của ngộ độc thực phẩm khiến trẻ mệt lả, thiếu sức sống. Vì vậy, bố mẹ nên cho trẻ nghỉ ngơi nhiều hơn bình thường, hạn chế cho trẻ hoạt động mạnh. Tốt nhất, trẻ nên được ngủ sớm, ngủ sâu giấc. Bố mẹ nên trẻ nghỉ ngơi trong không gian thoáng mát, thoáng khí, yên tĩnh.
+Trẻ bị ngộ độc thực phẩm cần được chăm sóc đúng cách và hỗ trợ điều trị kịp thời.
+Phòng ngừa ngộ độc thực phẩm cho trẻ
+Dưới đây là một số cách phòng ngừa ngộ độc thực phẩm cho trẻ em bố mẹ nên biết:
+Rửa tay với xà phòng khử khuẩn trước khi ăn và sau khi đi vệ sinh.
+Làm sạch chén bát, dụng cụ chế biến thức ăn với xà phòng và nước nóng.
+Không cho trẻ uống sữa chưa tiệt trùng hoặc các thực phẩm có chứa loại sữa này.
+Tránh để các thực phẩm đã nấu chín với các thực phẩm tươi sống gần nhau, đặc biệt là thịt, hải sản, thịt gia cầm.
+Bảo quản thực phẩm đúng cách.
+Lựa chọn thực phẩm có nguồn gốc rõ ràng.
+Nấu thức ăn chín kỹ.
+Không sử dụng các loại thức ăn đã có dấu hiệu hư hỏng.
+Kiểm tra kỹ hạn sử dụng của các sản phẩm đóng gói trước khi sử dụng.
+Tránh rã đông thực phẩm ở nhiệt độ phòng, thay vào đó, hãy rã đông thực phẩm trong tủ lạnh, lò vi sóng hoặc nước lạnh.
+Không uống nước từ sông, suối, giếng khi chưa được xử lý.
+Khi nào nên đưa trẻ đến bác sĩ?
+Mất nước là vấn đề thường gặp khi trẻ bị ngộ độc thực phẩm. Nếu trẻ vẫn có biểu hiện mất nước sau khi đã thực hiện các biện pháp bù nước, bù điện giải thông thường (cho trẻ uống nhiều nước, dùng dung dịch Oresol), bố mẹ nên đưa trẻ đến bệnh viện để được hỗ trợ tích cực từ y tế. Các biểu hiện trẻ mất nước bố mẹ cần chú ý: nôn trên 5 lần, tiêu chảy trên 5 lần, sốt cao, khô miệng, mắt trũng, mạch đập nhanh, nước tiểu ít, sẫm màu, thở mạnh, cảm thấy khát, khóc không ra nước mắt, có thể xuất hiện co giật.
+Ngoài ra, trẻ cũng cần đưa đến bệnh viện khi có bất kỳ triệu chứng nào dưới đây:
+Nôn mửa kéo dài (trên 12 giờ);
+Tiêu chảy kèm sốt cao;
+Đau bụng dữ dội không có dấu hiệu cải thiện sau khi đi tiêu;
+Phân máu;
+Nôn ra máu;
+Nhịp tim tăng nhanh.
+Đặc biệt, tình trạng ngộ độc sẽ trở nên nghiêm trọng hơn ở trẻ có hệ miễn dịch suy giảm, mắc các bệnh về thận, hồng cầu hình liềm. Do đó, những đứa trẻ này bị ngộ độc thực phẩm, bố mẹ cần thông báo ngay có bác sĩ để được hướng dẫn và hỗ trợ điều trị phù hợp.
+Để biết thêm thông tin về cách chăm sóc và những vấn đề sức khỏe khác của trẻ, bạn có thể liên hệ khoa Nhi, bệnh viện đa khoa Tâm Anh theo địa chỉ:
+Trên đây là những thông tin hữu ích về ngộ độc thực phẩm ở trẻ em. Đảm bảo vệ sinh an toàn thực phẩm là cách tốt nhất để phòng ngừa ngộ độc cho trẻ. Khi trẻ có bất kỳ dấu hiệu ngộ độc nào, tốt nhất, hãy đưa trẻ đến bệnh viện để được thăm khám để được hỗ trợ đúng cách và kịp thời.

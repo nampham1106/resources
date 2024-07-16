@@ -1,0 +1,205 @@
+# doc_id = health_disease_1063
+# url = https://tamanhhospital.vn/ung-thu-thanh-quan-giai-doan-cuoi/
+# date = 12/08/2023
+Ung thư thanh quản giai đoạn cuối (4): Triệu chứng và tiên lượng
+Ung thư thanh quản giai đoạn cuối (4)có tiên lượng kém khả quan, do khối bướu đã xâm lấn, lan rộng các cấu trúc lân cận hoặc di căn xa. Điều trị thường khó khăn và đáp ứng kém hơn so với giai đoạn ung thư sớm.
+Ung thư thanh quản là một trong những loại ung thư vùng đầu cổ phổ biến. Theo số liệu từ GLOBOCAN 2020, trên thế giới có khoảng 184.615 ca mới mắc và 99.840 ca tử vong do ung thư thanh quản. Tại Việt Nam, ung thư thanh quản đứng thứ 19 trong những loại ung thư thường gặp với hơn 2.021 ca mới mắc, 1.109 ca tử vong mỗi năm và tỷ lệ mắc là 5,13/100.00 dân.
+Mục lụcUng thư thanh quản giai đoạn cuối (giai đoạn 4) là gì?Giải mã phân giai đoạn T, N, M trong ung thư thanh quản giai đoạn 4Ung thư thanh quản thượng thanh môn giai đoạn 4Ung thư thanh môn giai đoạn 4Ung thư thanh quản hạ thanh môn giai đoạn 4Ung thư thanh quản giai đoạn IV biểu hiện như thế nào?Ung thư thanh quản giai đoạn 4 sống được bao lâu?Các phương pháp chẩn đoán ung thư thanh quản giai đoạn 4Cách điều trị ung thư thanh quản giai đoạn 4Giai đoạn 4A, 4B (T3, N2-3)Giai đoạn 4A (T4a, N bất kỳ)Giai đoạn 4C (M1)Chăm sóc bệnh nhân ung thư thanh quản giai đoạn 4Ung thư thanh quản giai đoạn cuối (giai đoạn 4) là gì?
+Ở bệnh nhân ung thư thanh quản giai đoạn 4 (giai đoạn cuối), khối u thanh quản đã lan đến các mô bên ngoài thanh quản như cơ lưỡi, khí quản, tuyến giáp, thực quản, khoang trước cột sống, bao động mạch cảnh… Lúc này, tế bào ung thư cũng đã lan đến nhiều hạch, có thể một bên hoặc hai bên, hạch có kích thước lớn hơn; các tế bào ung thư trong hạch có thể đã lan vào mô xung quanh hạch. Ngoài ra, ung thư có thể đã di căn đến một số cơ quan khác của cơ thể. (1)
+Giải mã phân giai đoạn T, N, M trong ung thư thanh quản giai đoạn 4
+Hệ thống phân giai đoạn ung thư thanh quản thường được sử dụng nhất là hệ thống T, N, M của Ủy ban Liên Hợp Ung thư Hoa Kỳ (AJCC) phiên bản 8, năm 2017, dựa trên 3 thông tin chính:
+T (Tumor) = Mức độ xâm lấn khối u nguyên phát.
+N (Nodes) = Tình trạng di căn hạch bạch huyết.
+M (Metastasis) = Di căn xa đến các bộ phận khác trên cơ thể (hạch thượng đòn, phổi, xương…).
+Các giai đoạn của ung thư thanh quản có sự khác biệt, dựa trên vị trí khối u ở thanh quản: (2)
+Thượng thanh môn (khu vực phía trên dây thanh âm).
+Thanh môn (khu vực bao gồm dây thanh âm).
+Hạ thanh môn (khu vực bên dưới dây thanh âm).
+Ung thư thanh quản thượng thanh môn giai đoạn 4
+Giai đoạn ung thư
+T (Khối u)
+N (Hạch)
+M (Di căn xa)
+Ghi chú
+4A
+T1,T2,T3
+N2
+M0
+T1: Bướu giới hạn một phân vùng trên thanh môn với dây thanh cử động bình thường.
+T2: Bướu xâm lấn niêm mạc phân vùng lân cận trên thanh môn hay ngoài vùng trên thanh môn (đáy lưỡi, thung lũng, vách trong xoang lê), dây thanh cử động bình thường.
+T3: Bướu khu trú ở thanh quản, có bất động dây thanh và/hoặc xâm lấn bất cứ cấu trúc nào sau đây: vùng sau sụn nhẫn, mô trước sụn nắp, khoang cạnh thanh môn và/hoặc xâm lấn mặt trong sụn giáp.
+T4a: Bướu xâm lấn sụn giáp và/hoặc xâm lấn khỏi thanh quản (khí quản, mô mềm, tuyến giáp, thực quản).
+T4b: Bướu xâm lấn khoảng trước cột sống, bao cảnh, hoặc xâm lấn cấu trúc trung thất.
+N0: Không có hạch di căn.
+N1: Di căn một hạch bạch huyết với kích thước ≤3cm và chưa phá vỡ vỏ hạch.
+N2: Di căn một hạch có kích thước >3cm và ≤6cm chưa phá vỡ vỏ hạch; hoặc di căn nhiều hạch bạch huyết vùng cùng bên với kích thước ≤6cm chưa phá vỡ vỏ hạch; hoặc di căn hạch bạch huyết hai bên hoặc đối bên kích thước lớn nhất ≤6cm chưa phá vỡ vỏ hạch.
+N2a: Di căn một hạch có kích thước >3cm và ≤6cm chưa phá vỡ vỏ hạch.
+N2b: Di căn nhiều hạch vùng cùng bên với kích thước ≤ 6cm chưa phá vỡ vỏ hạch.
+N2c: Di căn hạch bạch huyết hai bên hoặc đối bên kích thước lớn nhất ≤6cm chưa phá vỡ vỏ hạch.
+N3: Di căn hạch kích thước >6cm chưa phá vỡ vỏ hạch; hoặc di căn đến bất kỳ hạch nào với lâm sàng đã phá vỡ vỏ hạch.
+N3a: Di căn hạch bạch huyết có kích thước > 6cm và chưa phá vỡ vỏ hạch.
+N3b: Di căn đến bất kỳ hạch bạch huyết nào với lâm sàng đã phá vỡ vỏ hạch.
+M0: Không có di căn xa.
+M1: Di căn xa.
+T4a
+N0,N1,N2
+M0
+4B
+T bất kỳ
+N3
+M0
+T4b
+N bất kỳ
+M0
+4C
+T bất kỳ
+N bất kỳ
+M1
+Ung thư thanh môn giai đoạn 4
+Giai đoạn ung thư
+T (Khối u)
+N (Hạch)
+M (Di căn xa)
+Ghi chú
+4A
+T1,T2,T3
+N2
+M0
+T1: Bướu khu trú ở một dây thanh (T1a) hoặc cả hai dây thanh (T1b); có xâm lấn mép trước hoặc sau; với cử động dây thanh bình thường.
+T2: Bướu lan vùng trên thanh môn hoặc dưới thanh môn; hoặc bướu giới hạn cử động dây thanh.
+T3: Bướu khu trú ở thanh quản có bất động dây thanh; hoặc xâm lấn khoang cạnh thanh môn và/hoặc xâm lấn mặt trong sụn giáp.
+T4a: Bướu xâm lấn trước sụn giáp và/hoặc xâm lấn khỏi thanh quản (khí quản, mô mềm, tuyến giáp, thực quản).
+T4b: Bướu xâm lấn khoảng trước cột sống, bao cảnh; hoặc xâm lấn cấu trúc trung thất. (3)
+N0: Không có hạch di căn.
+N1: Di căn một hạch bạch huyết với kích thước ≤3cm chưa phá vỡ vỏ hạch.
+N2: Di căn một hạch có kích thước >3cm và ≤6cm chưa phá vỡ vỏ hạch; hoặc di căn nhiều hạch vùng cùng bên với khối u, kích thước ≤6cm chưa phá vỡ vỏ hạch; hoặc di căn hạch bạch huyết hai bên hoặc hạch đối bên, kích thước lớn nhất ≤6cm và chưa phá vỡ vỏ hạch.
+N2a: Di căn một hạch có kích thước >3cm và ≤6cm chưa phá vỡ vỏ hạch.
+N2b: Di căn nhiều hạch vùng cùng bên với kích thước ≤6cm chưa phá vỡ vỏ hạch.
+N2c: Di căn hạch bạch huyết hai bên hoặc đối bên kích thước lớn nhất ≤6cm chưa phá vỡ vỏ hạch.
+N3: Di căn hạch bạch huyết kích thước >6cm và chưa phá vỡ vỏ hạch; hoặc di căn đến bất kỳ hạch nào với lâm sàng đã phá vỡ vỏ hạch.
+N3a: Di căn hạch kích thước >6cm chưa phá vỡ vỏ hạch.
+N3b: Di căn đến bất kỳ hạch nào với lâm sàng đã phá vỡ vỏ hạch.
+M0: Không có di căn xa.
+M1: Di căn xa.
+T4a
+N0,N1,N2
+M0
+4B
+T bất kỳ
+N3
+M0
+T4b
+N bất kỳ
+M0
+4C
+T bất kỳ
+N bất kỳ
+M1
+Ung thư thanh quản hạ thanh môn giai đoạn 4
+Giai đoạn ung thư
+T (Khối u)
+N (Hạch)
+M (Di căn xa)
+Ghi chú
+4A
+T1,T2,T3
+N2
+M0
+T1: Bướu khu trú vùng hạ thanh môn.
+T2: Bướu lan rộng đến dây thanh, cử động dây thanh bình thường; hoặc hạn chế.
+T3: Bướu khu trú ở thanh quản có bất động dây thanh; hoặc xâm lấn khoang cạnh thanh môn và/hoặc xâm lấn mặt trong sụn giáp.
+T4a: Bướu xâm lấn trước sụn giáp và/hoặc xâm lấn khỏi thanh quản (khí quản, mô mềm, tuyến giáp, thực quản).
+T4b: Bướu xâm lấn khoảng trước cột sống, bao cảnh, hoặc xâm lấn cấu trúc trung thất.
+N0: Không có hạch di căn.
+N1: Di căn một hạch bạch huyết với kích thước ≤3cm chưa phá vỡ vỏ hạch.
+N2: Di căn một hạch có kích thước >3cm và ≤6cm và chưa phá vỡ vỏ hạch; hoặc di căn nhiều hạch bạch huyết vùng cùng bên với kích thước ≤6cm chưa phá vỡ vỏ hạch; hoặc di căn hạch bạch huyết hai bên hoặc đối bên kích thước lớn nhất ≤6cm chưa phá vỡ vỏ hạch.
+N2a: Di căn một hạch có kích thước >3cm và ≤6cm chưa phá vỡ vỏ hạch.
+N2b: Di căn nhiều hạch vùng cùng bên với kích thước ≤6cm chưa phá vỡ vỏ hạch.
+N2c: Di căn hạch bạch huyết hai bên hoặc đối bên kích thước lớn nhất ≤6cm chưa phá vỡ vỏ hạch.
+N3: Di căn hạch kích thước >6cm và chưa phá vỡ vỏ hạch; hoặc di căn đến bất kỳ hạch nào với lâm sàng đã phá vỡ vỏ hạch.
+N3a: Di căn hạch kích thước >6cm chưa phá vỡ vỏ hạch.
+N3b: Di căn đến bất kỳ hạch bạch huyết nào với lâm sàng đã phá vỡ vỏ hạch.
+M0: Không có di căn xa.
+M1: Di căn xa.
+T4a
+N0,N1,N2
+M0
+4B
+T bất kỳ
+N3
+M0
+T4B
+N bất kỳ
+M0
+4C
+T bất kỳ
+N bất kỳ
+M1
+Ung thư thanh quản giai đoạn IV biểu hiện như thế nào?
+Ung thư thanh quản giai đoạn IV thường di căn đến các vị trí: hạch thượng đòn, phổi, có thể di căn hoặc xâm lấn đến các vị trí khác: xương, thực quản… Tùy thuộc vào vị trí ung thư di căn mà người bệnh có những biểu hiện khác nhau. Một số triệu chứng ung thư thanh quản giai đoạn cuối có thể gặp là:
+Khàn tiếng, khó khăn khi phát âm, thậm chí mất tiếng.
+Khó thở mức độ tăng dần, xuất hiện từng cơn nguy kịch.
+Đau vùng cổ, có thể lan đến tai.
+Nuốt khó, nuốt sặc, xuất tiết vào đường thở.
+Đau nhức xương tại các vị trí di căn.
+Nổi hạch cổ hai bên.
+Gầy, sút cân, da xanh, yếu ớt…
+Xem thêm:
+Ung thư thanh quản giai đoạn 0
+Ung thư thanh quản giai đoạn 1
+Ung thư thanh quản giai đoạn 2
+Ung thư thanh quản giai đoạn 3
+Người bệnh ung thư thanh quản giai đoạn cuối có thể sút cân, da xanh, ho nhiều, khó thở
+Ung thư thanh quản giai đoạn 4 sống được bao lâu?
+Thống kê từ chương trình SEER (Surveillance, Epidemiology, and End Results: Chương trình Giám sát, Dịch tễ học và Kết quả cuối cùng của Viện Nghiên cứu Ung thư Hoa Kỳ) thu thập các dữ liệu từ các loại ung thư cho biết giai đoạn ung thư được chia thành 3 thời kỳ:
+Tại chỗ: Tế bào ung thư phát triển khu trú tại thanh quản.
+Tại vùng: Tế bào ung thư xâm lấn các cấu trúc lân cận hoặc di căn hạch bạch huyết vùng.
+Di căn xa: Tế bào ung thư di căn xa đến các hạch không phải hạch vùng, hoặc đến các cơ quan khác như phổi, xương…
+Theo thống kê, tỷ lệ sống sót sau 5 năm đối với bệnh nhân ung thư thanh quản phân theo giai đoạn được đánh giá như sau (theo SEER 2013-2019): (4)
+Ung thư thanh quản giai đoạn tại chỗ: 79,4%.
+Ung thư thanh quản giai đoạn tiến triển tại chỗ – tại vùng: 46,9%.
+Ung thư thanh quản giai đoạn di căn: 34,4%.
+Tiên lượng sống của bệnh nhân ung thư giai đoạn 4 còn phụ thuộc vào nhiều yếu tố khác như tuổi tác, tình trạng sức khỏe, tinh thần, khả năng đáp ứng phương pháp điều trị…
+Các phương pháp chẩn đoán ung thư thanh quản giai đoạn 4
+Một số phương pháp chẩn đoán ung thư thanh quản bao gồm:
+Thăm khám: Bác sĩ khai thác thông tin bệnh sử cá nhân và tiền sử gia đình, thăm khám ban đầu để tìm ra các dấu hiệu nghi ngờ ung thư; tiến hành khám kiểm tra cổ họng bằng công cụ chuyên dụng. Sau khi thăm khám, bác sĩ sẽ chỉ định bệnh nhân thực hiện các xét nghiệm để chẩn đoán.
+Soi thanh quản: Có nhiều phương pháp soi thanh quản gồm:
+Soi thanh quản gián tiếp bằng gương:
+Ưu điểm: Phương tiện đơn giản, không xâm lấn, giúp đánh giá tổng quát tổn thương thanh quản, màu sắc, vị trí.
+Khuyết điểm: Khó khảo sát trên bệnh nhân dễ kích thích, không hợp tác. Phương pháp không ghi nhận lại được hình ảnh khách quan, mà sẽ mang tính chủ quan theo mô tả của bác sĩ.
+Soi thanh quản trực tiếp: Phương tiện có thể sử dụng gồm ống soi cứng (đường miệng) và ống soi mềm (đường mũi).
+Ưu điểm: Lưu lại được hình ảnh và video, đánh giá được cử động của dây thanh, sự bất động sụn phễu. Đồng thời, có thể sinh thiết sang thương thông qua nội soi.
+Khuyết điểm: Không đánh giá mức độ xâm lấn xung quanh của tổn thương.
+Các phương pháp chẩn đoán hình ảnh khác: Các phương pháp này đánh giá thêm các đặc điểm mà nội soi không khảo sát được và giúp xác định giai đoạn bệnh.
+Siêu âm: Phương pháp thường sử dụng để phát hiện hạch cổ, có thể kết hợp FNA (Fine needle aspiration: sinh thiết bằng kim nhỏ) nếu phát hiện hạch cổ bất thường nghi ngờ là hạch di căn.
+Chụp cộng hưởng từ (MRI): Kỹ thuật này có giá trị cao hơn CT-scan trong khảo sát các bệnh lý mô mềm vùng đầu cổ, đánh giá mức độ xâm lấn các cấu trúc lân cận hoặc di căn đến các cơ quan khác. MRI giúp đánh giá những tổn thương xâm lấn sụn xung quanh, mức độ xâm lấn mô mềm, giúp phát hiện sớm tình trạng bướu lan khỏi thanh quản. Tuy nhiên, thời gian chụp MRI kéo dài và khó thực hiện với những bệnh nhân ít hợp tác; hoặc có hội chứng sợ không gian hẹp hoặc sợ tiếng ồn.
+Chụp cắt lớp vi tính (CT-scan): Phương tiện đánh giá mức độ xâm lấn của ung thư thanh quản và đánh giá tình trạng di căn đến các cơ quan khác, đặc biệt là di căn phổi. CT-Scan có ưu thế hơn MRI trong đánh giá tổn thương xâm lấn cấu trúc xương, sụn bị vôi hóa và giúp đánh giá chính xác mức độ tổn thương.
+Chụp PET/CT: Phương pháp này có thể được dùng nhằm đánh giá toàn diện tái phát và di căn xa, đặc biệt đối với những bệnh nhân đã xạ trị.
+Xạ hình xương: Kỹ thuật này nhằm đánh giá di căn xương.
+Chụp cộng hưởng từ (MRI) là một trong các phương pháp chẩn đoán ung thư thanh quản giai đoạn 4
+Cách điều trị ung thư thanh quản giai đoạn 4
+Điều trị ung thư thanh quản giai đoạn 4 chủ yếu nhằm mục đích giảm các triệu chứng, làm chậm sự tiến triển bệnh, kéo dài thời gian sống cho bệnh nhân. Các phương pháp điều trị phụ thuộc vào rất nhiều yếu tố bao gồm: thể trạng, bệnh lý đi kèm, tình trạng dinh dưỡng, tinh thần và nguyện vọng của bệnh nhân. Hiện nay, các hướng dẫn điều trị ung thư từ Bộ Y tế và các hiệp hội ung thư trên thế giới đều nhấn mạnh vai trò của việc phối hợp nhiều phương pháp điều trị như phẫu thuật, xạ trị, hóa trị…(còn gọi là điều trị đa mô thức), nhằm tối ưu hóa hiệu quả điều trị. Đồng thời, việc đưa ra kế hoạch điều trị còn tùy thuộc từng trường hợp bệnh nhân cụ thể (cá thể hóa). (5)
+Giai đoạn 4A, 4B (T3, N2-3)
+Hóa – xạ trị đồng thời: Bệnh nhân được hóa-xạ trị đồng thời trước, có thể kèm liệu pháp nhắm trúng đích, tùy đáp ứng sau hóa-xạ trị mà sẽ lựa chọn kết hợp thêm với phẫu thuật.
+Phẫu thuật: Bệnh nhân được phẫu thuật trước, tùy yếu tố nguy cơ dựa trên kết quả giải phẫu bệnh sau phẫu thuật (hạch vỡ vỏ bao, diện cắt dương tính…), bệnh nhân có thể được điều trị bổ túc thêm bằng hóa xạ đồng thời hoặc xạ trị.
+Hóa trị: Bệnh nhân được hóa trị trước. Tùy đáp ứng sau hóa trị, bệnh nhân sẽ lựa chọn kết hợp thêm một trong các phương pháp như: Xạ trị triệt để, hóa-xạ trị đồng thời, phẫu thuật.
+Giai đoạn 4A (T4a, N bất kỳ)
+Phẫu thuật: Nếu bệnh nhân được đánh giá có khả năng phẫu thuật. Bệnh nhân sẽ được phẫu thuật trước. Tùy yếu tố nguy cơ dựa trên kết quả giải phẫu bệnh sau phẫu thuật (hạch vỡ vỏ bao, diện cắt dương tính…), bệnh nhân có thể được điều trị bổ túc thêm hóa xạ đồng thời hoặc xạ trị.
+Hóa – xạ trị đồng thời: Bệnh nhân được hóa-xạ trị đồng thời trước, có thể kèm liệu pháp nhắm trúng đích, tùy đáp ứng sau hóa – xạ trị mà sẽ lựa chọn kết hợp thêm với phẫu thuật.
+Hóa trị: Bệnh nhân được hóa trị trước. Tùy đáp ứng sau hóa trị, bệnh nhân sẽ lựa chọn kết hợp thêm một trong các phương pháp sau: Xạ trị triệt để, hóa-xạ trị đồng thời, phẫu thuật.
+Giai đoạn 4C (M1)
+Ở giai đoạn này, tùy theo thể trạng bệnh nhân, bệnh lý nội khoa đi kèm, triệu chứng bệnh nhân đang có… bác sĩ sẽ lựa chọn một hoặc kết hợp các phương pháp sau:
+Điều trị toàn thân bằng thuốc (hóa trị, liệu pháp nhắm trúng đích, liệu pháp miễn dịch).
+Xạ trị, có thể kết hợp với hóa trị để làm tăng hiệu quả điều trị; hoặc phẫu thuật (mục đích giảm nhẹ triệu chứng, không điều trị triệt để).
+Chăm sóc giảm nhẹ.
+Chăm sóc bệnh nhân ung thư thanh quản giai đoạn 4
+Gia đình luôn bên cạnh động viên giúp người bệnh ung thư thanh quản giai đoạn 4 thoải mái, lạc quan hơn.
+Chăm sóc bệnh nhân ung thư thanh quản giai đoạn 4 giúp bệnh nhân cảm thấy thoải mái, nhẹ nhàng hơn. Gia đình có thể hỗ trợ bệnh nhân bằng một số phương pháp sau:
+Động viên, trấn an tinh thần, thực hiện các nguyện vọng của bệnh nhân.
+Giúp bệnh nhân thay đổi tư thế thường xuyên, dùng đệm nước hoặc ghế tựa để thoải mái hơn, hạn chế nguy cơ loét tỳ đè.
+Thường xuyên thay drap giường, dọn dẹp khu vực sinh hoạt của bệnh nhân.
+Massage tay chân nhẹ nhàng, giúp bệnh nhân thoải mái, giảm tê bì tay chân và cải thiện lưu thông máu.
+Đa dạng thực đơn hàng ngày, bổ sung các món ăn mà bệnh nhân yêu thích, đảm bảo dinh dưỡng đầy đủ cho bệnh nhân.
+Khuyến khích bệnh nhân thường xuyên ra ngoài, tập luyện thể dục thể thao ở mức độ vừa phải. Hoạt động thể chất đều đặn mỗi ngày sẽ giúp chất lượng cuộc sống của người bệnh ung thư được cải thiện.
+Để tìm hiểu thông tin khám, tầm soát và điều trị ung thư thanh quản tại BVĐK Tâm Anh, bạn có thể liên hệ theo thông tin:
+Mỗi bệnh nhân ung thư thanh quản là một cá thể riêng biệt, không ai giống ai, việc lựa chọn phương pháp điều trị sẽ phụ thuộc vào rất nhiều yếu tố; vậy nên bệnh nhân ung thư thanh quản giai đoạn cuối (4) và gia đình cần chủ động trao đổi với bác sĩ để có được các hướng dẫn điều trị phù hợp nhất.

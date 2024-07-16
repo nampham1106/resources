@@ -1,0 +1,67 @@
+# doc_id = health_disease_2593
+# url = https://tamanhhospital.vn/ton-thuong-vu-khong-so-thay/
+# date = 30/03/2024
+Tổn thương vú không sờ thấy (NPBL) là gì? Nguyên nhân và chẩn đoán
+Tổn thương vú không sờ thấy có thể lành hoặc ác tính. Trong đó, tỷ lệ ác tính dao động khoảng 20% – 30%. Tình trạng này có thể được phát hiện khi người bệnh tầm soát ung thư vú định kỳ nhờ các kỹ thuật chẩn đoán hình ảnh hiện đại. Vậy tổn thương vú không sờ thấy là gì? Nguyên nhân và cách chẩn đoán ra sao? Bài viết của Thạc sĩ, bác sĩ Nguyễn Đỗ Thùy Giang sẽ giải đáp chi tiết những thắc mắc trên.
+Mục lụcTổn thương vú không sờ thấy là gì?Các loại tổn thương vú không sờ thấyPhương pháp chẩn đoán tổn thương vú không sờ thấyVai trò của bác sĩ chẩn đoán hình ảnh tuyến vú trong chẩn đoánVai trò của bác sĩ chẩn đoán hình ảnh tuyến vú trong hỗ trợ bác sĩ lâm sàng để điều trịVai trò của bác sĩ chẩn đoán hình ảnh tuyến vú trong theo dõi sau điều trị sang thương vúBộ 3 bác sĩ đánh giá chẩn đoán sang thương không sờ thấy: kết hợp bác sĩ lâm sàng, bác sĩ chẩn đoán hình ảnh và bác sĩ giải phẫu bệnhTổn thương vú không sờ thấy (NPBL) có cần điều trị không?Tổn thương vú không sờ thấy là gì?
+Tổn thương vú không sờ thấy là một sang thương của tuyến vú có tiềm năng ác tính, có thể lành tính hoặc ác tính, nhưng không được phát hiện khi khám lâm sàng, chỉ có thể nhìn thấy bằng chụp nhũ ảnh hoặc siêu âm hoac trên phim cộng hưởng từ tuyến vú.
+Các loại tổn thương vú không sờ thấy
+Việc phân loại tổn thương vú không sờ thấy – BIRADS của Trường Cao đẳng X-quang Hoa Kỳ từ năm 1990 là một cột mốc quan trọng trong việc phân loại các tổn thương vú, bằng cách cho phép thiết lập những hướng dẫn chẩn đoán [1]. Các loại tổn thương gồm:
+BIRADS 1 tương ứng với vú bình thường, không bị tổn thương.
+BIRADS 2 đến các vết thương lành tính không nghiêm trọng.
+BIRADS 3 đến các tổn thương lành tính có giá trị tiên đoán dương tính (VPP) đối với bệnh ung thư dưới 2%.
+BIRADS 4 đến các tổn thương đáng ngờ với VPP thay đổi trong khoảng từ 2% – 85%.
+BIRADS 5 nghi ngờ ác tính cao và VPP cao hơn 85%.
+Rõ ràng, không có ích gì khi thực hiện sinh thiết các tổn thương được phân loại ở BIRADS 1 hoặc 2. Tuy nhiên, cần thực hiện sinh thiết các tổn thương ở BIRADS 4 hoặc BIRADS 5 do VPP trung bình hoặc cao đối với bệnh ung thư.
+Việc theo dõi các tổn thương BIRADS 3 còn gây tranh cãi hơn, dù lựa chọn đầu tiên có thể là theo dõi trong thời gian ngắn (6 tháng/lần trong 2 năm). Tuy nhiên, vẫn có một giải pháp thay thế cho việc thực hiện sinh thiết chọc dò để tránh lo lắng trong vấn đề kiểm soát bệnh.
+Tổn thương vú không sờ thấy (NPBL) không được phát hiện khi khám lâm sàng, chỉ có thể nhìn thấy bằng chụp nhũ ảnh hoặc siêu âm
+Phương pháp chẩn đoán tổn thương vú không sờ thấy
+Với một tổn thương vú không sờ thấy nhưng có dấu hiệu nghi ngờ trên hình ảnh cần được sinh thiết chẩn đoán, bác sĩ lâm sàng sẽ đánh giá phương pháp hướng dẫn lý tưởng để tiếp cận tổn thương và thảo luận với bác sĩ chẩn đoán hình ảnh.
+Các tổn thương không sờ thấy là những tổn thương gây khó khăn trong việc lấy mẫu để kiểm tra mô học. Hiện nay, một số phương pháp được sử dụng như: định vị dưới siêu âm, nhũ ảnh và MRI có thể giúp xác định vị trí của sang thương.
+Chụp nhũ ảnh bằng cách sử dụng định vị không gian 3 chiều.
+Siêu âm.
+Sử dụng kim móc
+Hạt Iot 125 mang đồng vị phóng xạ.
+Phẫu thuật.
+Việc sử dụng rộng rãi phương pháp chụp nhũ ảnh và siêu âm cho các chỉ định khác nhau, không chỉ là một phương tiện bổ sung trong chẩn đoán các tổn thương sờ thấy của tuyến vú, mà còn là phương pháp tầm soát ung thư vú. Làm tăng khả năng phát hiện các tổn thương ở vú không sờ thấy trên lâm sàng.
+Chụp nhũ ảnh cho thấy 4 nhóm dấu hiệu hình ảnh cảnh báo về sự hiện diện có thể có của bệnh, gồm:
+Sự hiện diện của khối u hoặc nốt sần.
+Sự hiện diện của vi vôi hóa.
+Sự bất đối xứng của hình ảnh vú.
+Sự biến dạng của mô tuyến vú trên hình ảnh hoặc biến dạng cấu​​ trúc mô vú.
+Kỹ thuật viên BVĐK Tâm Anh TP.HCM đang chụp nhũ anh cho người bệnh
+Bước tiếp theo là chọn kỹ thuật sinh thiết thích hợp nhất. Sinh thiết chọc hút bằng kim nhỏ, sinh thiết bằng kim lõi lớn, sinh thiết có hỗ trợ chân không… Kỹ thuật cổ điển và đáng tin cậy nhất là sinh thiết bằng phẫu thuật có đánh dấu trước đó hoặc định vị bằng kim móc, đánh dấu bằng chất phóng xạ hoặc hạt phát từ, hồng ngoại,… là kỹ thuật sau đó.
+Mỗi một kỹ thuật trong số này đều có tính chất riêng để chẩn đoán các tình trạng của tuyến vú và có ưu, nhược điểm, chi phí khác nhau và có thể thích ứng với điều kiện của từng cơ sở y tế.
+Trong số lượng lớn các khối không sờ thấy được, không phải tất cả đều ác tính. Tỷ lệ mắc bệnh ác tính ở những tổn thương không sờ thấy dao động trong khoảng 20% – 30% gồm: ung thư biểu mô ống tuyến vú tại chỗ, tăng sản ống tuyến vú không điển hình và các tổn thương tiền ung thư khác.
+Bác sĩ chẩn đoán hình ảnh tuyến vú đóng một vai trò quan trọng trong việc đánh giá chẩn đoán, can thiệp sinh thiết và tiếp tục theo dõi sang thương ở nhóm bệnh nhân này cùng với bác sĩ chuyên bệnh tuyến vú.
+Vai trò của bác sĩ chẩn đoán hình ảnh tuyến vú trong chẩn đoán
+Bác sĩ chẩn đoán hình ảnh tuyến vú có vai trò:
+Đánh giá cẩn thận bất kỳ tổn thương ở vú kết hợp so sánh với những hình ảnh trước đó. Tổn thương thay đổi theo thời gian là một phát hiện quan trọng nhưng không nhất thiết là dấu hiệu dự báo bệnh ác tính.
+Cẩn trọng và chắc chắn không chẩn đoán quá mức.
+Phải loại trừ các tổn thương khối giả. Nếu cần, thực hiện các chế độ xem bổ sung trong chụp nhũ ảnh như: chế độ xem khu trú hay phóng đại.
+Cần biết sử dụng siêu âm để đối chiếu với những phát hiện bất thường trên chụp nhũ ảnh mà trước đó siêu âm không phát hiện ra.
+Chọc hút tế bào bằng kim nhỏ (FNA) hay sinh thiết lõi kim dưới hướng dẫn siêu âm có thể được thực hiện trước phẫu thuật cho những sang thương nghi ngờ.
+Khi cần thiết có thể dùng VAB (Vaccum assisted Biopsy) – sinh thiết kim lõi có hỗ trợ hút chân không chẩn đoán dưới hướng dẫn của siêu âm, nhũ ảnh hoặc MRI vú
+Đặt marker (mảnh kim loại) đánh dấu bướu dưới hướng dẫn của hình ảnh trong lúc chẩn đoán và để đánh dấu nền bướu sau điều trị tân hỗ trợ nếu có.
+Vai trò của bác sĩ chẩn đoán hình ảnh tuyến vú trong hỗ trợ bác sĩ lâm sàng để điều trị
+Thực hiện sinh thiết kim lõi lớn có hút chân không hỗ trợ (VAE – Vaccum assisted Excision) điều trị sang thương lành tính.
+Có thể thực hiện định vị kim dây các tổn thương không sờ thấy được phát hiện trên siêu âm, và sang thương này có thể thấy hoặc không thấy trên nhũ ảnh.
+Có thể thực hiện định vị kim dây các tổn thương không sờ thấy được phát hiện bằng chụp nhũ ảnh nhưng không nhìn thấy trên siêu âm, để đặt dây móc vào giữa tổn thương giúp bác sĩ phẫu thuật.
+Sau khi bác sĩ phẫu thuật cắt bỏ tổn thương, bác sĩ chẩn đoán hình ảnh có thể chụp X-quang mẫu bệnh phẩm tuyến vú để đảm bảo đã phẫu thuật đúng tổn thương, đủ rìa an toàn, bằng cách so sánh hình chụp X-quang bệnh phẩm với mẫu chụp nhũ ảnh tuyến vú trước phẫu thuật.
+Các tổn thương đáng ngờ có thể chỉ là một cụm vi vôi hóa cần phải cẩn thận đánh giá, đo rìa, cắt bệnh phẩm thích hợp trên phim chụp X-quang bệnh phẩm tuyến vú.
+Trong các tổn thương nhìn thấy trên siêu âm, việc đặt kim có thể thực hiện dưới sự hướng dẫn của kỹ thuật này. Ở trường hợp đó, bác sĩ siêu âm trong phẫu thuật có thể đánh giá việc loại bỏ hoàn toàn và đủ rìa tổn thương.
+Kỹ thuật định vị hạt nhân phóng xạ (ROLL) gần đây đang được ưa chuộng trong điều trị ung thư vú kết hợp đánh giá hạch nách di căn, bằng phương pháp sinh thiết hạch gác cửa và phẫu thuật bảo tồn vú. Bác sĩ chẩn đoán hình ảnh giúp định vị trí tiêm chất đồng vị phóng xạ.
+Vai trò của bác sĩ chẩn đoán hình ảnh tuyến vú trong theo dõi sau điều trị sang thương vú
+Bác sĩ rất cẩn thận khi đánh giá bất kỳ tổn thương ở vú và phải so sánh với những hình ảnh trước đó để phát hiện xem tổn thương có thay đổi theo thời gian
+Vị trí marker trước đó và sẹo cũ phẫu thuật phải được bác sĩ lâm sàng ghi vào trong phiếu chỉ định để tránh chẩn đoán quá mức sang thương hiện tại
+Bác sĩ chẩn đoán hình ảnh phải xem lại hình thái tổn thương trước đó và ngay sau mổ để có kế hoạch đánh giá, theo dõi sau sinh thiết hoặc sau điều trị
+Bộ 3 bác sĩ đánh giá chẩn đoán sang thương không sờ thấy: kết hợp bác sĩ lâm sàng, bác sĩ chẩn đoán hình ảnh và bác sĩ giải phẫu bệnh
+Để thuyết phục rằng một tổn thương là lành tính, tổn thương đó phải luôn lành tính hoặc vô hại trên khám lâm sàng, hình ảnh học tuyến vú (nhũ ảnh; siêu âm, MRI hoặc kết hợp cả hai) và phương pháp lấy mẫu mô (giải phẫu bệnh).
+Nếu một trong 3 mục trên không được thỏa mãn thì tổn thương không thể gọi là lành tính.
+Nếu tổn thương đáng ngờ trên lâm sàng và ngay cả khi các hình ảnh chẩn đoán âm tính, xét nghiệm tế bào học hoặc sinh thiết sẽ được chỉ định thực hiện.
+Nếu tổn thương có thể sờ thấy được và không nhìn thấy trên siêu âm thì chụp nhũ ảnh là bắt buộc. Và trừ khi kết quả siêu âm cho thấy lành tính một cách thuyết phục, việc lấy mẫu mô sẽ được chỉ định.
+Nếu tổn thương không thấy được trên khám lâm sàng và nhũ ảnh mà chỉ có siêu âm phát hiện ra, bác sĩ sẽ chỉ định thực hiện định vị sinh thiết dưới siêu âm và giải phẫu bệnh phải tương hợp với siêu âm.
+Tổn thương vú không sờ thấy (NPBL) có cần điều trị không?
+Tổn thương vú có thể lành hoặc ác tính. Tùy tình trạng và mức độ sang thương, bác sĩ sẽ chỉ định phương pháp điều trị thích hợp. Trong đó, cơ sở vật chất và kinh nghiệm của bác sĩ là yếu tố quyết định đến kết quả chẩn đoán những tổn thương không sờ thấy. Với mục tiêu hạn chế bỏ sót bệnh ác tính và hạn chế can thiệp điều trị quá mức.
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM với đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm trong việc thăm khám, chẩn đoán, tư vấn, điều trị chuyên sâu các vấn đề liên quan đến tuyến vú và ung thư vú. Ngoài ra, bệnh viện còn trang bị các máy móc, trang thiết bị hiện đại từ các nước Âu – Mỹ nhằm chẩn đoán bệnh chính xác nhất, giúp người bệnh cảm thấy an tâm và hài lòng khi đến khám và điều trị tại Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Bài viết đã cung cấp những thông tin về tổn thương vú không sờ thấy (NPBL) là gì? Nguyên nhân và cách chẩn đoán? Tổn thương vú không sờ thấy có thể có kích thước nhỏ, tình trạng lành hoặc ác tính. Tuy nhiên, nhờ sự phối hợp giữa bác sĩ chuyên về bệnh tuyến vú, bác sĩ giải phẫu bệnh và bác sĩ chẩn đoán hình ảnh, từ đó giúp chẩn đoán sang thương chính xác, đồng thời lên phác đồ điều trị phù hợp cho từng bệnh nhân.

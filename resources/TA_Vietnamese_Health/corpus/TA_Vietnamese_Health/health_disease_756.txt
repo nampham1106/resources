@@ -1,0 +1,54 @@
+# doc_id = health_disease_756
+# url = https://tamanhhospital.vn/sot-xuat-huyet-o-nguoi-lon/
+# date = 12/07/2022
+Sốt xuất huyết ở người lớn: Triệu chứng, chẩn đoán và điều trị
+So với trẻ nhỏ, sốt xuất huyết người lớn dễ gây biến chứng nặng hơn nhất là ở nhóm người có bệnh nền, thừa cân béo phì.
+Tính đến trung tuần tháng 7/2022, số ca sốt xuất huyết vẫn tăng mạnh ở 18/22 quận huyện và thành phố. Riêng TP. HCM có 13 trường hợp tử vong do mắc sốt xuất huyết.
+Mục lụcSốt xuất huyết là gì?Triệu chứng sốt xuất huyết ở người lớnSốt xuất huyết thể nhẹ không biến chứngSốt xuất huyết thể nặng3 giai đoạn sốt xuất huyết ở người lớnGiai đoạn sốtGiai đoạn nguy hiểmGiai đoạn hồi phụcCác biến chứng bệnh sốt xuất huyếtChẩn đoán sốt xuất huyếtCách điều trị sốt xuất huyết ở người lớnĐiều trị tại nhàĐiều trị tại cơ sở y tếChăm sóc khi bị sốt xuất huyếtPhòng ngừa bệnh sốt xuất huyếtSốt xuất huyết là gì?
+Bệnh sốt xuất huyết với biểu hiện đặc trưng là tình trạng xuất huyết dưới da. Bệnh xảy ra phổ biến ở vùng khí hậu nhiệt đới do vi rút Dengue gây ra. Vi rút này có 4 chủng huyết thanh (DEN-1, DEN-2, DEN-3, DEN-4), vì thế bất cứ ai cũng có thể nhiễm ít nhất là 1 hoặc 4 chủng vi rút này. Khi đã mắc bệnh, người bệnh có khả năng tạo ra miễn dịch với chủng đó suốt đời. Tuy nhiên, điều này không có nghĩa là người từng bị sốt xuất huyết có khả năng miễn dịch với 3 chủng còn lại.
+Triệu chứng sốt xuất huyết ở người lớn
+Theo phân loại mới nhất vào năm 2011 của Tổ chức Y tế thế giới (WHO), sốt xuất huyết được chia thành 2 nhóm: Không biến chứng và biến chứng nặng. (1)
+Sốt xuất huyết thể nhẹ không biến chứng
+Là tình trạng người bệnh nhiễm vi rút Dengue nhưng không đối diện với các biến chứng nặng. Ở dạng này, người bệnh có thể điều trị tại nhà theo sự tư vấn của bác sĩ. Điều này nhằm phòng tránh nguy cơ bệnh có thể chuyển sang thể nặng do chăm sóc sai cách.
+Sốt xuất huyết thể nặng
+Ngược lại với thể nhẹ là xuất xuất huyết thể nặng hay xuất huyết nội tạng. Nguyên nhân là do tình trạng chảy máu, rò rỉ huyết tương nghiêm trọng hoặc gây rối loạn chức năng của các cơ quan trong cơ thể. Các biểu hiện ban đầu có thể là đau đầu, sốt nhẹ,… nhưng sau hai ngày các triệu chứng nguy hiểm như đại tiện ra máu, phân đen,…; hoặc tình trạng xuất huyết não khó nhận biết do người bệnh cảm thấy đau đầu, sốt đến khi xảy ra liệt nửa người, hôn mê, tử vong ngay sau đó.
+3 giai đoạn sốt xuất huyết ở người lớn
+Thông thường thời gian ủ bệnh của sốt xuất huyết sẽ diễn ra khoảng 4 – 10 ngày, tùy theo mức độ của bệnh và được chia làm 3 giai đoạn chính: (2)
+Giai đoạn sốt
+Vi rút Dengue sau khi truyền sang người qua vết muỗi đốt, thời gian ủ bệnh bắt đầu diễn ra trong khoảng 4 – 7 ngày, thậm chí tới 14 ngày. Sau đó, cơ thể người bệnh bắt đầu xuất hiện các biểu hiện sốt.
+Khi bước vào giai đoạn sốt, người bệnh có thể sốt cao liên tục hoặc đột ngột ở mức nhiệt 39 – 40 độ C. Người bệnh dù uống thuốc hạ sốt nhưng tình trạng sốt không thuyên giảm. Những triệu chứng đi kèm có thể bao gồm: Đau họng, đau thượng vị, đau đầu, tiêu chảy, nhức hai bên hốc mắt, da xung huyết, chảy máu chân răng hoặc chảy máu mũi, phát ban, chán ăn, buồn nôn, đau nhức các cơ khớp,…
+Giai đoạn nguy hiểm
+Giai đoạn này diễn ra từ ngày 3 đến ngày 7, tính từ thời điểm bị sốt ngày đầu tiên. Dù người bệnh đã giảm/còn sốt nhưng có thể đối diện nguy cơ nhiễm trùng thứ phát. Tình trạng này đặc trưng bởi lượng tiểu cầu giảm và máu đông đặc. Các biểu hiện xuất huyết có thể xảy ra hoặc không.
+Ngoài ra, những biến chứng nặng khác cũng có nguy cơ xảy ra như tình trạng thoát huyết tương do bị tăng tính thấm thành mạch, tràn dịch phổi (đau ngực khi thay đổi tư thế, căng tức nặng ngực, khó thở), tràn dịch màng bụng (chướng bụng…), xuất huyết dưới da biểu hiện dưới dạng nốt hoặc các mảng xuất huyết ở vị trí mặt trước 2 chân, phía trong 2 cánh tay, đùi, mạng sườn, bụng,…
+Nguy hiểm hơn, người bệnh có thể bị xuất huyết nội tạng đường tiêu hóa, xuất huyết ở phổi và não (nôn ra máu, đi tiểu ra máu, ho ra máu, ra máu bất thường ở âm đạo, rong kinh,…). Thậm chí, nguy cơ viêm gan nặng, viêm cơ tim, viêm não, suy thận,… cũng có thể xảy ra.
+Những biến chứng nặng này cũng có thể xảy ra ở những người bệnh sốt xuất huyết không có các dấu hiệu thoát huyết tương hoặc không bị sốc.
+Do đó, trong giai đoạn này, người bệnh cần được theo dõi sát sao các biểu hiện, chăm sóc tốt. Khi thấy xuất hiện biểu hiện nặng, cần thực hiện các bước cấp cứu cho người bệnh càng nhanh càng tốt.
+Giai đoạn hồi phục
+Đây là giai đoạn cơ thể cần được thu nạp dưỡng chất, nghỉ ngơi nhiều hơn để đẩy nhanh quá trình hồi phục sức khỏe. Lúc này người bệnh đã hết sốt, huyết áp ổn định, đi tiểu nhiều hơn và cảm thấy thèm ăn.
+Tuy nhiên, lúc này người bệnh vẫn cần phải được chăm sóc và theo dõi kỹ càng. Chú ý đến các biểu hiện bất thường ở người bệnh bởi nguy cơ phù phổi hoặc suy tim vẫn có khả năng xảy ra đột ngột.
+Các biến chứng bệnh sốt xuất huyết
+Người lớn bị sốt xuất huyết dễ đối diện với biến chứng nặng hơn trẻ em, đặc biệt là người có bệnh nền, thừa cân béo phì. Những biến chứng bao gồm: Chảy máu đường tiêu hóa, ra máu khi đi đại tiện, phân đen hoặc xuất huyết trên da; suy gan, suy thận, trụy tim mạch; riêng ở phụ nữ có thể bị xuất huyết âm đạo không trùng với chu kỳ kinh nguyệt khiến nhiều chị em lầm tưởng với các bệnh về phụ khoa. Thậm chí người bệnh có thể rơi vào xuất huyết não khó nhận biết, người bệnh cảm thấy đau đầu, sốt, liệt nửa người, sau đó hôn mê và tử vong.
+Chẩn đoán sốt xuất huyết
+Người lớn bị nhiễm vi rút Dengue sẽ trải qua thời gian ủ bệnh từ 3 – 7 ngày, thậm chí 14 ngày. Lúc này, người bệnh có thể vẫn khỏe mạnh và không có biểu hiện. (3)
+Những nốt ban nổi trên da người bệnh sốt xuất huyết
+Việc chẩn đoán sốt xuất huyết phải chờ tới khi người bệnh bước vào giai đoạn sốt, xuất hiện các biểu hiện bệnh sốt xuất huyết ở người lớn điển hình như sốt cao, xuất huyết dưới da, chảy máu chân răng, chảy máu cam, nhức hai hốc mắt, đau cơ, đau khớp, chán ăn, buồn nôn,…
+Sau khi phát hiện các dấu hiệu đặc trưng, việc chẩn đoán cần dựa vào kết quả xét nghiệm (thường được thực hiện sau 2 ngày sốt). Kết quả xét nghiệm thể hiện các chỉ số hồng cầu, tiểu cầu, men gan. Tiểu cầu giảm và men gan tăng là đặc điểm thường gặp của bệnh sốt xuất huyết Dengue
+Do đó, ngay khi có các dấu hiệu của sốt xuất huyết đặc trưng, người bệnh cần được đưa đến bệnh viện để thăm khám và được điều trị kịp thời tránh bệnh tiến triển nặng.
+Cách điều trị sốt xuất huyết ở người lớn
+Hiện tại, việc điều trị sốt xuất huyết chỉ dựa trên triệu chứng của người bệnh. Căn cứ vào biểu hiện đi kèm khi bắt đầu sốt, người bệnh nên đi khám. Nếu mức độ nhẹ, người bệnh có thể được chỉ định điều trị tại nhà, trong khoảng thời gian từ 7 – 10 ngày tính từ ngày phát sốt đầu tiên.
+Điều trị tại nhà
+Cần làm gì khi bị sốt xuất huyết ở người lớn? Người bệnh cần được chăm sóc kỹ lưỡng, theo dõi sát sao. Khi sốt cao, có thể sử dụng thuốc Paracetamol để hạ sốt (liều dùng từ 10 – 15mg/1kg/lần), giữa hai lần uống cách nhau ít nhất 4 giờ. Nếu thấy một trong những biểu hiện bất thường như chảy máu cam, hãy đưa bệnh nhân đến bệnh viện để được cấp cứu kịp thời.
+Điều trị tại cơ sở y tế
+Khi nhập viện, người mắc sốt xuất huyết cần thực hiện xét nghiệm máu mỗi ngày để xem xét có hay không tình trạng tiểu cầu giảm hay men gan tăng hay không. Hiện, xét nghiệm chẩn đoán xác định bệnh sốt xuất huyết có hai loại bao gồm: Xét nghiệm NS1 Dengue (xét nghiệm nhanh phát hiện kháng nguyên vi rút gây bệnh sốt xuất huyết Dengue) và xét nghiệm kháng thể (IgM và IgG Dengue).
+Chăm sóc khi bị sốt xuất huyết
+Người bệnh cần nhiều thời gian nghỉ ngơi, tránh hoạt động mạnh vì cơ thể còn mệt, dễ bị choáng, khả năng bị té ngã cao nếu đi 1 mình. Người bệnh cần uống đủ nước mỗi ngày, bổ sung thêm các loại nước trái cây, nước bù điện giải, cháo loãng. Nên chia nhiều bữa ăn nhỏ, nấu thức ăn lỏng mềm cho người bệnh dễ ăn. Người bệnh nên tắm rửa bằng nước ấm, lau người nhẹ nhàng không nên kỳ mạnh lên da.
+Phòng ngừa bệnh sốt xuất huyết
+Diệt muỗi và phòng muỗi đốt là cách phòng bệnh sốt xuất huyết hiệu quả. Những công việc cụ thể bao gồm:
+Muỗi là nguồn lây bệnh chủ yếu
+Đậy kín các dụng cụ chứa nước để muỗi không đẻ trứng; diệt loăng quăng, vệ sinh thường xuyên các dụng cụ chứa nước như xô, chậu, lu, khạp,…; phát quang bụi rậm…
+Mặc quần áo dài tay khi đi ra ngoài, mắc mùng khi ngủ kể cả ban ngày nếu nhà có nhiều muỗi
+Dùng xịt khử, nhang muỗi, kem chống muỗi, bắt muỗi bằng vợt điện,…
+Thông báo với chính quyền địa phương để phun hóa chất diệt muỗi.
+Phòng lây lan dịch bằng cách để người bệnh ngủ trong màn, hạn chế tối đa muỗi chích người bệnh rồi truyền qua người lành.
+Mỗi năm, hàng triệu trường hợp nhiễm sốt xuất huyết xảy ra trên toàn thế giới mỗi năm. Sốt xuất huyết phổ biến nhất ở Đông Nam Á, các đảo phía Tây Thái Bình Dương, Châu Mỹ Latinh và Châu Phi. Đến nay, bệnh đã và đang lây lan sang các khu vực mới, bao gồm cả các đợt bùng phát cục bộ ở châu Âu và các vùng phía nam của Hoa Kỳ.
+Hiện, các nhà khoa học trên thế giới vẫn đang nghiên cứu về vắc-xin sốt xuất huyết ở người lớn và trẻ nhỏ. Do đó, biện pháp tốt nhất để ngăn ngừa nhiễm bệnh hiện nay vẫn là tránh bị muỗi đốt và tận diệt khả năng sinh sôi của loại muỗi gây bệnh.

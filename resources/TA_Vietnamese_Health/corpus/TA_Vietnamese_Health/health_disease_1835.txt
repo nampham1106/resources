@@ -1,0 +1,87 @@
+# doc_id = health_disease_1835
+# url = https://tamanhhospital.vn/4-giai-doan-ung-thu-tuyen-tien-liet/
+# date = 14/04/2022
+Đặc điểm 4 giai đoạn ung thư tuyến tiền liệt và cách phòng tránh
+Giai đoạn ung thư là cách mô tả vị trí của khối u ác tính. Nếu đã di căn, khối u có ảnh hưởng tới những bộ phận khác không? Việc đánh giá đúng giai đoạn ung thư tuyến tiền liệt sẽ giúp bác sĩ lên kế hoạch điều trị và dự đoán tiên lượng của người bệnh chính xác hơn.
+Mục lụcUng thư tuyến tiền liệt được phân chia giai đoạn như thế nào?Giải thích rõ thêm về hệ thống TNMĐặc điểm 4 giai đoạn ung thư tuyến tiền liệtGiai đoạn 1 (ung thư âm thầm, không sờ thấy khối u)Giai đoạn 2 (có u rõ ràng và còn khu trú trong vỏ bao)Giai đoạn 3 (lan ra khỏi vỏ bao nhưng chưa có di căn hạch hay di căn xa)Giai đoạn 4 (có di căn)Phương pháp điều trị ung thư tuyến tiền liệtMột số phương pháp điều trị ung thư tuyến tiền liệt như:Cách phòng tránh ung thư tuyến tiền liệt1. Bổ sung cà chua và các loại thực phẩm có màu đỏ2. Tăng cường rau củ và trái cây3. Cân nhắc bổ sung đậu nành và trà4. Lựa chọn chất béo tốt5. Ngừng hút thuốc6. Tập thể dụcTrao đổi với bác sĩUng thư tuyến tiền liệt được phân chia giai đoạn như thế nào?
+Giai đoạn ung thư được phân loại bởi hệ thống TNM của Ủy ban Liên hợp về Ung thư Hoa Kỳ. Trong đó T là Tumour (khối u), N là Nodes (di căn hạch) và M là Metastasis (di căn xa).
+Prostate cancer: Ung thư tuyến tiền liệt
+Bladder: Bàng quang
+Prostate: Tuyến tiền liệt
+Tumor: Khối u
+Urethra: Niệu đạo
+Enlarged prostate with malignant tumors: Tuyến tiền liệt với những khối u ác tính
+Giải thích rõ thêm về hệ thống TNM
+Tumour (khối u): Mô tả kích thước của khối u và mức độ lan rộng của ung thư vào mô tuyến tiền liệt. Cụ thể: T1 là không sờ thấy u khi khám trực tràng, không rõ về chẩn đoán hình ảnh. T2 là u còn khu trú trong vỏ bao. T3 là u đã xâm lấn ra ngoài vỏ bao. T4 là u xâm lấn vách chậu hoặc di căn xa.
+Nodes (u di căn hạch): Mô tả mức độ di căn tới những hạch bạch huyết gần đó. Các nodes có thể được phân loại từ N0 (không có hạch di căn). N1 hạch di căn đơn độc kích thước < 2cm. N2 hạch di căn đơn độc hoặc nhiều hạch nhưng kích thước < 5cm. N3 hạch di căn > 5cm.
+Metastasis (di căn xa): Xác định ung thư đã lan sang các vùng khác của cơ thể hay chưa. Sự di căn được phân loại từ M0 (không có di căn xa) M1 có di căn xa (M1a di căn xa không phải hạch vùng, M1b di căn xương, M1c di căn nơi khác)
+Để đánh giá mức độ nguy cơ (thấp, trung bình, cao) ngoài hệ thống TNM còn dựa vào các yếu tố khác
+Nồng độ PSA (kháng nguyên đặc hiệu của tuyến tiền liệt, Prostate Specific Antigen).
+Điểm số Gleason: dựa trên 5 độ mô học của hình thể tuyến, cộng 2 độ mô học chiếm tỉ lệ cao nhất (từ 2-4 điểm: độ ác tính thấp, từ 5-7 điểm: ác tính vừa, từ 7-10 điểm: ác tính cao).
+﻿
+Đặc điểm 4 giai đoạn ung thư tuyến tiền liệt
+Dịch:
+Stages of prostate cancer: Các giai đoạn ung thư tuyến tiền liệt
+Stage I: Giai đoạn 1
+Stage II: Giai đoạn 2
+Stage III: Giai đoạn 3
+Stage IV: Giai đoạn 4
+Seminal vesicle: Túi tinh
+Urethra: Niệu đạo
+Prostate gland: Tuyến tiền liệt
+Tumor: Khối u
+Bladder: Bàng quang
+Giai đoạn 1 (ung thư âm thầm, không sờ thấy khối u)
+Trong giai đoạn 1, ung thư thường phát triển chậm, không thể sờ thấy khối u và liên quan tới một nửa của một bên tuyến tiền liệt hay thậm chí ít hơn. Mức PSA trong máu thấp (<10ng/ml). Những tế bào ung thư được biệt hóa tốt, trông giống những tế bào khỏe mạnh.
+Giai đoạn 1a: Khối u được phát hiện tình cờ khi người bệnh thực hiện phẫu thuật điều trị tăng sinh lành tính tuyến tiền liệt (BPH). Đây là sự phát triển bất thường của các tế bào tuyến tiền liệt lành tính. Ung thư được tìm thấy trong ≤ 5% các mô bị loại bỏ.
+Giai đoạn 1b: Khối u được phát hiện tình cờ trong quá trình phẫu thuật BPH. Tế bào ung thư được phát hiện trong ≥ 5 phần trăm mô bị loại bỏ.
+Giai đoạn 1c: Khối u được tìm thấy trong quá trình sinh thiết tiền liệt tuyến khi nồng độ kháng nguyên đặc hiệu tuyến tiền liệt PSA trong máu tăng cao.
+Giai đoạn 2 (có u rõ ràng và còn khu trú trong vỏ bao)
+Khối u chỉ được tìm thấy trong tuyến tiền liệt, PSA ở mức trung bình hay thấp (10-20ng/ml). Trong giai đoạn này, ung thư tuyến tiền liệt tuy nhỏ nhưng cũng có nguy cơ phát triển, lây lan nhanh.
+Giai đoạn 2a: U hiện diện ở 1 thùy hay ít hơn. PSA ở mức trung bình. Những tế bào ung thư được biệt hóa tốt.
+Giai đoạn 2b: Khối u hiện diện ở hơn 1 thùy và còn khu trú trong vỏ bao. Nó đủ lớn để có thể sờ thấy trong quá trình kiểm tra trực tràng kỹ thuật số (DRE). PSA ở mức trung bình. Những tế bào ung thư được biệt hóa vừa phải.
+Giai đoạn 3 (lan ra khỏi vỏ bao nhưng chưa có di căn hạch hay di căn xa)
+Trong giai đoạn 3, PSA ở mức cao (>20ng/ml). Khối u đang phát triển ở mức cao. Điều này cho thấy bệnh ung thư tiến triển cục bộ, có khả năng phát triển và lây lan.
+Giai đoạn 3a: Ung thư đã lan ra ngoài lớp ngoài của tuyến tiền liệt nhưng chưa lan tới túi tinh. PSA ở mức cao.
+Giai đoạn 3b: Khối u phát triển ngoài tuyến tiền liệt, có lan tới túi tinh.
+Giai đoạn 4 (có di căn)
+Ung thư đã lan tới các hạch huyết hay những bộ phận khác như bàng quang, trực tràng hay những cơ quan xa hơn như gan, phổi.
+Giai đoạn 4a: Ung thư đã lan tới những hạch bạch huyết vùng chậu làm nghẹt niệu quản, ứ nước thận.
+Giai đoạn 4b: Ung thư đã di căn xương hay di căn tạng
+Phương pháp điều trị ung thư tuyến tiền liệt
+Xu hướng điều trị bệnh ung thư tuyến tiền liệt hiện nay là cá nhân hóa việc điều trị. Phương pháp điều trị sẽ được thay đổi sao cho phù hợp với mỗi giai đoạn bệnh, nhằm tối ưu hóa việc điều trị.
+Một số phương pháp điều trị ung thư tuyến tiền liệt như:
+Phẫu thuật cắt tuyến tiền liệt tận gốc: Người bệnh sẽ được cắt bỏ hoàn toàn tuyến tiền liệt, hai túi tinh và bóng ống dẫn tinh, nạo hạch vùng chậu hai bên. Phương pháp điều trị này thường được chỉ định khi khối u còn nằm khu trú ở trong tuyến tiền liệt (giai đoạn 1 và 2 của bệnh). Gồm có: phẫu thuật cắt tuyến tiền liệt tận gốc ngả sau xương mu hoặc ngả đáy chậu với hình thức mổ hở, mổ nội soi hoặc có sự hỗ trợ của robot.
+Liệu pháp hormone: Ung thư tuyến tiền liệt tương đối nhạy với nội tiết tố nam. Vì thế, việc cắt hai tinh hoàn của người bệnh hay dùng thuốc ức chế làm giảm nội tiết tố nam sẽ cắt nguồn cung cấp tiết tố nam, giúp ngăn chặn khối u phát triển.
+Xạ trị: Áp dụng cho giai đoạn T2 với triển vọng sống >10 năm, hoặc T3 với triển vọng sống > 5-10 năm. Bác sĩ sẽ chiếu tia phóng xạ để tiêu diệt những tế bào ung thư. Chiếu xạ từ ngoài là xạ trị ngoài. Cấy các hạt phóng xạ vào trong tuyến là xạ trị trong.
+Hóa trị: Hóa trị thường được áp dụng trong giai đoạn kháng cắt tinh hoàn, người bệnh không đáp ứng điều trị nội tiết.
+Xem thêm:Chẩn đoán và điều trị ung thư tuyến tiền liệt
+Cách phòng tránh ung thư tuyến tiền liệt
+Không có biện pháp nào giúp phòng chống ung tuyến tiền liệt tuyệt đối, tốt nhất đối với nam giới trên 50 tuổi lên đi kiểm tra tầm soát ung thư tuyến tiền liệt định kỳ với siêu âm tuyến tiền liệt và xét nghiệm PSA máu, với những người có người thân trực hệ bị ung thư tuyến tiền liệt (ông nội, cha, anh em trai) thì nên tầm soát sớm từ năm 40 tuổi. Ngoài ra, chế độ ăn uống và lối sống sinh hoạt hợp lý lành mạnh đóng vai trò nhất định trong việc hỗ trợ ngăn ngừa, giảm nguy cơ mắc bệnh. Nam giới có thể tham khảo những biện pháp như:
+1. Bổ sung cà chua và các loại thực phẩm có màu đỏ
+Cà chua, dưa hấu và những loại thực phẩm có màu đỏ đều chứa chất chống oxy hóa mạnh – lycopene. Theo Viện Nghiên cứu Ung thư Mỹ, người ăn nhiều cà chua và những món ăn làm từ loại quả này có nguy cơ bị ung thư tuyến tiền liệt thấp hơn người không ăn. Các chuyên gia lưu ý rằng các nghiên cứu về mối liên kết giữa cà chua và nguy cơ mắc ung thư tuyến tiền liệt vẫn còn nhiều hạn chế, đang được bổ sung tiếp tục. Ngoài ra, một nghiên cứu của Đại học Bách khoa Valencia vào năm 2018 cho thấy cà chua chín tích lũy nhiều lycopene hơn. Việc nấu chín cà chua sẽ giúp cơ thể hấp thu chất này dễ dàng hơn.
+2. Tăng cường rau củ và trái cây
+Các chất dinh dưỡng và vitamin có trong rau củ, trái cây đóng vai trò quan trọng trong việc giảm nguy cơ mắc bệnh ung thư tuyến tiền liệt. Rau xanh có chứa những hợp chất giúp cơ thể chống lại chất gây ung thư – carcinogen. Chế độ ăn giàu dinh dưỡng cũng hỗ trợ nam giới làm chậm quá trình phát triển ung thư.
+3. Cân nhắc bổ sung đậu nành và trà
+Những chuyên gia từ khoa Thực hành tổng hợp tại Đại học Melbourne chỉ ra rằng đậu xanh, đậu phụ, đậu lăng, mầm cỏ linh lăng và đậu phộng có khả năng giảm nguy cơ mắc ung thư tuyến tiền liệt. Vì các loại thực phẩm này đều chứa chất chống oxy hóa mạnh isoflavone.
+Về mối liên hệ giữa trà và nguy cơ mắc bệnh ung thư tuyến tiền liệt, một nghiên cứu của Trung tâm Nghiên cứu Phòng ngừa và sàng lọc ung thư, Trung tâm Ung thư Quốc gia Nhật bản đã chứng minh tỷ lệ người châu Á mắc ung thư tuyến tiền liệt thấp hơn người châu Âu là do yếu tố môi trường cùng thói quen sử dụng trà xanh.
+4. Lựa chọn chất béo tốt
+Chất béo từ động vật có thể làm tăng nguy cơ mắc bệnh ung thư tuyến tiền liệt. Để ngăn ngừa bệnh này, nam giới nên bổ sung chất béo từ thực vật như dầu ô-liu, rau củ tươi, các loại hạt. Ngoài ra, thịt nếu được chế biến quá kỹ cũng có thể sản sinh ra chất gây ung thư – carcinogen.
+5. Ngừng hút thuốc
+Người bệnh ung thư tuyến tiền liệt nếu thường xuyên hút thuốc sẽ có nguy cơ tái phát bệnh, nguy cơ tử vong cao hơn người không hút. Theo cơ sở dữ liệu thông tin ung thư toàn diện của Viện Ung thư Quốc gia Mỹ, nếu người bệnh ung thư tuyến tiền liệt bỏ hút thuốc khoảng 10 năm sẽ có nguy cơ tử vong thấp bằng người chưa từng hút thuốc.
+Theo báo cáo đầu năm 2020 của Viện nghiên cứu gen và di truyền học Wellcome Sanger, khi từ bỏ thuốc lá, những tế bào phổi cũng bắt đầu phục hồi niêm mạc đường hô hấp. Các tế bào trẻ hóa này sẽ bảo vệ con người trước nguy cơ mắc bệnh ung thư phổi.
+6. Tập thể dục
+Thừa cân, béo phì có thể làm tăng nguy cơ ung thư tuyến tiền liệt. Các bài tập vận động đơn giản như đi bộ, chạy bộ, bơi, đạp xe… sẽ giúp cơ thể của bạn tăng cơ, giảm mỡ và trao đổi chất tốt hơn nhằm duy trì cân nặng khỏe mạnh.
+Trao đổi với bác sĩ
+Bên cạnh việc khám sức khỏe định kỳ, nam giới cần trao đổi với bác sĩ về nguy cơ phát triển ung thư tuyến tiền liệt, đặc biệt là những vấn đề như những xét nghiệm sàng lọc nên có, tiền sử ung thư gia đình, chế độ ăn uống phù hợp. Ngoài ra, nếu nhận thấy những triệu chứng như khó chịu ở vùng chậu, trực tràng, khó tiểu, có máu trong nước tiểu và tinh dịch…, bạn cần tới gặp bác sĩ ngay để được thăm khám chuyên sâu và có biện pháp can thiệp kịp thời.
+Xác định đúng giai đoạn ung thư tuyến tiền liệt sẽ giúp người bệnh hiểu rõ được tình trạng bệnh của mình, từ đó chủ động hơn trong việc điều trị với bác sĩ. Ung thư tuyến tiền liệt là bệnh lý vô cùng nguy hiểm. Vì thế, khi có những vấn đề bất thường như tiểu tiện khó khăn, đau mỗi khi đi tiểu, tiểu máu, tiểu đêm, tiểu rắt, khó duy trì sự cương cứng…, bạn cần đến bệnh viện để được thăm khám và điều trị kịp thời, ngăn ngừa biến chứng nguy hiểm.
+Trung tâm Tiết niệu Thận học, Khoa Nam học của Hệ thống BVĐK Tâm Anh quy tụ đội ngũ các chuyên gia đầu ngành, Nội khoa và Ngoại khoa, giỏi chuyên môn, tận tâm.
+Nhà giáo nhân dân GS.TS.BS Trần Quán Anh, Thầy thuốc ưu tú PGS.TS.BS Vũ Lê Chuyên là những cây đại thụ trong ngành Tiết niệu Thận học Việt Nam. Cùng với các tên tuổi Thầy thuốc ưu tú TS.BS Nguyễn Thế Trường Thầy thuốc ưu tú BS.CKII Tạ Phương Dung, TS.BS Nguyễn Hoàng Đức, TS.BS Từ Thành Trí Dũng, ThS.BS.CKI Nguyễn Đức Nhuận, BS.CKII Nguyễn Lê Tuyên, ThS.BS Nguyễn Tân Cương, ThS.BS Tạ Ngọc Thạch, BS.CKI Phan Trường Nam…
+Các chuyên gia, bác sĩ của Trung tâm luôn tự tin làm chủ những kỹ thuật mới nhất, phát hiện sớm và điều trị hiệu quả các bệnh lý về thận và đường tiết niệu, giúp người bệnh rút ngắn thời gian nằm viện, hạn chế nguy cơ tái phát, nâng cao chất lượng cuộc sống.
+Với hệ thống máy móc, trang thiết bị hiện đại hàng đầu trong nước và khu vực; Phòng mổ đạt tiêu chuẩn quốc tế; Cùng với khu nội trú và dịch vụ cao cấp 5 sao… Trung tâm Tiết niệu Thận học nổi bật với các dịch vụ thăm khám, tầm soát và điều trị tất cả các bệnh lý đường tiết niệu. Từ các thường gặp cho đến các cuộc đại phẫu thuật kỹ thuật cao. Có thể kể đến phẫu thuật nội soi sỏi thận, ghép thận, cắt bướu bảo tồn nhu mô thận; cắt thận tận gốc; cắt tuyến tiền liệt tận gốc; cắt toàn bộ bàng quang tạo hình bàng quang bằng ruột non; cắt tuyến thượng thận; tạo hình các dị tật đường tiết niệu… Chẩn đoán – điều trị nội khoa và ngoại khoa tất cả các bệnh lý Nam khoa.
+Để đặt lịch khám và phẫu thuật tuyến tiền liệt với các chuyên gia đầu ngành tại Trung tâm Tiết niệu Thận học, Khoa Nam học Hệ thống Bệnh viện Đa khoa Tâm Anh, quý khách có thể đặt hẹn trực tuyến qua các cách sau đây:
+Gọi tổng đài 0287 102 6789 (TP HCM) hoặc 024 3872 3872 (Hà Nội) để đăng ký lịch hẹn khám bệnh riêng với chuyên gia, thông qua nhân viên chăm sóc khách hàng.
+Đăng ký hẹn khám bệnh với bất kỳ bác sĩ nào mà mình tin tưởng tại đường link: https://tamanhhospital.vn/danh-cho-khach-hang/dat-lich-kham/
+Gửi tin nhắn trên Fanpage Bệnh viện Đa khoa Tâm Anh hoặc Fanpage Tiết niệu – Nam học BVĐK Tâm Anh
+Nhắn tin qua Zalo OA của BVĐK Tâm Anh.
+Giai đoạn ung thư tuyến tiền liệt ảnh hưởng rất nhiều đến quá trình kế hoạch điều trị và dự đoán tiên lượng sống của bác sĩ. Chính vì thế, mỗi người nên thường xuyên để ý đến những tác động nhỏ của cơ thể, đặt lịch định kì khám tổng quan, xét nghiệm sàn lọc để có thể phát hiện những nguy cơ sớm nhất.

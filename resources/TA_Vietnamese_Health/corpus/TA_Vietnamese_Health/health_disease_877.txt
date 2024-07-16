@@ -1,0 +1,86 @@
+# doc_id = health_disease_877
+# url = https://tamanhhospital.vn/ung-thu-thuc-quan-giai-doan-3/
+# date = 25/09/2023
+Ung thư thực quản giai đoạn III (3): Triệu chứng, chẩn đoán & điều trị
+Ung thư thực quản giai đoạn III (3) là giai đoạn bệnh đã tiến triển, các triệu chứng ung thư xuất hiện thường xuyên với mức độ nặng hơn. Tiên lượng sống của bệnh nhân thường kém khả quan, khi tỷ lệ sống sau 5 năm chỉ khoảng 20%.
+Mục lụcUng thư thực quản giai đoạn III là gì?Hệ thống phân giai đoạn theo TNM trong Ung thư thực quảnTriệu chứng ung thư thực quản giai đoạn IIITiên lượng sống ung thư thực quản giai đoạn IIIChẩn đoán ung thư thực quản giai đoạn IIIĐiều trị ung thư thực quản giai đoạn III1. Hóa xạ đồng thời (Hóa trị kết hợp xạ trị)2. Phẫu thuật3. Hóa trị4. Xạ trị5. Liệu pháp miễn dịchSống chung với ung thư thực quản giai đoạn IIIUng thư thực quản giai đoạn III là gì?
+Ung thư thực quản giai đoạn III (3) là tình trạng khối u thực quản tiến triển, xâm lấn đến lớp ngoài cùng của thực quản (gọi là lớp áo ngoài), di căn hạch bạch huyết lân cận (hạch vùng), hoặc có thể xâm lấn đến các cơ quan xung quanh, nhưng ung thư chưa di căn xa đến các vị trí khác trong cơ thể. Bệnh nhân ung thư giai đoạn III thực quản có tiên lượng điều trị kém khả quan do bệnh tiến triển nhanh, đồng thời bệnh nhân thường có thể trạng kém trước khi bắt đầu điều trị. (1)
+Ung thư thực quản giai đoạn 3 thường đã di căn đến các hạch bạch huyết lân cận.
+Hệ thống phân giai đoạn theo TNM trong Ung thư thực quản
+Theo Ủy ban Liên hợp Ung thư Hoa Kỳ (AJCC: the American Joint Committee on Cancer), hệ thống phân giai đoạn TNM gồm 3 yếu tố: (2)
+T (Tumor – Khối u): Mô tả mức độ xâm lấn của khối u. T được đánh số từ 0 đến 4, số càng lớn đồng nghĩa mức độ xâm lấn càng nhiều, cụ thể như sau:
+T0: Không có bằng chứng cho thấy có khối u nguyên phát.
+Tis: Tế bào ung thư còn khu trú trong biểu mô, chưa xâm lấn đến lớp màng đáy.
+T1: Khối u xâm lấn đến lớp màng đáy, cơ niêm, hoặc lớp dưới niêm mạc của thực quản
+T2: Khối u xâm lấn đến lớp cơ.
+T3: Khối u xâm lấn đến lớp áo ngoài.
+T4: Khối u xâm lấn các cấu trúc xung quanh. T4 thường được phân làm 2 nhóm T4a và T4b, được mô tả như sau:
+T4a: U xâm lấn màng phổi, màng tim, tĩnh mạch nền, cơ hoành, phúc mạc.
+T4b: U xâm lấn các cấu trúc lân cận khác (động mạch chủ, cột sống, đường thở…).
+N (Node – Hạch bạch huyết): Mô tả tình trạng di căn hạch vùng. N được đánh số từ 0-3, số càng lớn, số lượng hạch di căn càng nhiều, cụ thể như sau:
+N0: Không di căn hạch vùng.
+N1: Di căn 1-2 hạch vùng.
+N2: Di căn 3-6 hạch vùng.
+N3: Di căn ≥ 7 hạch vùng.
+M (Metastasis- Di căn): Tình trạng di căn xa tới các cơ quan khác (phổi, gan, xương…) hoặc di căn đến các hạch bạch huyết không phải hạch vùng.
+Dựa vào hệ thống phân giai đoạn theo TNM và loại tế bào ung thư, ung thư thực quản giai đoạn III bao gồm các trường hợp sau:
+Ung thư biểu mô tế bào gai: T3N1M0, hoặc T1-3N2M0.
+Ung thư biểu mô tế bào tuyến: T2N1M0, T3N0-1M0, hoặc T4aN0-1M0.
+Xem thêm:
+Ung thư thực quản giai đoạn 0
+Ung thư thực quản giai đoạn 1
+Ung thư thực quản giai đoạn 2
+Ung thư thực quản giai đoạn 4
+Triệu chứng ung thư thực quản giai đoạn III
+Trong giai đoạn đầu ung thư thực quản, các triệu chứng không rõ ràng hoặc thậm chí không có triệu chứng, vì vậy đa phần bệnh nhân được chẩn đoán ung thư thực quản khi bệnh đã đến giai đoạn muộn. Đối với ung thư thực quản giai đoạn III, các triệu chứng thường đã xuất hiện thường xuyên với mức độ nặng hơn, một số có thể gặp phải bao gồm:
+Nuốt nghẹn, nuốt khó: Triệu chứng thường gặp nhất, xuất hiện ở 95% trường hợp ung thư thực quản. Người bệnh gặp khó khăn khi nuốt thức ăn, cảm thấy vướng ở thực quản. Ban đầu, người bệnh có thể cảm thấy bị nghẹn ứ bởi thức ăn dạng đặc như thịt, cá, nhưng lâu dần cảm giác nghẹn tắc xảy ra ngay cả khi người bệnh dùng thức ăn mềm hoặc dạng lỏng như canh, súp, cháo, thậm chí không uống được nước, sữa.
+Sụt cân: Xuất hiện trong 40-50% trường hợp bệnh nhân ung thư thực quản. Giảm cân nhanh (không áp dụng bất kỳ chế độ ăn kiêng nào) thường đi kèm với nuốt khó, tình trạng này có thể được cải thiện nếu giải quyết được vấn đề ăn uống, dinh dưỡng cho người bệnh.
+Đau tức vùng ngực sau xương ức khi nuốt: Xuất hiện ở khoảng 20% trường hợp ung thư thực quản, xảy ra khi người bệnh ăn thức ăn dạng đặc, thậm chí uống nước.
+Nôn: Người bệnh sẽ xuất hiện biểu hiện nôn khi có tình trạng nuốt nghẹn rõ rệt. Nôn có thể xảy ra trong hoặc ngay sau khi ăn. Chất nôn là thức ăn vừa mới ăn vào và không có lẫn dịch vị (dịch tiêu hóa của dạ dày), có thể lẫn một ít máu trong chất nôn.
+Tăng tiết nước bọt: Do triệu chứng nuốt nghẹn, nước bọt không thể theo thức ăn xuống đến dạ dày, người bệnh sẽ có cảm giác nhiều nước bọt hơn trong họng và phải nhổ nước bọt thường xuyên.
+Các triệu chứng khác do khối u thực quản đã xâm lấn các cơ quan xung quanh: Người bệnh có thể bị tràn dịch màng phổi, màng ngoài tim do ung thư xâm lấn màng phổi, màng ngoài tim gây đau ngực, khó thở…
+Khó nuốt là triệu chứng thường gặp ở bệnh nhân ung thư thực quản giai đoạn muộn.
+Tiên lượng sống ung thư thực quản giai đoạn III
+Ung thư thực quản có tiên lượng kém do bệnh tiến triển nhanh, điều trị khó khăn vì người bệnh thường đến thăm khám và phát hiện mắc bệnh khi tình trạng ung thư đã lan rộng (chỉ 25% trường hợp phát hiện bệnh ở giai đoạn sớm). Mặc dù vậy, nếu được phát hiện ung thư thực quản ở giai đoạn sớm, người bệnh vẫn có cơ hội được chữa khỏi bệnh.
+Giai đoạn ung thư là yếu tố ảnh hưởng nhiều nhất đến tiên lượng ung thư thực quản. Ung thư thực quản giai đoạn III có tiên lượng xấu, khi tiên lượng sống sau 5 năm của bệnh nhân chỉ khoảng 20%.
+Chẩn đoán ung thư thực quản giai đoạn III
+Đối với ung thư thực quản giai đoạn III, các triệu chứng thường biểu hiện rõ ràng, xảy ra thường xuyên hơn. Một số phương pháp thường được sử dụng để chẩn đoán ung thư thực quản bao gồm:
+Thăm khám lâm sàng: Bác sĩ khai thác bệnh sử và thăm khám bệnh nhân… kết hợp các yếu tố như tiền sử bệnh lý, tuổi tác, thói quen và môi trường sinh hoạt để phát hiện các yếu tố nghi ngờ ung thư của bệnh nhân.
+Nội soi thực quản:
+Nội soi tiêu hóa trên (bao gồm nội soi các cơ quan thực quản, dạ dày, tá tràng) thường được chỉ định khi người bệnh xuất hiện những dấu hiệu nuốt khó, nuốt đau, nghẹn ứ thức ăn hoặc khi phát hiện những tổn thương nghi ngờ di căn mà chưa xác định nguồn gốc ung thư bằng các xét nghiệm chẩn đoán khác (như CT-scan, MRI…). Nội soi có thể xác định vị trí u, mức độ hẹp lòng thực quản, tình trạng loét hoặc sùi trên bề mặt khối u. Đồng thời, trong quá trình nội soi thực quản, bác sĩ bấm một mẩu mô nhỏ để sinh thiết các tổn thương hoặc khối u nghi ngờ ác tính, từ đó có thể chẩn đoán xác định bản chất các tổn thương, phần mô nghi ngờ ung thư bằng kết quả giải phẫu mô bệnh.
+Nội soi thực quản có thể được kết hợp với siêu âm qua đầu dò nội soi (EUS: Endoscopic UltraSonography). Đây là phương tiện có độ tin cậy cao để đánh giá mức độ xâm lấn của khối u thực quản (còn gọi là T). Ngoài ra, bác sĩ có thể kết hợp phương pháp chẩn đoán EUS với sinh thiết bằng kim nhỏ (gọi là FNA: Fine Needle Aspiration) để sinh thiết các mô tổn thương hoặc hạch cạnh thực quản.
+Chụp cắt lớp vi tính (CT-scan): Đây là phương pháp thường được sử dụng phổ biến nhất tại Việt Nam nhằm đánh giá giai đoạn ung thư thực quản. Hình ảnh chụp cắt lớp vi tính có khả năng phát hiện các tổn thương di căn hạch bạch huyết hoặc di căn đến các cơ quan xa trong cơ thể. Tuy nhiên, CT-scan có sự hạn chế nhất định trong việc đánh giá mức độ xâm lấn tại chỗ của khối u thực quản (còn gọi là xếp giai đoạn theo T: Tumor). Tại hệ thống Bệnh viện Đa khoa Tâm Anh, hệ thống chụp cắt lớp vi tính (CT) hai đầu bóng có khả năng tái tạo lên tới 768 lát cắt. Nhờ hỗ trợ máy móc hiện đại, các bác sĩ có thể đánh giá được những tổn thương nhỏ nhất mà máy chụp CT thông thường không phát hiện được.
+Chẩn đoán hình ảnh khác: Trong một số tình huống cụ thể, bác sĩ có thể chỉ định chụp MRI não (nghi ngờ di căn não), xạ hình xương (nghi ngờ di căn xương), PET/CT, nội soi ổ bụng, nội soi lồng ngực…
+Dấu ấn sinh học ung thư: đánh giá nồng độ CEA, CA 19-9 tăng cao hay không trong máu người bệnh. Tuy nhiên, các dấu ấn sinh học không có vai trò quan trọng trong việc chẩn đoán ung thư thực quản, do chúng cũng có thể tăng đối với các bệnh lý khác. Vì vậy, dấu ấn sinh học ung thư thường chỉ là phương tiện theo dõi sau điều trị, đánh giá bệnh ung thư tái phát.
+Điều trị ung thư thực quản giai đoạn III
+Hiện nay, các hướng dẫn điều trị ung thư do Bộ Y tế và các Hiệp hội Ung thư trên thế giới cung cấp đều nhấn mạnh vai trò quan trọng của việc phối hợp nhiều phương pháp điều trị như phẫu thuật cắt bỏ, xạ trị, hóa trị… (còn gọi là điều trị đa mô thức), nhằm tối ưu hóa hiệu quả điều trị khối u. Đồng thời, việc đưa ra kế hoạch điều trị ung thư còn tùy thuộc từng trường hợp bệnh nhân cụ thể (điều trị cá thể hóa). Ngoài giai đoạn bệnh, việc lựa chọn phương pháp điều trị phù hợp còn phụ thuộc vào rất nhiều yếu tố khác, bao gồm: đặc điểm khối u, kết quả giải phẫu mô bệnh học và đột biến gen, khả năng đáp ứng điều trị, thể trạng, bệnh lý nền đi kèm, tâm lý và nguyện vọng của bệnh nhân… (3)
+1. Hóa xạ đồng thời (Hóa trị kết hợp xạ trị)
+Phương pháp này đóng vai trò quan trọng trong điều trị ung thư thực quản giai đoạn III. Hóa xạ đồng thời có thể được sử dụng để điều trị triệt để bệnh ung thư, hoặc được thực hiện trước phẫu thuật cắt thực quản.
+2. Phẫu thuật
+Đối với ung thư thực quản giai đoạn III, bệnh nhân hầu như không thể phẫu thuật triệt để lúc mới chẩn đoán, mà cần được phối hợp với hóa xạ đồng thời hoặc hóa trị trước phẫu thuật. Phẫu thuật có 2 mục đích chính: điều trị triệt để hoặc giảm nhẹ.
+Phẫu thuật triệt để bao gồm cắt bỏ một phần thực quản chứa khối u và nạo vét các hạch xung quanh. Sau đó, phần thực quản còn lại sẽ được nối lại với dạ dày để quá trình tiêu hóa thức ăn diễn ra bình thường. Nếu cần, có thể sẽ dùng một phần ruột để thay thế phần thực quản, được nối lại với dạ dày. (4)
+Phẫu thuật giảm nhẹ bao gồm một số phương pháp như: đặt stent vào trong lòng thực quản (giúp thức ăn có thể đi qua đoạn thực quản bị hẹp do u chèn ép), hoặc mở dạ dày ra da nuôi ăn (để bơm thuốc, thức ăn trong trường hợp bệnh nhân không thể ăn uống qua đường miệng)…
+3. Hóa trị
+Hóa trị là phương pháp điều trị nội khoa, sử dụng thuốc để tiêu diệt các tế bào ung thư và ngăn chặn tế bào ung thư phát triển, ức chế sự tăng sinh các tế bào ung thư trong cơ thể. Thuốc hóa trị có thể được sử dụng qua đường 2 con đường: truyền tĩnh mạch, đường uống, hoặc kết hợp cả 2 đường dùng. (5)
+Trong ung thư thực quản giai đoạn III, hóa trị chủ yếu có vai trò điều trị hỗ trợ trước hoặc sau phẫu thuật.
+4. Xạ trị
+Xạ trị là phương pháp sử dụng tia X năng lượng cao hoặc tia bức xạ để tiêu diệt tế bào ung thư hoặc hạn chế khả năng tăng sinh của tế bào ung thư. Xạ trị được chỉ định trong ung thư thực quản giai đoạn III đối với những bệnh nhân không thể hóa xạ đồng thời, nhằm giảm nhẹ các triệu chứng.
+5. Liệu pháp miễn dịch
+Tế bào ung thư có khả năng tránh được các hoạt động của tế bào miễn dịch trong cơ thể. Liệu pháp miễn dịch chống lại cơ chế này bằng cách giúp các tế bào miễn dịch tăng khả năng nhận biết tế bào ung thư. Đối với ung thư thực quản giai đoạn III, liệu pháp miễn dịch bằng Nivolumab có thể được áp dụng sau phẫu thuật nhằm cải thiện tiên lượng sống, giảm khả năng tái phát bệnh.
+Bệnh nhân ung thư thực quản cần theo dõi nội soi thường quy nhằm đánh giá mức độ phục hồi.
+Sống chung với ung thư thực quản giai đoạn III
+Bệnh nhân ung thư thực quản giai đoạn III gặp nhiều khó khăn trong cuộc sống, đời sống tinh thần bị ảnh hưởng nghiêm trọng. Việc chăm sóc toàn diện thể chất, tinh thần cho bệnh nhân cần được chú trọng nhằm tăng hiệu quả điều trị bệnh.
+Một số thông tin cần lưu ý trong quá trình chăm sóc bệnh nhân ung thư thực quản:
+Xây dựng chế độ ăn uống đầy đủ, cân bằng các chất dinh dưỡng cho bệnh nhân. Chế biến thực phẩm theo dạng mềm, lỏng, dễ nuốt để bệnh nhân giảm cảm giác “sợ ăn”, sợ sặc do nuốt khó.
+Hỗ trợ tinh thần, động viên người bệnh nhằm giúp bệnh nhân giảm cảm giác lo lắng, căng thẳng, tiếp tục tuân thủ phác đồ điều trị.
+Kết hợp các hoạt động thư giãn, vận động nhẹ như tập dưỡng sinh, đi bộ, yoga…
+Chăm sóc sức khỏe toàn diện cho bệnh nhân ung thư giúp cải thiện hiệu quả điều trị.
+Bệnh nhân ung thư thực quản cần suy nghĩ tích cực, bổ sung dưỡng chất đầy đủ nhằm đáp ứng các liệu pháp điều trị. Nếu gặp khó khăn hoặc các triệu chứng phụ xảy ra nghiêm trọng, có thể liên hệ bác sĩ điều trị để có những biện pháp cải thiện.
+Ung thư thực quản thường khó phát hiện sớm do triệu chứng bệnh giai đoạn đầu thường không rõ ràng, thậm chí không có dấu hiệu đến khi bệnh đã tiến triển đến giai đoạn muộn. Vì vậy, nên chủ động phòng ngừa ung thư thực quản bằng một số biện pháp sau:
+Ăn uống điều độ, thường xuyên tập luyện thể dục thể thao, duy trì cân nặng phù hợp với thể trạng;
+Hạn chế ăn các thực phẩm muối chua, lên men, đồ ăn nhanh, thực phẩm đóng hộp, chế biến sẵn;
+Ăn nhiều rau củ quả xanh, trái cây tươi;
+Không sử dụng rượu bia, hút thuốc lá, sử dụng các chất kích thích
+Ngoài ra, Mạng lưới Ung thư Quốc gia Hoa Kỳ (NCCN: National Comprehensive Cancer Network) đã đưa ra các khuyến cáo tham gia tầm soát ung thư thực quản sớm bằng nội soi thực quản nếu có các yếu tố nguy cơ di truyền như hội chứng Barrett thực quản gia đình, mắc hội chứng Bloom, Tylosis, thiếu máu Fanconi.
+Để đặt lịch khám tầm soát và điều trị ung thư thực quản tại BVĐK Tâm Anh, Quý khách hàng có thể tham khảo thông tin sau:
+Đón nhận thông tin mắc ung thư thực quản giai đoạn III không phải điều dễ dàng. Mặc dù vậy, bệnh nhân cần được thăm khám và điều trị theo phác đồ do bác sĩ chuyên khoa Ung bướu chỉ định, không nên điều trị theo các bài thuốc dân gian, mẹo vặt chưa được kiểm chứng khoa học.

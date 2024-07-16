@@ -1,0 +1,63 @@
+# doc_id = health_disease_1838
+# url = https://tamanhhospital.vn/ung-thu-tuyen-giap-di-can/
+# date = 01/04/2024
+Ung thư tuyến giáp di căn: Dấu hiệu, chẩn đoán và cách điều trị
+Theo cơ sở dữ liệu ung thư của Cơ quan Nghiên cứu Ung thư Quốc tế (Globocan) 2020, ung thư tuyến giáp đứng hàng thứ 10 trong số các loại ung thư thường gặp trên thế giới và tại Việt Nam. Tại thời điểm chẩn đoán, phần lớn trường hợp ung thư còn khu trú trong tuyến giáp hoặc chỉ di căn đến các hạch bạch huyết lân cận (còn gọi là hạch vùng). Mặc dù vậy, khoảng 4% trường hợp ung thư tuyến giáp đã di căn xa ngay từ lúc phát hiện bệnh. Tùy loại ung thư tuyến giáp và mức độ di căn, tình trạng người bệnh, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp để kéo dài thời gian và cải thiện chất lượng sống. Vậy ung thư tuyến giáp di căn xa là gì? Dấu hiệu, chẩn đoán và điều trị ra sao?
+Mục lụcUng thư tuyến giáp di căn là gì?Diễn tiến bệnh của ung thư tuyến giáp di căn như thế nào?Dấu hiệu ung thư tuyến giáp di căn1. Ung thư tuyến giáp di căn phổi2. Ung thư tuyến giáp di căn xương3. Ung thư tuyến giáp di căn gan4. Ung thư tuyến giáp di căn nãoUng thư tuyến giáp di căn sống được bao lâu?Cách chẩn đoán ung thư tuyến giáp giai đoạn di cănĐiều trị ung thư tuyến giáp di cănCó thể phòng ngừa ung thư tuyến giáp di căn không?Ung thư tuyến giáp di căn là gì?
+Ung thư tuyến giáp di căn là tình trạng tế bào ung thư lan đến các hạch bạch huyết lân cận vùng cổ (chiếm 50% – 60% trường hợp), có thể kết hợp di căn xa đến các cơ quan khác của cơ thể hoặc di căn đến các hạch không phải hạch vùng.
+Thông qua đường bạch huyết hoặc đường máu, tế bào ung thư có thể xâm lấn hoặc di căn đến các cấu trúc lân cận như cơ, mạch máu, thần kinh, hạch cổ, khí quản, thực quản… hoặc di căn xa đến các bộ phận khác gồm: phổi, xương, não, gan… Các vị trí di căn có thể được phát hiện ngay từ thời điểm đầu tiên được chẩn đoán hoặc sau một thời gian điều trị. (1)
+Diễn tiến bệnh của ung thư tuyến giáp di căn như thế nào?
+Ung thư tuyến giáp được phân thành nhiều loại khác nhau: dạng biệt hóa (bao gồm: dạng nhú, dạng nang, dạng tế bào Hurthle, dạng kém biệt hóa), dạng tủy và dạng không biệt hóa. Mỗi loại ung thư tuyến giáp có sự khác biệt về diễn tiến, tiên lượng sống và điều trị.
+Ung thư tuyến giáp dạng nhú (PTC – papillary thyroid carcinoma): đây là loại ung thư tuyến giáp phổ biến nhất, chiếm khoảng 80% – 85% trường hợp. Bệnh có thể xảy ra ở mọi lứa tuổi, nhưng thường gặp ở người từ 30 – 50 tuổi. Hầu hết ung thư tuyến giáp dạng nhú có kích thước nhỏ và đáp ứng tốt với điều trị, ngay cả khi đã di căn hạch cổ. Một vài trường hợp ung thư vẫn có thể diễn tiến xấu hơn, lan rộng và xâm lấn các cấu trúc xung quanh hoặc di căn đến những cơ quan khác.
+Ung thư tuyến giáp dạng nang (FTC – follicular thyroid carcinoma): ít gặp hơn so với dạng nhú, chiếm khoảng 10% – 15% trường hợp. Bệnh thường xuất hiện ở người trên 50 tuổi, thường ít di căn hạch vùng cổ. Mặc dù vậy, một số trường hợp vẫn tiến triển xấu, di căn đến phổi và xương.
+Ung thư dạng tế bào Hurthle (HTC – Hürthle cell thyroid carcinoma): chiếm khoảng 5% trường hợp, trước đây tình trạng này được xem là một biến thể của ung thư tuyến giáp dạng nang. HTC có mức độ ác tính cao, thường xâm lấn đến các cấu trúc xung quanh tuyến giáp, có 15% trường hợp đã di căn xa ngay từ lúc phát hiện bệnh.
+Ung thư dạng kém biệt hóa (Poorly differentiated thyroid carcinoma): chỉ chiếm dưới 5% trường hợp ung thư tuyến giáp. Bệnh có mức độ ác tính cao hơn các ung thư tuyến giáp dạng biệt hóa khác và kém đáp ứng với điều trị.
+Ung thư tuyến giáp dạng tủy (MTC – Medullary thyroid carcinoma): chiếm 5% – 10% trường hợp. Ung thư có nguồn gốc từ tế bào C (còn gọi là tế bào cận nang tuyến giáp). Tế bào C tiết Calcitonin, vì vậy nồng độ Calcitonin trong máu tăng cao có thể là dấu hiệu của MTC giai đoạn sớm. Bệnh có liên quan đến yếu tố gia đình như đột biến gen RET hoặc hội chứng đa bướu nội tiết type 2 (MEN – Multiple Endocrine Neoplasia). Bệnh thường di căn đến hạch cổ và hạch trung thất (trong lồng ngực), di căn lan đến các cơ quan khác và có thể gặp ở giai đoạn muộn.
+Ung thư tuyến giáp dạng không biệt hóa (ATC – Anaplastic thyroid carcinoma): chiếm 1% – 2% trường hợp. ATC thường xuất hiện ở người trên 60 tuổi, đây là dạng ung thư phát triển rất nhanh và đáp ứng kém với điều trị. Bệnh có thể gây những triệu chứng nghiêm trọng như sưng nề vùng cổ nhanh chóng khiến người bệnh khó thở và ăn uống khó khăn.
+Xem thêm: Ung thư tuyến giáp di căn hạch cổ: Dấu hiệu, chẩn đoán và điều trị.
+Ung thư tuyến giáp di căn được chia thành nhiều loại. Mỗi loại có sự khác biệt về diễn tiến, điều trị và tiên lượng sống
+Dấu hiệu ung thư tuyến giáp di căn
+Trong giai đoạn đầu, kích thước khối u tuyến giáp và hạch cổ còn nhỏ nên không dễ phát hiện và chưa gây triệu chứng. Khi khối u, hạch cổ lớn hơn, người bệnh có thể quan sát thấy hoặc tự sờ thấy u. Nếu không được điều trị phù hợp, khối u tiếp tục phát triển gây chèn ép và xâm lấn các cấu trúc lân cận như khí quản, thực quản dẫn đến đau nhức, khàn tiếng, nuốt khó… (2)
+Hạch cổ sưng to có thể là dấu hiệu của nhiều bệnh khác nhau. Do đó, để chẩn đoán ung thư tuyến giáp chính xác, người bệnh nên đến bệnh viện kiểm tra, làm các xét nghiệm cần thiết để loại trừ các tình trạng khác.
+Khi ung thư tuyến giáp tiến triển, di căn xa đến các cơ quan khác của cơ thể, một số triệu chứng toàn thân có thể xuất hiện như: mệt mỏi, ăn uống kém, sụt cân.
+Triệu chứng ung thư tuyến giáp di căn xa tùy thuộc vào số lượng, vị trí, kích thước, mức độ xâm lấn xung quanh của các sang thương di căn.
+1. Ung thư tuyến giáp di căn phổi
+Ung thư tuyến giáp di căn phổi thường không biểu hiện triệu chứng ở thời gian đầu. Khi sang thương lớn, xâm lấn đường thở và gây ảnh hưởng đến chức năng hô hấp, lúc này bệnh có các biểu hiện như: khó thở, ho khan, ho ra máu, đau ngực, tràn dịch màng phổi…
+2. Ung thư tuyến giáp di căn xương
+Di căn xương xảy ra ở 4% người bệnh ung thư tuyến giáp. Đây là vị trí di căn phổ biến thứ 2 sau phổi, thường gặp đối với ung thư tuyến giáp dạng nang, dạng tế bào Hurthle, dạng tủy.
+Ung thư tuyến giáp di căn xương thường không có triệu chứng trong thời gian đầu. Tuy nhiên, bệnh có thể diễn tiến gây đau nhức hoặc các ảnh hưởng ở xương (SREs – Skeletal Related Events) như: gãy xương, chèn ép tủy sống, tăng canxi máu ác tính.
+3. Ung thư tuyến giáp di căn gan
+Ung thư tuyến giáp hiếm khi di căn gan. Tùy mức độ di căn, người bệnh có thể gặp những triệu chứng khác nhau như: vàng da, vàng mắt, bụng phình to, ngứa, sụt cân, đau bụng…
+4. Ung thư tuyến giáp di căn não
+Di căn não xảy ra ở 0,15% – 1,3% người bệnh ung thư tuyến giáp. Sang thương di căn thường xuất hiện ở các bán cầu não, hiếm khi ở tiểu não và tuyến yên. Tình trạng này thường không có triệu chứng. Một số ít trường hợp có dấu hiệu đau đầu, rối loạn thị giác hoặc yếu cơ mắt. Người bệnh ung thư tuyến giáp di căn não có tiên lượng sống trung bình dưới 1 năm. Điều trị bằng Iod phóng xạ hiếm khi được thực hiện vì hiệu quả của phương pháp này chưa được ghi nhận.
+Ung thư tuyến giáp di căn sống được bao lâu?
+Tiên lượng của ung thư tuyến giáp di căn phụ thuộc nhiều yếu tố: loại giải phẫu bệnh, giai đoạn, thể trạng người bệnh, các bệnh đi kèm, mức độ đáp ứng điều trị… Nhìn chung, ung thư có tiên lượng sống tốt hơn nếu được phát hiện sớm. Tùy từng trường hợp cụ thể, bác sĩ sẽ trao đổi và lên kế hoạch điều trị phù hợp để kéo dài thời gian và cải thiện chất lượng sống cho người bệnh. (3)
+Tỷ lệ sống sau 5 năm đối với một số loại ung thư tuyến giáp:
+Ung thư tuyến giáp dạng nhú: giai đoạn tiến triển tại vùng (giai đoạn u xâm lấn các cấu trúc xung quanh, di căn hạch vùng) 99%, di căn xa 75%.
+Ung thư tuyến giáp dạng nang: giai đoạn tiến triển tại vùng 98%, di căn xa 63%.
+Ung thư tuyến giáp dạng tủy: giai đoạn tiến triển tại vùng 90%, di căn xa 40%.
+Ung thư tuyến giáp dạng không biệt hóa: giai đoạn tiến triển tại vùng 9%, di căn xa 4%.
+Siêu âm cổ là phương pháp giúp chẩn đoán các bệnh ở tuyến giáp
+Cách chẩn đoán ung thư tuyến giáp giai đoạn di căn
+Người bệnh có thể tình cờ phát hiện ung thư tuyến giáp di căn khi khám những bệnh lý khác hoặc trong quá trình xét nghiệm đánh giá giai đoạn ung thư tuyến giáp. Một số trường hợp phát hiện sang thương di căn khi tái khám định kỳ sau điều trị ung thư tuyến giáp trước đó, lúc này các triệu chứng bất thường có thể xuất hiện hoặc người bệnh hoàn toàn không có dấu hiệu. Sau khi thăm khám, các bác sĩ sẽ chỉ định một số xét nghiệm để chẩn đoán và đánh giá mức độ di căn của bệnh.
+Xét nghiệm máu đánh giá chức năng tuyến giáp, bao gồm: TSH, FT4, FT3.
+Chỉ dấu ung thư (tumour marker): các chỉ số Tg, Anti-Tg chủ yếu để theo dõi sau điều trị, ít có vai trò trong chẩn đoán ung thư tuyến giáp. Một số xét nghiệm như CEA, Calcitonin có thể gợi ý chẩn đoán trong ung thư tuyến giáp dạng tủy.
+Siêu âm cổ: phương tiện ít xâm lấn, chi phí thấp, thường được sử dụng để khảo sát sơ bộ về kích thước, tính chất khối u tuyến giáp và hạch vùng cổ. Siêu âm còn có vai trò hỗ trợ trong việc sinh thiết một số tổn thương nghi ngờ bằng kim nhỏ hoặc lõi kim.
+Chụp cắt lớp vi tính (CT scan): xác định kích thước, tính chất, tình trạng xâm lấn của khối u, các vị trí di căn.
+Sinh thiết được xem là “tiêu chuẩn vàng” chẩn đoán ung thư, gồm các phương pháp như: sinh thiết bằng kim nhỏ (FNA: Fine-Needle Aspiration), lõi kim (core biopsy) hoặc phẫu thuật. Tùy trường hợp cụ thể, bác sĩ sẽ tư vấn về phương pháp sinh thiết phù hợp.
+Ngoài ra, người bệnh có thể được chỉ định chụp xạ hình tuyến giáp, cộng hưởng từ (MRI), PET-CT… để khảo sát thêm tình trạng bệnh.
+Đến gặp bác sĩ khi có những dấu hiệu bất thường xảy ra ở tuyến giáp
+Điều trị ung thư tuyến giáp di căn
+Đối với ung thư tuyến giáp dạng biệt hóa: người bệnh có thể được phẫu thuật cắt toàn bộ tuyến giáp (nếu chưa thực hiện), sau đó điều trị bằng liệu pháp Iod phóng xạ (I-131) và liệu pháp nội tiết với Levothyroxine. Nếu người bệnh không đáp ứng hoặc không thể điều trị bằng các phương pháp trên, liệu pháp nhắm trúng đích (Lenvatinib, Sorafenib…) hoặc liệu pháp miễn dịch (Pembrolizumab) có thể được chỉ định.
+Đối với ung thư tuyến giáp dạng tủy: người bệnh có thể được phẫu thuật hoặc cân nhắc các liệu pháp điều trị tại chỗ như RFA (Radio Frequency Ablation – đốt u bằng sóng cao tần). Ung thư tuyến giáp dạng tủy không đáp ứng với liệu pháp Iod phóng xạ. Vì vậy, trong tình huống không thể phẫu thuật hoặc bệnh tiếp tục tiến triển sau điều trị, người bệnh có thể được điều trị bằng liệu pháp nhắm trúng đích (Cabozatinib, Vandetanib…) hoặc liệu pháp miễn dịch (Pembrolizumab). (4)
+Đối với ung thư tuyến giáp không biệt hóa: đây là loại ung thư rất nguy hiểm, tiến triển nhanh và hầu như chưa có liệu pháp điều trị hiệu quả.
+Tùy mỗi trường hợp cụ thể, một số liệu pháp điều trị có thể được sử dụng như: thuốc chống hủy xương (Zoledronic acid, Denosumab) đối với ung thư di căn xương, xạ trị nhằm kiểm soát triệu chứng…
+Có thể phòng ngừa ung thư tuyến giáp di căn không?
+Hiện nay, chưa có biện pháp phòng ngừa cụ thể nào đối với ung thư tuyến giáp. Tuy nhiên, có thể giảm nguy cơ mắc bệnh ung thư nói chung bằng cách lưu ý một số điều sau:
+Trang bị đồ bảo hộ nếu thường xuyên tiếp xúc với các hóa chất độc hại, tia bức xạ…
+Thường xuyên tập luyện thể dục thể thao, duy trì cân nặng phù hợp với thể trạng.
+Xây dựng chế độ ăn uống lành mạnh: bổ sung nhiều trái cây, rau củ quả tươi; cung cấp đủ Iot; hạn chế ăn đồ nhiều dầu mỡ, rượu bia, thực phẩm chế biến sẵn…
+Không hút thuốc lá.
+Ngoài ra, cần khám sức khỏe định kỳ, chủ động đến khám tại các cơ sở y tế khi có những dấu hiệu bất thường nhằm phát hiện sớm và điều trị kịp thời khi mắc bệnh ung thư.
+Khoa Ung bướu, BVĐK Tâm Anh là đơn vị tư vấn, tầm soát, điều trị ung thư hàng đầu tại Việt Nam, quy tụ đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm, chuyên sâu trong điều trị và chăm sóc người bệnh ung thư. Không chỉ cung cấp dịch vụ chăm sóc sức khỏe toàn diện, áp dụng điều trị đa mô thức, cá thể hóa với từng người bệnh, khoa Ung bướu còn có phòng pha hóa chất đạt chuẩn quốc tế, phòng bệnh tiện nghi, thoải mái, giúp người bệnh yên tâm và hài lòng với dịch vụ điều trị.
+Bài viết đã cung cấp những thông tin về ung thư tuyến giáp di căn là gì? Dấu hiệu, chẩn đoán và phương pháp điều trị ra sao? Ung thư tuyến giáp có tiên lượng sống tốt nếu phát hiện và điều trị sớm. Phát hiện muộn, tế bào ung thư di căn đến hạch ở cổ hoặc các vùng khác trong cơ thể, điều này không chỉ tác động đến khả năng điều trị mà còn ảnh hưởng đến chất lượng sống của người bệnh.

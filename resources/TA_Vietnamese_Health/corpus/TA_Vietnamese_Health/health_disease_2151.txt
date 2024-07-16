@@ -1,0 +1,107 @@
+# doc_id = health_disease_2151
+# url = https://tamanhhospital.vn/ung-thu-nao/
+# date = 07/10/2023
+Ung thư não: Dấu hiệu, nguyên nhân và cách chẩn đoán bệnh
+Ung thư não là các khối u ác tính phát triển ở não, bao gồm 2 loại chính là ung thư não nguyên phát và ung thư não thứ phát (do di căn từ nơi khác đến, như từ phổi, vú, đại trực tràng…). Tùy vào vị trí, kích thước, bản chất khối u mà ung thư não có các triệu chứng cũng như có các cấp độ khác nhau. Bất kể khối u não lành tính hay ác tính, chúng đều có khả năng ảnh hưởng đến sức khỏe của bệnh nhân, để lại nhiều di chứng và nguy cơ tử vong.
+Theo số liệu từ Globocan 2020, trên thế giới có khoảng 308.102 ca mới mắc và 251.329 ca tử vong do ung thư não. Tại Việt Nam, ung thư não đứng thứ 15 trong các loại ung thư thường gặp với hơn gần 3120 ca mới mắc, 2614 trường hợp tử vong mỗi năm và tỷ lệ mắc là 8,30/100.000 dân.
+Mục lụcUng thư não là gì?Dấu hiệu ung thư nãoNguyên nhân ung thư nãoCác loại ung thư não1. U não nguyên phát2. Ung thư não thứ phátPhân giai đoạn ung thư nãoUng thư não sống được bao lâu?Các phương tiện chẩn đoán bệnh ung thư nãoCách điều trị ung thư nãoCó thể phòng ngừa bệnh ung thư não không?Chế độ dinh dưỡng cho người bệnh ung thư nãoUng thư não là gì?
+Tất cả bệnh ung thư não đều là khối u, tuy nhiên không phải mọi khối u não đều là ung thư.
+Não cũng như các bộ phận khác của cơ thể, cũng có thể có khối u, xảy ra khi các tế bào não phát triển mất kiểm soát và tạo thành một khối đặc. Do não có nhiều loại tế bào nên bệnh nhân có thể mắc nhiều loại khối u. Một số là ung thư, và một số khác là u lành tính. Một số phát triển nhanh chóng, một số khác phát triển chậm. Não được bao bọc bên ngoài bởi một hộp sọ cứng, não là một tổ chức mềm bên trong. Khi một khối u phát triển, nó sẽ chèn ép, xâm lấn lên não, sẽ làm ảnh hưởng đến sự tư duy, thị giác, vận động và cảm giác của bệnh nhân. Vì vậy, dù tính chất khối u đó là ung thư não hay u não lành tính, chúng đều có thể phát triển nhanh để gây chèn ép hoặc xâm lấn lên não, ảnh hưởng đến các hoạt động của hệ thống thần kinh, mạch máu và các mô xung quanh trong não; gây ảnh hưởng nghiêm trọng đến các chức năng não và sức khỏe toàn diện của bệnh nhân. (1)
+U não có thể lành tính hoặc ác tính (ung thư não)
+Dấu hiệu ung thư não
+Bệnh nhân mắc ung thư não có thể xuất hiện các dấu hiệu và triệu chứng toàn thể/cục bộ, tuy nhiên ở giai đoạn sớm, ung thư não có thể không kèm triệu chứng hoặc thoáng qua nên bệnh nhân chủ quan không theo dõi.
+Các triệu chứng ung thư não có thể bao gồm: (2)
+Tăng áp lực nội sọ: Tình trạng này xảy ra do tăng thể tích của khối u, phù não và ứ đọng dịch não tủy.
+Đau đầu: Đa số bệnh nhân ung thư não đều có biểu hiện đau đầu cục bộ hoặc toàn thể. Đau có thể ở mức độ dữ dội hoặc cảm giác mơ hồ không rõ vị trí đau, cơn đau xảy ra thường xuyên, có xu hướng ngày tăng dần, điều trị bằng thuốc giảm đau không cải thiện.
+Nôn: Tình trạng nôn vọt, nôn không liên quan đến bữa ăn và không có đau bụng trước hay sau nôn.
+Phù gai thị: Tình trạng phù hoặc teo gai thị xảy ra khi tăng áp lực nội sọ, đè ép các bó mạch thần kinh thị giác. Các triệu chứng bao gồm nhìn mờ tăng dần kèm theo đau đầu và nôn.
+Các cơn đau đầu thường xuyên là biểu hiện ung thư não phổ biến ở một nửa người mắc ung thư não.
+Động kinh, có thể xuất hiện co giật 1 bên hoặc 2 bên. Các cơn co giật, động kinh có thể lặp lại nhiều lần.
+Ngoài ra còn có các triệu chứng mang tính chất định khu của khối u như:
+U tuyến yên: Loại u này có thể gây ra các triệu chứng chung như đau đầu, giảm thị lực, rối loạn giấc ngủ. Ngoài ra còn có các dấu hiệu đặc trưng như ăn nhiều, uống nhiều, tiểu tiện nhiều, béo phì, to đầu ngón chân ngón tay; hoặc có thể trạng khổng lồ kèm theo thiểu năng sinh dục.
+U góc cầu tiểu não: Khối u gây ra các triệu chứng như ù tai, chóng mặt, giảm thính lực. Ngoài ra còn có các dấu hiệu đặc trưng như tê ở mặt và lưỡi do u chèn ép vào dây thần kinh số 5.
+U tiểu não: Bệnh nhân có triệu chứng tăng áp lực nội sọ, kèm theo đó là tình trạng đi lại không vững, rối loạn thăng bằng.
+U thùy trán: Loại u này gây ra các ảnh hưởng lên não như giảm trí nhớ hay giảm sự chú ý. Ngoài ra, người bệnh còn có thể gặp các dấu hiệu đặc trưng như mất khứu giác và teo dây thần kinh thị giác, cũng có thể gây mất hoặc rối loạn ngôn ngữ nếu u ở phía sau thùy trán.
+U thùy đỉnh: Khối u này gây ra các triệu chứng đặc trưng bởi rối loạn cảm giác và rối loạn vận động, như làm giảm cảm giác, xúc giác, không định vị được vị trí và không gian.
+U thùy thái dương: U có thể gây ra các triệu chứng như ảo khứu, ảo thính, ảo thị và rối loạn ngôn ngữ, biểu hiện bằng việc không thể gọi đúng tên đồ vật. Ngoài ra, nếu u chèn ép lên dây thần kinh vận nhãn chung, bệnh nhân sẽ có triệu chứng sụp mi, giãn đồng tử.
+U thùy chẩm: Loại u này gây ra các ảnh hưởng lên não như giảm thị lực, kèm theo đó là triệu chứng tăng áp lực nội sọ.
+U não thất: U có thể gây ra các triệu chứng như đau đầu thành cơn, đau dữ dội và kèm theo đó là triệu chứng tăng áp lực nội sọ.
+Nguyên nhân ung thư não
+Nguyên nhân chính xác gây ung thư não hiện tại vẫn chưa được xác định. Các yếu tố có khả năng làm tăng nguy cơ gây u não ác tính bao gồm:
+Tuổi: Ung thư não có thể xuất hiện ở tất cả các nhóm tuổi nhưng phổ biến nhất ở nhóm trẻ em 3-12 tuổi và nhóm người lớn 40-70 tuổi.
+Bức xạ: Hiện chưa có nghiên cứu nào chứng minh có mối liên hệ giữa bức xạ và nguyên nhân gây ra u não. Tuy nhiên việc tiếp xúc nhiều, thường xuyên với các bức xạ cao có khả năng làm tăng nguy cơ gây ra các ung thư khác trong tương lai, dẫn đến ung thư não thứ phát.
+Các nguyên nhân khác:
+Bệnh nhân mắc ung thư phổi, ung thư vú, ung thư đại trực tràng… có khả năng bị ung thư não thứ phát (di căn não).
+Ngoài ra bệnh nhân có khả năng mắc ung thư não cao khi hệ miễn dịch suy giảm, như: AIDS (Hội chứng suy giảm miễn dịch mắc phải) hoặc đã cấy ghép tạng; hoặc có liên quan đến yếu tố gia đình hoặc bản thân có hệ gen bất thường, như: hội chứng Li–Fraumeni, hội chứng Turcot type 1 hoặc 2, hội chứng Neurofibromatosis…
+Các loại ung thư não
+Ung thư não được chia 2 loại: ung thư não nguyên phát và ung thư não thứ phát.
+1. U não nguyên phát
+Ở người trưởng thành, các khối u não đa phần sẽ là u màng não và u thần kinh đệm (Gliomas). U màng não chiếm khoảng 30% tổng số các khối u não nguyên phát. U màng não là những khối u phát triển ở lớp màng bao phủ não, rễ thần kinh và tủy sống với tốc độ chậm. Đa phần u màng não đều là những khối u lành tính, phát triển chậm và ít di căn.
+U thần kinh đệm người lớn (Gliomas) là những khối u phát sinh từ các tế bào thần kinh đệm. Thông thường, tế bào thần kinh giữ nhiệm vụ mang tín hiệu, trong khi đó tế bào thần kinh đệm đóng vai trò nuôi dưỡng, hỗ trợ và giữ cho các tế bào thần kinh trong não ở đúng vị trí cũng như hoạt động một cách hiệu quả. U thần kinh đệm thường hình thành khi những tế bào gốc chưa trưởng thành đột biến và phát triển ngoài phạm vi kiểm soát. U thần kinh đệm người lớn chiếm khoảng 74% các khối u não ác tính.
+Nam giới thường có nguy cơ phát triển khối u não ác tính cao hơn so với những đối tượng khác. Ngoài hai loại kể trên còn có các loại u não nguyên phát khác, được đặt tên theo nơi chúng bắt đầu trong não của bệnh nhân. Các loại u não khác bao gồm u tuyến yên (trong tuyến yên của bạn), u tế bào hình sao, u chordomas (hộp sọ và cột sống), u nguyên bào tủy (tiểu não)… Nhìn chung, số người được chẩn đoán bị bệnh u não ngày càng tăng. Điều đó có thể một phần là do các phương tiện chẩn đoán hiện đại giúp dễ dàng phát hiện bệnh hơn. (3)
+2. Ung thư não thứ phát
+Đa phần những người bị ung thư não (khoảng 100.000 người mỗi năm) đều do nguyên nhân thứ phát, có nghĩa là ung thư ở một số bộ phận khác của cơ thể di căn xa lên đến não. Khoảng gần 20% số ca ung thư não thứ phát bắt đầu từ ung thư phổi. Các bệnh ung thư khác có thể di căn não bao gồm: (4)
+Ung thư vú;
+Ung thư da (Melanoma);
+Ung thư đại trực tràng;
+Ung thư thận;
+Lymphoma non Hodgkin;
+Ung thư thực quản;
+Ung thư tinh hoàn;
+Ung thư bàng quang;
+Ung thư gan;
+Ung thư dạ dày;
+Ung thư tuyến giáp;
+Ung thư tiền liệt tuyến.
+Phân giai đoạn ung thư não
+Một trong những cách phân loại ung thư là dựa trên sự khác biệt về hình dạng giữa tế bào ung thư và tế bào bình thường, nhằm kết luận ung thư thời điểm hiện tại đang ở giai đoạn nào. Đánh giá các giai đoạn trong ung thư não không được sử dụng giống như các bệnh ung thư khác vì đa số ung thư não nguyên phát không xâm lấn ra ngoài hệ thống thần kinh. Người ta dùng thuật ngữ ung thư não độ 1, 2, 3, 4 để mô tả mức độ tiến triển của ung thư não. Bác sĩ sẽ phân loại các khối u não với cấp độ từ 1 đến 4. Các khối u não cấp độ 1 và 2 đa phần là khối u não có khả năng lành tính cao, còn các khối u não cấp độ 3 và 4 là u não có xu hướng thiên về ác tính. Tuy nhiên, cũng có một số trường hợp đặc biệt, u não cấp độ 2 sẽ tiến triển thành khối u ác tính. Ngoài ra, các khối u có thể diễn tiến theo chiều hướng xấu và thay đổi cấp độ. Chẳng hạn như khối u não cấp độ 2 có thể trở nặng và phát triển thành khối u não cấp độ 3.
+Hệ thống phân loại ung thư não được sử dụng phổ biến nhất theo Tổ chức Y tế Thế giới (WHO) bao gồm:
+U não cấp độ 1: Những khối u ở giai đoạn mới xuất hiện và phát triển chậm. Đây là cấp độ thấp nhất, thường được áp dụng cho các khối u lành tính. Các khối u não ở cấp độ 1 trông rất giống với các tế bào bình thường, phát triển chậm, ít có khả năng lan rộng.
+U não cấp độ 2: Theo cách phân loại u não dựa trên mức độ bệnh, các khối u cấp độ 2 cũng thuộc dạng khối u ở mức độ nhẹ, có các dấu hiệu với u cấp độ 1. Tuy nhiên, khối u não cấp độ 2 có thể xâm lấn và nhiều khả năng tái phát sau khi điều trị. Một số trường hợp u não lành tính ở cấp độ 2 có thể tiến triển thành khối u ác tính.
+U não cấp độ 3: Những khối u ở cấp độ này có tốc độ tiến triển tế bào nhanh hơn khối u não cấp độ 1 và 2. Việc nhận biết các khối u não cấp độ 3 dễ dàng hơn do chúng trông bất thường và khác lạ hơn so với tế bào não thông thường. U não ở cấp độ 3 có thể lan rộng đến tủy sống và các phần khác của não.
+U não cấp độ 4: U não cấp độ 4 là mức độ nguy hiểm nhất, khối u phát triển mạnh mẽ và có tốc độ lây lan nhanh chóng sang các tế bào não khác, thậm chí lây sang tủy sống.
+Ung thư não sống được bao lâu?
+Theo thống kê của Hiệp Hội Ung thư Hoa Kỳ (American Cancer Society) (2015-2019):
+Tỷ lệ sống còn 5 năm đối với bệnh nhân ung thư não là gần 36%, tỷ lệ sống còn 10 năm trên 30%.
+Tỷ lệ sống còn 5 năm đối với nhóm bệnh nhân dưới 15 tuổi là khoảng 75%. Đối với nhóm bệnh nhân trong độ tuổi 15-39, tỷ lệ sống còn 5 năm là gần 72%. còn đối với nhóm bệnh nhân trên 40 tuổi chỉ còn khoảng 21%.
+Theo thống kê của Viện Nghiên cứu Ung thư Vương quốc Anh (2013-2017), tỷ lệ sống còn 10 năm đối với bệnh nhân mắc ung thư não nguyên phát được đánh giá như sau: (5)
+Khoảng 11,2% bệnh nhân được chẩn đoán mắc ung thư não sẽ sống sót sau bệnh từ 10 năm trở lên.
+Khoảng 40% bệnh nhân được chẩn đoán mắc ung thư não ở độ tuổi 15-44 sẽ sống sót sau bệnh từ 10 năm trở lên.
+Khoảng 2,2% bệnh nhân được chẩn đoán mắc ung thư não ở độ tuổi 65-74 sẽ sống sót sau bệnh từ 10 năm trở lên.
+Tuy nhiên, tiên lượng sống của bệnh nhân ung thư còn phụ thuộc vào nhiều yếu tố khác như tuổi tác, tình trạng sức khỏe, tinh thần, khả năng đáp ứng phương pháp điều trị…
+Các phương tiện chẩn đoán bệnh ung thư não
+Nếu bệnh nhân có một số triệu chứng nghi ngờ có khối u trong não. Bác sĩ sẽ khai thác bệnh sử về thời gian các triệu chứng xuất hiện, tiền sử bệnh của bản thân bệnh nhân và gia đình. Bước tiếp theo, bác sĩ sẽ chỉ định một số kiểm tra cận lâm sàng để xác định và đánh giá tình trạng bệnh. (6)
+Xét nghiệm dịch não tủy: Xét nghiệm này được thực hiện với mục đích kiểm tra tình trạng dịch não tủy, đo áp lực dịch, từ đó chẩn đoán, điều trị và tiên lượng bệnh.
+Chụp cắt lớp vi tính (CT-scan): Phương pháp này giúp xác định vị trí, kích thước và mức độ xâm lấn xung quanh, tình trạng phù não, tăng áp lực nội sọ.
+Chụp cộng hưởng từ (MRI): Đây là kỹ thuật chẩn đoán có độ nhạy cao để phát hiện những thay đổi giải phẫu trong não bộ. MRI cho hình ảnh cấu trúc não chi tiết hơn so với chụp CT. Chụp MRI giúp đánh giá chính xác vị trí và sự tương quan của khối u với các tổ thức lân cận.
+Chụp động mạch não: Hình ảnh chụp động mạch não ghi nhận có sự tăng sinh và xô đẩy mạch máu trong não gián tiếp cho thấy sự xuất hiện của khối u não.
+Điện não đồ: Phương pháp này giúp ghi nhận được các sóng bất thường.
+Chụp PET/CT: Phương pháp này nhằm đánh giá khối u não và các khối u toàn thân khác đồng thời.
+Sinh thiết não: Một mẫu mô não nghi ngờ chứa khối u sẽ được sinh thiết để đánh giá bản chất khối u. Mẫu mô này sẽ được phân tích tại phòng thí nghiệm của Trung tâm giải phẫu bệnh. Quá trình này nhằm xác định tính chất khối u là u ác tính hay lành tính.
+Cách điều trị ung thư não
+Nguyên tắc điều trị ung thư não nguyên phát sẽ có sự khác biệt so với điều trị ung thư não thứ phát. Ngoài ra các phương pháp điều trị còn phụ thuộc vào nhiều yếu tố, bao gồm: thể trạng sức khỏe, bệnh lý đi kèm, tình trạng dinh dưỡng, giải phẫu bệnh, cấp độ khối u, tinh thần và nguyện vọng của bệnh nhân. Hiện nay, các hướng dẫn điều trị ung thư từ Bộ Y tế và các Hiệp hội Ung thư trên thế giới đều nhấn mạnh việc tối ưu hóa hiệu quả điều trị ung thư có sự đóng góp quan trọng của việc phối hợp nhiều liệu pháp điều trị như phẫu thuật, xạ trị, hóa trị… (còn gọi là điều trị đa mô thức). Đồng thời, việc đưa ra kế hoạch điều trị chi tiết còn tùy thuộc từng trường hợp bệnh nhân cụ thể (cá thể hóa).
+Các phương pháp điều trị khối u não hiện nay gồm:
+Theo dõi tích cực: Đối với các khối u não lành tính, u phát triển chậm và không gây ra triệu chứng gì, có thể không cần điều trị ngay. Đa phần các trường hợp này, bệnh nhân cần theo dõi tích cực, kiểm tra định kỳ thường xuyên để theo dõi sự phát triển của khối u.
+Phẫu thuật: Mục tiêu của phẫu thuật là loại bỏ khối u mà không gây tổn thương cơ quan lành lân cận. Tùy thuộc vào vị trí của khối u, nông hay sâu, u có giới hạn rõ hay không, bác sĩ sẽ thể tiến hành phẫu thuật cắt bỏ hoàn toàn hoặc một phần khối u não.
+Xạ trị: Phương pháp này sử dụng các chùm tia năng lượng cao để tiêu diệt các tế bào ung thư. Xạ trị thường áp dụng với mục đích tiêu diệt các tế bào ung thư còn lại sau phẫu thuật hoặc những khối u ác tính vị trí ở sâu mà phẫu thuật không thực hiện được.
+Hóa trị: Đây là phương pháp sử dụng thuốc để tiêu diệt các tế bào ung thư trong não, giúp giảm kích thước khối u. Hóa trị thường được dùng hỗ trợ sau phẫu thuật và sau xạ trị.
+Liệu pháp nhắm trúng đích: Sử dụng các thuốc có tác dụng vào các yếu tố tăng sinh mạch, tác dụng vào gen và protein (bevacizumab…).
+Vật lý trị liệu: Bệnh nhân ung thư não thường gặp nhiều rối loạn về vận động, đặc biệt là khả năng điều khiển và di chuyển tay chân. Do đó trong và sau quá trình điều trị ung thư, bệnh nhân sẽ được chỉ định các bài tập phục hồi chức năng, giúp cải thiện và nâng cao chất lượng sống của bệnh nhân.
+Phẫu thuật tách bỏ khối u là một trong những phương pháp điều trị ung thư não thường được chỉ định
+Có thể phòng ngừa bệnh ung thư não không?
+Hiện nay vẫn chưa có khuyến cáo hay các biện pháp phòng ngừa ung thư não. Bệnh nhân sẽ được khuyến cáo đi khám kiểm tra sức khỏe tổng quát định kỳ hoặc khi có các triệu chứng nghi ngờ như: đau đầu, nôn, buồn nôn kéo dài hoặc đột ngột yếu liệt, nói khó, rối loạn thị giác, thính giác… Các bệnh nhân mắc các loại ung thư khác (ung thư vú, phổi, đại trực tràng…) nên được sàng lọc ung thư não di căn khi có các triệu chứng nghi ngờ.
+Chế độ dinh dưỡng cho người bệnh ung thư não
+Tác dụng phụ của các phương pháp điều trị (hóa trị, xạ trị…) có thể gây ra các tình trạng thay đổi vị giác, chán ăn, mệt mỏi, suy nhược… khiến bệnh nhân ăn uống kém, dẫn đến thiếu dinh dưỡng. Một số phương pháp có thể giúp bệnh nhân ung thư não ăn uống dễ dàng hơn trong quá trình điều trị bao gồm:
+Ăn đúng giờ, đúng bữa;
+Ăn từ 6-8 bữa nhỏ một ngày (thay vì chỉ ăn 3 bữa chính), mỗi bữa ăn cách 2-3 giờ;
+Ăn chậm, nhai kỹ thức ăn;
+Trong bữa ăn có thể uống thêm nước để làm mềm thức ăn, hỗ trợ việc nuốt dễ dàng hơn;
+Ăn bất kể thời gian nào trong ngày ngay khi cảm thấy đói và có thể ăn được;
+Ăn nhiều thực phẩm yêu thích;
+Cố gắng đảm bảo bổ sung đầy đủ các nhóm thực phẩm, chế biến đa dạng theo nhiều cách khác nhau để kích thích cảm giác thèm ăn của bệnh nhân. Sử dụng các loại thực phẩm bổ sung dinh dưỡng theo tư vấn của bác sĩ;
+Tập thể dục thể thao đều đặn, phù hợp với thể trạng sức khỏe của bệnh nhân;
+Giữ chế độ sinh hoạt lành mạnh, suy nghĩ tích cực là một phương thức hỗ trợ hiệu quả khi điều trị ung thư.
+Tùy theo tình trạng hiện tại của bệnh nhân ung thư não, bác sĩ Ung bướu sẽ phối hợp cùng bác sĩ Dinh dưỡng thiết lập chế độ dinh dưỡng riêng biệt cho người bệnh.
+Bệnh nhân và gia đình có thể tham khảo tư vấn của bác sĩ về các tác dụng phụ có thể gặp phải trong quá trình điều trị bệnh để có thể sử dụng thuốc, liệu pháp bổ sung hoặc thay đổi chế độ sinh hoạt nhằm duy trì sức khỏe tốt nhất có thể.
+Để đặt lịch khám, tư vấn và điều trị ung thư não tại khoa Ung bướu, BVĐK Tâm Anh, Quý khách hàng có thể liên hệ qua thông tin sau:
+Mỗi bệnh nhân ung thư não là một cá thể riêng biệt, không ai giống ai, việc lựa chọn phương pháp điều trị sẽ phụ thuộc vào rất nhiều yếu tố; vì vậy bệnh nhân và gia đình cần chủ động trao đổi với bác sĩ để có được các hướng dẫn điều trị phù hợp nhất.

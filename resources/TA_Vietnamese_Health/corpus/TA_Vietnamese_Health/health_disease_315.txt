@@ -1,0 +1,91 @@
+# doc_id = health_disease_315
+# url = https://tamanhhospital.vn/crt/
+# date = 23/05/2024
+Phương pháp CRT tạo nhịp tái đồng bộ cơ tim: Chỉ định và quy trình
+Phương pháp CRT tạo nhịp tái đồng bộ cơ tim điều trị cho bệnh nhân suy tim, giúp buồng tim co bóp hiệu quả, bơm máu đi nuôi cơ thể tốt hơn. Liệu pháp này khác phổ biến và được áp dụng điều trị cho hơn 311.000 người ở Mỹ từ năm 2006-2012.
+Mục lụcCRT là gì?Phương pháp tạo nhịp tái đồng bộ cơ tim CRT hoạt động như thế nào?Vai trò của thiết bị tái đồng bộ tim CRT trong điều trị bệnh tim mạchLiệu pháp tái đồng bộ cơ tim CRT và khử rung tim ICD khác nhau thế nào?Chỉ định sử dụng thiết bị tái đồng bộ tim CRT cho đối tượng nào?1. Suy tim từ nhẹ đến nặng2. Người bệnh suy tim không thể điều trị thuốc3. Tâm thất hoạt động không ổn định4. Người được chẩn đoán tim yếu hoặc to5. Bệnh nhân đau tim6. Người lớn tuổiƯu điểm kỹ thuật CRT tạo nhịp tái đồng bộ cơ timRủi ro khi thực hiện cấy ghép thiết bị tái đồng bộ tim CRTQuy trình cấy ghép thiết bị tái đồng bộ tim CRT1. Chuẩn bị trước thủ thuật2. Trong quá trình cấy ghép thiết bị tái đồng bộ cơ tim CRT3. Sau khi cấy ghép thiết bị tái đồng bộ cơ tim CRTNhững lưu ý cho người bệnh được cấy ghép thiết bị CRTNhững câu hỏi thường gặp về phương pháp CRT tạo nhịp tái đồng bộ cơ tim1. Thời gian phục hồi sau cấy ghép thiết bị tái đồng bộ tim CRT?2. Thiết bị tái đồng bộ tim CRT có sử dụng vĩnh viễn được không?3. Khi nào nên gặp bác sĩ sau thủ thuật CRT?
+CRT là gì?
+CRT hay còn gọi là liệu pháp tái đồng bộ cơ tim, là thủ thuật đưa thiết bị vào trong lồng ngực, hỗ trợ buồng tim co bóp một cách có tổ chức và hiệu quả hơn. Liệu pháp sử dụng một thiết bị gọi là máy tạo nhịp đồng bộ hai tâm thất nhằm cung cấp tín hiệu điện cho cả hai buồng tâm thất, giúp tâm thất co bóp cùng lúc, cải thiện quá trình bơm máu ra khỏi tim.
+Liệu pháp tái đồng bộ tim (CRT) cần một cuộc phẫu thuật nhỏ để đưa thiết bị đặt vào ngực. Thiết bị CRT bao gồm:
+Liệu pháp tái đồng bộ cơ tim bằng máy điều hòa nhịp tim: Sử dụng cho bệnh nhân bị suy tim và có tín hiệu tim không đều. Thiết bị giúp gửi tín hiệu cho buồng tim phía dưới đập cùng lúc, giúp tim đổ đầy máu đúng cách.
+Liệu pháp tái đồng bộ cơ tim bằng máy khử rung tim: Thiết bị kết hợp này sử dụng máy tạo nhịp tim và máy khử rung tim cấy ghép (ICD). Liệu pháp này được khuyến khích cho bệnh nhân suy tim có nguy cơ đột tử do tim. (1)
+Phương pháp tạo nhịp tái đồng bộ cơ tim CRT hoạt động như thế nào?
+Liệu pháp tái đồng bộ tim (CRT) là một thủ thuật cấy ghép máy tạo nhịp vĩnh viễn vào trong lồng ngực, giúp cho tâm thất co lại đồng bộ. Không giống như các máy điều hòa nhịp tim khác có một hoặc hai dây hoặc dây dẫn, máy tạo nhịp tim CRT có ba dây. Hai dây dẫn đi đến hai tâm thất, dây thứ ba đi đến tâm nhĩ phải. Ba dây dẫn này theo dõi nhịp tim bất thường và gửi tín hiệu điện đến tâm thất để điều chỉnh nhịp tim, làm cho buồng tim hoạt động cùng nhau, đồng bộ hóa lại tim. (2)
+Vai trò của thiết bị tái đồng bộ tim CRT trong điều trị bệnh tim mạch
+Ngay khi được kích hoạt, thiết bị tái đồng bộ tim CRT có thể làm giảm các rối loạn của tim. Hai tâm thất co lại một cách nhịp nhàng giúp tăng cung lượng tim. Trong vài tháng sau khi thực hiện liệu pháp, CRT còn giúp cải thiện cấu trúc và chức năng của tim.
+Ở cấp độ tế bào, CRT làm tăng mức canxi cao nhất, giúp cải thiện khả năng co bóp của tim và chức năng tâm thu. Đồng thời, CRT cũng làm tăng số lượng thụ thể beta trên bề mặt tế bào cơ tim. Sự gia tăng số lượng thụ thể beta đặc biệt quan trọng vì các tế bào cơ ở tim suy thường giảm khả năng đáp ứng adrenergic, dẫn đến nồng độ catecholamine trong tuần hoàn cao hơn có thể dẫn đến suy tim.
+Thiết bị tái đồng bộ tim CRT giúp cải thiện chức năng tim, tăng lưu lượng máu, giúp giảm các triệu chứng như khó thở ở bệnh nhân suy tim. Các nghiên cứu lâm sàng cho thấy tỷ lệ nhập viện và tỷ lệ mắc bệnh giảm, chất lượng cuộc sống của người bệnh nhờ đó cũng được cải thiện.
+Cấy ghép thiết bị tái đồng bộ cơ tim giúp buồng tim co bóp có tổ chức và hiệu quả hơn
+Liệu pháp tái đồng bộ cơ tim CRT và khử rung tim ICD khác nhau thế nào?
+Liệu pháp tái đồng bộ cơ tim CRT sử dụng máy tạo nhịp tim hai tâm thất để giúp tâm thất hoạt động cùng nhau. Trong khi đó, máy khử rung tim ICD sẽ giúp nhịp tim nhanh trở lại bình thường, thường được chỉ định ở bệnh nhân bị nhịp nhanh thất và rung thất. Một số trường hợp bệnh nhân có thể cần máy tạo nhịp tim hai tâm thất kèm theo ICD.
+Chỉ định sử dụng thiết bị tái đồng bộ tim CRT cho đối tượng nào?
+Khi kết hợp với các phương pháp điều trị khác, CRT giúp ngăn ngừa biến chứng suy tim, giảm nguy cơ nằm viện do suy tim và cải thiện chất lượng cuộc sống của người bệnh. Những trường hợp được chỉ định sử dụng thiết bị tái đồng bộ tim CRT bao gồm:
+1. Suy tim từ nhẹ đến nặng
+Liệu pháp CRT có hiệu quả với khoảng 7/10 bệnh nhân suy tim, giúp cải thiện hiệu suất của tim và thuyên giảm các triệu chứng bệnh. Đồng thời, giúp giảm tỷ lệ nhập viện ở bệnh nhân suy tim. Tuy nhiên, bệnh nhân suy tim nặng sẽ không có khả năng đáp ứng với CRT. Ngoài ra, CRT cũng có tác dụng tốt đối với bệnh nhân bị block nhánh trái.
+2. Người bệnh suy tim không thể điều trị thuốc
+Đối với những bệnh nhân suy tim không thể điều trị bằng thuốc, bác sĩ có thể chỉ định các phương pháp điều trị suy tim bằng dụng cụ như liệu pháp tái đồng bộ cơ tim CRT. Liệu pháp này giúp hai tâm thất co bóp đồng bộ và có hiệu quả hơn. Sau khi áp dụng liệu pháp này, bệnh nhân suy tim thường có cải thiện sức khỏe tích cực, giảm triệu chứng. Tuy nhiên, phương pháp này chỉ được áp dụng được trong một số trường hợp cụ thể.
+3. Tâm thất hoạt động không ổn định
+Việc áp dụng liệu pháp tái đồng bộ cơ tim CRT giúp cải thiện các triệu chứng và tăng khả năng sống đối với bệnh nhân bị suy tim tâm thu và chậm dẫn truyền tâm thất.
+4. Người được chẩn đoán tim yếu hoặc to
+Ở bệnh nhân được chẩn đoán tim yếu hoặc tim to, khả năng bơm máu của tim sẽ giảm đi. Cấy thiết bị tái đồng bộ cơ tim sẽ giúp tim bơm máu đi nuôi cơ thể hiệu quả hơn.
+5. Bệnh nhân đau tim
+Bệnh nhân đau tim thường có triệu chứng đau ngực, khó thở do rối loạn nhịp tim hoặc tim co bóp yếu. Liệu pháp tái đồng bộ cơ tim sẽ giúp tâm thất hoạt động cùng nhau, ổn định nhịp tim và cải thiện các triệu chứng của cơn đau tim.
+6. Người lớn tuổi
+Người lớn tuổi thường được chỉ định cấy ghép CRT do đây là nhóm đối tượng dễ bị suy tim, có nhiều bệnh lý kèm theo và bệnh thận mạn. Liệu pháp tái đồng bộ cơ tim được chứng minh là an toàn và hiệu quả cho nhóm đối tượng này.
+Ưu điểm kỹ thuật CRT tạo nhịp tái đồng bộ cơ tim
+Kỹ thuật CRT tạo nhịp tái đồng bộ cơ tim có những ưu điểm:
+Giúp tim bơm nhiều máu hơn đến các bộ phận trong cơ thể;
+Giúp trái tim hoạt động hiệu quả hơn;
+Cải thiện các triệu chứng khó thở, tức ngực, đặc biệt là ở bệnh nhân suy tim;
+Giảm nguy cơ nhịp tim bất thường;
+Kéo dài tuổi thọ cho người bệnh;
+Cải thiện tình trạng hở van hai lá hoặc máu đi sai hướng trong bệnh van hai lá;
+Cải thiện khả năng hoạt động thể chất của người bệnh.
+Cấy ghép thiết bị tái đồng tim giúp giảm triệu chứng khó thở ở bệnh nhân suy tim
+Rủi ro khi thực hiện cấy ghép thiết bị tái đồng bộ tim CRT
+Mọi thủ thuật y tế đều có một số rủi ro, các rủi ro khi áp dụng liệu pháp tái đồng bộ cơ tim CRT bao gồm:
+Phản ứng với thuốc gây tê hoặc thuốc mê;
+Sưng hoặc bầm tím ở vùng ngực trên nơi đặt thiết bị CRT;
+Chảy máu;
+Nhiễm trùng;
+Rối loạn nhịp tim trong quá trình cấy ghép thiết bị;
+Sự di lệch của thiết bị hoặc dây của thiết bị có thể cần phẫu thuật thêm lần thứ hai;
+Sự cố cơ học với thiết bị CRT;
+Ảnh hưởng đến chức năng thận do có sử dụng chất cản quang;
+Tràn khí màng phổi;
+Kích thích cơ hoành;
+Một số rủi ro khác tùy thuộc vào tình trạng sức khỏe cụ thể của người bệnh. (3)
+Quy trình cấy ghép thiết bị tái đồng bộ tim CRT
+Trước khi thực hiện cấy ghép thiết bị tái đồng bộ cơ tim CRT, bác sĩ sẽ trao đổi kỹ với người bệnh về những lợi ích, rủi ro và những vấn đề liên quan khác để người bệnh nắm rõ. Người bệnh cần thông báo với bác sĩ về những loại thuốc đang sử dụng, bao gồm cả thuốc kê đơn và thuốc không kê đơn. Báo với bác sĩ nếu có dị ứng với bất kỳ loại thuốc nào. Bác sĩ có thể yêu cầu người bệnh ngưng sử dụng những loại thuốc làm loãng máu vài ngày trước khi làm thủ thuật.
+1. Chuẩn bị trước thủ thuật
+Trong phòng thủ thuật, người bệnh sẽ nằm trên bàn chụp X-quang.
+Đường tiêm tĩnh mạch sẽ được truyền thuốc kháng sinh, thuốc giảm đau.
+Gây tê cục bộ tại vùng da nơi đặt thiết bị CRT, bệnh nhân có thể hoàn toàn tỉnh tháo hoặc được gây mê nhẹ.
+2. Trong quá trình cấy ghép thiết bị tái đồng bộ cơ tim CRT
+Quá trình thực hiện thủ thuật sẽ mất khoảng 3-4 giờ. Cách thức phẫu thuật được thực hiện phụ thuộc vào loại thiết bị CRT được sử dụng.
+Bác sĩ phẫu thuật sẽ rạch một đường nhỏ ở ngực và tạo một túi dưới da. Túi này sẽ đựng dây điện và máy phát điện cho CRT.
+Đặt đường truyền tĩnh mạch vào tĩnh mạch lớn dẫn vào tim.
+Đưa dây dẫn vào tĩnh mạch và đưa đến vào tim bằng cách sử dụng hình ảnh X-quang làm hướng dẫn.
+Một đầu của mỗi dây kết nối với khu vực thích hợp trong tim. Đầu còn lại gắn vào bộ phận của thiết bị CRT phát ra xung điện.
+Vết mổ sẽ được đóng lại bằng chỉ hoặc ghim và băng lại.
+Thực hiện thủ thuật cấy ghép thiết bị tái đồng bộ tim cho bệnh nhân tại Bệnh viện Đa khoa Tâm Anh
+3. Sau khi cấy ghép thiết bị tái đồng bộ cơ tim CRT
+Người bệnh sẽ được đưa đến về phòng bệnh để nghỉ ngơi. Bác sĩ có thể cho dùng thuốc giảm đau nếu cần thiết. Bác sĩ cho chụp X-quang ngực để kiểm tra lại. Bệnh nhân có thể cần ở lại bệnh viện qua đêm để bác sĩ theo dõi và điều chỉnh cài đặt thiết bị CRT.
+Những lưu ý cho người bệnh được cấy ghép thiết bị CRT
+Sau khi được xuất viện về nhà, người bệnh cần chú ý tuân thủ đúng theo các hướng dẫn của bác sĩ và thực hiện tái khám đúng lịch hẹn.
+Giữ băng khô và sạch;
+Thường xuyên kiểm tra vùng vết mổ xem có nhiễm trùng không;
+Tránh các hoạt động thể chất nặng, hạn chế căng hoặc duỗi cánh tay trái, nâng hoặc khuân vác vật nặng trong 4-6 tuần sau thủ thuật;
+Có chế độ dinh dưỡng phù hợp;
+Người bệnh cần chú ý tránh xa các thiết bị có từ trường mạnh như máy phát điện, máy hàn điện công nghiệp…
+Những câu hỏi thường gặp về phương pháp CRT tạo nhịp tái đồng bộ cơ tim
+1. Thời gian phục hồi sau cấy ghép thiết bị tái đồng bộ tim CRT?
+Sau khi cấy ghép thiết bị tái đồng bộ cơ tim, người bệnh cần ở lại bệnh viện qua đêm để theo dõi. Người bệnh có thể thực hiện các hoạt động bình thường sau vài ngày. Tuy nhiên, cần chú ý không nâng vật nặng, hoạt động thể chất ở cường độ cao hoặc lái xe.
+2. Thiết bị tái đồng bộ tim CRT có sử dụng vĩnh viễn được không?
+Pin của máy điều hòa nhịp tim sẽ kéo dài khoảng 10 năm. Tuy nhiên, bác sĩ sẽ thông báo cho người bệnh biết khoảng 6 tháng trước khi hết pin. Khi đó, người bệnh cần thay thế máy tạo nhịp CRT khác để tiếp tục duy trì hoạt động co bóp bình thường của tim.
+3. Khi nào nên gặp bác sĩ sau thủ thuật CRT?
+Người bệnh nên đến gặp bác sĩ ngay khi có các triệu chứng của nhiễm trùng như sốt cao, mẩn đỏ, đau nhức, tiết dịch, chảy máu hoặc sưng tấy. Sau thủ thuật CRT, người bệnh cần tái khám định kỳ 6 tháng/lần.
+Thủ thuật đặt máy tái đồng bộ nhịp tim đòi hỏi kỹ thuật thuật cao, trang thiết bị hiện đại và đội ngũ bác sĩ lành nghề, giàu kinh nghiệm. Do đó, người bệnh nên chọn những cơ sở y tế uy tín, có chuyên khoa Tim mạch để thăm khám, thực hiện cấy ghép thiết bị tái đồng bộ cơ tim.
+Việc đặt máy đồng bộ nhịp tim là một kỹ thuật khó nhưng được thực hiện khá thường xuyên tại Trung tâm Tim mạch – Bệnh viện Đa khoa Tâm Anh. Các bác sĩ trực tiếp thực hiện thủ thuật với tay nghề cao, máy móc hiện đại, công tác kiểm soát nhiễm khuẩn chặt chẽ và đội ngũ chăm sóc bệnh nhân trước – trong và sau phẫu thuật giúp người bệnh phục hồi nhanh chóng.
+Để đặt lịch khám, tư vấn và điều trị trực tiếp với các bác sĩ tại Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh, Quý khách hàng có thể liên hệ theo thông tin sau:
+Sau khi thực hiện phương pháp CRT tạo nhịp tái đồng bộ cơ tim, hầu hết người bệnh đều có sự cải thiện tích cực, giảm các triệu chứng bệnh và có chất lượng cuộc sống tốt hơn, đặc biệt là ở bệnh nhân suy tim. Tuy nhiên, sau khi cấy thiết bị, người bệnh cần tái khám đúng theo lịch hẹn để bác sĩ kiểm tra thường xuyên khả năng hoạt động của máy CRT.

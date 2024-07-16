@@ -1,0 +1,47 @@
+# doc_id = health_disease_2671
+# url = https://tamanhhospital.vn/dinh-luong-glucose/
+# date = 17/08/2022
+Vai trò của định lượng glucose trong máu là như thế nào?
+Định lượng glucose máu giúp bác sĩ khẳng định một người có bị đái tháo đường hay không, từ đó đưa ra chỉ định điều trị phù hợp. Người bệnh có thể thực hiện phương pháp này tại nhà nhưng chỉ có giá trị theo dõi sức khỏe, không có giá trị chẩn đoán bệnh.
+Mục lụcĐịnh lượng glucose là gì?Định lượng glucose trong máu để làm gì?Định lượng glucose trong máu bao nhiêu là bình thường?Định lượng glucose máu được thực hiện như thế nào?1. Định lượng glucose bằng phương pháp glucose oxydase2. Định lượng glucose máu bằng phương pháp sử dụng enzyme hexokinase3. Định lượng glucose bằng enzyme glucose dehydrogenase (GDH)Ý nghĩa của các chỉ số định lượng glucose trong máuNên làm gì khi các chỉ số glucose máu tăng cao hoặc giảm thấp?Những lưu ý cần biết khi thực hiện định lượng glucose máuĐịnh lượng glucose là gì?
+Định lượng glucose là phương pháp xét nghiệm xác định nồng độ glucose trong máu, khẳng định một người có bị đái tháo đường hay không. Kết quả định lượng glucose sẽ khác nhau ở các thời điểm khác nhau trong ngày. Định lượng glucose trong máu của mỗi người là khác nhau, có thể biến đổi theo từng phút, từng giờ. (1)
+Glucose (đường) được tạo ra từ các thực phẩm mà chúng ta ăn hàng ngày, là nguồn năng lượng chính của hầu hết các tế bào trong cơ thể. Khi glucose bị thiếu hụt hay dư thừa đều khiến sức khỏe bị ảnh hưởng trầm trọng, gây ra các vấn đề: tăng đường huyết, hạ đường huyết, biến chứng lên thận, mắt, tim, mạch máu…
+Định lượng glucose trong máu để làm gì?
+Định lượng glucose là một yếu tố quan trọng để sàng lọc bệnh đái tháo đường. Tại khoa Nội tiết – Đái tháo đường, BVĐK Tâm Anh TP.HCM, sau khi khám, bác sĩ sẽ chỉ định thực hiện xét nghiệm định lượng glucose xác định tải lượng đường huyết. (2)
+Thông qua chỉ số này, bác sĩ sẽ đánh giá người bệnh có bị đái tháo đường hay không, từ đó có kế hoạch điều trị hợp lý bằng thuốc, điều chỉnh chế độ ăn uống lành mạnh. Nếu mức đường huyết quá cao, người bệnh có thể rơi vào tình trạng nguy hiểm: tăng áp lực thẩm thấu máu, nhiễm toan ceton…
+Người bệnh có thể tự thực hiện định lượng glucose tại nhà bằng các thiết bị đo đường huyết cá nhân. Nhưng kết quả này chỉ mang tính theo dõi đường huyết để điều chỉnh chế độ sinh hoạt, ăn uống, không có giá trị chẩn đoán.
+Người bệnh có thể tự thực hiện định lượng glucose tại nhà bằng các thiết bị đo đường huyết cá nhân.
+Bất kỳ khi nào người bệnh thấy không khỏe đều nên đo đường huyết. Ngoài ra, trước các cuộc phẫu thuật, người bệnh đái tháo đường cần kiểm tra đường huyết để bác sĩ điều chỉnh liều lượng thuốc gây tê, gây mê, đảm bảo bệnh nhân không diễn tiến xấu trong phẫu thuật. Hậu phẫu, bệnh nhân được đo đường huyết liên tục cho đến khi ăn uống bình thường, đường huyết ổn định.
+Định lượng glucose trong máu bao nhiêu là bình thường?
+Định lượng glucose trong máu ở mức bình thường vào buổi sáng (khi chưa ăn uống gì – trung bình sau nhịn ăn ít nhất 8 tiếng) là khoảng 73.8 mg/dl – 106.2 mg/dl (tương đương 4.1 mmol/l – 5,9 mmol/l). (3)
+Sau khi ăn khoảng 1 – 2 tiếng, nồng độ glucose trong máu sẽ tăng lên, nhưng vẫn ở dưới ngưỡng 126 mg/dl (7.0 mmol/L). Nếu định lượng glucose trong máu ở cao hơn mức kể trên thì người bệnh có khả năng mắc rối loạn dung nạp glucose. Nếu đường máu tại thời điểm bất kỳ lớn hơn 200mg/dl (11.1 mmol/l), có thể chẩn đoán đã mắc bệnh đái tháo đường.
+Định lượng glucose máu được thực hiện như thế nào?
+Định lượng glucose máu được thực hiện bằng hai phương pháp hóa học và enzyme. Phương pháp hóa học mất nhiều thời gian, tính hiệu quả thấp nên ít được sử dụng. Trong khi đó, phương pháp enzyme cho kết quả nhanh, độ đặc hiệu cao nên được áp dụng rộng rãi. Có 3 loại enzyme được áp dụng phổ biến là: enzyme hexokinase, glucose oxidase và glucose dehydrogenase.
+1. Định lượng glucose bằng phương pháp glucose oxydase
+Bệnh nhân được lấy máu bằng cách dùng lưỡi kim chích vào đầu ngón tay. Sau đó nhỏ một giọt máu lên thuốc thử được liên kết với dải giấy chứa glucose oxidase. Nồng độ glucose được ước tính bằng cách so sánh với biểu đồ màu hoặc dùng máy đo độ phản xạ cầm tay dành riêng cho dải giấy thuốc thử.
+Ưu điểm của phương pháp này là thời gian nhanh và chi phí thấp. Tuy nhiên, quá trình thực hiện còn thủ công nên kết quả dễ bị tác động. Thông thường, phương pháp này sẽ cho chỉ số glucose máu thấp hơn mức thực tế.
+2. Định lượng glucose máu bằng phương pháp sử dụng enzyme hexokinase
+Định lượng glucose máu bằng phương pháp sử dụng enzyme hexokinase được thực hiện tại các bệnh viện lớn có trang thiết bị máy móc tự động, hiện đại, cho kết quả chính xác. Tuy nhiên, chi phí của xét nghiệm này cao hơn so với các phương pháp khác.
+3. Định lượng glucose bằng enzyme glucose dehydrogenase (GDH)
+Định lượng glucose bằng enzyme glucose dehydrogenase có thể thực hiện tại nhà, cách thức đơn giản và cho phản ứng nhanh. Tuy nhiên, người bệnh cần tìm hiểu kỹ loại máy đo đường huyết để chắc chắn về độ chính xác.
+Ý nghĩa của các chỉ số định lượng glucose trong máu
+Người bệnh cần uống thuốc theo đơn của bác sĩ chỉ định và xây dựng chế độ ăn uống phù hợp.
+Dựa vào chỉ số định lượng glucose trong máu bác sĩ đưa ra kết luận người bệnh có bị đái tháo đường hay không. Ngoài ra, các kết quả định lượng glucose bất thường, cho thấy một bệnh lý nào đó. Cụ thể:
+Glucose trong máu thường thấp hơn 4.1 mmol/l trong các trường hợp:
+Các bệnh ở tuyến tụy khiến tăng sản xuất insulin bất thường.
+Tụt đường huyết do ăn uống kém trong thời gian dài, vận động thể lực quá sức.
+Tổn thương tuyến thượng thận, tuyến giáp, tuyến yên, gan.
+Sau phẫu thuật cắt dạ dày.
+Người bệnh uống quá liều thuốc đái tháo đường.
+Chỉ số glucose máu tăng cao hơn 7.0 mmol/l thường gặp trong các trường hợp:
+Mắc các bệnh lý đái tháo đường, viêm tụy hoặc các bệnh lý trên tuyến yên, tuyến thượng thận.
+Người bệnh đang điều trị với các thuốc corticoid hoặc ACTH (hormone kích thích vỏ thượng thận).
+Người bệnh bị nhiễm độc giáp, stress quá mức…
+Nên làm gì khi các chỉ số glucose máu tăng cao hoặc giảm thấp?
+Bác sĩ thường chỉ định người bệnh thực hiện định lượng glucose máu lúc đói. Nếu kết quả định lượng glucose máu trên 7 mmol/L, người bệnh bị đái tháo đường. Trường hợp định lượng glucose khoảng 6,4 – 7 mmol/L, người bệnh bị rối loạn huyển hóa đường (hay tiền đái tháo đường).
+Người bệnh cần uống thuốc theo đơn của bác sĩ chỉ định và xây dựng chế độ ăn uống phù hợp. Người bị tiền đái tháo đường cần xây dựng chế độ ăn uống sinh hoạt để tránh bệnh tiến triển sang đái tháo đường.
+Chế độ ăn cân bằng và đa dạng thực phẩm giúp người bệnh đái tháo đường kiểm soát đường huyết, ổn định sức khỏe.
+Những lưu ý cần biết khi thực hiện định lượng glucose máu
+Định lượng glucose có ý nghĩa quan trọng trong việc chẩn đoán và điều trị bệnh đái tháo đường. Khi có dấu hiệu: khát nhiều, đói nhiều, tiểu nhiều… bạn nên đi khám bác sĩ chuyên khoa Nội tiết – Đái tháo đường.
+Bệnh viện Đa khoa Tâm Anh TP.HCM với trang thiết bị máy móc xét nghiệm hiện đại, cho kết quả chính xác và bác sĩ khoa Nội tiết – Đái tháo đường nhiều kinh nghiệm giúp người bệnh điều trị hiệu quả bằng thuốc và kiểm soát chế độ ăn uống. Từ đó, người bệnh quản lý sức khỏe tốt hơn, hạn chế các biến chứng lên tim, thận, mắt, nhiễm toan ceton, tăng áp lực thẩm tháu máu… từ đó kéo dài tuổi thọ.
+Trên đây là những thông tin cần thiết về định lượng gulcose mà người dân nên biết. Những bất thường trong định lượng gulcose đều báo hiệu vấn đề sức khỏe, mọi người cần đi khám với bác sĩ để tìm nguyên nhân và điều trị.

@@ -1,0 +1,88 @@
+# doc_id = health_disease_284
+# url = https://tamanhhospital.vn/ung-thu-vu-bo-ba-am-tinh/
+# date = 13/01/2024
+Ung thư vú bộ 3 âm tính (TNBC): Dấu hiệu, chẩn đoán và phòng ngừa
+Ung thư vú bộ ba âm tính (Triple-Negative Breast Cancer – TNBC) là loại ung thư vú không có biểu hiện thụ thể hormone, chiếm 10%-15% trong tổng số trường hợp ung thư vú. Loại ung thư này phát triển nhanh, tỷ lệ tái phát cao hơn các loại ung thư vú khác. Do thiếu các thụ thể hormone nên bệnh có rất ít lựa chọn điều trị.
+Tuy nhiên, phát hiện, chẩn đoán và điều trị sớm giúp nâng tiên lượng sống sau 5 năm lên 77%. Vậy ung thư vú bộ ba âm tính (TNBC) là gì? Dấu hiệu, chẩn đoán và phòng ngừa ra sao? Bài viết sau đây của Thạc sĩ, bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM sẽ giúp giải đáp những thắc mắc trên.
+Mục lụcUng thư vú bộ 3 âm tính (TNBC) là gì?Dấu hiệu ung thư vú bộ 3 âm tínhNguyên nhân ung thư vú bộ 3 âm tính và đối tượng nguy cơUng thư vú bộ 3 âm tính (TNBC) có nguy hiểm không?Các giai đoạn ung thư vú bộ 3 âm tínhChẩn đoán ung thư vú bộ 3 âm tínhPhương pháp điều trị ung thư vú bộ 3 âm tính1. Phẫu thuật2. Hóa trị3. Xạ trị sau mổ4. Liệu pháp miễn dịchTác dụng phụ của điều trị TNBCMột số câu hỏi thường gặp về ung thư vú bộ 3 âm tính1. Mặc áo ngực thường xuyên có thể là nguyên nhân mắc TNBC?2. Nam giới có bị ung thư vú bộ 3 âm tính không?3. Độ tuổi nguy cơ mắc TNBC là bao nhiêu?Ung thư vú bộ 3 âm tính (TNBC) là gì?
+Ung thư vú bộ 3 âm tính (Triple-Negative Breast Cancer – TNBC) là một loại ung thư vú không có thụ thể estrogen hoặc progesterone và không tạo ra bất kỳ hoặc nhiều thụ thể yếu tố tăng trưởng biểu bì 2 ở người (Her2). Vì TNBC âm tính với ba xét nghiệm này nên được gọi là ung thư vú bộ ba âm tính.
+Người mắc ung thư vú có biểu hiện thụ thể Her2, estrogen hoặc progesterone sẽ có nhiều lựa chọn điều trị như liệu pháp điều trị bằng thuốc ức chế hormone và thuốc sinh học trên thụ thể Her2.
+Người mắc ung thư vú bộ ba âm tính (TNBC) sẽ ít lựa chọn điều trị. Tuy nhiên, dù các phương pháp điều trị còn hạn chế nhưng vẫn có những phương pháp điều trị thành công cho TNBC.
+TNBC có thể di căn đến các vùng khác của cơ thể như gan, phổi, xương và não. Bướu bắt đầu di căn khi các tế bào ung thư tách ra khỏi khối u và di chuyển đến mạch máu hoặc hạch bạch huyết và các vùng khác của cơ thể. (1)
+Dấu hiệu ung thư vú bộ 3 âm tính
+Các triệu chứng của TNBC tương tự như triệu chứng của các loại ung thư vú khác. Có thể xuất hiện một số triệu chứng hoặc không có triệu chứng nào. Triệu chứng phổ biến nhất là có khối u hoặc mảng cứng ở vú. Các triệu chứng khác gồm:
+Vú đỏ, sưng, nóng hoặc rỗ (vết da cam);
+Đau vú;
+Thay đổi kích thước hoặc hình dạng vú;
+Chất dịch màu nâu đỏ chảy ra từ núm vú;
+Da núm vú bong tróc. (2)
+Nguyên nhân ung thư vú bộ 3 âm tính và đối tượng nguy cơ
+Nguyên nhân của TNBC có thể liên quan đến đột biến gen BRCA1. Một nghiên cứu năm 2022 cho thấy, 85% số người bệnh ung thư vú có đột biến gen BRCA1 đều mắc TNBC.
+Gen BRCA1 bảo vệ cơ thể khỏi nguy cơ ung thư. Khi gen không hoạt động bình thường có thể dẫn đến những thay đổi di truyền khác liên quan đến ung thư vú và ung thư buồng trứng.
+Có nhiều yếu tố nguy cơ liên quan đến TNBC. Những yếu tố này có thể làm tăng khả năng phát triển TNBC nhưng không gây TNBC. Các yếu tố gồm:
+Tuổi: Ung thư vú có xu hướng xảy ra ở người trên 60 tuổi, tuy nhiên TNBC thường gặp ở người dưới 50 tuổi.
+Giới tính: Phụ nữ có nhiều khả năng phát triển TNBC hơn nam giới
+Tiền sử gia đình: Nguy cơ mắc bệnh cao hơn nếu có tiền sử gia đình mắc bệnh ung thư vú.
+Tại Hoa Kỳ, người da đen và gốc Tây Ban Nha có khả năng cao được chẩn đoán mắc TNBC hơn người châu Á, người da trắng và điều này cũng không rõ lý do.
+TNBC là loại ung thư phát triển nhanh, tỷ lệ tái phát cao, triệu chứng phổ biến nhất là có khối u hoặc mảng cứng ở vú
+Ung thư vú bộ 3 âm tính (TNBC) có nguy hiểm không?
+Tiên lượng TNBC dựa trên các yếu tố gồm đặc điểm của khối u, giai đoạn chẩn đoán, tuổi mắc bệnh, sức khỏe tổng thể, các tình trạng khác mà người bệnh mắc phải và phương pháp điều trị được khuyến cáo.
+Tiên lượng sống không cho biết người bệnh sẽ sống bao lâu sau khi được chẩn đoán ung thư, nhưng giúp cung cấp một bức tranh tổng thể về sự thành công của việc điều trị đối với loại bệnh và giai đoạn ung thư.
+Tiên lượng sống dựa trên kết quả của người mắc ung thư tương tự và được chẩn đoán mắc bệnh ung thư ở cùng giai đoạn, cho biết tỷ lệ phần trăm người còn sống sau một khoảng thời gian nhất định khi đã được chẩn đoán. (Tỷ lệ ổn định bệnh sau 5 hoặc 10 năm)
+Viện Ung thư Quốc gia Mỹ (NCI) lưu giữ một cơ sở dữ liệu cung cấp số liệu thống kê về tiên lượng sống của các loại ung thư khác nhau. Tiên lượng sống tương đối sau 5 năm của nhóm TNBC với những người được chẩn đoán từ năm 2012 – 2018 như sau:
+Ung thư giai đoạn sớm khu trú tại chỗ: 91%;
+Ung thư cho di căn hạch vùng: 66%;
+Di căn xa: 12%;
+Tất cả các giai đoạn kết hợp: 77%.
+Cần lưu ý, tiên lượng sống tương đối này là từ những người mắc TNBC 5 năm trước. Phương pháp điều trị liên tục thay đổi, tiên lượng sống cũng có thể thay đổi theo thời gian và ngày một tốt hơn. Một điều quan trọng khác cần lưu ý là tiên lượng sống chỉ phản ánh cho người được chẩn đoán lần đầu, không tính ở người bệnh tiến triển nặng hay tái phát lại. (3)
+Các giai đoạn ung thư vú bộ 3 âm tính
+TNBC và các loại ung thư vú khác được phân loại theo cách tương tự nhau, vẫn sử dụng thang số từ 0 – 4. Số càng cao thì ung thư càng tiến triển.
+Giai đoạn 0: Giai đoạn đầu tiên của TNBC cho thấy các tế bào ung thư chưa lan rộng. Các tế bào ung thư nằm trong thùy vú hoặc ống dẫn sữa.
+Giai đoạn I: Các tế bào ung thư đã lan rộng nhưng chỉ đến một hạch bạch huyết gần vú.
+Giai đoạn II: Ung thư vú giai đoạn 2 là những ung thư có kích thước vừa phải, vẫn còn ở các hạch bạch huyết và vùng nách.
+Giai đoạn III: TNBC được xác định là giai đoạn 3 khi đã tiến triển và lan rộng qua vú nhưng tế bào ung thư chưa được tìm thấy ở các cơ quan khác.
+Giai đoạn IV: Giai đoạn ung thư vú tiến triển nhất và cho thấy ung thư đã lan sang các cơ quan khác trong cơ thể.
+Chẩn đoán ung thư vú bộ 3 âm tính
+Xét nghiệm chẩn đoán TNBC cũng tương tự các loại ung thư vú khác. Sau khi phát hiện khối u ở vú, bác sĩ sẽ yêu cầu xét nghiệm bổ sung gồm: chụp nhũ ảnh (X-quang tuyến vú), siêu âm hoặc chụp cộng hưởng từ vú (MRI).
+Nếu sang thương được chỉ định sinh thiết, bác sĩ sẽ lấy một mẫu mô bướu bằng kim và gửi đi phân tích giải phẫu bệnh.
+Trường hợp sinh thiết cho kết quả dương tính với ung thư vú, xét nghiệm sinh học bướu bổ sung sẽ được thực hiện để xem xét các thụ thể tế bào, nhằm xác định xem ung thư có phải TNBC hay không. Xét nghiệm hóa mô miễn dịch ER, PR, Her2, Ki67 được thực hiện. Nếu xét nghiệm ER, PR và Her2 cho kết quả âm tính thì đó là ung thư TNBC.
+Ngoài ra, xét nghiệm di truyền cũng được thực hiện nhằm chẩn đoán ung thư vú bộ ba âm tính. Khuyến cáo hiện nay của Mạng lưới Ung thư Toàn diện Quốc gia Mỹ (NCCN), người có nguy cơ cao mắc ung thư vú nên xét nghiệm đột biến gen BRCA1 và BRCA2.
+Xét nghiệm di truyền không chẩn đoán ung thư vú TNBC hoặc ung thư vú khác, mà chỉ cung cấp cái nhìn rõ hơn về nguy cơ phát triển ung thư vú của một người. Thông tin này có thể hỗ trợ người bệnh và bác sĩ đưa ra quyết định về tình trạng sức khỏe và sàng lọc ung thư trên vú còn lại.
+Phương pháp điều trị ung thư vú bộ 3 âm tính
+TNBC được điều trị không giống với các loại ung thư khác. Vì không có cơ quan thụ cảm hormone nên một số loại thuốc không phải phương pháp điều trị hiệu quả. Do đó, bác sĩ chủ yếu sử dụng hóa trị, phẫu thuật và xạ trị để điều trị TNBC.
+1. Phẫu thuật
+Ở ung thư vú giai đoạn sớm, phẫu thuật được thực hiện sau khi hóa trị tiền phẫu cho bướu to trên 2cm hoặc bệnh nhân có di căn hạch nách.
+Phẫu thuật được sử dụng để cắt bỏ khối u ung thư vú hoặc cắt bỏ toàn bộ vú. Phẫu thuật cắt bỏ khối u cũng sẽ loại bỏ bất kỳ hạch bạch huyết gần đó để xem ung thư có lan rộng hay không (sinh thiết hạch gác cửa).
+Trường hợp ung thư tiến triển nhanh hơn thì tiến hành phẫu thuật sau khi hóa trị tiền phẫu, cắt bỏ vú sẽ loại bỏ tất cả các mô vú và các hạch bạch huyết gần đó. Đây là một thủ tục xâm lấn. (4)
+Phẫu thuật được sử dụng để cắt bỏ khối u ung thư vú hoặc cắt bỏ toàn bộ vú
+2. Hóa trị
+Hóa trị TNBC có thể được thực hiện trước hoặc sau phẫu thuật hoặc cả hai. Hóa trị thực hiện trước phẫu thuật nhằm thu nhỏ khối u và để dễ dàng loại bỏ. Hóa trị được sử dụng sau phẫu thuật nhằm mục đích loại bỏ bất kỳ tế bào ung thư đã lan rộng vi thể khắp cơ thể.
+Hóa trị làm giảm khả năng ung thư tái phát và di căn.
+3. Xạ trị sau mổ
+Sau khi cắt bỏ khối u TNBC, quá trình điều trị bằng bức xạ sẽ bắt đầu. Thủ tục này mất khoảng 20 phút mỗi ngày và được thực hiện từ 4 – 5 ngày/tuần trong 3 – 6 tuần. Bác sĩ sử dụng bức xạ để loại bỏ những tế bào ung thư còn sót lại.
+Xạ trị phải thực hiện sau khi chấm dứt hóa trị hỗ trợ.
+Bên cạnh đó, các phương pháp điều trị TNBC đang phát triển và liên tục cập nhật những tiến bộ mới nhất gồm:
+4. Liệu pháp miễn dịch
+Liệu pháp miễn dịch đã được chứng minh là phương pháp điều trị mới và hiệu quả đối với TNBC. Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt hai loại Tecentriq (atezolizumab) và Keytruda (pembrolizumab) để điều trị TNBC, gồm:
+Thuốc ức chế Poly-ADP ribose polymerase (PARP): Nhóm thuốc góp phần gây chết tế bào ở các tế bào khối u được phát hiện có mang đột biến gen BRCA. Ví dụ như Lynparza (olaparib), Talzenna (talazoparib) và veliparib.
+Thuốc ức chế PI3K: Một ví dụ về nhóm thuốc này là buparlisib, mặc dù nhà sản xuất Novartis đã kết thúc các thử nghiệm lâm sàng để điều trị ung thư vú bằng loại thuốc nói trên.
+Các phương pháp điều trị liên tục được phát triển và thử nghiệm lâm sàng. Tương lai sẽ là sự kết hợp các phương pháp điều trị để có hiệu quả nhất.
+Ung thư vú âm tính bộ 3 chủ yếu gặp ở phụ nữ dưới 40 tuổi, nam giới cũng có thể gặp nhưng hiếm
+Tác dụng phụ của điều trị TNBC
+Điều trị TNBC sẽ có một số tác dụng phụ. Những tác dụng phụ này sẽ khác nhau ở mỗi người, gồm:
+Rụng tóc;
+Mệt mỏi;
+Màu da thay đổi;
+Buồn nôn và ói mửa;
+Phù bạch huyết (sưng).
+Bất cứ ai đã được chẩn đoán mắc TNBC đều cần một hệ thống hỗ trợ gồm gia đình, bạn bè hoặc nhân viên xã hội hướng dẫn bệnh nhân đến các nguồn lực và hỗ trợ của cộng đồng. Đừng ngần ngại liên hệ để tìm các nguồn lực trong khu vực hỗ trợ những người mắc bệnh ung thư vú. Bạn có thể tham gia CLB Bệnh nhân Ung thư vú, BVĐK Tâm Anh TP.HCM.
+Một số câu hỏi thường gặp về ung thư vú bộ 3 âm tính
+1. Mặc áo ngực thường xuyên có thể là nguyên nhân mắc TNBC?
+Không có nghiên cứu đáng tin cậy nào cho thấy mối liên hệ giữa việc mặc hoặc không mặc áo ngực là nguyên nhân gây TNBC.
+2. Nam giới có bị ung thư vú bộ 3 âm tính không?
+Ung thư vú âm tính bộ 3 chủ yếu gặp ở phụ nữ dưới 40 tuổi. Nam giới cũng có thể bị ung thư vú bộ 3 âm tính nhưng trường hợp này rất hiếm.
+3. Độ tuổi nguy cơ mắc TNBC là bao nhiêu?
+Phụ nữ dưới 40 tuổi có nguy cơ mắc ung thư vú bộ 3 âm tính. Không giống các loại ung thư vú xâm lấn khác, TNBC có xu hướng phát triển và lan rộng nhanh hơn, ít lựa chọn điều trị và tiên lượng thường xấu hơn.
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM với đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm trong việc thăm khám, chẩn đoán, tư vấn, điều trị chuyên sâu tất cả các vấn đề liên quan đến tuyến vú nói chung (khối u lành tính, bất thường bẩm sinh, vú sa trễ, vú phì đại…) và ung thư vú nói riêng.
+Ngoài ra, bệnh viện còn trang bị các máy móc, trang thiết bị hiện đại từ các nước Âu – Mỹ nhằm chẩn đoán bệnh chính xác nhất như máy siêu âm đàn hồi, máy chụp nhũ ảnh 3D, máy chụp cộng hưởng từ… giúp tất cả người bệnh cảm thấy an tâm và hài lòng khi đến khám và điều trị tại Bệnh viện Tâm Anh TP.HCM.
+Bài viết đã cung cấp những thông tin về ung thư vú bộ 3 âm tính (TNBC) là gì? Dấu hiệu, chẩn đoán và điều trị ra sao? Loại ung thư vú này thường ác tính cao, khó điều trị và khả năng tái phát cao. Tuy nhiên, vẫn có một số phương pháp điều trị hiệu quả nếu ung thư được chẩn đoán ở giai đoạn sớm. Do đó, nên tầm soát và kiểm tra sức khỏe để kịp thời phát hiện những bất thường ở tuyến vú.

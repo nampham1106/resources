@@ -1,0 +1,108 @@
+# doc_id = health_disease_350
+# url = https://tamanhhospital.vn/ngo-doc-nam/
+# date = 14/08/2023
+Ngộ độc nấm: Triệu chứng, nguyên nhân, chẩn đoán và điều trị
+Với hơn 5.000 loại nấm hiện nay trên thế giới, chỉ có 3% trong số đó có khả năng gây chết người (1). Tuy số lượng ca ngộ độc nấm ít hơn so với các loại ngộ độc khác nhưng tỷ lệ tử vong lại cao hơn rất nhiều. Biểu hiện lâm sàng của ngộ độc nấm rất đa dạng, thường gặp nhất là viêm dạ dày ruột, suy gan, suy thận, biến chứng thần kinh và tán huyết. Vậy ngộ độc nấm là gì? Triệu chứng, nguyên nhân, chẩn đoán và điều trị ra sao?
+Mục lụcNgộ độc nấm là gì?Hội chứng ngộ độc nấmNhóm nấm độc có triệu chứng cấp tính (<6 giờ sau ăn, ít nguy hiểm)Nhóm nấm độc có triệu chứng khởi phát muộn (>6 giờ sau ăn, nguy hiểm nhiều hơn)Các biểu hiện hiếm gặp:Nguyên nhân gây ngộ độc nấmChẩn đoán ngộ độc nấmHỏi bệnh: giúp xác định loại nấm đã ăn cũng như hướng dẫn điều trị.Lâm sàngCận lâm sàngChẩn đoán phân biệtCách xử trí khi có dấu hiệu ngộ độc nấmCách điều trị ngộ độc nấm như thế nào?Cách phòng ngừa ngộ độc nấmMột số dấu hiệu nhận biết nấm độc thường gặpNgộ độc nấm là gì?
+Ngộ độc nấm là tình trạng cơ thể xuất hiện những biểu hiện bất thường sau khi ăn nhầm nấm độc, từ nhẹ như rối loạn hệ tiêu hóa đến nặng như suy gan, suy thận và để lại di chứng thần kinh. Tùy thuộc vào loại nấm, độc tố và liều lượng cơ thể dung nạp mà các biểu hiện sẽ khác nhau. (2)
+Hội chứng ngộ độc nấm
+Gần tới 80% trường hợp không xác định được loại nấm đã ăn. Vì vậy, bác sĩ phải dựa vào dấu hiệu, triệu chứng để hỗ trợ chẩn đoán lâm sàng và điều trị.
+Có 12 nhóm độc tố nấm đã được tìm thấy ở nhiều loại nấm khác nhau, biểu hiện qua 14 hội chứng lâm sàng. Nhóm nấm chỉ gây độc cấp tính (< 6 giờ sau khi ăn) ít khi đe dọa đến tính mạng. Nhóm nấm gây ra các triệu chứng muộn (sau khi ăn 6 giờ) có độc tính nguy hiểm và có khả năng gây chết người. Tuy nhiên, các triệu chứng ban đầu không loại trừ khả năng ăn phải nấm độc nguy hiểm, đặc biệt khi ăn nhiều loại nấm cùng lúc.
+Nhóm nấm độc có triệu chứng cấp tính (<6 giờ sau ăn, ít nguy hiểm)
+Viêm dạ dày ruột cấp: thường xảy ra trong vòng 1-3 giờ, bao gồm buồn nôn, nôn, đau quặn bụng và tiêu chảy.
+Ảo giác: xuất hiện trong vòng 30 phút đến 2 giờ sau ăn do nấm có chứa psilocybin và psilocin (còn được gọi là “nấm ma thuật”), gây lo lắng, hoảng sợ, nghi ngờ, hoang tưởng, nhịp tim nhanh nhẹ, đồng tử giãn.
+Kích thích và ức chế thần kinh trung ương: gây ra bởi muscimol và axit ibotenic tập trung ở mũ của Amanita muscaria , Amanita pantherina và các loài nấm tương tự khác. Muscimol là một chất ức chế hệ thần kinh trung ương. Ngược lại, axit ibotenic có tác dụng kích thích. Các dấu hiệu lâm sàng thường xảy ra trong vòng 30 phút đến 3 giờ sau ăn, gồm:
+Buồn ngủ, hôn mê
+Ảo giác
+Chóng mặt
+Chán chường
+Hành vi kỳ lạ
+Co giật (chủ yếu ở trẻ em)
+Tiết nước bọt
+Buồn nôn, nôn, tiêu chảy và đau quặn bụng.
+Các độc tố axit ibotenic và muscimol tan trong nước. Bóc lớp ngoài của nấm, luộc sơ nấm và đổ bỏ nước có thể khử độc nấm trước khi ăn.
+Nấm độc trắng hình nón có độc tính rất cao (tên khoa học: Amanita virosa)
+Ngộ độc cholinergic: do ăn phải độc tố muscarine có trong nhiều loài nấm, gây nhịp tim chậm, toát mồ hôi, tăng tiết nước bọt, chảy nước mắt, co đồng tử, co thắt phế quản và tiểu không tự chủ. Không giống như ngộ độc cholinergic khác (ví dụ ngộ độc thuốc trừ sâu Phospho hữu cơ), ngộ độc muscarine thường không đe dọa đến tính mạng và thường chỉ tồn tại trong thời gian ngắn trừ khi ăn một lượng lớn nấm.
+Phản ứng giống như disulfiram: ăn nấm có chứa coprine, sau đó uống rượu ethanol, dẫn đến phản ứng giống như disulfiram. Coprinus atramentarius, nấm “mũ mực” và các loài có liên quan thường dẫn đến hội chứng này. Coprine ổn định với nhiệt, vì vậy đun sôi hoặc nấu nấm không ngăn được độc tính. Triệu chứng lâm sàng thường xảy ra trong vòng 2 giờ sau khi uống rượu ethanol, bao gồm:
+Đau đầu
+Đỏ bừng mặt, cổ và thân
+Buồn nôn và nôn
+Nhịp tim nhanh
+Đau ngực
+Khó thở
+Sợ hãi
+Hiếm khi: hạ huyết áp, rối loạn nhịp tim, lú lẫn và/hoặc hôn mê.
+Các dấu hiệu trên tự giới hạn và thường hết sau 3-6 giờ, hiếm khi kéo dài đến 24 giờ.
+Tiêu cơ vân cấp tính: một số loài nấm thuộc họ Russula có thể gây ra tiêu cơ vân cấp tính trong vòng vài giờ sau khi ăn phải.
+Nhóm nấm độc có triệu chứng khởi phát muộn (>6 giờ sau ăn, nguy hiểm nhiều hơn)
+Viêm dạ dày ruột cấp và suy thận muộn: Nấm có chứa allen norleucine, như Amanita smithiana có thể gây suy thận cấp tính. Allenic norleucine là một chất độc bền nhiệt (tức là nấu chín không ngăn được độc tính) gây hoại tử ống thận. Những loại nấm này cũng gây viêm dạ dày ruột, điển hình là trong vòng 2-6 (tối đa 12) giờ sau ăn, còn độc tính trên thận thường xuất hiện từ 12-24 giờ. Biểu hiện ban đầu của suy thận là giảm lượng nước tiểu, thường xuất hiện từ 3-6 ngày sau ăn.
+Viêm dạ dày ruột và nhiễm độc gan chậm: Xuất hiện nôn và tiêu chảy khoảng 6-12 giờ sau ăn nấm, sau đó nhiễm độc gan tiến triển là đặc điểm của nấm chứa amatoxin. Khoảng 2 ngày sau, suy gan tiến triển xảy ra, gây rối loạn đông máu, nhiễm toan, bệnh não gan (có thể co giật), xuất huyết, suy thận và trong vòng 4-7 ngày có thể tử vong.
+Suy thận muộn: Các chất độc orellanine, orellinine, cortinarin A và cortinarin B, có liên quan đến suy thận cấp xảy ra từ 3-20 ngày sau ăn nấm. Các triệu chứng ban đầu không đặc hiệu và thường bao gồm đau đầu, buồn nôn, nôn, tiêu chảy, đau bụng, đau cơ và chóng mặt xảy ra trong vòng 4 ngày sau ăn nấm. Sau đó, viêm thận kẽ dẫn đến suy thận biểu hiện qua đau vùng thắt lưng, thiểu niệu hoặc đa niệu, đái mủ, đái máu và/hoặc protein niệu.
+Tiêu cơ vân chậm: Nấm Tricholoma equestre, còn được gọi là “người đàn ông trên lưng ngựa”, có thể gây tiêu cơ vân khi ăn với số lượng lớn, xảy ra trong 24 – 72 giờ sau ăn, gây mệt mỏi, buồn nôn, đau cơ và yếu cơ; xét nghiệm máu có tăng kali và creatine kinase.
+Các chất độc orellanine, orellinine, cortinarin A và cortinarin B, có liên quan đến suy thận cấp xảy ra từ 3 – 20 ngày sau ăn nấm
+Các biểu hiện hiếm gặp:
+Đau đỏ da:
+Nấm có chứa axit acromelic có thể gây các biểu hiện sau:
+Các bất thường về cảm giác, bao gồm dị cảm ở đầu chi, mất ngủ.
+Nổi ban đỏ
+Phù tay chân
+Các triệu chứng thường xuất hiện sau 24 giờ và có thể tồn tại trong vài tháng.
+Nấm hương: có thể gây viêm da tiếp xúc dị ứng, gây ngứa, ban đỏ.
+Thiếu máu tán huyết qua trung gian miễn dịch: nấm Paxillus involutus có thể gây thiếu máu tán huyết tự miễn dịch, huyết sắc tố niệu và tổn thương thận cấp tính.
+Viêm phế quản phế nang dị ứng: hít phải các bào tử từ nấm bông (loài Lycoperdon) gây viêm phổi lan tỏa được gọi là Lycoperdonosis, có thể gây suy hô hấp.
+Nguyên nhân gây ngộ độc nấm
+Nguyên nhân gây ngộ độc nấm thường do nạn nhân không xác định được loại nấm dại nào ăn được và loại nào không ăn được, vì vậy tiêu thụ nhầm nấm độc. Rất khó để phân biệt loại nấm nào độc vì ngày càng nhiều chủng loại nấm mới xuất hiện. Theo kinh nghiệm dân gian thì đa số các loại nấm độc sẽ có màu sắc sặc sỡ, với phần gốc phình to hơn phần thân, tuy nhiên cũng có nhiều loại nấm độc trông rất giống các loại nấm thông thường. Cho nên các loại nấm dại nên xem chúng là nấm độc và chỉ sử dụng khi biết chắc chắn có thể ăn được.
+Rất khó để phân biệt loại nấm nào độc vì ngày càng nhiều chủng loại nấm mới xuất hiện
+Chẩn đoán ngộ độc nấm
+Hỏi bệnh: giúp xác định loại nấm đã ăn cũng như hướng dẫn điều trị.
+Nấm được thu thập ở đâu (cánh đồng, đồng cỏ, dọc theo hoặc dưới gốc cây), hình dáng như thế nào?
+Hái hoặc ăn nhiều loại nấm hay một loại, ăn một bữa hay nhiều bữa?
+Tất cả những người ăn nấm đều bị bệnh hay không ? Những người không ăn nấm có bị bệnh không?
+Bao lâu sau khi ăn nấm thì các triệu chứng bắt đầu?
+Có phải nấm được thu thập và/hoặc ăn để tạo ảo giác không?
+Có uống rượu sau khi ăn nấm không?
+Lâm sàng
+Phân loại ngộ độc dựa trên biểu hiện lâm sàng (hội chứng ngộ độc nấm đã nói ở trên).
+Tham khảo thêm ý kiến của chuyên gia về độc học.
+Cận lâm sàng
+Phát hiện độc tố nấm: có một số bộ test thử độc tố nấm.
+Các xét nghiệm đánh giá mất nước và rối loạn điện giải, chức năng gan thận, đông máu…
+Cách lấy mẫu các loại nấm đã ăn: Nấm nguyên cây được ưu tiên hơn, nhưng có thể nhận dạng trên các bộ phận của nấm, đặc biệt phần mũ. Bảo quản bằng cách bọc nấm trong giấy sáp, đặt vào túi giấy và làm lạnh mẫu. Không nên lưu trữ trong túi nhựa.
+Chẩn đoán phân biệt
+Ngộ độc thức ăn do các nguyên nhân khác: vi khuẩn, độc tố vi khuẩn, dư lượng hóa chất trong thực phẩm…
+Xác định được loại nấm độc người bệnh đã sử dụng sẽ giúp ích rất nhiều cho quá trình chẩn đoán
+Cách xử trí khi có dấu hiệu ngộ độc nấm
+Khi phát hiện người bệnh có biểu hiện ngộ độc nấm, cần liên hệ ngay đến bệnh viện hoặc trung tâm y tế gần nhất để nhận được sự hỗ trợ kịp thời.
+Gây nôn: nếu phát hiện người bệnh ăn nấm độc nhưng còn tỉnh táo, chưa nôn nhiều thì cần cho nạn nhân uống thật nhiều nước và tiến hành gây nôn để loại bỏ chất độc hại ra khỏi cơ thể.
+Bù nước cho cơ thể bằng cách cho người bệnh uống nước thường xuyên và có thể dùng Oresol để bổ sung các chất điện giải.
+Than hoạt tính: cho người bệnh uống than hoạt tính với liều lượng 1 gam/kg trọng lượng cơ thể.
+Tuyệt đối không cho người bệnh uống các loại thuốc có chứa cồn vì cồn làm chất độc ngấm rất nhanh vào máu, tăng hiệu lực của độc tố dẫn đến tình trạng nguy hiểm.
+Nếu còn mẫu nấm hoặc thức ăn chế biến từ nấm nên mang tới cơ sở y tế để các bác sĩ xác định loại nấm. Mỗi chủng nấm sẽ sở hữu loại độc và hàm lượng độc tố khác nhau, vì vậy điều này sẽ hỗ trợ đắc lực cho công tác cấp cứu, giúp việc điều trị trở nên nhanh chóng, thuận tiện và dễ dàng hơn.
+Trường hợp người bệnh hôn mê hoặc co giật: đặt người bệnh nằm nghiêng.
+Trường hợp người bệnh gặp các vấn đề về hô hấp như thở yếu hoặc ngừng thở: tiến hành hô hấp nhân tạo bằng các phương tiện cấp cứu tại chỗ.
+Trường hợp ngộ độc nấm nhưng có biểu hiện muộn, người bệnh cần được đưa đến điều trị tại các cơ sở y tế có phương tiện hồi sức tích cực tốt.
+Người bệnh không nên tự ý rời bệnh viện, kể cả khi các biểu hiện ngộ độc đã hết để các bác sĩ có thể tiếp tục theo dõi và kiểm tra tình trạng sức khỏe, tránh nguy cơ để lại các biến chứng.
+Những bệnh nhân sau đây cần phải nhập viện:
+Bệnh nhân có các triệu chứng muộn sau 6 giờ ăn nấm.
+Bệnh nhân có các triệu chứng ban đầu dưới 3 giờ sau khi ăn nấm và vẫn còn triệu chứng sau 6 giờ mặc dù đã được chăm sóc hỗ trợ hoặc những người ăn nhiều loại nấm cùng lúc.
+Bệnh nhân có triệu chứng tiêu cơ vân, nhiễm độc gan hoặc suy thận.
+Những bệnh nhân hiện tại không có triệu chứng nhưng nghi ngờ ăn phải nấm có chứa amatoxin.
+Bệnh nhân không có triệu chứng nhưng không thể tự theo dõi tại nhà trong 24 giờ.
+Cách điều trị ngộ độc nấm như thế nào?
+Trong trường hợp không thể xác định rõ ràng loại nấm, tất cả các trường hợp ngộ độc nấm đều nghiêm trọng và có khả năng gây tử vong. Một khi bác sĩ chẩn đoán được độc tính của nấm, việc điều trị chủ yếu sẽ giúp hỗ trợ hồi sức cho người bệnh. Hồi sức bằng bù dịch sớm rất quan trọng đối với các hội chứng nhiễm độc gan và thận.
+Nạn nhân có thể được rửa dạ dày khi ăn nấm độc (như amatoxin). Sau 1 giờ kể từ khi ăn phải nấm độc, không nên tiến hành rửa dạ dày cho người bệnh. Sử dụng than hoạt tính sẽ đóng vai trò quan trọng hơn nhiều trong việc hạn chế cơ thể hấp thu các chất độc và được bác sĩ chỉ định cho tất cả các bệnh nhân ngộ độc nấm amatoxin bất kể thời điểm nhập viện. Khi nghi ngờ bị trúng độc amatoxin, người bệnh nên dùng than hoạt tính nhiều lần (2-3 giờ một lần/24-48 giờ) để làm gián đoạn quá trình lưu thông của độc tố. Nói chung, trẻ em và người già dễ bị suy giảm thể tích nội mạch và ngộ độc nấm hơn người trưởng thành khỏe mạnh. (3)
+Bác sĩ có thể kê đơn Benzodiazepine cho người bệnh khi người bệnh xuất hiện dấu hiệu ngộ độc ảnh hưởng đến thần kinh còn Atropine có thể được dùng để điều trị các triệu chứng muscarin nặng (ví dụ, thở khò khè, nhịp tim chậm).
+Methemoglobin huyết do gyromitrin: điều trị bằng xanh methylene (1-2 mg/kg truyền chậm trong 5 phút) nếu methemoglobin trên 20% hoặc gây ra các triệu chứng.
+Phản ứng disulfiram: một số chuyên gia sẽ tiêm fomepizole (15 mg/kg tiêm tĩnh mạch) cho những bệnh nhân có phản ứng disulfiram nghiêm trọng hoặc đe dọa đến tính mạng (nôn mửa nghiêm trọng, dai dẳng; đau ngực hoặc sốc) với tình trạng có ethanol trong huyết thanh sau khi ăn nấm chứa coprine.
+Cách phòng ngừa ngộ độc nấm
+Hiện nay có rất nhiều trường hợp nấm độc có hình dạng và màu sắc giống nấm thường. Vì vậy để phòng ngừa ngộ độc nấm cần: (4)
+Tuyệt đối không tiêu thụ nấm không rõ nguồn gốc xuất xứ. Chỉ nên sử dụng các loại nấm thông dụng đã được kiểm định an toàn.
+Không ăn nấm chưa trưởng thành vì các đặc điểm cấu tạo của nấm còn chưa phát triển hoàn toàn nên không thể xác định rõ loại nấm. Không nên ăn nấm quá già.
+Không nên cho động vật ăn thử, vì sẽ có loại nấm biểu hiện ngộ độc rất muộn từ 20 – 24 giờ sau khi ăn rất nguy hiểm.
+Khi phát hiện người bệnh bị ngộ độc nấm cần phải đưa không chỉ người bị ngộ độc và mà còn tất cả những người cùng ăn chung loại nấm đến khoa cấp cứu ngay để được điều trị và theo dõi kịp thời.
+Nên sơ chế và sử dụng ngay các loại nấm thông dụng để đảm bảo an toàn. Nếu để nấm lâu ngày, khi vi khuẩn xâm nhập làm nấm dễ bị hư và chuyển thành nấm độc.
+Nên sơ chế và sử dụng ngay các loại nấm thông dụng để đảm bảo an toàn
+Một số dấu hiệu nhận biết nấm độc thường gặp
+Tính đến thời điểm hiện tại vẫn chưa có phép thử nào để xác định một loại nấm có thể ăn được hay không, vì vậy tuyệt đối không ăn nấm trừ khi biết chính xác chủng loại và độ an toàn của nấm. Nấm phải được cơ quan có thẩm quyền xác minh nguồn gốc trước khi sử dụng. Chất độc trong các loại nấm rất khác nhau về thành phần hóa học, do đó tác động của chúng khác nhau đáng kể tùy theo chủng loại và phân ngành. Không nên xem nhẹ bất cứ biểu hiện khác thường nào, nếu nghi ngờ mình hoặc những người xung quanh bị ngộ độc nấm thì cần tìm kiếm sự trợ giúp y tế ngay lập tức, tránh để lâu gây nguy hiểm đến tính mạng.
+Khoa Cấp cứu, BVĐK Tâm Anh quy tụ đội ngũ bác sĩ giàu kinh nghiệm xử lý các tình trạng khẩn cấp về sức khỏe 24/7. Với nhiều chuyên môn sâu và nhiều năm kinh nghiệm, các bác sĩ sẽ tiến hành đánh giá, phân loại mức độ và tình trạng bệnh, đồng thời thực hiện các biện pháp cấp cứu thích hợp theo mức độ ưu tiên cấp cứu ngay khi người bệnh được chuyển đến viện. Trang thiết bị hiện đại được nhập khẩu chính hãng từ Âu – Mỹ sẽ hỗ trợ đắc lực để giành lại sự sống cho bệnh nhân.
+Ngay khi nghi ngờ người bệnh có những biểu hiện ngộ độc nấm, cần đưa nạn nhân đến ngay cơ sở y tế hoặc bệnh viện gần nhất để được điều trị kịp thời, giúp người bệnh vượt qua cơn nguy kịch, nhanh chóng hồi phục sức khỏe.

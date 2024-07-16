@@ -1,0 +1,86 @@
+# doc_id = health_disease_119
+# url = https://tamanhhospital.vn/cum-a/
+# date = 26/07/2022
+Cúm A: Triệu chứng, nguyên nhân, chẩn đoán và điều trị
+Cúm A là mội loại cúm mùa, có biểu hiện giống với các loại cúm thông thường nhưng có biến chứng nguy hiểm hơn nếu không được chữa trị kịp thời và đúng cách.
+Mục lụcCúm A là gì?Triệu chứng cúm ANguyên nhân gây cúm AVirus cúm A lây lan như thế nào?Các chủng loại virus cúm ACúm A/H1N1Cúm A/H5N1Cúm A/H3N2Cúm A/H7N9Đối tượng nào dễ bị cúm A?Biến chứng bệnh cúm ACách chẩn đoán cúm AĐiều trị cúm A1. Điều trị tại nhà2. Điều trị tại cơ sở y tếPhòng ngừa cúm ACúm A là gì?
+Cúm A là bệnh nhiễm trùng đường hô hấp cấp tính do các virus cúm mùa gây nên. Các chủng virus cúm A phổ biến là A/H5N1, A/H1N1, A/H3N2, A/H7N9, trong đó, chủng A/H7N9 và A/H5N1 thường lưu hành ở gia cầm, có khả năng lây sang người và tạo thành dịch bệnh.
+Cúm A thường xuất hiện trong các đợt cúm mùa và gây ra đại dịch vì virus cúm A thường xuyên thay đổi và phân nhóm tạo thành chủng mới từ cúm mùa này sang cúm mùa khác. Vì thế, việc tiêm vacxin phòng cúm phải được tiêm nhắc lại mỗi năm để đảm bảo có hiệu quả với chủng cúm mới. Virus cúm A thường lây lan trên động vật như gà, chim, lợn, động vật có vú,… và có thể nhanh chóng lây sang người. (1)
+Triệu chứng cúm A
+Các dấu hiệu của cúm A thường xuất hiện đột ngột và dễ nhận biết như ho, chảy mũi, nghẹt mũi, đau đầu, sốt, mệt mỏi, hắt hơi, đau họng, đau nhức cơ thể. Đôi khi các triệu chứng này tự hết mà không cần điều trị đặc biệt. Tuy nhiên, nếu các triệu chứng kéo dài nhiều ngày mà không cải thiện, bạn cần đến gặp ngay bác sĩ để được chẩn đoán và điều trị kịp thời tránh các biến chứng.
+Bệnh nhân cúm A diễn biến nặng có thể gây nhiễm trùng tai, tiêu chảy, buồn nôn, nôn, ho khan, sốt cao gây co giật, tức ngực, viêm phổi và gây nặng lên các vấn đề về tim mạch. Rất khó phân biệt sốt do cúm A với sốt do nhiễm virus khác, nhưng các trường hợp sốt cao do cúm A thường kéo dài hơn. Đối với những người có hệ miễn dịch yếu như người lớn tuổi, trẻ em, phụ nữ có thai thì cần theo dõi kĩ vì trong một số trường hợp biến chứng của cúm A có thể gây tử vong. (2)
+Nguyên nhân gây cúm A
+Virus cúm A có thể lây truyền trực tiếp trong không khí thông qua đường hô hấp. Khi người bệnh ho, hắt hơi hoặc nói chuyện, các giọt bắn kèm theo virus thoát ra ngoài có thể tiếp cận người khác và lây truyền bệnh bằng việc hít phải hoặc chạm phải đồ vật có virus.
+Ngoài ra, một người có thể bị nhiễm cúm A khi:
+Sử dụng chung vật dụng sinh hoạt với người bị nhiễm bệnh (ly, chén, muỗng, khăn, quần áo,…) hoặc vô tình tiếp xúc với các đồ dùng trong nhà (nắm cửa, bàn, ghế,…) sau đó đưa lên mũi, miệng.
+Tiếp xúc với các động vật có nhiễm cúm như lợn, ngựa, gia cầm,… cũng có thể lây bệnh
+Tập trung nơi đông người như trường học, công viên, nơi công sở,… cũng là điều kiện để virus lây lan nhanh chóng.
+Virus cúm A lây lan qua giọt bắn giữa người với người
+Virus cúm A lây lan như thế nào?
+Cảm cúm là một trong những căn bệnh rất dễ lây lan trực tiếp vì tốc độ phát triển của virus nhanh chóng. Bệnh nhân bị cúm A có thể lây lan sang người khác thông qua dịch tiết đường hô hấp có chứa virus cúm từ khoảng cách xa 2m.
+Các chuyên gia, bác sĩ cho rằng virus cúm A phát tán chủ yếu bởi các phân tử nước khi người bệnh hắt hơi, ho, những giọt nước bắn vào không khí, sau đó vô tình rơi vào miệng, mũi của những người xung quanh. Nếu người bệnh nói chuyện với người đối diện mà không mang khẩu trang, virus cúm cũng dễ dàng thoát ra và bám vào vật chủ khác. Ngoài ra, khi người bệnh ho, hắt hơi, giọt bắn chứa virus có thể bám vào bề mặt các đồ vật và tồn tại đến 48 giờ, khi đó người khác chạm vào các đồ vật đó sẽ bị lây bệnh.
+Các chủng loại virus cúm A
+Cúm A/H1N1
+Cúm A/H1N1 hay từng được gọi là “cúm lợn” bởi các nhà khoa học, nghiên cứu cho rằng chủng này có nguồn gốc từ lợn. Tuy nhiên, chủng virus này kết hợp từ nhiều nguồn gốc: lợn, chim, người. Tuy không gây nguy hiểm như các loại cúm A khác như A/H5N1 hay A/H7N9, nhưng cúm A/H1N1 có thể gây viêm phổi nặng, bội nhiễm, suy đa tạng hoặc thậm chí là tử vong.
+Loại vi-rút này lây lan từ người sang người, giống như cách virus cúm thông thường theo mùa lan truyền. Virus này tạo ra bệnh nhiễm trùng đường hô hấp cấp tính, lây truyền qua nhiều đường, đặc biệt là đường hô hấp. Người mắc bệnh sẽ có khả năng lây truyền cho người khác từ trước 1 ngày đến 7 ngày sau khi có triệu chứng bệnh. Thời gian bác sĩ khuyến cáo điều trị là trong vòng 5 ngày sau khi khởi phát triệu chứng.
+Cúm A/H1N1 rất nguy hiểm do khả năng lây lan nhanh và mạnh
+Cúm A/H5N1
+Cúm A/H5N1 hay còn gọi là cúm gia cầm bởi virus kí sinh trên các tế bào ruột ở gia cầm như gà, vịt, các loài chim di cư. Kể từ năm 1997, các đợt bùng phát dịch cúm này đã gây nhiễm và làm giết chết hàng triệu gia cầm. Ngoài ra, loại cúm này còn gây chú ý khi biến chủng có thể tự thay đổi và gây nên đại dịch toàn cầu. Tổ chức Y tế thế giới (WHO) đã cảnh cáo mầm bệnh đang tiếp tục gia tăng ở các khu vực lưu hành và gây tổn hại nghiêm trọng đến nền kinh tế cũng như sức khỏe con người.
+Virus cúm A/H5N1 lây nhiễm thông qua việc tiếp xúc giữa người với bất kỳ bộ phận nào của gia cầm (bao gồm phân và lông). Sự lây truyền có thể thông qua tiếp xúc trực tiếp như lây từ người sang người; tiếp xúc với gia cầm hoặc các đồ vật có dính phân của gia cầm bị nhiễm bệnh; ăn thịt các gia cầm bị bệnh không được nấu chín kỹ; chăn nuôi, vận chuyển, giết mổ các loại gia cầm bị bệnh không đảm bảo vệ sinh.
+Cúm A/H5N1 đã giết chết hàng triệu gia cầm gây khó khăn cho nền kinh tế thế giới
+Cúm A/H3N2
+Cúm A/H3N2 hiện là một rong bốn loại cúm màu nguy hiểm nhất, người bệnh sẽ không nguy hiểm đến tính mạng vì cúm nhưng sẽ tử vong vì biến chứng của cúm. H3N2 là một chủng phân nhóm của virus cúm A, có thể lây nhiễm cho chim, lợn và người. Khi lây nhiễm virus này thường thay đổi thành nhiều chủng khác nhau.
+Virus cúm A/H3N2 là chủng khá phổ biến, thường xảy ra ở các đợt cúm mùa quanh năm. Tuy nhiên, theo thống kê, dịch cúm thường lan rộng vào mùa thu và đạt đỉnh điểm ở mùa đông. Loại virus này cũng có khả năng lây nhiễm cao và truyền trực tiếp rất nhanh từ người sang người thông qua đường hô hấp khi tiếp xúc. Cúm A/H3N2 thường ủ bệnh 2 ngày và có các triệu chứng tương tự với các loại cúm khác. Khi có triệu chứng phổ biến như ho, hắt hơi, chảy mũi,… không nên chủ quan mà hãy đến cơ sở y tế để khám và chẩn đoán bệnh chính xác nhất.
+Cúm mùa A/H3N2 hiện vẫn là mối đe dọa toàn cầu, người dân cần chủ động phòng tránh
+Cúm A/H7N9
+Virus H7N9 được xem là một chủng của virus cúm A, thường tìm thấy ở gia cầm, chim và thủy cầm. Nguồn truyền nhiễm chính của virus cúm A/H7N9 được xác định là ở các loại gia cầm sống gần người, một số nghiên cứu khác chỉ ra rằng nó cũng tồn tại trên các loài chim hoang dã và thủy cầm. Đặc biệt của loại cúm này là rất ít biểu hiện bệnh ở các loài gia cầm, nên cơ hội phát hiện và xử lý rất thấp, làm tăng khả năng lây nhiễm rộng hơn.
+Chủng A/H7N9 được nhận định là chủng có độc lực cao, tiềm ẩn nguy cơ gây đại dịch và nên được theo dõi chặt chẽ. Tương tự các loại cúm A khác, cúm A/H7N9 thường ủ bệnh trong 1-4 ngày và thời gian lây truyền bệnh từ 1-2 ngày trước khi khởi phát triệu chứng và 3-5 ngày sau khi có triệu chứng.
+Virus A/H7N9 gây bệnh ở nhiều động vật khác nhau và có khả năng tồn tại, phát triển trong thịt, trứng của các loại gia cầm, thủy cầm chưa được nấu chín, các loại chất thải, nhất là chất thải lòng. Chủng này chủ yếu lây cho gia cầm là chính, nhưng cũng có thể lây cho người.
+Bệnh cúm lây nhiễm thường là từ gia cầm sang người do tiếp xúc và sử dụng sản phẩm gia cầm nhiễm bệnh như thịt, phủ tạng, trứng của gà nhiễm bệnh, hoặc lây gián tiếp qua không khí, hay sử dụng thức ăn, nước, dụng cụ vận chuyển, dụng cụ giết mổ, chế biến thực phẩm, quần áo bị ô nhiễm virus từ dịch hô hấp, phân của gà bị nhiễm. Một vài trường hợp lây từ người sang người vẫn đang được nghiên cứu làm rõ.
+Virus A/H7N9 lây truyền trực tiếp do người ăn thịt, phủ tạng, trứng của gà nhiễm bệnh, hoặc lây gián tiếp qua không khí
+Đối tượng nào dễ bị cúm A?
+Đối tượng nào cũng có thể mắc cúm A, tuy nhiên một số trường hợp sau cần chú ý có nguy cơ mắc cao và diễn tiến nặng hơn:
+Trẻ em < 5 tuổi, trong đó trẻ em <2 tuổi có nguy cơ nhiễm cao nhất
+Người lớn >65 tuổi
+Những người có bệnh mãn tính: Tiểu đường, tim phổi, suy thận, suy gan và suy giảm miễn dịch
+Phụ nữ mang thai, đặc biệt trong 3 tháng giữa hoặc cuối thai kỳ
+Bệnh nhân suy giảm khả năng nhận thức, rối loạn thần kinh, động kinh,…
+Những người làm việc ở môi trường đông người như trường học, bệnh viện, công sở có nguy cơ nhiễm bệnh cao.
+>> Xem thêm: Cúm A ở trẻ: Nguyên nhân, triệu chứng, điều trị và cách phòng ngừa
+Biến chứng bệnh cúm A
+Cúm A thường tiến triển không quá nặng, tuy nhiên đối với những người mắc bệnh lý về tim mạch, hô hấp hoặc các trẻ nhỏ và người lớn tuổi thường sẽ trở nặng, có thể gây tử vong.
+Biến chứng viêm phổi thường gặp ở đối tượng trẻ em, người trên 65 tuổi, người mắc bệnh mạn tính, bệnh mạch vành, suy tim, đái tháo đường,…
+Ngoài ra, bệnh còn gây viêm tai giữa, viêm xoang, nhiễm trùng đường tiết niệu và một số triệu chứng như sốt cao, khó thở, phủ phổi, tím tái. Với phụ nữ mang thai, nếu mắc cúm A có thể gây biến chứng viêm phổi và sẩy thai. Biến chứng nguy hiểm nhất của cúm A là phù não và tổn thương gan trầm trọng, tỷ lệ tử vong cao.
+Cách chẩn đoán cúm A
+Các phương pháp xét nghiệm chẩn đoán cúm A thường là nuôi cấy virus, chẩn đoán huyết thanh học, xét nghiệm nhanh phát hiện kháng nguyên, phản ứng chuỗi men RT-PCR, miễn dịch huỳnh quang.
+RT-PCR: Đây là phương pháp khá chuẩn xác để kiểm tra và phân loại virus cúm. Đối với phương pháp này trong vòng 4-6 giờ cho kết quả chính xác nhất. Hiện tại thường dùng xét này để chẩn đoán nhiễm cúm .
+Miễn dịch huỳnh quang: Có hiệu quả thấp hơn RT-PCR nhưng cho kết quả nhanh chỉ sau vài giờ nhận mẫu bệnh phẩm.
+Xét nghiệm nhanh (RIDTs): Có kết quả sau 10-15 phút nhưng không chính xác như các loại xét nghiệm cúm khác, do đó khi xét nghiệm cho kết quả âm tính, người bệnh vẫn có thể bị cúm. Thêm nữa, hiệu suất xét nghiệm còn tùy thuộc vào độ tuổi, thời gian mắc bệnh và chủng virus.
+Phân lập virus: Tuy không phải xét nghiệm sàng lọc, nhưng trong thời gian bệnh cúm hoạt động nên thực hiện trên những mẫu bệnh phẩm có được, thường ít làm trên lâm sàng vì đòi hỏi phòng vi sinh hiện đại.
+Xét nghiệm huyết thanh: Phục vụ cho mục đích nghiên cứu, thường không phổ biến để phát hiện virus cúm ở người nhằm điều trị bệnh.
+Độ nhạy và đặc hiệu của các xét nghiệm còn tùy thuộc vào phòng xét nghiệm, loại xét nghiệm sử dụng, loại bệnh phẩm và chất lượng bệnh phẩm. Bên cạnh các xét nghiệm đó, việc chẩn đoán bệnh còn dựa trên các dấu hiệu lâm sàng và đặc điểm dịch tễ học.
+>> Xem thêm: Test cúm A bằng cách nào?
+Điều trị cúm A
+Đa số các loại cúm A có thể khỏi sau 7-10 ngày nếu điều trị đúng cách. Đối với các trường hợp mắc cúm A, thông thường bác sĩ sẽ chỉ định điều trị tại chỗ, chỉ một số ít bệnh nhân chuyển biến nặng cần phải cấp cứu kịp thời.
+Tùy theo mức độ bệnh, bác sĩ sẽ lựa chọn các phương pháp điều trị cúm A như sau:
+1. Điều trị tại nhà
+Để người bệnh nghỉ ngơi nhiều nhất có thể.
+Uống thuốc hạ sốt theo chỉ định của bác sĩ.
+Uống nhiều nước, ăn uống chế độ hợp lý, bổ sung đầy đủ chất dinh dưỡng, đồ ăn dễ tiêu hóa, hạn chế uống nước lạnh.
+Tắm nước ấm, bận quần áo nhẹ, thông thoáng để giảm nhiệt độ cơ thể.
+Nếu trường hợp sau 7 ngày các triệu chứng vẫn chưa thuyên giảm, đưa bệnh nhân đến cơ sở y tế để cấp cứu kịp thời.
+Trong thời gian đó, người bệnh nên hạn chế ra ngoài những nơi công cộng hoặc tiếp xúc với nhiều người, nếu có thì phải mang khẩu trang y tế.
+2. Điều trị tại cơ sở y tế
+Những trường hợp tiến triển nặng, người nhà cần đưa bệnh nhân đến các cơ sở khám chữa bệnh để kịp thời cấp cứu và điều trị để được theo dõi, xét nghiệm và chỉ định dùng thuốc kháng virus phù hợp.
+Thuốc được chỉ định để điều trị cúm A không biến chứng cho trẻ trên 1 tuổi và người lớn là Tamiflu. Nếu thuốc được dùng trong 48 giờ, thời gian điều trị sẽ rút ngắn còn 1-3 ngày. Các trường hợp biến chứng nặng sẽ được bác sĩ chỉ định điều trị cùng các loại thuốc kháng sinh khác.
+Lưu ý thuốc Tamiflu không phải là thuốc đặc trị chữa cúm A mà chỉ là thuốc hỗ trợ điều trị, do đó hiệu quả tối đa nhất khi sử dụng trong vòng 24 giờ.
+Phòng ngừa cúm A
+Có rất nhiều biện pháp phòng ngừa cúm A cho trẻ em và người lớn, tuy nhiên Bộ Y tế khuyến cáo nên thực hiện những biện pháp sau:
+Khi xuất hiện các triệu chứng nghi ngờ mắc cúm: Nên đến ngay cơ sở y tế để được kiểm tra và chẩn đoán chính xác bệnh. Từ đó, có các biện pháp phòng ngừa lây nhiễm cho những người xung quanh.
+Vệ sinh cá nhân cẩn thận: Thường xuyên rửa tay bằng dung dịch cồn hoặc xà bông tiệt trùng sau khi cầm nắm đồ vật hoặc đến nơi công cộng, hạn chế tiếp xúc người nghi mắc cúm, tránh tập trung nơi đông người trong mùa dịch.
+Vệ sinh nơi ở, nơi làm việc với dung dịch sát khuẩn, mở cửa sổ thông thoáng.
+Tăng cường sức đề kháng bằng việc tập luyện thể dục, chế độ ăn uống, sinh hoạt lành mạnh.
+Tiêm vắc xin cúm đầy đủ, đúng lịch, nhất là các đối tượng có nguy cơ nhiễm cúm cao cần được tiêm phòng trước mùa dịch.
+Tìm hiểu thêm: Vaccine cúm A có tác dụng gì? Vì sao cần phòng cúm A bằng vắc xin?
+Tiêm vắc xin đầy đủ, đúng lịch là biện pháp phòng tránh cúm an toàn nhất
+Bác sĩ Phong cũng khẳng định cúm A là bệnh lây truyền chủ yếu qua đường hô hấp. Do đó, người dân, đặc biệt là trẻ em, phụ nữ mang thai, người lớn tuổi nên hạn chế tập trung nơi đông người, tiếp xúc gần với những người mắc cúm. Ngoài ra, người dân cũng nên thực hiện tiêm vắc xin cúm định kỳ để phòng tránh dịch được hiệu quả hơn.

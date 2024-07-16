@@ -1,0 +1,44 @@
+# doc_id = health_disease_138
+# url = https://tamanhhospital.vn/khang-vaccine-covid-19/
+# date = 09/09/2021
+Hiểu thế nào về kháng vaccine Covid-19? | Bệnh viện Đa khoa Tâm Anh
+BS.CKII Trần Thị Thanh Nga, Giám đốc Trung tâm Xét nghiệm, Bệnh viện Đa khoa Tâm Anh TP.HCM chia sẻ: Các chuyên gia y tế thế giới cho rằng biến thể Mu thậm chí còn dễ lây nhiễm hơn biến thể Delta và có nguy cơ kháng vaccine (vaccine-resistant). Trước nguồn thông tin này, có rất nhiều bàn tán, thậm chí có người còn nghi ngại về hiệu quả của vaccine Covid-19. Tuy nhiên, trước khi đưa ra kết luận, chúng ta cần biết rõ vaccine nhắm vào mục tiêu hay kháng nguyên nào và vì sao được chọn lựa, cũng như thực chất vấn đề kháng vaccine là gì?
+Mục lụcPhân loại vaccine Covid-19Vaccine sử dụng virus bất hoạtVaccine sử dụng hạt giống virus/ hạt NanoVaccine sử dụng tiểu đơn vị proteinVaccine sử dụng giá đỡ virus (Virus-vectored vaccines)Vaccine sử dụng DNA hay mRNAVaccine sử dụng virus giảm độc lực (Live-attenuated virus vaccines)Liệu vaccine còn phát huy tác dụng?Phân loại vaccine Covid-19
+Virus SARS-CoV-2 có 4 protein cấu trúc là protein gai spike (S), protein màng membrane (M), protein vỏ envelope (E) nằm trên bề mặt và protein trong vỏ nhân nucleocapsid(N) gắn với RNA trong virus.
+Vaccine ngừa Covid-19 được thay đổi liên tục để đối phó với những biến thể virus SARS-CoV-2
+Đây là những mục tiêu mà các phương pháp chẩn đoán như PCR và vaccine đều muốn nhắm đến. Hiện nay, y học thế giới đưa vào sử dụng 7 loại vắc xin: Moderna (mRNA-1273), Pfizer (BNT162b2), Sputnik (rAd26-S+rAd5-S), Aztrazeneca (ChAdOx1 nCoV-19), Janssen, J&J(Ad26.COV2.S), CoronaVac – Sinovac COVID-19, Nonavax Mỹ (NVX-CoV2373).
+Xem thêm:TRIỂN KHAI TIÊM VẮC XIN PHÒNG COVID-19 CHO KHÁCH HÀNG ĐIỀU TRỊ HIẾM MUỘN
+Vaccine sử dụng virus bất hoạt
+Virus bị bất hoạt bằng phương pháp vật lý hay hóa học nhưng vẫn còn cấu trúc toàn vẹn được sử dụng như là kháng nguyên để kích thích miễn dịch.
+Loại vaccine này tạo ra các kháng thể IgG đặc hiệu (chống lại) protein gai S, khu vực kết nối kháng nguyên RBD (receptor binding domain) và kháng thể đặc hiệu chống protein N cũng như kháng thể trung hòa nAb (trên các vật thí nghiệm như chuột, linh trưởng không thuộc giống người (NHP). Vaccine này không tạo đáp ứng tế bào TH1 và TH2 trên người.
+Đa số vaccine của Trung Quốc thuộc loại này nên tạo đáp ứng miễn dịch tế bào kém.
+Vaccine sử dụng hạt giống virus/ hạt Nano
+Loại vaccine này sử dụng các protein cấu trúc của virus được trình diện trên một hạt “giống như virus” nhưng không có bộ gen.
+Vaccine sử dụng tiểu đơn vị protein
+Vaccine sử dụng một số protein hay peptides của virus làm kháng nguyên. Các proteins này có thể sản xuất trong phòng thí nghiệm bằng cách sử dụng vi khuẩn, nấm men, tế bào côn trùng hay tế bào của động vật có vú.
+Thường sử dụng bộ ba RBD (trimer RBD) của gen mã hóa protein gai, tạo đáp ứng sinh kháng thể cao và đáp ứng của miễn dịch tế bào (TH1) nhưng đáp ứng TH2 kém.
+Nanocovax của Việt Nam sử dụng công nghệ protein tái tổ hợp, có độ an toàn cao nhờ sử dụng kháng nguyên tinh sạch trên 95%
+Nhiều vaccine Covid-19 sử dụng công nghệ này như Novavax (Mỹ) hay Nanocovax (Việt Nam).
+Novavax (Mỹ) sử dụng toàn trình tự gen S (Full-length S) có hai thay đổi ở hai vị trí là K986P và V987P và 3 thay đổi (R682Q, R683Q and R685Q); tạo miễn dịch đặc hiệu với kháng thể IgG chống protein S cao hơn nồng độ kháng thể trong huyết thanh người lành bệnh; tạp đáp ứng miễn dịch tế bào TH1 cao nhưng TH2 vẫn thấp.
+Nanocovax (Việt Nam) (thông tin chưa được công bố)
+Vaccine sử dụng giá đỡ virus (Virus-vectored vaccines)
+Gen mã hóa một hay nhiều protein-kháng nguyên được gắn vào trong một loại virus không còn/hay còn, khả năng nhân lên như Adenovirus. Các kháng nguyên được tạo ra bởi tế bào cơ thể sau khi được tiêm chủng. Nghĩa là, virus làm giá đỡ sẽ xâm nhập tế bào cơ thể rồi điều khiển sản xuất tạo kháng nguyên, sau đó hệ miễn dịch sẽ đáp ứng với các kháng nguyên này hình thành miễn dịch chống lại kháng nguyên mới được tạo ra.
+Trong nhóm này có vaccine AstraZeneca, sử dụng toàn bộ trình tự mã hóa protein gai S (Full-length S) tạo kháng thể đặc hiệu với kháng nguyên gai S với kháng thể trung hòa cũng như đáp ứng miễn dịch tế bào TH1 tốt ngang với kháng thể sinh ra sau nhiễm trùng tự nhiên nhưng đáp ứng TH2 kém.
+Xem thêm: HƯỚNG DẪN ĐĂNG KÝ TIÊM VẮC XIN COVID-19 CHO PHỤ NỮ MANG THAI
+Vaccine sử dụng DNA hay mRNA
+Vaccine DNA sử dụng DNA tái tổ hợp để mã hóa protein-kháng nguyên trên một mảnh DNA gọi là plasmid rồi đưa vào tế bào cơ thể để tạo kháng nguyên qua chuỗi các giai đoạn chuyển mã – dịch mã (transcription-to-translation process).
+Trong vaccine mRNA thì mRNA mã hóa protein-kháng nguyên được tổng hợp bên ngoài và đưa vào tế bào cơ thể; kháng nguyên được tạo ra qua giai đoạn dịch mã trong tế bào chất của cơ thể người được tiêm chủng.
+Vaccine Moderna/Pfizer ở nhóm này sử dụng toàn trình tự gen S (Full-length S) có hai thay đổi ở hai vị trí là K986P và V987P; tạo miễn dịch đặc hiệu với kháng thể IgG chống protein S cao hơn nồng độ kháng thể trong huyết thanh người lành bệnh; tạo đáp ứng miễn dịch tế bào TH1 cao nhưng TH2 vẫn thấp.
+Vaccine sử dụng virus giảm độc lực (Live-attenuated virus vaccines)
+Trong công nghệ này, virus sẽ được làm giảm độc lực ở trong phòng thí nghiệm hoặc nuôi cấy chuyền trong tế bào (passage) hay công nghệ đảo ngược di truyền (reverse-genetic mutagenesis) để làm mất đi khả năng gây bệnh nhưng vẫn bảo toàn được tính sinh miễn dịch như virus sống.
+Như vậy, vaccine Covid-19 sử dụng nhiều công nghệ khác nhau và kháng nguyên khác nhau trong cùng công nghệ. Đa số chọn protein gai S làm đích vì đây là protein giúp virus xâm nhập tế bào qua thụ thể ACE2 (Angiotencil converting enzynme) trên tế bào cơ thể. Một lý do khác, các protein M, E, N gây đáp ứng miễn dịch kém do đó, không là đích nhắm trong việc sản xuất vaccine.
+Virus SARS-CoV-2 liên tục biến đổi (2 đột biến/ tháng), vì thế việc xuất hiện nhiều biến thể cũng là hiện tượng phổ biến trong sinh học. Do đó, để đối phó với những biến thể mới này, vaccine cũng cần phải có sự “nâng cấp” nhằm tăng cường sức mạnh cho hệ miễn dịch của cơ thể con người.
+Liệu vaccine còn phát huy tác dụng?
+Để trả lời cho câu hỏi này, chúng ta cần “thông suốt” hai vấn đề sau:
+1. SARS-CoV-2 tiếp tục sử dụng ACE2 như cánh cửa để xâm nhập tế bào cơ thể thì vaccine nhắm vào gen S vẫn còn tác dụng. Tuy nhiên, cần phải thay đổi ít nhiều theo các đột biến nhưng việc này hoàn toàn có thể nhờ công nghệ cũng như thời gian, đối với vaccine mRNA.
+Virus SARS-CoV-2 liên kết với thụ thể ACE-2 trên tế bào người, giai đoạn đầu của nhiễm COVID-19
+2. SARS-CoV-2 có thể tấn công tế bào qua các cánh cửa khác. Một số nghiên cứu công bố gần đây cho thấy virus có thể xâm nhập tế bào không cần có thụ thể ACE2 mà lợi dụng các thụ thể khác như C-lectin type receptors (CLR), toll-like receptors (TLR) và neuropilin-1 (NRP1), hay những thụ thể không có tính miễn dịch như glucose regulated protein 78 (GRP78) [1]. Lúc này, cần phải chọn thêm kháng nguyên khác hay kết hợp nhiều kháng nguyên như đã từng làm.
+Với diễn tiến hiện nay, khả năng Covid-19 sẽ trở thành một loại dịch bệnh mới với những bộc phát nhỏ theo mùa giống như dịch cúm. Chúng ta cần nhớ rằng, năm 1918 virus Influenza (virus gây bệnh cúm) gây đại dịch đầu tiên và kéo theo 3 đại dịch xảy ra vào những năm 1956, 1968 và 2009 trước khi ghi tên mình vào danh sách những dịch bệnh cần tiêm phòng mỗi năm. Điều này cho thấy khả năng chúng ta phải thực hiện việc tiêm vaccine phòng chống virus Covid-19 mỗi năm đang dần trở thành hiện thực!
+Vì thế, điều cần nhấn mạnh ở đây, vaccine vẫn là phương án tối ưu để phòng các bệnh truyền nhiễm đặc biệt là bệnh do virus.
+Xem thêm:Tin tức hoạt động của Bệnh viện Tâm Anh
+[1]: https://pubmed.ncbi.nlm.nih.gov/33498183

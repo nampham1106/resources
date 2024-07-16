@@ -1,0 +1,84 @@
+# doc_id = health_disease_219
+# url = https://tamanhhospital.vn/nhiem-vi-khuan-salmonella-o-tre/
+# date = 24/11/2022
+Nhiễm vi khuẩn Salmonella ở trẻ: Nguyên nhân và triệu chứng
+Nhiễm vi khuẩn Salmonella ở trẻ  là một trong những nguyên nhân khiến trẻ bị ngộ độc thực phẩm và gây ra các bệnh nguy hiểm như viêm dạ dày, nhiễm trùng huyết và nhiễm trùng khu trú.
+Bài viết có sự tư vấn chuyên môn của ThS.BS.CKI Lê Thị Ngọc – Bác sĩ khoa Nhi, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Mục lụcNhiễm vi khuẩn Salmonella ở trẻ là gì?Nguyên nhân trẻ bị nhiễm vi khuẩn SalmonellaTriệu chứng nhiễm vi khuẩn Salmonella ở trẻ emChẩn đoán bệnh Salmonella ở trẻ emĐiều trị trẻ bị nhiễm khuẩn SalmonellaCách phòng tránh nhiễm khuẩn Salmonella cho trẻCâu hỏi thường gặp1. Nhiễm trùng Salmonella kéo dài bao lâu?2. Khi nào cần gặp bác sĩ3. Nhiễm khuẩn Salmonella có lây không?4. Đối tượng nguy cơ bị nhiễm khuẩn Salmonella?Nhiễm vi khuẩn Salmonella ở trẻ là gì?
+Nhiễm vi khuẩn Salmonella ở trẻ là một bệnh lý về đường ruột do vi khuẩn Salmonella gây ra. Bệnh thường xuất hiện ở trẻ dưới 5 tuổi, trong đó, có đến ⅓ trườ ng hợp trẻ nhiễm khuẩn dưới 4 tuổi. Đa số trẻ bị nhiễm vi khuẩn này do tiếp xúc hoặc ăn phải thực phẩm bị ô nhiễm, có chứa vi khuẩn gây bệnh. (1)
+Theo ước tính của Trung tâm Kiểm soát và phòng ngừa dịch bệnh Hoa Kỳ (CDC), nhiễm khuẩn Salmonella là nguyên nhân gây ra khoảng 1,35 triệu ca nhiễm trùng, 26.500 ca nhập viện và 420 ca tử vong ở Hoa Kỳ mỗi năm và nguồn gốc của hầu hết các bệnh này đều bắt nguồn từ thực phẩm.
+Tại Việt Nam, ngày 17/11/2022, một vụ ngộ độc thực phẩm lớn nhất trong khối học đường đã xảy ra tại trường Ischool Nha Trang, khi hơn 600 học sinh phải nhập viện điều trị do ngộ độc thực phẩm sau khi ăn 6-9 tiếng đồng hồ, trong đó một bé tử vong. Bữa cơm trưa tại trường gây ngộ độc gồm các món: cơm gà, sốt trứng; gỏi gà (gà xé, cà rốt, bắp sú, rau răm), cánh gà chiên, canh (xương, cà rốt, cải thảo), dưa leo. Bữa xế lúc 13h30 là bánh ngọt Papparoti. Học sinh uống nước tại hệ thống lọc nước của trường.
+Suất ăn trưa 17/11 của học sinh trường Ischool, sau đó hơn 600 em bị ngộ độc. Ảnh: VnE
+Sau quá trình xét nghiệm kéo dài nhiều ngày đối với 8 mẫu thực phẩm liên quan đến vụ ngộ độc thức ăn tại trường Ischool Nha Trang, chiều 22/11, Viện Pasteur Nha Trang thông báo kết quả kiểm nghiệm cho thấy: vi khuẩn Salmonella, Bacillus cereus và E. Coli có trong mẫu cánh gà chiên, vi khuẩn Bacillus cereus còn có trong mẫu nước mắm.
+Những chủng vi khuẩn trên là chủng sinh độc tố ly giải hồng cầu (HBL: Hemolysin BL) và độc tố ruột không ly giải hồng cầu (NHE: Non-haemolytic enterotoxin).
+Nguyên nhân trẻ bị nhiễm vi khuẩn Salmonella
+Vi khuẩn Salmonella còn được gọi là vi khuẩn thương hàn gồm S. typhi và S. paratyphi A, B, C, được tìm thấy nhiều trong hệ tiêu hóa của một số loại động vật gồm động vật hoang dã, gia súc và thú nuôi. Trong đó, gia cầm là nhóm động vật có khả năng mang vi khuẩn Salmonella cao nhất, do đó, khi ăn thịt gia cầm, trứng sữa hay các chế phẩm từ sữa, trẻ sẽ có nguy cơ bị nhiễm khuẩn cao. (2)
+Salmonella lây qua đường tiêu hóa, khi trẻ ăn các thức ăn có nguồn gốc động vật bị ô nhiễm Salmonella như: Thịt, thịt tái, trứng (gà, vịt), trai, sò, hến nấu chưa chín… Hoặc khi ăn các loại rau sống, hoa quả, nước uống bị nhiễm Salmonella.
+Vi khuẩn Salmonella là nguyên nhân gây ngộ độc ở trẻ
+Đối với các vụ ngộ độc do Salmonella, nguyên nhân chính của sự tăng lên ngộ độc này là các loại gia cầm và trứng, khi thực phẩm bị nhiễm bẩn và chế biến không chín, hoặc người bệnh ăn các loại trứng sống, các sản phẩm của trứng chưa chín.
+Vi khuẩn Salmonella có thể thâm nhập qua vỏ trứng, đặc biệt nếu vỏ trứng bị vỡ, và qua ô nhiễm chéo trong quá trình chế biến những món ăn từ trứng.
+Sau khi loại vi khuẩn này tấn công vào hệ tiêu hóa của trẻ, vi khuẩn chết đi sẽ giải phóng ra một lượng nội độc tố vào cơ thể trẻ khiến niêm mạc ruột bị tổn thương (gây kích ruột, đau bụng, chảy máu, thậm chí là thủng ruột). Nguy hiểm hơn, vi khuẩn Salmonella có thể lẫn trong máu, tấn công hệ thần kinh trung ương và gây nhiễm độc toàn thân.
+Salmonella là một chủng vi khuẩn có khả năng lây lan nhanh chóng, có khả năng sống tốt trong các môi trường khác nhau bên ngoài cơ thể vật chủ như chúng có thể sống 2-3 tháng trong nước đá, hơn 1 tháng trong nước thường, khoảng 5-10 ngày trong rau quả hay vài tháng trong phân. Tuy nhiên, vi khuẩn Salmonella dễ dàng bị tiêu diệt khi trong môi trường có nhiệt độ cao, chúng chỉ có thể sống 30 phút khi nhiệt độ lên đến 55 độ C và vài phút khi gặp cồn 90 độ C.
+Vi khuẩn Salmonella ẩn trong thịt gà
+Triệu chứng nhiễm vi khuẩn Salmonella ở trẻ em
+Khi trẻ nhiễm vi khuẩn Salmonella, sẽ trải qua các giai đoạn và có các triệu chứng sau:
+Giai đoạn ủ bệnh: kéo dài từ 12 đến 72 giờ kể từ khi trẻ tiếp xúc với nguồn bệnh. (3)
+Khởi phát: diễn ra từ từ hoặc đột ngột, với các bệnh cảnh khác nhau. Các triệu chứng khi trẻ nhiễm vi khuẩn Salmonella sẽ dần có biểu hiện ra bên ngoài sau một khoảng thời gian ủ bệnh. Ở mức độ nhẹ, trẻ hơi đau bụng, đi phân lỏng vài lần, không sốt. Ở mức độ vừa, trẻ sẽ xuất hiện các triệu chứng bao gồm:
+Buồn nôn, nôn;
+Nhức đầu choáng váng khó chịu;
+Sốt;
+Đau bụng dữ đội;
+Tiêu chảy;
+Chán ăn…
+Ở mức độ nặng, trẻ sẽ đối mặt với 3 hội chứng nguy hiểm:
+Hội chứng nhiễm khuẩn nhiễm độc: Khởi phát đột ngột, trẻ sốt cao 38 độ C – 40 độ C, có lúc rét run. Ngoài ra trẻ còn đau đầu, đau mỏi cơ khớp, số l­ượng bạch cầu thường tăng, neutrophil tăng.
+Hội chứng viêm dạ dày, tiểu tràng cấp: Trẻ xuất hiện cơn đau bụng vùng th­ượng vị và quanh rốn, đôi khi đau lan toả khắp bụng và có hiện tượng sôi bụng. Trẻ buồn nôn và nôn ói nhiều lần, sau đó đi ngoài nhiều lần trong ngày, phân nhiều nước, có thể lẫn thức ăn chư­a tiêu. Tình trạng tiêu chảy kéo dài ở trẻ có thể kèm theo dịch nhầy, máu.
+Hội chứng mất nước điện giải: Trẻ khát nước, mất nước khiến môi khô, mắt trũng, sụt cân; mạch nhanh, nhỏ, huyết áp tụt; có thể thiểu niệu, vô niệu, bụng chư­ớng, chuột rút, chân tay lạnh… Với trẻ nhỏ sẽ có hiện tượng thóp trũng, khóc không có n­ước mắt…
+Lưu ý, đau bụng và tiêu chảy là hai triệu chứng điển hình nhất khi trẻ nhiễm vi khuẩn Salmonella. Trong một số trường hợp, các triệu chứng này diễn biến nhanh chóng và trở nên nghiêm trọng, có thể dẫn đến các biến chứng nguy hiểm như: mất nước, viêm khớp, viêm da, viêm mắt, viêm não, viêm cơ tim, hội chứng ruột kích thích, hội chứng Guillain-Berre,… thậm chí là tử vong.
+Học sinh trường Ischool Nha Trang bị ngộ độc thực phẩm điều trị tại Bệnh viện
+Chẩn đoán bệnh Salmonella ở trẻ em
+Để chẩn đoán bệnh Salmonella cho trẻ, đầu tiên bác sĩ sẽ thăm khám lâm sàng và hỏi mẹ các thông tin về tiền sử bệnh, các loại thực phẩm bé ăn hằng ngày hay những nơi bé đã đến để hỗ trợ cho việc chẩn đoán bệnh. Sau đó, bác sĩ sẽ tiến hành xét nghiệm phân, máu hoặc nước tiểu của trẻ để xác định sự tồn tại của vi khuẩn Salmonella trong cơ thể trẻ.(4)
+Điều trị trẻ bị nhiễm khuẩn Salmonella
+Nếu trẻ bị bị viêm dạ dày ruột nói chung, cho dù do bất kỳ nguyên nhân nào, hoặc bị ngộ độc thực phẩm do Salmonella, phụ huynh nên đưa con bạn đi khám sớm để điều trị đúng cách. Đặc biệt trong những tình huống:
+Trẻ nhỏ dưới 6 tháng tuổi
+Trẻ có bệnh nền trước đó (ví dụ, vấn đề về tim hoặc thận, đái tháo đường, sinh non)
+Trẻ sốt cao, đau bụng, nôn ói và thể tích nôn không giảm
+Trẻ nghi ngờ có sự mất dịch tiến triển
+Trẻ trở nên buồn ngủ hoặc lú lẫn
+Xuất hiện máu trong phân hoặc trong chất nôn của trẻ
+Triệu chứng của trẻ không cải thiện hoặc xuất hiện những triệu chứng khác mà làm bạn lo ngại
+Điều quan trọng khi trẻ nhiễm vi khuẩn Salmonella là bé cần được nghỉ ngơi nhiều hơn và ngăn chặn tình trạng mất nước. Các triệu chứng sốt, nôn mửa, tiêu chảy khiến trẻ bị mất một lượng lớn nước và điện giải, vì vậy, bố mẹ nên cho bé uống nhiều nước hơn. Tùy theo mức độ mất nước, trẻ có thể được cho uống dung dịch bù nước và điện giải hoặc cho trẻ truyền dịch qua đường tĩnh mạch theo chỉ dẫn của bác sĩ. Bên cạnh đó, bác sĩ có thể cho trẻ uống một số thuốc giảm đau, hạ sốt để hạ nhiệt cho trẻ, giúp trẻ cảm thấy thoải mái hơn.
+Thuốc kháng sinh thường được bác sĩ kê toa khi trẻ có hệ miễn dịch suy yếu hay tình trạng nhiễm trùng của trẻ lan rộng, xâm nhập vào máu. Trong nhiều trường hợp, việc sử dụng thuốc kháng sinh không thích hợp khi điều trị nhiễm khuẩn Salmonella ở trẻ khiến thời gian nhiễm khuẩn bị kéo dài, tăng nguy cơ nhiễm bệnh do các loại vi khuẩn tương tự gây ra ở trẻ.
+Ngoài ra, nếu bệnh chuyển biến thành các biến chứng như nhiễm trùng phình động mạch, van tim, nhiễm trùng xương, khớp, trẻ có thể cần được can thiệp phẫu thuật.
+Cách phòng tránh nhiễm khuẩn Salmonella cho trẻ
+Trẻ có thể bị nhiễm vi khuẩn Salmonella khi tiếp xúc trực tiếp hoặc gián tiếp với nguồn bệnh. Do đó, bố mẹ có thể thực hiện các cách phòng bệnh sau để ngăn ngừa nguy cơ nhiễm khuẩn Salmonella cho trẻ:
+Nấu chín kỹ thức ăn:Mặc dù vi khuẩn Salmonella có thể chứa nhiều trong trong các thực phẩm hằng ngày, nhất là các loại thịt, tuy nhiên, chúng dễ dàng bị tiêu diệt dưới sức nóng của quá trình nấu nướng. Do đó, khi chế biến thức ăn cho trẻ, bên cạnh việc đảm bảo vệ sinh khi chế biến, mẹ nên lưu ý nấu chín kỹ thức ăn.
+Xử lý trứng cẩn thận: Nhiều ý kiến cho rằng “Trứng lòng đào không chỉ ngon hơn, béo hơn mà còn tốt cho sức khỏe hơn trứng luộc chín hoàn toàn”, tuy nhiên, đây là một cách ăn không thực sự an toàn. Theo các nghiên cứu cho thấy, vi khuẩn Salmonella có thể ẩn chứa trong những quả trứng đạt chất lượng tốt, được khử trùng cẩn thận, do đó, việc chế biến trứng không cẩn thận sẽ khiến vi khuẩn không được tiêu diệt hoàn toàn, làm tăng nguy cơ trẻ bị ngộ độc.
+Tránh các loại thực phẩm có thể chứa các thành phần thô: Các món ăn, nước sốt được làm từ trứng sống như bánh tiramisu, nước sốt salad,… hay sữa, nước trái cây chưa qua tiệt trùng có thể là những thực phẩm bị nhiễm vi khuẩn Salmonella, do đó, bố mẹ nên tránh cho trẻ ăn những loại thực phẩm này.
+Làm sạch bề mặt nấu ăn thường xuyên: Vi khuẩn Salmonella được tìm thấy nhiều trong các loại thịt sống, chưa được chế biến kỹ, chúng có thể sống khá lâu ở môi trường bên ngoài vật chủ. Vì vậy, khi chế biến thức ăn, mẹ nên chú ý để các loại thực phẩm tươi sống cách xa những thực phẩm đã được nấu chín. Hơn nữa, sau khi xử lý các thực phẩm tươi, sống, mẹ nên rửa kỹ tay và vệ sinh khu vực bếp bằng chất khử trùng, đồng thời, thớt và các dụng cụ bếp cần được rửa bằng nước nóng và khử khuẩn sau mỗi lần sử dụng.
+Tránh tiếp xúc với vật nuôi, nuôi vật nuôi: Nếu trong gia đình có nuôi thú cưng, nhất là các loài bò sát, bố mẹ nên chú ý cho trẻ rửa tay cẩn thận với xà phòng khử khuẩn ngay sau khi trẻ tiếp xúc với vật nuôi và không cho trẻ tiếp xúc với thân của chúng.
+Đừng nấu thức ăn cho người khác nếu bạn bị ốm: Nếu mẹ đang bị ốm, nhất là khi có các biểu hiện nôn mửa, tiêu chảy, mẹ không nên nấu thức ăn cho người khác vì điều này có thể tạo điều kiện cho các tác nhân gây bệnh lây lan cho trẻ.
+Giữ lạnh thực phẩm:Thức ăn đã được nấu chín không nên để bên ngoài quá 2 giờ sau khi ăn, thay vào đó, chúng nên được bảo quản trong tủ lạnh để tránh vi khuẩn sinh sôi, gây ngộ độc thực phẩm.
+Thực hiện 4 bước vệ sinh an toàn thực phẩm để phòng tránh nhiễm khuẩn Salmonella
+Câu hỏi thường gặp
+1. Nhiễm trùng Salmonella kéo dài bao lâu?
+Đa số trẻ bị nhiễm vi khuẩn Salmonella có thể tự khỏi mà không cần điều trị. Các triệu chứng của bệnh cũng sẽ thuyên giảm trong sau 4-7 ngày phát bệnh.
+2. Khi nào cần gặp bác sĩ
+Nếu trẻ có các biểu hiện bệnh kể trên, bố mẹ nên thông báo cho bác sĩ để trẻ được kiểm tra và hỗ trợ điều trị đúng cách. Đặc biệt, nếu trẻ có các biểu hiện nghiêm trọng sau, bố mẹ cần đưa bé đến bệnh viện để được cấp cứu khẩn cấp:
+Các triệu chứng của bệnh không có dấu hiệu thuyên giảm sau 2-3 ngày;
+Trẻ bị tiêu chảy nặng, kéo dài trên 2 ngày;
+Trẻ khóc liên tục;
+Phân lẫn máu;
+Trẻ có dấu hiệu mất nước nghiêm trọng;
+Trẻ mệt mỏi, phản xạ chậm…
+3. Nhiễm khuẩn Salmonella có lây không?
+Vi khuẩn Salmonella có khả năng lây lan nhanh chóng, chúng có thể bệnh từ vài ngày cho đến vài tuần sau khi trẻ bị nhiễm bệnh, thậm chí, sau khi trẻ đã được điều trị bằng thuốc kháng sinh, các triệu chứng bệnh đã biến mất hoàn toàn.
+4. Đối tượng nguy cơ bị nhiễm khuẩn Salmonella?
+Trên thực tế, người bệnh có thể bị nhiễm khuẩn Salmonella ngay cả khi trẻ không ăn phải thức ăn bị nhiễm khuẩn, do đó, bệnh có thể xảy ra ở bất kỳ ai. Tuy nhiên, những đối tượng sau khi mắc bệnh, nguy cơ xuất hiện biến chứng sẽ cao hơn, nghiêm trọng hơn bình thường, bao gồm:
+Trẻ sơ sinh;
+Trẻ có hệ thống miễn dịch suy yếu;
+Trẻ đang dùng thuốc có ảnh hưởng đến hệ thống miễn dịch;
+Mắc bệnh hồng cầu hình liềm;
+Uống thuốc ức chế axit dạ dày mãn tính.
+Đối với các trường hợp này, bác sĩ sẽ cho trẻ dùng thuốc kháng sinh để ngăn chặn sự lây lan của vi khuẩn mặc dù điều này có thể kéo dài thời gian vi khuẩn tồn tại trong cơ thể trẻ.
+Nhiễm vi khuẩn Salmonella ở trẻlà một bệnh lý gây ảnh hưởng nghiêm trọng đến sức khỏe và đe dọa mạng sống của trẻ, do đó, việc chủ động thực hiện các biện pháp phòng ngừa có vai trò quan trọng. Các bậc phụ huynh nên tuân thủ theo các quy tắc an toàn vệ sinh thực phẩm và thực hiện theo các khuyến cáo của Bộ Y tế để phòng ngừa bệnh một cách an toàn và hiệu quả.

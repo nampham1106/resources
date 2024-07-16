@@ -1,0 +1,77 @@
+# doc_id = health_disease_2184
+# url = https://tamanhhospital.vn/nhiem-trung-vet-mo/
+# date = 02/10/2023
+Nhiễm trùng vết mổ: Nguyên nhân, dấu hiệu và cách phòng ngừa
+Nhiễm trùng vết mổ có thể ảnh hưởng đến vùng rạch da hoặc mô sâu tại vị trí phẫu thuật. Tình trạng hay dấu hiệu nhiễm trùng vết mổ có thể phát triển trong vòng 30 ngày sau phẫu thuật. Vậy nguyên nhân nhiễm trùng vết mổ là gì?
+Nhiễm trùng vết mổ là do vi khuẩn xâm nhập vào vết mổ hoặc vết thương phẫu thuật. Loại vi khuẩn này có thể được tìm thấy trong hoặc trên chính cơ thể người bệnh hoặc nhiễm từ nguồn khác. Nhiễm trùng vết mổ có thể xảy ra ở các ca phẫu thuật khác nhau, trong đó có phẫu thuật thần kinh. Tuy nhiên, một số ca mổ có thể có nguy cơ cao hơn như phẫu thuật ở những khu vực có mức độ vi khuẩn cao, bao gồm phẫu thuật đường tiêu hóa, phẫu thuật viêm ruột thừa, viêm túi mật cấp tính, thủng ruột khi có nhiễm trùng đang hoạt động tại thời điểm phẫu thuật…
+Mục lụcNhiễm trùng vết mổ là gì?Các loại nhiễm trùng vết mổ1. Nhiễm trùng vết mổ nông (trên bề mặt)2. Nhiễm trùng vết mổ sâu3. Nhiễm trùng cơ quan/khoang cơ thểDấu hiệu nhiễm trùng vết mổNguyên nhân nhiễm trùng vết mổBiến chứng nhiễm trùng vết mổCách chẩn đoán vết mổ bị nhiễm trùngCách điều trị nhiễm trùng vết mổHướng dẫn chăm sóc vết mổ đúng cáchCách phòng ngừa nhiễm trùng vết mổNhiễm trùng vết mổ là gì?
+Nhiễm trùng vết mổ (SSI) là tình trạng nhiễm trùng xảy ra sau phẫu thuật, xuất hiện tại nơi thực hiện phẫu thuật. Nếu bác sĩ phẫu thuật phải mở vết thương để làm sạch thì trường hợp này thường được xem là bị nhiễm trùng vết mổ. Thông thường, vết thương không được xem là bị nhiễm trùng nếu chỉ có áp xe khâu. Khi nồng độ vi sinh vật cao hơn 10.000 vi sinh vật trên mỗi gam mô thì có nguy cơ cao xảy ra tình trạng nhiễm trùng vết mổ. (1)
+Nhiễm trùng vết mổ có thể do nhiều nguyên nhân
+Các loại nhiễm trùng vết mổ
+Việc phân loại  dựa trên các thước đo, ví dụ như: Xảy ra trong vòng 30 ngày sau phẫu thuật (trong trường hợp nhiễm trùng cơ quan/khoang với cấy ghép tại chỗ thì thời gian này là một năm); nhiễm trùng chỉ bao gồm da, mô dưới da, lớp sâu hoặc các cơ quan ở xa; có hệ thống thoát mủ hoặc các sinh vật được phân lập từ vết thương.
+Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) chia nhiễm trùng vết mổ thành 3 loại, bao gồm: Nhiễm trùng vết mổ nông, nhiễm trùng vết mổ sâu và nhiễm trùng vết mổ tại cơ quan/khoang cơ thể.
+1. Nhiễm trùng vết mổ nông (trên bề mặt)
+Nhiễm trùng vết mổ nông liên quan đến da và mô dưới da, có các biểu hiện như chảy mủ từ vết thương, sinh vật được phân lập, xuất hiện ít nhất một triệu chứng nhiễm trùng… Loại nhiễm trùng này chiếm hơn 50% trên tổng số các ca bệnh bị nhiễm trùng vết mổ.
+2. Nhiễm trùng vết mổ sâu
+Nhiễm trùng vết mổ sâu liên quan đến các mô sâu hơn, bao gồm cả cơ và mặt phẳng cân mạc. Khi bác sĩ khám và đánh giá có những đặc điểm của nhiễm trùng vết mổ như chảy mủ từ vết thương, vết thương bị bong ra… Hoặc bác sĩ phẫu thuật cố tình mở lại vết rạch sâu sau khi nghi ngờ nhiễm trùng, có bằng chứng hình thành áp xe hoặc chẩn đoán nhiễm trùng vết mổ sâu khác của bác sĩ phẫu thuật.
+3. Nhiễm trùng cơ quan/khoang cơ thể
+Loại nhiễm trùng vết mổ này có thể liên quan đến bất kỳ cơ quan nào ngoài vị trí rạch nhưng có liên quan đến quy trình phẫu thuật. Ví dụ, khi bác sĩ khám, đánh giá vết thương thấy có tình trạng chảy mủ từ ống dẫn lưu đặt trong cơ quan, sinh vật bị cô lập khỏi cơ quan, áp xe hoặc nhiễm trùng khác liên quan đến cơ quan.
+Nhiễm trùng vết mổ hiếm khi xảy ra trong phẫu thuật thần kinh
+Dấu hiệu nhiễm trùng vết mổ
+Nhiễm trùng phát sinh trong vết thương phẫu thuật là một trong những tình trạng nhiễm trùng phổ biến. Đây cũng là nguyên nhân gây ra nhiều vấn đề và có thể khiến người bệnh tử vong. Do đó, nhận biết người bệnh có dấu hiệu nhiễm trùng vết mổ hay không là việc làm quan trọng. Các dấu hiệu nhiễm trùng vết mổ bao gồm: (2)
+Tăng đau nhức tại chỗ phẫu thuật.
+Thay đổi màu sắc hoặc tăng kích thước vết thương.
+Xuất hiện vệt đỏ, đỏ nhiều hơn hoặc có bọng gần vết rạch.
+Chảy dịch màu vàng xanh hoặc có mùi hôi từ vị trí phẫu thuật.
+Sốt từ 38.5°C trở lên.
+Người bệnh có cảm giác mệt mỏi không biến mất.
+Các triệu chứng có thể xuất hiện bất cứ lúc nào từ vài giờ đến vài tuần sau phẫu thuật. Các vật cấy ghép như khớp gối hoặc khớp háng nhân tạo có thể bị nhiễm trùng sau phẫu thuật một năm hoặc lâu hơn.
+Khả năng hồi phục vết mổ kém.
+Chảy máu do tiếp xúc.
+Xuất hiện các mô hạt không lành mạnh.
+Viêm hạch bạch huyết…
+Nhiễm trùng vết mổ biểu hiện bằng hiện tượng sưng, nóng, đỏ đau…
+Nguyên nhân nhiễm trùng vết mổ
+Nguyên nhân nhiễm trùng vết mổ là do vi trùng gây ra. Phổ biến phải kể đến là vi khuẩn Staphylococcus, Streptococcus và trực khuẩn gram âm. Vi trùng có thể lây nhiễm vào vết thương phẫu thuật thông qua các hình thức tiếp xúc khác nhau, chẳng hạn như do người chăm sóc/dụng cụ phẫu thuật bị nhiễm vi trùng chạm vào vết thương, do vi trùng trong không khí hoặc vi trùng đã có trên/trong cơ thể người bệnh lây lan vào vết thương.
+Mức độ rủi ro bị nhiễm trùng vết mổ có liên quan đến loại vết thương phẫu thuật của người bệnh. Các vấn đề thủ tục, quy trình phẫu thuật cũng là một yếu tố rủi ro đáng kể gây nhiễm trùng vết mổ. Nhiễm trùng vết mổ có thể xảy ra do các nguyên nhân:
+Trong quá trình phẫu thuật: Nếu dụng cụ phẫu thuật không được khử trùng.
+Sau phẫu thuật: Nếu vết thương tiếp xúc với tay hoặc đồ vật không sạch, hoặc được chăm sóc không đúng.
+Nguy cơ nhiễm trùng sau phẫu thuật thay đổi tùy theo phân loại vết thương phẫu thuật:
+Vết thương sạch: Vết thương không liên quan đến phẫu thuật trên cơ quan nội tạng và không có bằng chứng nhiễm trùng hoặc viêm.
+Vết thương sạch nhiễm bẩn: Liên quan đến phẫu thuật trên cơ quan nội tạng nhưng không có bằng chứng nhiễm trùng hoặc viêm.
+Vết thương bị nhiễm bẩn: Phẫu thuật trên cơ quan nội tạng khiến chất lỏng tràn vào vết thương và các mô xung quanh.
+Vết thương bẩn: Phẫu thuật trên cơ quan nội tạng bị nhiễm trùng khiến dịch tràn vào vết thương và các mô xung quanh.
+Nguy cơ bị nhiễm trùng vết mổ còn phụ thuộc vào một số yếu tố rủi ro, ví dụ như: Bệnh nhân là một người lớn tuổi, thừa cân, suy dinh dưỡng, giảm thể tích tuần hoàn, béo phì, sử dụng steroid, tiểu đường, sử dụng thuốc ức chế miễn dịch, hút thuốc, bị ung thư, có hệ thống miễn dịch yếu, mổ cấp cứu, phẫu thuật ở bụng…
+Các yếu tố rủi ro khác liên quan đến thủ thuật bao gồm: Hình thành khối máu tụ, sử dụng vật lạ như dẫn lưu, có nhiễm trùng trước đó, thời gian chà xát phẫu thuật, cạo trước phẫu thuật, phẫu thuật kéo dài hơn 2 giờ, kỹ thuật phẫu thuật kém, hạ thân nhiệt, nhiễm trùng khi ra khỏi phòng mổ, kéo dài thời gian nằm viện trong thời gian phẫu thuật…
+Nhiễm trùng vết mổ đôi khi xuất hiện sau một cuộc phẫu thuật
+Biến chứng nhiễm trùng vết mổ
+Biến chứng nhiễm trùng vết mổ có thể được phân loại thành các biến chứng tại chỗ và toàn thân. Các biến chứng tại chỗ bao gồm vết thương chậm lành và không lành, viêm mô tế bào, hình thành áp xe, viêm tủy xương cũng như vết thương bị vỡ thêm. Các biến chứng toàn thân bao gồm nhiễm khuẩn huyết với khả năng lây lan xa theo đường máu, gây nhiễm trùng toàn thân và nhiễm trùng huyết. Trong trường hợp không được điều trị ngay lập tức, nhiễm trùng máu có thể kích hoạt phản ứng thái quá của hệ thống miễn dịch dẫn đến nhiễm trùng huyết, có thể gây sốc, hôn mê, thậm chí là tử vong.
+Nhiễm trùng vết mổ có liên quan đến tỷ lệ mắc bệnh và tử vong đáng kể. Người bị nhiễm trùng vết mổ có nguy cơ tử vong cao gấp đôi, nguy cơ được đưa vào phòng chăm sóc đặc biệt cao hơn 60% và nguy cơ được đưa vào bệnh viện sau khi xuất viện cao gấp 5 lần. Sự xuất hiện của tình trạng nhiễm trùng vết mổ có thể làm tăng thời gian nằm viện từ 7 đến 10 ngày và tốn kém nhiều chi phí điều trị hơn.
+Xem thêm: Nhiễm trùng vết mổ sọ não: Triệu chứng, nguyên nhân và phòng ngừa.
+Cách chẩn đoán vết mổ bị nhiễm trùng
+Nhiễm trùng vết mổ là một trong những yếu tố chính khiến vết thương chậm lành. Nhiễm trùng được chia thành ba giai đoạn là nhiễm bẩn, xâm lấn và nhiễm trùng. Các phương pháp chẩn đoán nhiễm trùng vết mổ hiện tại như quan sát dấu hiệu và triệu chứng bằng mắt không thể xác định được những giai đoạn này.
+Trước khi sử dụng bất kỳ công cụ chẩn đoán nào, hầu hết bác sĩ nghi ngờ tình trạng nhiễm trùng vết mổ thông qua cách kiểm tra trực quan vết mổ để tìm các dấu hiệu và triệu chứng nhiễm trùng. Các dấu hiệu điển hình của nhiễm trùng cấp tính bao gồm đau, nổi ban đỏ, nóng và tiết mủ. Tuy nhiên, với vết thương mạn tính do các bệnh lý đi kèm tiềm ẩn, phương pháp này không còn phù hợp.
+Phương pháp nuôi cấy vết thương để chẩn đoán nhiễm trùng vết mổ lại tốn kém, mất thời gian và thiếu độ chính xác. Nhiều chất đánh dấu trong phòng thí nghiệm đã được sử dụng để chẩn đoán nhiễm trùng vết mổ, chẳng hạn như CRP, PCT, presepsin, DNA vi sinh vật và BPA.
+Các phương pháp chẩn đoán hình ảnh mới, bao gồm SFDI, nhiệt kế, hình ảnh phát quang và hình ảnh tự phát huỳnh quang đã được sử dụng để chẩn đoán nhiễm trùng vết mổ. Kỹ thuật kính hiển vi và phân tử cũng đã được sử dụng để phát hiện các màng sinh học trên vết thương. Một số bộ dụng cụ và thiết bị thử nghiệm mới cũng đã được phát triển và nghiên cứu để giúp bác sĩ chẩn đoán tình trạng nhiễm trùng vết thương.
+Chụp CT hoặc MRI bằng hình ảnh tự phát huỳnh quang có thể giúp bác sĩ chẩn đoán tình trạng nhiễm trùng vết mổ
+Cách điều trị nhiễm trùng vết mổ
+Có hai cách điều trị nhiễm trùng vết mổ đó là dùng thuốc kháng sinh hoặc phẫu thuật. Kháng sinh là thuốc đầu tiên được lựa chọn để điều trị nội khoa nhiễm trùng vết mổ. Khoảng thời gian người bệnh cần dùng kháng sinh sẽ khác nhau nhưng thường kéo dài tối thiểu 1 tuần. Bác sĩ có thể bắt đầu cho người bệnh dùng thuốc kháng sinh đường tĩnh mạch và sau đó chuyển sang sử dụng thuốc viên. Người bệnh cần uống đều đặn tất cả các loại thuốc kháng sinh theo chỉ định ngay cả khi đã cảm thấy tốt hơn.
+Nếu vết thương có dịch chảy ra, người bệnh cần làm xét nghiệm để tìm ra loại kháng sinh tối ưu để điều trị nhiễm trùng vết mổ hiệu quả hơn. Một số vết thương bị nhiễm Staphylococcus aureus kháng methicillin (MRSA) kháng với các loại thuốc kháng sinh thông thường. Nhiễm trùng MRSA cần một loại kháng sinh cụ thể để điều trị.
+Đôi khi, bác sĩ phẫu thuật cần thực hiện một thủ thuật để làm sạch vị trí nhiễm trùng vết mổ. Họ có thể giải quyết vấn đề này trong phòng phẫu thuật bằng cách: Mở vết thương loại bỏ một số hoặc tất cả kim ghim/chỉ khâu; làm các xét nghiệm mủ hoặc mô trong vết thương để tìm xem có bị nhiễm trùng hay không và chọn loại thuốc kháng sinh nào sẽ hoạt động hiệu quả hơn cả; làm sạch vết thương bằng cách loại bỏ các mô chết/bị nhiễm trùng; rửa sạch vết thương bằng nước muối (dung dịch muối); dẫn lưu túi mủ (áp xe), nếu có; băng vết thương bằng băng ngâm nước muối và băng lại bằng băng gạc sạch.
+Hướng dẫn chăm sóc vết mổ đúng cách
+Khi được xuất viện về nhà, người bệnh cần hỏi bác sĩ và điều dưỡng về cách chăm sóc vết mổ khoa học nhằm thúc đẩy quá trình làm lành vết thương, giảm sẹo và hạn chế nguy cơ bị nhiễm trùng vết mổ. (3)
+Trước khi vệ sinh và thay băng vết mổ, người bệnh luôn phải rửa tay, khử khuẩn sạch.
+Kiểm tra vết rạch và vết thương, nếu có bất kỳ triệu chứng nhiễm trùng nào, chẳng hạn như nổi mẩn đỏ, đau tại chỗ phẫu thuật, chảy dịch, sốt… người bệnh hãy đến gặp bác sĩ ngay lập tức.
+Nếu vết mổ có dấu hiệu chảy máu, bạn hãy ấn trực tiếp và liên tục lên vết mổ đồng thời thông báo cho bác sĩ để được hướng dẫn, can thiệp kịp thời.
+Tránh mặc quần áo chật có thể cọ xát vào vết mổ.
+Cố gắng không gãi vết thương ngứa vì có thể vết mổ đang lành và lên da non.
+Nhiễm trùng vết mổ không phải lúc nào cũng xảy ra trong vài ngày hoặc một tuần. Các dấu hiệu nhiễm trùng có thể được nhìn thấy vài tuần sau khi phẫu thuật, người bệnh hãy thông báo ngay cho bác sĩ để được xử lý vết thương kịp thời.
+Không bôi chất lỏng, thuốc mỡ hoặc kem lên vết thương khi keo đang được dán. Người bệnh cần tránh các hoạt động gây đổ mồ hôi nhiều, bảo vệ vết thương khỏi ánh sáng mặt trời. Bạn cần tránh gãi, chà xát hoặc cạy keo, không đặt băng trực tiếp lên keo. Lớp keo sẽ bong ra trong vòng 5 đến 10 ngày.
+Người bệnh cần giữ cho vết mổ luôn khô ráo. Nếu vết mổ bị ướt, bạn hãy thấm khô bằng khăn sạch. Băng phẫu thuật thường rơi ra trong vòng 7 đến 10 ngày. Nếu băng không rơi ra sau 10 ngày, người bệnh hãy liên hệ với điều dưỡng hoặc bác sĩ để được tư vấn.
+Để tránh bị nhiễm trùng vết mổ, người bệnh cần chăm sóc vết thương đúng cách
+Cách phòng ngừa nhiễm trùng vết mổ
+Để phòng ngừa chứng nhiễm trùng vết mổ, điều kiện vô trùng trước và sau khi phẫu thuật phải được đảm bảo:
+Trước phẫu thuật: Những người mắc bệnh mạn tính không lây như tiểu đường, dị ứng kháng sinh, béo phì… cần thông báo cho bác sĩ để có cách phòng tránh tình trạng nhiễm trùng, lâu lành vết thương. Người bệnh cần ngừng hút thuốc vài ngày trước khi phẫu thuật (tốt hơn hết là cho đến khi vết thương lành hẳn).
+Sau khi phẫu thuật: Để không bị nhiễm trùng vết mổ sau phẫu thuật, người bệnh hãy làm theo hướng dẫn chăm sóc vết thương của bác sĩ, bao gồm: Thời điểm có thể tắm và tần suất cần thay băng; kiểm tra vết thương hàng ngày, báo cáo với điều dưỡng nếu vết thương xuất hiện điểm bất thường; không được tự tháo mũi khâu; gia đình, bạn bè đến thăm bệnh nên rửa tay bằng xà phòng và nước hoặc sử dụng dung dịch rửa tay có cồn trước và sau khi đến thăm, tránh chạm vào vết thương hoặc băng gạc.
+Để đặt lịch thăm khám, điều trị bệnh tại Hệ thống Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+Phòng ngừa tình trạng nhiễm trùng vết mổ đóng vai trò quan trọng trong việc chăm sóc sức khỏe cho người bệnh. Hiện nay, các bệnh viện ở nhiều quốc gia trên thế giới và những tổ chức cải tiến chất lượng bệnh viện đang làm việc cùng nhau để hạn chế xảy ra chứng nhiễm trùng vết mổ.

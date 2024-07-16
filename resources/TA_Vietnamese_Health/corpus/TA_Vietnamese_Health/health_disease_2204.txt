@@ -1,0 +1,58 @@
+# doc_id = health_disease_2204
+# url = https://tamanhhospital.vn/omicron-o-tre-em/
+# date = 17/03/2022
+Triệu chứng Omicron ở trẻ em và nên làm gì khi bé bị nhiễm bệnh?
+Tỷ lệ nhiễm biến thể Omicron ở trẻ em đang tăng cao, nhiều trẻ nhiễm bệnh khi đến trường. Làm cách nào để nhận biết trẻ nhiễm Omicron? Nếu trẻ nhiễm bệnh, ba mẹ cần xử trí thế nào cho đúng?
+Tư vấn chuyên môn bài viết: BS Phạm Mạnh Hoàn – Cố vấn chuyên môn BVĐK Tâm Anh.
+Mục lụcTổng quan về biến thể Omicron khiến tình trạng trẻ em nhập viện gia tăngVì sao trẻ dễ mắc Omicron?Triệu chứng omicron ở trẻ emKhi nào nên gọi cho bác sĩ Nhi khoa?Cha mẹ cần làm gì khi trẻ bị nhiễm biến thể Omicron?Bình tĩnh là việc đầu tiên ba, mẹ cần làmTheo dõi các dấu hiệu cảnh báo nguy hiểmDùng thuốc theo hướng dẫn bác sĩTổng quan về biến thể Omicron khiến tình trạng trẻ em nhập viện gia tăng
+Biến chủng Omicron có khả năng lây nhiễm cao, hàng triệu người dân đã phải nhập viện do Covid-19 biến thể mới, trong đó có cả trẻ em. Tại Mỹ, tỷ lệ trẻ em nhập viện do Covid-19 đã nhiều hơn so với bất kể thời điểm nào của đại dịch.
+Theo Trung tâm Kiểm soát và Phòng chống dịch bệnh (CDC) Hoa Kỳ, Omicron đã khiến số trẻ em và thanh thiếu niên nhập viện điều trị tăng gấp 4 lần so với biến thể Delta trước đó. Số lượng bệnh nhân Covid-19 là trẻ dưới 5 tuổi tăng vọt, do nhóm đối tượng này chưa được tiêm chủng. Trong khi đó, đầu tháng 2 tại Malaysia, có gần 17.000 ca mắc Covid-19 ở trẻ em dưới 12 tuổi, tăng 160% so tuần trước đó, đồng thời ghi nhận mức tăng đột biến bệnh nhi nhập viện. Có 3 ca tử vong ở trẻ em dưới 12 tuổi (2 ca dưới 5 tuổi) do Covid-19 tại Malaysia. (1)
+Tại Hong Kong, tỷ lệ các ca Covid-19 tăng nhanh, nhiều phụ huynh đưa con đến các điểm tiêm chủng sau khi chính quyền thành phố đã chấp thuận cho trẻ em từ 3 tuổi trở lên tiêm vắc xin Sinovac của Trung Quốc từ ngày 15/2, trong khi trẻ từ 5 tuổi trở lên có thể tiêm vắc xin BioNTech.
+Xem thêm: Biến thể Omicron tàng hình
+Biến thể Omicron đã càn quét toàn cầu trong suốt 2 tháng qua
+Tại Việt Nam, từ khi dịch Covid-19 xuất hiện đến nay, tỷ lệ mắc bệnh của trẻ dưới 18 tuổi là 19,2%, tương đương khoảng 490.000 trẻ. Trong đó có 4,8% trẻ trong độ tuổi từ 13-17 tuổi; 8% trẻ từ 6-12 tuổi; 2,8% trẻ từ 3-5 tuổi và 3,6% trẻ từ 0 đến 2 tuổi.
+Theo Claudia Hoyen, Giám đốc Kiểm soát nhiễm trùng nhi tại Bệnh viện nhi UH Rainbow, Cleveland (Mỹ) cho biết: “Ở người lớn số ca mắc Covid-19 tuy nhiều nhưng tương đối ít trường hợp phải nhập viện, trong khi đó số ca nhập viện do Covid-19 ở trẻ em ngày càng gia tăng. Đây là điều đáng quan tâm, đặc biệt là với trẻ ở độ tuổi chưa thể tiêm phòng vắc xin, hoặc đủ độ tuổi nhưng chưa được tiêm hoặc tiêm chưa đầy đủ”. (2)
+Theo các nhà khoa học, cho đến nay vẫn có rất ít bằng chứng cho thấy Omicron gây ra tình trạng bệnh nặng hơn ở trẻ em so với các biến thể trước đó, nhưng đồng thời cũng chưa có bất kỳ bằng chứng nào cho thấy nó nhẹ hơn.
+Hầu hết trẻ mắc Covid-19 phải nhập viện đều chưa được tiêm chủng hoặc tiêm chưa đầy đủ. Do đó chắc chắn trẻ sẽ không có được sự bảo vệ đầy đủ từ vắc xin.
+Vì sao trẻ dễ mắc Omicron?
+Các chuyên gia cảnh báo, trẻ em là đối tượng dễ bị lây nhiễm virus SARS-CoV-2. TS. Juan Salazar, Giám đốc Trung tâm Nhi khoa Connecticut ở Hartford (Mỹ) cảnh báo: “Dường như virus SARS-CoV-2 đã tìm thấy đối tượng thích hợp để lây nhiễm, đó chính là trẻ nhỏ chưa đủ điều kiện tiêm phòng vắc xin hoặc những đứa trẻ lớn hơn chưa được tiêm, hoặc tiêm chủng không đầy đủ”.
+Số lượng trẻ mắc Covid-19 tăng mạnh do các trường học đã mở cửa cho học sinh đi học trở lại, khiến tỷ lệ lây nhiễm bệnh gia tăng trong khi độ bao phủ vắc xin ở trẻ em chưa cao. Các chuyên gia y tế cho rằng, không giống biến thể Delta có xu hướng tấn công chủ yếu vào vùng phổi của người bệnh, biến thể Omicron gây ảnh hưởng trực tiếp đến hệ hô hấp trên của bệnh nhân. Trong khi đó đường hô hấp trên và đường mũi ở trẻ hẹp hơn ở người lớn, nên nguy cơ mắc các triệu chứng bệnh cũng lớn hơn.
+Trẻ quay lại trường, gia tăng tiếp xúc là một trong những nguyên nhân khiến số ca nhiễm Omicron ở trẻ em tăng cao
+Mặt khác, một số người dân đã không còn thực hiện nghiêm túc việc đeo khẩu trang hoặc không tuân thủ các biện pháp cách ly, giãn cách như đã từng được áp dụng trước đây. Tất cả những yếu tố này có thể khiến Omicron lây lan mạnh mẽ hơn, đặc biệt là ở đối tượng trẻ em.
+Triệu chứng omicron ở trẻ em
+Tương tự như ở người lớn, triệu chứng Omicron điển hình ở trẻ em là ho và sổ mũi, tương tự với cảm, đôi khi có thêm triệu chứng mệt mỏi, đau đầu và sổ mũi. Ngoài ra, biến thể Omicron cũng xuất hiện triệu chứng ho, triệu chứng này kéo dài hơn ở trẻ nhỏ. (3)
+Nhìn chung, các triệu chứng của biến thể Omicron ở trẻ em thường nhanh khỏi. Triệu chứng về tiêu hóa như nôn, ói, tiêu chảy thường diễn ra trong vòng 24 giờ; sốt cũng không quá 36 giờ, chỉ có ho và sổ mũi là có thể kéo dài trong vài ngày.
+Sổ mũi, ho là những triệu chứng thường gặp ở trẻ nhiễm Omicron
+Khi nào nên gọi cho bác sĩ Nhi khoa?
+Thông thường, trẻ mắc Covid-19 có bệnh cảnh nhẹ hơn người lớn, phụ huynh có thể chăm sóc trẻ tại nhà hoặc bệnh viện theo sự hướng dẫn của y tế địa phương. Tuy nhiên, trong một số trường hợp đặc biệt, trẻ có nguy cơ tăng nặng. Do đó, khi chăm sóc trẻ Covid-19, phụ huynh cần theo dõi sát sao biểu hiện của trẻ và liên hệ với bác sĩ Nhi khoa ngay khi trẻ xuất hiện các dấu hiệu trở nặng sau: (4)
+Thở nhanh;
+Kém ăn;
+Khó thở;
+Cánh mũi phập phồng;
+Rút lõm lồng ngực;
+Li bì, lờ đờ, bỏ bú;
+Tím môi, đầu chi;
+Chi lạnh, nổi vân tím.
+Trong những triệu chứng trên, triệu chứng lâm sàng quan trọng nhất là trẻ thở nhanh, kém ăn hay thậm chí ăn uống được nhưng kém hơn một chút, chỉ số SPO2 tụt ở mức 94-95% khi thở khí trời.
+Một số yếu tố tăng nguy cơ bệnh nặng ở trẻ mắc Covid-19 bao gồm:
+Trẻ sinh non, cân nặng thấp,
+Mắc các bệnh như rối loạn chuyển hóa, bất thường gen, đái tháo đường, béo phì,
+Có bệnh hô hấp mạn tính, viêm phế quản co thắt, hen phế quản…,
+Bệnh tim bẩm sinh,
+Suy giảm miễn dịch bẩm sinh, mắc HIV, điều trị corticoid kéo dài,
+Bệnh thận mạn,
+Ung thư, huyết học (bệnh hồng cầu hình liềm)…
+Đây là những yếu tố nguy cơ khiến bệnh nặng hơn. Tuy nhiên, trong nhiều trường hợp phải căn cứ vào triệu chứng, xét nghiệm lâm sàng để quyết định trẻ có cần nhập viện hay không.
+Xem thêm cách chăm sóc trẻ mắc Covid-19 tại nhà
+Cha mẹ cần làm gì khi trẻ bị nhiễm biến thể Omicron?
+Bình tĩnh là việc đầu tiên ba, mẹ cần làm
+Khi bé có kết quả xét nghiệm dương tính với Covid-19, ba mẹ nên bình tĩnh động viên và giải thích cho con hiểu về căn bệnh này, đồng thời cho trẻ cách ly với những người xung quanh. Tiếp theo, ba mẹ cần thông báo cho trạm y tế và trường học của bé, làm theo những hướng dẫn của nhân viên y tế.
+Cung cấp những thông tin chính xác cho trẻ
+Tùy thuộc vào độ tuổi của bé mà ba mẹ có thể cân nhắc giải thích chọn lọc cho trẻ những thông tin liên quan đến biến thể Omicron. Biến thể này cũng chỉ vừa xuất hiện vài tháng nay và các nhà khoa học cũng đang nghiên cứu về nó. Theo những thông tin ban đầu, biến thể gây bệnh nhẹ hoặc không triệu chứng, lây nhanh và hay gặp ở người trẻ tuổi. Nên người trẻ tuổi có bệnh nền và cả người lớn tuổi trong gia đình là những đối tượng cần được bảo vệ. Nếu bé cách ly tại nhà, ba mẹ cần động viên bé ăn uống đủ bữa, đủ chất, thực hiện tốt 5K đặc biệt là đeo khẩu trang, biết cách tự vệ sinh cá nhân. Ba mẹ nên lắng nghe và quan tâm những ý kiến của bé.
+Theo dõi các dấu hiệu cảnh báo nguy hiểm
+Theo dõi tình trạng sức khỏe của bé đồng thời hướng dẫn bé nhận biết các dấu hiệu chuyển nặng, chủ yếu là dấu hiệu khó chịu khi thở. Đặc biệt là thanh thiếu niên, một số bé sẽ cảm thấy sợ hãi khi mắc bệnh do những thông tin sai lệch trên mạng xã hội.
+Cha mẹ cần giải thích cho con và lưu ý các biến chứng nặng có thể xảy đến như Hội chứng viêm đa hệ thống ở trẻ (MIS-C) thường xuất hiện từ 2-6 tuần sau khi nhiễm Covid-19. Trong đó, các bộ phận khác nhau trong cơ thể bị viêm như: Tim, thận, phổi, não, mắt, da, các cơ quan tiêu hóa.
+Theo CDC, nguyên nhân gây ra hội chứng viêm đa hệ thống (MIS-C) vẫn chưa được xác định, các dấu hiệu sớm gồm: sốt cao, đau bụng, mắt đỏ ngầu, tiêu chảy, choáng váng, da phát ban, nôn ói. Tính đến tháng 1/2022, CDC Hoa Kỳ đã ghi nhận 6.400 trường hợp MIS-C ở trẻ nhiễm Covid-19, trong đó 55 trường hợp tử vong. Sự gia tăng Omicron ở trẻ em có khả năng khiến nhiều trường hợp MIS-C xuất hiện.
+Dùng thuốc theo hướng dẫn bác sĩ
+Tùy theo mức độ của bệnh, phụ huynh có thể cho bé dùng thuốc theo đúng hướng dẫn của bác sĩ, không được tự ý dùng theo lời của người không có chuyên môn. Một số thuốc kháng virus dạng uống không được sử dụng ở trẻ dưới 18 tuổi, bà mẹ mang thai, cho con bú vì có thể ảnh hưởng đến gen và đột biến tế bào bé sau này.
+Omicron ở trẻ em đang gia tăng với tốc độ nhanh và có nhiều diễn biến phức tạp. Để bảo vệ sức khỏe của bé, phụ huynh cần tránh cho bé tiếp xúc với những người chưa được tiêm chủng, hạn chế người ngoài gia đình ôm hôn, da kề da với bé, thực hiện 5K, tiêm vắc xin phòng Covid-19 đầy đủ cho trẻ trong nhóm tuổi được tiêm. Nâng cao dinh dưỡng, thể chất để trẻ phát triển khỏe mạnh.

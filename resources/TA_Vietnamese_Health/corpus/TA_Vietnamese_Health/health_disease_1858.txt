@@ -1,0 +1,84 @@
+# doc_id = health_disease_1858
+# url = https://tamanhhospital.vn/ecmo/
+# date = 14/06/2024
+Kỹ thuật ECMO là gì? Có tác dụng gì? Chỉ định và chống chỉ định
+ECMO hay còn được gọi là tim phổi nhân tạo ngoài cơ thể, là kỹ thuật hiện đại nhất trong việc hỗ trợ sự sống khi 2 cơ quan chính là tim và phổi của người bệnh không thể duy trì chức năng vốn có. Vậy kỹ thuật ECMO là gì? Cơ chế hoạt động ra sao? Khi nào thì kỹ thuật EMCO được sử dụng cho người bệnh? Bài viết sau của bác sĩ CKI Nguyễn Duy Khương, khoa Hồi sức tích cực – Chống độc, Bệnh viện Đa khoa Tâm Anh TP.HCM sẽ giải đáp cụ thể phương pháp này.
+Mục lụcKỹ thuật ECMO là gì?ECMO có tác dụng gì?EMCO hoạt động dựa trên nguyên lý nào?Chỉ định và chống chỉ định can thiệp ECMO1. Chỉ định2. Chống chỉ địnhECMO có mấy loại?Ưu và nhược điểm của ECMO1. Ưu điểm2. Nhược điểmRủi ro biến chứng có thể gặpCách thức cơ bản theo dõi bệnh nhân điều trị có can thiệp ECMOMột số câu hỏi liên quan1. Một liệu trình ECMO kéo dài bao lâu?2. Khi nào người bệnh có thể ngừng ECMO?3. Nên lựa chọn điều trị can thiệp ECMO ở đâu?4. Chi phí can thiệp ECMO khoảng bao nhiêu tiền?Kỹ thuật ECMO là gì?
+Kỹ thuật ECMO (ExtraCorporeal Membrane Oxygenation – phương pháp oxy hoá qua màng ngoài cơ thể) là phương pháp thay thế tạm thời chức năng của tim, phổi hoặc cả hai trong thời gian chờ phục hồi. ECMO liên tục lấy máu ra khỏi cơ thể người bệnh qua hệ thống ống dẫn đến bộ phận màng có vai trò cung cấp oxy và loại bỏ CO2 trong máu. Sau đó dòng máu giàu oxy và ít CO2 sẽ được trả về cho người bệnh.
+Kỹ thuật ECMO sẽ thay thế tạm thời cho chức năng của tim, phổi hoặc cả hai khi chúng bị tổn thương với bất kỳ lý do gì nhưng vẫn còn khả năng hồi phục trong tương lai. (1)
+ECMO có tác dụng gì?
+Có. ECMO có thể đảm nhận hoàn toàn chức năng của tim và phổi nhưng chỉ trong thời gian duy trì kỹ thuật. Vì vậy, kỹ thuật ECMO chỉ được sử dụng khi tim và phổi của người bệnh vẫn còn khả năng phục hồi, cụ thể trong các trường hợp sau:
+Mất chức năng phổi: viêm phổi nặng do các tác nhân vị sinh, độc chất, tổn thương phổi do chấn thương, ngộ độc khí, cháy…
+Mất chức năng tim: sốc tim, ngừng tim do các nguyên nhân cấp tính (điện giật, rối loạn nhịp, viêm cơ tim, do thuốc, độc chất,…).
+Người bệnh chờ ghép tạng (tim, phổi).
+EMCO hoạt động dựa trên nguyên lý nào?
+ECMO là một ứng dụng của kỹ thuật phân tách máu (Apheresis), có cùng cơ chế và nguồn gốc với các kỹ thuật lọc máu và thay huyết tương. Máu của người bệnh sẽ được lấy ra khỏi cơ thể, thêm các chất cần thiết và loại bỏ các chất cặn bã, mà cụ thể ở đây là oxy và C02. (2)
+Cơ chế hoạt động của ECMO:
+Người bệnh sẽ được đặt 2 ống thông mạch máu (catheter) vào các mạch máu lớn ở đùi, cổ hoặc ngực. Máu sẽ được rút từ ống thông tĩnh mạch gọi là đường rút máu, qua hệ thống ống dẫn đến bộ phân màng (membrane) có nhiệm vụ trao đổi khí (cung cấp oxy và thải khí CO2), sau đó máu sạch giàu oxy được trả về cho bệnh nhân qua ống thông gọi là đường trả máu.
+Đường trả máu về hệ thống tĩnh mạch (gọi là VV-ECMO) khi chỉ thay thế cho chức năng của phổi, hoặc trả máu về hệ thống động mạch (gọi là VA-ECMO) khi thay thế cho cả chức năng của phổi và tim.
+Chỉ định và chống chỉ định can thiệp ECMO
+1. Chỉ định
+1.1 Hội chứng suy hô hấp cấp tính (ARDS)
+Tổn thương phổi có thể gây hội chứng suy hô hấp cấp tính, hạn chế khả năng phổi đưa oxy vào và lấy CO2 ra khỏi máu. Điều này có thể xảy ra với:
+Các bệnh nhiễm trùng đường hô hấp như: viêm phổi, cúm, Covid-19…
+Nhiễm trùng huyết, làm tổn thương phổi của người bệnh.
+Hít phải khói, hóa chất độc hại và không khí nóng từ đám cháy.
+Dùng thuốc quá liều.
+Viêm tụy có thể khiến cơ thể tiết ra các hóa chất và độc tố gây hại cho phổi.
+Xuất huyết phế nang.
+1.2 Thuyên tắc phổi
+Thuyên tắc phổi xảy ra khi cục máu đông hình thành ở đâu đó trong cơ thể (thường là ở chân) di chuyển đến phổi và bị mắc kẹt. Tình trạng này có thể ngăn máu chảy qua phổi, gây suy tim và phổi nghiêm trọng.
+Thuyên tắc phổi xảy ra khi cục máu đông hình thành ở đâu đó trong cơ thể di chuyển đến phổi và bị mắc kẹt.
+1.3 Chấn thương tim
+Người bệnh cần điều trị bằng ECMO nếu tổn thương tim do chấn thương hoặc các tình trạng khác, cụ thể:
+Đau tim.
+Chấn thương do ngã hoặc va chạm ô tô, có thể làm bầm tím và hỏng cơ tim.
+1.4 Trẻ sơ sinh và trẻ sinh non
+Trẻ sơ sinh có vấn đề về tim và phổi, đặc biệt là trẻ sinh non, thường được điều trị bằng ECMO.
+1.5 Cấy ghép và phẫu thuật
+ECMO có thể đóng vai trò là “cầu nối” cho người đang chờ ghép tim hoặc phổi, vào những thời điểm như:
+Phẫu thuật cấy ghép.
+Phẫu thuật tim và phổi.
+Phục hồi sau phẫu thuật.
+2. Chống chỉ định
+Kỹ thuật ECMO thật ra không có chống chỉ định. Tuy nhiên, với những người bệnh lớn tuổi, khi chức năng của tim và phổi đã suy giảm mạn tính, tiên lượng xa kém thì việc sử dụng ECMO sẽ không mang lại lợi ích cho người bệnh.
+Ví dụ một số trường hợp mà ECMO không nên được chỉ định, bao gồm:
+Người bệnh có vấn đề về tim, phổi hoặc tuần hoàn không thể chữa khỏi hoặc việc cấy ghép không thể khắc phục được.
+Người bệnh bị tổn thương các cơ quan quan trọng khác như gan hoặc não.
+Ung thư đã di căn.
+Rối loạn chảy máu, đặc biệt ở đầu hoặc các vết thương có thể dẫn đến chảy máu không kiểm soát.
+ECMO có mấy loại?
+ECMO có 2 loại:
+VA ECMO (tĩnh mạch-động mạch) hỗ trợ chức năng tim và phổi. Bác sĩ phẫu thuật sẽ đặt 2 ống thông, 1 vào tĩnh mạch lớn và 1 vào động mạch lớn để máu được lấy ra khỏi tĩnh mạch và quay trở lại động mạch. VA ECMO giống như máy tim phổi được sử dụng trong các ca phẫu thuật tim.
+VV ECMO (tĩnh mạch-tĩnh mạch) chủ yếu hỗ trợ chức năng phổi. Bác sĩ phẫu thuật chỉ đặt ống thông vào tĩnh mạch lớn, thường ở cổ. Dựa trên độ tuổi và tình trạng của người bệnh, bác sĩ có thể chọn đặt một ống thông đặc biệt vào 1 tĩnh mạch hoặc đặt 2 ống thông vào 2 tĩnh mạch khác nhau. Ống thông đặc biệt trong 1 tĩnh mạch có 2 kênh ở cạnh nhau, cho phép máy bơm ECMO hút máu ra qua kênh này và máu quay trở lại qua kênh kia.
+ECMO có tác dụng thay thế tạm thời tim hay phổi hoặc cả tim lẫn phổi bị suy giảm chức năng trong thời gian ngắn.
+Ưu và nhược điểm của ECMO
+Ưu và nhược điểm của ECMO
+1. Ưu điểm
+Hỗ trợ tim phổi: ECMO hỗ trợ tim và phổi toàn diện, ngay cả trong những tình huống nguy cấp. Phương pháp này có thể cung cấp lưu lượng máu lên tới 7 lít/phút, can thiệp cho các trường hợp mắc bệnh tim và phổi nặng.
+Nghỉ ngơi và hồi phục: ECMO cho phép tim và phổi được nghỉ ngơi và hồi phục, giảm căng thẳng cho các cơ quan quan, đặc biệt trong các trường hợp nhiễm trùng đường hô hấp, đau tim hoặc chấn thương.
+Trao đổi oxy: không giống các thiết bị thông khí cơ học (chỉ di chuyển không khí), ECMO có thể trao đổi khí (oxy và CO2) trực tiếp từ máu, tương tự như chức năng của phổi khỏe mạnh.
+2. Nhược điểm
+Ống thông lớn: ECMO có thể sử dụng ống thông rất lớn cho lưu lượng cao, việc chọc động mạch là một thách thức lớn.
+Tóm lại, ECMO là thủ thuật phức tạp và chuyên sâu, được sử dụng cho người bệnh nguy kịch. Lợi ích bao gồm hỗ trợ cứu sống người bệnh, trong khi nhược điểm liên quan đến tính xâm lấn và các biến chứng tiềm ẩn. Bác sĩ sẽ cân nhắc cẩn thận việc sử dụng ECMO dựa trên nhu cầu và điều kiện cá nhân của người bệnh.
+Rủi ro biến chứng có thể gặp
+Một số rủi ro biến chứng có thể gặp khi can thiệp ECMO: (3)
+Vấn đề đông máu: bất cứ người bệnh được can thiệp bằng ECMO cũng phải dùng thuốc làm loãng máu vì nguy cơ hình thành cục máu đông. Các cục máu đông có thể bị kẹt trong mạch ECMO, làm gián đoạn lưu lượng máu.
+Sự nhiễm trùng: bất kỳ vết thương nào trên da đều có nguy cơ bị nhiễm trùng và các ống của mạch ECMO có thể khiến nhiễm trùng xâm nhập trực tiếp vào máu. Điều này có thể khiến nhiễm trùng lây lan khắp cơ thể dễ dàng hơn.
+Sự chảy máu: các ống phải đi vào các động mạch và tĩnh mạch chính nên có thể làm tăng nguy cơ chảy máu.
+Máy ECMO là một hệ thống phức tạp, đôi khi có những trục trặc do máy khiến máy ngưng hoạt động, đe doạ tính mạng người bệnh, nhưng rất hiếm gặp.
+Bất cứ người bệnh được can thiệp bằng ECMO cũng phải dùng thuốc làm loãng máu vì nguy cơ hình thành cục máu đông.
+Cách thức cơ bản theo dõi bệnh nhân điều trị có can thiệp ECMO
+Khi người bệnh được áp dụng ECMO, đa phần bệnh đã trở nặng hoặc người bệnh đã hôn mê, thở máy bằng ống nội khí quản. Trong quá trình can thiệp ECMO, người bệnh cần được theo dõi áp lực, tốc độ dòng máu và những biến chứng có thể xuất hiện.
+ECMO phải được thực hiện bởi một đội ngũ được đào tạo chuyên sâu về ECMO, trong đó bao gồm cả bác sĩ, điều dưỡng, kỹ thuật viên phối hợp nhuần nhuyễn để hiệu chỉnh những thông số cài đặt tối ưu nhất, phù hợp với tình trạng bệnh lý của người bệnh..
+Một số câu hỏi liên quan
+1. Một liệu trình ECMO kéo dài bao lâu?
+Không có khoảng thời gian cụ thể khi người bệnh được hỗ trợ ECMO, có thể kéo dài vài ngày, vài tuần, đôi khi vài tháng, tuỳ thuộc vào khả năng phục hồi của tim và phổi.
+2. Khi nào người bệnh có thể ngừng ECMO?
+Người bệnh có thể ngừng ECMO khi nguyên nhân bệnh ban đầu đã được giải quyết và chức năng tim và phổi của cơ thể lúc này đã có thể hoạt động độc lập không cần sự hỗ trợ của ECMO.
+3. Nên lựa chọn điều trị can thiệp ECMO ở đâu?
+Điều trị can thiệp ECMO tại khoa Hồi sức tích cực & Chống độc (ICU), BVĐK Tâm Anh TP.HCM. Đây là đơn vị cấp cứu, hồi sức và chăm sóc tích cực cho người bệnh nguy kịch hoặc gặp những vấn đề nghiệm trọng như: sốc, suy hô hấp, suy đa cơ quan, suy thận, suy gan, hôn mê, ngộ độc cấp, nhiễm trùng huyết nặng hoặc người bệnh phẫu thuật có nguy cơ cao bị suy hô hấp, chảy máu sau mổ, sốc…
+Khoa ICU tiếp nhận người bệnh có nguy cơ cao hoặc rối loạn một hoặc nhiều chức năng cơ quan, cần được theo dõi 24/24 hoặc điều trị hỗ trợ cơ quan.
+4. Chi phí can thiệp ECMO khoảng bao nhiêu tiền?
+Người bệnh can thiệp ECMO đều nguy kịch, nằm viện dài ngày, điều trị phối hợp nhiều phương pháp nên mức chi phí dao động từ vài trăm triệu đến hàng tỷ đồng.
+ECMO có tác dụng thay thế tạm thời tim hay phổi hoặc cả tim lẫn phổi bị suy giảm chức năng trong thời gian ngắn. Bác sĩ sẽ cân nhắc giữa lợi ích, rủi ro cũng như nhu cầu và điều kiện của người bệnh để đưa ra chỉ định phù hợp.

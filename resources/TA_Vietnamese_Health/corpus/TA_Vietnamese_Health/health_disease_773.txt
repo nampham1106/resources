@@ -1,0 +1,127 @@
+# doc_id = health_disease_773
+# url = https://tamanhhospital.vn/chup-ct/
+# date = 03/04/2021
+Chụp cắt lớp vi tính (chụp CT): Quy trình, ưu và nhược điểm
+Kỹ thuật chụp cắt lớp vi tính được thực hiện trong những trường hợp khẩn cấp, cần phân tích sâu tình trạng bệnh lý, qua đó, bác sĩ có thể đưa ra hướng điều trị phù hợp với từng người bệnh. Ngày nay, kỹ thuật chụp CT cũng được áp dụng trong khâu tầm soát, giúp cho việc sàng lọc bệnh lý diễn ra nhanh chóng và hiệu quả hơn. Tuy nhiên, cũng giống như các máy móc kỹ thuật khác, bên cạnh phần lớn ưu điểm thì chụp CT cũng có một vài nhược điểm nhất định.
+Mục lụcChụp cắt lớp vi tính (CT) là gì?Ưu và nhược điểm của chụp cắt lớp1. Ưu điểm2. Nhược điểmĐối tượng chỉ định được chụp CTQuy trình chụp CT cắt lớp1. Trước khi chụp CT2. Trong khi chụp CT3. Sau khi chụp CT4. Thời gian có kết quả chụp CTChụp CT scan ở những bộ phận nào?1. Chụp CT đầu2. Chụp CT phổi3. Chụp CT bụngKỹ thuật chụp CT cắt lớp1. Chụp CT 32 dãy2. Chụp CT 64 dãy3. Chụp CT 128 dãy4. Chụp CT 256 dãyLưu ý khi chụp cắt lớpCác câu hỏi liên quan đến chụp CT1. Chụp CT có được chi trả bảo hiểm y tế?2. Chụp cắt lớp có nguy hiểm không?3. Chụp CT có giảm tuổi thọ không?4. Chụp CT cắt lớp có tiêm thuốc cản quang?5. Chụp CT scan ở đâu?6. Chụp CT bao nhiêu tiền?7. Khi nào nên chụp CT?Chụp cắt lớp vi tính (CT) là gì?
+Chụp cắt lớp vi tính (CT hoặc CAT scan) là kỹ thuật kết hợp máy tính và tia X để tạo ra hình ảnh các cơ quan, xương và các mô của cơ thể theo lát cắt ngang. Những hình ảnh này cung cấp nhiều thông tin chi tiết hơn so với hình ảnh X-quang thông thường. Chúng có thể hiển thị các mô mềm, mạch máu và xương ở các bộ phận khác nhau của cơ thể như đầu, vai, xương sống, tim, bụng, đầu gối, ngực…
+Kỹ thuật chụp CT cắt lớp giúp bác sĩ dễ dàng hơn trong việc chẩn đoán, đưa ra hướng điều trị đúng đắn cho người bệnh
+Trong quá trình chụp CT, người bệnh được chỉ định nằm trên một chiếc máy, khi ấy máy dò và ống tia X sẽ xoay xung quanh, mỗi vòng quay sẽ cho ra một hình ảnh lát mỏng của cơ thể. Sau đó, những hình ảnh này được gửi đến máy tính, nơi chúng được kết hợp để tạo ra hình ảnh các lát cắt hoặc mặt cắt ngang của cơ thể. Quá trình này không mất nhiều thời gian và cũng không gây đau đớn cho người bệnh.
+Ưu và nhược điểm của chụp cắt lớp
+1. Ưu điểm
+So với X quang, chụp CT có ưu điểm nổi trội hơn hẳn nhờ khả năng chụp và phân tích hình ảnh sắc nét, không bị hiện tượng chồng hình. Vì thế, đối với những trường hợp cần phân tích sâu, có kết quả nhanh chóng, chính xác, các bác sĩ sẽ chỉ định thực hiện kỹ thuật này. (1)
+Chụp CT có thể áp dụng với nhiều đối tượng bệnh khác nhau như người có dị vật bên trong cơ thể, có đặt các máy móc như máy trợ thính, tạo tim… hay nhóm người bệnh mắc các vấn đề về xương khớp nghiêm trọng.
+2. Nhược điểm
+Cũng giống như các kỹ thuật sử dụng tia X khác, người bệnh có xu hướng lo lắng về tác dụng phụ của tia X đến cơ thể. Tuy nhiên, thế hệ máy móc hiện đại thường cho ra liều tia X rất thấp, do đó, khả năng bị phơi nhiễm rất nhỏ.
+Tuy kỹ thuật này cho hình ảnh về mô mềm rõ nét hơn nhưng với những tổn thương có kích thước nhỏ hơn, bác sĩ sẽ đề nghị chụp MRI để tăng độ chính xác cho hình ảnh. Đối với những tổn thương về sụn khớp, dây chằng hoặc tủy sống thì kỹ thuật này cũng có phần hạn chế.
+Đối tượng chỉ định được chụp CT
+Bác sĩ sẽ chỉ định thực hiện kỹ thuật này đối với những trường hợp sau:
+Gặp các vấn đề về xương và khớp như gãy xương phức tạp và các khối u
+Người mắc bệnh ung thư, bệnh tim, khí phế thũng hoặc khối u ở gan… chụp CT có thể phát hiện bệnh hoặc giúp bác sĩ nhìn thấy những thay đổi
+Người đang có những vết thương bên trong và chảy máu (do tai nạn)
+Xác định vị trí khối u, cục máu đông, chất lỏng dư thừa hoặc nhiễm trùng ở người bệnh
+Hướng dẫn các kế hoạch và thủ tục điều trị, chẳng hạn như sinh thiết, phẫu thuật và xạ trị
+Bác sĩ có thể so sánh kết quả chụp CT để tìm hiểu một số phương pháp điều trị có hiệu quả hay không. Ví dụ: quét khối u theo thời gian có thể cho biết khối u có đáp ứng với hóa trị hoặc xạ trị hay không.
+Quy trình chụp CT cắt lớp
+Quy trình chụp CT cắt lớp có thể chia thành 4 giai đoạn như sau: (2)
+1. Trước khi chụp CT
+Tùy vào bộ phận cần chụp CT, bác sĩ có thể chỉ định cho bạn một loại thuốc gọi là chất cản quang. Thuốc này có tác dụng “nhuộm trắng” khu vực kiểm tra, giúp các cấu trúc bên trong hiển thị rõ ràng hơn trên màn hình. Ngoài ra, chất lỏng này có thể được tiêm vào cánh tay hoặc trực tràng cùng thuốc xổ. Nếu bác sĩ đưa chỉ định bạn dùng chất cản quang, họ có thể yêu cầu bạn nhịn ăn từ 4 đến 6 giờ trước khi chụp CT.
+2. Trong khi chụp CT
+Khi thực hiện kỹ thuật chụp CT, bạn sẽ được yêu cầu thay áo choàng của bệnh viện và tháo đồ trang sức, phụ kiện có chất liệu kim loại (bao gồm cả kính và răng giả). Việc này giúp cho kết quả chụp CT đạt được độ chính xác cao. Kế đến, kỹ thuật viên sẽ yêu cầu bạn nằm ngửa trên bàn máy chụp CT. Sau đó họ sẽ rời khỏi phòng chụp và đi vào phòng điều khiển, nơi họ có thể nhìn và nghe thấy bạn nói thông qua hệ thống liên lạc nội bộ.
+Nhiều cải tiến mới mang đến những ưu điểm vượt trội cho kỹ thuật CT ngày nay
+Hệ thống từ từ đưa bạn vào sâu trong máy, hệ thống X-quang sẽ quay xung quanh bạn. Mỗi vòng quay sẽ tạo ra những hình ảnh về các lát mỏng của cơ thể bạn. Bạn có thể nghe thấy tiếng lách cách, vo ve và tiếng ồn ào trong quá trình quét chụp.
+3. Sau khi chụp CT
+Khi quá trình chụp CT kết thúc, hình ảnh sẽ được gửi đến bác sĩ X quang để đọc kết quả. Trường hợp xuất hiện những bất thường, bác sĩ sẽ đưa ra chẩn đoán và hướng điều trị phù hợp với thực trạng bệnh lý của bạn.
+4. Thời gian có kết quả chụp CT
+Toàn bộ quy trình chụp CT có thể diễn ra trong khoảng từ 20 phút đến 1 giờ. Kết quả chụp CT được coi là bình thường nếu bác sĩ X quang không nhìn thấy bất kỳ khối u, cục máu đông, gãy xương hoặc bất thường khác trong hình ảnh. Nếu phát hiện dấu hiệu bất thường, bác sĩ có thể yêu cầu bạn làm thêm xét nghiệm hoặc tiến hành điều trị, tùy thuộc vào loại bất thường được tìm thấy.
+Chụp CT scan ở những bộ phận nào?
+1. Chụp CT đầu
+Chụp CT đầu tạo ra hình ảnh ba chiều về vùng đầu của bạn. Những hình ảnh này được tạo ra khi các chùm tia X quay quanh bộ phận đầu và cổ. Hình ảnh hiển thị dưới dạng 2 chiều hoặc 3 chiều, tùy theo chỉ định của bác sĩ. Thông qua chụp CT đầu, bác sĩ sẽ biết được tình trạng hộp sọ, não, xoang, hốc mắt và đưa ra chẩn đoán.
+Chụp CT đầu giúp bác sĩ xác định hoặc loại trừ các vấn đề sức khỏe tiềm ẩn. Các triệu chứng có thể khiến bác sĩ đưa ra yêu cầu thực hiện kỹ thuật này bao gồm:
+Hành vi bất thường
+Chóng mặt
+Ngất xỉu
+Nhức đầu
+Giảm thính lực hoặc thị lực
+Những loại bệnh dưới đây có thể gây ra những triệu chứng trên:
+Bệnh Alzheimer
+U não
+Chứng phình động mạch
+Đột quỵ
+Chảy máu trong
+Nhiễm trùng não
+Ngoài việc thực hiện chụp CT để chẩn đoán bệnh, kỹ thuật này cũng được đề nghị thực hiện khi bạn bị chấn thương ở đầu (chấn động mạnh, tai nạn…).
+2. Chụp CT phổi
+Chụp CT phổi là kỹ thuật chẩn đoán hình ảnh cận lâm sàng sử dụng tia X chiếu lên phổi, chụp lại những hình ảnh dưới định dạng 2D hoặc 3D có độ phân giải cao nhằm mục đích phát hiện những bất thường và đánh giá chi tiết tổn thương trong phổi.
+Chụp CT phổi cung cấp nhiều thông tin chi tiết hơn so với chụp X-quang thông thường, giúp chẩn đoán và quản lý ung thư phổi sớm hơn và hiệu quả hơn.
+Chụp CT phổi thường được chỉ định cho các đối tượng sau:
+Gia đình có tiền sử mắc bệnh ung thư phổi
+Nằm trong độ tuổi từ 50 trở lên, hút thuốc lá hoặc đã có tiền sử hút thuốc lá trên 10 năm
+Chấn thương nặng ở vùng ngực, nghi ngờ ảnh hưởng đến phổi
+Thường xuất hiện triệu chứng khó thở, khó nuốt, ho ra máu mà không biết nguyên nhân
+Người đang mắc các bệnh như viêm phổi kẽ, viêm phế quản nặng hoặc các bệnh lý khác liên quan đến phổi
+Thường xuyên phải làm việc và tiếp xúc với môi trường ô nhiễm nhiều khói bụi, chứa các hóa chất độc hại hay nhiễm phóng xạ
+Bác sĩ sẽ xem xét hồ sơ bệnh, hình ảnh, tiến hành thảo luận và đề xuất các bước tiếp theo (nếu có). Bạn có thể sẽ được yêu cầu chụp lại CT trong một khung thời gian nhất định hoặc làm các xét nghiệm bổ sung hay một vài thủ tục như sinh thiết.
+3. Chụp CT bụng
+Chụp CT bụng giúp bác sĩ biết được tình trạng các cơ quan, mạch máu và xương trong khoang bụng. Đa dạng hình ảnh được cung cấp sẽ mang đến cho bác sĩ nhiều góc nhìn khác nhau về cơ thể bạn.
+Kỹ thuật này được thực hiện trong trường hợp bác sĩ nghi ngờ có điều gì đó không ổn ở vùng bụng nhưng chưa có đủ thông tin để kết luận.
+Một số lý do khiến bác sĩ có thể đưa ra chỉ định thực hiện kỹ thuật chụp CT bụng bao gồm:
+Đau bụng
+Dịch ổ bụng
+Sỏi thận (nhằm kiểm tra kích thước và vị trí của sỏi)
+Sụt cân không lý do
+Nhiễm trùng (chẳng hạn viêm ruột thừa)
+Kiểm tra tắc ruột
+Viêm ruột (chẳng hạn bệnh Crohn)
+Chấn thương vùng ổ bụng
+Chẩn đoán ung thư gần đây
+Ngoài ra chụp cắt lớp vi tính còn áp dụng cho các bộ phận như: chụp ct scanner sọ não, chụp ct tim mạch, chụp ct ổ bụng,..
+Kỹ thuật chụp CT cắt lớp
+Thời đại kỹ thuật số, máy móc thiết bị được nâng cấp, đồng nghĩa với việc các kỹ thuật y tế như chụp CT cũng được “nâng đời”. Nếu lúc trước chụp CT dừng ở con số 32, 64 lát cắt thì giờ đây là 128, 256 lát cắt. Chụp cắt lớp càng nhiều dãy sẽ cho ra nhiều lát cắt tương ứng với đa dạng góc nhìn về cơ quan được chụp. Điều này giúp hỗ trợ tối đa cho quá trình thăm khám, sàng lọc, chẩn đoán và điều trị bệnh của bác sĩ.
+1. Chụp CT 32 dãy
+Thuộc dòng thế hệ máy ứng dụng trí tuệ nhân tạo, tích hợp nhiều phần mềm hỗ trợ cho bác sĩ và kỹ thuật viên, giúp tăng chất lượng hình ảnh, độ chính xác của chẩn đoán và tăng độ an toàn cho bệnh nhân. Kỹ thuật CT 32 lát cắt phù hợp trong chẩn đoán các bệnh lý về sọ não, xoang, ngực, bụng, cột sống.
+2. Chụp CT 64 dãy
+Kỹ thuật chụp CT 64 dãy tích hợp nhiều chức năng vượt trội hơn so với kỹ thuật 32 dãy. Trong khoảng thời gian ngắn có thể chụp được 64 lát cắt mỏng (0,6mm), cho ra hình ảnh rõ ràng, sắc nét cho dù đó là những tổn thương rất nhỏ tại các bộ phận của cơ thể, như xương, mạch máu, mô mềm… Kỹ thuật này cũng có thể tìm ra các dấu hiệu chấn thương, nhiễm trùng hoặc bệnh lý ung thư mới khởi phát.
+Kỹ thuật chụp CT 64 dãy cũng giúp giảm đáng kể liều tia chiếu xạ X đến người bệnh, giảm nguy cơ mắc ung thư hay những tác hại đến sức khỏe khác mà người bệnh thường hay lo lắng.
+Chụp CT 64 dãy thường được bác sĩ chỉ định thực hiện cho các vấn đề về chấn thương như chấn thương sọ não, đột quỵ, viêm xoang; chấn thương vùng đầu – mặt – cổ; chấn thương vùng ngực; chấn thương xương khớp; chẩn đoán các bệnh lý về tim mạch; các bệnh lý về đường tiêu hóa, chấn thương bụng…
+3. Chụp CT 128 dãy
+Được xem là phiên bản nâng cấp hơn hẳn so với các đời trước, kỹ thuật chụp CT 128 dãy cho ra 768 lát cắt và sở hữu những ưu điểm nổi trội: hình ảnh rõ nét, phân giải được cả mô mềm và thời gian chụp rút ngắn hơn.
+Chụp CT 128 dãy phát huy công dụng rõ rệt trong việc chẩn đoán các bệnh lý nguy hiểm:
+Bệnh ung thư: chẩn đoán sớm và chính xác các khối u ác tính, hỗ trợ bác sĩ đưa ra hướng điều trị và theo dõi bệnh phù hợp, kể cả khi quá trình điều trị kết thúc nhằm kiểm soát tình trạng di căn của bệnh.
+Tim mạch: kỹ thuật này giúp đánh giá rõ ràng nhất khả năng phục hồi của cơ tim sau điều trị.
+Bệnh lý về thần kinh: Chụp CT 128 dãy giúp bác sĩ theo dõi người bệnh thông qua những hình ảnh được trả ra và đánh giá các khối u phát triển trong não hoặc các dấu hiệu nhiễm trùng; hỗ trợ đánh giá các bệnh liên quan đến trí nhớ như sa sút trí tuệ, Alzheimer (đặc trưng bởi sự mất dần các nơron thần kinh và synap trong vỏ não và một số vùng dưới vỏ), gây chứng giảm trí nhớ ở người già…
+Đây là hệ thống chụp CT hai đầu bóng cao cấp nhất hiện nay, có khả năng tái tạo lên đến 768 lát cắt, giúp đánh giá những tổn thương nhỏ nhất mà chụp CT thông thường không thể phát hiện, đặc biệt là với các bệnh lý tim mạch, ung thư và nhi khoa.
+Hệ thống Chụp CT 128 dãy được vận hành tại BVĐK Tâm Anh TP.HCM
+Với tốc độ chụp lên đến 458mm/s, độ phân giải thời gian vật lý 75ms, hệ thống chụp CT 768 lát cắt thích hợp khảo sát các bệnh lý về tim mạch và tất cả các bộ phận trong cơ thể với thời gian chụp nhanh chóng. Người bệnh không cần nín thở (như các thế hệ máy trước), nhất là đối tượng bệnh nhi, người già yếu hoặc bệnh nhân cấp cứu.
+Hơn nữa, khả năng chụp và đánh giá CT cắt lớp chuyên sâu với gói CT 2 có mức năng lượng cao đưa ra nhiều thông tin hữu ích về lâm sàng. Đặc biệt, hệ thống còn được trang bị thêm bộ lọc tia Tin filter giúp giảm thiểu liều tia X tác động đến cơ thể, giúp người bệnh hoàn toàn yên tâm khi thực hiện kỹ thuật này.
+4. Chụp CT 256 dãy
+Cũng sở hữu những ưu điểm nổi trội như các dòng máy trước nhưng chụp CT 256 dãy lại giảm bớt 80-82% liều chiếu xạ so với các loại máy CT thông thường. Máy cũng có khả năng chụp được nhiều cơ quan, đặc biệt là chụp tim mạch, hỗ trợ cho việc tầm soát và điều trị các bệnh lý về tim mạch. Thời gian chụp nhanh chóng, 0,28 giây cho mỗi vòng quay đồng nghĩa với việc chỉ mất khoảng 15 giây là có kết quả hình ảnh chẩn đoán. Ưu điểm này giúp ích cho quá trình chẩn đoán, xử lý ca bệnh, đặc biệt đối với những ca cấp cứu, cần có kết quả chẩn đoán nhanh chóng.
+Tuy nhiên, nhược điểm của kỹ thuật này nằm ở chỗ khó phát hiện các tổn thương từ sụn, dây chằng, tủy sống vì thế cần thêm sự hỗ trợ của các kỹ thuật chẩn đoán khác.
+Lưu ý khi chụp cắt lớp
+Bạn nên nằm yên trong lúc chụp CT vì chuyển động có thể dẫn đến ảnh bị mờ. Bác sĩ có thể yêu cầu bạn nín thở trong khoảng thời gian ngắn trong lúc chụp để lồng ngực không di chuyển lên xuống. Tuy nhiên, với thế hệ chụp CT 768 dãy thì những vấn đề như nín thở của bệnh nhân nhi hay bệnh nhân cấp cứu sẽ được giải quyết.
+Điều quan trọng là bạn phải nói với bác sĩ nếu bạn đang mang thai. Mặc dù bức xạ từ chụp CT không có khả năng gây hại cho thai nhi, nhưng bác sĩ có thể đề nghị một hình thức kiểm tra khác như siêu âm hoặc chụp MRI, để giảm thiểu rủi ro.
+Các câu hỏi liên quan đến chụp CT
+1. Chụp CT có được chi trả bảo hiểm y tế?
+Chụp CT có thể được chi trả bảo hiểm y tế nếu bạn thỏa mãn hai điều kiện sau:
+Bệnh viện mà bạn thực hiện chụp CT có áp dụng chế độ thanh toán bằng bảo hiểm
+Bạn nằm trong diện được hưởng chế độ bảo hiểm đúng tuyến tại bệnh viện đó
+Theo quy định của Luật bảo hiểm y tế năm 2014 (Điều B Khoản 1, Khoản 2 Điều 21) đã nêu rõ, bệnh nhân chụp CT được hưởng bảo hiểm trong trường hợp bệnh viện có áp dụng chế độ thanh toán bảo hiểm và người bệnh được hưởng quyền lợi bảo hiểm đúng tuyến. Do đó, bạn nên lựa chọn bệnh viện có uy tín để khám chữa bệnh, vừa giúp phát hiện và điều trị bệnh đúng cách vừa đảm bảo bản thân được hưởng trọn vẹn quyền lợi bảo hiểm trong khám, chữa bệnh.
+2. Chụp cắt lớp có nguy hiểm không?
+Có rất ít rủi ro liên quan đến chụp cắt lớp. Mặc dù chụp CT khiến bạn tiếp xúc với nhiều bức xạ hơn X quang thông thường, nhưng nguy cơ ung thư do bức xạ gây ra là rất nhỏ nếu bạn chỉ chụp một lần. Tuy nhiên, nguy cơ ung thư có thể tăng lên theo thời gian nếu bạn chụp X quang hoặc chụp CT nhiều lần. Với trẻ em thường là ung thư ngực và bụng. Do đó, để phòng tránh nguy cơ này, bạn không nên tự ý thực hiện chụp cắt lớp mà cần tuân theo chỉ định của bác sĩ.
+3. Chụp CT có giảm tuổi thọ không?
+Cho đến nay vẫn chưa có một nghiên cứu khoa học hay khảo sát nào chứng minh việc chụp CT ảnh hưởng đến tuổi thọ. Thực tế cho thấy các bác sĩ cũng rất thận trọng khi chỉ định thực hiện kỹ thuật CT, trừ phi kỹ thuật này thật sự cần thiết cho quá trình chẩn đoán. Ngoài ra, chỉ định kỹ thuật cũng phải phù hợp với từng loại bệnh lý, hạn chế tối đa liều lượng tia X ảnh hưởng tới người bệnh. Hơn nữa, bác sĩ cũng sẽ chắc chắn rằng lợi ích của việc chẩn đoán là cao hơn nguy cơ. Nếu có thể, bác sĩ sẽ chỉ định thực hiện siêu âm hay cộng hưởng từ (MRI) để thay thế. Do đó, bạn có thể yên tâm về tính an toàn khi thực hiện kỹ thuật chụp CT nếu tuân theo chỉ định của bác sĩ.
+4. Chụp CT cắt lớp có tiêm thuốc cản quang?
+Trước tiên, bạn cần hiểu thuốc cản quang là gì? Thuốc cản quang là dung dịch có chứa iod, được tiêm vào cơ thể khi chụp cắt lớp. Khi đi vào cơ thể, các cấu trúc hoặc tổn thương sẽ bắt thuốc và tạo ra màu trắng sáng trên màn hình chụp CT, giúp phân biệt rõ ràng vùng tổn thương với các vùng xung quanh. Nâng cao tính chính xác cho quá trình chẩn đoán.
+Một số người có phản ứng dị ứng khi dùng chất cản quang thực chất là do dị ứng với iod có trong nó. Hầu hết các chất cản quang đều chứa i-ốt, vì vậy nếu đã từng có phản ứng không tốt với i-ốt trước đây, hãy thông báo cho bác sĩ trước khi thực hiện. Bác sĩ có thể sẽ cho bạn dùng thuốc dị ứng hoặc steroid để chống lại các tác dụng phụ có thể xảy ra khi phải dùng thuốc cản quang.
+Xem giải đáp chi tiết thắc mắc Chụp CT có tiêm thuốc cản quang?
+5. Chụp CT scan ở đâu?
+Tại các bệnh viện lớn đều được trang bị hệ thống máy chụp CT scan, chỉ khác nhau ở thế hệ máy, mức giá và chuyên môn của bác sĩ trong việc đọc kết quả hình ảnh.
+Việc bạn cần làm là tìm hiểu thông tin bệnh viện uy tín, kỹ thuật hiện đại và chế độ bảo hiểm của mình có thích hợp với bệnh viện đó.
+Tại BVĐK Tâm Anh TP.HCM hiện đang trang bị hệ thống chụp CT 768 lát cắt ứng dụng trí tuệ nhân tạo (AI). Kết quả được đọc tự động, giúp gia tăng tính chính xác, tiết kiệm thời gian cho cả bác sĩ và người bệnh.
+Đây là dòng máy hiện đại hàng đầu Việt Nam, hiện chỉ có bốn bệnh viện được trang bị. Ngoài ra, tại khoa Chẩn đoán Hình ảnh, bệnh viện BVĐK Tâm Anh TP.HCM còn có đội ngũ bác sĩ đầu ngành, chuyên môn cao trong việc đọc kết quả hình ảnh, từ đó đưa ra những chẩn đoán, hướng điều trị phù hợp với từng cá nhân người bệnh.
+Đặc biệt, bệnh viện còn liên kết với các đối tác bảo hiểm lớn như Bảo hiểm Bảo Minh, Bảo hiểm Bưu điện, AIA… hỗ trợ tối đa cho bệnh nhân trong quy trình khám chữa, truy lãnh bảo hiểm.
+6. Chụp CT bao nhiêu tiền?
+Tùy vào thế hệ máy, kỹ thuật chụp, bộ phận chụp (đầu, ngực, bụng…), mức phí quy định của từng bệnh viện mà giá chụp CT dao động trong khoảng từ 900.000 đến 5.000.000VNĐ.
+*Lưu ý bảng giá dịch vụ trên đây là bảng giá tham khảo tại thời điểm cập nhật bài viết. Khách hàng vui lòng liên hệ trực tiếp bệnh viện để được tư vấn cụ thể về chi phí tại thời điểm khách hàng sử dụng dịch vụ.
+7. Khi nào nên chụp CT?
+Như trên đã nói, những đối tượng thuộc nhóm nguy cơ cần phải thực hiện kỹ thuật chụp CT, bao gồm người gặp các vấn đề về xương và khớp; vấn đề ung thư, bệnh tim, khí phế thũng hoặc khối u ở gan; người đang có những vết thương bên trong và chảy máu (do tai nạn xe cộ); xác định vị trí khối u, cục máu đông, chất lỏng dư thừa hoặc nhiễm trùng ở người bệnh…

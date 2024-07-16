@@ -1,0 +1,123 @@
+# doc_id = health_disease_1671
+# url = https://tamanhhospital.vn/thuoc-dieu-tri-ung-thu/
+# date = 27/01/2023
+Thuốc điều trị ung thư: Phân nhóm và cơ chế hoạt động
+Có nhiều loại thuốc điều trị ung thư. Việc lựa chọn thuốc điều trị sẽ khác nhau ở từng bệnh nhân.
+Mục lụcThuốc điều trị ung thư là gì?Các nhóm thuốc điều trị ung thư và cơ chế hoạt động của từng nhómCác loại thuốc hóa trị (Chemotherapy)Thuốc điều trị ung thư nhắm trúng đích (Targeted therapy)Các loại thuốc điều trị nội tiếtThuốc điều trị ung thư được sử dụng như thế nào?Truyền tĩnh mạchTiêm bắpTiêm dưới daTruyền động mạchPICC dòngPortacathsTác dụng phụ của các loại thuốc điều trị ung thưThuốc điều trị ung thư là gì?
+Thuốc điều trị ung thư là thuốc được chấp thuận phê duyệt bởi các tổ chức quốc tế và trong nước; được dùng để điều trị bệnh ung thư, cũng như ngăn chặn bệnh ung thư tái phát. Đối với mục đích điều trị, có thể là điều trị triệt để (hết hẳn bệnh) trong các giai đoạn sớm; hoặc điều trị giảm nhẹ triệu chứng trong giai đoạn bệnh tiến triển di căn đến các cơ quan khác trong cơ thể.
+Có rất nhiều loại thuốc điều trị ung thư được phân nhóm theo cơ chế hoạt động và mục đích điều trị.
+Các loại thuốc điều trị ung thư
+Các nhóm thuốc điều trị ung thư và cơ chế hoạt động của từng nhóm
+Các loại thuốc hóa trị (Chemotherapy)
+Là nhóm thuốc gây độc tế bào làm hỏng DNA và giết chết tế bào ung thư cũng như tế bào lành (chính vì vậy, nên các thuốc hóa trị thường gây ra các tác dụng phụ do liên quan đến tổn thương tế bào lành như rụng tóc, nôn ói, thiếu các loại tế bào máu…).
+Thuốc hóa trị có thể được sử dụng đơn trị (chỉ dùng 1 loại thuốc), hoặc đa hóa trị (phối hợp nhiều loại thuốc), hoặc kết hợp với các phương pháp điều trị khác. Các loại thuốc hóa trị khác nhau về thành phần hóa học, cơ chế hoạt động, liều dùng, cách dùng cũng như khác nhau về hiệu quả điều trị và các tác dụng phụ.
+Cùng một loại thuốc điều trị ung thư nhưng tùy vào việc sử dụng (đơn trị, hoặc đa hóa trị, hoặc kết hợp với các phương pháp điều trị khác) mà cách dùng thuốc sẽ khác nhau.
+Thuốc hóa trị có thể được phân nhóm theo cách thức hoạt động, cấu trúc hóa học và mối quan hệ với các loại thuốc khác. Một số loại thuốc hoạt động theo nhiều cách và có thể thuộc nhiều nhóm. Có các nhóm thuốc hóa trị sau: (1)
+Nhóm tác nhân alkyl hóa
+Các tác nhân Alkyl hóa ngăn không cho tế bào tạo bản sao của chính nó, bằng cách làm hỏng DNA của tế bào. Nhóm thuốc này được sử dụng để điều trị nhiều bệnh ung thư khác nhau như ung thư phổi, vú và buồng trứng, bệnh bạch cầu, bệnh lý ung thư hạch, đa u tủy và sarcoma.
+Nhóm Nitrosoureas
+Nitrosoureas cũng là nhóm thuộc các chất Alkyl hóa, nhưng có tính chất đặc biệt hơn là có thể hòa tan trong chất béo nên có thể xuyên qua hàng rào mạch máu – não để đi vào não; trong khi các tác nhân Alkyl hóa khác được liệt kê ở trên không thể làm được điều này. Vì vậy nhóm Nitrosoureas thường được dùng để điều trị một số loại u não.
+Nhóm chất chống chuyển hóa
+Các chất chống chuyển hóa gây cản trở tổng hợp ADN và RNA, vì vậy ADN và RNA không thể tạo ra các bản sao của chính nó và tế bào không thể sinh sản. Nhóm thuốc này thường được sử dụng để điều trị các bệnh bạch cầu, ung thư vú, buồng trứng và đường ruột, cũng như các loại ung thư khác.
+Nhóm thuốc kháng sinh chống khối u
+Những loại thuốc này khác với nhóm thuốc kháng sinh sử dụng để điều trị nhiễm trùng.
+Thuốc ngăn cản việc phân chia tế bào bằng cách làm xáo trộn việc tổng hợp ADN và RNA bên trong tế bào ung thư, làm cho tế bào ung thư không thể nhân lên và phát triển.
+Thuốc kháng sinh Anthracyclines: được sử dụng điều trị rộng rãi cho nhiều loại bệnh ung thư, gồm các thuốc như Daunorubicin, Doxorubicin, Doxorubicin liposomal, Epirubicin, Idarubicin, Valrubicin…
+Thuốc kháng sinh không phải là Anthracycline: Bên cạnh Anthracyclines còn có các thuốc kháng sinh chống khối u khác không thuộc Anthracyclines như Bleomycin, Dactinomycin, Mitomycin-C, Mitoxantrone (cũng hoạt động như một chất ức chế topoisomerase II).
+Nhóm thuốc ức chế Topoisomerase
+Topoisomerase là một loại enzyme giúp tách các sợi ADN trước khi có thể thực hiện quá trình sao chép (enzyme = một loại protein giúp kích hoạt các phản ứng hóa học trong tế bào).
+Những loại thuốc này có nguồn gốc từ Ancaloid thực vật, giúp ức chế Topoisomerase, làm cho ADN không thể tách được, từ đó không thể sao chép; đồng nghĩa với việc tế bào ung thư không thể phân chia và tăng sinh. Nhóm thuốc này có thể được sử dụng điều trị một số bệnh bạch cầu, ung thư phổi, buồng trứng, đường tiêu hóa, đại trực tràng và tuyến tụy.
+Có 2 nhóm chất ức chế Topoisomerase: ức chế Topoisomerase I và ức chế Topoisomerase II.
+Các chất ức chế Topoisomerase I (còn được gọi là Camptothecins) bao gồm các thuốc như Irinotecan, Irinotecan liposomal, Topotecan…
+Các chất ức chế Topoisomerase II (còn được gọi là Epipodophyllotoxin) bao gồm các thuốc như Etoposide (VP-16), Mitoxantrone (cũng hoạt động như một chất kháng sinh chống khối u), Teniposide…
+Nhóm thuốc ức chế phân bào
+Nhóm thuốc ức chế phân bào thường có nguồn gốc từ Ancaloid thực vật. Nhóm thuốc này ngăn tế bào phân chia để hình thành tế bào mới, nhưng có thể làm hỏng tế bào trong tất cả các giai đoạn bằng cách ngăn các enzyme tạo ra các chất cần thiết cho quá trình sinh sản của tế bào.
+Nhóm thuốc ức chế phân bào có thể được sử dụng để điều trị ung thư ung thư vú, phổi, u tủy, u lympho và bệnh bạch cầu.
+Corticosteroid
+Corticosteroid thường được gọi là steroid, là hormone tự nhiên. Các loại thuốc tương tự như hormone thường hay được dùng trong điều trị nhiều loại ung thư, cũng như các bệnh khác. Khi những loại thuốc này được sử dụng như một phần của điều trị ung thư, chúng được coi là thuốc hóa trị.
+Các thuốc thuộc nhóm Corticosteroid bao gồm Prednisone, Methylprednisolone, Dexamethasone…
+Corticosteroid còn có thể được sử dụng để ngăn ngừa buồn nôn và nôn do hóa trị. Ngoài ra, Corticosteroid có thể được dùng trước khi điều trị hóa trị để giúp ngăn ngừa các phản ứng dị ứng nghiêm trọng.
+Các loại thuốc hóa trị khác
+Có một số thuốc hóa trị hoạt động không theo các nhóm trên như Acid all-trans-retinoic, Asen trioxide, Asparaginase, Eribulin, Hydroxyurea, Ixabepilone, Mitotane, Omacetaxine, Pegaspargase, Procarbazine, Romidepsin, Vorinostat…
+Các loại thuốc hóa trị điều trị nhiều loại ung thư khác nhau.
+Thuốc điều trị ung thư nhắm trúng đích (Targeted therapy)
+Thuốc điều trị ung thư nhắm trúng đích sẽ tấn công trực tiếp vào các điểm khác biệt của từng loại tế bào ung thư, từ đó giúp nhanh chóng tiêu diệt các tế bào ung thư và ít làm tổn hại đến các tế bào lành.
+Các tác dụng của thuốc điều trị ung thư nhắm trúng đích là:
+Tìm kiếm các tế bào ung thư và tiêu diệt chúng.
+Ngăn chặn các tế bào ung thư phân chia và phát triển.
+Khuyến khích hệ thống miễn dịch tấn công các tế bào ung thư.
+Ngăn chặn các mạch máu nuôi tế bào ung thư.
+Giúp thực hiện các phương pháp điều trị khác như hóa trị liệu trực tiếp đến các tế bào ung thư.
+Có nhiều loại thuốc điều trị ung thư nhắm trúng đích khác nhau, được phân nhóm tùy theo cơ chế hoạt động. Một số loại thuốc điều trị ung thư nhắm trúng đích mục tiêu cũng có thể được gọi là liệu pháp sinh học.
+Các nhóm thuốc điều trị ung thư nhắm trúng đích bao gồm:
+Kháng thể đơn dòng (MAB = Monoclonal AntiBody)
+Các kháng thể trong máu giúp chống lại nhiễm trùng. Các liệu pháp MAB bắt chước các kháng thể tự nhiên nhưng được tạo ra trong phòng thí nghiệm. Đơn dòng có nghĩa là tất cả một loại. Vì vậy, mỗi liệu pháp MAB là rất nhiều bản sao của một loại kháng thể. (3)
+Nhiều MAB khác nhau có sẵn để điều trị ung thư và chúng hoạt động theo nhiều cách khác nhau.
+Tất cả các thuốc kháng thể đơn dòng đều được gọi tên với công thức tên thuốc + mab sau cùng. Ví dụ: trastuzumab (Herceptin), pertuzumab (Perjeta), bevacizumab (Avastin), rituximab (Mabthera), Docstarlimab.
+Thuốc ngăn chặn sự phát triển ung thư
+Thuốc ngăn chặn sự phát triển ung thư là một loại thuốc nhắm mục tiêu ngăn chặn các yếu tố tăng trưởng, kích hoạt tế bào ung thư phân chia và phát triển. Các nhà khoa học đang xem xét các cách khác nhau để thực hiện điều này như:
+Giảm mức độ của các yếu tố tăng trưởng trong cơ thể.
+Ngăn chặn thụ thể yếu tố tăng trưởng trên tế bào ung thư.
+Chặn các tín hiệu bên trong tế bào khởi động khi yếu tố tăng trưởng kích hoạt thụ thể.
+Hầu hết các phương pháp điều trị này hoạt động bằng cách ngăn chặn các quá trình truyền tín hiệu mà tế bào ung thư sử dụng để phân chia.
+Chất ngăn chặn ung thư phát triển có nhiều loại khác nhau và có thể được phân nhóm theo loại hóa chất mà chúng ngăn chặn. Ví dụ như thuốc ức chế tyrosine kinase, thuốc ức chế proteasome, chất ức chế mTOR, thuốc ức chế PI3K, chất ức chế histone deacetylase, các chất chặn đường dẫn truyền của con nhím, chất ức chế BRAF và MEK…
+Thuốc ngăn chặn sự phát triển của mạch máu ung thư
+Thuốc chống tạo mạch là phương pháp điều trị bằng cách ngăn chặn các mạch máu trong khối u phát triển. Nếu thuốc có thể ngăn chặn sự phát triển của các mạch máu trong khối u, nó có thể làm chậm sự phát triển của ung thư hoặc đôi khi thu nhỏ khối u.
+Có nhiều loại thuốc khác nhau ngăn chặn sự phát triển của mạch máu:
+Thuốc ngăn chặn yếu tố tăng trưởng mạch máu:
+Là thuốc ngăn chặn yếu tố tăng trưởng nội mô mạch máu (VEGF) gắn vào các thụ thể trên các tế bào lót mạch máu để ngăn các mạch máu phát triển.
+Ví dụ như thuốc ngăn chặn VEGF là bevacizumab (Avastin). Bevacizumab cũng là một kháng thể đơn dòng dùng để điều trị một số loại ung thư khác nhau. Các ví dụ khác bao gồm aflibercept, ramucirumab.
+Thuốc ngăn chặn tín hiệu trong tế bào:
+Là thuốc ngăn các thụ thể VEGF gửi tín hiệu tăng trưởng vào các tế bào mạch máu. Những phương pháp điều trị này còn được gọi là thuốc ngăn chặn sự phát triển ung thư hoặc chất ức chế tyrosine kinase (TKIs).
+Ví dụ về TKI ngăn chặn tín hiệu bên trong tế bào mạch máu bao gồm sunitinib, sorafenib Axitinib, regorafenib, cabozantinib.
+Thuốc ảnh hưởng đến tín hiệu giữa các tế bào:
+Là thuốc hoạt động trên các chất hóa học mà tế bào sử dụng để báo hiệu cho nhau phát triển, nhằm ngăn chặn sự hình thành của các mạch máu.
+Thuốc hoạt động theo cách này bao gồm thalidomide và lenalidomide (Revlimid). Chúng được sử dụng để điều trị bệnh đa u tủy.
+Chất ức chế PARP
+Là một phương pháp điều trị ung thư bằng cách sử dụng các chất ức chế PARP để ngăn PARP thực hiện công việc sửa chữa các tế bào ung thư và tế bào đó sẽ chết.
+Các nhà nghiên cứu lần đầu tiên xem xét các loại thuốc này trong các bệnh ung thư liên quan đến sự thay đổi (hoặc lỗi) trong gen được gọi là BRCA.
+Thông thường, gen BRCA1 và BRCA2 đóng một phần trong quá trình sửa chữa tế bào của cơ thể. Tế bào ít có khả năng tự sửa chữa nếu có lỗi ở một hoặc cả hai gen này. Những người có gen BRCA bị lỗi sẽ tăng nguy cơ mắc một số bệnh ung thư như ung thư vú, ung thư buồng trứng, ung thư tuyến tiền liệt.
+Các tế bào ung thư có lỗi gen BRCA đã có một hệ thống sửa chữa kém. Vì vậy, ngăn chặn PARP bằng thuốc ức chế PARP có nghĩa là làm cho các tế bào không có khả năng tự phục hồi và chết đi.
+Thuốc PARP được dùng để điều trị các loại ung thư bao gồm ung thư buồng trứng, ung thư ống dẫn trứng, ung thư phúc mạc. Ngoài ra, nó cũng được thử nghiệm trong các loại ung thư khác như ung thư phổi, ung thư tuyến tụy, ung thư đầu cổ, một loại khối u não được gọi là u nguyên bào thần kinh đệm đa dạng, ung thư tuyến tiền liệt, ung thư dạ dày và thực quản, tử cung và ung thư cổ tử cung, ung thư thận và bàng quang.
+Có nhiều loại chất ức chế PARP khác nhau bao gồm olaparib (Lynparza), rucaparib (Rubraca), niraparib (Zejula).
+Các loại thuốc điều trị nội tiết
+Hormone là các protein hoặc chất do cơ thể tạo ra để giúp kiểm soát cách thức hoạt động của một số loại tế bào. Ví dụ, một số bộ phận của cơ thể dựa vào hormone sinh dục như estrogen, testosterone và progesterone để hoạt động bình thường. Có nhiều loại hormone khác trong cơ thể, chẳng hạn như hormone tuyến giáp, cortisol, adrenaline và insulin. Các loại hormone khác nhau được tạo ra bởi các cơ quan hoặc tuyến khác nhau.
+Một số bệnh ung thư phụ thuộc vào kích thích tố để phát triển. Do đó, các phương pháp điều trị ngăn chặn hoặc thay đổi nội tiết tố đôi khi có thể giúp làm chậm hoặc ngăn chặn sự phát triển của các loại ung thư này. Điều trị ung thư bằng nội tiết tố được gọi là liệu pháp hormone, liệu pháp nội tiết tố, hoặc liệu pháp nội tiết. Liệu pháp hormone chủ yếu được sử dụng để điều trị một số loại ung thư vú và ung thư tuyến tiền liệt phụ thuộc vào hormone sinh dục để phát triển. Một số bệnh ung thư khác cũng có thể được điều trị bằng liệu pháp hormone.
+Liệu pháp hormone được coi là một phương pháp điều trị toàn thân vì các hormone được nhắm đến sẽ lưu thông khắp cơ thể. Các loại thuốc được sử dụng trong liệu pháp hormone sẽ đi khắp cơ thể để nhắm mục tiêu và tìm ra các hormone. Điều này làm cho nó khác với các phương pháp điều trị chỉ ảnh hưởng đến một bộ phận nhất định của cơ thể, giống như hầu hết các loại phẫu thuật và xạ trị.
+Cách thức hoạt động của liệu pháp hormone:
+Các loại liệu pháp hormone khác nhau hoạt động theo những cách khác nhau:
+Ngăn cơ thể tạo ra hormone.
+Chặn hormone gắn vào các tế bào ung thư.
+Thay đổi nội tiết tố để nó không hoạt động như bình thường.
+Liệu pháp hormone có thể được sử dụng để:
+Điều trị một loại ung thư nhất định bằng cách ngăn chặn hoặc làm chậm sự phát triển của các tế bào ung thư.
+Giảm các triệu chứng liên quan đến một loại ung thư nhất định.
+Một số ví dụ và các loại ung thư mà các liệu pháp nội tiết có thể được sử dụng để điều trị.
+Ung thư vú: Chất ức chế Aromatase (AI) như anastrozole, exemestane và letrozole; các chất điều biến thụ thể estrogen có chọn lọc (SERMs) như tamoxifen và raloxifene; thuốc đối kháng thụ thể estrogen như fulvestrant và toremifene; chất chủ vận hormone giải phóng hormone luteinizing (LHRH) như goserelin, leuprolide và triptorelin; phẫu thuật cắt bỏ buồng trứng.
+Ung thư tuyến tiền liệt: Thuốc kháng androgen như apalutamide, enzalutamide, darolutamide, bicalutamide, flutamide và nilutamide (còn được gọi là liệu pháp loại bỏ androgen hoặc ADT); thuốc ức chế CYP17 như abiraterone và ketoconazole; chất chủ vận và chất đối kháng hormone giải phóng hormone luteinizing (LHRH) như goserelin, leuprolide, triptorelin và degarelix; phẫu thuật cắt bỏ tinh hoàn.
+Ung thư nội mạc tử cung (niêm mạc tử cung hoặc dạ con): Progestin như medroxyprogesterone acetate hoặc megestrol acetate; các chất điều biến thụ thể estrogen có chọn lọc (SERMs) như tamoxifen và raloxifene; chất chủ vận hormone giải phóng hormone luteinizing (LHRH) như goserelin và leuprolide; chất ức chế Aromatase (AI) như letrozole, anastrozole và exemestane.
+Ung thư thượng thận: Adrenolytics như mitotane; thuốc đối kháng thụ thể estrogen như fulvestrant và toremifene; các chất điều biến thụ thể estrogen có chọn lọc (SERMs) như tamoxifen và raloxifene.
+Thuốc điều trị ung thư được sử dụng như thế nào?
+Thuốc điều trị ung thư có thể đi vào có thể người bệnh theo nhiều con đường khác nhau. Trong số đó, phổ biến nhất là.
+Truyền tĩnh mạch
+Y tá hoặc bác sĩ gắn một ống tiêm vào ống truyền để tiêm thuốc. Ống cannula có một nút cao su trên đó và chúng có thể tiêm thuốc qua nút cao su.
+Một số loại thuốc điều trị ung thư được pha loãng trong một túi chất lỏng và người bệnh uống chúng dưới dạng nhỏ giọt.
+Y tá gắn túi nhỏ giọt vào ống thông hoặc đường truyền trung tâm và thuốc sẽ đi vào tĩnh mạch trong 20 phút hoặc vài giờ. Một số loại thuốc được dùng theo cách này trong vài ngày với một máy bơm điện tử nhỏ sẽ được sử dụng để giữ cho tốc độ liều không đổi.
+Thuốc điều trị ung thư có thể được truyền qua đường tĩnh mạch.
+Tiêm bắp
+Một số loại thuốc được tiêm vào cơ (tiêm bắp), thường là ở mông hoặc đùi trên. Người bệnh có thể bị châm chích hoặc đau âm ỉ trong một thời gian ngắn sau khi tiêm.
+Tiêm dưới da
+Người bệnh thường được tiêm dưới da ở bụng, đùi hoặc đầu cánh tay. Sau khi tiêm, người bệnh có thể bị châm chích hoặc đau âm ỉ trong một thời gian ngắn nhưng thường không đau nhiều. Da ở khu vực này có thể đỏ và ngứa trong một thời gian.
+Truyền động mạch
+Truyền động mạch thường đi vào cơ thể ở giữa ngực, sau đó thuốc sẽ chạy dưới da đến một tĩnh mạch lớn cạnh xương đòn.
+PICC dòng
+PICC là viết tắt của ống thông trung tâm được chèn ngoại vi. Thuốc sẽ được truyền vào tĩnh mạch dưới cánh tay và kết thúc trong một tĩnh mạch lớn ở ngực. Phương pháp này thường được thực hiện dưới gây tê cục bộ.
+Các đường PICC có thể để lại trong vài tháng và được sử dụng theo cách tương tự như phương pháp truyền động mạch.
+Portacaths
+Portacath là một loại đường trung tâm cụ thể, có một khoang nhỏ hoặc bể chứa nằm dưới da nhưng khó nhìn thấy bằng mắt thường.
+Điều dưỡng sẽ đưa một cây kim vào buồng và tiêm hoặc gắn một ống nhỏ giọt. Kim vẫn giữ nguyên vị trí cho đến khi điều trị được thực hiện. Sau đó, điều dưỡng rút kim cho đến lần điều trị tiếp theo.
+Tác dụng phụ của các loại thuốc điều trị ung thư
+Các loại thuốc điều trị ung thư thường gây ra các tác dụng phụ phổ biến như mệt mỏi, rụng tóc, ăn không ngon miệng, buồn nôn, đau nhức cơ xương khớp, mất xương và nguy cơ gãy xương. Nguy cơ cao mắc các loại ung thư khác, đột quỵ, cục máu đông, đục thủy tinh thể và bệnh tim, tăng cân, các vấn đề về trí nhớ,… người bệnh cũng có thể gặp phải.
+Riêng các loại thuốc hormone còn có thể gây ra tình trạng nóng bừng, giảm ham muốn tình dục, tiết dịch âm đạo, khô hoặc kích ứng ở phụ nữ và rối loạn cương dương ở nam giới…
+Thuốc điều trị ung thư có thể gây mệt mỏi, rụng tóc và nhiều tác dụng phụ khác.
+Đến nay có hàng trăm loại thuốc điều trị ung thư đã được phê duyệt để chữa khỏi hoặc ngăn chặn ung thư phát triển hoặc làm giảm nhẹ các triệu chứng của ung thư theo nhiều cách khác nhau. Bác sĩ Thảo Nghi nhấn mạnh, mọi loại thuốc đều cần sử dụng theo phác đồ điều trị của bác sĩ chuyên khoa, người bệnh không nên tìm mua thuốc để tự sử dụng. Bởi vì điều này có thể phản tác dụng, gây hậu quả khó lường.

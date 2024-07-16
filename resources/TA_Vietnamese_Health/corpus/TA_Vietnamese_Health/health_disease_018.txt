@@ -1,0 +1,68 @@
+# doc_id = health_disease_018
+# url = https://tamanhhospital.vn/do-ph-tro-khang-thuc-quan-24-gio/
+# date = 13/11/2023
+Đo pH trở kháng thực quản 24 giờ: Quy trình thực hiện như thế nào?
+Đo pH trở kháng thực quản 24 giờ là một xét nghiệm đánh giá lượng acid trào ngược lên thực quản giúp chẩn đoán và theo dõi điều trị bệnh trào ngược dạ dày thực quản. Để hiểu rõ hơn về kỹ thuật này, đối tượng chỉ định, quy trình thực hiện ra sao, bài viết này dưới sự tư vấn của bác sĩ chuyên khoa Tiêu hóa sẽ giúp mọi người nắm rõ.
+Mục lụcĐo pH trở kháng thực quản 24 giờ là gì?Ai cần đo pH trở kháng thực quản 24 giờ?1. Đối tượng được chỉ định2. Đối tượng chống chỉ địnhQuy trình đo pH trở kháng thực quản 24 giờ1. Chuẩn bị gì trước khi đo?2. Thực hiện đo pH trở kháng thực quản 24 giờ3. Lưu ý gì khi đo pH trở kháng?Câu hỏi thường gặp1. Đo pH trở kháng thực quản 24 giờ bao lâu có kết quả?2. Đo pH trở kháng thực quản 24 giờ có biến chứng không?3. Nên đo pH trở kháng thực quản 24 giờ ở đâu?Đo pH trở kháng thực quản 24 giờ là gì?
+Đo pH trở kháng trong 24 giờ là phương pháp chẩn đoán và đánh giá trào ngược dạ dày thực quản, mối liên quan giữa trào ngược với các triệu chứng lâm sàng. Bác sĩ sử dụng 1 catheter có 1 (ống thông nhỏ mềm dẻo) có nhiều vị trí cảm biến trở kháng (6 kênh) và pH 1 kênh được luồn vào mũi, đặt vào lòng thực quản và xuống dạ dày.
+Tính chất dịch trào ngược được phát hiện qua trở kháng trong quá trình đo thông qua sự thay đổi trở kháng từ trên xuống do động tác nuốt hoặc từ dưới lên (do trào ngược), có thể do acid, không phải acid như dịch vị, dịch mật. Trào ngược xác định là acid khi pH nhỏ hơn 4 tối thiểu 5 giây trong quá trình trào ngược, ngược lại nếu pH hơn 4 thì trào ngược không do acid.
+Ống này được giữ nguyên trong 24h, trong khoảng thời gian này, người bệnh vẫn ăn uống, ngủ nghỉ và sinh hoạt bình thường. Những thông tin ghi nhận từ số liệu máy đo pH kháng trở sẽ giúp bác sĩ nắm bắt thông tin về độ acid và các hoạt động khác của thực quản trong suốt cả ngày.
+Thực hiện đo pH thực quản 24 giờ không sử dụng thuốc ức chế proton (PPI) nếu bệnh nhân không có tiền căn hoặc chưa được chẩn đoán trào ngược dạ dày, thực quản (GERD).
+Máy đo pH và trở kháng thực quản 24 giờ được người bệnh đeo, dây thông qua mũi trực tiếp ghi lại các thông số trong lòng thực quản. Ảnh BVĐK Tâm Anh.
+Ai cần đo pH trở kháng thực quản 24 giờ?
+Đo pH trở kháng thực quản 24 giờ là phương pháp xét nghiệm được chỉ định bởi bác sĩ và không phải đối tượng nào cũng thực hiện được.(1)
+1. Đối tượng được chỉ định
+Đo pH kháng trở thực quản 24 giờ được chỉ định thực hiện cho các đối tượng sau đây:
+Trào ngược dạ dày thực quản không đáp ứng điều trị PPI
+Đau ngực không rõ nguyên nhân đã loại trừ bệnh lý tim mạch hay các triệu chứng trào ngược dạ dày, thực quản ngoài thực quản kéo dài gây ra như ho kéo dài, loét miệng hay mất mầm răng, hen, khàn giọng, khó nuốt, xơ phổi không rõ nguyên do.
+Bệnh nhân chuẩn bị phẫu thuật kháng trào ngược
+Ngoài ra, đo pH trở kháng thực quản 24 giờ cũng dùng trong đánh giá hiệu quả của điều trị trào ngược acid thực quản khi người bệnh đã chẩn đoán trào ngược dạ dày thực quản chính xác trước đây nhưng không đáp ứng điều trị.
+2. Đối tượng chống chỉ định
+Những đối tượng không nên sử dụng phương pháp này là:
+Nghi ngờ có dị vật hay tắc nghẽn vùng hầu họng
+Rối loạn đông máu nặng
+Bệnh nhân có các vấn đề ở thực quản đã biết như loét thực quản, giãn tĩnh mạch thực quản, túi thừa Zenker’s và chít hẹp.
+Không dung nạp được catheter kéo dài
+Không tỉnh táo hoặc bệnh về tâm thần kinh
+Bệnh lý tim phổi nặng
+Quy trình đo pH trở kháng thực quản 24 giờ
+Để tiến hành do pH trở kháng thực quản 24 giờ, bệnh nhân cần có bước chuẩn bị trước, trong và theo dõi sau khi xét nghiệm.
+1. Chuẩn bị gì trước khi đo?
+Để thực hiện xét nghiệm thực quản này, người thực hiện phải có chứng chỉ hoàn thành lớp tập huấn đo pH 24 giờ (bác sĩ được đào tạo và có giấy chứng nhận, điều dưỡng được huấn luyện, kỹ thuật viên).
+Phương tiện, dụng cụ, thuốc:
+Hệ thống máy đo pH thực quản 24 giờ
+Máy tính cài phần mềm
+Máy đo trở kháng xác định vị trí cơ thắt thực quản dưới
+Thuốc gây tê, catherter, sang có lỗ
+Người bệnh:
+Các thuốc cần ngưng trước đo pH thực quản 24 giờ:
+1 ngày: antacid (Phosphalugel, Varogel)
+3 ngày: prokinetic (Domperidon, Metochlopamide, Itopride, Mosapride) và kháng H2 (Ranitidin, Famotidine)
+7 ngày: ức chế bơm proton hoặc P- CAB
+Người bệnh cần nhịn ăn 4 – 6 giờ trước khi làm thủ thuật
+Nếu nội soi dạ dày, đại tràng tiền mê, kỹ thuật được thực hiện khi bệnh nhân đã tỉnh táo hoàn toàn, sau ăn ít nhất 1 giờ
+Chuẩn bị hồ sơ bệnh án, cũng như phiếu chỉ định xét nghiệm
+Người bệnh cần chuẩn bị hồ sơ bệnh án cũng như phiếu chỉ định xét nghiệm khi thực hiện đo pH trở kháng thực quản 24 giờ
+2. Thực hiện đo pH trở kháng thực quản 24 giờ
+Để thực hiện xét nghiệm này, người bệnh sẽ được làm tuần tự các bước sau:
+Người bệnh sẽ được xịt Lidocain spray 10% vào mũi
+Ống thông có gắn cảm biến đo pH được đặt qua đường mũi xuống thực quản người bệnh. Luồn catheter qua mũi xuống thực quản, cố định catheter vào cánh mũi và mang tai. Kỹ thuật viên hướng dẫn người bệnh cách sử dụng máy.
+Đầu cảm biến được đặt ở vị trí 5 cm phía trên cơ thắt tâm vị (lower esophageal sphincter
+Kết nối cảm biến với bộ ghi dữ liệu, kiểm tra hoạt động của cảm biến
+Ống thông được cố định trên da, quấn qua tai và gắn vào máy ghi dữ liệu nhỏ mà người bệnh đeo ngang thắt lưng, được giữ bằng dây đeo qua vai. Điều này không gây vướng víu, bệnh nhân vẫn sinh hoạt bình thường.
+Người bệnh được yêu cầu ghi nhật ký thói quen hàng ngày trong quá trình xét nghiệm như ăn gì, uống gì, thời gian kéo dài bao lâu; các triệu chứng ợ nóng, trào ngược, ho, đau họng…
+Người bệnh quay trở lại phòng khám vào ngày hôm sau (sau 24h). Bác sĩ tháo ống thông, tải dữ liệu từ máy tính, xem xét sự thay đổi nồng độ acid trong suốt khoảng thời gian 24 giờ.
+Nếu kết quả dữ liệu cho thấy bị GERD hoặc một vấn đề khác, bác sĩ sẽ thông báo và đưa ra các lựa chọn điều trị cho người bệnh.
+3. Lưu ý gì khi đo pH trở kháng?
+Sau khi đặt máy đo pH trở kháng thực quản, người bệnh được cho về nhà. Trong 24 giờ đặt máy đo pH thực quản, người bệnh vẫn có thể ăn uống, đi lại, và làm việc bình thường.
+Câu hỏi thường gặp
+Một số câu hỏi thường gặp khi đo pH trở kháng thực quản 24 giờ:
+1. Đo pH trở kháng thực quản 24 giờ bao lâu có kết quả?
+Đo pH trở kháng thực quản 24 giờ sẽ được bác sĩ phân tích dữ liệu và đọc kết quả sau 24 giờ.
+2. Đo pH trở kháng thực quản 24 giờ có biến chứng không?
+Kỹ thuật đo pH 24 giờ là một kỹ thuật tương đối an toàn, ít có biến chứng được ghi nhận. Tuy nhiên, người bệnh có thể có một số biến chứng nhẹ tại chỗ như: ho, đau, nuốt vướng, khạc ra máu lượng ít hoặc chảy máu mũi mức độ nhẹ do đặt và lưu catheter.(2)
+3. Nên đo pH trở kháng thực quản 24 giờ ở đâu?
+Người bệnh khi có triệu chứng nghi ngờ bị trào ngược acid dạ dày, thực quản nên đến các cơ sở y tế hoặc bệnh viện uy tín có trang bị máy đo pH kháng trở thực quản. Hệ thống Bệnh viện Đa khoa Tâm Anh là một trong những địa chỉ đáng tin cậy, có đầy đủ thiết bị máy móc, kỹ thuật để đo pH trở kháng thực quản 24h giúp chẩn đoán bệnh chính xác.
+Hiện nay, Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) là những chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho các bệnh nhân mắc những bệnh lý tiêu hóa từ nhẹ đến nặng. Hệ thống BVĐK Tâm Anh quy tụ đội ngũ bác sĩ Nội khoa – Ngoại khoa – Nội soi tiêu hóa chuyên môn cao, giàu kinh nghiệm, bên cạnh đó là sự hỗ trợ của hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh lý tiêu hóa với các chuyên gia bác sĩ Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Đo pH trở kháng thực quản 24h là xét nghiệm quan trọng trong việc chẩn đoán bệnh lý trào ngược dạ dày, thực quản dựa trên số cơn trào ngược acid lên hầu họng trong 24 giờ, pH hầu họng. Từ số liệu thu được sẽ giúp bác sĩ xác định tình trạng trào ngược acid, acid yếu hoặc kiềm dạng dịch hoặc khí dung lên mũi, họng và khí quản. Hầu hết, các bác sĩ sẽ chỉ định xét nghiệm dựa trên các lâm sàng điển hình như đau tức ngực, ợ nóng, ho khan kéo dài, khàn tiếng.

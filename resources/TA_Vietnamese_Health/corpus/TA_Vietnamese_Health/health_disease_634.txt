@@ -1,0 +1,93 @@
+# doc_id = health_disease_634
+# url = https://tamanhhospital.vn/ung-thu-tuyen-giap-the-nang/
+# date = 14/09/2023
+Ung thư tuyến giáp thể nang: Triệu chứng, nguyên nhân và điều trị
+Ung thư tuyến giáp thể nang là thể giải phẫu bệnh thường gặp của ung thư tuyến giáp chiếm 10-15% số ca chẩn đoán mới. Phần lớn bệnh phát triển chậm và tiên lượng nhìn chung tốt. Thống kê về tỷ lệ sống còn 5 năm từ năm 2010-2016 là 98.3%, trong đó tỷ lệ sống trên 10 năm là 85%.
+Ung thư tuyến giáp là bệnh lý do sự tăng sinh mất kiểm soát của các tế bào ác tính có nguồn gốc từ tuyến giáp. Về mô bệnh học, ung thư tuyến giáp gồm 3 thể chính là thể biệt hóa (gồm: ung thư biểu mô thể nhú, ung thư biểu mô thể nang, ung thư biểu mô tế bào Hürthle), ung thư biểu mô thể tủy và ung thư tuyến giáp thể không biệt hóa (anaplastic). Ngoài ra, ung thư tuyến giáp còn có các thể bệnh hiếm gặp khác như u lympho tuyến giáp, sarcoma tuyến giáp,…
+Mục lụcUng thư tuyến giáp thể nang là gì?Nguyên nhân ung thư tuyến giáp thể nangĐối tượng nào nguy cơ bị ung thư tuyến giáp thể nang?Triệu chứng bệnh ung thư tuyến giáp thể nangUng thư tuyến giáp thể nang có di truyền không?Các giai đoạn bệnh ung thư tuyến giáp thể nangTiên lượng bệnh ung thư tuyến giáp thể nangCách chẩn đoán ung thư tuyến giáp thể nangĐiều trị ung thư tuyến giáp thể nang1. Phẫu thuật tuyến giáp2. Liệu pháp i-ốt phóng xạ3. Điều trị khácTiên lượng bệnh ung thư tuyến giáp thể nangUng thư tuyến giáp thể nang là gì?
+Ung thư tuyến giáp thể nang là thể giải phẫu bệnh thường gặp của ung thư tuyến giáp biệt hóa (sau ung thư tuyến giáp thể nhú), chiếm khoảng 10-15% các bệnh ung thư tuyến giáp, xuất phát từ các tế bào nang phát triển bất thường của tuyến giáp. Về mặt sinh lý học, tuyến giáp là cơ quan nội tiết có vai trò sản xuất hormone, được cấu tạo từ các nang giáp, đóng vai trò là đơn vị cấu trúc và chức năng của tuyến giáp. Các nang tuyến giáp sử dụng i-ốt từ máu để để tạo ra các hormone tuyến giáp có vai trò duy trì các chức năng chuyển hóa của cơ thể. (1)
+Ung thư tuyến giáp thể nang chiếm 10-15% các ca ung thư tuyến giáp được chẩn đoán.
+Nguyên nhân ung thư tuyến giáp thể nang
+Ung thư tuyến giáp thể nang được cho là có liên quan với phơi nhiễm phóng xạ, tiểu đường, béo phì, viêm tuyến giáp Hashimoto, sử dụng estrogen ngoại sinh và chế độ dinh dưỡng. Tuyến giáp là một cơ quan nhạy cảm với phóng xạ, phơi nhiễm phóng xạ làm tăng 30% nguy cơ mắc bệnh. Mối liên quan giữa viêm giáp Hashimoto và ung thư tuyến giáp được cho là bệnh làm tăng các sản phẩm cytokin tiền viêm và các stress oxy hóa. Các thực phẩm như cải bắp, súp lơ, bông cải xanh, thịt gà, thịt lợn và thịt gia cầm được cho là có nguy cơ làm tăng tỷ lệ mắc ung thư tuyến giáp. (2)
+Nhiều báo cáo chỉ ra mối liên quan giữa thiếu hụt i-ốt và tỷ lệ ung thư tuyến giáp. Ung thư tuyến giáp thể nang thường thấy ở các quốc gia có tình trạng thiếu hụt i-ốt trong khẩu phần ăn, tỷ lệ bệnh giảm ở những vùng dịch tễ có bướu cổ được điều trị bằng bổ sung muối i-ốt.
+Sinh bệnh học của ung thư tuyến giáp thể nang: Gần một nửa ca bệnh ung thư tuyến giáp thể nang có đột biến điểm trên gen RAS, khoảng 1/3 số ca có biểu hiện tái sắp xếp PAX-PPAR-gamma, và khoảng 3% có cả 2 đột biến kể trên. Bệnh học phân tử của ung thư tuyến giáp thể nang được cho là do sự khởi phát đột biến điểm gây ra rối loạn điều hòa con đường tín hiệu PI3K/AKT. Rối loạn này được kích hoạt bởi nhiều đột biến gen gồm đột biến gen RAS, PIK3CA, AKT1 cũng như bất hoạt gen PTEN.
+Đối tượng nào nguy cơ bị ung thư tuyến giáp thể nang?
+Những người mang đặc điểm sau thường có nguy cơ mắc ung thư tuyến giáp thể nang:
+Khởi phát từ độ tuổi từ 50 trở lên, ít ghi nhận ở trẻ em, thanh thiếu niên.
+Nữ giới mắc bệnh nhiều hơn nam giới.
+Người có tiền sử điều trị bằng tia phóng xạ trước đó.
+Bệnh sử gia đình ghi nhận mắc các hội chứng ung thư tuyến giáp, đặc biệt là người thân cấp 1 (bố mẹ).
+Người bị tiểu đường hoặc các bệnh lý liên quan tuyến giáp.
+Người thừa cân, béo phì.
+Chế độ dinh dưỡng thiếu hụt i-ốt.
+Triệu chứng bệnh ung thư tuyến giáp thể nang
+Ở giai đoạn đầu, các triệu chứng thường không rõ ràng khiến người bệnh dễ bỏ qua. Bệnh thường được phát hiện tình cờ thông qua khám sức khỏe định kỳ.
+Triệu chứng của ung thư tuyến giáp thể nang thường tương tự với các thể khác của ung thư tuyến giáp, bao gồm: (3)
+Tuyến giáp tăng kích thước, có thể kèm nổi hạch vùng cổ;
+Đau nhức vùng cổ;
+Khàn tiếng;
+Khó nuốt (do u chèn ép thực quản);
+Khó thở (do u chèn ép khí quản),…
+Tỷ lệ di căn hạch bạch huyết của ung thư tuyến giáp thể nang vào khoảng 12%, các tế bào u có xu hướng di căn xa qua hệ thống tuần hoàn hơn so với ung thư tuyến giáp thể nhú. Các cơ quan thường di căn tới gồm: phổi, não, gan, xương,… và gây ra các triệu chứng lâm sàng ở các cơ quan bị ảnh hưởng.
+Phụ nữ có nguy cơ mắc ung thư tuyến giáp cao hơn nam giới.
+Ung thư tuyến giáp thể nang có di truyền không?
+Những yếu tố về di truyền phân tử đã được chỉ ra trong sinh bệnh học của nhiều thể bệnh ung thư tuyến giáp. Tuy nhiên, phần lớn người bệnh mắc ung thư tuyến giáp không đi kèm yếu tố di truyền hay tiền sử gia đình có người thân mắc bệnh. Ung thư tuyến giáp thể nang hiếm khi là do di truyền (chỉ khoảng 5%). Một vài hội chứng ung thư gia đình di truyền hiếm gặp có liên quan tới ung thư tuyến giáp thể nang như hội chứng Cowden, hội chứng Werner,…
+Các giai đoạn bệnh ung thư tuyến giáp thể nang
+Theo Ủy ban liên hợp về Ung thư Hoa Kỳ (AJCC) đánh giá phân giai đoạn ung thư tuyến giáp thể nang được biểu hiện bằng hệ thống TNM. Cụ thể như sau:
+T: Đặc điểm khối u
+Tx: không đánh giá được khối u nguyên phát
+T0: không có bằng chứng của khối u nguyên phát
+T1: khối u có kích thước ≤ 2 cm giới hạn tại tuyến giáp
+T2: kích thước khối u > 2cm và ≤ 4cm và phát triển giới hạn tại tuyến giáp
+T3: khối u có kích thước > 4cm giới hạn tại tuyến giáp hoặc xâm lấn ngoài tuyến giáp trên đại thể vào các cơ strap.
+T3a: khối u > 4cm giới hạn tại tuyến giáp.
+T3b: u xâm lấn ngoài tuyến giáp vào vào cơ strap (cơ ức móng, cơ ức-giáp, cơ giáp-móng, hoặc cơ vai-móng).
+T4: khối u kích thước bất kỳ kèm xâm lấn mô xung quanh ngoài các cơ strap (xâm lấn mô mềm dưới da, thanh quản, khí quản, thực quản, thần kinh thanh quản quặt ngược (T4a); u xâm lấn cân trước cột sống, vỏ bao động mạch cảnh, các mạch máu trung thất (T4b)).
+N: Mức độ di căn hạch bạch huyết
+Nx: không đánh giá được di căn hạch vùng
+N0: không có bằng chứng di căn hạch vùng
+N1: di căn hạch vùng
+M: Di căn xa
+M0: di căn xa
+M1: di căn xa
+*Giai đoạn bệnh:
+Bệnh nhân dưới 55 tuổi:
+Giai đoạn I: T bất kỳ N bất kỳ M0
+Giai đoạn II: T bất kỳ N bất kỳ M1
+Bệnh nhân từ 55 tuổi trở lên:
+Giai đoạn I: T1N0/NxM0; T2N0/NxM0
+Giai đoạn II: T1N1M0; T2N1M0; T3a/T3b N bất kỳ M0
+Giai đoạn III: T4a N bất kỳ M0
+Giai đoạn IVA: T4b N bất kỳ M0
+Giai đoạn IVB: T bất kỳ N bất kỳ M1
+Tiên lượng bệnh ung thư tuyến giáp thể nang
+Mặc dù nhận chẩn đoán ung thư đều đáng sợ, tuy nhiên đối với ung thư tuyến giáp biệt hóa (nhú và nang) có tỷ lệ sống lâu dài và điều trị rất cao, hơn 90 % nếu được phát hiện và điều trị sớm. (4)
+Tiên lượng điều trị bệnh nhân ung thư tuyến giáp được đánh giá khả quan, tuy nhiên tỷ lệ tái phát có thể lên đến 30%. Thậm chí nguy cơ tái phát có thể xảy ra hàng chục năm sau lần điều trị đầu tiên.
+Do đó, người bệnh dù kết quả đánh giá điều trị ung thư tuyến giáp thể nang thành công vẫn cần thăm khám sức khỏe định kỳ. Đồng thời thông báo đến bác sĩ các dấu hiệu bất thường nếu có.
+Tỷ lệ tử vong do ung thư tuyến giáp thấp so với các loại ung thư khác. Theo một nghiên cứu của Viện nghiên cứu Y tế Quốc gia Hoa Kỳ 2017, ước tính cứ 155.000 ca tử vong do ung thư phổi thì mới có hơn 2.000 ca tử vong do ung thư tuyến giáp. Tuy nhiên ung thư biểu mô tuyến giáp thể nang có tiên lượng điều trị kém khả quan do tỷ lệ di căn xa cao hơn, người bệnh thường phát hiện bệnh ở giai đoạn muộn, ảnh hưởng đến kết quả điều trị cuối cùng.
+Như đã nêu trên, ung thư tuyến giáp dạng nang có khả năng di căn xa cao hơn nhưng tỷ lệ xâm lấn hạch bạch huyết thấp hơn, dưới 10%. Ngoài ra các báo cáo nghiên cứu cho thấy không có sự khác biệt quá lớn về tiên lượng sống giữa ung thư tuyến giáp dạng nang và ung thư tuyến giáp dạng nhú.
+Tỷ lệ sống sót ung thư tuyến giáp thể nang sau 5 năm được báo cáo là trên 99,5% đối với trường hợp xâm lấn tối thiểu, và 98% đối với ung thư tuyến giáp dạng nang xâm lấn và 67% đối với trường hợp ung thư di căn cơ quan xa. Nhìn chung, tỷ lệ sống sót bệnh nhân ung thư tuyến giáp dao động từ 67% đến hơn 99%, trong đó mức độ xâm lấn của nang hoặc hệ thống mạch máu ảnh hưởng trực tiếp đến tiên lượng sống sót và phục hồi.
+Tỷ lệ tử vong ở người bệnh ung thư tuyến giáp thể nang dao động 5-35% tùy thuộc vào các yếu tố như thời điểm chẩn đoán, liệu trình điều trị, khả năng đáp ứng thuốc của người bệnh… Những trường hợp tế bào ung thư xâm lấn nang và mạch máu có tiên lượng điều trị xấu hơn so với những trường hợp không xâm lấn.
+Xem thêm: Ung thư tuyến giáp sống được bao lâu? Tiên lượng qua từng loại.
+Cách chẩn đoán ung thư tuyến giáp thể nang
+Khi nghi ngờ người bệnh mắc ung thư tuyến giáp, bác sĩ có thể tiến hành thăm khám lâm sàng và chỉ định các xét nghiệm cần thiết để chẩn đoán chính xác bệnh, giai đoạn bệnh và lên kế hoạch điều trị phù hợp cho người bệnh:
+Khám lâm sàng: Khai thác tiền sử bệnh, khám vùng cổ và các cơ quan.
+Xét nghiệm máu: Công thức máu, chức năng gan-thận, Tg và anti Tg sau mổ, TSH,…
+Siêu âm tuyến giáp và vùng cổ.
+Chọc hút tế bào (FNA) cho nhân tuyến giáp, hạch nghi ngờ.
+Chẩn đoán hình ảnh: Tùy thuộc vào đánh giá lâm sàng của bác sĩ mà người bệnh sẽ được chỉ định thêm các chẩn đoán hình ảnh học để xác định giai đoạn bệnh bao gồm chụp cắt lớp vi tính hoặc cộng hưởng từ vùng cổ, xạ hình tuyến giáp sau mổ,…
+Điều trị ung thư tuyến giáp thể nang
+Phương pháp điều trị ung thư tuyến giáp thể nang phụ thuộc vào giai đoạn bệnh và tình trạng bệnh thực tế. Một số phương pháp điều trị ung thư tuyến giáp dạng nang gồm: (5)
+1. Phẫu thuật tuyến giáp
+Phẫu thuật cắt thùy/eo tuyến giáp tuyến giáp (lobectomy/isthmusectomy) hoặc cắt toàn bộ tuyến giáp (total thyroidectomy) có hoặc không kèm nạo vét hạch cổ (neck dissection) là phương pháp điều trị chính cho bệnh nhân được chẩn đoán mắc ung thư tuyến giáp thể nang. Lựa chọn phẫu thuật một phần hay toàn bộ tuyến giáp dựa trên nhiều yếu tố như đặc tính khối u, tình trạng di căn hạch, sự lựa chọn của người bệnh,… Những người bệnh được phẫu thuật cắt toàn bộ tuyến giáp sẽ được bổ sung thuốc hormone giáp trong suốt cuộc đời. Phẫu thuật tuyến giáp nên được thực hiện bởi các bác sĩ có kinh nghiệm nhằm giảm thiểu các biến chứng (như tổn thương dây thần kinh thanh quản và suy tuyến cận giáp,..).
+2. Liệu pháp i-ốt phóng xạ
+Sau khi phẫu thuật cắt toàn bộ tuyến giáp, người bệnh sẽ được đánh giá các yếu tố để xem xét chỉ định điều trị i-ốt phóng xạ. Các yếu tố lâm sàng-bệnh học được dùng để cân nhắc điều trị gồm: kích thước khối u, tình trạng xâm lấn, di căn hạch, xâm lấn mạch máu, nồng độ Tg sau mổ,… Liều sử dụng tùy thuộc vào các yếu tố nguy cơ cụ thể trên người bệnh.
+3. Điều trị khác
+Trường hợp sau điều trị ban đầu, người bệnh bị tái phát, tiến triển, di căn, hay kháng với điều trị i-ốt phóng xạ, bác sĩ có thể chỉ định một số phương pháp điều trị khác như điều trị nhắm đích (như lenvatinib, sorafenib,..), điều trị miễn dịch (như pembrolizumab), điều trị tại chỗ (như xạ trị ngoài) hay chỉ chăm sóc giảm nhẹ.
+Tiên lượng bệnh ung thư tuyến giáp thể nang
+Theo thống kê tại Mỹ, tỷ lệ tử vong do ung thư tuyến giáp là thấp nhất trong các loại bệnh lý ung thư. Cụ thể, ước tính năm 2017 có 2010 ca tử vong do ung thư tuyến giáp so với 155.000 ca tử vong do ung thư phổi. ung thư tuyến giáp thể nang nhìn chung có tiên lượng xấu hơn so với ung thư tuyến giáp thể nhú do tỷ lệ cao di căn xa và bệnh thường được chẩn đoán ở giai đoạn tiến xa hơn. Tuy vậy, tiên lượng sống còn chung cho ung thư tuyến giáp thể nang và thể nhú đều rất khả quan.
+Tỷ lệ sống còn toàn bộ 10 năm cho ung thư tuyến giáp thể nang phụ thuộc vào mức độ xâm lấn của bệnh, tỷ lệ này cho ung thư tuyến giáp thể xâm lấn tối thiểu (minimally invasive cancer) và ung thư tuyến giáp thể xâm lấn (invasive cancer) lần lượt là 98% và 80%. Các nghiên cứu khác cho tỷ lệ sống còn từ 46-97% theo mức độ xâm nhập vỏ bao – mạch máu. Tỷ lệ tử vong do ung thư tuyến giáp dao động từ 5-15%, và những bệnh nhân có khối u xâm nhập vỏ bao có tiên lượng xấu hơn nhóm không có xâm nhập vỏ bao.
+Nhìn chung, ung thư tuyến giáp thể nang có tiên lượng tốt, tỷ lệ sống còn cao, đặc biệt khi bệnh được chẩn đoán ở giai đoạn sớm. Theo thống kê của SEER từ năm 2012-2017, tỷ lệ sống còn tương đối 5 năm cho ung thư tuyến giáp thể nang giai đoạn tại chỗ, tại vùng và di căn xa lần lượt là >99,5%, 98% và 67%.
+Tuy nhiên, ung thư tuyến giáp thể nang vẫn mang bản chất là 1 bệnh lý ác tính nên bệnh có nguy cơ tái phát sau điều trị, tỷ lệ tái phát có thể lên tới 30% sau nhiều năm hay hàng chục năm sau điều trị. Do đó, người bệnh dù được đánh giá có kết quả điều trị ban đầu thành công vẫn cần thăm khám sức khỏe định kỳ nhằm phát hiện sớm tái phát bệnh và điều trị kịp thời. Đồng thời thông báo đến bác sĩ các dấu hiệu bất thường nếu có.
+Để đặt lịch khám, tầm soát và điều trị ung thư tuyến giáp tại BVĐK Tâm Anh, Quý khách hàng có thể liên hệ qua:
+Nhìn chung, ung thư tuyến giáp thể nang có tiên lượng tốt. Thống kê về tỷ lệ sống còn 5 năm từ năm 2010-2016 là 98.3%, trong đó tỷ lệ sống trên 10 năm là 85%. Những người có yếu tố nguy cơ nên chủ động tầm soát để phát hiện sớm, điều trị kịp thời, giảm tác dụng phụ cho cơ thể và đảm bảo chất lượng sống sau điều trị.

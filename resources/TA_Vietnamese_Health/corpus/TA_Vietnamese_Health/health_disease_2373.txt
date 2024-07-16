@@ -1,0 +1,100 @@
+# doc_id = health_disease_2373
+# url = https://tamanhhospital.vn/ung-thu-di-can/
+# date = 25/04/2024
+Ung thư di căn là gì? Các tế bào di căn như thế nào và dấu hiệu
+Khi ung thư di căn, việc điều trị trở nên khó khăn hơn bởi tế bào ung thư đã xâm nhập và phá hủy mô xung quanh, di chuyển theo đường máu hoặc bạch huyết đi đến các cơ quan khác trong cơ thể. Vậy ung thư di căn là gì? Các tế bào di căn như thế nào và dấu hiệu ra sao? Bài viết dưới đây sẽ giải đáp chi tiết các vấn đề trên.
+Mục lụcUng thư di căn là gì?Tế bào ung thư di căn như thế nào?Ung thư giai đoạn di căn trong hệ thống phân đoạn TNMUng thư thường di căn ở những vị trí nào?Dấu hiệu ung thư di cănĐiều trị ung thư di cănMục tiêu của điều trị ung thư di cănCó thể phòng ngừa ung thư di căn không?Ung thư di căn là gì?
+Ung thư di căn là tình trạng các tế bào ung thư di chuyển từ nơi bắt đầu (ung thư nguyên phát) đến các cơ quan khác của cơ thể. Ung thư di căn có cùng loại tế bào ung thư với ung thư nguyên phát. Ví dụ, khi ung thư đại tràng di căn đến gan, các tế bào ung thư trong gan là do tế bào ung thư đại tràng di căn đến, không phải ung thư gan nguyên phát. (1)
+Tế bào ung thư di căn như thế nào?
+Các tế bào ung thư phát triển, phân chia và di chuyển từ nơi bắt đầu đến các cơ quan khác của cơ thể theo 3 cách, cụ thể:
+Xâm lấn trực tiếp: khối u nguyên phát xâm lấn sang các mô hoặc cấu trúc xung quanh. Ví dụ như ung thư tuyến tiền liệt di căn vào bàng quang.
+Di căn theo đường bạch huyết: các tế bào ung thư tách ra khỏi khối u nguyên phát và di chuyển đến các cơ quan khác của cơ thể thông qua hệ bạch huyết. Hệ thống bạch huyết bao gồm các mô và cơ quan chuyên sản xuất, lưu trữ và vận chuyển các tế bào bạch cầu chống lại nhiễm trùng và các bệnh khác. Hệ thống này bao gồm: tủy xương, lá lách, tuyến ức, các hạch bạch huyết và mạch bạch huyết (một mạng lưới các ống mỏng mang bạch huyết và bạch cầu).
+Đường máu: các tế bào ung thư di chuyển từ khối u nguyên phát, theo đường máu đến các cơ quan khác trong cơ thể.
+Quá trình di căn của tế bào ung thư phổi đến gan
+Ung thư giai đoạn di căn trong hệ thống phân đoạn TNM
+Hệ thống phân loại TNM được sử dụng rộng rãi nhất trong các bệnh viện và trung tâm y tế. Dựa vào phân loại này, người bệnh có thể biết được loại ung thư của bản thân, trừ khi loại ung thư của người bệnh sử dụng hệ thống phân loại khác (u não, đa u tủy và ung thư máu).
+Hệ thống phân loại TNM bao gồm:
+T (Tumor): kích thước và phạm vi của khối u nguyên phát.
+N (Node): số lượng hạch lympho di căn.
+M (Metastasis): tình trạng di căn cơ quan khác (nếu có).
+Giai đoạn trong hệ thống phân đoạn TNM được thể hiện bởi các chữ số theo sau mỗi chữ cái, ví dụ như: T2N0M0 hay T1N1M0, cụ thể:
+Khối u nguyên phát (T)
+TX: không đo lường được khối u nguyên phát.
+T0: không tìm thấy khối u nguyên phát.
+T1, T2, T3, T4: kích thước hoặc phạm vi của khối u nguyên phát. Số càng cao thì khối u càng to hoặc càng xâm lấn sâu hơn vào mô kế cận. T có thể được chia nhỏ hơn để cung cấp thêm thông tin, ví dụ như: T3a và T3b.
+Hạch lympho vùng (N)
+NX: không đo lường được.
+N0: không có ung thư trong hạch lympho kế cận.
+N1, N2, N3: số lượng và vị trí hạch lympho có tế bào ung thư, số càng cao nghĩa là càng nhiều hạch bị di căn.
+Di căn xa (M)
+MX: không xác định được.
+M0: ung thư chưa di căn xa.
+M1: ung thư đã di căn xa.
+Những cách phân loại khác
+Hệ thống phân đoạn TNM giúp mô tả chi tiết các giai đoạn ung thư. Tuy nhiên, trong nhiều loại ung thư, giai đoạn TNM được gộp lại thành 5 giai đoạn đơn giản hơn, cụ thể:
+GĐ 0: Có tế bào bất thường nhưng không xâm lấn ra mô kế cận. Còn được gọi là carcinoma tại chỗ (in situ) hoặc CIS. CIS không phải ung thư nhưng có thể tiến triển thành ung thư.
+GĐ I, II và III: có tế bào ung thư, giai đoạn càng cao, kích thước khối u càng lớn và càng xâm lấn sang nhiều mô kế cận và có thể kèm theo di căn hạch.
+GĐ IV: ung thư đã di căn đến các cơ quan khác.
+Một hệ thống phân loại khác được dùng cho tất cả các loại ung thư và chia thành 5 nhóm chính. Tuy nhiên vẫn có thể thấy các nhân viên y tế sử dụng:
+In situ (tại chỗ): có tế bào bất thường nhưng chưa di căn đến mô kế cận.
+Localized (giới hạn): ung thư giới hạn tại vị trí khởi phát và không có dấu hiệu di căn.
+Regional (vùng): ung thư lan đến hạch lympho, mô và cơ quan kế cận.
+Distant (di căn xa): ung thư di căn đến các cơ quan khác trong cơ thể.
+Unknown (không xác định): không có đủ thông tin để xác định giai đoạn.
+Ung thư phổi nguyên phát
+Ung thư thường di căn ở những vị trí nào?
+Ung thư di căn đến bất kỳ vị trí nào trong cơ thể nhưng mỗi loại ung thư thường có xu hướng di căn đến một số vị trí, cụ thể:
+Ung thư vú và ung thư tuyến tiền liệt thường di căn đến xương.
+Ung thư đại trực tràng có xu hướng di căn đến gan.
+Ung thư tinh hoàn thường lan đến phổi.
+Ung thư dạ dày, buồng trứng thường di căn đến phúc mạc.
+Các tế bào ung thư cũng có thể lan đến màng phổi, gây tràn dịch màng phổi ác tính hoặc đến phúc mạc gây tràn dịch màng bụng. (2)
+Loại ung thư
+Các vị trí chính của di căn
+Bàng quang
+Xương, gan, phổi
+Vú
+Xương, não, gan, phổi
+Đại tràng
+Gan, phổi, phúc mạc
+Thận
+Tuyến thượng thận, xương, não, gan, phổi
+Phổi
+Tuyến thượng thận, xương, não, gan, phổi bên cạnh
+Tế bào hắc tố
+Xương, não, gan, phổi, da, cơ
+Buồng trứng
+Gan, phổi, phúc mạc
+Tụy
+Gan, phổi, phúc mạc
+Tuyến tiền liệt
+Tuyến thượng thận, xương, gan, phổi
+Trực tràng
+Gan, phổi, phúc mạc
+Dạ dày
+Gan, phổi, phúc mạc
+Tuyến giáp
+Xương, gan, phổi
+Tử cung
+Xương, gan, phổi, phúc mạc, âm đạo
+Dấu hiệu ung thư di căn
+Ung thư di căn không phải lúc nào cũng có triệu chứng. Dấu hiệu và tần suất xảy ra các triệu chứng phụ thuộc vào kích thước và vị trí của các khối u di căn. Một số dấu hiệu phổ biến bao gồm: (3)
+Đau và gãy xương đột ngột khi ung thư đã di căn đến xương.
+Nhức đầu, co giật, chóng mặt, yếu liệt ½ người… khi ung thư di căn đến não.
+Khó thở, đau ngực, ho kéo dài khi ung thư di căn đến phổi.
+Vàng da hoặc bụng to ra khi ung thư di căn đến gan.
+Điều trị ung thư di căn
+Ung thư di căn thường khó điều trị hơn ung thư chưa di căn. Mục tiêu của điều trị ung thư di căn là duy trì thời gian và chất lượng sống của người bệnh. Phương pháp điều trị chủ yếu là kiểm soát và làm chậm sự phát triển của ung thư di căn bởi không thể điều trị khỏi bệnh hoàn toàn. (4)
+Các phương pháp điều trị ung thư di căn bao gồm: hóa trị, xạ trị, phẫu thuật, đốt sóng cao tần, liệu pháp sinh học, chăm sóc giảm nhẹ… Việc lựa chọn phương pháp điều trị nào cần dựa trên các yếu tố như: vị trí ung thư nguyên phát; loại ung thư; triệu chứng; vị trí, số lượng các tổn thương di căn và quan trọng nhất là tổng trạng người bệnh.
+Tế bào ung thư xâm lấn sang các hạch bạch huyết.
+Mục tiêu của điều trị ung thư di căn
+Mục tiêu của điều trị ung thư di căn là kiểm soát, ngăn chặn hoặc làm chậm sự phát triển của quá trình di căn. Một số người bệnh có thể sống trong nhiều năm với bệnh ung thư di căn nhờ được kiểm soát tốt.
+Có thể phòng ngừa ung thư di căn không?
+Có thể phòng ngừa ung thư di căn, phương pháp này được gọi là điều trị hỗ trợ, không chỉ giảm kích thước khối u nguyên phát mà còn giảm khả năng di căn của các tế bào ung thư sau này.
+Hầu hết người bệnh ung thư ở giai đoạn khu trú có thể đã có các tế bào khối u di căn ở trong máu, dễ dàng di chuyển đến các cơ quan khác mà chúng ta chưa phát hiện được lúc chẩn đoán. Những tế bào này sẽ hình thành khối u di căn nhiều năm sau đó ngay cả khi khối u nguyên phát được cắt bỏ hoặc điều trị.
+Ý tưởng ngăn ngừa di căn này đã có từ lâu, nhưng hiện các nhà khoa đang nghiên cứu các liệu pháp thực hiện điều này theo những cách khác nhau, chẳng hạn như thuốc nhắm trúng đích hoặc liệu pháp miễn dịch.
+Khi ung thư được phát hiện ở giai đoạn sớm hơn, các phương pháp điều trị toàn thân được thực hiện sau phẫu thuật (điều trị hỗ trợ) có thể được khuyến nghị để giảm khả năng phát triển di căn. Các phương pháp điều trị này có thể bao gồm: hóa trị, điều trị nội tiết hoặc liệu pháp miễn dịch.
+Khoa Ung bướu, Bệnh viện Đa khoa Tâm Anh TP.HCM được định hướng phát triển theo tiêu chuẩn quốc tế, mang đến dịch vụ chăm sóc sức khỏe tiên tiến, kết hợp phương pháp điều trị đa dạng và cá thể hóa cho bệnh nhân ung thư.
+Với mục tiêu trở thành điểm đến hàng đầu cho tư vấn và điều trị ung thư tại TP.HCM và vùng phụ cận, khoa Ung bướu không chỉ giảm bớt gánh nặng bệnh tật mà còn giảm tải cho hệ thống y tế công cộng. Khoa được trang bị máy móc và thiết bị hiện đại, kết hợp đội ngũ y bác sĩ có trình độ chuyên môn cao, nhiều kinh nghiệm, luôn cập nhật các phương pháp điều trị tiên tiến nhất.
+Khoa Ung bướu, Bệnh viện Đa khoa Tâm Anh TP.HCM tư vấn sàng lọc, triển khai dịch vụ đa dạng, điều trị các bệnh ung thư được chuyển từ các địa chỉ y tế khác. Hợp tác chặt chẽ với các khoa và chuyên ngành khác, khoa Ung bướu áp dụng tiến bộ khoa học để cải thiện kế hoạch điều trị, nâng cao chất lượng sống cho bệnh nhân. Đặc biệt, khoa còn cung cấp dịch vụ chăm sóc giảm nhẹ cho bệnh nhân ung thư giai đoạn cuối, không thể điều trị bằng phẫu thuật, hóa trị, xạ trị…
+Bài viết đã khái quát được khái niệm cũng như cách mà tế bào di căn trong cơ thể. Để ngừa ung thư di căn nói riêng và ung thư nói chung, bạn cần duy trì lối sống lành mạnh và ăn uống khoa học để có hệ miễn dịch khỏe mạnh, đẩy lùi ung thư.

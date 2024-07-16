@@ -1,0 +1,57 @@
+# doc_id = health_disease_1128
+# url = https://tamanhhospital.vn/dieu-tri-ung-thu-vu-bo-3-am-tinh/
+# date = 12/03/2024
+4 phương pháp điều trị ung thư vú bộ 3 âm tính có di căn xa (TNBC)
+Ung thư vú bộ 3 âm tính (Triple-Negative Breast Cancer – TNBC) là loại ung thư vú hiếm gặp, chiếm 15% trong tổng số trường hợp ung thư vú. Không như các loại ung thư vú khác, tế bào ung thư vú bộ 3 âm tính không có các thụ thể hoặc protein [1]. Điều này làm tế bào ung thư phát triển và lan nhanh, tiên lượng điều trị kém. Vậy điều trị ung thư vú bộ 3 âm tính có di căn xa (TNBC) ra sao?
+Bài viết được Thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM giúp bạn hiểu rõ hơn về phương pháp điều trị loại ung thư vú hiếm gặp này.
+Mục lụcUng thư vú bộ 3 âm tính là gì?Phương pháp điều trị ung thư vú bộ 3 âm tính di căn1. Liệu pháp nhắm mục tiêu2. Phẫu thuật và xạ trị3. Hóa trị4. Liệu pháp miễn dịchTác dụng phụ cần lưu ý của điều trị TNBC di căn là gì?Các thử nghiệm lâm sàngĐiều trị ung thư vú bộ 3 âm tính di căn tại BVĐK Tâm AnhUng thư vú bộ 3 âm tính là gì?
+Ung thư vú bộ 3 âm tính là dạng ung thư vú nguy hiểm và khó điều trị nhất. Thuật ngữ “3 âm tính” xuất phát từ loại ung thư này thiếu 3 dấu hiệu hoặc thụ thể gồm:
+Nội tiết tố estrogen.
+Progesteron.
+HER-2.
+Vì TNBC thiếu 3 thụ thể này nên ung thư ít khả năng đáp ứng với liệu pháp hormone, trong khi đây là hình thức điều trị ung thư vú phổ biến. Tuy nhiên, hóa trị cùng với các lựa chọn khác vẫn là một lựa chọn hiệu quả để điều trị TNBC.
+Phương pháp điều trị ung thư vú bộ 3 âm tính di căn
+Ung thư vú di căn được phân loại là ung thư vú giai đoạn 4. Ở giai đoạn này, ung thư đã lan sang các bộ phận khác của cơ thể, vị trí di căn thường gặp ở phổi, gan, xương hoặc não. TNBC lan sang các bộ phận khác của cơ thể được coi là TNBC di căn.
+Mặc dù TNBC di căn không thể chữa khỏi nhưng vẫn có thể điều trị được, chủ yếu tập trung vào cải thiện chất lượng cuộc sống của người bệnh. Một số yếu tố ảnh hưởng đến việc lựa chọn phương pháp điều trị cho TNBC di căn gồm: giai đoạn bệnh, loại mô học của bướu, phân nhóm, phương pháp điều trị trước đó và mong muốn của người bệnh.
+Phương pháp tốt nhất hiện nay là điều trị ung thư vú bộ 3 âm tính phù hợp với tình trạng bệnh, mục tiêu, khả năng chịu đựng và chất lượng cuộc sống cụ thể của người bệnh.
+1. Liệu pháp nhắm mục tiêu
+Liệu pháp nhắm mục tiêu là phương pháp điều trị hướng tới các dấu hiệu cụ thể. Tác dụng phụ của thuốc nhắm mục tiêu thường ít nghiêm trọng hơn so với thuốc hóa trị tiêu chuẩn. Hiện có 2 loại liệu pháp nhắm mục tiêu cho TNBC: liên hợp kháng thể – thuốc và thuốc ức chế PARP.
+Liên hợp kháng thể – thuốc (ADC) gắn vào thuốc hóa trị để đưa hóa trị trực tiếp đến 1 loại protein cụ thể, nhằm tiêu diệt tế bào ung thư nhưng vẫn giữ lại các tế bào khỏe mạnh. Các ADC hiện có sẵn cho TNBC gồm: Sacituzumab govitecan và Trastuzumab deruxtecan.
+Chất ức chế PARP ngăn tế bào ung thư tự sao chép. Thuốc có hiệu quả với các khối u có dấu hiệu di căn hoặc mang gen đột biến di truyền nhất định như BRCA. Hiện tại, có 2 chất ức chế PARP được phê duyệt cho TNBC: Olaparib và Talazoparib.
+2. Phẫu thuật và xạ trị
+Phẫu thuật và xạ trị không phải phương pháp điều trị chính cho TNBC di căn. Những lựa chọn điều trị này thường được dùng khi bệnh ở giai đoạn đầu. Với TNBC di căn, phẫu thuật và xạ trị được xem là những lựa chọn giảm nhẹ, loại bỏ và thu nhỏ khối u sau khi điều trị di căn ổn định, từ đó giúp xạ trị sau mổ dễ dàng hơn.
+3. Hóa trị
+Hóa trị gồm các loại thuốc uống hoặc tiêm tĩnh mạch. Phương pháp giúp tiêu diệt tế bào ung thư, thu nhỏ khối u trước hoặc sau phẫu thuật ở ung thư giai đoạn sớm, đồng thời là phương pháp điều trị ung thư vú bộ 3 âm tính chính khi khối u đã lan rộng.
+4. Liệu pháp miễn dịch
+Liệu pháp miễn dịch là hình thức điều trị tương đối mới với phụ nữ mắc ung thư vú di căn. Liệu pháp miễn dịch giúp hệ thống miễn dịch của cơ thể chống lại ung thư. Pembrolizumab và Atezolizumab là những lựa chọn trị liệu miễn dịch đã được phê duyệt cho TNBC di căn.
+Ung thư vú bộ 3 âm tính vẫn có thể điều trị được.
+Tác dụng phụ cần lưu ý của điều trị TNBC di căn là gì?
+Điều quan trọng là cần thảo luận cởi mở với bác sĩ về cảm giác của bạn trước, trong và sau khi bắt đầu điều trị. Các câu hỏi nên hỏi bác sĩ khi thảo luận về kế hoạch điều trị gồm:
+Thuốc hoặc lựa chọn điều trị của tôi là gì?
+Thuốc và phương pháp điều trị này sẽ giúp ích cho tôi như thế nào?
+Tác dụng phụ của phương pháp điều trị ung thư vú bộ 3 âm tính này là gì?
+Dùng thuốc này có làm bệnh nặng hơn không?
+Liệu tôi có thể thực hiện các hoạt động yêu thích hoặc thưởng thức những bữa ăn yêu thích không?
+Một số tác dụng phụ của thuốc và điều trị ung thư vú bộ 3 âm tính gồm:
+Buồn nôn hoặc nôn mửa.
+Rụng tóc.
+Vấn đề về trí nhớ hoặc khó suy nghĩ.
+Đau.
+Nhiễm trùng.
+Nếu gặp phải những tác dụng phụ này hoặc cơ thể xuất hiện những triệu chứng bất thường, hãy nhanh chóng đến gặp bác sĩ khoa Ngoại Vú để được kiểm tra và điều trị sớm.
+Tế bào ung thư vú bộ 3 âm tính di căn nhanh, vì vậy, phát hiện càng sớm, tiên lượng sống sẽ càng tốt.
+Các thử nghiệm lâm sàng
+Thử nghiệm lâm sàng là một nghiên cứu đã được phê duyệt mà một số bác sĩ tin rằng có tiềm năng mạnh mẽ để cải thiện các phương pháp điều trị tiêu chuẩn.
+Các thử nghiệm lâm sàng thường được sử dụng để tìm hiểu xem phương pháp điều trị ung thư vú bộ 3 âm tính mới có hiệu quả hơn phương pháp chăm sóc hiện có hay không. Có nhiều cách mới để điều trị TNBC đang được nghiên cứu và tìm hiểu liên tục. Các thử nghiệm lâm sàng có nhiều ưu điểm, bao gồm:
+Các lựa chọn điều trị bổ sung nếu phương pháp điều trị hiện tại không hiệu quả.
+Tiếp cận các loại thuốc mới trước khi được phổ biến rộng rãi.
+Giám sát và kiểm tra bổ sung từ bác sĩ trong quá trình thử nghiệm.
+Thúc đẩy nghiên cứu để giúp đỡ người khác.
+Người bệnh nên trao đổi với bác sĩ điều trị về tính khả dụng của các thử nghiệm lâm sàng trong trường hợp của mình.
+Tương tự với tất cả các lựa chọn điều trị, người bệnh nên làm việc với đội ngũ y bác sĩ của mình để xác định phương pháp tốt nhất trong điều trị loại và giai đoạn ung thư vú.
+Các bác sĩ chuyên khoa ung bướu, bác sĩ chuyên bệnh tuyến vú,… luôn sẵn sàng hỗ trợ người bệnh và những người thân. Cho dù người bệnh cần hỗ trợ, giải thích hay giúp đỡ trong quá trình điều trị, các bác sĩ đều sẽ tận tâm mang đến cho bạn sự trợ giúp đỡ xứng đáng.
+Thạc sĩ, bác sĩ Nguyễn Đỗ Thùy Giang và ekip khoa Ngoại Vúđang phẫu thuật ung thư vú cho người bệnh.
+Điều trị ung thư vú bộ 3 âm tính di căn tại BVĐK Tâm Anh
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM với nền tảng nhân lực là các chuyên gia, bác sĩ, giàu kinh nghiệm trong khám, chẩn đoán, điều trị chuyên sâu các bệnh tuyến vú nói chung (bất thường bẩm sinh, khối u lành tính, vú phì đại, vú sa trễ…) và chủ yếu phẫu thuật điều trị ung thư vú.
+Ngoài ra, bệnh viện còn trang bị máy móc, thiết bị hiện đại từ các nước Âu – Mỹ phục vụ cho công tác chẩn đoán bệnh chính xác như: máy siêu âm đàn hồi, máy chụp nhũ ảnh 3D, máy chụp cộng hưởng từ… giúp người bệnh cảm thấy an tâm, hài lòng khi khám và điều trị tại BVĐK Tâm Anh TP.HCM.
+Bài viết đã cung cấp những thông tin về phương pháp điều trị ung thư vú bộ 3 âm tính có di căn xa (TNBC) như thế nào. Loại ung thư này khó điều trị nhưng vẫn có thể kiểm soát được. Bệnh có dấu hiệu và triệu chứng tương tự các loại ung thư vú khác. Vì vậy, các chị em nên tầm soát ung thư vú định kỳ để phát hiện sớm và tăng hiệu quả điều trị.

@@ -1,0 +1,84 @@
+# doc_id = health_disease_707
+# url = https://tamanhhospital.vn/ung-thu-tuyen-tuy-co-chua-duoc-khong/
+# date = 04/10/2023
+Ung thư tuyến tụy có chữa được không? Yếu tố ảnh hưởng đến điều trị
+“Ung thư tuyến tụy có chữa được không?” là câu hỏi được nhiều bệnh nhân đặt ra khi nhận được chẩn đoán ung thư tuyến tụy. Việc điều trị ung thư tuyến tụy phụ thuộc vào nhiều yếu tố khác nhau như tình trạng sức khỏe của bệnh nhân, giai đoạn phát hiện bệnh, khả năng đáp ứng phác đồ điều trị, lựa chọn phương pháp điều trị…
+Mục lụcUng thư tuyến tụy là gì?Các giai đoạn ung thư tuyến tụy có gì khác biệt?Cách điều trị ung thư tụy hiệu quả và phổ biến nào hiện nay?1. Phẫu thuật2. Hóa trị3. Liệu pháp nhắm trúng đích4. Liệu pháp miễn dịch5. Xạ trị6. Hóa xạ trị đồng thời7. Điều trị chăm sóc giảm nhẹVậy, ung thư tuyến tụy có chữa được không?Tiên lượng khả năng sống sót của ung thư tuyến tụy qua từng giai đoạn bệnhCác yếu tố ảnh hưởng đến khả năng điều trị thành công của bệnh ung thư tụyUng thư tuyến tụy là gì?
+Tụy là một tuyến lớn trong ổ bụng, nằm phía sau dạ dày và bắc ngang qua trước cột sống. Tụy có 3 phần, bao gồm: đầu tụy được bao quanh bởi tá tràng (tá tràng là đoạn đầu tiên của ruột non), phần giữa là thân tụy và đuôi tụy sát với lá lách. Ở người trưởng thành, kích thước tụy dài khoảng 15cm. Tụy có hai chức năng quan trọng:
+Tụy tạo ra các loại hormone (Insulin và Glucagon) nhằm kiểm soát lượng đường trong máu, giúp cơ thể sử dụng, dự trữ năng lượng từ thức ăn nạp vào. Nếu cắt bỏ một phần tụy có thể đẩy cơ thể vào nguy cơ cao mắc bệnh đái tháo đường, đặc biệt khi bạn có sẵn căn bệnh này, kiểm soát đường huyết càng trở nên khó khăn hơn.
+Tụy tạo ra các chất gọi là men tụy giúp cơ thể tiêu hóa thức ăn trong ruột non. Cắt bỏ một phần tụy có thể làm giảm đáng kể lượng men tụy, dẫn đến triệu chứng tiêu phân mỡ,đau bụng, chướng bụng, xì hơi nhiều và sụt cân.
+Hình ảnh tụy khỏe mạnh và ung thư tuyến tụy
+Nguồn gốc của ung thư tụy do tế bào nội tiết hoặc ngoại tiết của tuyến tụy. Tế bào nội tiết có vai trò tạo ra các loại hormone, và những hormone này sẽ được giải phóng trực tiếp vào hệ thống mạch máu. Tế bào ngoại tiết tạo ra các men tụy và tiết vào trong ruột non giúp tiêu hóa thức ăn. Do đó, ung thư tụy cũng có thể được gọi là ung thư ngoại tiết. Khoảng 90% ca ung thư tụy xuất phát từ tế bào ngoại tiết, lớp tế bào lót nằm trong các ống dẫn nhỏ, gọi là các ống tụy. Các ống tụy này mang lượng dịch có chứa các men tụy dẫn đến ống tụy chính, sau đó đổ vào ruột non. Hầu hết các trường hợp ung thư tụy là ung thư biểu mô tuyến ống tụy. (1)
+Ung thư tụy ngoại tiết có thể xuất hiện ở bất kỳ vị trí nào trong tụy, tuy nhiên thường gặp nhất là ở đầu tụy.
+Các giai đoạn ung thư tuyến tụy có gì khác biệt?
+Việc phân giai đoạn ung thư nhằm mô tả kích thước, mức độ xâm lấn của khối u, mức độ ảnh hưởng của u đến các cơ quan lân cận, tình trạng di căn hạch cũng như tình trạng di căn xa đến các bộ phận khác của cơ thể. Xác định được giai đoạn bệnh ung thư giúp bác sĩ đề ra các phương pháp điều trị tốt nhất, có thể giúp dự đoán tiên lượng sống còn và hồi phục của bệnh nhân. Các loại ung thư khác nhau sẽ có mô tả giai đoạn ung thư khác nhau. (2)
+Theo hệ thống phân loại của Ủy ban Liên hợp Ung thư Hoa Kỳ phiên bản 8 (AJCC: American Joint Committee on Cancer), cách xác định giai đoạn ung thư dựa trên hệ thống TNM.
+Phân giai đoạn theo T, N, M:
+T (tumor): Kích thước khối u, mức độ xâm lấn khối u vào các mạch máu gần đó.
+N (node): Tế bào ung thư tụy đã lan đến các hạch bạch huyết chưa, nếu có thì ở đâu và bao nhiêu hạch bạch huyết bị ung thư.
+M (metastasis): Ung thư lan đến các cơ quan khác của cơ thể chưa, nếu có thì ở đâu và mức độ nhiều hay ít.
+Mô tả phân đoạn T (Tumor) ung thư tuyến tụy
+Mô tả N (Node) cho biết mức độ di căn hạch.
+Kết hợp 3 yếu tố T, N, M sẽ phân bệnh ung thư tụy thành 5 giai đoạn như sau:
+Giai đoạn 0: Đây là giai đoạn ung thư biểu mô tại chỗ (Tis). Thời điểm này, khối u khu trú tại vị trí ống tụy nơi mà tế bào ung thư bắt đầu (Tis, N0, M0).
+Giai đoạn IA: Kích thước khối u <2 cm và giới hạn trong tụy (T1). Tế bào ung thư chưa lan rộng đến các hạch bạch huyết lân cận (N0) và chưa di căn xa hạch và cơ quan khác trong cơ thể (M0).
+Giai đoạn IB: Khối u >2 cm nhưng không quá 4cm và còn giới hạn trong tụy (T2). Tế bào ung thư chưa lan rộng đến các hạch bạch huyết lân cận (N0) và chưa di căn cơ quan xa (M0).
+Giai đoạn IIA: Khối u >4 cm và còn giới hạn trong tụy, chưa xâm lấn mạch máu gần tụy (T3). Tế bào ung thư chưa lây lan đến các hạch bạch huyết lân cận (N0) và chưa di căn cơ quan xa (M0).
+Giai đoạn IIB: Khối u kích thước bất kỳ chưa xâm lấn mạch máu gần tụy (T1, T2 hoặc T3), tế bào ung thư lan rộng ra không quá 3 hạch bạch huyết gần đó (N1) và chưa di căn cơ quan xa (M0).
+Giai đoạn III:
+U kích thước bất kỳ chưa xâm lấn mạch máu và các cơ quan gần tụy (T1, 2, 3), tế bào ung thư lan rộng ra quá 3 hạch bạch huyết gần đó (N2) và chưa di căn xa (M0).
+U xâm lấn mạch máu (T4) và lan ra hạch bạch huyết với số lượng bất kỳ (bất kỳ N) nhưng chưa di căn cơ quan xa (M0).
+Giai đoạn IV: U lan ra các cơ quan khác trong cơ thể (bất kỳ T, bất kỳ N, M1).
+Tuy nhiên đối với ung thư tụy, cách phân giai đoạn phổ biến là phân khối u thành một trong 4 nhóm, dựa trên tiên liệu, đánh giá khối u đó còn có khả năng phẫu thuật hay không và dựa trên vị trí ung thư lan rộng (tại chỗ, tại vùng hay di căn xa). Theo đó, 4 nhóm ung thư tụy gồm:
+Có thể mổ được (khối u còn khu trú trong tụy);
+Ranh giới giáp biên (khả năng phẫu thuật không rõ ràng vì trên hình ảnh học khó phân biệt ranh giới của khối u với các cấu trúc xung quanh);
+Tiến triển tại chỗ (ung thư đã di căn qua các hạch lân cận và mô xung quanh tụy);
+Di căn xa (ung thư đã di căn sang các cơ quan khác trong cơ thể, xa tụy như gan, phổi, não, xương…).
+Cách điều trị ung thư tụy hiệu quả và phổ biến nào hiện nay?
+Các phương pháp điều trị ung thư nói chung và điều trị ung thư tụy phụ thuộc vào rất nhiều yếu tố khác nhau, có thể bao gồm: tổng trạng sức khỏe, bệnh lý đi kèm, tình trạng dinh dưỡng, tinh thần và nguyện vọng của bệnh nhân, gia đình. Hiện nay, văn bản hướng dẫn điều trị ung thư từ Bộ Y tế và các hiệp hội ung thư thế giới đều nhấn mạnh vai trò phối hợp nhiều phương pháp điều trị như phẫu thuật, xạ trị, hóa trị… (còn gọi là điều trị ung thư đa mô thức), nhằm tối ưu hóa hiệu quả điều trị. Đồng thời, việc đưa ra kế hoạch và mục tiêu điều trị còn tùy thuộc từng trường hợp bệnh nhân cụ thể (cá thể hóa). (3)
+1. Phẫu thuật
+Phẫu thuật tụy là phương pháp cắt bỏ khối u tụy khỏi cơ thể. Một số trường hợp phẫu thuật là phương pháp điều trị chính hoặc tiên quyết trong điều trị ung thư tuyến tụy, thường áp dụng với trường hợp phát hiện ung thư tụy giai đoạn đầu. Tuy nhiên đa số chỉ định phẫu thuật chỉ là một phần trong kế hoạch điều trị ung thư tuyến tụy.
+Có 3 loại phẫu thuật ung thư tụy:
+Cắt khối tá tụy hay còn gọi là phẫu thuật Whipple: Phương pháp phẫu thuật cắt bỏ đầu tụy, túi mật, tá tràng (đoạn đầu tiên của ruột non), một phần ống mật, hạch bạch huyết lân cận, một phần dạ dày và nạo hạch. Phẫu thuật này có thể được thực hiện mổ mở hoặc mổ nội soi.
+Cắt đoạn tụy xa: Đây là phương pháp cắt bỏ thân và đuôi tụy, có khi cần cắt luôn lá lách hoặc tuyến thượng thận trái.
+Cắt toàn bộ tụy: Phẫu thuật cắt bỏ toàn bộ tụy, một phần ruột non, một phần dạ dày, ống mật, túi mật, lá lách và nạo hạch.
+2. Hóa trị
+Liệu pháp hóa trị sử dụng thuốc uống trực tiếp hoặc tiêm qua đường tĩnh mạch để tiêu diệt các tế bào ung thư. Hóa trị sẽ tiêu diệt các tế bào tăng trưởng nhanh trong cơ thể, bao gồm tế bào ung thư và một số loại tế bào bình thường như tóc, tế bào lót niêm mạc ruột… Phác đồ hóa trị của ung thư tụy thường được chỉ định là kết hợp nhiều thuốc dựa trên Gemcitabine hoặc Fluoropyrimidine. (4)
+Hóa trị là một trong các phương pháp điều trị ung thư tuyến tụy
+3. Liệu pháp nhắm trúng đích
+Liệu pháp điều trị ung thư tụy bằng thuốc nhắm trúng đích tập trung vào các đặc điểm đặc biệt và duy nhất của tế bào ung thư, có thể tìm ra cách tế bào ung thư phát triển, phân chia và di chuyển trong cơ thể mà vượt ra ngoài sự kiểm soát của hệ miễn dịch cơ thể. Từ đó có thể ngăn chặn con đường giúp tế bào ung thư phát triển và sinh sôi.
+Đột biến gen NTRK (neurotrophic tyrosine receptor kinase – thụ thể tyrosine kinase của tế bào thần kinh) hiếm gặp trong ung thư tụy. Hoạt động của gen này gây ra sự tăng sinh không kiểm soát của tế bào ung thư tụy. Larotrectinib và Entrectinib là các thuốc trúng đích sử dụng cho bệnh nhân ung thư tụy giai đoạn tiến triển hoặc di căn xa có dương tính với gen NTRK. Một vài thử nghiệm lâm sàng trên thế giới đang sử dụng các thuốc trúng đích khác cho các trường hợp đột biến gen như HER2, BRAF, BRCA1/2…
+4. Liệu pháp miễn dịch
+Thuốc miễn dịch giúp làm tăng hoạt động hệ thống miễn dịch tự nhiên của chính bệnh nhân, giúp cải thiện khả năng hệ miễn dịch tìm kiếm và phá hủy tế bào ung thư. Thuốc miễn dịch có thể sử dụng đơn độc hoặc kết hợp với các phương thức điều trị khác. Pembrolizumab là một đại diện của thuốc miễn dịch khóa điểm kiểm soát miễn dịch PD-L1 và PD-L2.
+5. Xạ trị
+Xạ trị có thể thực hiện đơn độc hoặc kết hợp với điều trị toàn thân. Xạ trị có thể chỉ tập trung vào khối u, một vùng nhỏ trên cơ thể hoặc hạch di căn. Xạ trị có thể được dùng để chăm sóc nâng đỡ hoặc giảm nhẹ giúp bệnh nhân giảm đau/giảm khó chịu gây ra bởi ung thư. Xạ trị cũng có thể được thực hiện trước, trong và sau mổ với mục đích điều trị hoặc làm chậm sự phát triển của ung thư, đặc biệt nếu diện cắt phẫu thuật còn tế bào u.
+6. Hóa xạ trị đồng thời
+Sự kết hợp thuốc hóa trị và xạ trị được gọi là hóa-xạ trị đồng thời. Hóa trị giúp làm tăng hiệu quả của tia xạ nên được sử dụng kết hợp trong một số chỉ định điều trị ung thư. Các loại thuốc hóa trị thường dùng trong kết hợp với xạ trị như Capecitabine, Fluoropyrimidine hoặc Gemcitabine.
+7. Điều trị chăm sóc giảm nhẹ
+Chăm sóc giảm nhẹ là những biện pháp chăm sóc sức khỏe làm giảm các triệu chứng do ung thư hoặc tác dụng phụ của điều trị gây ra và nâng cao chất lượng cuộc sống cho bệnh nhân. Chăm sóc giảm nhẹ bệnh nhân ung thư bao gồm điều trị giảm đau, hỗ trợ về tinh thần, cảm xúc cho bệnh nhân và tư vấn cho người thân.
+Vậy, ung thư tuyến tụy có chữa được không?
+Đối với câu hỏi của nhiều bệnh nhân ung thư tụy nhận chẩn đoán lần đầu “Ung thư tuyến tụy có chữa được không”, các báo cáo nghiên cứu và thống kê về ung thư cho thấy ung thư tuyến tụy có thể chữa được nếu bệnh nhân được phát hiện và điều trị can thiệp ở giai đoạn sớm. Tuy nhiên, tỷ lệ phát hiện bệnh giai đoạn tiền ung thư hoặc giai đoạn đầu ung thư tuyến tụy không nhiều.
+Ung thư tuyến tụy là loại ung thư tương đối hiếm gặp và tỷ lệ điều trị khỏi hoàn toàn tương đối thấp do hầu hết trường hợp bệnh đều được phát hiện ở giai đoạn muộn. Mặc dù bệnh ung thư tuyến tụy rất khó để điều trị triệt căn, tuy nhiên bệnh nhân vẫn có khả năng được chữa khỏi nếu được phát hiện bệnh ở giai đoạn sớm. Theo thống kê, khoảng 12,9% bệnh nhân ung thư tuyến tụy được chẩn đoán ở giai đoạn sớm có thể điều trị dứt điểm.
+Tiên lượng khả năng sống sót của ung thư tuyến tụy qua từng giai đoạn bệnh
+Thống kê từ chương trình SEER (Surveillance, Epidemiology, and End Results: Chương trình Giám sát, Dịch tễ học và Kết quả cuối cùng của Viện Nghiên cứu Ung thư Hoa Kỳ) thu thập các dữ liệu từ các loại ung thư cho biết, giai đoạn ung thư tuyến tụy được chia thành 3 thời kỳ:
+Tại chỗ: Tế bào ung thư phát triển khu trú tại tuyến tụy.
+Tại vùng: Tế bào ung thư xâm lấn các cấu trúc lân cận hoặc di căn đến hạch bạch huyết vùng.
+Di căn xa: Tế bào ung thư di căn xa các cơ quan khác như phổi, xương…
+Theo thống kê, tỷ lệ sống sót sau 5 năm đối với bệnh nhân ung thư tuyến tụy phân theo giai đoạn được đánh giá như sau (theo SEER 2013-2019):
+Ung thư tuyến tụy giai đoạn tại chỗ: 44,3%.
+Ung thư tuyến tụy giai đoạn tiến triển tại chỗ – tại vùng: 16,2%.
+Ung thư tuyến tụy giai đoạn di căn: 3,2%.
+Ung thư tụy có chữa được không hay ung thư tụy sống được bao lâu phụ thuộc vào nhiều yếu tố
+Tỷ lệ sống sau điều trị ung thư tụy còn phụ thuộc vào các yếu tố khác như tuổi tác người bệnh, tình trạng sức khỏe trước điều trị, các bệnh lý đi kèm, trạng thái tinh thần, khả năng đáp ứng phương pháp điều trị… Do đó, đối với băn khoăn “Ung thư tụy sống được bao lâu?”, người bệnh chỉ nên xem các số liệu đề cập trên là dữ liệu tham khảo; và nên tham vấn trực tiếp với bác sĩ chuyên khoa điều trị trực tiếp.
+Các yếu tố ảnh hưởng đến khả năng điều trị thành công của bệnh ung thư tụy
+Bệnh nhân ung thư tuyến tụy phục hồi tốt hay không ảnh hưởng bởi nhiều yếu tố, bao gồm: (5)
+Tuổi của bệnh nhân.
+Giai đoạn ung thư (bao gồm kích thước khối u, mức độ lan rộng của khối u đến các mô và hạch bạch huyết lân cận, ung thư đã di căn đến cơ quan xa hay chưa).
+Liệu bệnh nhân có thể điều trị phẫu thuật triệt căn khối u không.
+Sức khỏe toàn trạng của bệnh nhân, các bệnh lý nền đi kèm.
+Ung thư được chẩn đoán lần đầu hay tái phát.
+Vị trí khối u.
+Trạng thái tinh thần, cảm xúc của bệnh nhân trong suốt quá trình điều trị.
+Hiện nay, các lựa chọn điều trị ung thư tuyến tụy chỉ có thể kiểm soát khối u ở giai đoạn ung thư khu trú trong tuyến tụy. Nếu khối u đã lan rộng, các phương pháp điều trị giảm nhẹ có ý nghĩa cải thiện chất lượng cuộc sống của bệnh nhân, giúp kiểm soát các triệu chứng và tác dụng phụ của phương pháp điều trị.
+Để đặt lịch tư vấn và xét nghiệm sàng lọc ung thư tuyến tụy tại BVĐK Tâm Anh, bạn có thể liên hệ qua thông tin:
+Mỗi bệnh nhân ung thư tuyến tụy là một cá thể riêng biệt, không ai giống ai, việc lựa chọn phương pháp điều trị bệnh phụ thuộc vào rất nhiều yếu tố; vậy nên để biết “ung thư tuyến tụy có chữa được không”, phác đồ điều trị như thế nào… bệnh nhân và gia đình cần chủ động trao đổi với bác sĩ để có được tư vấn phù hợp nhất.

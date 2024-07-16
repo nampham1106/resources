@@ -1,0 +1,65 @@
+# doc_id = health_disease_044
+# url = https://tamanhhospital.vn/chan-doan-va-dieu-tri-nhuoc-co/
+# date = 25/05/2022
+Cách điều trị nhược cơ và phương pháp chẩn đoán tại bệnh viện
+Nếu trì hoãn điều trị nhược cơ, người bệnh có thể đối mặt với nhiều biến chứng nguy hiểm, nhất là suy hô hấp do yếu hay liệt các cơ hô hấp, dẫn tới tử vong nhanh chóng. Vì thế, việc chẩn đoán đúng nguyên nhân gây bệnh để có hướng điều trị kịp thời là điều vô cùng quan trọng, giúp ngăn ngừa bệnh tiến triển nặng.
+Mục lụcTổng quan bệnh nhược cơPhương pháp chẩn đoán bệnh nhược cơDựa trên triệu chứng lâm sàngPhương pháp hỗ trợ chẩn đoán lâm sàngNhược cơ có chữa được không?Chiến lược điều trị: có 4 liệu pháp chính được sử dụng để điều trị nhược cơĐiều trị triệu chứng – PyridostigmineCác liệu pháp ức chế miễn dịchCắt tuyến ứcĐiều trị đợt cấpLàm thế nào để phòng ngừa bệnh từ sớm?Tổng quan bệnh nhược cơ
+Nhược cơ là một bệnh rối loạn miễn dịch mắc phải của tiếp hợp thần kinh – cơ, Dấu hiệu đặc trưng dễ nhận biết của của bệnh này là tình trạng yếu hoặc mỏi các cơ xương dao động ở cơ mắt, cơ chi hoặc cơ hô hấp. (1)
+Nguyên nhân gây bệnh là do suy giảm hay mất liên tục trong quá trình dẫn truyền những xung động thần kinh qua tiếp hợp thần kinh – cơ, là kết quả của của một cuộc tấn công miễn dịch qua trung gian tế bào T, các tự kháng thể nhắm vào các protein ở màng sau synap tiếp hợp thần kinh – cơ. Các tự kháng thể đã được xác định bao gồm:
+Tự kháng thể phá hủy những thụ cảm của Acetylcholin (AChR) chiếm tới 85% bệnh nhân nhược cơ. Các tự kháng thể ngăn chặn Acetylcholin liên kết với AChR, đồng thời làm tăng quá trình phá hủy Acetylcholin.
+Tự kháng thể MuSK chiếm khoảng 8%
+Tự kháng thể LRP4 chiếm khoảng 1%
+“Bệnh nhược cơ huyết thanh” hay bệnh nhược cơ âm tính với các tự kháng thể chiếm khoảng 8%
+Phương pháp chẩn đoán bệnh nhược cơ
+Dựa trên triệu chứng lâm sàng
+Bác sĩ chẩn đoán nhược cơ dựa trên triệu chứng lâm sàng, cụ thể:
+Yếu cơ: Tình trạng gia tăng sau khi vận động. Các cơ thường bị yếu đầu tiên là cơ mắt, cơ mặt, cơ nhai, cơ cổ và cơ hầu họng.
+Tổn thương cơ vận nhãn: Người bệnh bị sụp mí, có thể sụp 1 bên mí kèm theo nhìn đôi.
+Khi bị yếu cơ nhai, người bệnh sẽ nhanh chóng mỏi hàm khi nhai. Một số trường hợp trễ xuống phải lấy tay đẩy lên. Người bệnh thường gặp khó khăn khi nuốt, thường bị nuốt nghẹn.
+Khi nói chuyện lâu, giọng nói sẽ càng khó nghe, chuyển sang giọng mũi.
+Khi bị yếu cơ gáy, phần cổ của người bệnh sẽ bị rũ xuống.
+Khi bệnh tiến triển nghiêm trọng, tất cả cơ xương đều có thể bị yếu.
+Phương pháp hỗ trợ chẩn đoán lâm sàng
+Test với cục nước đá: sử dụng cho trường hợp bệnh nhân bị sụp mi. Bác sĩ sẽ cho nước đá vào găng tay cao su rồi quấn quanh bằng một chiếc khăn mềm, sau đó đặt trên mi mắt của người bệnh khoảng 2 phút, và mức độ cải thiện sụp mi được đánh giá ngay lập tức. Độ nhạy của test là khoảng 80% bệnh nhân sụp mi do nhược cơ. Test không hữu ích cho bệnh nhân yếu cơ ngoài cơ mắt.
+Edrophonium hay “Tensilon”: người bệnh sẽ được tiêm Edrophonium (10mg/ml) với liều ban đầu 2mg được tiêm vào tĩnh mạch, sau đó có thể sử dụng liều 2mg khác sau mỗi 60s cho đến khi tổng liều 10mg. Mức độ cải thiện sụp mi sẽ được đánh giá ngay lập tức sau mỗi 60s, hầu hết bệnh nhân đáp ứng ở thời điểm liều 4 hoặc 6mg. Vì tiêm Edrophonium làm tăng tác dụng Muscarinic của Acetycholin, chỉ định test nên thận trọng ở người lớn tuổi hoặc những người mắc bệnh tim mạch hoặc hen phế quản. Edrophonium test đã không còn được FDA cho phép sử dụng ở Hoa Kỳ và tương tự ở nhiều quốc gia khác.
+Xét nghiệm huyết thanh học: việc xét nghiệm tự kháng thể AChR, MuSK, LRP4 có một ý nghĩa quan trọng xác định cơ chế bệnh sinh và tiên lượng đáp ứng với điều trị của bệnh nhân nhược cơ.
+Điện cơ: bao gồm test kích thích lặp lại liên tiếp (RNS) và điện cơ sợi đơn độc (SFEMG), nghiên cứu dẫn truyền thần kinh có ý nghĩa quan trọng trong việc chẩn đoán bệnh nhân nhược cơ.
+Nhược cơ có chữa được không?
+Trong điều trị bệnh nhược cơ, bác sĩ thường kết hợp điều trị nội khoa và ngoại khoa tùy theo tình trạng của mỗi người bệnh. Điều trị chủ yếu làm thuyên giảm triệu chứng và ức chế sự phát triển của bệnh.(2)
+Hiện nay, các phương pháp điều trị nhược cơ đã có nhiều bước tiến bộ đáng kể. Người bệnh vẫn có cuộc sống như người bình thường, tuổi thọ không có nhiều chênh lệch. Tuy vậy, người bệnh cần sử dụng những loại thuốc trị trong nhiều năm.
+Chiến lược điều trị: có 4 liệu pháp chính được sử dụng để điều trị nhược cơ
+Điều trị triệu chứng (ức chế Acetylcholinesterase) làm gia tăng lượng Acetylcholine có sẵn trong synap thần kinh cơ. (3)
+Các liệu pháp ức chế miễn dịch mạn tính (Glucocorticoid và những thuốc ức chế miễn dịch không phải Steroid) với mục tiêu điều hòa rối loạn miễn dịch – nền tảng chính trong bệnh nhược cơ.
+Phẫu thuật cắt bỏ tuyến ức.
+Phương pháp điều trị điều hòa miễn dịch cấp nhưng tác dụng phụ ngắn.
+Điều trị triệu chứng – Pyridostigmine
+Với trường hợp bệnh từ nhẹ đến trung bình, liệu pháp ban đầu là thuốc ức chế Acetylcholinesterase uống (tức là kháng cholinesterase), phổ biến là Pyridostigmine. Tuy Neostigmine có ở dạng uống nhưng không được dùng phổ biến.
+Cơ chế tác dụng – Những thuốc ức chế Acetylcholinesterase làm chậm tiến trình thoái hóa Acetylcholine xảy ra bằng cách thủy phân bằng enzym trong synap thần kinh cơ. Vì thế, tác dụng của Acetylcholine được kéo dài, dẫn tới việc cải thiện sức mạnh ở người bệnh.
+Các liệu pháp ức chế miễn dịch
+Với người chỉ sử dụng Pyridostigmine mà những triệu chứng bệnh vẫn được kiểm soát tốt, bác sĩ chỉ cần theo dõi diễn biến lâm sàng. Tuy vậy, phần lớn người bệnh nhược cơ toàn thân vẫn cần đến liệu pháp ức chế miễn dịch ở một số thời điểm, không phải vô thời hạn.
+Liệu pháp ức chế miễn dịch được chỉ định cho:
+Người bệnh vẫn còn triệu chứng đáng kể với Pyridostigmine.
+Người bệnh có triệu chứng trở lại sau khi đáp ứng tạm thời với Pyridostigmine.
+Trong điều trị, Glucocorticoid thường được chỉ định ban đầu. Nhiều người bệnh mắc bệnh nhược cơ toàn thân được yêu cầu bổ sung thuốc ức chế miễn dịch không steroid như Azathioprine hay Mycophenolate để duy trì và dự phòng tác dụng lâu dài của Glucocorticoid.
+Cắt tuyến ức
+Song song với điều trị triệu chứng với Pyridostigmine và những thuốc miễn dịch, phẫu thuật cắt tuyến ức có vai trò điều trị ở một người bệnh có chọn lọc, cụ thể:
+Người bệnh có u tuyến ức: Khoảng 10 – 15% người bệnh nhược cơ có liên quan tới u tuyến ức. Bác sĩ chỉ chỉ định cắt tuyến ức cho các trường hợp mà việc cắt bỏ hoàn toàn được xem là khả thi. Xử trí gồm cắt bỏ hoàn toàn tuyến ức. Một số trường hợp có thể cần đến hóa trị và xạ trị nếu người bệnh có khả năng cắt bỏ hoàn toàn hay không thể cắt bỏ.
+Người bệnh không có u tuyến ức: Bác sĩ thường cắt tuyến ức cho các trường hợp không có u tuyến ức ở người bệnh nhược cơ toàn thân và kháng thụ thể Acetylcholine dương tính dưới 50 tuổi.
+Điều trị đợt cấp
+Cơn nhược cơ: Triệu chứng bệnh trầm trọng có thể là do nhiễm trùng đồng thời, phẫu thuật, mang thai, sinh con, một số loại thuốc, giảm bớt những thuốc ức chế miễn dịch, hay tự phát như một phần của lịch sử tự nhiên của bệnh. Khi bệnh tiến triển nặng, người bệnh có nguy cơ suy hô hấp, đe dọa tính gọi là cơn nhược cơ.
+Thay huyết tương và truyền IVIG: Đây là liệu pháp cấp cứu hoặc cầu nối – liệu pháp thay huyết tương (Plasmapheresis) hoặc truyền IVIG có tác dụng điều hòa miễn dịch nhanh chóng cho người bệnh nhược cơ. Tuy nhiên, lợi ích chỉ ngắn hạn (vài tuần).
+Những phương thức điều trị này thường được chỉ định trong các trường hợp như:
+Những đợt kịch phát cấp tính gồm cả cơn nhược cơ.
+Trước phẫu thuật, trước khi cắt tuyến ức hay phẫu thuật khác.
+Là “cầu nối” với những liệu pháp ức chế miễn dịch, có tác dụng chậm hơn cho người bệnh mong muốn tránh hay giảm thiểu dùng Glucocorticoid.
+Làm thế nào để phòng ngừa bệnh từ sớm?
+Nhược cơ được đánh giá là dạng bệnh tự miễn, chưa tìm ra giải pháp phòng ngừa bệnh. Tuy nhiên, việc duy trì sức khỏe tốt cũng chúng ta giảm thiểu nguy cơ mắc bệnh, cụ thể: (4)
+Cung cấp đủ dưỡng chất cho cơ thể. Trong đó, bạn nên nhiều ăn hoa quả và rau xanh.
+Xây dựng và duy trì thói quen thói tập thể dục để rèn luyện thể chất, phát triển sức khỏe cho các cơ và các bộ phận khác trong cơ thể.
+Xây dựng và duy trì lối sống khoa học, chú ý ngủ đủ giấc, dành thời gian nghỉ ngơi và thư giãn.
+Nếu có thể xuất hiện các dấu hiệu bất thường nên chủ động đi khám càng sớm càng tốt. Từ đó, bác sĩ kịp thời đưa ra hướng điều trị phù hợp.
+Trung tâm Chấn thương chỉnh hình, Hệ thống BVĐK Tâm Anh, là nơi quy tụ đội ngũ chuyên gia đầu ngành, bác sĩ ngoại khoa giàu kinh nghiệm, tận tâm, nhiệt tình như: TTND.GS.TS.BS Nguyễn Việt Tiến; PGS.TS.BS Đặng Hồng Hoa; ThS.BS.CKII Trần Anh Vũ; BS.CKI Trần Xuân Anh, ThS.BS.CKI Lê Đình Khoa, TS.BS Đỗ Tiến Dũng; TS.BS.CKII Vũ Hữu Dũng… Đây cũng là một trong những đơn vị tiên phong trong việc chẩn đoán và điều trị các bệnh về cơ xương khớp với kỹ thuật hiện đại theo phác đồ cập nhật quốc tế.
+Bệnh viện còn được trang bị hệ thống máy móc, trang thiết bị chẩn đoán hình ảnh hiện đại như: máy chụp CT 768 lát cắt Somatom Drive, máy cộng hưởng từ thế hệ mới Magnetom Amira BioMatrix, robot Artis Pheno, máy đo mật độ xương, máy siêu âm…; hệ thống kính vi phẫu thuật Opmi Vario 700 Zeiss, bàn mổ Meera-Maquet… để có thể phát hiện sớm các tổn thương và điều trị hiệu quả các bệnh lý về cơ xương khớp…
+BVĐK Tâm Anh còn sở hữu hệ thống phòng khám khang trang, khu nội trú cao cấp; khu vực phục hồi chức năng hiện đại; quy trình chăm sóc hậu phẫu toàn diện giúp bệnh nhân nhanh chóng hồi phục và ổn định sức khỏe sau phẫu thuật.
+Để đặt lịch khám và điều trị với các chuyên gia đầu ngành tại Trung tâm Chấn thương chỉnh hình, Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+Quá trình điều trị nhược cơ thường phức tạp, đòi hỏi sự kiên trì và hiểu biết đầy đủ từ người bệnh và bác sĩ. Tuy vậy, với sự phát triển của y học, người bệnh hiện nay nếu tuân thủ đúng phác đồ điều trị có thể sống gần như người bình thường. Vì thế, người bệnh nhược cơ nên giữ tinh thần thoải mái, vận động phù hợp, đặc biệt là hợp tác điều trị tốt với bác sĩ.

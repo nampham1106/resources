@@ -1,0 +1,83 @@
+# doc_id = health_disease_405
+# url = https://tamanhhospital.vn/block-nhanh-trai/
+# date = 22/05/2024
+Block nhánh trái là gì? Nguyên nhân, triệu chứng và chẩn đoán
+Block nhánh trái xảy ra khi xung điện điều khiển nhịp tim bị gián đoạn một phần hoặc hoàn toàn. Đây là tình trạng thường gặp, không thường xảy ra ở những người khỏe mạnh. Block nhánh trái trở nên nguy hiểm hơn nếu người bệnh có kèm theo bệnh nền. Do đó, việc tìm hiểu nguyên nhân, nhận biết các triệu chứng block nhánh trái giúp khoanh vùng nguy cơ mắc bệnh, các giai đoạn bệnh, biến chứng có thể gặp phải, có kế hoạch điều trị sớm và phòng ngừa bệnh hiệu quả.
+Mục lụcBlock nhánh trái là gì?Đối tượng nguy cơ của block nhánh tráiCác loại block nhánh trái thường gặpTriệu chứng block nhánh trái1. Ngất xỉu2. Nhịp tim chậmNguyên nhân block nhánh trái ECG1. Nhồi máu cơ tim2. Bệnh động mạch vành3. Suy tim4. Viêm cơ tim5. Sau phẫu thuật tim6. Bệnh cơ tim7. Các dị tật tim bẩm sinhBlock nhánh trái có nguy hiểm không?Tiêu chuẩn chẩn đoán block nhánh tráiBlock nhánh trái điều trị như thế nào?Biện pháp phòng ngừa block nhánh tráiCâu hỏi thường gặp về block nhánh trái1. Mức độ phổ biến của block nhánh trái2. Tình trạng block nhánh trái có tự khỏi không?3. Người bị block nhánh trái khi nào nên gặp bác sĩ?Block nhánh trái là gì?
+Block nhánh trái là hiện tượng gián đoạn dẫn truyền một phần hoặc toàn bộ tín hiệu điện tim ở nhánh bên trái, dẫn đến tình trạng rối loạn nhịp tim. Bình thường, tim sẽ gửi các xung điện đến các buồng dưới cùng của tim (tâm thất). Những xung này báo hiệu cho các buồng này đập. Thông thường, hai buồng dưới tim (tâm thất) sẽ co bóp đồng bộ với nhau.
+Nhưng khi tim bị block nhánh trái, nhánh mang xung điện đến tâm thất trái sẽ bị chặn một phần hoặc hoàn toàn. Vì vậy, tâm thất trái co bóp muộn hơn bình thường một chút. Điều này có thể gây ra sự co bóp không đồng bộ của tim. Kết quả là tim tống máu kém hiệu quả hơn. (1)
+Đối tượng nguy cơ của block nhánh trái
+Block nhánh trái là một bất thường thường gặp trên điện tâm đồ (ECG) gặp ở những bệnh nhân có dẫn truyền tim xuống nhánh trái của tim bị tổn thương. Mặc dù block nhánh trái thường liên quan đến bệnh tim nghiêm trọng và thường là kết quả của tổn thương cơ tim, căng thành cơ tim hoặc cơ tim phì đại, nhưng nó cũng có thể gặp ở những bệnh nhân không có bất kỳ bệnh lâm sàng cụ thể nào.
+Đối với hầu hết mọi người, block nhánh trái không ảnh hưởng nghiêm trọng cho sức khỏe ngắn hạn. Nhưng nếu bệnh nhân bị suy tim tiềm ẩn, block nhánh trái có thể làm bệnh nặng hơn.
+Ở một số người, block nhánh trái xuất hiện ở mọi mức tần số tim (block nhánh trái hằng định). Tuy nhiên, ở một số bệnh nhân khác, block nhánh trái có thể xuất hiện từng lúc hoặc tùy thuộc vào từng mức tần số tim.
+Ngoài ra, một số bệnh nhân có thể có block nhánh trái không hoàn toàn, tức là nhánh trái bị chậm dẫn truyền một phần, biểu hiện trên điện tim với nhát QRS dị dạng, kiểu block nhánh trái nhưng chưa dãn rộng. Dạng block nhánh trái không hoàn toàn có thể tiến triển thành block nhánh trái hoàn toàn trong tương lai.
+Block nhánh trái xảy ra thường xuyên hơn ở người lớn tuổi, hiếm gặp ở những người trẻ khỏe mạnh. Bệnh thường xảy ra ở những người có một số loại bệnh tim tiềm ẩn. (2)
+Block nhánh trái thường gặp ở người cao tuổi có bệnh nền về tim mạch
+Các loại block nhánh trái thường gặp
+Block nhánh trái được phân loại dựa vào vào vị trí giải phẫu của khiếm khuyết dẫn đến block nhánh trái bao gồm:
+Block nhánh trái hoàn toàn: Tình trạng này xảy ra khi tín hiệu điện tim trong nhánh trái bị tắc nghẽn hoàn toàn. Lúc này, tín hiệu điện phải đi vòng qua nhánh phải, kích thích tâm thất phải bóp và lan dần sang tâm thất trái, điều này làm mất đồng bộ co bóp cơ tim, lâu dài có thể dẫn tới suy tim.
+Block nhánh trái không hoàn toàn: Block nhánh trái không hoàn toàn xuất hiện khi tín hiệu điện tim ở nhánh trái bị tắc nghẽn một phần. Khi đó, một phần tín hiệu điện tim vẫn được truyền đến vùng cơ tim của nhánh trái. Tuy nhiên, việc tín hiệu điện dẫn truyền bị giảm đi sẽ làm ảnh hưởng đến chức năng của tim, khiến tim dần bị suy yếu.
+Block phân nhánh trái sau: Trường hợp block phân nhánh trái sau ít phổ biến hơn so với block phân nhánh trái trước. Nguyên nhân là do các phân nhánh sau phân bố thưa thớt hơn, nên nó chỉ xảy ra khi đã có tổn thương một lượng lớn cơ tim. Block phân nhánh trái sau xảy ra khi tắc nghẽn, và chỉ ở phân nhánh trái sau.
+Block phân nhánh trái trước: Block phân nhánh trái trước xảy ra khi khi tắc nghẽn, và chỉ ở phân nhánh trái trước. Block phân nhánh (bao gồm phân nhánh trái trước hoặc phân nhánh trái sau) có thể đi kèm với block nhĩ thất và block nhánh phải để tạo thành block 2 bó hoặc block 3 bó.
+Triệu chứng block nhánh trái
+Bản thân block nhánh trái không có triệu chứng, không có dấu hiệu hoặc triệu chứng nào khác ngoài hình thái riêng biệt trên điện tâm đồ. Trường hợp block nhánh trái gây ra triệu chứng thường gặp bao gồm:
+1. Ngất xỉu
+Nhồi máu cơ tim có thể xảy ra bất ngờ, nhưng có những trường hợp được cảnh báo trước với các triệu chứng nhồi máu cơ tim như đau tức ngực, mệt, hồi hộp, vã mồ hôi, khó thở, hột hoảng hoặc ngất xỉu.
+Ở bệnh nhân suy tim, hoạt động của cơ tim bị suy giảm, ảnh hưởng đến hệ thống dẫn truyền, thường gây ra block nhánh trái. Ngoài triệu chứng mệt, khó thở, sưng chân và mắt cá chân, người bệnh cũng có thể ho dai dẳng, chóng mặt, ngất xỉu.
+Bệnh nhân có biểu hiện ngất hoặc gần ngất (tiền ngất) khi bị block nhánh trái nên được kiểm tra bằng điện tâm đồ và Holter điện tâm đồ.
+2. Nhịp tim chậm
+Nhánh mang xung điện đến tâm thất trái bị chặn một phần hoặc hoàn toàn khi bị block nhánh trái. Điều này khiến tâm thất trái co bóp chậm hơn bình thường, gây ra sự co bóp không phối hợp của tim. Kết quả là tim có thể tống máu kém hiệu quả hơn và nhịp tim chậm hơn.
+Nguyên nhân block nhánh trái ECG
+Block nhánh trái thường do tổn thương ở tim. Các tình trạng bệnh lý có thể gây ra block nhánh trái bao gồm:
+1. Nhồi máu cơ tim
+Nhồi máu cơ tim cấp là nguyên nhân phổ biến nhất của block nhánh tim. Mảng xơ vữa gây tắc nghẽn một phần hoặc hoàn toàn một hoặc nhiều nhánh mạch vành, dẫn đến thiếu máu cho các nhánh dẫn truyền của tim, gây ra block nhánh hoặc block nhĩ thất. Tình trạng này có thể làm cho tim co bóp không đồng bộ, trong một số trường hợp nặng có thể ngưng đập.
+2. Bệnh động mạch vành
+Block nhánh trái có thể là dấu hiệu của bệnh tim tiềm ẩn, ví dụ như bệnh mạch vành. Đặc biệt là trong trường hợp block nhánh trái mới xuất hiện, trong khi trước đó không có, bệnh nhân cần được theo dõi sát sao.
+3. Suy tim
+Khoảng một phần ba số bệnh nhân bị suy tim có rối loạn dẫn truyền dẫn đến QRS > 120ms. Ở khoảng 25% bệnh nhân suy tim, điều này được biểu hiện dưới dạng block nhánh trái. (3)
+Block nhánh trái ở bệnh nhân suy tim
+4. Viêm cơ tim
+Viêm cơ tim có những biểu hiện đa dạng, tùy thuộc vào mức độ nặng hay nhẹ. Bệnh nhân có thể xuất hiện các triệu chứng kín đáo, hoặc biểu hiện suy tim tối cấp rầm rộ hoặc rối loạn nhịp nguy kịch. Đôi khi, bệnh nhân có thể đột tử do rối loạn nhịp kịch phát.
+5. Sau phẫu thuật tim
+Các can thiệp xâm lấn van động mạch chủ có khả năng gây tổn hại hệ thống dẫn truyền. Tình trạng phát triển block nhĩ thất cao độ được ghi nhận ở khoảng 13% bệnh nhân mắc block nhánh trái mới sau thủ thuật thay van động mạch chủ qua ống thông (TAVR).
+6. Bệnh cơ tim
+Một trong những nguyên nhân chính của block nhánh trái là bệnh cơ tim giãn nở. Cụ thể, sự giãn nở của tâm thất trái gây ra sự căng và tách các sợi Purkinje (phần tận cùng của hệ thống dẫn truyền trong tim).
+Bệnh khiến tim yếu không thể co bóp bình thường. Khi cơ tim cố gắng bù đắp cho điểm yếu này, nó sẽ căng và trở nên to ra. Block nhánh trái có thể vừa là nguyên nhân gây ra bệnh cơ tim giãn vừa là kết quả của nó.
+7. Các dị tật tim bẩm sinh
+Một số trường hợp bệnh nhân mắc các dị tật tim bẩm sinh có thể làm ảnh hưởng đến hệ thống dẫn truyền xung điện tim và gây ra block nhánh trái.
+Block nhánh trái có nguy hiểm không?
+Ở những người không có bệnh tim thực thể, block nhánh trái không gây ra bất kỳ rủi ro cụ thể nào, mặc dù trong tương lai lâu dài bệnh nhân có thể diễn tiến đến suy tim. Ở những bệnh nhân block nhánh trái đột ngột mới xuất hiện, tỷ lệ tử vong do tình trạng này cao hơn 10 lần bình thường.
+Ở bệnh nhân suy tim, sự hiện diện của block nhánh trái có thể làm tăng diễn tiến mức độ suy tim và tử vong.
+Tiêu chuẩn chẩn đoán block nhánh trái
+Block nhánh trái thường được phát hiện trên điện tâm đồ ECG. Tiêu chuẩn chẩn đoán được xác định bởi American College of Cardiology (ACC) và American Heart Association (AHA) như sau:
+Chủ nhịp tim phải là nhịp nhĩ hoặc nút xoang;
+QRS giãn rộng trên 120ms;
+Chuyển đạo V1 nên có QS hoặc sóng r nhỏ với sóng S lớn;
+Chuyển đạo V6 phải có sóng R dạng tai thỏ và không có sóng Q.
+Chẩn đoán block nhánh trái thông qua kết quả điện tâm đồ
+Block nhánh trái điều trị như thế nào?
+Bản thân block nhánh trái không có cách điều trị cụ thể. Tình trạng này thường kéo dài vĩnh viễn và cần điều trị các bệnh tim nền.
+Ngoại trừ trường hợp bệnh nhân suy tim giảm phân suất tống máu có nhịp xoang và block nhánh trái có thời gian QRS > 150ms với suy tim độ 2, độ 3, độ 4. Những trường hợp này được điều trị bằng liệu pháp tái đồng tim theo khuyến nghị của Hội Tim mạch học Mỹ (ACC) và Tổ chức Hiệp hội Tim mạch Mỹ (AHA). Liệu pháp cấy ghép thiết bị tái đồng bộ tim CRT đã được chứng minh là giúp giảm tỷ lệ tử vong ở nhóm dân số này tới 37%. (4)
+Tái đồng bộ tim cũng nên được xem xét ở những bệnh nhân không có nhịp xoang (rung nhĩ EG) và thời gian QRS từ 120 – 149 nhưng khuyến nghị ít hơn. Tuy nhiên, cần lưu ý rằng liệu pháp cấy ghép thiết bị tái đồng bộ tim không loại bỏ block nhánh trái mà được thực hiện bằng cách sử dụng máy tạo nhịp tim hai tâm thất để tạo nhịp đồng thời cho cả tâm thất trái và phải. Quá trình này giúp khôi phục tính đồng bộ trong co bóp cơ tim một cách nhân tạo.
+Biện pháp phòng ngừa block nhánh trái
+Không thể ngăn chặn được block nhánh trái, nhưng có thể giảm nguy cơ mắc block nhánh trái và các vấn đề về tim khác bằng cách điều chỉnh về lối sống và sinh hoạt khoa học hơn, bao gồm:
+Có chế độ ăn tốt cho tim mạch: Ăn nhạt, hạn chế chất béo, đồ nướng, thực phẩm chế biến sẵn. Nên tăng cường bổ sung thêm rau xanh, các loại trái cây tươi, các loại hạt, cá béo…;
+Thực hiện các bài tập có lợi cho tim mạch một cách đều đặn như: tập yoga, đạp xe, đi bộ…;
+Duy trì cân nặng khỏe mạnh, nên thực hiện giảm cân khoa học nếu thừa cân – béo phì;
+Kiểm soát tốt mức huyết áp;
+Giữ tinh thần thoải mái, tránh làm việc quá căng thẳng, áp lực;
+Dành thời gian thư giãn và ngủ đủ giấc mỗi ngày;
+Kiểm tra, thăm khám sức khỏe theo định kỳ.
+Xây dựng chế độ ăn tốt cho tim mạch
+Câu hỏi thường gặp về block nhánh trái
+1. Mức độ phổ biến của block nhánh trái
+Khoảng 0,06% – 0,1% dân số Mỹ bị block nhánh. Block nhánh trái phổ biến hơn ở những người lớn tuổi và những người mắc các bệnh tim khác.
+Tình trạng này hầu như không xảy ra ở những người dưới 35 tuổi. Khoảng 33% bệnh nhân bị suy tim mắc block nhánh trái. Trong khi chưa đến 1% người trưởng thành được chẩn đoán mắc block nhánh trái trước tuổi 50, thì có 6% được chẩn đoán mắc bệnh ở tuổi 80.
+2. Tình trạng block nhánh trái có tự khỏi không?
+Block nhánh trái không tự khỏi được. Tuy nhiên, một số người không phải lúc nào cũng mắc phải tình trạng này. Đôi khi block nhánh trái chỉ xảy ra khi nhịp tim của bạn tăng lên khi gắng sức hoặc khi có cơn nhịp tim nhanh.
+3. Người bị block nhánh trái khi nào nên gặp bác sĩ?
+Người bệnh nên đến bệnh viện để thăm khám sớm nếu xuất hiện các dấu hiệu bất thường mới hoặc các triệu chứng trở nên trầm trọng hơn bao gồm: đau ngực, tức ngực, khó thở, mệt mỏi, mất ý thức thoáng qua.
+Block nhánh trái đôi khi không có triệu chứng rõ ràng, nên việc chẩn đoán bệnh cần được thực hiện bằng xét nghiệm điện tâm đồ. Nếu có nghi ngờ block nhánh trái, bác sĩ có thể chỉ định làm thêm các xét nghiệm khác để kiểm tra các bệnh lý có liên quan đến block nhánh trái. Người bệnh nên đến các cơ sở y tế có chuyên khoa về tim mạch để thăm khám, chẩn đoán chính xác bệnh và có hướng điều trị hiệu quả.
+Hiện nay, Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh là địa chỉ được nhiều người tin tưởng lựa chọn đến thăm khám và điều trị các bệnh về tim mạch, mạch máu và lồng ngực, trong đó có block nhánh tim.
+Để đặt lịch khám, tư vấn và điều trị tại Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh, Quý khách có thể liên hệ theo thông tin sau:
+Block nhánh trái có thể không cần điều trị nếu xuất hiện ở người trẻ khỏe mạnh, không có vấn đề về tim tiềm ẩn nào khác. Tuy nhiên, block nhánh trái là mối nguy hiểm đối với bệnh nhân lớn tuổi mắc bệnh mạch vành, suy tim, làm tăng nguy cơ đột tử ở những bệnh nhân vừa trải qua nhồi máu cơ tim. Do đó, việc thăm khám sức khỏe định kỳ, phát hiện và điều trị sớm block nhánh trái ở những đối tượng nguy cơ là rất quan trọng.

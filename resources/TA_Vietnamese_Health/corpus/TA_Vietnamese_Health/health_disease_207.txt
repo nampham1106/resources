@@ -1,0 +1,112 @@
+# doc_id = health_disease_207
+# url = https://tamanhhospital.vn/phuong-phap-vo-cam/
+# date = 24/06/2022
+Phương pháp vô cảm trong phẫu thuật: Phân loại, rủi ro, lựa chọn
+Phương pháp vô cảm có tác dụng làm mất tạm thời một phần hay toàn bộ đau đớn của người bệnh, giúp cuộc phẫu thuật thuận lợi. Việc lựa chọn phương pháp vô cảm phù hợp với từng người bệnh, tình trạng bệnh sẽ rất quan trọng, để giúp ca mổ diễn ra an toàn.
+Mục lụcPhương pháp vô cảm là gì?Phân loại các phương pháp vô cảm trong phẫu thuậtVô cảm toàn thểVô cảm vùngPhương pháp vô cảm tốt mang những yếu tố gì?Khi nào thì nên lựa chọn phương pháp vô cảm?Rủi ro có thể xảy ra khi chọn lựa giải pháp vô cảmLàm thế nào lựa chọn được phương pháp vô cảm tối ưu nhất cho người bệnh?Kết luậnPhương pháp vô cảm là gì?
+Phương pháp vô cảm là phương pháp dùng thuốc có tác dụng cắt đứt sự liên lạc giữa các dây thần kinh mang thông tin cảm giác về hệ thần kinh trung ương để làm mất một phần hay toàn bộ cảm giác đau đớn của người bệnh để thực hiện ca mổ.
+Chuyên ngành gây mê đã được y khoa ghi nhận cách đây khoảng 1.500 năm, với các cách trói chặt người bệnh vào bàn mổ, cho người bệnh hút thuốc phiện, uống rượu… Nhiều trường hợp phải đánh vào đầu để người bệnh hôn mê trước khi thực hiện phẫu thuật. Do đó, tỉ lệ thành công của cuộc phẫu thuật rất thấp, luôn đối diện nhiều rủi ro, biến chứng nguy hiểm.
+Ngày 16/10/1846, nha sĩ W. Morton (người Mỹ) đã thực hiện thành công trường hợp gây mê toàn thân đầu tiên bằng ether để phẫu thuật cho người bệnh, đánh dấu cột mốc quan trọng trong lịch sử gây mê trên thế giới. Đến nay, nhiều loại thuốc, dụng cụ, phương pháp gây mê, gây tê ra đời và phát triển mạnh mẽ. Cùng với đó là sự phát triển nhiều phương thức phẫu thuật từ đơn giản đến tinh vi, mang lại hiệu quả điều trị cao.
+Phân loại các phương pháp vô cảm trong phẫu thuật
+Phương pháp vô cảm vừa giúp bệnh nhân không cảm thấy đau đớn vừa giúp cuộc phẫu thuật đạt hiệu quả cao. Có hai phương pháp vô cảm: Vô cảm toàn thể và vô cảm vùng. (1)
+Vô cảm toàn thể
+Vô cảm toàn thể (còn gọi là gây mê), là phương pháp làm mất ý thức, mất cảm giác toàn thân với liều lượng thuốc gây mê được điều chỉnh phù hợp với từng bệnh nhân. Sau khi thuốc hết tác dụng, người bệnh sẽ có lại cảm giác và ý thức, đặc biệt là không để lại di chứng. Vô cảm toàn thể gồm các hình thức: Gây mê mask, gây mê mask thanh quản, gây mê tĩnh mạch, gây mê nội khí quản, gây mê phối hợp…
+1. Gây mê mask
+Gây mê mask (gây mê qua mặt nạ) là người bệnh tự thở Oxy và thuốc mê hơi qua mask. Nhân viên y tế sẽ kết nối mặt nạ với máy gây mê để đưa thuốc mê vào đường mũi, miệng từ đó vào phổi và thuốc được hấp thu vô máu và lên não gây tác dụng gây mê hoặc có thể gây mê bằng thuốc mê tĩnh mạch. Kỹ thuật này được dùng trong các trường hợp phẫu thuật có thời gian ngắn, không yêu cầu giãn cơ.
+2. Gây mê mask thanh quản
+Năm 1981, bác sĩ Archie Brain phát minh ra mask thanh quản, sau đó được đưa vào sử dụng từ năm 1988. Đến nay, mask thanh quản đã được cải tiến mang lại nhiều hiệu quả hơn.
+Gây mê mask thanh quản là phương pháp đặt một dụng cụ thông suốt đường thở trên cho bệnh nhân. Nhân viên y tế sẽ đặt một ống nòng và đầu dưới có một bóng chèn hình êlip úp vào vùng thanh quản nhằm kiểm soát hô hấp. Với nhiều cải tiến hiện loại mask thanh quản Igel giúp kiểm soát đường thở tốt hơn. Lưu ý, chỉ rút mask thanh quản khi bệnh nhân đã tỉnh táo, có thể nuốt, há miệng theo mệnh lệnh, sinh hiệu ổn.
+Bác sĩ tiêm thuốc tê vào tủy sống để làm mất cảm giác một vùng lớn như lưng, bụng, hai tay, chân…
+Với phương pháp gây mê mask thanh quản, bóng được úp kín quanh lối vào thanh quản bởi áp lực thấp nên mang lại sự tiện lợi và kiểm soát đường thở dễ dàng hơn với nhiều ưu điểm:
+Dễ sử dụng, việc đặt mask thanh quản cho bệnh nhân đơn giản, tiện lợi.
+Đường thở được kiểm soát nhanh chóng, tỷ lệ thành công chắc chắn đến 98,5% trường hợp.
+Mask thanh quản giúp bệnh nhân không còn cảm giác đau đớn nhưng vẫn đảm bảo cung cấp lượng oxy đầy đủ khi ca phẫu thuật diễn ra.
+Giảm phản xạ ho, kích thích họng so với phương pháp đặt nội khí quản.
+Không gây ra hoặc ít tạo phản xạ tăng nhịp tim, tăng huyết áp ảnh hưởng đến sức khỏe bệnh nhân.
+Sau phẫu thuật, bệnh nhân cũng giảm tỷ lệ đau họng so với các phương pháp đặt nội khí quản.
+Do đó, mask thanh quản đã trở thành một xu thế mới trong việc kiểm soát đường thở. Kỹ thuật này được đưa vào các phác đồ kiểm soát đường thở khó và các tình huống không thể đặt nội khí quản. Tuy nhiên, phương pháp này cũng còn những nhược điểm, trong quá trình phẫu thuật, bệnh nhân có nguy cơ bị trào ngược hoặc hít sặc. Do đó, để kiểm soát tốt việc sử dụng mask thanh quản thì cần khám tiền mê đánh giá kỹ tình trạng dạ dày đầy, cần những chuyên gia giỏi, bác sĩ dày dạn kinh nghiệm trong lĩnh vực gây mê hồi sức, sẽ giúp bệnh nhân tránh được tình trạng này.
+3. Gây mê tĩnh mạch
+Gây mê tĩnh mạch là phương pháp gây mê toàn thân bằng thuốc mê tiêm truyền qua đường tĩnh mạch, chỉ sử dụng trong các cuộc phẫu thuật ngắn, đơn giản. Nhân viên y tế sẽ tiêm thuốc ngủ, thuốc an thần giảm đau, thuốc mê khiến người bệnh rơi vào trạng thái mê, mất tri giác, giảm đau nhưng vẫn bảo vệ được phản xạ hô hấp. Trong quá trình gây mê tĩnh mạch, bệnh nhân tự thở hoặc được giúp thở oxy qua mask, không dùng thuốc mê hơi.
+Gây mê tĩnh mạch bao gồm 2 loại: Gây mê tĩnh mạch đơn thuần (chỉ sử dụng một loại dung dịch thuốc mê tĩnh mạch) và gây mê tĩnh mạch phối hợp (dùng dung dịch thuốc mê kết hợp thuốc giảm đau).
+Ưu điểm của kỹ thuật gây mê tĩnh mạch:
+Không cần dùng dụng cụ đặc biệt.
+Không gây ô nhiễm môi trường.
+Nhân viên y tế, bác sĩ trong phòng mổ không hít phải hơi mê độc hại.
+Nhược điểm của kỹ thuật gây mê tĩnh mạch:
+Những bệnh nhân bị suy hô hấp, tuần toàn không được áp dụng phương pháp gây mê tĩnh mạch. Trong trường hợp bắt buộc phải gây mê tĩnh mạch cho những bệnh nhân này thì người bệnh phải được hỗ trợ hô hấp và nâng đỡ tuần hoàn. Khi tiêm truyền thuốc gây mê, tùy loại bệnh nhân có thể có cảm giác đau buốt nơi tiêm do động mạch bị co thắt.
+Thuốc mê gây giãn mạch, có thể ức chế cơ tim người bệnh.
+Gây mê tĩnh mạch không áp dụng đối với người bệnh nhạy cảm với các thành phần của thuốc.
+Sau khi gây mê tĩnh mạch, người bệnh có khả năng bị dị ứng thuốc gây mê với biểu hiện: nổi mề đay, sốt, sốc,… Ngoài ra, người bệnh có thể bị chóng mặt, mất phương hướng khi tỉnh.
+4. Gây mê nội khí quản
+Gây mê nội khí quản là kỹ thuật dẫn khí từ máy thở vào phổi bằng ống nội khí quản. Bệnh nhân sẽ mất cảm giác và ý thức tạm thời nhưng vẫn có thể tự thở nếu không dùng thuốc giãn cơ hoặc được thở máy hỗ trợ hô hấp nếu bệnh nhân cần dùng thuốc giãn cơ. Kỹ thuật này có tác dụng thông khí đường hô hấp, hút đàm nhớt khí phế quản dễ dàng, bệnh nhân được gây mê toàn thân nhưng vẫn đảm bảo hô hấp ngay cả ở giai đoạn nguy kịch và hậu phẫu.
+Kỹ thuật gây mê nội khí quản được chỉ định cho hầu như tất cả các loại phẫu thuật, đặc biệt là các cuộc phẫu thuật lớn, kéo dài và có nhu cầu mềm cơ như:
+Phẫu thuật đại tràng, dạ dày, ruột, tử cung, bàng quang.
+Phẫu thuật vùng đầu do chấn thương sọ não, u não, dị dạng mạch máu não.
+Phẫu thuật chấn thương ngực, u phổi.
+Phẫu thuật mắt, răng hàm mặt, tai mũi họng.
+Phẫu thuật bệnh nhân bị đa chấn thương, sốc.
+Dùng kỹ thuật gây mê nội khí quản khi các kỹ thuật khác gặp khó khăn.
+Phương pháp này yêu cầu bác sĩ gây mê phải nhiều kinh nghiệm, thành thạo các kỹ thuật gây mê, bệnh viện phải có đầy đủ máy móc, phương tiện hồi sức để hỗ trợ cho quá trình gây mê diễn ra thuận lợi. Đối với người bệnh có một số bệnh đường hô hấp như viêm thanh quản cấp tính, lao thanh quản nặng,… không được dùng phương pháp gây mê nội khí quản.
+5. Gây mê phối hợp
+Là phương pháp phối hợp nhiều loại thuốc khác nhau gồm thuốc mê, giảm đau, giãn cơ,…thường bệnh nhân sẽ được đặt nội khí quản hay mask thanh quản để kiểm soát hô hấp. Đây là phương pháp được sử dụng nhiều nhất trong gây mê để đạt được độ mê phù hợp với cuộc phẫu thuật.
+Vô cảm vùng
+Vô cảm vùng (gây tê) là phương pháp sử dụng tác nhân hóa học, vật lý ức chế dẫn truyền xung động thần kinh nhằm làm mất hay giảm cảm giác ở một bộ phận, vùng trên cơ thể. Người bệnh vẫn có ý thức, tỉnh táo trong quá trình gây tê và phẫu thuật.
+Gây tê tại chỗ áp dụng cho những vùng phẫu thuật nhỏ: vết thương ngoài da, vết thương ngón tay, ngón chân, bướu nhỏ ngoài da… người bệnh không còn cảm giác đau ở vị trí vùng đó. Trong khi đó, với gây tê vùng, bác sĩ sẽ chích thuốc tê vào tủy sống hay màng cứng, các đám rối hay dây thần kinh để làm mất cảm giác một vùng lớn như lưng, bụng, hai tay, chân…
+1. Gây tê ngoài da và niêm mạc
+Là dùng thuốc tê bôi hoặc xịt lên da để giảm đau ở bề mặt. Chẳng hạn khi nhổ răng, bác sĩ sẽ bôi dung dịch Lidocaine 10%, hoặc dung dịch Benzocaine 4% hoặc 10% quanh vùng niêm mạc chân răng, hoặc gây tê tại chỗ. Sau đó chờ vài phút cho thuốc tê ngấm rồi can thiệp nhổ răng.
+Gây tê ngoài da và niêm mạc thường dùng trong nha khoa hay các tiểu phẫu.
+2. Gây tê tại chỗ, tê thấm lớp
+Kỹ thuật này áp dụng cho các trường hợp tiểu phẫu với vết thương nông, hay chỉ rạch vết áp xe nhỏ. Thuốc tê được tiêm vào da giúp giảm đau tại chỗ, không ảnh hưởng đến quá trình vận động.
+3. Gây tê đám rối thần kinh
+Là kỹ thuật làm mất cảm giác và liệt vận động tại vùng gây tê bằng cách tiêm thuốc tê vào đám rối thần kinh hoặc dây thần kinh. Kỹ thuật này cần kết hợp với siêu âm để xác định chính xác dây thần kinh cần gây tê và cấu trúc xung quanh để giảm tỉ lệ tai biến, ngộ độc thuốc tê.
+4. Gây tê tủy sống
+Là phương pháp đưa thuốc tê (2) vào khoang dưới màng nhện. Khi đó, thuốc tê sẽ hòa vào dịch não tủy nên sẽ có nồng độ nhỏ hơn so với nồng độ ban đầu, gây mất cảm giác và liệt vận động. Chỉ bác sĩ có nhiều kinh nghiệm và nắm vững nguyên tắc gây tê tủy sống mới có thể thực hiện được kỹ thuật này.
+5. Gây tê ngoài màng cứng
+Để giảm đáp ứng sinh lý bất lợi do quá trình phẫu thuật gây ra, Bác sỹ gây mê có thể dùng gây tê ngoài màng cứng. Kỹ thuật gây tê này giúp người bệnh mất cảm giác đau và liệt vận động tại vị trí do khoanh tủy chi phối, giúp mất cảm giác đau trong mổ và giảm cơn đau cấp tính trong giai đoạn hậu phẫu. Đặc biệt, phương pháp này thường áp dụng cho các mẹ bầu giảm đau trong chuyển dạ khi sinh, giúp các mẹ giảm đau, đi lại sớm và phục hồi nhanh hơn sau sinh. (3)
+Phương pháp vô cảm tốt mang những yếu tố gì?
+Chọn một phương pháp vô cảm cần phù hợp với yêu cầu cuộc phẫu thuật và tình trạng người bệnh. Do đó, bác sĩ phải khám tiền mê, đánh giá thể trạng, tình trạng bệnh lý đi kèm, yêu cầu cuộc phẫu thuật,… để có kế hoạch chọn phương pháp vô cảm thích hợp, đảm bảo an toàn.
+Đồng thời, một phương pháp vô cảm tốt phải đảm bảo các yếu tố:
+Gây ngủ, an thần, giúp người bệnh giảm lo âu.
+Giúp các cơ mềm để quá trình phẫu thuật thuận lợi.
+Không đau khi phẫu thuật.
+Hạn chế những tình trạng bất lợi cho người bệnh như: co thắt, dị ứng,…
+Khi nào thì nên lựa chọn phương pháp vô cảm?
+Các phương pháp vô cảm mang lại tác dụng mất cảm giác đau, giảm tỉ lệ tai biến, biến chứng,… giúp cuộc phẫu thuật thuận lợi hơn. Do đó, khi phẫu thuật dù là tiểu phẫu hay đại phẫu, bác sĩ và nhân viên y tế sẽ dùng phương pháp vô cảm. Và tùy vào từng ca bệnh cụ thể, bác sĩ sẽ cân nhắc lựa chọn kỹ thuật gây tê, gây mê phù hợp hoặc kết hợp nhiều kỹ thuật để đảm bảo độ mê và an toàn.
+Rủi ro có thể xảy ra khi chọn lựa giải pháp vô cảm
+Bên cạnh nhưng lợi ích, các phương pháp vô cảm cũng có thể gây ra rủi ro. Chẳng hạn, đối với kỹ thuật đặt nội khí quản, nhân viên y tế có thể đặt nhầm ống vào dạ dày, ống bị đẩy quá sâu làm hạn chế hoạt động của phổi, suy hô hấp, dịch dạ dày tràn vào phổi,…
+Trong khi đó, với kỹ thuật gây tê tủy sống, người bệnh có thể bị nhức đầu, đau lưng nhiều do chọc dò tủy sống đường giữa không chính xác gây tổn thương những tổ chức cạnh cột sống; nôn mửa hay bị tụt huyết áp; bí tiểu…
+Trước cuộc phẫu thuật, bác sĩ sẽ chọn phương pháp gây tê, gây mê phù hợp đảm bảo an toàn sức khỏe cho bệnh nhân.
+Làm thế nào lựa chọn được phương pháp vô cảm tối ưu nhất cho người bệnh?
+Để lựa chọn phương pháp vô cảm tối ưu nhất cho người bệnh, bác sĩ phải đánh giá tình trạng bệnh lý, sức khỏe của người bệnh và yêu cầu của ca phẫu thuật. Cụ thể:
+Tình trạng bệnh nhân
+Tình trạng bệnh lý hiện tại, kết quả khám, xét nghiệm cận lâm sàng.
+Tiền sử bệnh lý: tim mạch, huyết áp, hô hấp, gan, thận, thần kinh…
+Cơ địa: dị ứng thuốc, hen suyễn…Tiền sử vô cảm: từng gây mê chưa và có tai biến do gây mê hay không?
+Tính chất cuộc phẫu thuật
+Mục đích cuộc mổ: tiểu phẫu hay đại phẫu, dự kiến mổ trong thời gian bao lâu, mổ vùng nào (mặt, đầu, cổ, tay, chân, bụng,…)
+Hình thức phẫu thuật: nội soi hay mổ mở?
+Tư thế người bệnh: nằm nghiêng, ngửa hay sấp?
+Trang thiết bị y tế của bệnh viện
+Bệnh viện – nơi thực hiện cuộc phẫu thuật sẽ kiểm tra dụng cụ, máy móc và nhân sự gây mê, bao gồm:
+Thuốc gây mê, gây tê có đầy đủ cho cuộc phẫu thuật hay không, thuốc hồi sức, giảm đau cho người bệnh thế nào?
+Các loại máy móc, thiết bị (máy gây mê kèm thở, máy theo dõi, máy bơm tiêm điện, máy giảm đau tự động…), các dụng cụ y tế khác và vật tư tiêu hao…
+Chuyên gia giỏi, bác sĩ giàu kinh nghiệm, lực lượng điều dưỡng chuyên về dụng cụ gây mê, gây tê, quần áo vô khuẩn, phòng vô khuẩn trước khi mổ, bộ phận đếm gạc…
+Phẫu thuật viên…
+Kết luận
+Trước khi thực hiện ca mổ, dù là đại phẫu hay tiểu phẫu, bác sĩ sẽ dùng phương pháp vô cảm để cắt xung động dây thần kinh truyền cảm giác về hệ thần kinh trung ương, loại bỏ một phần hay toàn bộ cảm giác đau đớn của người bệnh. Căn cứ vào tình trạng bệnh nhân, tính chất cuộc phẫu thuật, dụng cụ, máy móc hiện có, bác sĩ sẽ chọn ra kỹ thuật gây tê, gây mê phù hợp hoặc kết hợp cùng lúc nhiều kỹ thuật để tăng tỉ lệ thành công, hạn chế những rủi ro trong và sau cuộc mổ. Cùng với trang thiết bị hiện đại, bác sĩ giàu kinh nghiệm tay nghề cao là yếu tố quan trọng để cuộc phẫu thuật thành công.
+Trung tâm Gây mê – Hồi sức, Điều trị đau và chăm sóc giảm nhẹ của Hệ thống BVĐK Tâm Anh quy tụ các bác sĩ giỏi tay nghề, giàu kinh nghiệm cùng trang thiết bị, kỹ thuật gây mê hiện đại:
+Hệ thống phòng mổ áp lực dương với hệ thống lọc khí HEPA đảm bảo vô trùng.
+Hệ thống phòng mổ gồm: Phòng tiền mê, phòng phẫu thuật, phòng hồi tỉnh, phòng hồi sức ngoại.
+Hệ thống máy gây mê hiện đại nhất Việt Nam, điển hình như: Máy gây mê tự động GE Aisys Cs2 có tính năng huy động phế nang tự động tránh tình trạng xẹp phổi cho bệnh nhân trong quá trình phẫu thuật.
+Máy siêu âm Sonosite M – Turbo C có chất lượng hình ảnh nổi bật, độ phân giải cao giúp xác định chính xác vị trí thần kinh, động mạch, tĩnh mạch… nhờ đó tránh được các tổn thương hoặc biến chứng so với phương pháp cổ điển trước đây.
+Bơm tiêm điện PCA cho phép bệnh nhân tự bấm để kiểm soát cơn đau của mình, hệ thống cảnh báo và khóa tự động khi có bất thường trong quá trình truyền thuốc giảm đau.
+Máy lọc máu liên tục Prismaflex để sẵn sàng hỗ trợ điều trị các bệnh nhân nặng như sốc nhiễm trùng, ngộ độc thuốc.
+Để được tư vấn về dịch vụ gây mê, gây tê an toàn, khách hàng vui lòng liên hệ Hệ thống Bệnh viện Đa khoa Tâm Anh:
+Hà Nội:
+108 Hoàng Như Tiếp, P.Bồ Đề, Q.Long Biên, TP.Hà Nội.
+Hotline: 024 3872 3872 – 024 7106 6858
+TP.HCM:
+2B Phổ Quang, P.2, Q.Tân Bình, TP.HCM.
+Hotline: 0287 102 6789 – 093 180 6858
+Fanpage: https://www.facebook.com/benhvientamanh/
+Phương pháp vô cảm mang ý nghĩa quan trọng trong các phẫu thuật dù là tiểu phẫu hay đại phẫu. Bác sĩ lựa chọn đúng phương pháp vô cảm sẽ tránh tác hại đến người bệnh và cuộc phẫu thuật sẽ thuận lợi hơn. Chính vì vậy nên liên hệ sớm với các bác sĩ để được dặn dò và và có những lời khuyên hữu ích nhất.

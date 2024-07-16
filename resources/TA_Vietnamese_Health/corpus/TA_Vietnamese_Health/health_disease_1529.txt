@@ -1,0 +1,65 @@
+# doc_id = health_disease_1529
+# url = https://tamanhhospital.vn/birads/
+# date = 10/05/2023
+BIRADS là gì? Bảng phân loại BIRADS chi tiết theo kết quả khám vú
+BIRADS là thước đo phân loại nhằm mã hóa các tổn thương trên siêu âm, chụp X-quang tuyến vú, MRI vú theo mức độ và nguy cơ ung thư.
+Mục lụcBIRADS trên nhũ ảnh là gì?Phân loại BIRADS1. BIRADS 02. BIRADS 13. BIRADS 24. BIRADS 35. BIRADS 46. BIRADS 57. BIRADS 6Những lưu ý khi nhận kết quả BIRADS trên nhũ ảnhBIRADS và mật độ vúNhững điểm cần chú ý về BIRADSBIRADS trên nhũ ảnh là gì?
+BIRADS trên nhũ ảnh là cách các bác sĩ sử dụng một hệ thống tiêu chuẩn để mô tả các phát hiện và kết quả chụp nhũ ảnh (được gọi là Hệ thống dữ liệu và báo cáo hình ảnh vú hoặc BIRADS – Breast Imaging Reporting And Data System) của Hiệp hội Điện quang Hoa Kỳ (ACR – American College of Radiology) sắp xếp các kết quả thành các danh mục được đánh số từ 0 đến 6. [1]
+Nhũ ảnh 3D (phải) hình ảnh rõ nét và quét toàn bộ vú, phát hiện sang thương tốt hơn nhiều nhũ ảnh 2D (trái) – trắng xóa.
+Phân loại BIRADS
+1. BIRADS 0
+Chưa đầy đủ, cần đánh giá hình ảnh bổ sung và so sánh với các lần chụp nhũ ảnh trước đó (hoặc các xét nghiệm hình ảnh khác).
+Ý nghĩa: điều này có nghĩa là bác sĩ X-quang có thể đã nhìn thấy một điểm bất thường có thể xảy ra, nhưng nó không rõ ràng và bạn sẽ cần thêm các xét nghiệm khác là chụp nhũ ảnh thêm thế bổ sung khu trú hoặc phóng đại và/hoặc siêu âm vú. Điều này cũng có thể gợi ý rằng bác sĩ X-quang muốn so sánh hình chụp X-quang tuyến vú mới của bạn với hình chụp cũ hơn để xem sang thương có những thay đổi theo thời gian hay không.
+2. BIRADS 1
+Âm tính.
+Ý nghĩa: đây là kết quả xét nghiệm bình thường. Vú của bạn trông giống nhau (đối xứng) không có khối u, sang thương xáo trộn cấu trúc hoặc vi vôi hóa đáng ngờ. Trong trường hợp này, âm tính có nghĩa là không tìm thấy gì mới hoặc không có bất thường.
+3. BIRADS 2
+Sang thương lành tính – Birads 2.
+Ý nghĩa: đây cũng là kết quả xét nghiệm âm tính (không có dấu hiệu ung thư), nhưng bác sĩ X quang chọn mô tả sang thương lành tính như vôi hóa lành tính, khối u lành hoặc hạch bạch huyết ở vú. Những thay đổi trên vú trước đó như sẹo sinh thiết ở vú được ghi nhận để giúp những người khác sau này xem hình chụp nhũ ảnh sẽ không hiểu sai kết quả lành tính trở thành sang thương đáng nghi ngờ.
+4. BIRADS 3
+Sang thương có thể lành tính, đề xuất theo dõi trong thời gian ngắn.
+Ý nghĩa: khả năng sang thương là ung thư rất thấp (không quá 2%). Nhưng vì nó không được chứng minh là lành tính, nên bạn nên cẩn thận hơn và kiểm tra xem sang thương có thay đổi theo thời gian hay không.
+Bạn sẽ cần theo dõi bằng hình ảnh lặp lại sau 6 đến 12 tháng và thường xuyên sau đó cho đến khi kết quả được biết là ổn định (thường ít nhất là 2 năm). Cách này giúp tránh sinh thiết không cần thiết, nhưng nếu sang thương này thay đổi theo thời gian, nó vẫn cho phép chẩn đoán sớm.
+Bảng phân loại BIRADS nhằm mục đích chuẩn hóa việc chẩn đoán, tiên lượng nguy cơ ác tính cũng như đưa ra kế hoạch theo dõi, phác đồ điều trị.
+5. BIRADS 4
+Bất thường đáng nghi ngờ ác tính, nên xem xét sinh thiết.
+Ý nghĩa: những sang thương này không chắc chắn giống ung thư nhưng có thể là ung thư, có nhiều mức độ nghi ngờ. Bác sĩ X quang lo lắng nhiều nên đề nghị sinh thiết, tùy mức độ sang thương có nguy cơ ác tính khác nhau:
+BIRADS 4A: có khả năng mắc ung thư thấp (hơn 2% nhưng không quá 10%)
+BIRADS 4B: có khả năng mắc ung thư vừa phải (hơn 10% nhưng không quá 50%)
+BIRADS 4C: có khả năng mắc ung thư cao (hơn 50% nhưng dưới 95%), nhưng không cao bằng Loại 5.
+6. BIRADS 5
+Rất gợi ý bệnh ác tính, cần thực hiện chẩn đoán sinh thiết.
+Ý nghĩa: kết quả trông giống như ung thư và có khả năng cao (ít nhất 95%) là ung thư và bắt buộc có sinh thiết chẩn đoán và điều trị thích hợp.
+7. BIRADS 6
+Bệnh ác tính đã được chứng minh bằng sinh thiết, cần thực hiện kế hoạch chẩn đoán và điều trị
+Ý nghĩa: danh mục này chỉ được sử dụng cho các phát hiện trên chụp quang tuyến vú (hoặc siêu âm hoặc MRI) đã được chứng minh là ung thư bằng sinh thiết trước đó. Hình ảnh có thể được sử dụng theo cách này để xem ung thư đáp ứng với điều trị tốt như thế nào.
+Hình trên nhũ ảnh: mô vú không đối xứng
+Những lưu ý khi nhận kết quả BIRADS trên nhũ ảnh
+Có những tổn thương trong tuyến vú chỉ thấy đơn thuần trên 1 phương tiện hình ảnh hoặc siêu âm vú, hoặc nhũ ảnh, hoặc MRI vú.
+Phải đánh giá hình ảnh mô vú 2 bên dù có bệnh lý 1 bên vú (trên chụp nhũ ảnh hay siêu âm hay MRI vú) vì phần lớn mật độ mô vú không cân xứng trong cùng một vú hoặc 2 bên).
+Hình ảnh học tuyến vú quan trọng trong tầm soát, chẩn đoán nhưng vẫn là một phần hỗ trợ chẩn đoán chính xác cuối cùng của bệnh, kết hợp bác sĩ khám lâm sàng và giải phẫu bệnh.
+Đôi khi BIRADS 5 trên hình ảnh nghĩ là ác tính nhưng thực tế là lành tính (gọi là dương tính giả) của hình ảnh.
+Đôi khi BIRADS 0-1-2 trên hình ảnh nghĩa là sang thương lành tính hoặc không thấy bất thường nhưng thực tế là bệnh ác tính (gọi là âm tính giả) của hình ảnh.
+Bác sĩ hình ảnh ghi nhận đánh giá chi tiết từng loại BIRADS trên từng sang thương trong từng mô vú riêng biệt, xác định rõ sang thương vị trí nào BIRADS mấy, thấy được trên thế nào,…
+Kết quả hình ảnh theo phân loại BIRADS chỉ có giá trị tại thời điểm chẩn đoán, trong thời gian tầm soát. Sau thời gian này bạn phải kiểm tra hình ảnh lại theo mục đích tầm soát hay chẩn đoán.
+Hình ảnh tuyến vú của lần kiểm tra trước đó rất có giá trị để theo dõi tiếp cho các lần khám sau đó, bạn nên giữ lại và mang theo đi tái khám, trong vòng 5 năm càng tốt.
+BIRADS và mật độ vú
+BIRADS cho biết đậm độ mô tuyến vú. Phim nhũ ảnh cũng sẽ bao gồm đánh giá về đậm độ mô vú của bạn, đây là phần mô tả về lượng mô xơ và mô tuyến trong vú so với mô mỡ. Đậm độ mô vú càng dày thì càng khó nhìn thấy những vùng bất thường trên phim nhũ ảnh.
+Mức độ đậm đặc mô vú được mô tả bằng các chữ cái:
+A – Gần như vú hoàn toàn là mô mỡ.
+B – Mô vú dạng sợi rải rác: các vùng mật độ sợi tuyến rải rác cho nhưng phần lớn mô vú là không đặc.
+C – Mô vú dày đặc không đồng nhất: mật độ không đồng nhất, phần lớn mô vú lại đặc.
+D – Mô vú cực kỳ dày đặc: cực kỳ dày đặc cho thấy gần như tất cả các mô vú đều dày đặc.
+Người bệnh cần bình tĩnh, tuân thủ với hướng dẫn, tư vấn của bác sĩ điều trị để đem lại hiệu quả tốt nhất.
+Những điểm cần chú ý về BIRADS
+Trong kết quả kiểm tra vú để sàng lọc ung thư, trong phần kết luận luôn có phân độ BIRADS, bác sĩ sẽ dựa vào đây để tư vấn, chẩn đoán tình trạng bệnh. Do đó, trước hết bạn cần bình tĩnh, tuân thủ với hướng dẫn, tư vấn của bác sĩ điều trị để đem lại hiệu quả tốt nhất. [2]
+Ví dụ, ở hầu hết các trường hợp BIRADS cao sẽ được chỉ định thực hiện sinh thiết. Kết quả sinh thiết sẽ đưa ra chẩn đoán có hay không tế bào ung thư, từ đó giúp bác sĩ định hướng phương pháp, lên phác đồ điều trị phù hợp, hiệu quả. Tại khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM, các bác sĩ sẽ phối hợp đa chuyên khoa để cùng hội chẩn và điều trị đa mô thức, luôn cập nhật phác đồ chuẩn Bộ Y tế và các phương pháp điều trị tiên tiến, hiện đại của các nước có nền y học phát triển.
+Hay như trường hợp bạn có tổn thương vú BIRADS 3 nên được theo dõi bằng hình ảnh sau 6 – 12 tháng và lặp lại cho đến khi kết quả ổn định (ít nhất 5 năm). Việc theo dõi liên tục theo hướng dẫn của bác sĩ giúp bạn [3]:
+Hạn chế sinh thiết không cần thiết.
+Kết quả sau 6, 12 và 24 tháng theo dõi có thể lành tính.
+Kịp thời phát hiện những bất thường phát sinh.
+Tóm lại, bảng phân loại BIRADS nhằm mục đích chuẩn hóa việc chẩn đoán, tiên lượng nguy cơ ác tính cũng như đưa ra kế hoạch theo dõi, phác đồ điều trị. Các nghiên cứu nhận thấy cứ 1.000 trường hợp chụp nhũ ảnh thì nhờ siêu âm lại phát hiện thêm 3 trường hợp ung thư vú bị bỏ sót. Tóm lại, cho đến nay, siêu âm vẫn đóng vai trò không thể thiếu trong chẩn đoán và theo dõi trong bệnh ung thư vú. Nhưng kết quả siêu âm phụ thuộc rất nhiều vào kiến thức và kỹ năng đọc của bác sĩ.
+Khoa Ngoại vú, Bệnh viện Đa khoa Tâm Anh TP.HCM với đội ngũ chuyên gia, bác sĩ giỏi, giàu kinh nghiệm trong việc khám, chẩn đoán, tư vấn, điều trị chuyên sâu các bệnh tuyến vú nói chung và ung thư vú nói riêng.
+Bên cạnh đó, khoa Ngoại vú còn được đầu tư trang thiết bị hiện đại, nhập khẩu chính hãng từ các nước châu Âu – Mỹ, giúp người bệnh yên tâm điều trị, cải thiện các vấn đề liên quan đến tuyến vú như: ung thư vú, thu nhỏ ngực phì đại, nâng ngực chảy xệ, tái tạo ngực sau đoạn nhũ do không may bị ung thư…
+Việc chẩn đoán bệnh vú luôn phải có khám lâm sàng, chẩn đoán hình ảnh và tế bào học (hay giải phẫu bệnh) – 3 thành tố này như kiềng 3 chân giúp chẩn đoán xác định bệnh thì mới có kế hoạch điều trị và theo dõi chính xác sau đó.
+BIRADS là công cụ hữu hiệu, chuẩn hóa việc chẩn đoán hình ảnh, tiên lượng nguy cơ ác tính. Bài viết trên đã cung cấp những thông tin về BIRADS là gì? Hy vọng đây sẽ là trợ thủ đắc lực hỗ trợ bệnh nhân gặp phải các vấn đề về tuyến vú nói chung và ung thư vú nói riêng.

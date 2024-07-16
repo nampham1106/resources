@@ -1,0 +1,173 @@
+# doc_id = health_disease_371
+# url = https://tamanhhospital.vn/ung-thu/
+# date = 09/08/2023
+Ung thư là gì? Mọi thứ về bệnh có tỷ lệ mắc cao trên thế giới
+Ung thư là nguyên nhân gây tử vong hàng đầu trên toàn thế giới, chiếm gần 10 triệu ca tử vong vào năm 2020.
+Mục lụcUng thư là gì?Các dạng ung thư và tiền ung thưTổn thương tiền ung thưUng thư biểu mô tại chỗCác dạng ung thưDấu hiệu ung thưCác yếu tố nguy cơ gây ung thưYếu tố di truyềnCác yếu tố môi trườngCác giai đoạn ung thưT (Tumor)N (Node)M (Metastasis)Biến chứng bệnh ung thưChẩn đoán bệnh ung thưPhương pháp điều trị ung thư1. Phẫu thuật2. Hóa trị3. Xạ trị4. Liệu pháp nhắm trúng đích5. Liệu pháp miễn dịch6. Chăm sóc giảm nhẹ7. Liệu pháp nội tiết tố8. Ghép tế bào gốc (ghép tủy xương)Có thể phòng ngừa bệnh ung thư không?Ung thư là gì?
+Từ “ung thư” xuất phát từ tiếng Hy Lạp cổ “karkinos” có nghĩa là “con cua” và sau đó được dịch sang tiếng Latinh là “cancer”. Từ “cancer” trong tiếng Latinh có nghĩa là “khối u”.
+Trong lịch sử, khái niệm về bệnh ung thư đã tồn tại từ rất lâu. Các tài liệu cổ đại của Ai Cập và Hy Lạp đã có những mô tả đầu tiên về dấu hiệu và triệu chứng của bệnh ung thư. Tuy nhiên, chỉ đến thế kỷ 19, khi các tiến bộ trong lĩnh vực nghiên cứu khoa học và y học bùng nổ, người ta mới bắt đầu hiểu rõ hơn về bệnh ung thư.
+Bệnh ung thư là gì? Bệnh ung thư (còn được gọi là bệnh ác tính) là tình trạng mất kiểm soát trong quá trình phân chia và phát triển của các tế bào trong cơ thể. Các tế bào ung thư không tuân theo quy luật tự nhiên của cơ thể, không chết đi như các tế bào bình thường và không thể thực hiện chức năng bình thường cho cơ thể. Quá trình hình thành ung thư bắt đầu khi một hoặc nhiều tế bào bị biến đổi về mặt di truyền (đột biến) trong nhân tế bào. (1)
+Đột biến có thể xảy ra do di truyền, tác động môi trường, lỗi trong quá trình sao chép vật chất di truyền, hoặc các yếu tố khác. Khi các tế bào ung thư bị biến đổi, chúng có thể tiếp tục phân chia một cách không kiểm soát, tạo thành một khối u ác tính. Các tế bào ung thư có thể phát triển, xâm lấn vào mô và các cơ quan xung quanh, gây cản trở, rối loạn về hoạt động và chức năng bình thường của cơ quan, bộ phận này.
+Bên cạnh đó, các tế bào ung thư có thể đi theo hệ thống mạch máu và mạch bạch huyết, lan đến các phần khác của cơ thể (gọi là di căn), gây ra các triệu chứng tại các cơ quan này và ảnh hưởng đến sức khỏe tổng thể cho người bệnh.
+Bệnh ung thư có thể ảnh hưởng đến bất kỳ cơ quan nào trong cơ thể và có thể có nhiều dạng khác nhau, nhưng phổ biến nhất là các loại ung thư dưới đây.
+Theo số liệu thống kê của Tổ chức Ung thư toàn cầu (GLOBOCAN) năm 2020, số trường hợp chẩn đoán mắc ung thư cụ thể: (2)
+Ung thư vú: 2,26 triệu ca
+Ung thư phổi: 2,21 triệu ca
+Ung thư tuyến tiền liệt: 1,41 triệu ca
+Ung thư đại trực tràng: 1,15 triệu ca
+Ung thư dạ dày: 1,09 triệu ca
+Trong đó, các loại ung thư sau có số ca tử vong cao nhất:
+Ung thư phổi: 1,80 triệu ca tử vong
+Ung thư đại trực tràng: 916 000 ca tử vong
+Ung thư gan: 830.000 ca tử vong
+Ung thư dạ dày: 769 000 ca tử vong
+Ung thư vú: 685 000 ca tử vong.
+Ngoài ra, ung thư cổ tử cung cũng là loại ung thư phổ biến. Việt Nam là một trong các quốc gia có tỷ lệ phụ nữ mắc ung thư cổ tử cung cao.
+Các dạng ung thư và tiền ung thư
+Tổn thương tiền ung thư
+Tổn thương tiền ung thư là một thuật ngữ y học chỉ những thay đổi bất thường của tế bào ở một cơ quan nào đó, có khả năng biến chuyển thành ung thư nếu không được phát hiện và điều trị kịp thời. Những tế bào bất thường này, còn được gọi là tế bào tiền ung thư, có một số biến đổi bất thường về cấu trúc hoặc chức năng, nhưng chưa phát triển thành các tế bào ung thư. Tổn thương tiền ung thư bao gồm loạn sản, chuyển sản, nghịch sản.
+Tổn thương tiền ung thư có thể xuất hiện ở nhiều cơ quan khác nhau trong cơ thể như dạ dày, tử cung, vú, da, ruột… Mỗi loại tổn thương có những đặc điểm và nguyên nhân khác nhau. Ví dụ, tổn thương tiền ung thư dạ dày có thể do nhiễm vi khuẩn Helicobacter pylori (Hp) gây ra các biến đổi của lớp niêm mạc dạ dày qua nhiều giai đoạn như teo niêm mạc – chuyển sản – nghịch sản.
+Để phát hiện tổn thương tiền ung thư, người bệnh cần được khám lâm sàng và làm các xét nghiệm cụ thể tùy từng cơ quan bị ảnh hưởng.
+Ví dụ, để phát hiện tổn thương tiền ung thư dạ dày, người bệnh cần được làm nội soi dạ dày và sinh thiết để xem xét mô bệnh học của niêm mạc dạ dày. Để phát hiện tổn thương tiền ung thư cổ tử cung, người bệnh cần được làm xét nghiệm Pap’ smear để tìm kiếm các tế bào bất thường ở cổ tử cung.
+Không phải tất cả các tổn thương tiền ung thư đều tiến triển thành ung thư. Quá trình tiến triển này phụ thuộc vào nhiều yếu tố như loại tổn thương, tình trạng sức khỏe, lối sống và can thiệp điều trị. Khi phát hiện các tổn thương tiền ung thư, bác sĩ có thể đề nghị theo dõi, thay đổi lối sống, sử dụng thuốc hoặc can thiệp y khoa cần thiết để loại bỏ tổn thương, ngăn chặn chúng tiến triển thành ung thư.
+Để theo dõi các tổn thương tiền ung thư người bệnh cần tái khám đều đặn nhằm phát hiện sớm các bất thường và có can thiệp y tế phù hợp. Tổn thương tiền ung thư không phải là ung thư, nhưng có nguy cơ cao trở thành ung thư. Nếu được phát hiện sớm và điều trị đúng cách, một số loại ung thư có khả năng chữa khỏi hoàn toàn.
+Tuy nhiên, nếu để lâu không điều trị hoặc điều trị không hiệu quả, tổn thương tiền ung thư tiến triển thành ung thư, gây ra những biến chứng nguy hiểm cho sức khỏe và tính mạng của người bệnh. Do đó, người bệnh cần chú ý đến các triệu chứng bất thường của cơ thể và đi khám sàng lọc định kỳ để phát hiện kịp thời các tổn thương tiền ung thư.
+Ung thư biểu mô tại chỗ
+Đôi khi loại này còn được gọi là ung thư giai đoạn 0. Đối với ung thư biểu mô tại chỗ, các tế bào bất thường chưa xâm lấn sang các mô xung quanh và chưa di căn đến các hạch bạch huyết và các cơ quan xa. Tuy nhiên, ung thư biểu mô tại chỗ có thể tiến triển thành xâm lấn nên chúng cần được điều trị.
+Các dạng ung thư
+Để hiểu được các dạng ung thư, cần hiểu được phân loại mô học của cơ thể. Những nhóm tế bào có cấu trúc, chức năng và nguồn gốc phôi thai tương tự nhau được gọi là chung mô. Các mô của cơ thể có thể được chia thành bốn nhóm chính là: (3)
+Biểu mô: Bao phủ hầu hết các bề mặt bên trong và bên ngoài cơ thể ví dụ như tạo thành lớp da và lớp lót trong đường tiêu hóa, ống dẫn sữa… Các tế bào biểu mô cũng có thể biệt hóa thành các cấu trúc chuyên biệt như tuyến. Các tuyến chế tiết các chất chuyên biệt như chất nhầy, hormone, enzym, dịch tiêu hóa… Ngoài ra, biểu mô còn là hàng rào bảo vệ cơ thể khỏi các tác nhân bên ngoài, giúp kiểm soát nhiệt độ, tính thấm, tạo cảm giác đồng thời còn đóng vai trò hô hấp, tiêu hóa và hấp thụ chất dinh dưỡng. Khi cộng các lớp lót bề mặt trong – ngoài cơ thể cùng các tuyến liên quan lại với nhau, mô biểu bì chiếm phần lớn khối lượng tổng thể của cơ thể.
+Mô liên kết: Bao gồm sụn, xương và mô mỡ giúp bảo vệ và hỗ trợ các cơ quan trong cơ thể. Hệ thống võng nội mô cũng được xem là một loại mô liên kết. Chúng bao gồm các tế bào giúp bảo vệ, cung cấp oxy cho cơ thể và chủ yếu có nguồn gốc từ các tế bào dòng tủy. Các tế bào thuộc hệ võng nội mô phân bố khắp cơ thể dưới dạng các tế bào tự do trong máu và mạng bạch huyết hoặc tạo thành các cơ quan như lá lách và hệ thống hạch bạch huyết.
+Mô cơ: Chịu trách nhiệm tạo ra chuyển động, bao gồm vận động của xương khớp, vận chuyển thức ăn, lưu thông máu và dịch cơ thể. Để thực hiện chức năng này, tế bào cơ có các bào quan và tính chất khác biệt, giúp chúng có khả năng co bóp mạnh làm tế bào thay đổi kích thước theo trục dọc. Có ba loại mô cơ: cơ xương, cơ tim và cơ trơn. Cơ chế co bóp tương tự nhau ở cả ba loại, nhưng chúng khác nhau về cấu tạo bên trong.
+Mô thần kinh: Chịu trách nhiệm dẫn truyền xung thần kinh từ vùng này sang vùng khác của cơ thể. Chúng bao gồm tế bào neuron và tế bào thần kinh đệm. Khoảng 98% mô thần kinh trong cơ thể tập trung ở não và tủy sống, phần còn lại tạo thành hệ thần kinh ngoại vi.
+Ung thư biểu mô
+Là loại ung thư phổ biến nhất, được hình thành từ các tế bào biểu mô. Một số loại ung thư biểu mô phổ biến:
+Ung thư biểu mô tuyến: Là loại ung thư phát triển từ các tế bào tuyến, là các tế bào sản xuất các chất nhầy để bôi trơn và bảo vệ các mô khác trong cơ thể. Ung thư biểu mô tuyến có thể xuất hiện ở nhiều bộ phận khác nhau như đại tràng, vú, thực quản, phổi, tuyến tụy hay tuyến tiền liệt…
+Ung thư biểu mô tế bào đáy: Loại ung thư này bắt đầu ở lớp dưới hoặc lớp đáy (lớp nền) của biểu bì. Đây là lớp da ngoài cùng của cơ thể.
+Ung thư biểu mô tế bào vảy: Đây là loại ung thư bắt nguồn từ các tế bào vảy. Các tế bào này nằm ngay bên dưới bề mặt ngoài của da hoặc nằm ở lớp lót của đường tiêu hóa và hô hấp trên, thực quản, bàng quang, phổi…
+Ung thư biểu mô tế bào chuyển tiếp: Hình thành trong biểu mô chuyển tiếp là khu vực giao thoa giữa các loại tế bào biểu mô khác nhau, chúng được tìm thấy trong lớp lót của niệu quản, bàng quang, bể thận và một số cơ quan khác.
+Ung thư biểu mô thường xuất hiện ở đường tiêu hóa
+Sarcoma
+Loại ung thư hình thành từ mô cơ và mô liên kết như xương, mỡ, mạch bạch huyết, mạch máu, mô sợi (như dây chằng và gân)… Sarcoma bao gồm các loại:
+Osteosarcoma: Là bệnh ung thư xương phổ biến nhất.
+Các loại sarcoma mô mềm: Phổ biến nhất là sarcoma Kaposi, sarcoma cơ trơn, sarcom mỡ, u tế bào sợi ác tính…
+Các loại ung thư khác
+Ung thư tế mầm: Phát sinh từ các tế bào mầm, là các tế bào không biệt hóa có thể phát triển thành bất kỳ loại tế bào nào trong cơ thể. Ung thư mầm phổ biến nhất là ung thư tinh hoàn, ung thư buồng trứng và ung thư u nguyên bào thần kinh.
+Ung thư máu: Phát sinh từ các tế bào máu, là các tế bào tạo ra máu trong cơ thể. Ung thư máu phổ biến nhất là ung thư bạch cầu, ung thư hạch bạch huyết và ung thư tủy xương.
+Ung thư thần kinh: Có nhiều loại, mỗi loại ảnh hưởng đến một phần khác nhau của hệ thần kinh. Một số loại ung thư hệ thần kinh phổ biến nhất bao gồm:
+Ung thư não: là loại ung thư của các tế bào trong não, gây ảnh hưởng đến não và các thành phần khác trong hộp sọ.
+U nguyên bào thần kinh: là một loại ung thư ảnh hưởng đến hệ thần kinh ngoại vi, bao gồm các dây thần kinh và hạch thần kinh. U nguyên bào thần kinh có thể là nguyên phát hoặc thứ phát.
+U thần kinh đệm: là một loại ung thư ảnh hưởng đến các tế bào đệm, là các tế bào hỗ trợ các tế bào thần kinh. U thần kinh đệm có thể là nguyên phát hoặc thứ phát.
+U carcinoid: Là một loại khối u phát triển từ các tế bào thần kinh nội tiết. Các tế bào thần kinh nội tiết là các tế bào sản xuất hormone, các chất hóa học giúp điều chỉnh các chức năng của cơ thể. U carcinoid có thể phát triển ở bất kỳ bộ phận nào của cơ thể, nhưng phổ biến nhất là ở đường tiêu hóa, phổi và tuyến tụy.
+Dấu hiệu ung thư
+Mỗi loại bệnh ung thư có các biểu hiện khác nhau và các biểu hiện cũng thay đổi tùy theo giai đoạn bệnh. Ung thư giai đoạn sớm rất hiếm khi biểu hiện triệu chứng, nếu có cũng không thật sự rõ ràng, người bệnh thường chỉ phát hiện tình cờ hoặc chủ động tầm soát.
+Ở giai đoạn trễ hơn, ung thư có thể biểu hiện rõ ràng với các triệu chứng chung thường gặp nhất ở nhiều loại ung thư là: (4)
+Sụt cân không rõ nguyên nhân;
+Thay đổi thói quen đại tiện: có thể là táo bón, tiêu chảy hoặc phân có máu, là dấu hiệu của nhiều loại ung thư như ung thư đại trực tràng, ung thư dạ dày và ung thư hậu môn;
+Chảy máu bất thường: có thể là chảy máu từ nướu răng, chảy máu từ âm đạo hoặc chảy máu khi đi tiểu, là một dấu hiệu của nhiều loại ung thư như ung thư hốc miệng, ung thư cổ tử cung, ung thư tuyến tiền liệt;
+Ăn không ngon miệng, suy nhược, mệt mỏi;
+Nổi hạch;
+Đau tại vị trí ung thư hoặc vị trí ung thư di căn tới.
+Trường hợp ung thư giai đoạn cuối, bệnh nhân còn xuất hiện thêm các triệu chứng nghiêm trọng hơn như:
+Suy dinh dưỡng, gầy yếu;
+Khó khăn trong vận động;
+Có thể ngủ li bì, khó tự thức dậy;
+Sốt cao;
+Đại, tiểu tiện không tự chủ;
+Tinh thần bất ổn, cảm giác thờ ơ, không muốn gặp gỡ ai hoặc có lúc lo âu, có lúc giận dữ, có lúc lại sợ phải ở một mình;
+Không thể ăn qua đường miệng;
+Lú lẫn vào những ngày cuối đời;
+Hơi thở yếu, thở hụt hơi.
+Bệnh nhân ung thư thường trải qua cảm giác đau đớn, khó chịu trong người, sụt cân, mệt mỏi, suy nhược…
+Các yếu tố nguy cơ gây ung thư
+Cho đến nay, vẫn chưa xác định được nguyên nhân rõ ràng gây ung thư, mà chỉ có thể xác định được các yếu tố nguy cơ. Ung thư hình thành từ một quá trình lâu dài gồm nhiều giai đoạn, từ các tế bào bình thường chịu các tác động từ bên trong và bên ngoài cơ thể, biến đổi thành tế bào bất thường có khả năng sinh sản vô tận. Sự tương tác giữa nhiều yếu tố gây ra các tổn thương trong nhân tế bào. Nguy cơ có thể đến từ yếu tố di truyền, hay các tác nhân bên ngoài từ môi trường sống. (5)
+Nguy cơ liên quan đến di truyền và tuổi tác là các yếu tố không thể thay đổi, nguy cơ từ môi trường bên ngoài là các yếu tố có thể thay đổi.
+Yếu tố di truyền
+Những thay đổi di truyền có nguy cơ gây ung thư vì:
+Tế bào phân chia không đúng cách;
+ADN bị thiệt hại do các tác động từ môi trường như hóa chất trong khói thuốc lá, tia cực tím trong nắng mặt trời.
+Ung thư phát triển như thế nào:
+Những thay đổi di truyền có thể gây ung thư thường có xu hướng ảnh hưởng đến 3 loại gen chính: Gen sinh ung thư, gen sửa chữa và gen ức chế khối u.
+Gen proto-oncogenes có liên quan đến sự phát triển và phân chia tế bào bình thường. Khi các gen này bị thay đổi hoặc hoạt động mạnh hơn bình thường có thể trở thành gen gây ung thư.
+Các gen ức chế khối u tham gia kiểm soát sự phát triển và phân chia của tế bào. Khi các gen này không kiểm soát được sự phân chia và phát triển tế bào, nó có thể tạo thành ung thư.
+Các gen sửa chữa ADN có nhiệm vụ sửa chữa các ADN bị lỗi. Khi gen này bị đột biến, các tế bào của nó có xu hướng phát triển một đột biến ở gen khác. Những thay đổi trong nhiễm sắc thể của chúng có thể tạo thành ung thư.
+Xem thêm: Ung thư có lây không? Bệnh có thể lây qua đường nào?
+Các yếu tố môi trường
+Chất gây ung thư vật lý: Ví dụ tia cực tím từ nắng mặt trời hoặc bức xạ ion hóa.
+Chất gây ung thư hóa học: Chẳng hạn như khói thuốc lá, rượu, các chất amiang, aflatoxin, asen.
+Chất gây ung thư sinh học: Chẳng hạn như nhiễm các loại virus như HPV, HIV, virus viêm gan C, virus viêm gan B và virus Epstein-Barr; vi khuẩn hoặc ký sinh trùng như sán lá gan.
+Ngoài ra, dường như nguy cơ ung thư tăng lên khi tuổi càng cao. Nguyên nhân có thể do sự tích tụ các chất gây hại bên trong cơ thể tăng lên theo thời gian, cộng với cơ chế sửa chữa tế bào giảm dần khi hệ miễn dịch suy yếu theo tuổi tác.
+Tìm hiểu thêm: Nguyên nhân gây ung thư (yếu tố nguy cơ) phổ biến, ai cũng nên biết.
+Các giai đoạn ung thư
+Theo hệ thống phân loại TNM, hầu hết các loại ung thư được phân thành 4 giai đoạn, từ I đến IV, hệ thống này bao gồm 3 yếu tố chính:
+T (Tumor)
+Đánh giá khối tế bào ung thư hình thành đầu tiên, hay còn gọi là u nguyên phát.
+Đánh giá T dựa trên 3 yếu tố sau:
+Đo lường kích thước u theo đơn vị centimet (cm);
+Mức độ xâm lấn của khối u vào các cấu trúc lân cận;
+Số lượng u.
+Yếu tố T đi kèm một chữ số từ 1-4. Chữ số này biểu thị mức độ phát triển của khối u. Số lớn hơn tương ứng với mức độ phát triển nhiều hơn.
+N (Node)
+Hạch bạch huyết (hay gọi tắt là hạch) là các cấu trúc nhỏ dạng bầu dục giúp cơ thể chống đỡ lại bệnh tật. Đánh giá yếu tố N dựa trên mức độ lan đến các hạch bạch huyết lân cận từ khối u nguyên phát. Yếu tố N đi kèm một chữ số từ 1-3. Chữ số này biểu thị mức độ lan rộng đến các hạch. Số lớn hơn tương ứng với mức độ lan rộng hơn.
+M (Metastasis)
+Yếu tố M cho biết ung thư đã lan đến các cơ quan khác của cơ thể (còn gọi là di căn).
+Giai đoạn càng sớm thì mức độ ung thư càng ít nghiêm trọng, cơ hội sống sau 5 năm càng cao và ngược lại.
+Biến chứng bệnh ung thư
+Ung thư tiến triển gây nhiều triệu chứng tại chỗ và nhiều biến chứng tại vị trí u di căn, không chỉ vậy, ung thư còn có các tác động lên toàn thân. Các biến chứng có thể khác nhau tùy vào loại ung thư và tùy vào vị trí của khối u, giai đoạn của bệnh và phương pháp điều trị. Biến chứng nghiêm trọng nhất là tử vong.
+Một số biến chứng phổ biến nhất là:
+Suy dinh dưỡng: Bệnh ung thư có thể làm giảm khả năng ăn uống và hấp thu dinh dưỡng của bệnh nhân, dẫn đến sụt cân, suy nhược và thiếu máu.
+Nhiễm trùng: Bệnh ung thư và một số phương pháp điều trị có thể làm suy yếu hệ miễn dịch của bệnh nhân, khiến họ dễ bị nhiễm trùng do vi khuẩn, virus hoặc nấm.
+Di căn: Đây là quá trình các tế bào ung thư lan ra khỏi nơi khởi phát và xâm nhập vào các cơ quan khác trong cơ thể. Di căn có thể gây ra các biến chứng khác nhau, tùy thuộc vào cơ quan bị ảnh hưởng. Ví dụ, nếu ung thư di căn đến phổi, có thể gây ra ho, khó thở và ho ra máu. Nếu ung thư di căn đến xương, có thể gây ra đau xương, gãy xương và tăng canxi máu.
+Tổn thương cơ quan: Bệnh ung thư có thể gây ra tổn thương cơ quan do sự tăng trưởng không kiểm soát của các khối u hoặc do áp lực của các khối u lên các cơ quan lân cận. Ví dụ, nếu ung thư gây tắc nghẽn đường tiết niệu, có thể gây ra viêm nhiễm, đau và suy thận. Nếu ung thư chèn ép ruột, có thể gây tắc ruột.
+Tìm hiểu thêm: Bệnh nhân ung thư có quan hệ được không? Bác sĩ giải đáp.
+Chẩn đoán bệnh ung thư
+Việc chẩn đoán ung thư thường dựa trên thăm khám thực thể, khai thác bệnh sử cá nhân và tiền sử gia đình. Sau đó, các xét nghiệm chẩn đoán có thể được chỉ định. (6)
+Các xét nghiệm bao gồm:
+Chụp cắt lớp vi tính (CT scan): Kỹ thuật này nhằm đánh giá kích thước, vị trí của khối u, mức độ xâm lấn các cơ quan lân cận, cũng như để phát hiện sự lan rộng của bệnh đến các hạch bạch huyết và các cơ quan khác.
+Chụp cộng hưởng từ (MRI): Phương pháp này để đánh giá các tổn thương trong não, tủy sống hoặc mô mềm nếu nghi ngờ ung thư đã lan tới.
+Chụp PET-CT: Kỹ thuật này được áp dụng để đánh giá hoạt động của các tế bào ung thư trong cơ thể bằng cách sử dụng một chất phóng xạ. Các tế bào ung thư sẽ hấp thu nhiều chất phóng xạ hơn các tế bào bình thường và sáng hơn trên hình ảnh PET-CT.
+Sinh thiết kim nhỏ (FNA = Fine Needle Aspiration): Bác sĩ sẽ tiến hành chọc hút tế bào từ khối u hoặc hạch bạch huyết bằng kim nhỏ qua da dưới hướng dẫn siêu âm hoặc CT.
+Sinh thiết mẫu mô: Kỹ thuật này giúp đánh giá đặc điểm tế bào ung thư. Mẫu mô có thể được lấy từ khối u, qua nội soi hoặc phẫu thuật. Sinh thiết tổn thương nghi ngờ có thể được tiến hành để xác nhận hay loại trừ khả năng di căn xa.
+Xét nghiệm máu: Phương pháp này nhằm kiểm tra chức năng gan, thận, huyết học và các chất chỉ điểm ung thư.
+Xét nghiệm các đột biến gen: Phân tích các đột biến gen hoặc các protein bất thường trên tế bào ung thư từ đó giúp định hướng điều trị và đánh giá tiên lượng.
+Xem thêm: Ung thư có chữa được không? Bệnh ung thư nào có thể chữa khỏi?
+Chụp cộng hưởng từ (MRI) để đánh giá các tổn thương trong não hoặc tủy sống nếu nghi ngờ ung thư đã di căn
+Phương pháp điều trị ung thư
+Các phương pháp điều trị ung thư phổ thông nhất hiện nay bao gồm: (7)
+1. Phẫu thuật
+Phẫu thuật được sử dụng để loại bỏ khối u và các mô bị ảnh hưởng. Phương pháp này có thể được sử dụng để điều trị nhiều loại ung thư bao gồm ung thư vú, ung thư đại trực tràng, ung thư da, ung thư phổi, ung thư gan…
+2. Hóa trị
+Là phương thức điều trị ung thư bằng thuốc hóa chất. Hóa trị thường được tiến hành theo đợt, theo sau bằng một khoảng nghỉ, như vậy cơ thể có thời gian phục hồi chuẩn bị cho lần hóa trị kế tiếp. Hóa chất được truyền chậm qua tĩnh mạch hoặc qua đường uống, từ đó đi khắp cơ thể người bệnh. Hóa trị có thể được dùng kết hợp với các liệu pháp khác như xạ trị, liệu pháp miễn dịch…
+3. Xạ trị
+Là phương pháp sử dụng tia X năng lượng cao (tia xạ) để điều trị ung thư. Tia xạ làm tổn thương tế bào ung thư, khiến chúng ngừng sinh sản và chết đi. Xạ trị có thể được sử dụng theo nhiều cách khau, có thể xạ trị cho khối u tại chỗ, hoặc các vị trí u di căn đến như não, xương, tủy sống…
+4. Liệu pháp nhắm trúng đích
+Các thuốc nhắm trúng đích có thể nhắm vào một số đột biến gen nhất định của ung thư, giúp làm chậm sự phát triển của khối u.
+Xem thêm: Liệu pháp nhắm trúng đích trong điều trị ung thư cho bệnh nhân.
+5. Liệu pháp miễn dịch
+Chất ức chế chốt kiểm soát có thể giúp hệ thống miễn dịch nhận biết và tấn công các tế bào ung thư.
+6. Chăm sóc giảm nhẹ
+Tập trung vào việc giúp đỡ người bệnh giảm thiểu các triệu chứng của bệnh và tác dụng phụ từ các điều trị gây ra bằng cách sử dụng thuốc giảm đau, thuốc chống nôn, thay đổi chế độ dinh dưỡng, tập vật lý trị liệu. Ngoài ra, chăm sóc giảm nhẹ cho bệnh nhân ung thư còn giúp khuây khỏa nỗi đau tinh thần, giảm căng thẳng và buồn phiền, giải tỏa những vấn đề về tâm lý xã hội và tâm linh cho người bệnh, hỗ trợ cho người chăm sóc và thân nhân của người bệnh.
+7. Liệu pháp nội tiết tố
+Ngăn chặn nguồn nội tiết tố cần cho các các tế bào ung thư để phát triển, liệu pháp nội tiết thường được ứng dụng nhiều trong ung thư vú, ung thư tuyến tiền liệt, ung thư nội mạc tử cung…
+8. Ghép tế bào gốc (ghép tủy xương)
+Phương pháp này thường được sử dụng trong điều trị ung thư máu, giúp thay thế các tế bào tủy xương bị mất do hóa trị.
+Phẫu thuật được sử dụng trong điều trị một số loại ung thư
+Có thể phòng ngừa bệnh ung thư không?
+Ung thư có thể phòng ngừa được bằng cách hạn chế tiếp xúc với các yếu tố có nguy cơ sinh ung thư, thăm khám sức khỏe định kỳ và chủ động tầm soát ung thư. Bên cạnh đó, mỗi cá nhân cần có một lối sống lành mạnh, thường xuyên luyện tập thể dục thể thao nhằm nâng cao sức đề kháng của của cơ thể.
+Không uống rượu bia, hút thuốc lá hoặc tiếp xúc với khói thuốc lá;
+Tập thể dục mỗi ngày;
+Không thức khuya, tránh căng thẳng stress;
+Tiêm vắc xin ngừa virus HPV, viêm gan B;
+Điều trị dứt điểm các tình trạng viêm nhiễm, tránh để tình trạng viêm tái đi tái lại;
+Tránh ăn đồ ăn nhanh, thực phẩm công nghiệp;
+Kiểm soát cân nặng, tránh thừa cân – béo phì;
+Ăn nhiều rau xanh, trái cây, uống nhiều nước;
+Hạn chế ăn thịt đỏ và uống nước ngọt có ga;
+Tránh tiếp xúc với bức xạ từ tia cực tím từ ánh nắng mặt trời; Thoa kem chống nắng, che phủ da khi đi ra ngoài trời vào giờ cao điểm;
+Giảm tiếp xúc với bức xạ ion hóa và ô nhiễm không khí;
+Tẩy giun sán định kỳ;
+Thăm khám sức khỏe tổng quát định kỳ mỗi năm ít nhất một lần và 2 lần khi đến độ tuổi thuộc yếu tố nguy cơ, hoặc ở người có nhiều yếu tố nguy cơ;
+Chủ động tầm soát ung thư.
+Nội soi tầm soát ung thư đường tiêu hóa tại Bệnh viện Đa khoa Tâm Anh
+Để đặt lịch khám, tư vấn tầm soát và điều trị ung thư tại Bệnh viện Đa khoa Tâm Anh, Quý khách có thể liên hệ:
+Ung thư là bệnh lý gây tử vong hàng đầu và ngày một gia tăng, đặc biệt ở các quốc gia đang phát triển. Theo Tổ chức Y tế Thế giới (WHO), chỉ tính riêng trẻ em đã có khoảng 400.000 trường hợp mắc bệnh ung thư mỗi năm. Ung thư phát hiện muộn khó điều trị và dẫn đến tử vong nhanh hơn. Do đó, thực hành các biện pháp phòng ngừa ung thư, thăm khám sức khỏe định kỳ và tầm soát ung thư giúp bảo vệ khỏi nguy cơ tử vong do căn bệnh nguy hiểm này.

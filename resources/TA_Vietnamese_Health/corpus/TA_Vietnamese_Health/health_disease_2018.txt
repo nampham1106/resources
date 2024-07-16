@@ -1,0 +1,111 @@
+# doc_id = health_disease_2018
+# url = https://tamanhhospital.vn/benh-ha-canxi-mau/
+# date = 31/10/2023
+Bệnh hạ canxi máu: Nguyên nhân, chẩn đoán và các biến chứng
+Hạ canxi máu là tình trạng nồng độ canxi trong máu dưới giới hạn cho phép, gây ra triệu chứng tê tay chân, chóng mặt, thậm chí co giật,… Bệnh xảy ra ở mọi lứa tuổi và thường gặp ở người phẫu thuật tuyến giáp. Khoảng 7% – 49% người sau phẫu thuật tuyến giáp sẽ bị hạ canxi máu tạm thời. Bài viết sau đây của BS.CKI Huỳnh Văn Mười Một, khoa Cấp cứu, BVĐK Tâm Anh TP.HCM chia sẻ về vấn đề này.
+Mục lụcBệnh hạ canxi máu là gì?Canxi là gì và có tác dụng gì?Ai dễ bị hạ canxi máu?Dấu hiệu nhận biết cơ thể bị hạ canxi máuNguyên nhân tụt canxi máuPhương pháp chẩn đoán bệnh hạ canxi máuCác biến chứng có thể xảy ra đối với bệnh hạ canxi máuBệnh hạ canxi máu có chữa được không?Hướng dẫn điều trị hạ canxi máuBiện pháp phòng ngừa tụt canxi máuKhi nào nên gặp bác sĩ?Cần bao lâu để khắc phục tình trạng hạ canxi máu?Bệnh hạ canxi máu nên và không nên ăn gì?1. Hạ canxi máu nên ăn2. Hạ canxi không nên ănHạ canxi máu và những câu hỏi thường gặp1. Hạ canxi uống nước đường được không?2. Hạ canxi nên truyền nước không?Bệnh hạ canxi máu là gì?
+Bệnh hạ canxi máu (tụt canxi máu) là tình trạng nồng độ canxi máu có giá trị thấp hơn mức bình thường. Người bệnh được chẩn đoán hạ canxi máu khi nồng độ canxi huyết thanh toàn phần nhỏ hơn 8,8 mg/dL trong điều kiện protein huyết tương bình thường hoặc nồng độ ion canxi hóa nhỏ hơn 4,7 mg/dL. Hạ canxi máu có thể xảy ra tạm thời hoặc mạn tính tùy vào nguyên nhân. (1)
+Canxi là gì và có tác dụng gì?
+Canxi là khoáng chất quan trọng và phổ biến trong cơ thể mỗi người. Hầu hết, canxi được lưu trữ trong xương và một phần trong máu.
+Canxi trong máu giúp dây thần kinh hoạt động, các cơ co lại để di chuyển, cầm máu và tim hoạt động bình thường. Nồng độ canxi trong máu thấp (hạ canxi máu) sẽ cản trở khả năng thực hiện các chức năng quan trọng của cơ thể. Ngoài ra, canxi rất cần thiết để xương chắc khỏe, dẻo dai. (2)
+Nếu bạn không cung cấp đủ canxi trong chế độ ăn uống, cơ thể sẽ lấy canxi từ xương để sử dụng trong máu, dẫn đến xương yếu. Hạ canxi máu xảy ra khi lượng canxi trong máu thấp chứ không phải trong xương.
+Nồng độ canxi trong máu và xương của bạn được kiểm soát bởi hormone tuyến cận giáp và hormon calcitonin. Ngoài ra, vitamin D cũng đóng vai trò trong việc duy trì lượng canxi cần thiết cho cơ thể.
+Hạ canxi máu được xác định khi nồng độ canxi huyết thanh toàn phần nhỏ hơn 8,8 mg/dL trong điều kiện protein huyết tương bình thường.
+Ai dễ bị hạ canxi máu?
+Hạ canxi máu có thể xảy ra ở mọi lứa tuổi, kể cả trẻ mới sinh ra. Nguyên nhân hạ canxi máu ở mỗi độ tuổi là khác nhau. Ví dụ, nếu trẻ sơ sinh hạ canxi máu, nguyên nhân thường do rối loạn di truyền. Ngoài ra, hạ canxi máu cũng thường gặp ở người phẫu thuật tuyến giáp (khoảng 7% – 49%).
+Dấu hiệu nhận biết cơ thể bị hạ canxi máu
+Một số trường hợp, hạ canxi máu mức độ nhẹ thường không có triệu chứng rõ ràng. Các triệu chứng của hạ canxi máu phụ thuộc vào mức độ nhẹ hay nặng.
+Các triệu chứng của hạ canxi máu nhẹ có thể bao gồm:
+Co thắt cơ đặc biệt ở lưng và chân.
+Da khô, bong vảy.
+Móng tay dễ gãy.
+Tóc khô xơ.
+Nếu không điều trị, tình trạng hạ canxi máu theo thời gian sẽ gây ra các triệu chứng ảnh hưởng đến hệ thần kinh hoặc tâm lý như:
+Lú lẫn.
+Vấn đề về trí nhớ.
+Khó chịu hoặc bồn chồn.
+Trầm cảm.
+Ảo giác.
+Trường hợp cơn hạ canxi máu cấp (cơn tetany) sẽ có các triệu chứng sau:
+Đầu tiên người bệnh xuất hiện cảm giác tê bì đầu chi, lưỡi và quanh miệng, kèm theo lo lắng, hồi hộp, thở nhanh, mệt mỏi; các dấu hiệu vận động bất thường như: co thắt các nhóm cơ ở đầu chi, chuột rút xuất hiện tự nhiên hoặc khi gõ vào.
+Đau bụng kiểu chuột rút, co rút bàn chân, nhìn đôi, tiểu rắt, co thắt thanh môn.
+Dấu hiệu Trousseau (co thắt bàn chân, bàn tay đột ngột) và dấu hiệu Chvostek (co giật cơ mặt không chủ ý) dương tính.
+Các cơ co bóp không tự chủ gây cử động bất thường làm người bệnh đau đớn: cổ tay gập vào cẳng tay, ngón tay gập vào bàn tay nhưng vẫn duỗi cứng, ngón tay khép vào trong (bàn tay người đỡ đẻ).
+Nặng hơn, các cơ chi dưới có thể gặp: háng và đầu gối duỗi cứng, đùi khép lại, bàn chân và ngón chân duỗi tối đa.
+Trường hợp hạ canxi máu nặng dẫn tới chứng ngủ lịm, lơ mơ. Ít gặp co thắt cơ thanh quản, cơn đau đột ngột hoặc rối loạn nhịp tim, suy tim. Ở trẻ nhỏ, thanh môn có thể co thắt, gây khó thở vào, dẫn đến suy hô hấp.
+Móng tay giòn, dễ gãy có thể cảnh báo dấu hiệu tụt canxi.
+Nguyên nhân tụt canxi máu
+Hầu hết các trường hợp, nồng độ hormone tuyến cận giáp (parathyroid hormone, PTH) và vitamin D liên quan đến nguyên nhân gây hạ canxi máu. Do PTH giữ vai trò kiểm soát nồng độ canxi trong máu và vitamin D giúp cơ thể hấp thụ canxi.
+Các nguyên nhân phổ biến gây hạ canxi máu bao gồm:
+Suy tuyến cận giáp: Tuyến cận giáp có 4 tuyến nhỏ kích thước bằng hạt đậu phía sau tuyến giáp cổ. Hạ canxi máu xảy ra khi cơ thể không tạo đủ hormone tuyến cận giáp (PTH). Suy tuyến cận giáp xuất có thể do rối loạn di truyền hoặc đã phẫu thuật tuyến giáp.
+Thiếu vitamin D: Vitamin D giúp cơ thể hấp thụ canxi, đảm các hoạt động diễn ra bình thường. Khi thiếu vitamin D trong cơ thể sẽ gây ra lượng canxi trong máu thấp (hạ canxi máu). Các nguyên nhân thiếu vitamin D như rối loạn di truyền, chế độ dinh dưỡng, không tiếp xúc với ánh sáng mặt trời thường xuyên.
+Suy thận: Hạ canxi máu trong suy thận mạn tính do nồng độ phốt pho trong máu tăng lên và thận giảm sản xuất 1,25-dihydroxy vitamin D.
+Một số loại thuốc: Sử dụng một số thuốc như thuốc ức chế tiêu xương (bisphosphonates, calcitonin, denosumab), corticosteroid, rifampin, calcitonin, chloroquine, cinacalcet, denosumab, foscarnet và plicamycin thời gian dài có thể gây hạ canxi máu.
+Bệnh giả suy tuyến cận giáp: Đây là rối loạn di truyền khiến cơ thể không đáp ứng đúng mức với lượng bình thường hormone tuyến cận giáp (PTH).
+Hạ magie máu: Tuyến cận giáp cần magie để sản xuất và giải phóng hormone tuyến cận giáp (PTH). Vì vậy, khi magie trong cơ thể xuống thấp (hạ magie máu), PTH không sản xuất đủ dẫn đến nồng độ canxi trong máu thấp hơn.
+Viêm tụy: Khoảng 15% – 88% số người viêm tụy cấp sẽ hạ bị canxi máu.
+Một số rối loạn di truyền hiếm gặp: Đột biến gen, chẳng hạn hội chứng DiGeorge có thể gây hạ canxi máu.
+Phương pháp chẩn đoán bệnh hạ canxi máu
+Để chẩn đoán hạ canxi máu bác sĩ sẽ thực hiện các phương pháp sau để xác định nguyên nhân gây và xác định mức độ ảnh hưởng đến các bộ phận khác của cơ thể:
+Xét nghiệm máu: Bác sĩ sẽ xét nghiệm nồng độ magie, phốt pho, hormone tuyến cận giáp (PTH)vitamin D trong máu và chức năng thận (creatinine) để chẩn đoán hạ canxi máu.
+ECG (điện tâm đồ): ECG là phương pháp sử dụng các điện cực gắn vào ngực để đo nhịp tim của người bệnh. Nếu nhịp tim người bệnh bất thường, nghi ngờ hạ canxi máu.
+Chụp hình xương: Phương pháp này giúp bác sĩ tìm ra các tổn thương bên trong xương, chẳng hạn nhuyễn xương hoặc còi xương.
+Để chẩn đoán hạ canxi máu bác sĩ sẽ chỉ định xét nghiệm máu để xác định nồng độ canxi huyết thanh.
+Các biến chứng có thể xảy ra đối với bệnh hạ canxi máu
+Hạ canxi máu sẽ gây ra nhiều vấn đề sức khỏe nguy hiểm nếu không điều trị kịp thời. Tình trạng hạ canxi máu kéo dài có thể dẫn đến suy tim, động kinh, loạn nhịp tim. Bên cạnh đó, hạ canxi máu còn gây ra các triệu chứng ảnh hưởng thần kinh như lú lẫn, suy giảm trí nhớ, trầm cảm và ảo giác. Do đó, nếu bạn nghi ngờ hạ canxi máu, nhanh chóng đến bệnh viện để được chẩn đoán, điều trị kịp thời tránh nguy hiểm đến tính mạng.
+Bệnh hạ canxi máu có chữa được không?
+Hạ canxi máu có thể điều trị được. Hạ canxi máu mức độ nhẹ các triệu chứng thường biến mất khi nồng độ canxi máu trở về bình thường. Tùy vào nguyên nhân, người bệnh có thể hạ canxi máu tạm thời hoặc mạn tính.
+Nếu không điều trị, tình trạng hạ canxi máu nghiêm trọng có thể gây ra các biến chứng đe dọa tính mạng như co giật, rối loạn nhịp tim và suy tim sung huyết.
+Hướng dẫn điều trị hạ canxi máu
+Phần lớn, điều trị hạ canxi máu người bệnh bằng bổ sung canxi đường uống. Ngoài ra, bác sĩ sẽ kết hợp các phương pháp khác để điều trị nguyên nhân hạ canxi máu. Nếu người bệnh đang dùng một loại thuốc gây hạ canxi máu, bác sĩ thay đổi hoặc điều chỉnh liều lượng để đưa nồng độ canxi trở lại bình thường.
+Sau đây là một số phương pháp điều trị và thuốc điều trị hạ canxi máu phổ biến:
+Thuốc canxi uống: Thuốc canxi hoặc chất bổ sung được sử dụng nhằm đưa lượng canxi người bệnh về mức bình thường.
+Bổ sung vitamin D: Người hạ canxi máu mạn tính thường bổ sung vitamin D cùng với thuốc canxi để cơ thể có thể hấp thụ được canxi.
+Thuốc tổng hợp hormone tuyến cận giáp (PTH): Nếu suy tuyến cận giáp gây hạ canxi máu, bác sĩ sẽ chỉ định người bệnh dùng PTH tổng hợp.
+Canxi gluconate tiêm tĩnh mạch: Khi tình trạng hạ canxi máu nghiêm trọng và người bệnh gặp triệu chứng chuột rút hoặc co thắt cơ, rối loạn nhịp tim sẽ được tiêm tĩnh mạch canxi gluconate.
+Các loại thuốc khác: Tùy thuộc vào nguyên nhân gây hạ canxi máu, bác sĩ sẽ cho người bệnh dùng các loại thuốc khác để điều trị và kiểm soát nguyên nhân.
+Biện pháp phòng ngừa tụt canxi máu
+Biện pháp phòng ngừa hạ canxi máu hiệu quả là bổ sung canxi thông qua dinh dưỡng hoặc các loại thuốc bổ sung canxi đường uống. Theo đó, để ngừa tình trạng hạ canxi bạn cần:
+Xây dựng thực chế độ dinh dưỡng giàu canxi: Canxi có nhiều trong các thực phẩm như sữa, trứng, phô mát, hải sản, rau xanh và trái cây… Mỗi bữa ăn nên bổ sung các thực phẩm này để cung cấp đủ lượng canxi cần thiết cho cơ thể.
+Uống canxi đủ liều: Khi dùng các loại thuốc bổ sung canxi, bạn cần đảm bảo uống đúng liều lượng bác sĩ chỉ định. Bởi uống canxi quá ít sẽ không đem lại hiệu quả ngăn ngừa chứng hạ canxi máu.
+Không uống vượt ngưỡng: Bạn tuyệt đối không tiêu thụ hơn 2500 mg canxi/ngày hoặc hơn 500mg canxi/lần. Nếu uống nhiều canxi có thể gây tình trạng kém hấp thu và sỏi thận.
+Uống canxi đúng thời điểm: Acid tiêu hóa do dạ dày tiết ra khi tiêu hóa thức ăn giúp cơ thể hấp thụ canxi tốt hơn. Do đó, tiêu thụ các loại thuốc bổ sung canxi nên uống trong bữa ăn để tăng khả năng hấp thu.
+Xây dựng lối sống lành mạnh: Không sử dụng thức uống chứa chất kích thích, giảm khả năng hấp thụ canxi trong cơ thể như cà phê, đồ uống có cồn, bia rượu, thuốc lá…
+Khi nào nên gặp bác sĩ?
+Hãy đến gặp bác sĩ ngay khi bạn phát hiện bản thân có các dấu hiệu hạ canxi như:
+Tê bì chân tay.
+Thường xuyên chuột rút, co giật các cơ.
+Móng tay và móng chân dễ gãy.
+Khó thở, mệt mỏi và dễ chóng mặt.
+Rơi vào tình trạng bối rối, lo âu.
+Nhịp tim không ổn định.
+Da xanh xao và nhợt nhạt.
+Khi nhận thấy có các triệu chứng trên, bạn cần đến gặp bác sĩ để kiểm tra và điều trị kịp thời. Nếu tình trạng hạ canxi máu không được chữa trị dứt điểm, có thể dẫn đến biến chứng khác như: tăng nguy cơ loãng xương, gãy xương, co giật, rối loạn nhịp tim.
+Cần bao lâu để khắc phục tình trạng hạ canxi máu?
+Trung bình, người bệnh cần 8 – 12 tuần để khắc phục tình trạng hạ canxi. Tuy nhiên, thời gian còn phụ thuộc vào nhiều yếu tố như mức độ hạ canxi, độ tuổi, giới tính, tình trạng sức khỏe tổng quát và phương pháp điều trị.
+Khi người bệnh hạ canxi máu không nghiêm trọng, chỉ cần bổ sung thêm canxi qua chế độ dinh dưỡng. Trường hợp hạ canxi nghiêm trọng, người bệnh được bác sĩ chỉ định để uống thuốc bổ sung canxi, vitamin D, magie, hormone tăng trưởng,… để cải thiện tình trạng bệnh. Lúc này, việc khắc phục tình trạng hạ canxi cần duy trì vài tháng đến vài năm để đạt được hiệu quả cao.
+BS.CKI Đỗ Tiến Vũ, khoa Nội Tiết – Đái tháo đường, BVĐK Tâm Anh TP.HCM đang giải thích định tình trạng hạ canxi máu của người bệnh.
+Bệnh hạ canxi máu nên và không nên ăn gì?
+Hạ canxi máu nên bổ sung và tránh các thực phẩm sau:
+1. Hạ canxi máu nên ăn
+Người hạ canxi máu nên tăng cường ăn các loại thực phẩm giàu canxi, magie và vitamin D. Sau đây là một số thực phẩm giàu canxi mà bạn cần thể bổ sung vào khẩu phần ăn hàng ngày để hỗ trợ điều trị chứng hạ canxi:
+Sữa và sản phẩm từ sữa: Sữa bò, phô mai, kem, sữa chua, sữa đậu nành,…
+Các loại cá béo và hải sản: Cá hồi, cá mòi, tôm, cua,…
+Rau xanh: Cải xoăn, cải bó xôi, bắp cải brussels, bông cải xanh,…
+Các thực phẩm khác: Đậu hũ, nước cam ép, bột mì được bổ sung canxi và một số loại nước khoáng có chứa canxi.
+Canxi, vitamin D và magie giữ vai trò trong quá trình tổng hợp và hấp thu canxi cho xương. Do đó, bạn cần tăng cường bổ sung các thực phẩm giàu canxi, vitamin D và magie như sữa ít béo và không béo, cá mòi, cá hồi, đậu phụ, cải xoăn, bông cải xanh, ớt đỏ, dâu tây,…
+2. Hạ canxi không nên ăn
+Ngược lại, người thiếu canxi không nên ăn các thực phẩm giàu phytate, oxalate, caffeine và muối cùng thời điểm bổ sung dưỡng chất giàu canxi. Bởi 4 hợp chất trên hạn chế khả năng hấp thu hoặc tăng bài tiết canxi của cơ thể. Trong đó:
+Oxalate: Hoạt chất này có nhiều trong cải bó xôi, củ cải đường, đậu nành, cà phê, sô cô la, cà chua, đậu phộng, lúa mạch, dưa hấu,…
+Phytate: Các thực phẩm chứa nhiều phytate như các loại ngũ cốc nguyên hạt, các loại hạt và đậu như đậu phộng, hạt điều, hạt hướng dương, bắp,… Nếu bạn sơ chế đậu kỹ, ngâm lâu trong nước hoặc áp dụng các phương pháp lên men thì hàm lượng phytate có thể giảm đi.
+Caffeine: Có trong cà phê, trà, nước ngọt có ga và sô cô la.
+Muối ăn: Tiêu thụ nhiều muối có thể tăng bài tiết canxi qua nước tiểu. Do đó, bạn cần hạn chế lượng muối trong chế độ ăn để giảm nguy cơ hạ canxi máu.
+Ngoài các thực phẩm cần tránh trên, mỗi người cần bỏ thói quen xấu như hút thuốc, uống nhiều cà phê,… Bởi chúng có tác dụng lợi tiểu sẽ đẩy canxi ra ngoài theo đường bài tiết trước khi cơ thể hấp thụ.
+Hạ canxi máu và những câu hỏi thường gặp
+1. Hạ canxi uống nước đường được không?
+Nước đường không giúp người bệnh cải thiện tình trạng hạ canxi máu. Uống nước đường chỉ làm tăng chỉ số đường huyết không giúp cải thiện nồng độ canxi. Thay vì uống nước đường, người bệnh nên uống các loại viên sủi bổ sung canxi để cơ thể nhanh chóng khôi phục lại nồng độ canxi.
+2. Hạ canxi nên truyền nước không?
+Trong nước biển có chứa muối khoáng của canxi sẽ nhanh chóng điều chỉnh nồng độ canxi trong máu người bệnh trở lại bình thường. Tuy nhiên, chỉ định truyền nước cần có sự chỉ định từ bác sĩ, bởi không ai hạ canxi cũng cần truyền. Ngoài truyền nước biển, còn nhiều cách bổ sung canxi khác, tùy theo tình hình sức khỏe người bệnh, bác sĩ sẽ chỉ định biện pháp bổ sung canxi phù hợp.
+Khoa cấp cứu và khoa Nội tiết – Đái tháo đường, BVĐK Tâm Anh TP.HCM quy tụ đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm sẽ phối hợp điều trị bệnh hạ canxi máu đạt hiệu quả cao. Hệ thống máy thiết bị hiện đại và các bác sĩ luôn cập nhật phác đồ điều trị hiện đại, tư vấn sức khỏe, hướng dẫn chế độ dinh dưỡng cụ thể cho người bệnh hạ canxi, giúp người bệnh an tâm điều trị.
+Bên cạnh đó, cơ sở vật chất tại phòng khám, phòng tiểu phẫu, phòng nội trú… hiện đại, sang trọng chuẩn dịch vụ khách sạn 5 sao sẽ giúp khách hàng được nghỉ ngơi, thư giãn và tận hưởng những dịch vụ, tiện ích hiện đại như các khu nghỉ dưỡng cao cấp trong suốt quá trình thăm khám, điều trị.
+Bài viết trên đã cung cấp đầy đủ các thông tin về bệnh hạ canxi máu là như thế nào? Nguyên nhân, chẩn đoán và biến chứng ra sao? Hy vọng. mỗi người sẽ nắm rõ các triệu chứng để khi xảy ra với bản thân kịp thời đến bệnh viện điều trị tránh biến chứng hạ canxi máu nguy hiểm.

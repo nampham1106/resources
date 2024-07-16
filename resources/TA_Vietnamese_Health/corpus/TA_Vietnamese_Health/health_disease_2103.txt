@@ -1,0 +1,65 @@
+# doc_id = health_disease_2103
+# url = https://tamanhhospital.vn/xet-nghiem-her2/
+# date = 12/12/2023
+Xét nghiệm HER2 trong ung thư vú: Các kết quả và chỉ định
+Khi bạn được chẩn đoán mắc ung thư vú thì một trong số rất nhiều điều mà bác sĩ sẽ thực hiện là xét nghiệm HER2 trên khối u. Đây là yếu tố quan trọng, một yếu tố tăng trưởng biểu bì ở người (HER2). Và nếu protein HER2 hiện diện với số lượng lớn sẽ báo hiệu ung thư phát triển và di căn nhanh hơn. Trong bài viết này, thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM sẽ giải thích về xét nghiệm HER2, các kết quả và chỉ định điều trị ung thư vú có liên quan đến gen HER2.
+Mục lụcHER2 trong ung thư vú là gì?Xét nghiệm HER2 trong ung thư vú là gì?Xét nghiệm HER2 để làm gì?Khi nào cần xét nghiệm HER2?1. Một số trường hợp nên xét nghiệm HER22. Trường hợp cần làm xét nghiệm lạiCác loại xét nghiệm HER21. IHC (hóa mô miễn dịch)2. Lai tại chỗ (ISH)3. Kết quả xét nghiệmNhững lưu ý khi xét nghiệm HER2 trong ung thư vú1. Hạn chế của xét nghiệm HER22. Những thay đổi về trạng thái HER23. Chẩn đoán sai HER24. Khuyến nghị của bác sĩHER2 trong ung thư vú là gì?
+Tất cả chúng ta đều có gen HER2. Gen này sản xuất ra protein HER2. Protein HER2 xuất hiện trên bề mặt tế bào vú, dù bạn bị ung thư hay không. Thế nhưng, ở người bệnh ung thư vú thì các tế bào ung thư dương tính với HER2 với số lượng tăng gấp 100 lần.
+Nếu protein HER2 hiện diện với số lượng lớn, điều này báo hiệu ung thư phát triển và di căn nhanh hơn. Điều đặc biệt quan trọng là phải biết liệu bạn có dương tính với HER2 hay không. Dựa vào tình trạng của bạn, bác sĩ sẽ quyết định phương pháp điều trị nào có thể hiệu quả nhất cho bạn. (1)
+Xét nghiệm HER2 trong ung thư vú là gì?
+Xét nghiệm HER2 trong ung thư vú là phương pháp kiểm tra được sử dụng để xác định mức độ biểu hiện của protein HER2 trên bề mặt tế bào ung thư vú.
+Khoảng 25% những người bị ung thư vú sẽ dương tính với HER2. Trước đây, tình trạng này có liên quan đến tiên lượng xấu. Hiện nay đã có các liệu pháp nhắm mục tiêu có thể can thiệp vào các thụ thể này, tiên lượng của bệnh ung thư vú dương tính với HER2 đã tốt hơn nhiều. (2)
+Xét nghiệm HER2 để làm gì?
+Điều quan trọng là phải có kết quả chính xác về tình trạng HER2 để điều trị ung thư vú dương tính với HER2 hiệu quả nhất có thể. Bởi dựa vào kết quả này, bác sĩ sẽ lựa chọn các liệu pháp nhắm mục tiêu phù hợp cho từng người bệnh như Herceptin (trastuzumab), Perjeta (pertuzumab), Tykerb (lapatinib) và Nerlynx (neratinib). Đây là các loại thuốc đặc biệt nhắm đến protein này.
+Các loại hóa trị cụ thể điều trị ung thư vú có tác dụng tốt nhất cũng có thể khác nhau tùy theo tình trạng HER2. Tình trạng HER2 chính xác cũng rất quan trọng trong điều trị ung thư vú di căn có HER2 dương tính. Mô hình di căn cũng như việc điều trị các vị trí di căn cụ thể có thể khác nhau tùy theo tình trạng HER2.
+Xét nghiệm HER2 trong ung thư vú để xác định mức độ biểu hiện của protein HER2 trên bề mặt tế bào ung thư vú
+Khi nào cần xét nghiệm HER2?
+1. Một số trường hợp nên xét nghiệm HER2
+Mọi người mắc bất kỳ loại ung thư vú xâm lấn nào đều nên đi xét nghiệm khối u để xác định trạng thái HER2. Ung thư vú “xâm lấn” được định nghĩa là bất kỳ bệnh ung thư nào vượt quá giai đoạn 0 hoặc ung thư biểu mô tại chỗ.
+Tất cả các giai đoạn khác của ung thư vú, từ giai đoạn I đến giai đoạn IV, nên được kiểm tra tình trạng HER2 tại thời điểm chẩn đoán và trước khi bắt đầu điều trị.
+Nếu bạn không chắc chắn về tình trạng HER2 của mình, hãy nhớ hỏi bác sĩ ung thư. (3)
+2. Trường hợp cần làm xét nghiệm lại
+Tại thời điểm tái phát, dù là tái phát tại chỗ khu vực vú đã mổ, khu vực hạch nách hay trên dưới đòn cùng bên mổ hay di căn xa.
+Nếu ung thư vú lan rộng và có bất kỳ di căn mới nào xảy ra.
+Nếu bạn và bác sĩ ung thư của bạn cảm thấy rằng xét nghiệm HER2 bạn đã thực hiện không chính xác bằng các xét nghiệm mới hơn.
+Các loại xét nghiệm HER2
+Có 2 xét nghiệm có thể được thực hiện trên một khối u để xác định xem khối u đó có dương tính với HER2 hay không. Những điều này được thực hiện trong phòng thí nghiệm bằng cách sử dụng mẫu khối u.
+1. IHC (hóa mô miễn dịch)
+IHC là thước đo số lượng thụ thể protein HER2 trên bề mặt tế bào ung thư vú, hay biểu hiện quá mức HER2.
+2. Lai tại chỗ (ISH)
+ISH là thước đo số lượng bản sao HER2 trong mỗi tế bào ung thư vú, hay còn gọi là khuếch đại HER2. Có 2 xét nghiệm ISH khác nhau: Lai huỳnh quang tại chỗ (FISH) và ISH trường sáng (CISH) hoặc kết hợp cả 2 phương pháp này gọi là dual ISH, tùy trung tâm xét nghiệm.
+IHC có xu hướng thực hiện rẻ hơn và có kết quả nhanh hơn. , Đó là lý do phương pháp này thường được sử dụng đầu tiên. Tuy nhiên, FISH hay dual ISH được cho là chính xác hơn và sử dụng khi kết quả IHC không chắc chắn (kết quả HER2 là 2+).
+Vì lĩnh vực này đang thay đổi rất nhanh nên điều quan trọng là phải nói chuyện với bác sĩ ung thư về xét nghiệm bạn đã thực hiện và tại sao phương pháp cụ thể đó có thể được ưa thích hơn.
+3. Kết quả xét nghiệm
+Mặc dù chúng nhằm mục đích giống nhau nhưng những thử nghiệm này có thể cho kết quả khác nhau. Kết quả IHC có thể có nhiều sắc thái hơn:
+Kết quả IHC Trạng thái biểu hiện quá mức HER2
+0: Âm tính.
+1+: Âm tính.
+2+: Ranh giới, không rõ ràng.
+3+ Dương tính. (4)
+Theo hướng dẫn của Hiệp hội ung thư lâm sàng Mỹ và Hội giải phẫu bệnh Mỹ ASCO/CAP năm 2013, nếu xét nghiệm HER2 cho kết quả ở mức ranh giới/không rõ ràng, thì xét nghiệm lao miễn dịch huỳnh quang nên được thực hiện bằng xét nghiệm thay thế.
+Kết quả dương tính với IHC 3+ hay FISH hay dual ISH dương tính có nghĩa là người bệnh sẽ được điều trị bằng thuốc nhắm vào bệnh ung thư vú dương tính với HER2.
+Sau khi xét nghiệm HER2 xác định được tế bào ung thư có chứa HER2 ở mức độ bình thường, cao hay không và từ đó quyết định phương pháp điều trị phù hợp
+Những lưu ý khi xét nghiệm HER2 trong ung thư vú
+Khi xét nghiệm HER2 trong ung thư vú, người bệnh cần lưu ý một số điều như sau:
+1. Hạn chế của xét nghiệm HER2
+Mặc dù các xét nghiệm quan trọng nhưng cần phải ghi nhớ những hạn chế của xét nghiệm HER2:
+Không chính xác: Đôi khi, kết quả kiểm tra không thuyết phục. Trong những trường hợp này, có thể cần xét nghiệm một mẫu khác, nghĩa là người bệnh phải xét nghiệm lại để có kết quả chính xác.
+Tính không đồng nhất: Có thể có các phần của khối u xét nghiệm HER2 dương tính và các phần khác xét nghiệm HER2 âm tính.
+Thay đổi: Các khối u có thể thay đổi trạng thái HER2, do đó kết quả người bệnh nhận được sau một lần xét nghiệm có thể không đúng trong suốt quá trình điều trị bệnh
+Hiểu thêm về những thay đổi trong trạng thái HER2 giúp hiểu rõ hơn về những hạn chế của xét nghiệm này.
+2. Những thay đổi về trạng thái HER2
+Mọi người thường nghĩ tế bào ung thư là bản sao của một tế bào sai sót nhưng thực tế không phải vậy. Tế bào ung thư tiếp tục phát triển những đột biến và thay đổi mới. Các phần khác nhau của một khối u có thể có các tế bào ung thư với các đặc điểm khác nhau (khối u không đồng nhất) và những thay đổi này có thể trở nên rõ ràng hơn khi khối u tiến triển, bệnh tái phát hoặc di căn.
+Không chỉ trạng thái HER2 mới có thể thay đổi. Trạng thái thụ thể estrogen (ER) và thụ thể progesterone (PR) cũng có thể thay đổi khi khối u tái phát hoặc di căn, và sự thay đổi trạng thái thụ thể này được gọi là sự không phù hợp. Một khối u có thể thay đổi từ dương tính sang âm tính đối với một trong những thụ thể này hoặc ngược lại, từ âm tính sang dương tính.
+Khả năng xảy ra sự khác biệt giữa khối u ban đầu và di căn thứ nhất hoặc thứ hai (từ âm tính sang dương tính hoặc từ dương tính sang âm tính), trên HER2 là 20%, trên ER là 21% và trên PR là 40%.
+Trong một nghiên cứu năm 2016, gần 20% khối u đã thay đổi trạng thái từ HER2 dương tính sang HER2 âm tính hoặc ngược lại. Biết liệu khối u đã thay đổi hay chưa là rất quan trọng trong việc lựa chọn phương pháp điều trị tốt nhất. Trong nghiên cứu này, những khối u thay đổi với HER2 có tiên lượng tương tự với những khối u không thay đổi trạng thái thụ thể HER2.
+3. Chẩn đoán sai HER2
+Nếu khối u c người bệnh dương tính với HER2 nhưng nhận được kết quả HER2 âm tính và không nhận được các liệu pháp điều trị để cải thiện khả năng sống còn. Mặt khác, nếu HER2 của người bệnh âm tính nhưng nhận được kết quả HER2 dương tính, có nguy cơ gặp phải tác dụng phụ của các liệu pháp nhắm mục tiêu HER2 mà không mang lại nhiều lợi ích.
+4. Khuyến nghị của bác sĩ
+Xét nghiệm HER2, cùng với xét nghiệm ER và PR nên được thực hiện trên tất cả các bệnh ung thư vú xâm lấn (giai đoạn I đến giai đoạn IV) tại thời điểm chẩn đoán và trước khi thực hiện bất kỳ điều trị nào.
+Xét nghiệm nên được làm lại trong 1 số trường hợp sau đây:
+Kết quả xét nghiệm không xác định.
+Bác sĩ điều trị ung thư của người bệnh khuyến nghị có xét nghiệm khác chính xác hơn
+Bệnh ung thư tái phát hoặc lan rộng. Tình trạng HER2 của khối u có thể thay đổi theo thời gian, thậm chí ở các khu vực khác nhau của một khối u.
+Trạng thái HER2 chính xác rất quan trọng trong việc lựa chọn phương pháp điều trị tốt nhất cho bệnh ung thư của người bệnh, đồng thời giảm thiểu tác dụng phụ của các phương pháp điều trị ít có hiệu quả. Có một số tranh cãi về các xét nghiệm tốt nhất cho HER2, và các xét nghiệm mới hơn và được sửa đổi đang được đánh giá ngày nay.
+Như vậy, thông qua bài viết này, bạn đã có thêm kiến thức về xét nghiệm HER2 – một yếu tố quan trọng trong việc chẩn đoán và điều trị ung thư vú. Các kết quả của xét nghiệm HER2 giúp các bác sĩ lựa chọn phương pháp điều trị tối ưu nhất cho người bệnh. Tuy nhiên, mỗi ca ung thư vú đều có những đặc điểm riêng, đòi hỏi một chiến lược điều trị cá nhân hóa. Do đó, nếu bạn hoặc người thân đang phải đối mặt với căn bệnh này, hãy tìm đến các cơ sở y tế để thực hiện xét nghiệm HER2, từ đó xác định được hướng điều trị phù hợp nhất.

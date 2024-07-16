@@ -1,0 +1,65 @@
+# doc_id = health_disease_964
+# url = https://tamanhhospital.vn/xet-nghiem-di-ung/
+# date = 05/01/2022
+Xét nghiệm dị ứng là gì? Khi nào nên lựa chọn? Ưu và nhược điểm
+Dị ứng là tình trạng xảy ra khi cơ thể tiếp xúc với dị nguyên. Để điều trị khỏi được tình trạng dị ứng thì cần phải biết được loại dị nguyên đã gây ra tình trạng dị ứng cho cơ thể. Xét nghiệm dị ứng kết hợp xét nghiệm dị nguyênlà biện pháp giúp nhận biết nhanh nhất để điều trị kịp thời.
+Mục lụcDị ứng, dị nguyên là gì?Các loại chất gây dị ứngPhương pháp xét nghiệm dị ứng1. Xét nghiệm dị nguyên gây dị ứng (Test panel dị ứng)2. Test lẩy da (Prick test)3. Test áp bì (Patch test)4. Test trong da hay test nội bì (Intradermal skin test)5. Test khẳng định (Challenge test)6. Xét nghiệm máu để tìm kháng thể IgE gây dị ứngVì sao nên cần xét nghiệm dị ứng?Chuẩn bị trước khi xét nghiệm dị ứngRủi ro có thể gặp phảiMột số lưu ý sau khi thực hiện xét nghiệmDị ứng, dị nguyên là gì?
+Tình trạng dị ứng với một vài tác nhân nào đó xảy ra với khoảng 20% dân số tại nước ta
+Dị ứng xảy ra khi cơ thể đáp ứng quá mức với một tác nhân nào đó và gây ra các biểu hiện bệnh như ngứa, mày đay,viêm mũi dị ứng, hen suyễn, nặng hơn có thể là biểu hiện của sốc phản vệ dẫn tới tử vong. (1)
+Tất cả những chất gây dị ứng được gọi chung là dị nguyên. Bản chất dị nguyên là cáckháng nguyêncó thể gây ra tình trạng dị ứng đối với một số đối tượng có cơ địa dị ứng với kháng nguyên đó, nhưng có thể hoàn toàn bình thường với một số người khác.
+Các loại chất gây dị ứng
+Chất gây dị ứng là những chất có thể gây ra phản ứng dị ứng, được chia thành ba loại chính:
+Chất gây dị ứng qua đường hô hấp ảnh hưởng đến cơ thể khi chúng tiếp xúc với phổi, mũi hoặc cổ họng. Phấn hoa là chất gây dị ứng qua đường hô hấp phổ biến nhất, kế đến là các loại bụi mịn, bụi than, bụi từ các phương tiện giao thông, khói động cơ, khói thuốc lá, hơi xăng dầu, hóa chất…
+Chất gây dị ứng ăn phải có trong một số loại thực phẩm như đậu phộng, đậu nành, hải sản…
+Chất gây dị ứng khi tiếp xúc với da gây phản ứng.
+Phương pháp xét nghiệm dị ứng
+Nếu bạn bị dị ứng, hệ thống miễn dịch của bạn sẽ phản ứng quá mức và tạo ra các kháng thể (protein) được gọi là immunoglobulin E (IgE). Các kháng thể này kích hoạt giải phóng các hóa chất gây ra phản ứng dị ứng. Do đó, các xét nghiệm dị ứng giúp đo lường phản ứng của cơ thể đối với các tác nhân gây dị ứng hoặc chất gây dị ứng cụ thể. Từ đó, bác sĩ sẽ đưa ra hướng điều trị khắc phục tình trạng dị ứng của người bệnh. (2)
+1. Xét nghiệm dị nguyên gây dị ứng (Test panel dị ứng)
+Mô tả sơ bộ kỹ thuật:
+Test dị nguyênlà phương pháp sử dụng các mẫu dị nguyên có sẵn hay gây ra tình trạng dị ứng đối với đa số người và thử nghiệm trên đối tượng muốn tìm dị nguyên. Từ đó tìm ra loại dị nguyên mà cơ thể đó có phản ứng dị ứng trong số các dị nguyên có sẵn. Người bệnh có thể lấy máu ở bất kỳ thời điểm nào trong ngày và không lo lắng điều này ảnh hưởng đến kết quả xét nghiệm. Người bệnh cũng chỉ cần lấy một mẫu máu duy nhất.
+Test panel 60 dị nguyên gây dị ứng là xét nghiệm sử dụng mẫu huyết thanh để xác định xem trong máu của người bệnh có tồn tại kháng thể IgE (Immunoglobulin E) đặc hiệu với dị nguyên hay không, từ đó xác định được các dị nguyên gây dị ứng đối với cơ thể.
+Nếu kết quả cho ra âm tính, tức là người bệnh không có dị ứng với mẫu dị nguyên có sẵn. Nếu kết quả dương tính có thể ở nhiều mức độ khác nhau, từ nhẹ tới nặng; tức là người bệnh có dị ứng với dị nguyên đó, có thể một hoặc nhiều dị nguyên.
+Tuy vậy, sau khi có kết quả âm tính không có nghĩa là người bệnh không mắc bệnh dị ứng. Mà là không dị ứng với 60 mẫu dị nguyên có sẵn. Có thể người bệnh dị ứng với loại kháng nguyên khác cần được xác định qua thăm khám của bác sĩ và thực hiện thêm xét nghiệm khác.
+Do đó, ngoài Test panel dị ứng, để tìm được chính xác các dị nguyên người bệnh có thể được bác sĩ chỉ định thực hiện test lẩy da, test áp bì, test trong da, test khẳng định… nhằm xác định được nguyên nhân dị ứng.
+2. Test lẩy da (Prick test)
+Phương pháp xét nghiệm lẩy da phát hiện dị nguyên gây dị ứng thuốc
+Mô tả sơ bộ kỹ thuật:
+Kỹ thuật làm test lẩy da là đưa một lượng thuốc đã được pha loãng tới nồng độ thích hợp vào lớp thượng bì của da người bệnh để thử phản ứng của cơ thể người bệnh với loại thuốc đó. (3)
+Đây là kỹ thuật cơ bản chẩn đoán đặc hiệu các dị nguyên gây dị ứng bằng tìm IgE đặc hiệu trên da thông qua phản ứng kháng nguyên kháng thể làm giải phóng tế bào MAST.
+3. Test áp bì (Patch test)
+Mô tả sơ bộ kỹ thuật:
+Test áp bì (xét nghiệm dị ứng bằng một tấm dán) là một phương pháp thử nghiệm được sử dụng để xác định liệu có một chất cụ thể gây viêm dị ứng trên da của bệnh nhân. Bất kỳ cá nhân bị nghi ngờ mắc phải viêm da tiếp xúc dị ứng (allergic contact dermatitis) hoặc atopic dermatitis cần thử nghiệm patch test.
+Patch test giúp xác định những chất nào có thể gây ra phản ứng dị ứng kiểu trễ ở bệnh nhân và có thể xác định các chất gây dị ứng không được xác định bằng xét nghiệm máu hoặc xét nghiệm skin prick. Mục đích tạo ra một phản ứng dị ứng tại chỗ trên một khu vực nhỏ của lưng bệnh nhân, nơi các hóa chất pha loãng được nhúng vào.
+Xét nghiệm này sử dụng các dị nguyên đã chế sẵn (mỹ phẩm) áp lên vùng da lành, mỗi dị nguyên một vị trí. Sau 48 giờ hoặc 96 giờ, nếu có dấu hiệu của dị ứng khi tiếp xúc với dị nguyên nào thì đó là nguyên nhân gây bệnh.
+4. Test trong da hay test nội bì (Intradermal skin test)
+Mô tả sơ bộ kỹ thuật:
+Thuốc hoặc dị nguyên được pha loãng đến nồng độ 1/10 hoặc 1/100 so với nồng độ test lẩy da. Chú ý, nếu có tiền sử sốc phản vệ nồng độ có thể pha loãng hơn.
+Dùng bơm kim tiêm lấy khoảng 0,02-0,05ml dung dịch dị nguyên rồi tiêm tạo sẩn với kích thước từ 2-3mm trên da mặt trước cẳng tay.
+Dùng histamin làm chứng dương, NaCl 0,9% làm chứng âm.
+Đọc kết quả sau 15 – 20 phút. Test dương tính khi đường kính sẩn 5mm so với chứng âm.
+Lưu ý khi thực hiện test nội bì: Test nội bì có nguy cơ gây sốc phản vệ cao hơn test lẩy da nên phải được thực hiện ở các bệnh viện chuyên khoa và có điều kiện cấp cứu sốc phản vệ.
+5. Test khẳng định (Challenge test)
+Test khẳng định được thực hiện bằng cách đưa thuốc với liều lượng phù hợp (từ thấp đến cao) vào cơ thể người bệnh. Mục đích của test khẳng định là để loại trừ nguyên nhân gây dị ứng thuốc không rõ ràng, loại trừ phản ứng chéo giữa các loại thuốc hay xác định tình trạng dị ứng thuốc.
+6. Xét nghiệm máu để tìm kháng thể IgE gây dị ứng
+Kháng thể IgE có thể tăng lên ở những người bị dị ứng và có thể được đo từ mẫu máu. Mức IgE cao cũng được tìm thấy ở những người bị nhiễm ký sinh trùng, bệnh chàm và một số bệnh lý hiếm gặp. Mức IgE cao không chứng minh rằng các triệu chứng là do dị ứng, và mức IgE toàn phần bình thường không loại trừ dị ứng. Do đó, việc đo nồng độ IgE không được khuyến khích thường xuyên trong xét nghiệm dị ứng.
+Vì sao nên cần xét nghiệm dị ứng?
+Theo một thống kê tại Việt Nam, có khoảng 20% dân số mắc bệnh dị ứng. Bệnh thường bắt đầu trước tuổi 20 (80% trường hợp), tuổi khởi phát trung bình từ 8-11 tuổi. Tỷ lệ mắc bệnh cao nhất ở khoảng 12-15 tuổi, tần suất xuất hiện bệnh ở thành thị cao hơn nông thôn.
+Không chỉ tại Việt Nam, theo một thống kê của Đại học Dị ứng, Hen suyễn và Miễn dịch học Hoa Kỳ (ACAAI), bệnh dị ứng cũng ảnh hưởng đến hơn 50 triệu người sống ở Hoa Kỳ. Chất gây dị ứng qua đường hô hấp cho đến nay là loại phổ biến nhất.
+Tổ chức Dị ứng Thế giới ước tính rằng bệnh hen suyễn là nguyên nhân gây ra 250.000 ca tử vong hàng năm. Những trường hợp tử vong này có thể tránh được nếu được chăm sóc dị ứng thích hợp, vì bệnh hen suyễn được coi là một giai đoạn của bệnh dị ứng.
+Do đó, xét nghiệm dị ứng giúp xác định được chất gây dị ứng – nguyên nhân gây nên các triệu chứng. Khám tầm soát nguyên nhân gây dị ứng kết hợp xét nghiệm dị nguyên là biện pháp giúp phát hiện nhanh nhất để điều trị kịp thời hay có kế hoạch phòng tránh, kiểm soát phù hợp để khắc phục vấn đề dị ứng của bạn.
+Chuẩn bị trước khi xét nghiệm dị ứng
+Tuân thủ những lưu ý trước khi thực hiện xét nghiệm dị ứng giúp cho ra kết quả xét nghiệm chính xác hơn
+Trước khi kiểm tra dị ứng, bác sĩ sẽ hỏi bạn về lối sống, tiền sử gia đình… Bác sĩ cũng có thể yêu cầu bạn ngưng dùng các loại thuốc sau trước khi xét nghiệm dị ứng vì chúng có thể ảnh hưởng đến kết quả xét nghiệm:
+Thuốc kháng histamin kê đơn và không kê đơn
+Một số loại thuốc điều trị chứng ợ nóng, chẳng hạn như famotidine (Pepcid)
+Benzodiazepine như diazepam (Valium) hoặc lorazepam (Ativan)
+Thuốc chống trầm cảm ba vòng như amitriptyline (Elavil)
+Corticosteroid toàn thân (nếu bạn đang thử nghiệm miếng dán)
+Rủi ro có thể gặp phải
+Các xét nghiệm dị ứng có thể gây ngứa nhẹ, đỏ và vết sưng. Đôi khi, xuất hiện những nốt mụn nhỏ trên da. Các triệu chứng này thường hết trong vài giờ hay có thể kéo dài vài ngày. Sử dụng các loại kem bôi steroid nhẹ có thể làm giảm các triệu chứng này. (4)
+Trong một số trường hợp hiếm gặp, các xét nghiệm dị ứng tạo ra phản ứng dị ứng nghiêm trọng và khi ấy cần được chăm sóc y tế ngay lập tức. Đó là lý do tại sao các xét nghiệm dị ứng nên được tiến hành tại các cơ sở y tế có đầy đủ thuốc và thiết bị y tế, bao gồm thuốc epinephrine (adrenalin) để điều trị phản vệ, một phản ứng dị ứng cấp tính có thể đe dọa tính mạng.
+Do đó, để tìm ra được nguồn gốc gây bệnh và các nguyên nhân gây dị ứng thì ngay khi có dấu hiệu dị ứng, bạn cần đến bệnh viện đa khoa có chuyên ngành để được thăm khám bởibác sĩ chuyên khoa và thực hiện xét nghiệm chuyên biệt.
+Xem thêm: Chi phí xét nghiệm dị ứng bao nhiêu tiền?
+Một số lưu ý sau khi thực hiện xét nghiệm
+Sau khi đã xác định được cụ thể chất gây dị ứng đang gây ra các triệu chứng của bạn, bác sĩ sẽ cùng bạn đưa ra một phương pháp điều trị hoặc phòng tránh nguyên nhân cụ thể. Bác sĩ cũng có thể đề xuất các loại thuốc có thể làm dịu các triệu chứng của bạn.
+Hiện Trung Tâm Xét Nghiệm BVĐK Tâm Anh có thực hiện Test dị nguyên gây dị ứng Panel 4 gồm có 20 dị nguyên (trong đó có các dị nguyên gây dị ứng từ các loại sữa thông thường của trẻ) và Test dị nguyên gây dị ứng panel 60 gồm có 60 dị nguyên làxét nghiệm dị ứngthường được sử dụng giúp người bệnh xác định được nguyên nhân gây dị ứng.

@@ -1,0 +1,73 @@
+# doc_id = health_disease_2327
+# url = https://tamanhhospital.vn/ung-thu-thanh-quan-song-duoc-bao-lau/
+# date = 25/07/2023
+Ung thư thanh quản sống được bao lâu? Tiên lượng từng giai đoạn
+Ung thư thanh quản có tiên lượng tương đối xấu nếu phát hiện bệnh ở giai đoạn muộn. Vậy ung thư thanh quản sống được bao lâu và phụ thuộc vào những yếu tố nào?
+Mục lụcHiểu về cách tính tỷ lệ sống 5 nămUng thư thanh quản sống được bao lâu?Khám tầm soát giúp phát hiện ung thư thanh quản giai đoạn sớmHiểu về cách tính tỷ lệ sống 5 năm
+Một trong những câu hỏi mà người bệnh ung thư thường đặt ra cho bác sĩ điều trị là “Tôi còn sống được bao lâu nữa?”. Để trả lời được câu hỏi đó cho người bệnh, bác sĩ sẽ dựa vào những số liệu thống kê.
+Số liệu thống kê tức là những con số mô tả xu hướng của một sự kiện khi đo, đếm, tính toán trên một số lượng lớn bệnh nhân (ví dụ như tỷ lệ tử vong, thời gian sống mà bệnh không tiến triển, thời gian sống không bệnh = khoảng thời gian từ khi điều trị lui bệnh hoàn toàn đến khi bệnh tái phát…).
+Thống kê thời gian sống của bệnh ung thư thường dựa trên những yếu tố như loại ung thư, giai đoạn ung thư, tuổi người bệnh, khoảng thời gian đo lường (như thời gian sống 1 năm, 2 năm, 3 năm, 4 năm, 5 năm…). Tùy vào loại ung thư, giai đoạn ung thư mà người ta sẽ đặt ra các giới hạn thời gian sống phù hợp để đo lường và thống kê lại nhằm đưa ra những con số mô tả xu hướng tử vong của bệnh là thấp hay cao, dài hay ngắn… (1)
+Thời gian sống là một trong những yếu tố của tiên lượng bệnh. Tiên lượng bệnh phụ thuộc vào loại bệnh, giai đoạn bệnh, mức độ đáp ứng điều trị, khả năng hồi phục sau điều trị…. Bệnh có tiên lượng xấu nghĩa là khả năng hồi phục của người bệnh thấp, tỷ lệ tử vong cao và ngược lại. Tỷ lệ sống là tỷ lệ phần trăm số bệnh nhân còn sống sau một khoảng thời gian nhất định. Tỷ lệ sống có thể đo lường bất kỳ khoảng thời gian dài hay ngắn (1 năm hay 5 năm, 10 năm…). Tuy nhiên, các nhà nghiên cứu thường sử dụng mốc 5 năm để đo lường tỷ lệ sống cho người bệnh ung thư. Tỷ lệ sống 5 năm có nghĩa là phần trăm người bệnh còn sống sau 5 năm kể từ thời điểm có chẩn đoán ung thư. Tỷ lệ này không bao gồm những bệnh nhân tử vong vì nguyên nhân khác không phải do bệnh ung thư.
+Ví dụ:
+Tỷ lệ sống 5 năm của bệnh nhân ung thư cổ tử cung là 66%, nghĩa là cứ 100 bệnh nhân có chẩn đoán ung thư cổ tử cung thì sau 5 năm sẽ có 66 bệnh nhân vẫn còn sống.
+Tỷ lệ sống 5 năm của bệnh nhân ung thư cổ tử cung giai đoạn sớm là 92%, nghĩa là cứ 100 bệnh nhân có chẩn đoán ung thư cổ tử cung giai đoạn sớm thì sau 5 năm có có 92 bệnh nhân vẫn còn sống. (2)
+Các bác sĩ thường sử dụng tỷ lệ sống 5 năm để đánh giá và so sánh các lựa chọn điều trị. Họ coi tỷ lệ sống là một dấu hiệu tốt cho những điều sau:
+Ung thư có đáp ứng với điều trị hay không;
+Liệu việc điều trị có thành công kéo dài tuổi thọ của người bệnh hay không.
+Tại Hoa Kỳ, chương trình có tên gọi Giám sát, dịch tễ học và kết cục cuối cùng (SEER – Surveillance, Epidemiology, and End Results) là một trong những nguồn thông tin về thống kê bệnh ung thư đáng tin cậy nhất. Chương trình này thu thập thông tin, xử lý và cung cấp các số liệu thống kê về bệnh ung thư nhằm góp phần trong việc nỗ lực làm giảm gánh nặng bệnh tật cho công dân Mỹ. SEER được bảo trợ bởi Viện Ung thư Quốc gia Hoa Kỳ (NCI – National Cancer Institute). (3)
+Hình ảnh minh họa giải phẫu vùng thanh quản.
+Ung thư thanh quản sống được bao lâu? Tiên lượng sống của bệnh nhân ung thư thanh quản khá cao nếu được phát hiện và điều trị ở giai đoạn sớm. Tiên lượng sống của ung thư thanh quản phụ thuộc chủ yếu vào giai đoạn bệnh tại thời điểm chẩn đoán (nghĩa là dựa vào mức độ xâm lấn và lan rộng của khối u, tình trạng hạch di căn và di căn xa). Ngoài ra, còn phụ thuộc vào các yếu tố như:
+Loại tế bào ung thư và độ mô học của tế bào ung thư. Độ mô học mô tả mức độ bất thường của tế bào khi quan sát dưới kính hiển vi, tế bào càng bất thường thì độ mô học càng cao, và tiên lượng bệnh sẽ xấu hơn.
+Vị trí của khối u: Khối u ở vùng thanh môn thường sẽ có tiên lượng tốt hơn vùng thượng hay hạ thanh môn.
+Sức khỏe và thể trạng của người bệnh: Người bệnh càng khỏe thì càng có nhiều khả năng tham gia đầy đủ phác đồ điều trị, tiên lượng bệnh có thể sẽ tốt hơn những người bệnh có nhiều bệnh nền/hoặc thể trạng không cho phép tham gia đầy đủ các phương pháp điều trị cần thiết.
+Người bệnh vẫn giữ thói quen hút thuốc lá sau khi đã có chẩn đoán ung thư thanh quản: Trường hợp này khả năng mắc ung thư thứ hai sẽ tăng cao hơn, từ đó tiên lượng bệnh cũng xấu đi.
+Ung thư thanh quản sống được bao lâu?
+Khi nhận chẩn đoán mắc ung thư thanh quản, người bệnh sẽ thắc mắc ung thư thanh quản sống được bao lâu? Vậy tiên lượng sống của bệnh nhân ung thư thanh quản như thế nào?
+Như đã trình bày trước đó, vị trí xuất hiện khối u là một trong những yếu tố ảnh hưởng đến tiên lượng sống của bệnh nhân ung thư thanh quản. Chúng ta sẽ tìm hiểu sơ lược về các vùng của thanh quản trước khi đến với các số liệu thống kê cụ thể.
+Ung thư thanh quản được chia thành 3 vùng dựa trên vị trí xuất hiện của các tế bào ung thư, tương ứng với 3 tên gọi là ung thư thượng thanh môn, ung thư thanh môn và ung thư hạ thanh môn. Tỷ lệ ung thư thanh quản theo vị trí 3 vùng như sau: 30% đến 35% ở thượng thanh môn, 60% đến 65% ở vùng thanh môn và 5% ở vùng hạ thanh môn.
+Vị trí cụ thể của 3 tên gọi này lần lượt là (hình số 3):
+Thượng thanh môn: là vùng phía trên dây thanh âm (thuộc phần nắp thanh môn, bao gồm nắp thanh môn trên và dưới xương móng). Nắp thanh môn là một cấu trúc có thể đóng mở tạm thời khi nhai/nuốt, giúp đóng tạm đường thở để thức ăn không rơi vào đường thở phía trước.
+Thanh môn: là vùng chứa dây thanh âm thật, bao gồm cả hai nếp (dây) thanh âm.
+Hạ thanh môn: là vùng nằm phía dưới thanh môn đến bờ dưới của sụn nhẫn. Sụn nhẫn là một vòng sụn bao quanh khí quản và là ranh giới dưới cùng của khung xương thanh quản; sụn nhẫn có hình vòng giống nhẫn mặt vuông, nằm phía dưới sụn giáp.
+Các nhà nghiên cứu thường sử dụng mốc thời gian 5 năm để biểu thị thời gian sống tương đối cho bệnh ung thư thanh quản, nghĩa là tỷ lệ phần trăm người bệnh trên tổng số người mắc ung thư thanh quản vẫn còn sống sau 5 năm chẩn đoán. Tỷ lệ đó được liệt kê trong bảng dưới đây (dựa trên số liệu từ Văn phòng Thống kê Quốc gia Anh (ONS- Office for National Statistics). (4)
+Giai đoạn
+Vị trí khối u trong thanh quản
+Tỷ lệ sống 5 năm
+Tại chỗ (ung thư chưa xâm lấn ra ngoài thanh quản, chưa di căn hạch và chưa di căn xa)
+Thượng thanh môn
+61%
+Thanh môn
+83%
+Hạ thanh môn
+63%
+Tại vùng (ung thư có thể xâm lấn ra các mô lân cận hay di căn hạch vùng nhưng chưa di căn xa)
+Thượng thanh môn
+47%
+Thanh môn
+49%
+Hạ thanh môn
+35%
+Tiến xa (ung thư đã lan đến các cơ quan xa trong cơ thể)
+Thượng thanh môn
+31%
+Thanh môn
+43%
+Hạ thanh môn
+43%
+Bệnh nhân ung thư thanh quản sống được bao lâu là điều mà nhiều người thắc mắc.
+Về mặt thống kê, thời gian sống 5 năm thường được lấy làm mốc thời gian tối đa, nhưng không có nghĩa là các bệnh nhân chỉ có thể sống tối đa 5 năm (5 năm là mốc thời gian thường được dùng để ghi nhận khả năng sống sau khi chẩn đoán bệnh ung thư; nhưng vẫn có những bệnh nhân sống lâu hơn 5 năm). Tỷ lệ sống 5 năm là số phần trăm người bệnh không tử vong vì ung thư trong vòng 5 năm sau khi chẩn đoán.
+Ngoài số liệu thống kê dựa trên phân chia giai đoạn như bảng mô tả phía trên, theo Văn phòng Thống kê Quốc gia Anh (ONS- Office for National Statistics), tiên lượng sống còn của ung thư thanh quản còn có thể dựa trên sự phân chia 5 giai đoạn theo hệ thống AJCC TNM, được thể hiện như sau: (5)
+Ung thư thanh quản giai đoạn 0-1: Khoảng trên 90% người bệnh sống 5 năm và lâu hơn. Giai đoạn này khối u vẫn còn nằm gọn trong thanh quản, dây thanh âm vẫn di động tốt. Tế bào ung thư chưa xâm lấn đến các mô xung quanh, chưa di căn hạch và chưa di căn xa.
+Ung thư thanh quản giai đoạn 2: Gần 70% bệnh nhân ung thư thanh quản giai đoạn 2 có tiên lượng sống 5 năm. Giai đoạn này khối u có thể đã xâm lấn các mô lành cạnh thanh quản, hoặc khối u vẫn còn trong thanh quản nhưng đã lan khỏi vùng ban đầu của nó (thanh môn lan đến thượng hoặc hạ thanh môn). Dây thanh âm có thể vẫn còn di động hoặc không. Chưa thấy dấu hiệu ung thư lan đến các hạch bạch huyết và chưa di căn xa.
+Ung thư thanh quản giai đoạn 3: Tỷ lệ sống 5 năm khoảng 60%. Giai đoạn này khối u đã phát triển xâm lấn các khoang cạnh thanh quản, làm bất động dây thanh âm. Tế bào ung thư đã lan đến một hạch bạch huyết lân cận, hạch này có kích thước nhỏ hơn 3cm. Và giai đoạn này chưa có di căn xa.
+Ung thư thanh quản giai đoạn 4: Hơn 30% người bệnh còn sống sau 5 năm kể từ thời điểm chẩn đoán bệnh. Giai đoạn này khối u thanh quản đã lan đến các mô bên ngoài thanh quản như khí quản, thực quản, cơ lưỡi, tuyến giáp, khoang trước cột sống, bao động mạch cảnh… Tế bào ung thư đã lây lan đến nhiều hạch có thể 1 bên hoặc 2 bên, kích thước hạch lớn hơn, các tế bào ung thư trong hạch có thể đã phá vỡ vỏ bao và lan vào mô xung quanh hạch. Hoặc ung thư đã di căn đến một số cơ quan khác của cơ thể.
+Nhìn chung, tỷ lệ bệnh nhân ung thư thanh quản còn sống sau 5 năm là khá tốt nếu bệnh được phát hiện vào giai đoạn sớm. Thực tế, nhiều người bệnh vẫn có thể sống hơn thời gian dự đoán 5 năm, thậm chí 10 năm. Tỷ lệ sống sau điều trị ung thư thanh quản còn phụ thuộc vào các yếu tố khác. Do đó, đối với câu hỏi “Ung thư thanh quản sống được bao lâu?”, người bệnh chỉ nên xem các số liệu trên là một yếu tố tham khảo; và nên tham vấn trực tiếp với bác sĩ điều trị.
+Khám tầm soát giúp phát hiện ung thư thanh quản giai đoạn sớm
+Ung thư thanh quản chiếm khoảng 1/3 số ca ung thư đầu – cổ, là nguyên nhân gây gánh nặng bệnh tật và tử vong tương đối đáng kể. Bệnh ở giai đoạn đầu có cơ hội chữa khỏi cao bằng phẫu thuật hoặc xạ trị, với nhiều khả năng bảo tồn được chức năng của thanh quản. Bệnh ở giai đoạn muộn thường có tiên lượng không được khả quan, cần kết hợp đa mô thức trong điều trị và khả năng bảo tồn thanh quản tương đối thấp. Ung thư thanh quản thường gặp ở nam giới, phản ánh một phần nguyên nhân xuất phát từ thói quen lạm dụng thuốc lá, rượu bia.
+Người bệnh có nguy cơ mất giọng nói, khả năng nuốt thức ăn nếu không được điều trị kịp thời.
+Nếu không được điều trị sớm, người bệnh có nguy cơ đánh mất khả năng nói – nuốt thức ăn và không giữ được đường thở tự nhiên. Do đó, các phương pháp điều trị ung thư thanh quản hiện nay tập trung nhiều vào khả năng bảo tồn tối đa thanh quản nhằm nâng cao chất lượng sống cho người bệnh.
+Ung thư thanh quản có thể điều trị khỏi với tỷ lệ thành công cao nếu được phát hiện ở giai đoạn sớm. Tuy nhiên, nếu có các triệu chứng rầm rộ như khàn giọng, thay đổi giọng nói, đau họng, cảm giác nghẹn khi nuốt, các cơn ho kéo dài, thở khò khè, đau tai… thường bệnh đã không còn ở giai đoạn sớm. Do đó, những người có nguy cơ cao mắc ung thư thanh quản như nam giới, trên 40 tuổi, hút thuốc lá hoặc uống rượu bia nhiều, người thường xuyên làm việc trong môi trường ô nhiễm, tiền căn gia đình có người mắc ung thư vùng đầu cổ… nên chủ động khám sức khỏe và tầm soát ung thư định kỳ.
+Nội soi tầm soát ung thư thanh quản tại Bệnh Viện Đa Khoa Tâm Anh TP.HCM
+Hiện nay, BVĐK Tâm Anh được trang bị hệ thống máy nội soi tai mũi họng Xion hiện đại của Đức giúp hỗ trợ các bác sĩ phát hiện sớm các tổn thương, bất thường dây thanh quản. Từ đó chẩn đoán chính xác các nguyên nhân gây khàn giọng, đục tiếng, rối loạn giọng nói, rối loạn nuốt vùng hạ họng. Ngoài ra, hệ thống máy nội soi Xion còn có chức năng PIET spectro kết hợp thay đổi quang phổ màu cấu trúc mô được hiển thị tương phản, nhất là cấu trúc khối u, tăng sinh mạch máu của u bướu nghi ngờ ác tính, định hướng sinh thiết khối u, giúp tầm soát Ung thư Vòm họng, Hốc mũi, Hạ họng – thanh quản cho kết quả nhanh chóng.
+Để đặt lịch thăm khám, tầm soát ung thư thanh quản tại BVĐK Tâm Anh, bạn có thể liên hệ thông tin sau:
+Nhìn chung, ung thư thanh quản sống được bao lâu phụ thuộc vào nhiều yếu tố. Các chỉ số tiên lượng chỉ mang tính chất tham khảo. Việc giữ suy nghĩ tích cực, thay đổi lối sống khoa học, duy trì thói quen tốt, giữ đời sống tinh thần ổn định góp phần rất lớn vào hiệu quả điều trị ung thư thanh quản.

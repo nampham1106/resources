@@ -1,0 +1,129 @@
+# doc_id = health_disease_2858
+# url = https://tamanhhospital.vn/dat-stent-nhoi-mau-co-tim/
+# date = 10/06/2024
+Đặt stent nhồi máu cơ tim: Thời điểm vàng thực hiện và quy trình [A-Z]
+Thủ thuật đặt stent điều trị nhồi máu cơ tim là phương pháp được chỉ định dành cho các bệnh nhân nhồi máu cơ tim cấp, mạch vành bị tắc hẹp nặng hoặc không thể điều trị nội khoa (bằng thuốc). Vậy đặt stent vào thời điểm nào là tốt nhất và cần những lưu ý gì? Hãy cùng tìm hiểu tất tần tật về thủ thuật đặt stent nhồi máu cơ tim qua bài viết dưới, do ThS.BS Trần Trung Kiên Trung tâm Tim mạch BVĐK Tâm Anh TP. HCM tư vấn.
+Mục lụcPhương pháp đặt stent nhồi máu cơ timChỉ định đặt stent nhồi máu cơ tim khi nào?Chống chỉ định đặt stent nhồi máu cơ tim trong trường hợp nào?Thời điểm vàng đặt stent nhồi máu cơ tim kéo dài bao lâu?Các loại stent được sử dụng trong phương pháp đặt stent nhồi máu cơ tim1. Stent kim loại thường (BMS)2. Stent phủ thuốc (DES)3. Stent tự tiêu sinh học (BRS)Các phương pháp chẩn đoán trước khi đặt stent nhồi máu cơ tim1. Dựa vào đặc điểm của bệnh nhân2. Dựa vào triệu chứng của bệnh nhân3. Điện tâm đồ (ECG)4. Xét nghiệm men tim5. Chẩn đoán bằng cách siêu âm timQuy trình đặt stent nhồi máu cơ tim diễn ra như thế nào?Rủi ro có thể xảy raPhương pháp điều trị thay thế cho đặt stent nhồi máu cơ tim1. Điều trị bằng thuốc2. Phẫu thuật bắc cầu động mạch vànhCách chăm sóc người bệnh sau đặt stent nhồi máu cơ timNguy cơ tái phát sau đặt stent nhồi máu cơ tim có xảy ra không?Thăm khám ngay nếu có bất thường sau phẫu thuật đặt stent nhồi máu cơ timPhương pháp đặt stent nhồi máu cơ tim
+Thủ thuật đặt stent nhồi máu cơ tim có tác dụng giúp cho lòng mạch vành thông thoáng, tạo điều kiện cho máu lưu thông một cách dễ dàng. Những bệnh nhân khi bị nhồi máu cơ tim, mạch vành bị tắc hẹp cần phải khắc phục ngay lập tức bằng cách đặt stent nong mạch vành.
+Khi stent được đặt vào đúng vị trí tắc sẽ giúp thông mạch và làm giảm các triệu chứng do nhồi máu cơ tim gây ra, từ đó giúp bệnh nhân thoát khỏi cơn nguy kịch và giảm thiểu các di chứng sau này. (1)
+Bệnh nhân nhồi máu cơ tim phải đặt stent để điều trị
+Chỉ định đặt stent nhồi máu cơ tim khi nào?
+Chỉ định đặt stent nhồi máu cơ tim trong hẹp tắc động mạch vành đối với những bệnh nhân gặp các trường hợp sau:
+Đối với những bệnh nhân gặp tình trạng đau thắt ngực ổn định nhưng không đáp ứng với phương pháp điều trị bằng thuốc, hoặc có biểu hiện rõ ràng của thiếu máu hoặc tổn thương cơ tim, việc đặt stent có thể được xem xét để cải thiện tình trạng bệnh.
+Trong trường hợp người bệnh bị đau thắt ngực không ổn định và có nguy cơ cao bị nhồi máu cơ tim, đặt stent là một phương pháp có thể được cân nhắc để ngăn ngừa kịp thời các biến cố tim mạch nghiêm trọng.
+Đối với bệnh nhân bị nhồi máu cơ tim cấp có ST chênh lên (chỉ số ST thể hiện trên điện tâm đồ), đặt stent là biện pháp khẩn cấp nhằm phục hồi lưu lượng máu đến cơ tim một cách nhanh chóng.
+Chống chỉ định đặt stent nhồi máu cơ tim trong trường hợp nào?
+Để đảm bảo sức khỏe cho người bệnh và tránh các biến chứng xảy ra, một số trường hợp được bác sĩ chống chỉ định đặt stent nhồi máu cơ tim cần lưu ý bao gồm:
+Bệnh nhân có thể trạng dễ chảy máu như bị rối loạn đông máu hoặc có số lượng tiểu cầu thấp.
+Chống chỉ định với những bệnh nhân không tuân thủ trước và sau điều trị.
+Bệnh nhân gặp hiện tượng tái hẹp nhiều vị trí sau khi được can thiệp đặt Stent mạch vành.
+Thời điểm vàng đặt stent nhồi máu cơ tim kéo dài bao lâu?
+Được làm bằng chất liệu kim loại, stent mạch vành có thời hạn tồn tại vĩnh viễn trừ các stent tự tiêu biến sau 2 năm.
+Thông thường, thời gian ổn định của stent trong lòng động mạch khá lâu từ khoảng 10 – 15 năm và tuổi thọ của stent tùy thuộc vào thời gian duy trì hiệu quả lâu dài của việc đặt stent. Tuy nhiên, nếu các yếu tố gây xơ vữa động mạch không được kiểm soát tốt thì tuổi thọ của stent có thể giảm xuống nhanh chóng.
+Các loại stent được sử dụng trong phương pháp đặt stent nhồi máu cơ tim
+Hiện nay, các loại stent mạch vành thông dụng bao gồm stent kim loại thường, stent phủ thuốc và stent tự tiêu.
+1. Stent kim loại thường (BMS)
+Stent kim loại thường được làm từ thép không gỉ, ưu điểm của loại stent này là chi phí thấp, tuy nhiên, nhược điểm lớn là tỷ lệ tái hẹp cao. Theo thống kê, khoảng 30% bệnh nhân được đặt stent kim loại thường có thể bị tái hẹp mạch vành trong vòng 6 tháng sau khi can thiệp. (2)
+Hiện nay, stent kim loại thường không được sử dụng nhiều. Chỉ 1 số rất ít trường hợp, loại stent này sẽ được cân nhắc dùng cho những bệnh nhân có nguy cơ chảy máu cao, vì không cần phải sử dụng thuốc chống kết tập tiểu cầu trong thời gian dài.
+2. Stent phủ thuốc (DES)
+Stent kim loại thường dễ bị tái hẹp do hệ thống miễn dịch coi stent như vật thể lạ, gây viêm và phát triển mô quá mức xung quanh stent. Để khắc phục, stent phủ thuốc được thiết kế với lớp phủ thuốc giúp giảm phản ứng miễn dịch bất thường và hạn chế sự phát triển của mô tại vị trí đặt stent.
+Tuy nhiên, việc sử dụng stent phủ thuốc có thể làm chậm quá trình lành vết thương của động mạch vành xung quanh stent, do đó bệnh nhân cần dùng thuốc chống đông ít nhất trong vòng 12 tháng để giảm nguy cơ cục máu đông gây tắc nghẽn đột ngột.
+3. Stent tự tiêu sinh học (BRS)
+Stent tự tiêu sinh học cung cấp một giá đỡ tạm thời giúp giữ cho động mạch thông thoáng. Sau khi loại bỏ sự tắc nghẽn và lưu lượng máu được phục hồi lại bình thường, stent này sẽ tự tiêu hủy trong cơ thể, đưa động mạch về trạng thái tự nhiên.
+Ưu điểm của loại stent này là khả năng tự tiêu hủy, giúp thúc đẩy quá trình tái tạo thành mạch được khỏe mạnh tuy nhiên lại làm tăng nguy cơ xảy ra huyết khối. Vì những ưu và nhược điểm như vậy, stent tự tiêu sinh học vẫn đang trong quá trình được nghiên cứu thêm.
+Các phương pháp chẩn đoán trước khi đặt stent nhồi máu cơ tim
+Dù biểu hiện ở bất kỳ dạng nào, nhồi máu cơ tim đều là một bệnh lý nghiêm trọng và có thể gây hậu quả nặng nề nếu không được chẩn đoán và điều trị kịp thời. Do đó, việc chẩn đoán nhồi máu cơ tim trước khi đặt stent đóng vai trò vô cùng quan trọng.
+Các phương pháp chẩn đoán thường gặp
+Một số phương pháp chẩn đoán giúp bác sĩ đánh giá được tình trạng nhồi máu cơ tim của bệnh nhân:
+1. Dựa vào đặc điểm của bệnh nhân
+Những người có nguy cơ cao bị nhồi máu cơ tim thường có một số đặc điểm nhận diện như:
+Tuổi cao;
+Tăng huyết áp;
+Đái tháo đường;
+Suy thận;
+Hút thuốc lá thường xuyên;
+Rối loạn lipid máu.
+Ngoài ra, những trường hợp người có nguy cơ cao mắc nhồi máu cơ tim bao gồm
+Có chế độ ăn nhiều chất béo bão hòa và chất béo chuyển hóa;
+Sử dụng nhiều bia, rượu;
+Có tiền sử gia đình hoặc cá nhân mắc bệnh động mạch vành.
+2. Dựa vào triệu chứng của bệnh nhân
+Một số triệu chứng giúp chẩn đoán bệnh nhân mắc nhồi máu cơ tim thường gặp mà bác sĩ có thể nhận biết dễ dàng như: Khó thở;
+Đau thắt ngực;
+Đổ mồ hôi lạnh;
+Buồn nôn;
+Đau dạ dày (có thể cảm thấy khó tiêu hoặc ợ chua);
+Tim đập nhanh hoặc không đều;
+Lâng lâng;
+Chóng mặt;
+Ngất xỉu.
+3. Điện tâm đồ (ECG)
+Điện tâm đồ là một trong những phương pháp quan trọng và phổ biến để chẩn đoán nhồi máu cơ tim. Thông qua những biến đổi thất thường dưới dạng sóng, bác sĩ có thể chẩn đoán được mức độ tổn thương của tim bằng những biến đổi của sóng điện tim.
+4. Xét nghiệm men tim
+Khi các tế bào cơ tim bị tổn thương hoặc chết, troponin sẽ được giải phóng vào máu. Xét nghiệm troponin trong máu giúp chẩn đoán nhồi máu cơ tim, đồng thời phân biệt nhồi máu cơ tim với các bệnh lý khác như viêm cơ tim, rối loạn nhịp, rối loạn điện giải, và bệnh cơ tim.
+5. Chẩn đoán bằng cách siêu âm tim
+Siêu âm tim là kỹ thuật được sử dụng phổ biến để chẩn đoán nhồi máu cơ tim. Hình ảnh siêu âm thể hiện sự rối loạn vận động của tim do hậu quả của tắc mạch vành và nhồi máu cơ tim.
+Siêu âm tim cũng giúp đánh giá chức năng của tâm thất trái và các biến chứng sau nhồi máu như hở van tim, tràn dịch màng ngoài tim, và thủng thành tim,…
+Quy trình đặt stent nhồi máu cơ tim diễn ra như thế nào?
+Đầu tiên, bệnh nhân cần được giải thích chi tiết về phương pháp đặt stent, bao gồm tất cả các rủi ro trong và sau phẫu thuật. Các bác sĩ sẽ tiến hành bước kiểm tra để xác định bệnh nhân có đủ điều kiện thực hiện thủ thuật hay không. Bệnh nhân sẽ được cho thuốc chống ngưng kết tiểu cầu trước khi bắt đầu thủ thuật.
+Nếu thuộc một trong các trường hợp chống chỉ định can thiệp đặt stent như đã liệt kê, bệnh nhân sẽ không được thực hiện thủ thuật này.
+Giải thích với bệnh nhân phương pháp đặt stent chi tiết
+Quy trình thực hiện thủ thuật bao gồm những bước sau:
+Bước 1: Bác sĩ thực hiện bước mở đường vào mạch máu
+Sát khuẩn kỹ lưỡng vị trí mở đường vào mạch máu.
+Mở đường vào mạch máu thông qua động mạch đùi hoặc động mạch quay.
+Bước 2: Đặt ống can thiệp
+Kết nối đường đo áp lực với ống thông can thiệp.
+Chụp động mạch vành chọn lọc để xác định vị trí cần được can thiệp.
+Đặt ống thông can thiệp vào động mạch vành.
+Bước 3: Can thiệp mạch vành
+Bác sĩ tiến hành nong bóng để mở rộng lòng mạch tại vị trí tổn thương.
+Đặt stent để ngăn ngừa động mạch vành hẹp lại sau khi nong bóng.
+Kiểm tra xem tình trạng stent đã nở tốt hay chưa.
+Để đảm bảo không có biến chứng, bác sĩ tiến hành chụp lại động mạch vành sau khi đặt stent.
+Bước cuối cùng sẽ rút dây dẫn ra khỏi động mạch vành.
+Để thực hiện toàn bộ quy trình trên đòi hỏi cơ sở y tế phải đảm bảo đầy đủ các trang thiết bị máy móc hiện đại, đáp ứng cung cấp đầy đủ điều kiện thuận lợi khi thực hiện can thiệp đặt Stent mạch vành.
+Trung tâm Can thiệp mạch, Hệ thống BVĐK Tâm Anh sở hữu hệ thống chụp mạch can thiệp số hóa xóa nền (DSA) Philips Azurion Robotic Ceiling FlexArm kết hợp cùng hệ thống IVUS – siêu âm trong lòng mạch vành đầu tiên có mặt tại Việt Nam. Điều này giúp các bác sĩ thực hiện kỹ thuật đặt stent có kích thước lớn (4-5mm), giảm nguy cơ tái hẹp.
+Ngoài ra, nhờ sự kết hợp với các hệ thống phần mềm tiên tiến nhất như: Kỹ thuật chụp động mạch vành Cardiac Swing, Dynamic Coronary Roadmap – Bản đồ vận động của mạch vành với lượng thuốc cản quang tối thiểu và Stent Boost Live giúp bác sĩ quan sát được stent hoặc bóng trực tiếp trong quá trình nong, chồng stent chính xác đến từng milimet, các bác sĩ có thể rút ngắn thời gian can thiệp và giảm tối đa lượng thuốc cản quang đưa vào cơ thể bệnh nhân, giảm nguy cơ cho bệnh nhân suy thận và suy tim.
+Rủi ro có thể xảy ra
+Những bệnh nhân nhồi máu cơ tim đặt stent có thể gặp một số rủi ro liên quan thủ thuật, tuy nhiên tỷ lệ xảy ra rủi ro khá thấp (chỉ từ 1 – 2%). Bệnh nhân có thể gặp một số các rủi ro như:
+Bị tổn thương mạch máu tại ống thông được đưa vào hoặc lớp lót bên trong động mạch gây nhiễm trùng, chảy máu.
+Cơ thể bị dị ứng với thuốc cản quang và những ảnh hưởng của thuốc cản quang có thể làm tổn thương thận.
+Gây hình thành cục máu đông (huyết khối) trong stent. (3)
+Bệnh nhân bị rối loạn nhịp tim, đau tim, đột quỵ và có thể dẫn đến tử vong.
+Động mạch vành có thể bị vỡ hoặc tắc hoàn toàn phải tiến thành phẫu thuật bắc cầu mạch vành.
+Phương pháp điều trị thay thế cho đặt stent nhồi máu cơ tim
+1. Điều trị bằng thuốc
+Điều trị bằng thuốc là một phương pháp quan trọng kết hợp với can thiệp hoặc phẫu thuật để điều trị nhồi máu cơ tim. Các loại thuốc thường được sử dụng bao gồm:
+Thuốc chẹn beta: Giảm tốc độ tim bơm máu và làm chậm nhịp tim, giúp cải thiện tình trạng nhịp tim không đều và giảm tổn thương cho tim.
+Statin: Giúp hạ lượng mỡ xấu trong máu, điều này rất quan trọng vì mỡ xấu là thành phần chính của mảng xơ vữa, tác nhân gây tắc nghẽn động mạch.
+Aspirin và các thuốc chống kết tập tiểu cầu: Giảm sự hình thành cục máu đông ở các mạch máu tổn thương và trên bề mặt stent.
+Thuốc chống đông máu: Ngăn ngừa nguy cơ hình thành cục máu đông.
+Nitroglycerin: Hiệu quả trong việc làm giãn mạch (mở rộng các mạch máu), giúp giảm cơn đau ngực do tắc nghẽn mạch máu.
+Thuốc giảm đau: Trong trường hợp đau ngực dữ dội, morphin hoặc các loại thuốc giảm đau khác có thể được bác sĩ cân nhắc sử dụng.
+2. Phẫu thuật bắc cầu động mạch vành
+Đối với những trường hợp động mạch vành tim bị tắc nghẽn nghiêm trọng mà không thể đặt stent, bác sĩ sẽ thực hiện phương pháp phẫu thuật bắc cầu động mạch vành. Thủ thuật này tạo ra một đường đi mới cho máu, vòng qua vị trí động mạch bị tắc, giúp cải thiện lượng máu cung cấp cho cơ tim.
+Phương pháp điều trị bằng thuốc và phẫu thuật bắc cầu động mạch vành đều đóng vai trò quan trọng trong việc điều trị nhồi máu cơ tim, giúp cải thiện tình trạng sức khỏe và giảm nguy cơ biến chứng cho người bệnh.
+Cách chăm sóc người bệnh sau đặt stent nhồi máu cơ tim
+Để nhanh chóng hồi phục và giảm thiểu nguy cơ biến chứng sau khi đặt stent nhồi máu cơ tim, cần chăm sóc bệnh nhân một cách khoa học và tuân thủ hướng dẫn của bác sĩ điều trị:
+Cần giữ vệ sinh vùng da luôn khô ráo trong vòng 24 – 48 giờ sau khi thực hiện thủ thuật để tránh tình trạng nhiễm trùng. Tại vùng da được thủ thuật nếu có dấu hiệu ấm, đỏ và chảy dịch bệnh nhân nên liên hệ bác sĩ để được xử lý ngay.
+Nên hạn chế các hoạt động nặng: Người bệnh cần tránh nâng những vật nặng và không thực hiện các hoạt động gắng sức. Ngoài ra, không nên hoạt động tình dục ít nhất 1 tuần.
+Hạn chế tiếp xúc với nước: Làm ướt luồn ống thông thường sẽ được thực hiện an toàn sau 48 giờ, tuy nhiên nên tránh hoạt động bơi lội và tắm trong vòng 1 tuần do sự thay đổi áp suất sẽ có ảnh hưởng xấu đến mạch máu.
+Ngừng hút thuốc lá: Khói thuốc lá là một trong những nguyên nhân làm tăng nguy cơ mắc các bệnh tim mạch, do đó việc bỏ thuốc lá là điều vô cùng cần thiết.
+Sử dụng thuốc và tái khám theo chỉ định của bác sĩ điều trị: Việc duy trì uống thuốc theo hướng dẫn một cách đầy đủ và liều lượng là vô cùng quan trọng vì nếu ngưng thuốc có thể làm tắc stent đột ngột và dẫn đến tử vong. Đừng quên tái khám định kỳ theo chỉ định để sớm phát hiện ra những bất thường và điều trị kịp thời.
+Xử lý các triệu chứng nguy hiểm bất thường: Một số dấu hiệu bất thường sau khi xuất viện như đau ngực, khó thở đột ngột,… Bệnh nhân cần được đưa đến bệnh viện để các bác sĩ thực hiện can thiệp kịp thời.
+Bệnh nhân có thể gặp một số biến chứng nguy hiểm
+Nguy cơ tái phát sau đặt stent nhồi máu cơ tim có xảy ra không?
+Thủ thuật đặt stent giúp cải thiện tình trạng hẹp chứ không giải quyết triệt để vấn đề tận gốc, do đó tình trạng vẫn có thể tái phát sau khi đặt stent.
+Xơ vữa động mạch là bệnh lý do tình trạng lắng đọng mỡ lên thành mạch, dẫn đến hẹp lòng mạch và ảnh hưởng đến động mạch toàn thân, bao gồm cả động mạch vành. Việc đặt stent nhồi máu cơ tim chỉ giúp giải quyết vị trí tắc nghẽn cụ thể trong động mạch vành, nhưng không điều trị được tình trạng xơ vữa động mạch.
+Vì vậy, sự tắc nghẽn mạch vành có thể tiếp tục xảy ra tại các vị trí khác của động mạch. Do đó, sau khi đặt stent mạch vành, người bệnh cần được chăm sóc và điều trị đúng cách để ngăn ngừa tái phát bệnh.
+Thăm khám ngay nếu có bất thường sau phẫu thuật đặt stent nhồi máu cơ tim
+Sau khi đặt stent nhồi máu cơ tim, người bệnh cần được theo dõi các biến chứng có thể xảy ra. Hãy gọi ngay cho nhân viên y tế hoặc bệnh viện nếu bạn gặp phải các triệu chứng như:
+Bệnh nhân bị khó thở, đau ngực.
+Cơ thể bị suy nhược dẫn đến ngất xỉu.
+Vùng thực hiện thủ thuật bị sưng, đỏ hoặc chảy máu.
+Bệnh nhân bị đau, khó chịu xung quanh hoặc bên dưới vị trí đặt ống thông.
+Cánh tay thực hiện thủ thuật gặp sự thay đổi về nhiệt độ hoặc màu sắc.
+Đặt stent trong nhồi máu cơ tim là thủ thuật được thực hiện giúp thông mạch và làm giảm các triệu chứng do nhồi máu cơ tim gây ra, từ đó giúp bệnh nhân thoát khỏi cơn nguy kịch và giảm thiểu các di chứng sau này.
+Đặt lịch tư vấn, thăm khám và điều trị tại Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh, Quý khách có thể liên hệ theo thông tin sau:
+Sau khi đặt stent nhồi máu cơ tim, người bệnh cần được chăm sóc và theo dõi. Nếu phát hiện người bệnh có những biểu hiện bất thường, cần liên hệ ngay với bác sĩ hoặc đưa bệnh nhân đến cơ sở y tế gần nhất để kịp thời chữa trị.

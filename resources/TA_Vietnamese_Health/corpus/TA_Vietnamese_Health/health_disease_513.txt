@@ -1,0 +1,102 @@
+# doc_id = health_disease_513
+# url = https://tamanhhospital.vn/phan-do-suy-tim/
+# date = 20/08/2022
+Phân độ suy tim theo NYHA: Các cấp độ, giai đoạn thường gặp
+Có nhiều phân độ suy tim hiện nay, trong đó các bác sĩ thường sử dụng hệ thống phân độ của Hiệp hội Tim mạch New York (NYHA) và Đại học Tim mạch Hoa Kỳ/Hiệp hội Tim mạch Hoa Kỳ (ACC/AHA).
+Mục lụcTổng quan về suy timPhân độ suy tim theo NYHASuy tim độ 1Suy tim độ 2Suy tim độ 3Suy tim độ 4Các mức độ suy tim nhẹ và nặngPhân độ suy tim theo giai đoạnGiai đoạn AGiai đoạn BGiai đoạn CGiai đoạn DMột số phương pháp phân loại khácCần làm gì khi được chẩn đoán suy tim?Điều trị giai đoạn AĐiều trị giai đoạn BĐiều trị giai đoạn CĐiều trị giai đoạn DĐiều trị suy tim phân suất tống máu bảo tồnCách phòng ngừa bệnh suy tim tiến triểnTổng quan về suy tim
+Suy tim là một hội chứng rối loạn chức năng tâm thất, xảy ra khi cơ tim không hút và bơm máu tốt như bình thường. Máu có thể ứ đọng trong phổi, gây ra tình trạng khó thở. Suy tim thường xảy ra phổ biến ở người lớn tuổi và vẫn có thể xuất hiện ở mọi lứa tuổi. Một số bệnh tim (như bệnh động mạch vành, huyết áp cao, bệnh van tim, bệnh tim bẩm sinh…) dần dần khiến tim yếu đi hoặc cứng hơn, dẫn đến không thể đảm bảo được chức năng cung cấp máu đến các cơ quan trong cơ thể, gây nguy hiểm đến tính mạng người bệnh.
+ThS.BS Huỳnh Thanh Kiều cho biết, có nhiều nguyên nhân dẫn đến suy tim cần được xác định để điều trị phù hợp. Việc chẩn đoán suy tim sẽ dựa vào triệu chứng lâm sàng (ví dụ: như mệt, khó thở, đau ngực, hồi hộp, phù chân, gan to,…) và xét nghiệm cận lâm sàng (ví dụ như điện tâm đồ, siêu âm tim, MSCT tim, MRI tim, thông tim,…). Hiện nay, để đánh giá độ nặng của suy tim người ta phân độ dựa vào mức độ hạn chế trong sinh hoạt và hoạt động thường ngày của người bệnh (theo NYHA).
+Phác đồ điều trị sẽ dựa trên mức độ nghiêm trọng của các triệu chứng và mức độ chức năng tim của người bệnh.
+Phân độ suy tim theo NYHA
+Hiện nay hệ thống phân độ được sử dụng rộng rãi nhất là phân độ suy tim của Hiệp hội Tim mạch New York (NYHA). Có 4 cấp độ được sử dụng để phân loại người bị suy tim, dựa theo các triệu chứng và sự hạn chế trong các hoạt động thể chất. (1)
+Suy tim độ 1
+Đây là mức độ nhẹ nhất, người bệnh vẫn có thể thực hiện các hoạt động thể chất bình thường mà không xuất hiện các triệu chứng của suy tim (như mệt mỏi, hồi hộp, khó thở…). Thông thường suy tim độ 1 không giới hạn hoạt động thể chất.
+Suy tim độ 2
+Suy tim độ 2 là mức độ suy tim nhẹ, người bệnh có bị hạn chế trong các hoạt động thể chất. Lúc nghỉ ngơi thì không xuất hiện các triệu chứng của suy tim, nhưng khi hoạt động thể chất nặng thì có thể xuất hiện triệu chứng mệt mỏi, khó thở hay hồi hộp. Nhìn chung, suy tim mức độ này cũng chưa ảnh hưởng đến các sinh hoạt thường ngày, chỉ ảnh hưởng khi người bệnh hoạt động gắng sức nhiều hoặc nặng.
+Suy tim độ 3
+Lúc này, người bệnh cần lưu ý đến các hoạt động thể chất của mình vì chỉ cần hoạt động nhẹ cũng có thể xuất hiện các triệu chứng như đau ngực, khó thở, đánh trống ngực. Các hoạt động thông thường bị hạn chế nhiều, khi nghỉ ngơi thì mới khỏe. Lúc này người bệnh suy tim độ 3 cần được điều trị tích cực, dõi kỹ lưỡng, hoặc phải nhập viện do bị ảnh hưởng nhiều đến sinh hoạt hằng ngày.
+Suy tim độ 4
+Các triệu chứng suy tim xảy ra ngay cả khi nghỉ ngơi, người bệnh có thể mệt mỏi, khó chịu, hồi hộp, khó thở với bất kỳ hoạt động thể chất nào dù rất nhẹ. Suy tim độ 4 là suy tim mức độ nặng, suy tim giai đoạn cuối hoặc suy tim kháng trị. Người bệnh cần được nhập viện để điều trị tích cực hoặc chuẩn bị vào danh sách chờ ghép tim.
+Các mức độ suy tim nhẹ và nặng
+Suy tim độ 1 và độ 2 thường được coi là suy tim nhẹ, trong khi suy tim độ 3 và độ 4 là suy tim nặng. Tình trạng suy tim của người bệnh có thể tiến triển từ suy tim độ 1, 2 sang suy tim độ 3, 4 và ngược lại dựa trên các triệu chứng. Khi người bệnh lên cơn suy tim cấp hoặc suy tim mất bù, họ sẽ có nhiều triệu chứng hơn và có khả năng ở mức độ cao hơn; nhưng khi các triệu chứng được kiểm soát tốt thì mức độ suy tim có thể được đánh giá giảm xuống.
+Người bệnh cần theo dõi sức khỏe thường xuyên để kịp thời điều trị suy tim khi cần.
+Phân độ suy tim theo giai đoạn
+Có 4 giai đoạn suy tim, theo Đại học Tim mạch Hoa Kỳ/Hiệp hội Tim mạch Hoa Kỳ (ACC/AHA), được ký hiệu bằng 4 chữ cái: A, B, C và D. Các giai đoạn này bao gồm từ “nguy cơ cao phát triển suy tim” đến “suy tim tiến triển”. (2)
+Giai đoạn A
+Đây là giai đoạn tiền suy tim. Điều này có nghĩa là người bệnh có nguy cơ cao phát triển bệnh suy tim vì có tiền sử gia đình bị suy tim hoặc có một hoặc nhiều tình trạng bệnh lý sau:
+Tăng huyết áp
+Bệnh đái tháo đường
+Bệnh động mạch vành
+Hội chứng chuyển hóa
+Tiền sử lạm dụng rượu
+Tiền sử sốt thấp khớp
+Tiền sử gia đình có người mắc bệnh cơ tim
+Tiền sử sử dụng các loại thuốc có thể làm tổn thương cơ tim (ví dụ như một số loại thuốc điều trị ung thư)
+Giai đoạn B
+Ở giai đoạn này, người bệnh đã có những bệnh lý cấu trúc tim như hẹp hở van tim, bệnh tim bẩm sinh, rối loạn nhịp tim, bệnh mạch vành, tuy nhiên chưa có triệu chứng suy tim trên lâm sàng. Trong giai đoạn này, người bệnh cần được điều trị tích cực các bệnh tim nền như mổ sửa chữa van tim, sửa chữa dị tật tim bẩm sinh, nong hay mổ bắc cầu mạch vành, điều trị các bệnh lý gây xơ vữa động mạch,… để ngăn ngừa tiến triển đến suy tim.
+Giai đoạn C
+Những người bị suy tim giai đoạn C có tổn thương cấu trúc tim như giai đoạn B kèm theo hiện tại hoặc trước đây đã có triệu chứng cơ năng của suy tim. Các triệu chứng phổ biến thường gặp là:
+Hụt hơi
+Ho khan
+Khó thở
+Đau thắt ngực
+Cảm thấy mệt mỏi, kiệt sức
+Sưng bàn chân, mắt cá chân, cẳng chân và bụng
+Giai đoạn D
+Đây là giai đoạn suy tim nặng, người bệnh có bệnh lý tim nền nặng kèm triệu chứng suy tim đáp ứng kém hoặc không đáp ứng điều trị, cần có sự can thiệp đặc biệt như thuốc vận mạch, thuốc tăng co bóp cơ tim, dụng cụ tái đồng bộ cơ tim, đặt dụng cụ hỗ trợ thất hoặc ghép tim.
+Một số phương pháp phân loại khác
+Phân loại theo chức năng của tim: Suy tim tâm trương và suy tim tâm thu
+Phân loại theo thời gian tiến triển: Suy tim cấp và suy tim mạn
+Phân loại theo cung lượng tim: Suy tim cung lượng thấp và suy tim cung lượng cao
+Phân loại theo vị trí của buồng tim: Suy tim toàn bộ, Suy tim trái và suy tim phải
+Bác sĩ cần xác định giai đoạn bệnh suy tim để có phương thức điều trị phù hợp.
+Cần làm gì khi được chẩn đoán suy tim?
+ThS.BS Huỳnh Thanh Kiều cho hay, việc xây dựng phác đồ điều trị phụ thuộc vào giai đoạn suy tim mà người bệnh mắc phải và nguyên nhân gây ra tình trạng suy tim. Điều trị nội khoa chung bằng thuốc đặc trị và điều chỉnh lối sống khoa học là những biện pháp được áp dụng trong tất cả các giai đoạn của suy tim. (3)
+Điều trị giai đoạn A
+Cách điều trị thông thường cho những người bị suy tim giai đoạn A, bao gồm:
+Thường xuyên tập thể dục, vận động, đi bộ mỗi ngày;
+Không hút thuốc lá;
+Điều trị huyết áp cao (dùng thuốc; chế độ ăn ít natri; áp dụng lối sống tích cực);
+Điều trị cholesterol cao;
+Không sử dụng rượu và thuốc kích thích;
+Thuốc ức chế men chuyển (ACE-I) hoặc thuốc chẹn thụ thể angiotensin II (ARB) nếu người bệnh bị bệnh mạch vành, tiểu đường, huyết áp cao hoặc các bệnh lý về tim mạch khác;
+Thuốc chẹn beta nếu người bệnh bị huyết áp cao, nhịp tim nhanh.
+Điều trị giai đoạn B
+Người bệnh suy tim giai đoạn B sẽ được điều trị theo các phương pháp:
+Sử dụng các phương pháp điều trị được liệt kê trong giai đoạn A;
+Thuốc ức chế men chuyển (ACE-I) hoặc thuốc chẹn thụ thể angiotensin II (ARB) (nếu người bệnh chưa dùng);
+Thuốc chẹn beta nếu người bệnh bị suy tim phân xuất tống máu giảm <=40%, tiền sử nhồi máu cơ tim
+Thuốc đối kháng Aldosterone nếu suy tim phân suất tống máu giảm <=40%.
+Có thể phẫu thuật hoặc nong đặt stent mạch vành để điều trị tắc nghẽn động mạch vành; phẫu thuật sửa hoặc thay van tim nếu có bệnh van tim nặng; mổ hoặc thông tim sửa chữa các tật tim bẩm sinh.
+Điều trị giai đoạn C
+Người bệnh cần tuân thủ nghiêm túc các phương pháp điều trị trong giai đoạn này.
+Các cách điều trị được liệt kê trong các giai đoạn A và B
+Thuốc điều trị cao huyết áp (nếu có huyết áp cao);
+Ưu tiên sử dụng thuốc ARNI (Sacubitril + valsartan), hoặc ức chế men chuyển (ACE-I), kháng Aldosteron, chẹn bêta, nhóm ức chế thụ thể SGLT-2 (Empagliflozin và Dapagliflozin) là 4 nhóm thuốc thiết yếu trong điều trị suy tim phân suất tống máu giảm <=40%.
+Nếu người bệnh khó thở, sung huyết phổi hoặc dư thể tích tuần hoàn sẽ ưu tiên tăng liều thuốc lợi tiểu quai furosemide.
+Kết hợp hydralazine + nitrat nếu các điều trị khác không giảm được các triệu chứng;
+Hạn chế muối trong mỗi bữa ăn;
+Theo dõi cân nặng tăng giảm mỗi ngày;
+Liệu pháp tái đồng bộ tim (CRT);
+Liệu pháp khử rung tim có thể cấy ghép (lCD);
+Khi các triệu chứng thuyên giảm hoặc chấm dứt, người bệnh vẫn cần tiếp tục điều trị để làm chậm quá trình tiến triển sang giai đoạn D.
+Điều trị giai đoạn D
+Kế hoạch điều trị thông thường cho những người bị suy tim giai đoạn D bao gồm các phương pháp điều trị được liệt kê trong các giai đoạn A, B và C. Ngoài ra, còn có thể lựa chọn cách điều trị nâng cao hơn, bao gồm:
+Truyền liên tục thuốc tăng co bóp cơ tim, thuốc vận mạch.
+Phẫu thuật tim;
+Các thiết bị hỗ trợ thất trái (LVAD, IABP, ECMO);
+Ghép tim;
+Điều trị suy tim phân suất tống máu bảo tồn
+Điều trị cho những người bị suy tim có phân suất tống máu bảo tồn >= 50%(HF-pEF) bao gồm:
+Các phương pháp điều trị được liệt kê trong các giai đoạn A và B;
+Thuốc điều trị các bệnh lý làm nặng hơn trạng suy tim như rung nhĩ, huyết áp cao, hẹp van tim, tiểu đường, béo phì, bệnh mạch vành, bệnh phổi mãn tính, cholesterol cao, bệnh thận mạn…
+Cách phòng ngừa bệnh suy tim tiến triển
+Mặc dù không thể kiểm soát một số yếu tố nguy cơ như tuổi tác, tiền sử gia đình hoặc chủng tộc, mỗi cá nhân vẫn có thể thay đổi lối sống để phòng ngừa suy tim. Những điều bạn có thể làm bao gồm:
+Giữ cân nặng hợp lý;
+Chế độ ăn tốt cho tim mạch;
+Tập thể dục thường xuyên;
+Kiểm soát căng thẳng hiệu quả;
+Ngừng sử dụng thuốc lá, rượu, các chất kích thích.
+Được đầu tư hệ thống máy móc hiện đại như: hệ thống chụp mạch máu (DSA) tiên tiến, máy siêu âm tim và mạch máu 4D hiện đại, máy chụp cộng hưởng từ 1,5 – 3 Tesla, máy MSCT tim và động mạch vành 768 lát cắt,…, Trung tâm Tim mạch BVĐK Tâm Anh tiếp nhận và điều trị cho người bệnh suy tim và các bệnh lý tim mạch (tăng huyết áp, bệnh mạch vành, bệnh van tim, thiếu máu cơ tim…).
+Phác đồ điều trị được xây dựng cá thể hóa cho từng người bệnh, đem lại hiệu quả cao trong việc cải thiện triệu chứng và phòng ngừa biến chứng nguy hiểm, nâng cao chất lượng sống cho người bệnh.
+Tùy theo mức độ nghiêm trọng của triệu chứng mà bác sĩ phân độ suy tim cho bệnh nhân. Trong nhiều bảng phân loại thì hệ thống phân loại được sử dụng phổ biến nhất đến từ Hiệp hội Tim mạch New York (NYHA). NYHA xếp người bệnh vào một trong bốn loại dựa trên mức độ bị hạn chế trong hoạt động thể chất.

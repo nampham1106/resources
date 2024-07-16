@@ -1,0 +1,54 @@
+# doc_id = health_disease_172
+# url = https://tamanhhospital.vn/sinh-thiet-long/
+# date = 12/11/2023
+Sinh thiết lỏng có giúp chẩn đoán ung thư không? Quy trình thực hiện
+Sinh thiết lỏng hứa hẹn được ứng dụng như một công cụ giúp bác sĩ chẩn đoán, theo dõi và điều trị các bệnh lý ung thư. Vậy sinh thiết lỏng là gì? Quy trình chẩn đoán sinh thiết lỏng ra sao?
+Bài viết được tư vấn chuyên môn bởi Trung tâm Thông tin Y khoa, Bệnh viện Đa khoa Tâm Anh TP.HCM
+Hiện nay, các phương pháp sinh thiết lỏng được FDA chấp thuận có thể giúp phát hiện một vài loại bệnh ung thư tiến triển. Từ đó, bác sĩ có thể dự đoán tiên lượng bệnh và đề ra phác đồ chữa trị phù hợp. Hiện nay, công nghệ sinh thiết lỏng vẫn đang được nghiên cứu để tìm ra thêm những ứng dụng mới.
+Mục lụcSinh thiết lỏng là gì?Khi nào sinh thiết lỏng được thực hiện?Sinh thiết lỏng có thể chẩn đoán ung thưXét nghiệm sinh thiết lỏngQuy trình sinh thiết lỏng1. Chuẩn bị sinh thiết lỏng2. Thực hiện sinh thiết lỏng3. Sau khi thực hiện sinh thiết lỏngCác câu hỏi về sinh thiết lỏng1. Sinh thiết lỏng có đau không?2. Sinh thiết lỏng có chính xác không?3. Sinh thiết lỏng khác với sinh thiết như thế nào?4. Sinh thiết lỏng giá bao nhiêu?Sinh thiết lỏng là gì?
+Sinh thiết lỏng được xem như một phương pháp xét nghiệm máu đặc biệt giúp chẩn đoán, phát hiện ung thư bằng cách truy tìm các phân tử của khối u đó đang lưu hành trong máu hoặc dịch cơ thể, nếu có. Khi khối u phát triển, các mảnh khối u có thể vỡ ra và lưu thông trong máu của người bệnh. Theo đó, công nghệ sinh thiết lỏng có thể giúp bác sĩ phát hiện:
+Tế bào khối u lưu thông (CTC): CTC là tế bào ung thư của khối u đang di chuyển bên trong máu của người bệnh.
+DNA khối u lưu thông (ctDNA): ctDNA là đoạn DNA của tế bào khối u lưu thông trong máu của người bệnh. DNA có chứa mã di truyền hay hướng dẫn kiểm soát hành vi của tế bào.(1)
+CTC và ctDNA xuất hiện trong máu cung cấp bằng chứng cho thấy người bệnh có khối u ung thư. Các mảnh khối u cũng cung cấp thông tin di truyền về căn bệnh ung thư, qua đó có thể giúp bác sĩ chọn được phương pháp chữa trị mang đến hiệu quả tối ưu.
+Sinh thiết lỏng là hình thức xét nghiệm tương đối mới với những ứng dụng đột phá tiềm năng trong việc chữa trị ung thư. Nghiên cứu cụ thể hơn về lợi ích của phương pháp xét nghiệm sinh thiết lỏng đang được tiến hành.
+Sinh thiết lỏng là phương pháp xét nghiệm tương đối mới có thể được ứng dụng trong quá trình chữa trị ung thư
+Khi nào sinh thiết lỏng được thực hiện?
+Bác sĩ có thể chỉ định cho người bệnh làm sinh thiết lỏng nếu bị ung thư, nhất là ung thư di căn. Ung thư di căn là loại ung thư tiến triển. Ung thư di căn lan từ vị trí của khối u ban đầu đến những bộ phận khác trong cơ thể. Khi lan rộng, các mảnh của khối u vỡ ra đồng thời di chuyển qua dòng máu. Xét nghiệm sinh thiết lỏng có thể được tiến hành nhằm mục đích:
+Xác định tiên lượng bệnh: Sinh thiết lỏng có thể giúp bác sĩ xác định tế bào khối u lưu thông (CTC) liên quan đến nhiều căn bệnh ung thư. Nếu phát hiện có ít tế bào khối u lưu thông trong máu thì sẽ tốt hơn so với việc thấy nhiều tế bào này. Bác sĩ có thể chỉ định cho người bệnh làm các xét nghiệm định kỳ để theo dõi tình trạng bệnh, sức khỏe và điều chỉnh phương pháp chữa trị (nếu cần).
+Đưa ra quyết định chữa trị: Sinh thiết lỏng có thể giúp bác sĩ đưa ra lựa chọn phương pháp điều trị ung thư phù hợp. Ví dụ, bác sĩ sẽ nhận định xem liệu người bệnh có phải là đối tượng phù hợp để điều trị bằng các liệu pháp nhắm mục tiêu hay không. Liệu pháp nhắm mục tiêu là cách chữa trị giúp tiêu diệt các tế bào ung thư cụ thể. Ví dụ, một tế bào ung thư có thể có lỗi trong DNA. Khi đó, một liệu pháp nhắm mục tiêu cụ thể sẽ được thiết kế để tấn công. Công nghệ sinh thiết lỏng có thể phát hiện các lỗi này. Qua đó, bác sĩ có thể kê đơn chữa trị nhắm vào lỗi được phát hiện.
+Người bệnh cũng có thể được chỉ định sinh thiết lỏng nếu không thể thực hiện phương pháp sinh thiết truyền thống để chẩn đoán ung thư. So với sinh thiết lỏng, sinh thiết là thủ thuật có mức độ xâm lấn nhiều hơn. Người bệnh có thể không đủ sức khỏe để làm sinh thiết.
+Sinh thiết lỏng có thể chẩn đoán ung thư
+Khi phát triển, ung thư thải bỏ các tế bào thừa, mảnh tế bào và DNA từ quá trình chết theo chương trình hoặc những tế bào ung thư chết vì nguyên nhân bên ngoài. Những tế bào này sẽ đi vào dòng máu và tuần hoàn trong cơ thể. Các đoạn DNA của ung thư lưu thông bên trong máu còn được gọi là ctDNA.
+Để làm sinh thiết lỏng, bác sĩ sẽ lấy mẫu máu chứa các phân tử ctDNA của người bệnh mang đi phân tích. Kết quả sinh thiết lỏng cho phép bác sĩ đánh giá ung thư và xác định những lựa chọn cho phác đồ chữa trị, theo dõi hiệu quả cũng như quản lý chính xác bệnh trạng đặc trưng ở từng người bệnh.
+Sinh thiết lỏng là phương pháp đánh giá các ctDNA từ toàn bộ khối u (hoặc những khối u). Do đó, hình thức sinh thiết này có thể mang đến những thông tin toàn diện hơn về thành phần cũng như nhận diện được tính chất phức tạp của các đột biến.
+Các phân tích tế bào đơn lẻ giúp bác sĩ xác định quần thể tế bào ung thư. Bên cạnh đó, bác sĩ có thể tìm ra điểm chung của những đột biến gây ung thư cũng như thu thập các biến dị đặc trưng cho hầu hết dòng ung thư. Điều này góp phần hiện thực hóa những liệu pháp miễn dịch đặc trưng, có hiệu quả cao. Sinh thiết lỏng ctDNA cho phép bác sĩ phát hiện ra nhiều loại ung thư, như ung thư sarcoma mô mềm, ung thư thực quản, ung thư dòng tủy, ung thư bàng quang, ung thư vú, ung thư đại trực tràng, ung thư phổi, ung thư buồng trứng…
+Xét nghiệm sinh thiết lỏng có thể giúp bác sĩ chẩn đoán bệnh ung thư
+Xét nghiệm sinh thiết lỏng
+Những hình thức xét nghiệm sinh thiết lỏng được FDA chấp thuận đã trải qua quá trình nghiên cứu để đảm bảo tính chính xác và an toàn. 4 loại xét nghiệm điển hình gồm:
+Xét nghiệm tế bào khối u tuần hoàn (CTC) Cell Search® phát hiện CTC: Phương pháp này được ứng dụng để giúp bác sĩ tiên lượng cho người mắc bệnh ung thư vú, tuyến tiền liệt hay ruột kết di căn. Bên cạnh đó, bác sĩ cũng có thể theo dõi diễn biến bệnh. CTC xuất hiện ít trong máu là dấu hiệu cho thấy tiên lượng thuận lợi. Ngược lại, CTC có nhiều trong máu là dấu hiệu tiên lượng không thuận lợi.
+Cobas® EGFR Mutation Test v2 phát hiện ctDNA: Hình thức xét nghiệm này giúp phát hiện một lỗi (đột biến) trên gen EGFR thường gặp ở bệnh ung thư phổi không tế bào nhỏ (NSCLC). Qua đó, bác sĩ có thể chọn phương pháp chữa trị tối ưu nhắm đến mục tiêu lỗi tế bào.
+Guardant360® CDx phát hiện ctDNA: Phương pháp này cũng được ứng dụng để phát hiện những lỗi di truyền phổ biến. Qua đó, bác sĩ có thể chọn cách chữa trị tối ưu.
+FoundationOne® Liquid CDx phát hiện ctDNA: Thông qua hình thức xét nghiệm này, bác sĩ có thể phát hiện đột biến trong những căn bệnh ung thư khác nhau. Từ đó, bác sĩ có thể xác định được phương pháp chữa trị mang đến hiệu quả tối ưu.(2)
+Quy trình sinh thiết lỏng
+Quy trình sinh thiết lỏng bao gồm một số bước cơ bản dưới đây:
+1. Chuẩn bị sinh thiết lỏng
+Người bệnh cần tuân thủ hướng dẫn của bác sĩ/kỹ thuật viên trước khi tiến hành sinh thiết lỏng. Người bệnh cần giữ tinh thần thoải mái, không quá lo lắng. Quy trình lấy mẫu sinh thiết lỏng diễn ra nhanh chóng, đơn giản, hạn chế tối đa xâm lấn.
+2. Thực hiện sinh thiết lỏng
+Bác sĩ/kỹ thuật viên tiến hành lấy mẫu máu của người bệnh rồi mang đến phòng thí nghiệm. Tại phòng thí nghiệm, trang thiết bị hiện đại chuyên dụng sẽ được ứng dụng để tách các tế bào máu (phần rắn của máu) ra khỏi huyết tương (phần lỏng của máu). Tiếp theo, một chuyên gia được đào tạo tiến hành phân tích các mẫu mô và chất lỏng để tìm những dấu hiệu của bệnh. Cụ thể, chuyên gia sẽ tìm kiếm CTC hay ctDNA có trong huyết tương.
+3. Sau khi thực hiện sinh thiết lỏng
+Kết quả sinh thiết lỏng sẽ được trả lại cho người bệnh sau khi tiến hành phân tích, đánh giá. Lúc này, bác sĩ có thể dựa vào kết quả sinh thiết lỏng để tiên lượng bệnh, đưa ra phác đồ chữa trị phù hợp…
+Bác sĩ/kỹ thuật viên sẽ lấy mẫu máu của người bệnh mang đến phòng thí nghiệm phân tích, kiểm tra
+Các câu hỏi về sinh thiết lỏng
+Dưới đây là một số thắc mắc thường gặp có liên quan đến phương pháp sinh thiết lỏng:
+1. Sinh thiết lỏng có đau không?
+Người bệnh sẽ được lấy mẫu máu khi sinh thiết lỏng. Do đó, người bệnh có thể cảm thấy hơi đau, châm chích khi kim đâm vào cánh tay. Thế nhưng, cảm giác khó chịu thường trôi qua nhanh chóng. Một trong những ưu điểm của phương pháp sinh thiết lỏng là ít gây đau và xâm lấn tối thiểu.
+2. Sinh thiết lỏng có chính xác không?
+Những phương pháp sinh thiết lỏng (FDA chấp thuận) mang đến hiệu quả như đã được công bố. Hình thức xét nghiệm CTC cho phép bác sĩ dự đoán tiên lượng và theo dõi tình trạng sức khỏe của người bệnh. Các xét nghiệm ctDNA có thể hỗ trợ bác sĩ xác định những lỗi di truyền trong DNA của tế bào ung thư. Qua đó, bác sĩ có thể chọn cách chữa trị phù hợp. Khi chẩn đoán ung thư, kết quả sinh thiết lỏng không phải lúc nào cũng đúng hoàn toàn. Sinh thiết tiêu chuẩn là việc làm cần thiết để xác nhận chẩn đoán ung thư.
+3. Sinh thiết lỏng khác với sinh thiết như thế nào?
+Không giống như phương pháp sinh thiết tiêu chuẩn, sinh thiết lỏng không kiểm tra mô khối u một cách trực tiếp. Thay vào đó, hình thức sinh thiết lỏng được thực hiện để kiểm tra bằng chứng của khối u. Với phương pháp sinh thiết, bác sĩ sẽ lấy mẫu mô từ khối u và mang đi kiểm tra các tế bào ở phòng thí nghiệm để xem liệu có phải là ung thư hay không. Trong khi sinh thiết lỏng được tiến hành để phát hiện những dấu hiệu của khối u như DNA khối u, tế bào khối u.
+Sinh thiết được xem là “tiêu chuẩn vàng” để chẩn đoán ung thư. Với sinh thiết lỏng, ngay cả khi người bệnh có khối u thì cũng không đảm bảo rằng những dấu hiệu của khối u được phát hiện bên trong một mẫu máu. Thế nhưng, kết quả sinh thiết lỏng phát hiện ung thư sẽ cung cấp thông tin có giá trị về những tế bào ung thư. Qua đó, bác sĩ có thể chọn phác đồ chữa trị phù hợp.
+Sinh thiết lỏng không kiểm tra trực tiếp mô khối u
+4. Sinh thiết lỏng giá bao nhiêu?
+Tại mỗi cơ sở y tế sẽ có mức giá sinh thiết lỏng khác nhau. Sự chênh lệch về chi phí phụ thuộc vào các yếu tố như hình thức sinh thiết, chất lượng dịch vụ, máy móc, thiết bị, trình độ của bác sĩ/kỹ thuật viên… Điển hình như với phương pháp sinh thiết lỏng ctDNA, mức giá dao động từ 8.500.000 – 10.000.000 đồng. Lưu ý, chi phí này chỉ mang tính tham khảo, có thể thay đổi theo thời gian. Người bệnh nên liên hệ trực tiếp với cơ sở y tế để được báo giá chính xác.
+Để đặt lịch thăm khám, điều trị bệnh tại Hệ thống Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+Sinh thiết lỏng là phương pháp hứa hẹn được ứng dụng để hỗ trợ bác sĩ trong việc chẩn đoán, tiên lượng và đưa ra phác đồ chữa trị phù hợp… Người bệnh nên thực hiện sinh thiết lỏng ở cơ sở y tế uy tín, có triển khai kỹ thuật chẩn đoán bệnh này.

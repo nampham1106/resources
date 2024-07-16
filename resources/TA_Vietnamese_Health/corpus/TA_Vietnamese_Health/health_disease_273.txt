@@ -1,0 +1,65 @@
+# doc_id = health_disease_273
+# url = https://tamanhhospital.vn/ha-than-nhiet-chi-huy-o-tre-so-sinh/
+# date = 15/06/2024
+Hạ thân nhiệt chỉ huy ở trẻ sơ sinh: Ứng dụng và quy trình thực hiện kỹ thuật
+Kỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinh giúp giảm tỷ lệ tử vong, hạn chế biến chứng ở trẻ sơ sinh bị bệnh não thiếu máu cục bộ do giảm oxy. Phương pháp hạ thân nhiệt giúp giảm tình trạng viêm, phù của não bộ; não được cung cấp đủ máu và oxy, tăng tỷ lệ hồi phục các tổn thương đã có, hạn chế tiến triển và giảm xuất hiện thêm những tổn thương não mới.
+Mục lụcHạ thân nhiệt chỉ huy là gì?Kỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinhVai trò của phương pháp hạ thân nhiệt chỉ huy ở trẻ sơ sinhMột số biến chứng của kỹ thuật hạ thân nhiệt chỉ huyQuy trình hạ thân nhiệt chỉ huyCác giai đoạn của hạ thân nhiệt chỉ huyKỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinh ứng dụng khi nào?Hạ thân nhiệt chỉ huy là gì?
+Hạ thân nhiệt chỉ huy (Therapeutic Hypothermia, hay hạ thân nhiệt chủ động/kiểm soát thân nhiệt mục tiêu) là phương pháp làm lạnh để hạ thân nhiệt của người bệnh một cách chủ động. Lúc này, nhiệt độ cơ thể của người bệnh sẽ thấp hơn so với nhiệt độ sinh lý bình thường, khoảng từ 33-34°C trong 72 giờ. (1)
+Vào khoảng năm 450 trước Công nguyên, Hippocrates đã nhận ra việc hạ thân nhiệt có thể làm chậm các quá trình sinh học và cái chết. Ông khuyến cáo mọi người bao bọc người bị thương trong tuyết để giảm thiểu mức độ tổn thương, kéo dài sự sống.
+Vào đầu những năm 1800, phương pháp giảm đau bằng làm lạnh được áp dụng trong các cuộc phẫu thuật, không chỉ có tác dụng giảm đau mà còn làm chậm tình trạng chảy máu của bệnh nhân.
+Từ những năm 1930, phương pháp hạ thân nhiệt nhận được nhiều sự quan tâm, đặc biệt sau các báo cáo về hồi sức thành công của bệnh nhân ngạt thở kéo dài do đuối nước. Năm 1943, liệu pháp hạ thân nhiệt đã xuất hiện trên các bài báo khoa học về sự cải thiện sau chấn thương sọ não khi hạ thân nhiệt bệnh nhân từ 38.2 xuống 32.7 độ C.
+Những năm 1990, phương pháp hạ thân nhiệt đã được thực hiện ở 3 bệnh nhân ngừng tim sau khi hồi sức thành công, giúp người bệnh hồi phục hoàn toàn, không có di chứng thần kinh về sau. Năm 2002, một nghiên cứu đã cho thấy tác dụng đáng kể của liệu pháp này đối với khả năng sốt sót ngắn hạn, dài hạn và các ảnh hưởng tích cực đến thần kinh.
+Kỹ thuật hạ thân nhiệt chỉ huy giúp giảm tỷ lệ tử vong, hạn chế biến chứng ở trẻ sơ sinh bị bệnh não thiếu máu cục bộ do giảm oxy.
+Kỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinh
+Kỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinh được áp dụng tại BVĐK Tâm Anh TP.HCM từ năm 2023. Kỹ thuật này được áp dụng cho trẻ sơ sinh bị bệnh não thiếu máu cục bộ thiếu oxy. Bệnh não thiếu máu cục bộ thiếu oxy là trạng thái thần kinh bất thường xảy ra do giảm dòng máu từ mẹ đến thai nhi, gây ra thiếu hụt oxy làm chết tế bào thần kinh và tổn thương các cơ quan khác. Trẻ sơ sinh có biểu hiện: rối loạn hô hấp, thay đổi trương lực cơ, thay đổi tri giác và có thể có co giật.
+Để ngăn chặn các tổn thương não, các bác sĩ sử dụng hệ thống máy làm lạnh hiện đại để hạ thân nhiệt chỉ huy. Máy có cơ chế dẫn nước muối lạnh đi vào bộ đồ đặc biệt bao bọc toàn bộ vùng đầu, toàn thân và phủ tới các chi của trẻ, giúp nhiệt độ trẻ luôn giữ mức 33,5 °C trong vòng 72 giờ.
+Sau 72 giờ, máy sẽ tự động làm ấm trong 6 tiếng đưa thân nhiệt em bé trở về bình thường. Việc giảm nhiệt độ từ 3-4°C so với nhiệt độ cơ thể bình thường có thể làm giảm chấn thương não tiến triển, não giảm phù, giảm viêm, cải thiện tưới máu và cung cấp oxy.
+Vai trò của phương pháp hạ thân nhiệt chỉ huy ở trẻ sơ sinh
+Trước đây, chưa có biện pháp nào có thể ngăn chặn các tổn thương do thiếu oxy não gây ra, trẻ sống sót có nguy cơ bại não, yếu liệt chi, khuyết tật thần kinh, chậm vận động và chậm phát triển trí tuệ. Hiện nay, phương pháp hạ thân nhiệt chỉ huy giúp giảm tỷ lệ tử vong, ngăn ngừa và làm giảm các biến chứng trên thông qua cơ chế giảm chuyển hóa, giảm nhu cầu oxy não, giảm hoạt động của các hóa chất trung gian gây hại.
+Cơ chế gây tổn thương và chết của các tế bào thần kinh do thiếu máu cục bộ, thiếu oxy diễn ra qua nhiều giai đoạn:
+Ban đầu, nếu thiếu oxy nghiêm trọng sẽ có sự giảm hoặc ngừng ngay lập tức việc cung cấp glucose dẫn đến dừng sản xuất năng lượng cho tế bào, làm chết tế bào thần kinh nguyên phát. Đối với tổn thương ít nghiêm trọng hơn, não sẽ ưu tiên duy trì tuần hoàn đến các phần não thiết yếu, như thân não thay vì vỏ não và bán cầu não, trong đó đồi thị và hạch nền bị ảnh hưởng nghiêm trọng nhất.
+Giai đoạn 1 (giai đoạn tiềm ẩn): diễn ra trong giờ đầu tiên sau khi xảy ra biến cố thiếu máu cục bộ giảm oxy và kéo dài trong khoảng 6 giờ. Trong giai đoạn này sẽ có một số sự hồi phục của quá trình nội bào nếu não bộ được cung cấp đầy đủ oxy trở lại, đồng thời cũng xảy ra quá trình tăng phản ứng viêm và tiếp tục chết tế bào não theo chương trình. Vì vậy đây là giai đoạn được nhắm đến để bắt đầu liệu pháp hạ thân nhiệt chỉ huy.
+Giai đoạn 2 (giờ thứ 6 đến 3 ngày): đặc trưng bởi tổn thương gốc tự do, suy ty thể, chết tế bào dẫn tới tình trạng lâm sàng xấu đi, thường gây nên tình trạng có giật.
+Giai đoạn 3: kéo dài hàng tháng sau, xảy ra quá trình tái cấu trúc và sự chết tế bào muộn.
+Thời gian chuyển giao từ chết tế bào thần kinh nguyên phát sang chết tế bào thần kinh thứ phát kéo dài trong khoảng 6 giờ. Do đó, trẻ sơ sinh bị bệnh não thiếu máu cục bộ do giảm oxy cần được hồi sức trước khi quá trình tổn thương, chết của các tế bào thần kinh chuyển qua giai đoạn 2.
+Vì vậy phương pháp hạ thân nhiệt chỉ huy ở trẻ sơ sinh được thực hiện sớm trong vòng 6 giờ đầu đời, có tác dụng ngăn chặn các tế bào thần kinh chết theo lập trình, đồng thời giảm trao đổi chất ở não bộ, bảo vệ hệ thần kinh.
+Hạ thân nhiệt chỉ huy giúp giảm tổn thương não bộ và các biến chứng thần kinh về sau.
+Một số biến chứng của kỹ thuật hạ thân nhiệt chỉ huy
+Phương pháp hạ thân nhiệt chỉ huy ở trẻ sơ sinh được đánh giá là tương đối an toàn. Tuy nhiên, một số trường hợp bệnh nhi gặp phải tác dụng phụ trên tuần hoàn, hô hấp,… nhưng không đáng kể so với lợi ích mà nó đem lại.
+Các biến chứng có thể xảy ra bao gồm: (2)
+Biến chứng tim mạch: nhịp tim chậm, hạ huyết áp.
+Biến chứng hô hấp: cao áp phổi, giảm sản xuất chất hoạt động bề mặt phổi (surfactant), co mạch phổi.
+Rối loạn điện giải.
+Rối loạn đông máu.
+Rối loạn miễn dịch, nhiễm trùng huyết.
+Rối loạn chức năng tiêu hóa.
+Các biến chứng này sẽ được theo dõi sát và điều trị kịp thời.
+Quy trình hạ thân nhiệt chỉ huy
+Trước khi thực hiện kỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinh, bác sĩ sẽ thông báo rõ tình trạng bệnh của trẻ, các lợi ích của phương pháp, các nguy cơ biến chứng trong quá trình điều trị cũng như kinh phí cho người nhà. Mục tiêu của phương pháp hạ thân nhiệt chỉ huy là đưa thân nhiệt trung tâm xuống 33.5 độ C trong vòng khoảng 90 phút, sau đó duy trì nhiệt độ này trong 72 giờ rồi tăng dần nhiệt độ về mức bình thường (36.5 độ C), tốc độ tăng được kiểm soát trong khoảng 0.5 độ C/giờ. (3)
+Các giai đoạn của hạ thân nhiệt chỉ huy
+Hạ thân nhiệt chỉ huy ở trẻ sơ sinh bao gồm 3 giai đoạn:
+Giai đoạn cảm ứng: Bác sĩ hạ nhanh thân nhiệt bệnh nhân xuống 33.5 độ C trong vòng 1 – 2 giờ. Tùy vào tình trạng cụ thể của bệnh nhân, quá trình này có thể được thực hiện ngay trên xe cứu thương hoặc khi bệnh nhân nhập viện.
+Giai đoạn duy trì: Giai đoạn này đòi hỏi bệnh nhân cần được theo dõi thân nhiệt liên tục để duy trì chính xác nhiệt độ mục tiêu, ngăn ngừa tình trạng lạnh quá. Bác sĩ đo nhiệt độ trung tâm cơ thể bằng cách theo dõi nhiệt độ tại hậu môn, đồng thời theo dõi nhiệt độ da liên tục cho trẻ. Nhiệt độ mục tiêu được duy trì trong 72 giờ.
+Giai đoạn làm ấm lại: Thân nhiệt của bệnh nhân được tăng dần 0.5 độ C trong khoảng 6 giờ cho đến khi thân nhiệt đạt 36.5 độ C để tránh biến chứng phù phổi cấp, rối loạn huyết động.
+Hạ thân nhiệt trị liệu đối với trẻ sinh non.
+Kỹ thuật hạ thân nhiệt chỉ huy ở trẻ sơ sinh ứng dụng khi nào?
+Tại Trung tâm Sơ sinh BVĐK Tâm Anh TP.HCM, kỹ thuật hạ thân nhiệt chỉ huy được thực hiện khi trẻ sơ sinh thõa 3 tiêu chí sau:
+Tuổi thai ≥ 36 tuần tuổi thai, cân nặng lúc sinh ≥ 1800gram và trước 6 giờ tuổi.
+Có bằng chứng thiếu oxy lúc sinh: có ít nhất 1 trong các điểm sau:
+Khí máu (máu rốn hoặc máu động mạch/tĩnh mạch) trong 1 giờ đầu sau sinh: độ pH < 7.0 kiềm thiếu ≥16mmol/L.
+Khí máu trong 1 giờ có pH 7-7.15, kiềm thiếu 10-15.9 cộng với biến cố chu sinh cấp:
+Nhau bong non.
+Sa dây rốn.
+Bất thường nhịp tim thai nặng.
+Tim thai giảm muộn hoặc thay đổi.
+Mẹ chấn thương, xuất huyết, ngưng tim ngưng thở và có điểm Apgar dưới 5 điểm ở phút thứ 10 sau sinh hoặc cần thông khí áp lực dương ≥ 10 phút.
+Có bằng chứng cho thấy bệnh nhi mắc bệnh não thiếu máu cục bộ thiếu oxy từ mức độ trung bình đến nặng.
+Tiêu chuẩn loại trừ của điều trị hạ thân nhiệt chỉ huy ở trẻ sơ sinh:
+Trên 6 giờ tuổi.
+Sinh non < 36 tuần.
+Cân nặng lúc sinh < 1800gram.
+Bệnh chuyển hóa bẩm sinh.
+Nhiễm trùng nặng.
+Đa dị tật.
+Để biết thêm thông tin về cách chăm sóc trẻ và những vấn đề về sức khỏe khác của trẻ, bạn có thể liên hệ tới bệnh viện theo địa chỉ:
+Hy vọng với những thông tin trên, bạn đọc đã hiểu rõ hơn về liệu pháp hạ thân nhiệt chỉ huy ở trẻ sơ sinh cũng như vai trò của nó trong chăm sóc hồi sức. Hiện nay, tại Trung tâm Sơ sinh – Bệnh viện Đa khoa Tâm Anh, kỹ thuật này đã được đưa vào chăm sóc hồi sức cho các em bé sơ sinh nhằm giúp giảm thiểu nguy cơ tử vong và các biến chứng nguy hiểm.

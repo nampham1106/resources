@@ -1,0 +1,145 @@
+# doc_id = health_disease_1554
+# url = https://tamanhhospital.vn/ung-thu-hach-bach-huyet/
+# date = 24/07/2023
+Ung thư hạch bạch huyết (lymphoma): Dấu hiệu, nguyên nhân và chẩn đoán
+Hệ thống miễn dịch là mạng lưới phức tạp được tạo thành bởi các tế bào, các chất và mô cơ quan có tác dụng giúp cơ thể chống lại nhiễm trùng và các bệnh lý khác, bao gồm các tế bào bạch cầu, các cơ quan (tuyến ức, lách, amidan, mạch máu bạch huyết, hạch bạch huyết và tủy xương). Ung thư hạch bạch huyết là một trong số các loại bệnh ác tính thường gặp của hệ thống miễn dịch và là một trong số các loại ung thư có thể điều trị khỏi.
+Mục lụcUng thư hạch bạch huyết là gì?Nguyên nhân bệnh sinh của ung thư hạch bạch huyếtDấu hiệu ung thư hạch bạch huyếtCác loại u lympho phổ biếnU lympho không HodgkinU lympho HodgkinUng thư hạch bạch huyết sống được bao lâu?Đối với bệnh nhân ung thư hạch không HodgkinĐối với bệnh nhân u lympho HodgkinChẩn đoán bệnh ung thư hạch bạch huyếtĐiều trị ung thư hạch bạch huyếtCách phòng ngừa bệnh ung thư hạch bạch huyếtChế độ dinh dưỡng cho người bệnh ung thư hạch bạch huyếtUng thư hạch bạch huyết là gì?
+Ung thư hạch bạch huyết (lymphoma) là sự phân chia mất kiểm soát của các tế bào bạch cầu lympho, gây ảnh hưởng đến các các cơ quan trong hệ thống bạch huyết cũng như cơ quan khác trong cơ thể. Bao gồm 2 loại chính: u lympho không Hodgkin (khoảng 90%) và u lympho Hodgkin. Nhìn chung u lympho không Hodgkin có tiên lượng xấu và điều trị khó khăn hơn so với u lympho Hodgkin.
+Theo ghi nhận của Tổ chức Ung thư Toàn cầu GLOBOCAN 2020, (1) thế giới có khoảng 545.000 người mắc mới và gần 260.000 ca tử vong do ung thư hạch bạch huyết. Theo thống kê tại Việt Nam năm 2020 cho u lympho không Hodgkin ghi nhận hơn 3.700 ca mắc mới và là nguyên nhân gây tử vong cho hơn 2.200 người, đứng vị trí thứ 13 trong các loại ung thư phổ biến tại Việt Nam. (2)
+Ung thư hạch bạch huyết có thể xảy ra ở trẻ em, thanh thiếu niên và người trưởng thành. Tỷ lệ mắc ung thư hạch bạch huyết trên nam giới cao hơn phụ nữ, thường xảy ra ở các nhóm độ tuổi 35-40. Trung bình độ tuổi mắc bệnh được ghi nhận vào khoảng từ 50-60 tuổi. Hiện nay, tỷ lệ mắc ung thư hạch bạch huyết có xu hướng tăng, thường gặp ở người lớn tuổi.
+U lympho không Hodgkin là nguyên nhân gây tử vong đứng thứ 13 tại Việt Nam (2020)
+Nguyên nhân bệnh sinh của ung thư hạch bạch huyết
+Các yếu tố về môi trường, di truyền, nhiễm trùng được cho là có mối tương quan tới sinh bệnh của ung thư hạch bạch huyết, gồm có: (3)
+Tuổi tác: Ung thư hạch không chỉ xuất hiện ở người lớn tuổi, trên 55 tuổi mà còn phổ biến ở độ tuổi trẻ, thậm chí trẻ em được ghi nhận mắc ung thư hạch bạch huyết.
+Nhiễm khuẩn: Tình trạng nhiễm Helicobacter Pylori trong u lympho MALT, Borrelia burgdorferi, Chlamydia psittaci, Campylobacter jejuni, vi-rút viêm gan C,… Kích thích mạn tính mô bạch huyết, nhiễm virus Epstein-Barr và CMV cũng được cho là làm tăng nguy cơ phát triển bệnh.
+Tình trạng suy giảm miễn dịch: Tình trạng nhiễm HIV, ghép tạng, các rối loạn gây thiếu hụt miễn dịch di truyền.
+Các bệnh lý tự miễn: Một số bệnh tự miễn như viêm khớp dạng thấp, bệnh viêm ruột, hội chứng Sjögren… tăng nguy cơ ung thư hạch bạch huyết.
+Thuốc: Các thuốc ức chế miễn dịch được sử dụng sau ghép tạng,…
+Phơi nhiễm nghề nghiệp: Thuốc diệt cỏ, thuốc trừ sâu,…
+Yếu tố địa lý: U lympho NK/T ngoài hạch được thấy nhiều ở các nước Đông Nam Á và Mỹ La-tinh.
+Dấu hiệu ung thư hạch bạch huyết
+Một số dấu hiệu ung thư hạch bạch huyết điển hình như: (4)
+Xuất hiện các nốt hạch sưng tấy, có thể nhìn thấy hoặc sờ được, thường ở vị trí nách, cổ, bẹn.
+Triệu chứng toàn thân: sốt không rõ nguyên nhân, sụt cân, đổ mồ hôi đêm, mệt mỏi, chán ăn.
+Xuất huyết, chảy máu.
+Phát ban, ngứa.
+Nổi hạch là dấu hiệu thường gặp của ung thư hạch bạch huyết
+Ở giai đoạn bệnh tiến triển, các triệu chứng tăng dần về tần suất và mức độ như:
+Đau lưng, triệu chứng thần kinh, rối loạn đại-tiểu tiện do chèn ép tủy sống.
+Các triệu chứng của thiếu máu (da xanh xao, mệt mỏi, ù tai, trống ngực,…) do tế bào u xâm nhập tủy.
+Nhức đầu, hôn mê, co giật, bệnh thần kinh sọ não do u lympho thâm nhập màng não hoặc hệ thần kinh trung ương.
+Khó thở, thở rít, thở khò khè, thở nhanh, thở gấp do tắc nghẽn đường thở.
+Đau ngực, hạ huyết áp, phù ngoại vi do chèn ép màng ngoài tim.
+Chèn ép tĩnh mạch chủ trên.
+Nôn, nôn ra máu, vàng da, táo bón do tắc nghẽn đường tiêu hóa hoặc suy gan.
+Đau hông, đau vùng chậu, tiểu khó, tiểu ra máu do thận ứ nước hoặc suy thận.
+Suy tim, rối loạn nhịp tim, co giật, chuột rút cơ.
+Đau đầu, thị lực kém, chóng mặt, ù tai, dáng đi không ổn định do ứ/tăng bạch cầu.
+Để biết chắc chắn các dấu hiệu kể trên liệu có phải dấu hiệu u lympho hay không, người bệnh cần đến các bệnh viện để bác sĩ thăm khám và thực hiện các kiểm tra cận lâm sàng chẩn đoán.
+Các loại u lympho phổ biến
+U lympho không Hodgkin
+U lympho không Hodgkin (NHL) là nhóm bệnh lý ác tính bắt nguồn từ sự tăng sinh bất thường của các tế bào dòng lympho B và lympho T, có thể biểu hiện ở các mô bạch huyết của cơ thể (như hạch, lách, tủy xương, các vị trí ngoài hạch (đường tiêu hóa, vú, màng phổi, ổ mắt,…). Các yếu tố nguy cơ cao phát triển bệnh như bất thường di truyền, nhiễm trùng, viêm mạn, độc tố. (5)
+Sự tăng sinh mất kiểm soát ở tế bào B, tế bào T gây u lympho không Hodgkin
+U lympho Hodgkin
+U lympho Hodgkin là bệnh lý tân sinh đơn dòng lympho hiếm gặp của hệ thống bạch huyết, thường gặp ở người trẻ tuổi (độ tuổi từ 20-40), biểu hiện bệnh hạch vùng cổ và sự xuất hiện của các tế bào Reed-Sternberg trong bệnh phẩm hạch. Nhìn chung bệnh có tiên lượng tốt, tỷ lệ chữa khỏi cao. Hơn một nửa các ca bệnh u lympho Hodgkin có liên quan tới virus Epstein-Barr (EBV). Các yếu tố nguy cơ mắc bệnh khác như tiền sử gia đình và nhiễm HIV/AIDS. (6)
+Ung thư hạch bạch huyết sống được bao lâu?
+Tiên lượng ung thư hạch bạch huyết sống được bao lâu phụ thuộc vào các yếu tố như:
+Các yếu tố về người bệnh: như tuổi tác, các bệnh lý nội-ngoại khoa đi kèm, sự tuân thủ điều trị, tính đáp ứng và dung nạp với các phác đồ điều trị.
+Các yếu tố về bệnh: giai đoạn bệnh, thể giải phẫu bệnh, đặc trưng về sinh học phân tử,…
+Do đó, người bệnh nên thăm khám trực tiếp với bác sĩ chuyên khoa Ung bướu để được kiểm tra tình trạng sức khỏe, bệnh lý; từ đó bác sĩ có thể tư vấn cụ thể về hướng điều trị và tiên lượng sống còn.
+Đối với bệnh nhân ung thư hạch không Hodgkin
+Tiên lượng sống còn tương đối 5 năm ước tính với bệnh nhân mắc ung thư hạch không Hodgkin khoảng 74% (thống kê SEER từ năm 2013 – 2019). Tuy nhiên, tỷ lệ này sẽ có những biến đổi phụ thuộc vào các yếu tố khác như các yếu tố về người bệnh, giai đoạn bệnh, loại giải phẫu bệnh,…
+Hai loại thường gặp của u lympho không Hodgkin là: u lympho tế bào B lớn lan tỏa và u lympho thể nang. Theo đó, tỷ lệ sống còn 5 năm (thực hiện bởi SEER 2012 – 2018) được thể hiện như sau:
+U lympho tế bào B lớn lan tỏa
+Giai đoạn bệnh
+Tỷ lệ sống còn toàn bộ 5 năm
+Khu trú
+73%
+Tại vùng
+74%
+Di căn
+58%
+Tất cả các giai đoạn
+65%
+U lympho thể nang
+Giai đoạn bệnh
+Tỷ lệ sống còn trong 5 năm
+Khu trú
+97%
+Tại vùng
+91%
+Di căn
+87%
+Tất cả các giai đoạn
+90%
+Đối với bệnh nhân u lympho Hodgkin
+Đối với bệnh nhân mắc u lympho Hodgkin, tỷ lệ sống còn tương đối trong 5 năm (thực hiện bởi SEER 2012 – 2018) được thể hiện như sau:
+Giai đoạn bệnh
+Tỷ lệ sống sót trong 5 năm
+Khu trú
+93%
+Tại vùng
+95%
+Di căn
+83%
+Tất cả các giai đoạn
+89%
+Ngoài ra một số tiên lượng tốt cho bệnh nhân khi chẩn đoán và điều trị bệnh:
+Dưới 60 tuổi
+Bệnh ở giai đoạn 1 hoặc 2
+Thể trạng tốt, không ghi nhận bệnh nền nghiêm trọng
+Nồng độ lactate dehydrogenase (LDH) trong máu bình thường
+Dựa vào các thống kê, những bệnh nhân mắc u lympho Hodgkin, u lympho thể nang có tiên lượng điều trị tốt hơn những loại khác, đặc biệt khi bệnh được phát hiện ở giai đoạn sớm. Vì vậy, khi có các biểu hiện nghi ngờ thì người bệnh cần đến thăm khám ngay tại các bệnh viện uy tín để được chẩn đoán bệnh sớm, tiếp cận phương pháp điều trị phù hợp, tăng khả năng điều trị khỏi bệnh.
+Chẩn đoán bệnh ung thư hạch bạch huyết
+Một số phương pháp chẩn đoán ung thư hạch phổ biến như sau: (7)
+Khám lâm sàng: Bác sĩ khai thác tiền sử cá nhân – gia đình, các triệu chứng như sốt, gầy sút cân, đổ mồ hôi đêm. Khám toàn thân, hệ thống hạch và các cơ quan khác.
+Sinh thiết hạch: Hạch nghi ngờ bệnh lý sẽ được bác sĩ lấy trọn gửi đi xét nghiệm giải phẫu bệnh, nhuộm hóa mô miễn dịch định týp và hướng dẫn điều trị.
+Xét nghiệm máu: Phương pháp này nhằm kiểm tra số lượng tế bào, đánh giá nồng độ LDH, chức năng gan – thận, xét nghiệm virus viêm gan trước điều trị,…
+Xét nghiệm khác: Người bệnh có thể được chỉ định siêu âm tim đánh giá chức năng tim mạch trước điều trị, chọc hút và sinh thiết tủy (khi có chỉ định),…
+Chẩn đoán hình ảnh – Y học hạt nhân: Phương pháp này nhằm đánh giá giai đoạn bệnh trước điều trị. Các kỹ thuật có thể tiến hành như siêu âm, chụp cắt lớp vi tính, PET/CT,…
+Xét nghiệm máu được tiến hành trước điều trị ung thư hạch bạch huyết
+Việc xác định loại giải phẫu bệnh cũng như đánh giá chính xác giai đoạn bệnh là điều kiện tiên quyết giúp bác sĩ tiên lượng bệnh, đưa ra phác đồ điều trị phù hợp nhất cho người bệnh.
+Điều trị ung thư hạch bạch huyết
+Lựa chọn các phương pháp điều trị phụ thuộc vào nhiều yếu tố như giai đoạn bệnh, loại giai đoạn bệnh, tính chất sinh học phân tử, vị trí biểu hiện (hạch, hệ thần kinh trung ương, đường tiêu hóa,…), tình trạng sức khỏe chung người bệnh.
+Các phương pháp điều trị gồm:
+Hóa trị: Đây là liệu pháp điều trị toàn thân, sử dụng các thuốc hóa chất để tiêu diệt tế bào ung thư.
+Xạ trị: Đây là phương pháp điều trị sử dụng bức xạ ion hóa để tiêu diệt các tế bào ung thư.
+Liệu pháp sinh học, liệu pháp miễn dịch
+Ghép tế bào gốc: Hóa trị liều cao nhằm tiêu diệt các tế bào ung thư, đồng thời phá hủy các tế bào lành trong tủy xương của người bệnh. Sau đó các tế bào gốc được cấy vào tủy xương nhằm tạo ra các tế bào máu mới. Hai loại cấy ghép tế bào gốc phổ biến gồm cấy tế bào tự thân (sử dụng tế bào gốc của chính người bệnh) và tế bào gốc từ người hiến tặng (thường là người thân).
+Loại ung thư
+Phương pháp
+U lympho Hodgkin
+U lympho không Hodgkin
+Hóa trị
+✅
+✅
+Xạ trị
+✅
+✅
+Liệu pháp miễn dịch
+✅
+✅
+Liệu pháp nhắm trúng đích
+✅
+✅
+Ghép tế bào gốc
+✅
+✅
+Cách phòng ngừa bệnh ung thư hạch bạch huyết
+Thực tế không có phương pháp nào được chứng minh có thể ngăn ngừa ung thư hạch bạch huyết, ngoại trừ phòng tránh nhiễm HIV.
+Tuy có tiên lượng tốt và được xem là một trong số ít các loại ung thư có thể điều trị khỏi, nhưng không vì thế mà chúng ta chủ quan trước các nguy cơ mắc ung thư hạch bạch huyết. Một số khuyến nghị của bác sĩ trong việc giảm thiểu nguy cơ mắc ung thư hạch gồm:
+Kiểm soát cân nặng: Thừa cân, béo phì được cho là yếu tố nguy cơ gây ung thư hạch bạch huyết cũng như các bệnh lý, ung thư nghiêm trọng khác.
+Hạn chế tiếp xúc hóa chất: Benzen trong các chất trừ sâu, thuốc diệt cỏ có thể gây nguy cơ tiến triển ung thư máu, ung thư hạch bạch huyết. Nếu làm việc trong môi trường tiếp xúc với các hóa chất độc hại, chúng ta cần trang bị đồ bảo hộ lao động.
+Tránh tiếp xúc tia bức xạ: Các tia bức xạ có khả năng thay đổi thành phần trong máu, do đó nên hạn chế tiếp xúc với các tia bức xạ,…
+Thường xuyên tập thể dục, thể thao: Việc duy trì các hoạt động thể dục, thể thao giúp tăng cường sức khỏe, cải thiện hệ thống miễn dịch. Cần tập thể dục ít nhất 30 phút mỗi ngày.
+Chế độ dinh dưỡng: Chế độ ăn nên bổ sung các loại ngũ cốc, rau xanh, trái cây; hạn chế các chất béo, thịt đỏ, đồ ăn chế biến sẵn,…; tránh hút thuốc lá, sử dụng rượu bia, chất kích thích.
+Chế độ dinh dưỡng cho người bệnh ung thư hạch bạch huyết
+Các dấu hiệu cũng như quá trình điều trị ung thư hạch bạch huyết ảnh hưởng nhiều đến cuộc sống của người bệnh, đặc biệt trong vấn đề ăn uống. Xây dựng chế độ dinh dưỡng cho bệnh nhân ung thư hạch phù hợp góp phần nâng cao sức khỏe, tiếp thêm năng lượng để người bệnh chiến đấu với bệnh tật.
+Nguyên tắc dinh dưỡng cho bệnh nhân ung thư hạch:
+Cung cấp đầy đủ protein (chất đạm), Glucid (tinh bột), Lipid (chất béo)…
+Bổ sung vitamin, khoáng chất có trong rau củ quả, trái cây tươi, đặc biệt cần bổ sung canxi, vitamin D để giúp xương chắc khỏe.
+Uống nhiều nước, duy trì 2 lít/ngày.
+Chia thành nhiều bữa ăn nhỏ trong ngày.
+Ngoài ra các bài tập vận động nhẹ, thể thao tăng cường sức khỏe cũng được khuyến nghị. Hãy hỏi thêm ý kiến bác sĩ dinh dưỡng để lựa chọn thực phẩm và chế biến món ăn phù hợp với sở thích và quá trình điều trị ung thư của người bệnh.
+Để đặt lịch thăm khám, tầm soát và điều trị ung thư hạch tại Bệnh viện Đa khoa Tâm Anh, bạn có thể liên hệ:
+Ung thư hạch (u lympho) không lây từ người này sang người khác song có tính di truyền cũng như các yếu tố nguy cơ cao. Do đó, mỗi người, đặc biệt là những người nguy cơ cao cần thăm khám sức khỏe định kỳ và chủ động tầm soát ung thư để phát hiện sớm và điều trị kịp thời, bảo vệ sức khỏe.

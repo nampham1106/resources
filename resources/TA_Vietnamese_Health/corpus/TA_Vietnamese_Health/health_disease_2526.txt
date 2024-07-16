@@ -1,0 +1,76 @@
+# doc_id = health_disease_2526
+# url = https://tamanhhospital.vn/cac-loai-ung-thu-phoi/
+# date = 18/03/2024
+Các loại ung thư phổi thường gặp hiện nay
+Nhiều người thắc mắc hai loại ung thư phổi không tế bào nhỏ và ung thư phổi tế bào nhỏ có những đặc điểm gì khác nhau? Thực tế đây là 2 loại ung thư phổi phổ biến nhất, chiếm tỷ lệ hơn 90% trường hợp chẩn đoán mới. Việc tìm hiểu thông tin các loại ung thư phổi thường gặp hiện nay là cách giúp nâng cao ý thức dự phòng bệnh tật ở mỗi người.
+Mục lụcBạn có biết Ung thư phổi là gì không?Các loại ung thư phổi thường gặp1. Ung thư phổi tế bào nhỏ2. Ung thư phổi không tế bào nhỏCác loại ung thư phổi có mấy giai đoạn?1. Giai đoạn bệnh ung thư phổi tế bào nhỏ2. Giai đoạn bệnh ung thư phổi không tế bào nhỏTiên lượng sống đối với các loại ung thư phổi có khác nhau không?Cách chẩn đoán phân biệt các loại ung thư phổiPhương pháp điều trị ung thư phổiCó thể phòng ngừa các loại ung thư phổi không?Bạn có biết Ung thư phổi là gì không?
+Ung thư phổi (Lung Cancer) là một bệnh lý ác tính do sự phân chia mất kiểm soát của các tế bào bất thường trong phổi. Các tế bào ác tính không ngừng phân chia tạo thành các nốt, khối u khiến phổi không thể hoạt động bình thường. (1)
+Có hai loại ung thư phổi chính gồm: Ung thư phổi không tế bào nhỏ (Non small cell lung cancer – NSCLC) và Ung thư phổi tế bào nhỏ (Small cell lung cancer – SCLC).
+Có mấy loại ung thư phổi phổ biến hiện nay?
+Theo số liệu từ Tổ chức Ung thư Toàn cầu (GLOBOCAN) năm 2020, ung thư phổi đứng thứ 2 tại Việt Nam cả về số lượng ca mắc mới (26.262) và trường hợp tử vong (23.797). Hầu hết các trường hợp chẩn đoán ung thư phổi đều ở giai đoạn tiến xa, dẫn đến hiệu quả điều trị thấp và khả năng phục hồi kém.
+Các loại ung thư phổi thường gặp
+1. Ung thư phổi tế bào nhỏ
+Ung thư phổi tế bào nhỏ chiếm khoảng 10-15% bệnh nhân ung thư phổi. Đây là loại ung thư phổi nguy hiểm nhất và phát triển nhanh nhất. Ung thư phổi tế bào nhỏ liên quan mật thiết với thói quen hút thuốc lá. Bệnh có thể di căn nhanh đến nhiều vị trí trong cơ thể và thường được phát hiện trễ, khi tế bào ung thư đã xâm lấn và di căn cơ quan khác. (2)
+2. Ung thư phổi không tế bào nhỏ
+Ung thư phổi không tế bào nhỏ là loại ung thư phổi phổ biến nhất, chiếm khoảng 85% tổng số trường hợp chẩn đoán mới. Ung thư phổi không tế bào nhỏ có hai phân nhóm chính được chia theo loại tế bào tìm thấy trong khối u. Bao gồm: (3)
+Ung thư biểu mô tuyến là loại ung thư phổi không tế bào nhỏ phổ biến nhất, chiếm tới 40% trường hợp ung thư phổi không tế bào nhỏ. Bệnh có liên quan trực tiếp đến thói quen hút thuốc lá. Đáng chú ý, bệnh cũng có thể xuất hiện ở những người không hút thuốc lá, đặc biệt là phụ nữ. Hầu hết các ung thư biểu mô tuyến thường có khối u ở vị trí ngoại vi của phổi. (4)
+Ung thư biểu mô tế bào vảy chiếm khoảng 25-30% tổng số trường hợp ung thư phổi không tế bào nhỏ. Ung thư tế bào vảy thường có khối u xuất hiện ở trung tâm phổi.
+Ung thư biểu mô tế bào lớn là loại ung thư phổi không tế bào nhỏ ít gặp, chiếm 10-15% trong tất cả các trường hợp ung thư phổi không tế bào nhỏ.
+Các loại ung thư phổi có mấy giai đoạn?
+Ung thư thường được phân loại dựa trên kích thước của khối u ban đầu và mức độ xâm lấn các mô xung quanh (T = Tumor); tình trạng di căn đến các hạch bạch huyết (N = Node); và có di căn các cơ quan khác hay không (M = Metastasis). Mỗi loại ung thư đều có những tiêu chí riêng để phân giai đoạn.
+1. Giai đoạn bệnh ung thư phổi tế bào nhỏ
+Trong thực hành lâm sàng, ung thư phổi tế bào nhỏ được chia thành 2 giai đoạn chính:
+Giai đoạn khu trú: Tế bào ung thư xuất hiện ở một bên phổi và các hạch bạch huyết (bao gồm hạch trung thất, hạch trên đòn) cùng bên với phổi có u.
+Giai đoạn lan tràn: Tế bào ung thư lan rộng, đến phổi và các hạch bạch huyết đối bên phổi có u, lan rộng ra ngoài phổi, di căn đến các cơ quan khác (não, gan, xương, thượng thận…).
+Hầu hết các trường hợp phát hiện mắc ung thư phổi thường ở giai đoạn muộn do triệu chứng ung thư phổi giai đoạn đầu không đặc trưng.
+2. Giai đoạn bệnh ung thư phổi không tế bào nhỏ
+Ung thư phổi không tế bào nhỏ bao gồm 4 giai đoạn, tương ứng với mức độ lây lan của tế bào ung thư. Việc xác định ung thư thuộc giai đoạn nào giúp bác sĩ đưa ra kế hoạch điều trị phù hợp cũng như có thể đánh giá được tiên lượng và dự hậu của bệnh. Giai đoạn ung thư phổi không tế bào nhỏ bao gồm:
+Giai đoạn 0 (tại chỗ): Ung thư nằm ở lớp lót trong cùng của phổi hoặc phế quản, ung thư chưa lan sang các phần khác của phổi hoặc ra ngoài phổi.
+Giai đoạn I: Ung thư khu trú tại một bên phổi, chưa lan ra ngoài phổi nên có thể tiến hành phẫu thuật cắt bỏ. Giai đoạn này được chia thành 2 giai đoạn bao gồm giai đoạn IA (u <3cm) và giai đoạn IB (u > 3cm nhưng < 4cm).
+Giai đoạn II: Tế bào ung thư đã lan đến các hạch bạch huyết cùng bên phổi có u hoặc có nhiều khối u trong cùng một thùy của phổi, chưa ghi nhận di căn cơ quan xa. Giai đoạn II chia thành IIA và IIB.
+Giai đoạn III: Tế bào ung thư đã lan đến các hạch hoặc cấu trúc lân cận, hoặc có nhiều khối u ở một thùy khác của cùng một phổi. Giai đoạn III được phân chia thành các giai đoạn: IIIA, IIIB và IIIC, tương ứng với kích thước khối u lớn và xâm lấn các hạch bạch huyết xung quanh, chưa di căn cơ quan xa.
+Giai đoạn IV: Ung thư đã lan sang phổi còn lại, tràn dịch màng phổi, tràn dịch màng tim, hoặc di căn các cơ quan ở xa.
+Tiên lượng sống đối với các loại ung thư phổi có khác nhau không?
+Tiên lượng sống sau 5 năm ở bệnh nhân ung thư có thể được hiểu là tỷ lệ phần trăm bệnh nhân được kỳ vọng sẽ còn sống trong vòng 5 năm sau khi mắc bệnh ung thư. Các số liệu này thường mang ý nghĩa dự đoán, không giống nhau ở tất cả mọi người, do có những yếu tố tuổi tác, bệnh nền, loại ung thư, thời điểm phát hiện bệnh, khả năng đáp ứng điều trị của mỗi cá thể…
+Có sự khác biệt giữa tỷ lệ sống sau 5 năm của ung thư phổi tế bào nhỏ và ung thư phổi không tế bào nhỏ.
+Theo thống kê, tỷ lệ sống sau 5 năm của bệnh nhân ung thư phổi không tế bào nhỏ từ lúc chẩn đoán là khoảng 22,9%. Ung thư phổi được phát hiện càng sớm, cơ hội sống sau 5 năm từ lúc chẩn đoán càng cao. Tuy nhiên, chỉ khoảng 20,7% bệnh nhân được chẩn đoán ở giai đoạn ung thư khu trú ở phổi và tỷ lệ sống sau 5 năm đối với giai đoạn này là 62,8%.
+Trong khi đó, tiên lượng sống sau 5 năm đối với bệnh ung thư phổi tế bào nhỏ ở Hoa Kỳ là 8% đối với phụ nữ và 6% đối với nam giới. Nếu tế bào ung thư khu trú tại phổi, tiên lượng sống sau 5 năm là 30%. Nếu bệnh ở giai đoạn tiến xa, tiên lượng sống sau 5 năm là 18% và giảm xuống chỉ còn 3% nếu tế bào ung thư đã di căn cơ quan xa. Thực tế có đến 94% người mắc ung thư phổi tế bào nhỏ được chẩn đoán bệnh khi tế bào ung thư đã lây lan sang các khu vực – cơ quan lân cận.
+Cách chẩn đoán phân biệt các loại ung thư phổi
+Các xét nghiệm, chẩn đoán hình ảnh giúp xác định bệnh nhân mắc ung thư phổi tế bào nhỏ hay ung thư phổi không phải tế bào nhỏ gồm:
+Sinh thiết: Để sinh thiết bướu phổi nguyên phát có thể dùng các phương pháp sau:
+Nội soi phế quản sinh thiết nếu bướu ở trung tâm (1).
+Sinh thiết bướu phổi bằng kim xuyên thành ngực dưới hướng dẫn của CT hoặc siêu âm, nếu bướu ở gần thành ngực (2).
+Phẫu thuật nội soi nếu (1) và (2) thất bại hoặc không thực hiện được.
+Mẫu sinh thiết này sẽ được đánh giá dưới kính hiển vi nhằm xác định loại tế bào ung thư phổi, mức độ tế bào xâm lấn. Đây là căn cứ để chẩn đoán xác định mắc bệnh ung thư phổi.
+Đôi khi việc sinh thiết bằng các phương pháp nói trên không thực hiện được thì có thể dùng các phương pháp sau:
+Sinh thiết bằng kim nhỏ dưới sự hướng dẫn của siêu âm.
+Chọc dò màng phổi, làm cell block để tìm tế bào ác tính.
+Chụp X-quang phổi: Đây là phương pháp đơn giản nhất, đôi khi có thể được thực hiện để đánh giá các nốt – khối bất thường trong phổi.
+Chụp cắt lớp vi tính CT-scan: Kỹ thuật này nhằm đánh giá kích thước, vị trí của khối u trong phổi, mức độ xâm lấn các cơ quan lân cận, cũng như để phát hiện sự lan rộng của bệnh đến các hạch bạch huyết và các cơ quan khác.
+Chụp CT phổi liều thấp tầm soát ung thư phổi giai đoạn sớm bằng máy CT 768 lát cắt tại Bệnh viện Tâm Anh
+Chụp PET-CT: Kỹ thuật này được áp dụng để đánh giá hoạt động của các tế bào ung thư trong cơ thể bằng cách sử dụng một chất phóng xạ. Các tế bào ung thư sẽ hấp thu nhiều chất phóng xạ hơn các tế bào bình thường và sáng hơn trên hình ảnh PET-CT.
+Phương pháp điều trị ung thư phổi
+Ung thư phổi được điều trị theo nhiều cách, tùy thuộc vào các yếu tố sau: loại ung thư phổi, giai đoạn bệnh, loại đột biến gen ghi nhận được, thể trạng của bệnh nhân cũng như các bệnh nền đi kèm. (4)
+Các phương pháp điều trị ung thư phổi: có thể bao gồm một trong các phương pháp sau:
+Phẫu thuật: Có 3 loại chính:
+Cắt hình chêm: Đối với u < 3cm với chẩn đoán xác định là tế bào ung thư biểu mô tại chỗ.
+Cắt bỏ thùy: Cắt trọn thùy phổi mang khối u, được chỉ định đối với trường hợp khối u chỉ ở một phần của thùy phổi.
+Cắt phổi: Kỹ thuật này thường ít được áp dụng hơn 2 phương pháp phẫu thuật trên, toàn bộ phổi một bên có thể bị cắt bỏ nếu vị trí khối u nằm giữa phổi hoặc đã lan rộng khắp phổi. Trường hợp này ngày càng ít được chỉ định, nhờ vào sự tiến bộ của các phương pháp điều trị khác (hóa trị, xạ trị, liệu pháp nhắm trúng đích, liệu pháp miễn dịch…).
+Xạ trị: Đây là phương pháp sử dụng tia X (tia xạ) để điều trị ung thư. Tia xạ làm tổn thương tế bào ung thư, khiến chúng ngừng sinh sản và chết đi. Xạ trị có thể được sử dụng theo nhiều cách khau: có thể xạ trị triệt để cho khối u tại phổi và hạch vùng xung quanh khối u; hoặc xạ trị giảm nhẹ triệu chứng trong trường hợp u di căn đến các cơ quan khác (não, xương, tủy sống…). Ngoài ra, xạ trị có thể được chỉ định nhằm kiểm soát các triệu chứng như đau, ho ra máu.
+Hóa trị: Sử dụng thuốc hóa chất để tiêu diệt các tế bào ung thư. Phương pháp này được thực hiện theo chu kỳ và có một khoảng nghỉ. Số chu kỳ hóa trị phụ thuộc vào loại ung thư phổi và giai đoạn bệnh. Hóa trị có thể kết hợp với phẫu thuật, xạ trị hoặc liệu pháp miễn dịch.
+Liệu pháp nhắm trúng đích (còn được gọi là liệu pháp sinh học): Đây là liệu pháp sử dụng các loại thuốc chuyên biệt nhận diện được các bất thường của tế bào ung thư và chỉ tiêu diệt các tế bào ung thư, hạn chế làm tổn thương các tế bào lành tính. Phương pháp điều trị này chỉ phù hợp với khối u phổi có mang các đặc tính tương ứng riêng biệt với các loại thuốc. Điều này đồng nghĩa với việc không phải bất kỳ bệnh nhân ung thư phổi nào cũng có thể được điều trị với tất cả các loại thuốc điều trị trúng đích.
+Liệu pháp miễn dịch: Phương pháp này sử dụng nhóm thuốc có tác dụng kích thích hệ thống miễn dịch của cơ thể, giúp chúng nhận diện và tấn công tiêu diệt các tế bào ung thư. Liệu pháp miễn dịch trong điều trị ung thư có thể được chỉ định đơn trị hoặc kết hợp với hóa trị và/hoặc liệu pháp nhắm trúng đích nhằm đạt hiệu quả cao nhất.
+Liệu pháp miễn dịch trong điều trị K phổi
+Có thể phòng ngừa các loại ung thư phổi không?
+Mặc dù không có biện pháp giúp mỗi người phòng ngừa hoàn toàn ung thư phổi, tuy nhiên một số lưu ý giúp giảm nguy cơ mắc bệnh ung thư phổi như sau:
+Không hút thuốc lá: Các nghiên cứu cho thấy hút thuốc lá có liên quan đến 80-90% trường hợp tử vong do ung thư phổi. Thuốc lá có hơn 7.000 hợp chất gây hại đến sức khỏe, trong đó khoảng 70 hợp chất là tác nhân gây ung thư. Không hút thuốc lá là biện pháp hữu hiệu giúp giảm nguy cơ mắc ung thư phổi.
+Tránh hút thuốc lá thụ động: Hít phải khói thuốc lá điếu đầu lọc, thuốc lá điện tử, xì gà hoặc ống tẩu của người khác hút đều được xem là hút thuốc lá thụ động. Bạn nên chủ động tránh hít khói thuốc để giảm nguy cơ mắc ung thư phổi và các bệnh lý nguy hiểm khác.
+Kiểm tra chỉ số Radon trong nhà: Radon là một hợp chất sản sinh từ sự phân rã Uranium trong đất, có khả năng làm tăng nguy cơ gây ung thư phổi. Cơ quan Bảo vệ Môi trường Hoa Kỳ khuyến nghị nên kiểm tra nồng độ Radon trong nhà để có hướng xử lý phù hợp. Một số cách giúp làm giảm nồng độ Radon trong nhà như: tăng cường thông gió, sử dụng hệ thống lọc không khí, dự trữ nguồn nước trong bể trước khi sử dụng, bịt kín các khe nứt trên nền nhà- tường nhà, hạn chế tiếp xúc trực tiếp với sàn nhà – hầm nhà.
+Hạn chế tiếp xúc khói bụi công nghiệp: Nhân viên làm việc trong môi trường thiếu an toàn, chứa nhiều khói bụi công nghiệp cần trang bị các dụng cụ bảo vệ hợp lý. Hạn chế tiếp xúc với Amiante (Abestos), Asen, Niken, Crom, Cadmium, Bồ hóng…
+Tránh phơi nhiễm phóng xạ/bức xạ: Tiếp xúc với phóng xạ bức xạ có thể là yếu tố gây ung thư phổi.
+Cẩn thận với ô nhiễm không khí: Những người sống trong môi trường có tình trạng ô nhiễm không khí cao sẽ tăng nguy cơ mắc ung thư phổi.
+Duy trì lối sống lành mạnh: Chế độ ăn nhiều rau xanh, trái cây tươi giúp làm giảm nguy cơ mắc ung thư. Những người có chế độ ăn nhiều dầu mỡ, ăn quá nhiều thịt đỏ, thường xuyên chế biến thức ăn bằng cách chiên rán nướng có nguy cơ mắc ung thư cao hơn. Do đó, tuân thủ chế độ ăn uống lành mạnh kết hợp tập thể dục thường xuyên mang lại nhiều lợi ích cho sức khỏe.
+Tập thể dục nhiều hơn: Mỗi người nên duy trì chế độ luyện tập thể dục, thể thao ít nhất 30 phút mỗi ngày để tăng cường sức khỏe và giúp nâng cao hoạt động của hệ miễn dịch.
+Hầu hết những bệnh nhân ung thư phổi giai đoạn sớm đều không có biểu hiện rõ ràng, vì vậy dẫn đến việc bệnh chỉ được phát hiện ở giai đoạn muộn, khiến cho hiệu quả điều trị thấp, tiên lượng bệnh xấu và thời gian sống ngắn. BS.CKII Nguyễn Trần Anh Thư khuyến nghị, mỗi người nên chủ động thăm khám kiểm tra sức khỏe ít nhất 1-2 lần/năm nhằm sớm phát hiện các dấu hiệu bất thường. Điều chỉnh lối sống lành mạnh, duy trì tập luyện thể dục giúp giảm nguy cơ mắc bệnh ung thư phổi. Khám sức khỏe định kỳ cũng như chủ động tầm soát ung thư phổi đóng góp vai trò rất tích cực trong việc phát hiện bệnh ung thư phổi ở giai đoạn sớm, giúp điều trị đạt hiệu quả tốt nhất, tăng thời gian sống cho bệnh nhân.
+Để đặt lịch khám, tầm soát ung thư phổi tại Bệnh viện Đa khoa Tâm Anh, Quý khách hàng có thể liên hệ qua thông tin sau:
+Phân loại ung thư phổi và đánh giá giai đoạn giúp đánh giá tổng quan; từ đó thiết lập kế hoạch điều trị phù hợp cho từng loại ung thư trên từng bệnh nhân cụ thể. Các yếu tố khác của bệnh nhân (bệnh nền đi kèm, tinh thần, tâm lý…) đều ảnh hưởng đến kế hoạch điều trị cũng như mức độ đáp ứng của bệnh với các phương pháp điều trị. Do đó, chữa trị ung thư nói chung và chữa ung thư phổi nói riêng mang tính cá thể hóa và đa mô thức. Bệnh nhân và thân nhân nên chủ động trao đổi với bác sĩ điều trị để được giải đáp kỹ tình trạng bệnh của mình, hướng dẫn những việc cần thiết cho bệnh/cho quá trình điều trị; tuyệt đối không nên tự ý điều trị.

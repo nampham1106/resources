@@ -1,0 +1,83 @@
+# doc_id = health_disease_695
+# url = https://tamanhhospital.vn/do-dien-co/
+# date = 02/03/2024
+Đo điện cơ (EMG) là gì? Mục đích, nguyên lý và ý nghĩa kết quả
+Đo điện cơ là một kỹ thuật y khoa được áp dụng phổ biến trong thăm khám và điều trị các bệnh lý thần kinh cơ, với ưu điểm tiện lợi, an toàn và chính xác cao.
+Phương pháp đo điện cơ đang được ứng dụng rộng rãi tại nhiều cơ sở y tế. Vậy nguyên lý đo điện cơ là gì, kết quả đo điện cơ giúp chẩn đoán những bệnh lý thần kinh cơ nào, có độ chính xác cao không? Kỹ thuật đo điện cơ có gây đau không?
+Mục lụcĐo điện cơ là gì?Mục đích của đo điện cơNguyên lý đo điện cơQuy trình đo điện cơ1. Trước khi đo điện cơ2. Trong khi đo điện cơ3. Sau khi đo điện cơĐo điện cơ có đau không, có rủi ro gì không?Ý nghĩa của kết quả đo điện cơKhi nào nên đo điện cơ EMG?Đo điện cơ ở đâu?Đo điện cơ là gì?
+Đo điện cơ (EMG) hay ghi điện cơ là kỹ thuật “thăm dò thần kinh” xâm lấn tối thiểu, giúp khảo sát phản ứng điện của các dây thần kinh và cơ. Từ đó, bác sĩ có thể đánh giá chính xác chức năng cũng như tình trạng tổn thương, bệnh lý của các dây, rễ thần kinh ngoại vi, khớp thần kinh-cơ và các cơ. (1)
+Đo điện cơ giúp khảo sát phản ứng điện của các dây thần kinh và cơ
+Đo điện cơ gồm có 2 phần:
+Đo dẫn truyền dây thần kinh vận động và cảm giác
+Đây là phần đầu tiên của một quy trình đo điện cơ tiêu chuẩn. Bác sĩ/ kỹ thuật viên sẽ đặt các cảm biến nhỏ (gọi là điện cực bề mặt) trên da để đo tốc độ tín hiệu truyền qua dây thần kinh. Sau đó, tiến hành quá trình đo điện cực gồm điện cực kim và điện cực lá. Trong đó, điện cực kim được cho là cách ghi điện cơ tốt hơn để đánh giá chức năng của các cơ vận động.
+Thăm khám bằng điện cực kim
+Bác sĩ sử dụng cảm biến để đánh giá tín hiệu điện. Những cảm biến này là những chiếc kim rất mỏng được đưa trực tiếp vào cơ để đánh giá mức độ hoạt động điện cũng như chức năng của cơ khi nghỉ ngơi và vận động.
+Mục đích của đo điện cơ
+Kỹ thuật đo điện cơ có thể giúp chẩn đoán một số chấn thương hoặc bệnh lý gây ảnh hưởng đến dây thần kinh vận động và cơ bắp của người bệnh. Cụ thể, EMG có thể giúp xác định sự hiện diện, vị trí và mức độ của những chấn thương. (2)
+Xác định và phân biệt các tổn thương cơ do thần kinh, cơ hay các bệnh lý khác; điều trị co cứng cơ.
+Xác định loại hay vùng thần kinh bị tổn thương (rễ thần kinh, đám rối thần kinh, dây thần kinh), vị trí tổn thương dây thần kinh, yếu cơ do bệnh cơ hay chỗ nối nhánh thần kinh và cơ (còn gọi là khớp thần kinh cơ), chẩn đoán phân biệt bản chất tổn thương (tế bào thần kinh vận động, myelin, sợi trục hay tổn thương phối hợp).
+Đánh giá mức độ tổn thương thần kinh ngoại biên, tiên lượng, chẩn đoán nguyên nhân, tình trạng bệnh và đưa ra phương án điều trị.
+Theo dõi thoái hóa thần kinh sau tổn thương, chẩn đoán hoặc loại trừ một số tình trạng như: cảm giác châm chích ở da; cảm giác tê cứng; yếu cơ, sụp mí, nuốt khó; đau cơ hay chuột rút; đau ở tay hay chân; yếu chi, teo cơ,…
+Bác sĩ có thể chỉ định thêm các phương pháp cận lâm sàng khác (như xét nghiệm máu, chụp MRI, chụp CT, sinh thiết cơ…) kết hợp với đo điện cơ để chẩn đoán tình trạng bệnh lý một cách chính xác.
+Đo điện cơ giúp xác định và phân biệt các tổn thương cơ do thần kinh
+Nguyên lý đo điện cơ
+Để hiểu nguyên lý đo điện cơ hoạt động như thế nào, trước tiên cần hiểu cơ bắp hoạt động ra sao.
+Các dây thần kinh vận động (tế bào thần kinh vận động) gửi tín hiệu điện đến cơ bắp. Những tín hiệu này bắt nguồn từ não xuống tủy sống, qua các dây thần kinh vận động đến cơ. Đây chính là một dạng kích thích điện từ não đến cơ để điều khiển cơ co lại. Bản thân sự co cơ bắp cũng tạo ra hoạt động điện.
+Bình thường, mô cơ thường không tạo ra tín hiệu điện khi không cử động. Khi một điện cực được lắp vào, cơ co nhẹ sẽ tạo ra một số hoạt động điện, cơ co mạnh thì hoạt động điện này cũng sẽ tăng lên.
+Trong kỹ thuật đo điện cơ, bác sĩ sẽ dùng kim nhỏ có điện cực đâm xuyên qua da vào cơ của người bệnh nhằm ghi lại hoạt động của cơ đó ở trạng thái co hay thư giãn.
+Kim được gắn qua dây cáp để truyền dữ liệu về hoạt động điện của cơ vào máy tính, qua đó giúp bác sĩ ghi nhận, đánh giá tình trạng hoạt động hiện tại của các cơ.
+Các hoạt động điện sẽ xuất hiện dưới dạng sóng trên màn hình. Ngoài ra, bác sĩ cũng có thể dùng bộ khuếch đại âm thanh để nghe được hoạt động của cơ. Sau đó, bác sĩ sẽ phân tích các kết quả đo được, kết hợp với những biện pháp chẩn đoán cận lâm sàng khác để đánh giá tình trạng sức khỏe cơ của người bệnh.
+Thông thường, nếu bị tổn thương hoặc có vấn đề bệnh lý, cơ có thể phát sinh những hoạt động điện bất thường ngay cả trong trạng thái thư giãn. Hoặc khi co thì cơ sẽ tạo ra hoạt động điện và các dạng sóng khác thường.
+Quy trình đo điện cơ
+1. Trước khi đo điện cơ
+Người bệnh cần: (3)
+Thông báo với bác sĩ nếu rơi vào những trường hợp sau:
+Đang gắn máy điều hòa nhịp tim hay bất kỳ dụng cụ điện nào khác trong người.
+Đang sử dụng thuốc (kê đơn/ không kê đơn) và các chất bổ sung.
+Mắc chứng máu khó đông hay rối loạn đông máu gây chảy máu kéo dài.
+Ngưng sử dụng kem dưỡng da trước vài ngày hoặc ít nhất trong ngày thực hiện đo điện cơ.
+Vệ sinh tay chân sạch sẽ trước khi thực hiện.
+Mặc quần áo rộng để dễ thay hoặc khi cần tiếp cận khu vực kiểm tra. Người bệnh có thể được yêu cầu thay áo choàng, cởi bỏ trang sức, kẹp tóc, kính mắt, máy trợ thính hoặc các vật kim loại khác có thể thuận tiện cho quy trình thực hiện đo điện cơ…
+Bác sĩ/ kỹ thuật viên sẽ nói về các bước tiến hành và trực tiếp hướng dẫn người bệnh trong quá trình đo.
+Người bệnh không cần nhịn ăn hoặc dùng thuốc an thần trước khi đo. Bác sĩ có thể nhắc nhở thêm một số lưu ý tùy theo tình trạng bệnh.
+2. Trong khi đo điện cơ
+Bác sĩ sẽ thực hiện sát trùng vùng da cần thăm khám. Tiếp theo, bác sĩ sử dụng một hoặc nhiều kim nhỏ (còn gọi là điện cực) đâm vào cơ qua da.
+Quá trình đâm kim có thể thực hiện nhiều lần để tìm vị trí phù hợp. Bạn có thể cảm thấy đau nhẹ khi điện cực được đưa vào cơ. Trường hợp cảm thấy đau nhói bất thường, người bệnh nên thông báo với bác sĩ để được điều chỉnh vị trí đâm kim, đảm bảo kết quả đo điện cơ chính xác.
+Người bệnh có thể ngồi hoặc nằm tùy theo vị trí cần đo điện cơ. Người bệnh cần thực hiện các động tác như thả lỏng cơ, co nhẹ, co mạnh, cử động nhẹ, cử động mạnh… theo hướng dẫn của bác sĩ. Ví dụ, bác sĩ có thể yêu cầu người bệnh lặp lại động tác co duỗi chân, nâng chân lên cao ở nhiều mức độ khác nhau. Điều này giúp bác sĩ có thể đánh giá được khả năng phản ứng của cơ khi dây thần kinh bị kích thích.
+Người bệnh có thể cần thực hiện nhiều cử động để có kết quả đo điện cơ chính xác
+Hoạt động điện ở các cơ được điện cực thu lại và hiển thị trên màn hình dưới dạng sóng. Điện cực có thể được di chuyển để ghi lại hoạt động ở các cơ khác nhau. Tùy trường hợp người bệnh mà thời gian đo điện cơ sẽ khác nhau, trung bình 15 – 30 phút.
+3. Sau khi đo điện cơ
+Kết quả đo điện cơ sẽ được bác sĩ đọc và gửi cho bệnh nhân ngay sau đó. Dựa trên kết quả đo điện cơ vác các chẩn đoán khác, bác sĩ sẽ đưa ra kết luận về tình hình bệnh và tư vấn phương pháp điều trị phù hợp.
+Đo điện cơ là kỹ thuật không xâm lấn nên người bệnh có thể ra về ngay trong ngày và có thể trở lại sinh hoạt, làm việc, học tập như bình thường.
+Đo điện cơ có đau không, có rủi ro gì không?
+Đo điện cơ là một kỹ thuật có mức độ rủi ro rất thấp. Người bệnh có thể chỉ cảm thấy hơi khó chịu, đau râm ran và tê ngứa nhẹ. Nguy cơ bị chuột rút nhẹ cũng có thể xảy ra trong quá trình thực hiện. Tuy nhiên, những biểu hiện này thường chỉ kéo dài trong vài phút đến vài ngày sẽ hết, có thể thuyên giảm bằng thuốc giảm đau không kê đơn. Do đó, người bệnh không nên quá lo lắng. (4)
+Người bệnh có thể thấy đau râm ran, châm chích nhẹ khi đo điện cơ
+Một số rủi ro rất hiếm gặp như chảy máu sau đo điện cơ (thường gặp ở người bệnh có dùng thuốc làm loãng máu). Người bệnh cần lưu ý, nếu cảm thấy đau, nhức, sưng hoặc có mủ ngày càng tăng ở vị trí đâm kim thì nên đến bệnh viện để được kiểm tra lại. Tùy thuộc vào tình trạng sức khỏe cụ thể của người bệnh, bác sĩ sẽ hướng dẫn những việc cần làm tiếp theo.
+Ý nghĩa của kết quả đo điện cơ
+Kỹ thuật EMG hữu ích và thường cần kết hợp với các biện pháp chẩn đoán cận lâm sàng khác để đánh giá một bệnh lý thần kinh cơ cụ thể.
+Thông qua kết quả đo điện cơ và các phương pháp chẩn đoán kết hợp, bác sĩ có thể phát hiện những vấn đề bất thường liên quan đến thần kinh cơ, đánh giá tình trạng sức khỏe người bệnh có nghiêm trọng hay không và đưa ra hướng điều trị thích hợp.
+Ý nghĩa của kết quả đo điện cơ có thể giúp phát hiện các bệnh lý như: (5)
+Hội chứng ống cổ tay: tình trạng ảnh hưởng đến dây thần kinh ở bàn tay và cánh tay.
+Thoát vị đĩa đệm: đĩa đệm bị tổn thương và gây áp lực lên cột sống, khiến người bệnh cảm thấy tê và đau đớn.
+Hội chứng Guillain-Barré: bệnh rối loạn miễn dịch ảnh hưởng đến dây thần kinh, gây cảm giác tê, ngứa râm ran.
+Bệnh nhược cơ: chứng rối loạn hiếm gặp gây mỏi và yếu cơ.
+Loạn dưỡng cơ: bệnh di truyền ảnh hưởng nghiêm trọng đến cấu trúc và chức năng của cơ.
+Bệnh Charcot-Marie-Tooth: chứng rối loạn di truyền gây tổn thương thần kinh, chủ yếu ở cánh tay và chân.
+Bệnh xơ cứng teo cơ một bên (ALS): chứng rối loạn tiến triển tấn công các tế bào thần kinh trong não và tủy sống, ảnh hưởng đến tất cả các cơ di chuyển, nói, ăn và thở.
+Ngoài ra, kỹ thuật đo điện cơ còn giúp phát hiện và đánh giá nhiều bệnh lý thần kinh cơ khác như rối loạn chức năng thần kinh trung gian xa, rối loạn chức năng thần kinh hướng tâm, rối loạn chức năng thần kinh đùi, rối loạn chức năng thần kinh tọa, hội chứng Shy-Drager, bệnh đơn dây/ đa dây thần kinh, liệt chu kỳ có tính chất gia đình, mất điều hòa Friedreich,…
+Khi nào nên đo điện cơ EMG?
+Kỹ thuật đo điện cơ thường được chỉ định thực hiện khi người bệnh có các triệu chứng nghi ngờ mắc bệnh thần kinh cơ, chẳng hạn như:
+Yếu cơ
+Co thắt cơ
+Chuột rút
+Cảm giác châm chích ở da
+Co giật cơ không tự chủ
+Tê yếu cơ
+Có cảm giác đau ở tay, chân
+Đo điện cơ ở đâu?
+Khoa Thần kinh, Trung tâm Khoa học Thần kinh, Bệnh viện Đa khoa Tâm Anh TP.HCM là địa chỉ thăm khám đáng tin cậy của nhiều người dân khi thăm khám, điều trị các bệnh lý thần kinh cơ. Người bệnh có thể thực hiện thăm khám đo điện cơ tại Bệnh viện Tâm Anh với quy trình nhanh gọn, kết quả chính xác cao.
+Khoa Thần kinh quy tụ đội ngũ bác sĩ, chuyên gia giàu kinh nghiệm trong lĩnh vực đo điện cơ nói riêng và thăm khám, điều trị bệnh lý thần kinh cơ nói chung. Các chuyên gia, bác sĩ của Khoa có nhiều kinh nghiệm lâm sàng thực tiễn.
+Khoa Thần kinh đi đầu trong ứng dụng các phương pháp, kỹ thuật, máy móc mới, trong đó có máy đo điện cơ hiện đại, vào thăm khám và điều trị các bệnh lý thần kinh cơ, mang đến hiệu quả tối ưu cho người bệnh.
+Khoa Thần kinh triển khai các dịch vụ phục vụ tận tâm, chuyên nghiệm, khám ngoài giờ với đầy đủ bảo hiểm y tế, bảo hiểm tư nhân liên quan, nếu có.
+BVĐK Tâm Anh từng thực hiện nhiều ca đo điện cơ hiệu quả
+Đo điện cơ kết hợp cùng các phương pháp chẩn đoán cận lâm sàng có thể giúp chẩn đoán, đánh giá hiệu quả các bệnh lý thần kinh cơ. Nếu có dấu hiệu nghi ngờ mắc bệnh, người bệnh nên sớm đến bệnh viện thực hiện chẩn đoán để có phương pháp điều trị phù hợp.

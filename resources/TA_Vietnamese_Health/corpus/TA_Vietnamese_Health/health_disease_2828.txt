@@ -1,0 +1,55 @@
+# doc_id = health_disease_2828
+# url = https://tamanhhospital.vn/phoi-kham/
+# date = 30/03/2024
+Phôi khảm là gì? Phân loại, chẩn đoán và tiêu chí đánh giá
+Với sự phát triển của di truyền học kết hợp với các phương pháp hỗ trợ sinh sản như thụ tinh trong ống nghiệm, các nhà khoa học đã thành công trong việc nuôi cấy phôi ở môi trường phòng thí nghiệm, sàng lọc các bệnh lý di truyền trên phôi. Bên cạnh chọn lọc những phôi chất lượng thì hiện tượng phôi khảm cũng được phát hiện khá phổ biến khi thực hiện các phương pháp xét nghiệm di truyền trong chu kỳ điều trị IVF. Vậy phôi khảm là như thế nào? Phôi khảm có thể chuyển phôi không? Cùng giải đáp những thắc mắc này trong bài viết dưới đây.
+Mục lụcPhôi khảm là gì?Phân loại phôi khảmPhương pháp chẩn đoán phôi khảmTiêu chí đánh giá phôi khảmQuyết định chuyển phôi khảm có an toàn không?Tỷ lệ chuyển phôi khảm có cao không?Chuyển phôi khảm sẽ dựa trên khuyến cáo mới nhất ở thời điểm điều trịPhôi khảm là gì?
+Phôi khảm được định nghĩa là những phôi có sự có mặt của hai hoặc nhiều dòng tế bào khác biệt về mặt di truyền ở trong cùng một phôi. Với sự phát triển của kỹ thuật phân tích di truyền tiền làm tổ, các nhà khoa học đã phát hiện tỷ lệ phôi khảm khá dao động, khoảng từ 2% đến 40% ở giai đoạn phôi nang phụ thuộc vào từng nhóm tuổi.
+Về cơ bản, khảm nhiễm sắc thể xuất phát từ sai hỏng phân ly nhiễm sắc thể trong quá trình nguyên phân sau thụ tinh qua nhiều cơ chế khác nhau. Nguồn gốc phôi khảm có thể có nguồn gốc từ bố, mẹ hoặc các yếu tố ngoại sinh khác. (1)
+Nguồn gốc từ bố: Trung thể của tinh trùng có vai trò quan trọng trong lần phân bào đầu tiên. Những tổn thương ở trung thể tinh trùng có thể dẫn đến hiện tượng phôi khảm. Một số nghiên cứu cho thấy ở nam giới vô sinh có quá trình hình thành các dạng vi ống ở tinh trùng chậm hơn điều này có thể dẫn đến sự chậm trễ quá trình tổng hợp và phân cắt tạo nên những phôi bất thường.
+Bên cạnh đó, theo một nghiên cứu hồi cứu cho thấy tỷ lệ xuất hiện phôi khảm cao hơn ở nam giới có số lượng tinh trùng thấp, nam giới thiểu tinh hoặc vô tinh.
+Các chuyên viên phôi học sẽ đánh giá và phân loại phôi khảm theo 3 loại
+Nguồn gốc từ mẹ: Theo một số nghiên cứu, tuổi mẹ có thể ảnh hưởng đến chức năng ti thể và ảnh hưởng đến sự phân ly của nhiễm sắc thể. Trứng của phụ nữ lớn tuổi có thời gian tiếp xúc với các yếu tố ngoại sinh, các gốc chứa oxy hoạt tính (ROS) ảnh hưởng tiêu cực đến sự phát triển của phôi.
+Ngoài ra sự hiện diện của thoi vô sắc bất thường có thể tạo ra những sai sót ở lần phân chia đầu tiên ở những phụ nữ lớn tuổi, có thể dẫn đến việc tạo ra phôi khảm.
+Phân loại phôi khảm
+Việc phân loại phôi khảm sẽ dựa vào dòng tế bào bị ảnh hưởng của phôi. Phôi nang có 2 thành phần chính là khối tế bào trong – inner cell mass (ICM) và lớp tế bào lá nuôi – trophectoderm (TE), xét nghiệm PGT hiện nay chi sinh thiết TE, nên kết quả không đại diện cho toàn bộ phôi. (2)
+Phương pháp chẩn đoán phôi khảm
+Để chẩn đoán đặc điểm di truyền của phôi bằng PGT-A, các chuyên gia sẽ thực hiện kỹ thuật sinh thiết phôi ở giai đoạn phôi nang để đánh giá. Dựa vào tỷ lệ phần trăm về bất thường của tế bào mà chuyên gia có thể đánh giá đó là phôi bình thường (chuẩn bội), phôi bất thường (lệch bội), hay phôi khảm.
+Tiêu chí đánh giá phôi khảm
+Tiêu chí đánh giá phôi khảm sẽ dựa trên phần trăm bất thường của mẫu tế bào đã sinh thiết. Ví dụ khi thực hiện sinh thiết phôi PGT-A, chuyên viên phôi học lấy 5- 10 tế bào tại lớp tế bào lá nuôi (sẽ phát triển thành bánh rau) của phôi nang, sau đó bộ DNA của phôi sẽ được khuếch đại và so với bộ NST chuẩn, nếu lệch<20% là phôi chuẩn bội (bình thường), nếu >80% là lệch bội (bất thường), nếu từ 20-80% được kết luận là thể khảm.
+Quyết định chuyển phôi khảm có an toàn không?
+Trong việc sàng lọc phôi có những khó khăn và thách thức đối với chuyên gia. Có trường hợp phôi bất thường nặng không thể chuyển được bác sĩ sẽ tư vấn cho người bệnh về hướng xử lý hủy phôi.
+Tuy nhiên có trường hợp phôi khảm, chuyển vào sẽ có những nguy cơ nhất định nhưng bỏ đi liệu có đang bỏ lỡ mất cơ hội của các cặp vợ chồng hiếm muộn hay không.
+Vì vậy quyết định có chuyển phôi khảm hay không sẽ được đưa ra dựa trên nhiều tiêu chí và yếu tố được cân nhắc kỹ càng. Theo dữ liệu mới nhất từ Hiệp hội Quốc tế Chẩn đoán Di truyền Tiền làm tổ (PGDIS) 2021; CoGEN 2017 đưa ra hướng dẫn chuyển phôi trên lâm sàng như sau:
+Lựa chọn ưu tiên chuyển những phôi bình thường;
+Nếu bệnh nhân không có phôi bình thường có thể tư vấn thực hiện thêm chu kỳ thụ tinh trong ống nghiệm;
+Cân nhắc chuyển phôi khảm với bệnh nhân không có phôi bình thường khi thực hiện các chu kỳ IVF/PGT-A. Hoặc bệnh nhân không còn phôi nào khác để chuyển. (3)
+Theo BS Nguyễn Minh Thúy “Tùy vào loại khảm của phôi như khảm lệch bội hay khảm cấu trúc, và tỷ lệ khảm là bao nhiêu, từ đó chúng ta có thể quyết định phôi khảm này có chuyển được hay không. Một số hiệp hội đưa ra đồng thuận nếu tình trạng phôi khảm dưới 40% và chỉ bất thường 1 loại nhiễm sắc thể thì có thể cân nhắc chuyển. Nếu tình trạng vượt qua con số này cần có sự tham vấn của các bác sĩ và sự đồng ý của bệnh nhân trước khi chuyển phôi”.
+Việc phân loại phôi khảm giúp cho bác sĩ có thể xác định phôi khảm này có chuyển được hay không
+Tỷ lệ chuyển phôi khảm có cao không?
+Sau khi hiểu phôi khảm là gì thì tỷ lệ chuyển phôi khảm thành công có cao không là điều mà nhiều người thắc mắc. Hiện nay những tác động của phôi khảm lên sự phát triển của phôi thai và thai kỳ còn có nhiều tranh cãi.
+Nhiều nghiên cứu cho thấy phôi thể khảm có tỷ lệ làm tổ thấp hơn và tỷ lệ sẩy thai cao hơn so với phôi chuẩn bội. Tuy nhiên cũng có những nghiên cứu cho thấy phôi khảm mức độ thấp cho kết quả khả quan về việc làm tổ và phát triển thành thai nhi khỏe mạnh.
+Một nghiên cứu đoàn hệ hồi cứu của Lei Zhang và cộng sự năm 2019 với 102 phôi khảm, trong đó 101 phôi khảm <50% được thực hiện chuyển phôi cho kết quả 46,6% sinh sống khỏe mạnh.
+Ngoài ra, nghiên cứu cũng thực hiện chuyển 268 phôi chuẩn bội để đối chứng cho thấy tỷ lệ trẻ sinh sống ở nhóm chuyển phôi khảm thấp hơn so với nhóm chuyển phôi chuẩn bội với tỷ lệ 46,6% so với 59,1%. (4)
+Một nghiên cứu khác của Capalbo và cộng sự thực hiện trên 6.766 phôi bao gồm cả phôi chuẩn bội, phôi khảm thấp, phôi khảm trung bình và phôi khảm cao cho thấy tỷ lệ mang thai, tỷ lệ sảy thai giữa nhóm chuyển phôi chuẩn bội và phôi khảm thấp là tương đương nhau.
+Thực tế, trong nhiều trường hợp, chuyển phôi khảm được xem là con đường khả thi nhất trong việc mang thai của các cặp vợ chồng hiếm muộn đặc biệt là những cặp vợ chồng lớn tuổi, không có điều kiện để thực hiện chu kỳ IVF tiếp theo, người không có phôi bình thường vẫn có thể có hy vọng sinh con khỏe mạnh.
+Chuyển phôi khảm sẽ dựa trên khuyến cáo mới nhất ở thời điểm điều trị
+Tại Trung tâm Hỗ trợ Sinh sản, Bệnh viện Đa khoa Tâm Anh, bệnh nhân sau khi có kết quả sàng lọc phôi sẽ được bác sĩ tư vấn về tình trạng phôi, với những phôi bình thường các bác sĩ sẽ ưu tiên chuyển trước.
+Với trường hợp bệnh nhân có phôi thể khảm, bác sĩ sẽ dựa trên các khuyến cáo uy tín mới nhất trên thế giới như: Hiệp hội Chẩn đoán Di truyền tiền làm tổ (PGDIS) ban hành năm 2021, và khuyến cáo mới nhất của Hiệp hội y học sinh sản Hoa Kỳ – ASRM 2023 cũng như theo nhiều nghiên cứu trên thế giới về việc có thể chuyển phôi khảm sau khi bệnh nhân đã được bác sĩ điều trị tư vấn.
+Dù còn nhiều tranh cãi về tác động của phôi thể khảm lên sự phát triển của thai nhi. Tuy nhiên vẫn có nhiều báo cáo cho thấy có tỷ lệ sinh trẻ khỏe mạnh từ phôi khảm. Lý giải điều này, các chuyên cho rằng 6-10 tế bào được lấy ra để sinh thiết không mang tính đại diện cho toàn bộ phôi.
+Ngoài ra, ở một số phôi khảm có cơ chế có thể “tự sửa chữa lỗi” trong quá trình phát triển, đẩy các tế bào bất thường ra ngoài lớp lá nuôi (nhau thai), chỉ để lại các tế bào bình thường trong khối tế bào bên trong tiếp tục phân chia. Từ đó, hình thành em bé khỏe mạnh bình thường, không mang dị tật.
+Gần 80-90% hiện nay tại IVF Tâm Anh nuôi cấy phôi qua hệ thống camera liên tục, tối ưu được về việc duy trì mức độ luồng khí không khí, môi trường, độ ẩm, ánh sáng…. ổn định không bị ảnh hưởng bởi những tác động xung quanh, phôi sẽ được phát triển trong hệ thống toàn diện và giúp tạo ra những phôi chất lượng hơn.
+BS.CKII Cao Tuấn Anh đang tư vấn cho cặp vợ chồng về phác đồ điều trị hiếm muộn
+Tại IVF Tâm Anh gần đây, một cặp vợ chồng người Philippines sau khi chuyển phôi khảm đã có thai, sinh một bé trai khỏe mạnh, bình thường về di truyền.
+>> Xem thêm:‘Quả ngọt’ của vợ chồng Philippines nhờ chữa vô sinh ở Việt Nam
+Vì vậy, với những cặp vợ chồng còn lo lắng về nguy cơ chuyển phôi thể khảm có thể gặp các bác sĩ, chuyên gia để được đánh giá, tư vấn để tăng cơ hội sinh con khỏe mạnh.
+HỆ THỐNG BỆNH VIỆN ĐA KHOA TÂM ANH
+Hà Nội:
+108 Hoàng Như Tiếp, P.Bồ Đề, Q.Long Biên, TP.Hà Nội
+Hotline: 024 3872 3872 – 024 7106 6858
+TP.HCM:
+2B Phổ Quang, P.2, Q.Tân Bình, TP.Hồ Chí Minh
+Hotline: 093 180 6858 – 0287 102 6789
+Fanpage: https://www.facebook.com/benhvientamanh
+Website: https://tamanhhospital.vn
+Hy vọng bài viết đã cung cấp đầy đủ thông tin về phôi khảm là gì cũng như những chỉ định trong việc phân loại và chuyển phôi khảm trong chu kỳ điều trị IVF. Nếu có thêm thắc mắc về vấn đề này, vợ chồng có thể liên hệ đến IVF Tâm Anh để được tư vấn.

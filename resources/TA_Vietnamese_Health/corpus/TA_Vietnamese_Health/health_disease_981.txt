@@ -1,0 +1,96 @@
+# doc_id = health_disease_981
+# url = https://tamanhhospital.vn/nguong-nghe-cua-tai-nguoi/
+# date = 14/06/2024
+Ngưỡng nghe của tai người bình thường là bao nhiêu dB?
+Trong cuộc sống hiện nay, âm thanh mà ta có thể nghe được phụ thuộc vào tần số âm thanh (Hz) và cường độ âm thanh (dB). Con người chúng ta có thể nghe được các tần số khác nhau cũng như độ to nhỏ khác nhau. Khi 2 yếu tố này có sự thay đổi, chúng làm ảnh hưởng khả năng nghe của bạn. Vậy ngưỡng nghe của tai người bình thường là bao nhiêu dB? ThS.BS.CKI Phạm Thái Duy, Trung tâm Tai Mũi Họng, Bệnh viện Đa khoa Tâm Anh TP.HCM chia sẻ qua bài viết dưới đây.
+Mục lụcNgưỡng nghe là gì?Ngưỡng nghe của tai người là bao nhiêu?Ngưỡng nghe được của tai người được đo bằng gì?Các yếu tố ảnh hưởng đến ngưỡng nghe của tai1. Tuổi tác2. Hình dạng và cấu trúc của tai3. Mức độ tiếp xúc với tiếng ồn4. Một số tình trạng bệnh lý5. Yếu tố di truyềnTác hại khi tiếp xúc với âm thanh vượt ngưỡng nghe của tai ngườiTổn thương thính giác có thể phục hồi không?Cách bảo vệ và duy trì thính giác khỏe mạnh1. Nghe nhạc và giải trí ở mức âm thanh an toàn2. Dùng nút tai khi phải tiếp xúc với tiếng ồn3. Lắp đặt các loại vật liệu cách âm4. Kiểm tra thính giác thường xuyên5. Sử dụng thiết bị trợ thính cho người suy giảm thính lựcNgưỡng nghe là gì?
+Ngưỡng nghe được định nghĩa là mức âm thanh tối thiểu mà người nghe có thể xác định được âm thanh cũng như mức âm thanh tối đa mà người nghe có thể dung nạp được. (1)
+Từ đó, có thể đưa đến 2 khái niệm:
+Mức âm thanh tối thiểu mà ta có thể nhận biết ở các tần số khác nhau trong phạm vi thính giác (phạm vi nghe) mà không có bất kỳ âm thanh nào khác được gọi là ngưỡng nghe tuyệt đối. (2)
+Mức âm thanh phát ra ở cường độ cao nhất tại cùng một thời điểm gây khó chịu, tổn thương tai người nghe được gọi là ngưỡng đau. Con người khi tiếp xúc lâu dài với mức áp suất âm thanh vượt ngưỡng đau gây nên nhiều tổn thương cho tai, dẫn đến suy giảm thính lực.
+Thông thường, ngưỡng nghe sẽ giảm theo độ tuổi. Ở mỗi nhóm tuổi, ngưỡng nghe trung bình cũng khác nhau xuất phát từ nhiều bệnh lý giữa tay phải và tay trái. Nguyên nhân do tiếp xúc với tiếng ồn trong thời gian dài, các tế bào lông trong tai bị tổn thương,… dẫn đến quá trình truyền tín hiệu âm thanh gặp ảnh hưởng.
+Ngưỡng nghe của tai người là bao nhiêu?
+Tai người nhạy cảm với âm thanh có tần số từ 20 – 20.000Hz, ở mỗi tần số có ngưỡng nghe khác nhau. Thông thường, ngưỡng nghe của tai người bình thường là từ 0 dB và ngưỡng đau thường từ 120 đến 130 dB:
+Từ 0 – 80 dB: Đây là ngưỡng âm thanh an toàn mà không cần thiết bị trợ giúp. Con người khi tiếp xúc âm thanh có cường độ dưới 80 dB sẽ không ảnh hưởng đến tai.
+Từ 80 – 90 dB: Âm thanh ở ngưỡng này có cường độ khá lớn, khiến nhiều người khó chịu và mất tập trung, có thể ảnh hưởng đến thính giác. Nếu tiếp xúc với ngưỡng âm thanh này trong thời gian dài gây nguy hiểm đến chức năng tai.
+Từ 90 dB trở lên: Ngưỡng âm thanh này là nguy hiểm, tai người bình thường chỉ nghe được trong vòng 1 giờ là tối đa.
+Từ 140 dB trở lên: Đây là ngưỡng âm thanh làm tổn thương thính giác khiến người nghe bị đau tai, thậm chí dẫn đến điếc.
+Dưới đây là ví dụ về ngưỡng nghe của tai người:
+Âm thanh ở môi trường bên ngoài
+Mức áp suất âm thanh điển hình (dB)
+Lá rung rinh, xào xạc
+20 dB
+Âm thanh thì thầm vào tai
+30 dB
+Cuộc trò chuyện, hội thoại bình thường
+60 dB
+Xe cộ ngoài đường
+60-100 dB
+Tiếng ở công trường xây dựng
+90-100 dB
+Máy bay cất cánh
+120 dB
+Ngưỡng đau (ngưỡng chịu đau)
+120-140 dB
+Như vậy, ngưỡng nghe bình thường của tai người là 0-25 dB. Mức âm thanh nhẹ nhất là -10 dB. Ngoài ra, tần số bình thường mà con người nghe được là 20-20.000 Hz.
+Ngưỡng nghe bình thường của tai người là 0-25 dB.
+Xem thêm:
+Tai người nghe được bao nhiêu Hz? 4 yếu tố ảnh hưởng tới tần số nghe được
+Ngưỡng nghe được của tai người được đo bằng gì?
+Để xác định ngưỡng nghe được của tai người, bác sĩ chuyên khoa Tai Mũi Họng sẽ thực hiện các bài kiểm tra thính lực bằng máy đo thính lực chuyên dụng, chuẩn y khoa. Khi đó, bác sĩ kiểm tra khả năng nghe âm thanh ở cường độ và tần số khác nhau, sau đó ghi lại tần số âm thanh dưới dạng thính lực đồ để xác định ngưỡng nghe được của một người.
+Mức độ thính giác
+Ngưỡng nghe
+Thính giác bình thường
+25 dB hoặc thấp hơn
+Giảm thính lực nhẹ
+26-40 dB
+Mất thính lực trung bình
+41-65 dB
+Mất thính lực nặng
+66-85 dB
+Điếc nặng
+85 dB trở lên
+Các yếu tố ảnh hưởng đến ngưỡng nghe của tai
+1. Tuổi tác
+Tuổi tác có thể ảnh hưởng đến ngưỡng nghe của tai. Nghe kém, giảm thính giác ở tuổi già là do sự kết hợp giữa tế bào cảm giác (tế bào lông) thoái hóa và tổn thương thần kinh. Khi tiếp xúc tiếng ồn trong thời gian dài, khi càng lớn tuổi ngưỡng nghe sẽ càng ảnh hưởng. Các tần số cao hơn sẽ bị ảnh hưởng nhiều hơn tần số thấp hơn khi ngưỡng nghe liên quan đến tuổi tác.
+2. Hình dạng và cấu trúc của tai
+Tai người đảm nhận chức năng chính là chức năng thính giác và chức năng thăng bằng. Hình dạng và cấu trúc của tai khác với bình thường sẽ có khả năng ảnh hưởng đến ngưỡng nghe.
+3. Mức độ tiếp xúc với tiếng ồn
+Mức độ tiếp xúc với tiếng ồn cũng gây ảnh hưởng, tổn thương đến ngưỡng nghe của tai người.
+4. Một số tình trạng bệnh lý
+Một số tình trạng bệnh lý như nhiễm trùng tai, viêm tai giữa, bệnh Meniere và rối loạn chức năng tai trong, cao huyết áp,… cũng ảnh hưởng đến ngưỡng nghe của tai.
+5. Yếu tố di truyền
+Ngoài ra, ngưỡng nghe của tai người có thể bị ảnh hưởng bởi yếu tố di truyền.
+Ngưỡng nghe của tai người ảnh hưởng bởi nhiều yếu tố.
+Tác hại khi tiếp xúc với âm thanh vượt ngưỡng nghe của tai người
+Tai người bình thường khi thường xuyên phải nghe âm thanh có cường độ lớn sẽ gây nên những tác hại tới thính giác và cả sức khỏe, bao gồm những ảnh hưởng dưới đây:
+Ảnh hưởng đến chức năng nghe: Khi các tiếng ồn như máy khoan, máy bay, còi hú,… văng vẳng bên tai khiến màng nhĩ dễ bị tổn thương, suy giảm thính lực và tai cũng dần mất đi độ nhạy với âm thanh.
+Ảnh hưởng đến thần kinh: Tâm lý, thần kinh của con người cũng có thể bị tác động tiêu cực bởi âm thanh có tần số và cường độ cao. Cơ thể khi ấy sẽ rất mệt mỏi, rơi vào trạng thái rối loạn hành vi và căng thẳng kéo dài.
+Rối loạn giấc ngủ: Tiếng ồn ảnh hưởng đến chất lượng giấc ngủ, khiến nhiều người trằn trọc, khó ngủ, ngủ không sâu giấc hoặc có thể mất ngủ. Rối loạn giấc ngủ ảnh hưởng trực tiếp tới sức khỏe tinh thần, ban ngày sẽ luôn mệt mỏi, lờ đờ vì thiếu ngủ, giảm chất lượng công việc và cuộc sống.
+Ảnh hưởng đến tim mạch: Người phải sống trong môi trường nhiều tiếng ồn, nơi âm thanh có cường độ cao làm cơ thể tăng nhịp tim, tăng huyết áp, cản trở hệ tuần hoàn,… dẫn đến nguy hại cho hệ tim mạch.
+Tổn thương thính giác có thể phục hồi không?
+Theo các chuyên gia Tai Mũi Họng, tiếng ồn có tác động xấu tới sức khỏe của con người, gây suy giảm thính lực, ảnh hưởng tiêu cực đến ngưỡng nghe.
+Trong vài trường hợp, ngưỡng nghe có thể hồi phục được, tùy thuộc vào mức độ nghiêm trọng và nguyên nhân dẫn đến tổn thương.
+Khi có bất kỳ dấu hiệu nào cho thấy ngưỡng nghe có vấn đề, người bệnh cần đến chuyên khoa Tai Mũi Họng như Trung tâm Tai Mũi Họng, Bệnh viện Đa khoa Tâm Anh TP.HCM để được bác sĩ đánh giá chính xác tổn thương đang gặp phải, thực hiện đo thính lực, sức nghe hiện tại để can thiệp và tránh tổn thương diễn tiến đến giai đoạn nặng.
+Cách bảo vệ và duy trì thính giác khỏe mạnh
+1. Nghe nhạc và giải trí ở mức âm thanh an toàn
+Nhiều người có thói quen nghe nhạc qua tai nghe với âm lượng lớn gây nguy hiểm đến thính lực của chính mình. Việc điều chỉnh âm lượng ở mức an toàn sẽ giúp bảo vệ và duy trì thính giác khỏe mạnh. Ngoài ra, bạn cần lưu tâm một số vấn đề sau:
+Lựa chọn tai nghe có tính năng lọc tiếng ồn thay vì phải mở âm lượng lớn để lấn át tiếng ồn bên ngoài.
+Âm lượng phải được điều chỉnh ở mức vừa đủ nghe, không mở quá lớn.
+Hạn chế nghe nhạc với âm lượng vượt quá 60% mức âm lượng tối đa (max).
+Không nên đeo tai nghe liên tục hơn 1 tiếng để tránh bị tổn hại.
+Ngoài ra, khi tham gia các sự kiện giải trí cũng có khả năng ảnh hưởng đến chức năng nghe mà chúng ta không hề biết. Tiếp xúc với tiếng ồn lớn có thể gây ù tai, thậm chí mất thính lực ở cả hai bên tai.
+Khi phải tiếp xúc với tiếng ồn vượt ngưỡng cho phép, hãy dành thời gian để tai phục hồi và thư giãn.
+2. Dùng nút tai khi phải tiếp xúc với tiếng ồn
+Khi bất đắc dĩ thường xuyên phải tiếp xúc với tiếng ồn mà không cần cách nào khác, bạn có thể nút tai chống tiếng ồn, dựa theo nhu cầu và mục đích sử dụng, sẽ có loại nút tai phù hợp nhất với bạn.
+3. Lắp đặt các loại vật liệu cách âm
+Lắp đặt vật liệu cách âm cũng là cách để bảo vệ và duy trì thính giác. Hãy tìm hiểu và lắp đặt tường xốp, cửa kính, rèm cách âm,… để không lọt tiếng ồn vào nhà hoặc làm giảm cường độ tiếng ồn. Ngoài ra, bạn cũng có thể dán kín các khe cửa giúp chống ồn hiệu quả.
+4. Kiểm tra thính giác thường xuyên
+Kiểm tra thính giác thường xuyên tại chuyên khoa Tai Mũi Họng là cách hiệu quả để bảo vệ và duy trì một thính giác khỏe mạnh. Khi phát hiện có dấu hiệu bất thường, bác sĩ sẽ đưa ra phác đồ điều trị kịp thời và những lời khuyên tốt nhất cho người bệnh.
+Ngoài ra, thay đổi chế độ ăn lành mạnh, khoa học, hợp lý cũng là cách đề bảo vệ thính giác. Các loại thực phẩm chứa nhiều chất dinh dưỡng cần thiết giúp bảo đảm một sức khỏe tốt, bảo vệ chức năng tai vận hành bình thường. Bạn cần lưu tâm trong chế độ ăn nên sử dụng ít chất béo động vật bão hòa và carbohydrate tinh chế bởi chất béo có thể làm giảm lượng máu cung cấp cho tai và các bộ phận khác trong cơ thể.
+Đo thính lực tại Trung tâm Tai Mũi Họng, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+5. Sử dụng thiết bị trợ thính cho người suy giảm thính lực
+Ngoài ra, khi được thăm khám với bác sĩ chuyên gia, nếu có tình trạng suy giảm thính lực, bác sĩ sẽ chỉ định sử dụng thiết bị trợ thính để cải thiện chức năng tai.
+Để được bác sĩ chuyên khoa nhiều năm kinh nghiệm tư vấn, thăm khám, bạn có thể đặt lịch khám tại Trung tâm Tai Mũi Họng, Bệnh viện Đa khoa Tâm Anh TP.HCM qua thông tin dưới đây:
+Nhìn chung, ngưỡng nghe của tai người sẽ trong khoảng 0-80 dB. Khi vượt qua ngưỡng an toàn sẽ ảnh hưởng ít nhiều đến thính giác và sức khỏe tinh thần của bạn.
+Nếu sinh sống và làm việc trong môi trường nhiều tiếng ồn, bạn nên tham khảo các cách bảo vệ và duy trì thính giác khỏe mạnh, giúp tránh khỏi những phiền toái do tác nhân môi trường tiếng ồn đem lại.

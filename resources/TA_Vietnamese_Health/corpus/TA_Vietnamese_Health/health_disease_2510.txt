@@ -1,0 +1,112 @@
+# doc_id = health_disease_2510
+# url = https://tamanhhospital.vn/nhip-tim-cham/
+# date = 21/06/2024
+Nhịp tim chậm: Nguyên nhân, triệu chứng và cách phòng ngừa
+Tình trạng tim đập chậm ít xảy ra hơn nhịp tim nhanh, nhưng có nguy cơ dẫn đến nhiều biến chứng nguy hiểm. Vậy, khi bị nhịp tim chậm nên xử trí thế nào?
+Mục lụcTim đập chậm là gì?Tim đập chậm có phải rối loạn nhịp không?Nhịp tim chậm là bệnh gì?Nguyên nhân gây ra nhịp tim chậm1. Bất thường xung điện của tim2. Các vấn đề về nút xoang nhĩ3. Block nhĩ thấtCác yếu tố nguy cơ của bệnh tim đập chậmTriệu chứng khi tim đập chậm1. Triệu chứng tim đập chậm thường gặp2. Triệu chứng tim đập chậm khẩn cấpBiến chứng khi tim đập chậm kéo dài1. Ngất xỉu2. Huyết áp thấp/cao3. Suy tim4. Ngừng timCác phương pháp chẩn đoán tình trạng tim đập chậm1. Điện tâm đồ2. Holter điện tâm đồ3. Thiết bị ghi điện tim cấy trong cơ thể (Loop recorder)4. Siêu âm tim5. Nghiệm pháp bàn nghiêng6. Nghiệm pháp gắng sức7. Đo mức độ chất điện giải8. Kiểm tra nồng độ hormone tuyến giáp9. Xét nghiệm TroponinPhương pháp điều trị nhịp tim đập chậm1. Điều trị thuốc2. Cấy máy tạo nhịp timPhòng ngừa nguy cơ tim đập chậmCâu hỏi thường gặp về nhịp tim chậm1. Nhịp tim chậm kéo dài bao lâu?2. Khi nào nên gặp bác sĩ?Tim đập chậm là gì?
+Ở người trưởng thành, nhịp tim trung bình từ 60-100 lần/phút. Khi tim đập chậm dưới 60 lần/phút có thể là nhịp tim chậm. Trong một số trường hợp như người trẻ khỏe mạnh, vận động viên… tình trạng này không đáng ngại. Tim đập chậm cũng có thể xuất hiện trong khi ngủ say hoặc ở người cao tuổi.
+Nhịp tim thấp có thể xảy ra ở mọi đối tượng, nhưng phổ biến hơn ở người già. Trẻ em và trẻ sơ sinh ít gặp tình trạng này vì tuổi càng nhỏ, nhịp tim bình thường càng cao hơn, từ 120-160 lần/phút. Tùy theo từng lứa tuổi sẽ có phạm vi tần số tim bình thường, nhanh, chậm, khác nhau. Ví dụ trẻ 0-3 tuổi khi thức, tần số tim dưới 100 lần/phút… Tuy nhiên, nhịp tim chậm có thể là dấu hiệu bất thường ở hệ thống điện của tim, cần được thăm khám và điều trị sớm. (1)
+Tim đập chậm có phải rối loạn nhịp không?
+Phạm vi nhịp tim của người trưởng thành khỏe mạnh từ 60-100 nhịp mỗi phút. Nhưng khi bị bệnh tim đập chậm, nghĩa là nhịp tim dưới 60 lần/phút và có các triệu chứng bất thường đi kèm. Ở những người khỏe mạnh, hoạt động thể lực thường xuyên, nhịp tim chậm thường lành tính nhưng nếu tình trạng này kéo dài cùng với các triệu chứng khác, bạn nên gặp bác sĩ để kiểm tra và điều trị phù hợp.
+Nhịp tim chậm là bệnh gì?
+Khi nhận thấy tim đập chậm hơn bình thường, bạn không nên chủ quan vì đây có thể là dấu hiệu cảnh báo một số bệnh lý làm ảnh hưởng đến hệ thống điện học trong tim như: nhồi máu cơ tim, bệnh động mạch vành, viêm cơ tim, nhiễm trùng trong tim.
+Một số bệnh lý như suy tuyến giáp hoặc rối loạn điện giải cũng làm chậm tình trạng dẫn truyền xung điện trong tim, gây ra hiện tượng nhịp tim chậm.
+Nhịp tim chậm có thể là dấu hiệu cảnh báo nhồi máu cơ tim
+Nguyên nhân gây ra nhịp tim chậm
+Tim đập chậm có thể do một số nguyên nhân sau:
+1. Bất thường xung điện của tim
+Nhịp tim được kiểm soát bằng máy tạo nhịp tim tự nhiên, hay còn gọi là nút xoang. Nút xoang này nằm trong tâm nhĩ phải, có vai trò tạo ra các xung điện để bắt đầu mỗi nhịp tim. Khi các xung điện được khởi tạo và truyền qua tâm nhĩ, sẽ khiến chúng co lại và bơm máu vào tâm thất. Các tín hiệu điện được truyền đến nút nhĩ thất (AV), đến bó His, làm cho tâm thất co lại và bơm máu. Khi xung điện tim bị chậm lại hoặc bị chặn, việc truyền tín hiệu từ tâm nhĩ đến tâm thất không đúng cách sẽ gây ra nhịp tim đập chậm.
+2. Các vấn đề về nút xoang nhĩ
+Nút xoang nhĩ hay còn gọi là nút SA, là bộ phận tạo ra các xung điện truyền qua tim, điểm khởi đầu cho mỗi nhịp tim. Tuy nhiên, khi nút xoang gặp vấn đề trong việc phát tín hiệu xung điện sẽ khiến tim bị đập chậm gồm: nút xoang phát xung điện chậm hơn bình thường hoặc bị chặn trước khi khiến tâm nhĩ co lại. (2)
+3. Block nhĩ thất
+Block nhĩ thất là tình trạng dẫn truyền xung động từ tâm nhĩ xuống tâm thất bị chậm lại hoặc ngừng trệ. Block nhĩ thất được chia làm 3 mức độ tùy thuộc vào mức độ tắc nghẽn:
+Block nhĩ thất độ 1: Có thể gặp ở người bình thường hoặc xuất hiện trong một số bệnh lý liên quan đến tim. Tín hiệu đến tâm thất bị chậm lại nhưng ở mức độ nhẹ, hầu như không gây ra triệu chứng.
+Block nhĩ thất độ 2: Xung điện từ tâm nhĩ đến tâm thất lúc có lúc không, một vài nhịp bị bỏ lỡ khiến nhịp tim không đều hoặc gây ra tình trạng tim đập chậm.
+Block nhĩ thất độ 3: Không có xung điện nào đến tâm thất do đường dẫn truyền tín hiệu điện đến tâm thất bị tắc nghẽn hoàn toàn. Khi đó, tâm nhĩ sẽ đập theo nhịp của tâm nhĩ, còn tâm thất sẽ đập theo nhịp riêng của tâm thất.
+Các yếu tố nguy cơ của bệnh tim đập chậm
+Một số yếu tố nguy cơ làm tăng khả năng gây ra triệu chứng tim đập chậm, bao gồm:
+Tuổi tác: Nhịp tim chậm thường gặp ở những người trên 65 tuổi, thường gặp khi ngủ say.
+Mắc bệnh tim mạch như: Viêm cơ tim, bệnh mạch vành, suy nút xoang, viêm nội tâm mạc nhiễm trùng…
+Cơ thể bị thiếu chất điện giải như kali, canxi, magie… làm ảnh hưởng đến nhịp tim.
+Tác dụng phụ của một số loại thuốc như: Thuốc chẹn beta, thuốc chẹn kênh canxi, thuốc trầm cảm, thống chống loạn nhịp tim…
+Căng thẳng, lo âu kéo dài.
+Sử dụng các chất kích thích có trong cà phê, bia, rượu, nước uống có ga hoặc thuốc lá.
+Huyết áp cao.
+Từng xạ trị: Bức xạ từ phương pháp điều trị này có thể gây ảnh hưởng đến nhịp tim. (3)
+Người cao tuổi thường gặp tình trạng tim đập chậm
+Triệu chứng khi tim đập chậm
+Tình trạng nhịp tim chậm có những biểu hiện thường gặp và các biểu hiện khẩn cấp.
+1. Triệu chứng tim đập chậm thường gặp
+Khi nhịp tim chậm, các cơ quan và mô trong cơ thể không nhận đủ lượng máu giàu oxy cần thiết cho hoạt động bình thường. Trong hầu hết các trường hợp, nhịp tim chậm không có bất kỳ triệu chứng cảnh báo nào. Một số người có thể gặp dấu hiệu như:
+Hụt hơi;
+Cảm giác đau thắt ở ngực;
+Choáng váng, người có cảm giác lâng lâng;
+Mệt mỏi, khó chịu trong người;
+Khó tập trung;
+Dễ mệt khi vận động nặng.
+2. Triệu chứng tim đập chậm khẩn cấp
+Một số trường hợp tim đập chậm là dấu hiệu của bệnh lý cần nhập viện cấp cứu. Người bệnh cần chú ý khi các triệu chứng của nhịp tim chậm trở nên nghiêm trọng bao gồm:
+Đau tức nặng ở ngực;
+Khó thở;
+Da trở nên xanh xao, nhợt nhạt;
+Giảm thị lực đột ngột;
+Lú lẫn;
+Mất ý thức, ngất xỉu.
+Biến chứng khi tim đập chậm kéo dài
+Tình trạng tim đập chậm bệnh lý kéo dài ko được chẩn đoán và điều trị có thể gây ra các biến chứng nguy hiểm.
+1. Ngất xỉu
+Nhịp tim chậm có thể dẫn đến tình trạng ngất xỉu tạm thời. Thông thường, người bệnh sẽ nhanh chóng tỉnh lại. Tuy nhiên, nếu tim đập chậm kéo dài khiến bạn thường xuyên ngất xỉu thì nên thăm khám và điều trị sớm, tránh các biến chứng nguy hiểm.
+>> Xem thêm:Nhịp tim chậm có nguy hiểm không? Các biến chứng thường gặp
+2. Huyết áp thấp/cao
+Việc tim đập chậm hơn so với bình thường khiến các cơ quan trong cơ thể không nhận đủ máu. Khi đó, tim càng phải co bóp mạnh hơn để đưa máu đến các mô và cơ quan. Điều này có thể gây ảnh hưởng đến huyết áp.
+3. Suy tim
+Tình trạng tim đập chậm diễn ra trong thời gian dài, không có sự can thiệp điều trị sẽ làm giảm khả năng co bóp và tống máu của tim. Dần dần, tim bị suy yếu gây ảnh hưởng đến sức khỏe, chất lượng sống của người bệnh, nghiêm trọng hơn có thể dẫn đến đột quỵ và nhồi máu cơ tim.
+4. Ngừng tim
+Nhịp tim chậm được xem là một trong các nguyên nhân gây ngừng tim. Trường hợp tim đập quá chậm trong thời gian dài sẽ khiến hoạt động co bóp của tim chậm lại hoặc ngừng hoàn toàn. Khi đó, bệnh nhân sẽ đột ngột ngã quỵ, bất tỉnh, tim ngừng đập. Nếu không được hô hấp nhân tạo hoặc ép tim ngoài lồng ngực ngay lập tức sẽ nguy hiểm đến tính mạng, thậm chí tử vong.
+Tim đập chậm có thể gây ngừng tim đột ngột, dẫn đến tử vong nếu không được cấp cứu kịp thời
+Các phương pháp chẩn đoán tình trạng tim đập chậm
+Để xác định tình trạng tim đập chậm, người bệnh có thể được chỉ định thực hiện một số phương pháp chẩn đoán sau.
+1. Điện tâm đồ
+Phương pháp này rất cần thiết đối với bệnh nhân có triệu chứng tim đập chậm. Bằng cách theo dõi hoạt động điện tim thông qua các điện cực được dán vào ngực của người bệnh, bác sĩ có thể phát hiện tín hiệu bất thường nhịp tim.
+2. Holter điện tâm đồ
+Một số trường hợp nhịp tim chậm bệnh lý, tình trạng tim đập chậm xuất hiện ở những thời điểm khác nhau, khi đo điện tim khó phát hiện. Khi đó bác sĩ có thể cho bệnh nhân đeo một thiết bị theo dõi nhịp tim liên tục (Holter điện tâm đồ) từ 24-48-72 giờ hoặc 7 ngày, 14 ngày. Các chỉ số nhịp tim của bệnh nhân theo từng thời điểm sẽ được ghi lại đầy đủ trong suốt thời gian đeo thiết bị. Từ đó, bác sĩ sẽ chẩn đoán được các bất thường nhịp tim.
+3. Thiết bị ghi điện tim cấy trong cơ thể (Loop recorder)
+Nếu sử dụng Holter điện tâm đồ nhưng vẫn không đo được bất thường nhịp tim, bác sĩ sẽ chỉ định bệnh nhân sử dụng máy ghi điện tim cấy trong cơ thể. Thiết bị sẽ hoạt động, ghi lại nhịp tim liên tục trong vài tuần đến vài tháng. Phương pháp này có thể xác định được rối loạn nhịp tim tại thời điểm bệnh nhân xuất hiện triệu chứng.
+4. Siêu âm tim
+Đây là phương pháp chẩn đoán các vấn đề bất thường ở tim phổ biến hiện nay. Các thông tin liên quan đến tình trạng của tim có thể được nhận biết thông qua siêu âm tim là: Kích thước, hình dạng, hoạt động co bóp của tim, cấu trúc van tim, nhịp tim…
+5. Nghiệm pháp bàn nghiêng
+Nhịp tim chậm có thể khiến bệnh nhân bị ngất xỉu nhiều lần. Do đó, nghiệm pháp bàn nghiêng được áp dụng để tìm nguyên nhân gây ngất có liên quan đến vấn đề ở tim hay không. Bệnh nhân nằm trên bàn nghiêng, thay đổi tư thế trong thời gian nhất định và được theo dõi liên tục để phát hiện tư thế tạo ra các triệu chứng gây ngất.
+6. Nghiệm pháp gắng sức
+Nhịp tim thay đổi sinh lý theo nhu cầu hoạt động của cơ thể: thường nhịp tim chậm khi nghỉ ngơi, tăng lên khi vận động, gắng sức. Tuy nhiên, những bệnh nhân có bệnh lý nhịp tim chậm sẽ không có phản xạ tăng nhịp tim khi gắng sức. Do đó, phương pháp này có thể giúp đánh giá tình trạng nhịp tim chậm. (4)
+Siêu âm tim gắng sức xe đạp lực kế có thể giúp kiểm tra bất thường ở người nhịp tim chậm kéo dài
+7. Đo mức độ chất điện giải
+Xét nghiệm này giúp đo mức độ các chất điện giải trong máu như kali, magie, canxi… Nếu kết quả cho thấy mức độ các chất điện giải bị thiếu hụt, giảm sút nghiêm trọng có thể được chẩn đoán là nguyên nhân gây ra tình trạng tim đập chậm.
+8. Kiểm tra nồng độ hormone tuyến giáp
+Tuyến giáp là cơ quan thường dễ bị rối loạn chức năng, gây ra nhiều vấn đề về sức khỏe, trong đó có nhịp tim chậm. Do đó, thực hiện xét nghiệm đo nồng độ hormone tuyến giáp, đánh giá chức năng của tuyến giáp có thể giúp sàng lọc các nguyên nhân gây tim đập chậm có liên quan đến sự rối loạn chức năng tuyến giáp.
+9. Xét nghiệm Troponin
+Khi cơ tim bị tổn thương, nồng độ Troponin sẽ tăng lên trong máu. Xét nghiệm Troponin giúp chẩn đoán các vấn đề tổn thương ở tim như nhồi máu cơ tim, viêm cơ tim…
+Phương pháp điều trị nhịp tim đập chậm
+Tùy theo tuổi tác, nguyên nhân gây ra tình trạng tim đập chậm, bệnh nền kèm theo… bác sĩ sẽ cân nhắc hướng điều trị phù hợp.
+1. Điều trị thuốc
+Bác sĩ cần căn cứ vào nguyên nhân gây nhịp tim chậm để chỉ định điều trị bằng thuốc phù hợp. Đối với bệnh nhân bị tim đập chậm, các loại thuốc thường được chỉ định như: Atropine, dopamin, epinephrine, glycopyrrolate. Những loại thuốc này sẽ được sử dụng tại bệnh viện, dưới sự theo dõi, giám sát của nhân viên y tế. Khi xác định được nguyên nhân cụ thể gây rối loạn nhịp chậm, bệnh nhân sẽ được chỉ định thuốc điều trị phù hợp.
+2. Cấy máy tạo nhịp tim
+Nếu điều trị bằng thuốc không đem lại hiệu quả như mong muốn, bác sĩ có thể chỉ định cấy máy tạo nhịp tim. Phương pháp này đặc biệt hiệu quả với những bệnh nhân bị hội chứng suy nút xoang, block nhĩ thất hoàn toàn… Đây là giải pháp lâu dài giúp điều trị hiệu quả tình trạng tim đập chậm bệnh lý.
+Phòng ngừa nguy cơ tim đập chậm
+Để phòng ngừa nguy cơ tim đập chậm cũng như các bất thường ở tim, bạn có thể thực hiện một số biện pháp bao gồm:
+Xây dựng một chế độ ăn uống lành mạnh, tốt cho sức khỏe tim mạch như: Ăn nhiều rau xanh, trái cây, ngũ cốc, cá…; hạn chế những thực phẩm nhiều dầu mỡ, đóng hộp;
+Tập thể dục đều đặn, chọn các môn thể thao vừa sức;
+Giảm cân khoa học nếu thừa cân, béo phì;
+Kiểm soát tốt các yếu tố nguy cơ gây tăng huyết áp, rối loạn mỡ máu, tiểu đường…;
+Kiêng chất kích thích như rượu, bia, cà phê, thuốc lá;
+Giảm căng thẳng, áp lực;
+Tuân thủ điều trị các bệnh nền có sẵn;
+Thăm khám định kỳ.
+Vận động, tập thể dục thường xuyên giúp phòng ngừa nhịp tim chậm và nâng cao sức khỏe tổng thể
+Câu hỏi thường gặp về nhịp tim chậm
+1. Nhịp tim chậm kéo dài bao lâu?
+Nhịp tim chậm có thể chỉ xuất hiện và tồn tại trong một thời gian ngắn hoặc kéo dài suốt đời. Điều này tùy thuộc vào nguyên nhân khiến tim đập chậm. Nếu bạn không xác định được nguyên nhân hoặc nhận thấy tình trạng này kéo dài, cần đến bệnh viện để thăm khám sớm.
+2. Khi nào nên gặp bác sĩ?
+Tình trạng tim đập chậm có thể không gây ra triệu chứng rõ rệt. Tuy nhiên, nếu nhịp tim chậm kéo dài, hoặc tim đập chậm kèm theo các triệu chứng như đau thắt ngực, khó thở, chóng mặt, ngất xỉu… bạn nên đến bệnh viện thăm khám. Bên cạnh đó, người trưởng thành nên thăm khám sức khỏe định kỳ mỗi năm, bất kể có bị tim đập chậm hay không để phát hiện sớm bất thường và can thiệp kịp thời.
+Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh khám và điều trị chuyên sâu các bệnh lý về tim mạch, mạch máu, lồng ngực, trong đó có bệnh rối loạn nhịp, tim đập chậm… Trung tâm quy tụ đội ngũ bác sĩ giàu kinh nghiệm, trang bị hệ thống thiết bị tiên tiến giúp chẩn đoán chính xác và điều trị hiệu quả cho mọi đối tượng từ trẻ em đến người trưởng thành, người lớn tuổi, phụ nữ mang thai…
+Để đặt lịch khám, tư vấn và điều trị tại Trung tâm Tim mạch, Hệ thống Bệnh viện Đa khoa Tâm Anh, Quý khách có thể liên hệ theo thông tin:
+Tim đập chậm cũng có nguy cơ dẫn đến các biến chứng nguy hiểm nếu không được phát hiện và điều trị kịp thời. Do đó, khi nhận thấy có bất thường ở nhịp tim, bạn nên chủ động thăm khám sớm. Đồng thời, mỗi người cần thực hành lối sống khoa học để phòng ngừa bệnh tim mạch, trong đó có tình trạng nhịp tim chậm bệnh lý.

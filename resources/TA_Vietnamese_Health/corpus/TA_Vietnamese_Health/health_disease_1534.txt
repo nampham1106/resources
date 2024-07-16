@@ -1,0 +1,49 @@
+# doc_id = health_disease_1534
+# url = https://tamanhhospital.vn/ecg-dien-tam-do-nhoi-mau-co-tim/
+# date = 08/12/2022
+Chẩn đoán ECG điện tâm đồ nhồi máu cơ tim là gì? Chính xác không?
+Điện tâm đồ nhồi máu cơ tim (ECG) là phương pháp chẩn đoán phổ biến và nhanh nhất cho tình trạng nhồi máu cơ tim, nhồi máu cơ tim thất phải.
+Bài viết được tư vấn chuyên môn bởi ThS.BS Phạm Hoàng Trọng Hiếu – Bác sĩ Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Chẩn đoán nhồi máu cơ tim được khẳng định dựa trên các biểu hiện lâm sàng và sự thay đổi điện tâm đồ cùng với tình trạng tăng men tim. ECG nhồi máu cơ tim là một trong những phương pháp nhanh nhất và dễ dàng nhất cho việc chẩn đoán ngay từ đầu. (1)
+Chẩn đoán nhồi máu cơ tim bằng điện tâm đồ (ECG)
+Mục lụcĐiện tâm đồ nhồi máu cơ tim là gì?Vai trò của điện tâm đồ (ECG) trong chẩn đoán nhồi máu cơ timDấu hiệu nhồi máu cơ tim trên điện tâm đồ (ECG)Tiêu chuẩn để chẩn đoán ST chênh lên trên xét nghiệm điện tâm đồCác phương pháp chẩn đoán nhồi máu cơ tim khác1. Xét nghiệm men tim2. Chụp mạch vànhĐiện tâm đồ nhồi máu cơ tim là gì?
+Điện tâm đồ nhồi máu cơ tim (ECG) là một trong những phương pháp cận lâm sàng, giúp phát hiện các vấn đề về tim bằng cách đo hoạt động điện do tim tạo ra khi tim co bóp.
+Nhồi máu cơ tim thường xảy ra do suy động mạch vành đột ngột, gây hoại tử và chức năng cơ tim không phù hợp. Điều trị thường là can thiệp mạch vành qua da, nhưng bắt buộc phải chẩn đoán ECG sớm và chính xác.
+Điện tâm đồ 12 đạo trình tiêu chuẩn là một trong những phương pháp cận lâm sàng được sử dụng phổ biến nhất để đánh giá bệnh tim mạch. Đây là một trong những cận lâm sàng quan trọng nhất để phát hiện các biến đổi bất thường mang tính bệnh lý, các sóng điện tim bất thường được ghi lại có thể cho thấy giai đoạn của nhồi máu cơ tim, và định hướng vùng bị nhồi máu cơ tim. (2)
+Vai trò của điện tâm đồ (ECG) trong chẩn đoán nhồi máu cơ tim
+Hiệp hội Tim mạch Hoa Kỳ khuyến cáo phương pháp điện tâm đồ (ECG) như một công cụ hữu ích và dễ tiếp cận để chẩn đoán nhồi máu cơ tim. Ngoài ra, phương pháp này còn giúp phát hiện nhiều vấn đề tim mạch khác mà bệnh nhân đang mắc phải, chẳng hạn như phì đại thất trái, rối loạn nhịp tim như ngoại tâm thu thất, block nhĩ thất, block nhánh… Nhờ phát hiện sớm, bệnh nhân được can thiệp điều trị ngay từ giai đoạn đầu, chăm sóc và kiểm soát sức khỏe tốt hơn.
+Tuy nhiên, nhiều bệnh lý tim mạch không thể phát hiện được bằng điện tâm đồ, do đó không nên sử dụng điện tâm đồ làm phương tiện duy nhất để chẩn đoán bệnh lý tim mạch. Thông thường, khoảng 50% bệnh nhân bị đau thắt ngực không ổn định (UA) và nhồi máu cơ tim không có ST chênh lên (NSTEMI) không cho thấy bất kỳ thay đổi nào trên điện tâm đồ ngay từ đầu. Do đó, việc theo dõi quá trình thay đổi trên ECG dựa trên diễn tiến của các triệu chứng thiếu máu cơ tim như đau thắt ngực là điều vô cùng cần thiết. (3)
+Tương tự như vậy, việc lựa chọn chính xác từng thiết bị chẩn đoán cho mọi bệnh nhân là điều quan trọng hàng đầu
+Dấu hiệu nhồi máu cơ tim trên điện tâm đồ (ECG)
+Đo điện tâm đồ 12 chuyển đạo càng sớm càng tốt ngay tại phòng cấp cứu, thời gian trì hoãn không nên quá 10 phút. Theo dõi điện tâm đồ liên tục càng sớm càng tốt cho tất cả các bệnh nhân nghi ngờ nhồi máu cơ tim cấp.
+Đo thêm các chuyển đạo thành sau (V7, V8, V9) khi nghi ngờ có nhồi máu cơ tim cấp thành sau (vùng sau thực).
+Tắc cấp hoàn toàn động mạch vành trên thượng tâm mạc sẽ tạo ra hình ảnh ST chênh lên trên điện tâm đồ. Hầu hết các trường hợp nhồi máu cơ tim cấp có ST chênh lên sẽ tiến triển đến nhồi máu có sóng Q. Để định vùng nhồi máu cơ tim, bác sĩ cần dựa vào chuyển đạo có ST chênh lên và/hoặc chuyển đạo có sóng Q bệnh lý. Các chuyển đạo xuyên tâm đối của vùng nhồi máu cơ tim sẽ có hình ảnh ST chênh xuống.
+Tiêu chuẩn để chẩn đoán ST chênh lên trên xét nghiệm điện tâm đồ
+ST chênh lên ở điểm J tại ít nhất hai chuyển đạo liên tiếp với nhau
+Tại chuyển đạo V2 và V3:
+Nam <40 tuổi: J ≥2,5mm
+Nam ≥40 tuổi: J ≥2 mm
+Nữ: J ≥1,5 mm
+Các chuyển đạo khác: J ≥1mmm
+Tiêu chuẩn sóng Q bệnh lý trên điện tâm đồ:
+Tại V2, V3: Bất kỳ sóng Q nào lớn hơn 0,02 giây hoặc hình ảnh QS.
+Tại ít nhất hai chuyển đạo liên tiếp nhau có: Q lớn hơn hoặc bằng 0,03 giây và sâu hơn hoặc bằng 1mm hoặc hình ảnh QS.
+Tại V1, V2: R lớn hơn 0,04 giây và R/S lớn hơn một cùng sóng T dương đồng dạng không có rối loạn dẫn truyền đi kèm.
+Trên bệnh nhân nhồi máu cơ tim cấp thành dưới, bác sĩ cần đo thêm các chuyển đạo bên phải (V3R đến V6R) để tìm xem có nhồi máu cơ tim thất phải đi kèm hay không (30-50% các trường hợp). Tại V4R: ST chênh lên ≥1mm giúp chẩn đoán nhồi máu thất phải. Tuy nhiên, dấu hiệu này chỉ tồn tại trong 10-12 giờ đầu tiên của nhồi máu cơ tim.
+Có thể phát hiện hình ảnh nhồi máu cơ tim thành sau gián tiếp qua hình ảnh soi gương tại V1, V2, V3: R ưu thế (R/S lớn hơn 1) và ST chênh xuống. Bệnh nhân cần được đo thêm V7, V8, V9 để có chẩn đoán xác định: V7 – V9 có ST chênh lên lớn hơn hoặc bằng 0,05 mm.
+Các phương pháp chẩn đoán nhồi máu cơ tim khác
+Bệnh nhân đau tim có thể được làm một số xét nghiệm và cận lâm sàng thủ tục chẩn đoán. Các kiểm tra này rất quan trọng để giúp bác sĩ xác định xem cơn đau tim có xảy ra hay không, mức độ tổn thương tim và mức độ hẹp động mạch vành người bệnh có thể mắc phải.
+Cơn đau tim có thể là triệu chứng đầu tiên cho thấy một người bị bệnh mạch vành. Các chẩn đoán sàng lọc tim giúp bác sĩ xác định phương pháp điều trị hoặc thay đổi lối sống sẽ giúp tim bạn khỏe mạnh và ngăn ngừa các biến cố nghiêm trọng trong tương lai.
+Ngoài điện tâm đồ, các chẩn đoán khác có thể bao gồm: (4)
+1. Xét nghiệm men tim
+Hai men đặc hiệu cho tim là Troponin I và troponin T. Hai men này tăng từ giờ thứ 3 của nhồi máu cơ tim, đạt nồng độ đỉnh sau 24-48 giờ. Troponin I sẽ trở về bình thường sau 7-10 ngày và Troponin T II là 10-14 ngày.
+Cần ít nhất một mẫu men tim tăng cao trên bách phân vị thứ 99 trong chẩn đoán nhồi máu cơ tim. Giá trị tại bách phân vị thứ 99 sẽ được cung cấp bởi nhà sản xuất bộ thử xét nghiệm men tim. Nếu mẫu men tim lần thứ nhất âm tính, bác sĩ có thể tiến hành xét nghiệm một mẫu thứ hai sau 4-6 giờ.
+Hai lần thử Troponin cách nhau 4-6 giờ đều âm tính loại trừ nhồi máu cơ tim cấp. Để chẩn đoán sớm hơn trong những trường hợp đau ngực hoặc kết quả điện tâm đồ chưa rõ ràng, bác sĩ có thể sử dụng hsTroponin (Troponin độ nhạy cao) vì hsTroponin tăng sớm hơn Troponin trong nhồi máu cơ tim cấp và thử lại lần hai sau 3 giờ nếu lần đầu hsTroponin âm tính. Mức độ tăng của men Troponin tương quan với mức độ hoại tử khối cơ tim. Troponin càng tăng, tiên lượng càng xấu.
+CK-MB, một loại men tim nhưng không đặc hiệu cho tim, tăng 4-8 giờ sau nhồi máu, trở về bình thường sau 48-72 giờ. Để chẩn đoán xác định nhồi máu cơ tim trong giai đoạn cấp, chỉ cần thử Troponin. Chẩn đoán nhồi máu cơ tim tái phát trong giai đoạn bán cấp của nhồi máu cơ tim, CK-MB thường được sử dụng. Bởi vì trong giai đoạn này Troponin vẫn còn tăng.
+Xét nghiệm men tim là một trong những công cụ chẩn đoán nhồi máu cơ tim bên cạnh điện tâm đồ (ECG)
+2. Chụp mạch vành
+Chụp mạch vành thường kết hợp chẩn đoán với can thiệp mạch vành qua da (PCI, tức là nong mạch vành, đặt stent). Khi có thể, chụp động mạch vành cấp cứu và PCI được thực hiện càng sớm càng tốt sau khi bắt đầu nhồi máu cơ tim cấp tính, cách tiếp cận này đã làm giảm đáng kể tỷ lệ tử vong và cải thiện kết quả lâu dài.
+Chụp động mạch vành được tiến hành khẩn cấp cho bệnh nhân nhồi máu cơ tim ST chênh lên (STEMI), bệnh nhân bị đau ngực dai dẳng mặc dù đã điều trị nội khoa tích cực và bệnh nhân có biến chứng. Bệnh nhân nhồi máu cơ tim không ST chênh lên (NSTEMI) không biến chứng có triệu chứng đã giảm thường được chụp động mạch vành trong vòng 24 giờ đầu nhập viện để phát hiện các tổn thương có thể cần điều trị.
+Khi tiến hành chụp động mạch vành, bác sĩ dùng 1 ống thông nhỏ, dài, mềm được luồn từ động mạch quay ở cổ tay hoặc động mạch đùi hướng vào tim, đi đến động mạch vành. Bác sĩ sẽ bơm thuốc cản quang 1qa ống thông để ghi lại hình ảnh mạch vành. Sau đó, bác sĩ sẽ đưa stent vào vị trí mạch vành bị tắc, rồi bung stent để nong mạch máu rộng ra. Điều này giúp cho dòng máu lưu thông trở lại bình thường.
+Chụp mạch vành là một trong những công cụ chẩn đoán nhồi máu cơ tim bên cạnh điện tâm đồ (ECG).
+Trong đánh giá lâm sàng đau ngực, điện tâm đồ nhồi máu cơ tim là một công cụ hỗ trợ cần thiết chẩn đoán nhanh chóng và chính xác ở bệnh nhân nhồi máu cơ tim cấp tính. Tiêu chí điện tâm đồ được sử dụng thường xuyên nhất để xác định nhồi máu cơ tim cấp là đoạn ST chênh lên ở hai hoặc nhiều chuyển đạo liền kề về mặt giải phẫu.

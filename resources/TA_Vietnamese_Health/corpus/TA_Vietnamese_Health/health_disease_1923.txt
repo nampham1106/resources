@@ -1,0 +1,114 @@
+# doc_id = health_disease_1923
+# url = https://tamanhhospital.vn/sieu-am/
+# date = 03/04/2021
+Siêu âm là gì? Quy trình, kỹ thuật và các loại siêu âm phổ biến
+Cùng với sự phát triển mạnh mẽ của y học hiện đại, nhiều phương pháp hỗ trợ chẩn đoán bệnh lý xuất hiện, góp phần phát hiện sớm những dấu hiệu bất thường bên trong cơ thể. Trong đó, siêu âm được biết đến là một trong những kỹ thuật phổ biến và hiệu quả nhất. Vậy kỹ thuật siêu âm là gì? Có mấy loại phương pháp siêu âm (ultrasound). Được ứng dụng trong quy trình chẩn đoán bệnh lý nào? Cần lưu ý những gì khi thực hiện?…
+Mục lụcSiêu âm là gì?Ưu – Nhược điểm của kỹ thuật siêu âmVì sao cần thực hiện siêu âm?Các loại siêu âm trong y khoa phổ biến hiện nay1. Siêu âm 3D2. Siêu âm 4D3. Siêu âm Doppler4. Siêu âm tim5. Siêu âm trị liệu6. Siêu âm ổ bụng7. Siêu âm đầu dò8. Siêu âm tử cung phần phụQuy trình siêu âm như thế nào?1. Chuẩn bị siêu âm2. Thực hiện siêu âm3. Sau siêu âmLợi ích và hạn chế của siêu âmNhững câu hỏi thường gặp1. Siêu âm có cần nhịn ăn không?2. Ăn rồi có siêu âm bụng được không?3. Đi siêu âm nên mặc gì?4. Siêu âm có giúp phát hiện ung thư không?Các hệ thống siêu âm hiện đạiSiêu âm là gì?
+Siêu âm (tiếng Anh là ultrasound) là phương pháp chẩn đoán bệnh lý bằng cách sử dụng một đầu dò phát sóng âm tần số cao để ghi lại hình ảnh trực tiếp bên trong cơ thể, sau đó phản xạ lại và thể hiện thông qua hình ảnh y khoa. Chính nhờ sự phát triển của trang thiết bị, máy móc mà hình ảnh siêu âm được thể hiện một cách rõ nét và chân thật, hỗ trợ các bác sĩ chẩn đoán chính xác bệnh, từ đó áp dụng phương pháp điều trị đúng đắn và hiệu quả.
+Siêu âm là phương pháp phổ biến hỗ trợ chẩn đoán nhiều bệnh lý
+Kỹ thuật ultrasound được sử dụng trong khảo sát nhiều cơ quan, bộ phận khác nhau trong cơ thể như tim, gan, thận, túi mật, lá lách, tuyến giáp, buồng trứng, tử cung, thai nhi, mạch máu,… nhằm phát hiện các khối u bất thường, những thay đổi ở các cơ quan và theo dõi sự phát triển của thai nhi. Mặc dù đây là kỹ thuật phổ biến, hiệu quả và an toàn nhưng khuyến cáo người bệnh chỉ nên thực hiện khi có chỉ định của bác sĩ.
+Ưu – Nhược điểm của kỹ thuật siêu âm
+Siêu âm được biết đến là một phương pháp chẩn đoán hình ảnh không xâm lấn, hỗ trợ bác sĩ trong công tác chẩn đoán và điều trị bệnh. Những tiến bộ vượt bậc trong kỹ thuật siêu âm hiện đại phải kể đến siêu âm 3 chiều (3D) có khả năng tái tạo các dữ liệu thu nhận được từ sóng âm thành hình ảnh 3 chiều, hay siêu âm 4 chiều (4D) là siêu âm 3 chiều có tích hợp thêm ghi nhận sự chuyển động.
+Những ưu điểm của phương pháp siêu âm:
+Hỗ trợ bác sĩ thực hiện công tác thăm khám, chẩn đoán các bệnh lý như u nang, viêm, dị dạng… ở nhiều vị trí trên cơ thể như gan, mật, thận, ổ bụng, vú, tử cung,…
+Cung cấp hình ảnh rõ nét đánh giá sự phát triển của thai nhi, đặc biệt với siêu âm 3D, 4D có thể phát hiện sớm các dị tật hình thái ở thai nhi (nếu có)
+Đánh giá chính xác vị trí và kích thước của sỏi như sỏi thận, sỏi niệu đạo, sỏi bàng quang,…
+Là phương pháp chẩn đoán hình ảnh không xâm lấn, không gây hại, gây đau cho người sử dụng, có thể thực hiện kiểm tra nhiều lần nếu cần thiết
+Kỹ thuật siêu âm sử dụng sóng âm, không sử dụng tia phóng xạ ion hóa như trong X-quang nên không ảnh hưởng đến sức khỏe thai nhi. Đồng thời, còn cho phép nhìn thấy những hình ảnh rõ nét của các mô mềm mà X-quang thường không nhìn rõ.
+Siêu âm 4D giúp bố mẹ nhìn thấy được hình hài, mặt mũi của trẻ khi còn trong bào thai
+Siêu âm ít tốn kém hơn những phương pháp chẩn đoán hình ảnh khác, nên thường được cân nhắc sử dụng phổ biến.
+Tuy nhiên, bên cạnh đó kỹ thuật siêu âm vẫn có một số nhược điểm nhất định:
+Không thể chẩn đoán chính xác những bất thường ở ruột và những cơ quan bị ruột che khuất vì sóng âm bị cản trở bởi không khí và hơi. Thay vào đó, các kỹ thuật CT scan hoặc MRI sẽ được cân nhắc trong trường hợp này.
+Kỹ thuật siêu âm không truyền qua được trong không khí, chính vì thế các cơ quan như tụy, dạ dày, động mạch chủ sẽ cần kết hợp thêm các phương pháp chẩn đoán hình ảnh khác.
+Kỹ thuật siêu âm chỉ thể hiện hình ảnh bề mặt ngoài của xương, không thể hiện hình ảnh bên trong xương.
+Độ xuyên thấu của sóng siêu âm bị giới hạn, nhất là ở những cấu trúc sâu bên trong cơ thể. Do đó, phương pháp này hạn chế sử dụng ở người thừa cân, béo phì.
+Hiệu quả của kỹ thuật này phụ thuộc vào trình độ và kinh nghiệm của bác sĩ siêu âm để cho những hình ảnh chất lượng tốt nhất.
+Siêu âm giúp bố mẹ nhìn rõ hình hài thai nhi ngay trong bụng mẹ
+Vì sao cần thực hiện siêu âm?
+Trong những trường hợp người bệnh có triệu chứng đau, sưng tấy hoặc các triệu chứng đặc trưng khác, bác sĩ có thể yêu cầu người bệnh thực hiện phương pháp siêu âm (ultrasound) nhằm quan sát tổng quan và chi tiết hình ảnh các cơ quan bên trong cơ thể. (5) Cụ thể là:
+Hỗ trợ chẩn đoán bệnh lý ở túi mật
+Đánh giá lưu lượng máu
+Kiểm tra tình trạng hoạt động tuyến giáp
+Xác định các khối u ở vú
+Đánh giá tình trạng viêm khớp, viêm bao hoạt dịch, các bệnh lý xương khớp…
+Phát hiện các vấn đề ở cơ quan sinh dục và tuyến tiền liệt
+Siêu âm tử cung và buồng trứng, theo dõi sức khỏe và sự phát triển của thai nhi
+Đây còn được xem là một công cụ hữu ích giúp bác sĩ có những chỉ định tiếp theo, chẳng hạn như sinh thiết. (1)
+ThS.BS Hồ Hoàng Phương, Giám đốc Trung tâm Chẩn đoán hình ảnh, Bệnh viện Đa khoa Tâm Anh TP.HCM cho biết, nếu như trước đây chưa có sự xuất hiện của các kỹ thuật siêu âm, việc xác định và đánh giá những bất thường trong cơ thể còn khó khăn, bệnh thường được phát hiện ở giai đoạn muộn và nguy cơ đối mặt với nhiều biến chứng nguy hiểm thì hiện nay, các phương pháp chẩn đoán hình ảnh đã xuất hiện và phát triển ngày càng mạnh mẽ. Siêu âm được biết đến là kỹ thuật chẩn đoán hình ảnh hiện đại được áp dụng phổ biến nhất, bất kỳ ai cũng có thể tham gia kỹ thuật này để có thể phát hiện sớm bệnh lý, chẩn đoán chính xác và điều trị dễ dàng hơn.
+Các loại siêu âm trong y khoa phổ biến hiện nay
+1. Siêu âm 3D
+Siêu âm 3D là một trong những kỹ thuật được chỉ định thực hiện nhiều nhất hiện nay, được dùng trong những trường hợp hỗ trợ chẩn đoán bệnh lý, thường gặp nhất là trong khám thai. Đầu dò máy siêu âm sẽ thu nhận và phản xạ lại, thể hiện hình ảnh rõ nét trong không gian 3 chiều.
+2. Siêu âm 4D
+Siêu âm 4D là công nghệ được phát triển trên nền tảng siêu âm 3D. Bên cạnh các tính năng như 3D, 4D còn bổ sung tính năng ghi nhận hình ảnh cử động của thai nhi, nhờ đó bố mẹ có thể nhìn thấy hình thái cơ thể con yêu một cách rõ nét và chân thực.
+3. Siêu âm Doppler
+Siêu âm Doppler được áp dụng nhiều nhất trong siêu âm thai kỳ và siêu âm tim mạch nhờ khả năng đo dòng chuyển động trong mạch máu. Thông qua phương pháp ultrasound Doppler, các bác sĩ có thể phát hiện sớm và chính xác các dị tật về mặt hình thái ở thai nhi, cũng như tình trạng phát triển của thai nhi trong bụng mẹ. Đặc biệt, siêu âm Doppler cho kết quả chẩn đoán chính xác dị tật tim thai.
+Hiện nay, siêu âm Doppler có 2 loại là siêu âm xung và siêu âm Doppler liên tục. Kỹ thuật này được xem là phương pháp chẩn đoán hình ảnh an toàn nhất cho cả thai phụ và thai nhi, kể cả những thai phụ ở 3 tháng cuối của thai kỳ.
+4. Siêu âm tim
+Đây là kỹ thuật sử dụng sóng siêu âm để thực hiện nghiên cứu cấu trúc và chẩn đoán các bệnh lý ở tim. Thông qua các tín hiệu siêu âm dò tìm và thể hiện lại qua hình ảnh, tình trạng co bóp của tim được thể hiện rõ nét. Bên cạnh đó, dựa vào hình ảnh này bác sĩ cũng có thể đánh giá được tư thế, vị trí cũng như kích thước buồng tim, từ đó phát hiện được những lỗ khuyết hổng ở các vách ngăn trong tim, các u xơ hoặc dị tật bên trong tim và ngoài màng tim nếu có.
+Hiện các kỹ thuật siêu âm tim phổ biến gồm:
+Siêu âm tim kiểu TM
+Siêu âm tim 2D
+Siêu âm tim 3D
+Siêu âm tim 4D
+Siêu âm Doppler
+5. Siêu âm trị liệu
+Đây là kỹ thuật được sử dụng phổ biến trong vật lý trị liệu nhằm điều trị các tổn thương ở da và mô mềm.
+Siêu âm trị liệu có tác dụng giảm đau nhức và tái tạo các mô tổn thương bên trong cơ thể
+Kỹ thuật này sử dụng một tần số thích hợp, tác dụng nhiệt và cơ học lên mô và da để mô dễ dàng hấp thụ năng lượng sóng âm. Do đó, kỹ thuật này rất thích hợp cho những trường hợp muốn giảm triệu chứng đau nhức, hoặc tái tạo mô bị tổn thương ở sâu bên trong cơ thể.
+6. Siêu âm ổ bụng
+Siêu âm ổ bụng là phương pháp chẩn đoán hình ảnh được áp dụng trong trường hợp muốn quan sát cấu trúc bên trong các cơ quan nội tạng cơ thể, phát hiện các bất thường ở các cơ quan này nếu có. Chẳng hạn các bệnh lý ở gan như viêm gan, xơ gan, gan nhiễm mỡ, áp xe gan…; các bệnh lý ở hệ tiêu hóa như viêm ruột thừa, ruột non…; các bất thường ở đường mật như sỏi mật, viêm túi mật, dị dạng đường mật…; các bất thường ở cơ quan sinh dục như u xơ tử cung, u nang buồng trứng, ung thư tuyến tiền liệt…
+Ngoài ra, siêu âm ổ bụng còn được dùng trong khảo sát dịch trong bụng, khoang màng phổi và màng tim. Hình ảnh siêu âm thu được có ý nghĩa giúp phát hiện các dấu hiệu bất thường là nguyên nhân dẫn đến bệnh lý phình động mạch chủ, dịch ổ bụng…
+7. Siêu âm đầu dò
+Siêu âm đầu dò giúp phát hiện, đánh giá các bất thường ở buồng trứng, vòi trứng, tử cung, cổ tử cung, độ dày niêm mạc tử cung… có ý nghĩa quan trọng trong việc hỗ trợ khám, chẩn đoán chính xác và điều trị hiệu quả bệnh lý vô sinh hiếm muộn.
+Tùy theo dấu hiệu và nhu cầu thăm khám mà bác sĩ sẽ chỉ định siêu âm đầu dò phù hợp, có thể là siêu âm đầu dò âm đạo hoặc đầu dò hậu môn. Siêu âm đầu dò hậu môn được dùng trong chẩn đoán các bệnh lý vùng tiểu khung, tuyến tiền liệt, bệnh trực tràng…
+8. Siêu âm tử cung phần phụ
+Siêu âm tử cung phần phụ là phương pháp chẩn đoán hình ảnh được dùng trong đánh giá chức năng sinh dục ở nữ giới, đánh giá độ dày mỏng của niêm mạc tử cung và hỗ trợ phát hiện sớm, tầm soát các bệnh lý phụ khoa, có hướng điều trị can thiệp kịp thời.
+Quy trình siêu âm như thế nào?
+1. Chuẩn bị siêu âm
+Tùy vào khu vực hoặc bộ phận được kiểm tra mà người tham gia kỹ thuật siêu âm có sự chuẩn bị khác nhau. Thông thường, bác sĩ có thể yêu cầu người tham gia nhịn ăn từ 8-12 giờ đồng hồ trước siêu âm, đặc biệt là trong khám bụng bởi thức ăn chưa được tiêu hóa sẽ chặn sóng âm thanh, kỹ thuật viên khó thu được hình ảnh rõ nét và chính xác. (2)
+Trường hợp kiểm tra gan, túi mật, tuyến tụy và lá lách, người tham gia được yêu cầu có chế độ ăn không chất béo vào buổi tối trước xét nghiệm, sau đó nhịn ăn cho tới khi thực hiện thủ thuật. Người tham gia vẫn có thể uống nước hoặc các loại thuốc theo sự cho phép của bác sĩ. Tuy nhiên, đối với một số kiểm tra khác như siêu âm vùng chậu, người tham gia sẽ được yêu cầu uống nhiều nước và nhịn tiểu để bàng quang đầy, hình ảnh thu nhận được rõ nét và chính xác hơn.
+Lưu ý khi thực hiện:
+Cần cung cấp chính xác thông tin các loại thuốc bản thân đang sử dụng với bác sĩ, kể cả các loại thuốc theo toa, thuốc không kê đơn hoặc thực phẩm chức năng để có sự chỉ định phương pháp siêu âm phù hợp.
+Trường hợp siêu âm cho trẻ nhỏ cần tuân thủ thêm một số yêu cầu nhất định, do đó bố mẹ cần tham khảo tư vấn của bác sĩ để có sự chuẩn bị tốt nhất.
+Tuân thủ đúng những hướng dẫn của kỹ thuật viên trong suốt quá trình thực hiện siêu âm.
+2. Thực hiện siêu âm
+Bác sĩ siêu âm sẽ sử dụng một loại gel bôi trơn đặc biệt thoa lên da, gel này giúp đầu dò tiếp xúc an toàn với cơ thể, loại bỏ các túi khí giữa đầu dò và da để chặn sóng âm truyền vào trong cơ thể. Đầu dò sẽ được đặt trên cơ thể và tiến hành di chuyển qua lại ở khu vực cần kiểm tra, thực hiện liên tục đến khi thu lại được hình ảnh mong muốn.
+Gel bôi trơn đặc biệt giúp ngăn sóng siêu âm truyền vào cơ thể
+Thông thường, áp lực gây ra từ đầu dò được ép vào khu vực cần kiểm tra không gây ra cảm giác đau hoặc khó chịu cho người được siêu âm. Tuy nhiên, trong trường hợp vùng kiểm tra là vùng mô mỏng, bạn có thể cảm thấy tức hoặc đau nhẹ.
+Tùy thuộc vào bộ phận cần kiểm tra mà bạn được yêu cầu thay đổi vị trí để bác sĩ có thể tiếp cận tốt hơn.
+Kết thúc quá trình siêu âm, người tham gia được làm sạch toàn bộ gel bôi trơn được thoa lên da trước đó. Thời gian siêu âm thường kéo dài trong vòng 15 – 30 phút, phụ thuộc vào vùng được kiểm tra. Sau đó, bạn có thể sinh hoạt, vận động bình thường. (3)
+3. Sau siêu âm
+Kết quả siêu âm được ghi lại và thể hiện trên hình ảnh, dựa vào đó bác sĩ sẽ kiểm tra và phát hiện những bất thường nếu có. Bác sĩ có thể yêu cầu bạn tái khám định kỳ, hoặc kết hợp thực hiện thêm một số phương pháp chẩn đoán hình ảnh cần thiết khác như chụp CT, MRI, sinh thiết… Tất cả những kết quả này sẽ hỗ trợ bác sĩ chẩn đoán đúng bệnh, đưa ra phương án điều trị tốt nhất.
+Lợi ích và hạn chế của siêu âm
+Siêu âm là phương pháp chẩn đoán hình ảnh được sử dụng phổ biến nhất bởi:
+Kỹ thuật siêu âm không xâm lấn, không gây đau, gây hại cho người sử dụng
+Thao tác dễ dàng, ít tốn kém hơn so với các phương pháp chẩn đoán hình ảnh khác
+Không sử dụng bức xạ, cực kỳ an toàn
+Hình ảnh siêu âm rõ nét, có thể nhìn rõ các mô mềm vốn không hiển thị tốt trên X-quang
+Siêu âm cung cấp hình ảnh ở thời gian thực, là một công cụ hỗ trợ tốt cho việc chỉ định các thủ thuật xâm lấn tối thiểu tiếp theo như sinh thiết, chọc hút dịch
+Siêu âm giúp phát hiện những nhiễm trùng hoặc tổn thương quanh xương
+Tuy nhiên, kỹ thuật này vẫn còn tồn đọng hạn chế nhất định. Sóng siêu âm bị ngăn cản bởi hơi và không khí, do đó siêu âm không phải là phương pháp chẩn đoán hình ảnh lý tưởng cho việc kiểm tra ở ruột và các cơ quan bị ruột che khuất. Thêm vào đó, sóng siêu âm không thể truyền được qua xương, thông thường siêu âm được dùng để chụp ảnh gãy xương hoặc các nhiễm trùng ở xung quanh xương.
+Những câu hỏi thường gặp
+Tổng hợp những thắc mắc được gửi về hộp thư của Trung tâm Chẩn đoán hình ảnh, Bệnh viện Đa khoa Tâm Anh nhiều nhất, ThS.BS Hồ Hoàng Phương, Giám đốc Trung tâm Chẩn đoán hình ảnh, Bệnh viện Đa khoa Tâm Anh TP.HCM giải đáp như sau:
+1. Siêu âm có cần nhịn ăn không?
+Thông thường, siêu âm ở một số cơ quan, bộ phận có thể được thực hiện ngay mà không cần chuẩn bị gì như siêu âm tim, mạch máu, vùng mặt cổ, mắt, tuyến giáp, tuyến vú, các phần mềm, cơ xương khớp… Tuy nhiên, trong một số trường hợp nhất định người tham gia siêu âm cần chuẩn bị kỹ càng, tạo điều kiện thuận lợi cho việc thực hiện kỹ thuật này, tránh kéo dài quá trình:
+Siêu âm gan, túi mật, tuyến tụy và lá lách: Cần ăn một bữa không có chất béo vào buổi tối trước ngày siêu âm, sau đó nhịn ăn trong vòng 8 – 12 giờ trước khi thực hiện kỹ thuật
+Siêu âm thận – tiết niệu: Cần uống 4 – 6 ly nước và nhịn tiểu khoảng 1 giờ trước siêu âm để bàng quang căng. Ngoài ra, người tham gia có thể được yêu cầu nhịn ăn trong vòng 8 – 12 giờ trước khi siêu âm nhằm không để tích tụ khí trong ruột.
+Siêu âm động mạch chủ: Cần nhịn ăn trong vòng 8 – 12 giờ trước siêu âm
+2. Ăn rồi có siêu âm bụng được không?
+Có nhiều yếu tố tác động đến chất lượng hình ảnh siêu âm thu được như thừa cân béo phì, thức ăn trong dạ dày, không khí ở đường ruột… Thức ăn chưa được tiêu hóa có thể làm cản trở sóng âm, gây khó khăn cho việc thu hình ảnh rõ nét. Do đó, để việc thực hiện siêu âm bụng thu được kết quả rõ nét và chính xác, bác sĩ khuyến cáo người tham gia kiểm tra chỉ cần ăn nhẹ, sử dụng các thức ăn dễ tiêu, tránh những thức ăn dầu mỡ gây đầy bụng, khó tiêu.
+Đối với những trường hợp khẩn cấp như cấp cứu, người tham gia kiểm tra không cần phải nhịn ăn hoặc nhịn tiểu. Tuy nhiên, đối với những trường hợp có sự chuẩn bị, để mang lại hình ảnh ultrasound chính xác, khuyến cáo người tham gia kiểm tra nên nhịn ăn ít nhất là 6 – 8 giờ trước khi siêu âm.
+3. Đi siêu âm nên mặc gì?
+Để quá trình siêu âm được diễn ra thuận lợi và nhanh chóng, khuyến cáo người tham gia kiểm tra nên mặc trang phục rộng rãi, thoáng mát. Tại Trung tâm Chẩn đoán hình ảnh, Bệnh viện Đa khoa Tâm Anh có trang bị sẵn trang phục phù hợp, quý khách hàng sẽ được hướng dẫn thay trang phục để thuận tiện cho quá trình kiểm tra.
+4. Siêu âm có giúp phát hiện ung thư không?
+Đây là câu hỏi được nhiều người quan tâm bởi mức độ nguy hiểm của bệnh. Các loại máy siêu âm hiện nay chưa hỗ trợ phát hiện các tế bào ung thư bởi khi các tế bào này chưa hình thành sẽ rất khó để phát hiện. Tuy nhiên, siêu âm sẽ là phương pháp chẩn đoán hình ảnh hữu hiệu trong việc tầm soát ung thư, tạo tiền đề cho các bác sĩ có chỉ định các phương pháp tiếp theo như sinh thiết, xét nghiệm máu, nội soi, chụp CT… Do đó, nếu muốn kiểm tra tình trạng sức khỏe, khách hàng có thể thông báo với các bác sĩ để được chỉ định các kỹ thuật phù hợp.
+Được đầu tư xây dựng cơ sở vật chất khang trang, trang bị hệ thống máy móc tối tân như hệ thống chụp CT 768 lát cắt Somatom Drive, hệ thống MRI thế hệ mới Magnetom Amira BioMatrix, hệ thống chụp nhũ ảnh KTS Mammomat Inspiration, hệ thống máy siêu âm tổng quát cao cấp Acuson Sequoia, Máy siêu âm Supersonic Aixplorer Match 30, Máy siêu âm Philips Affiniti 70G, Máy Hitachi Aloka A850, Máy siêu âm Voluson E10… trong đó nhiều máy móc lần đầu tiên xuất hiện tại Việt Nam cũng như toàn Đông Nam Á; quy tụ đội ngũ bác sĩ, kỹ thuật viên là những chuyên gia đầu ngành; quy trình thăm khám chuyên nghiệp, đội ngũ chăm sóc khách hàng hỗ trợ 24/24… Bệnh viện Đa khoa Tâm Anh mang đến dịch vụ chẩn đoán hình ảnh hàng đầu cả nước với chất lượng dịch vụ vượt trội.
+Xem thêm giải đáp thắc mắc siêu âm nhiều có tốt không?
+Các hệ thống siêu âm hiện đại
+Hiện nay, siêu âm là phương pháp chẩn đoán hình ảnh được sử dụng phổ biến nhất trong chăm sóc sức khỏe, điều trị bệnh lý dành cho mọi đối tượng. Các hệ thống siêu âm tân tiến cũng dần được sử dụng tại bệnh viện đa khoa Tâm Anh, có thể kể đến như: (4)
+Hệ thống máy siêu âm tổng quát, tim mạch cao cấp ACUSON Sequoia: Acuson Sequoia mang đến những hình ảnh sắc nét, giúp xác định nhanh độ cứng của tổn thương mô vú, giáp cũng như mức độ xơ hóa gan không xâm lấn, cung cấp thêm thông tin cho bác sĩ lâm sàng. Máy còn hỗ trợ tính năng siêu âm tim mạch với công nghệ siêu âm đánh dấu mô cơ tim syngo VVI, giúp bác sĩ đánh giá rối loạn chức năng thất trái cũng như vận động của các vùng cơ tim chính xác & nhanh chóng. Ưu điểm nổi trội nữa của hệ thống máy Acuson Sequoia chính là đảm bảo chất lượng của tín hiệu hình ảnh phù hợp cho mọi đối tượng bệnh nhân.
+Máy siêu âm Supersonic Aixplorer Match 30: Với độ nhạy và độ chính xác tuyệt đối, máy siêu âm Supersonic Aixplorer Match 30 mang lại hiệu quả cao trong việc định lượng độ cứng mô, chẩn đoán và phát hiện khối u, ung thư.
+Máy siêu âm Philips Affiniti 70G: Dòng máy cao cấp, dùng siêu âm các bệnh về tim mạch, máy có gắn thiết bị đầu dò siêu âm tim thai, an toàn để theo dõi thai kỳ.
+Máy Hitachi Aloka A850: Phục vụ siêu âm tổng quát, trực tràng, sinh thiết tiền liệt tuyến… với tốc độ nhanh, tiết kiệm thời gian khám bệnh.
+Máy siêu âm Voluson E10: Được xem là dòng “đỉnh của đỉnh” về kỹ thuật siêu âm sản phụ khoa với dựng hình em bé mang đến cảm giác như đang sờ chạm vào em bé thật.
+Kỹ thuật siêu âm (ultrasound) có ý nghĩa cực quan trọng đối với việc tầm soát phát hiện sớm dấu hiệu bệnh lý để can thiệp điều trị kịp thời. Hãy đến ngay Trung tâm Chẩn đoán hình ảnh, Bệnh viện Đa khoa Tâm Anh để trải nghiệm các phương pháp chẩn đoán hình ảnh hiện đại nhất với chất lượng dịch vụ cao nhất!

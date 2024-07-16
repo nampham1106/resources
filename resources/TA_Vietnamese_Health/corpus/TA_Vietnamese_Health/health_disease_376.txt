@@ -1,0 +1,104 @@
+# doc_id = health_disease_376
+# url = https://tamanhhospital.vn/giai-doan-ung-thu-da/
+# date = 10/09/2023
+5 giai đoạn ung thư da: Cách đánh giá và chẩn đoán chi tiết
+Ung thư da là bệnh lý liên quan đến sự phát triển bất thường của các tế bào trong mô da. Tiên lượng bệnh nhân ung thư da và các phương pháp điều trị phụ thuộc vào giai đoạn bệnh. Do đó các xét nghiệm chẩn đoán có ý nghĩa quan trọng trong việc xác định giai đoạn ung thư da để có hướng điều trị phù hợp.
+Mục lụcGiai đoạn ung thư da là gì?Giải mã phân đoạn T,N,M trong chẩn đoán giai đoạn ung thư daCác giai đoạn ung thư da tế bào đáy và tế bào vảy1. Giai đoạn 02. Giai đoạn I3. Giai đoạn II4. Giai đoạn III5. Giai đoạn IVTiên lượng tỷ lệ sống của các giai đoạn bệnh ung thư da như thế nào?Khám tầm soát phát hiện ung thư da giai đoạn sớmGiai đoạn ung thư da là gì?
+Giai đoạn ung thư da là cách mô tả vị trí và kích thước khối u, mức độ xâm lấn mô, hạch và tình trạng di căn xa của ung thư da. Phân loại giai đoạn ung thư giúp bác sĩ đánh giá mức độ lan rộng của khối u đến các mô lân cận và các bộ phận khác của cơ thể.
+Để đưa ra các chẩn đoán giai đoạn ung thư, bác sĩ dựa trên các kết quả xét nghiệm, chẩn đoán hình ảnh và y học hạt nhân. Biết được giai đoạn ung thư da giúp bác sĩ đề xuất các phương pháp điều trị tốt nhất, đồng thời dự đoán tiên lượng bệnh nhân và khả năng phục hồi. (1)
+Giải mã phân đoạn T,N,M trong chẩn đoán giai đoạn ung thư da
+Hầu hết ung thư biểu mô tế bào đáy (BCC) không cần phân loại giai đoạn do khả năng di căn đến các cơ quan khác rất hiếm khi xảy ra. Trường hợp phân giai đoạn ung thư da biểu mô tế bào đáy chỉ xảy ra khi khối u có kích thước lớn. (2)
+Đối với ung thư tế bào vảy, phân giai đoạn ung thư có thể được chỉ định do nhóm này có khả năng lây lan, mặc dù tỷ lệ không cao.
+Bác sĩ dựa vào hệ thống TNM do Ủy ban Ung thư Hoa Kỳ (AJCC) thiết lập hệ thống TNM để phân giai đoạn của các loại ung thư da. Hệ thống TNM dựa vào:
+Khối u (T): mô tả khối u, kích thước và mức độ ảnh hưởng đến lớp biểu bì.
+Nút hạch (N): mô tả bất kỳ tế bào ung thư nào lây lan đến các hạch bạch huyết gần.
+Di căn (M): mô tả bất kỳ sự lây lan xa đến các cơ quan khác trong cơ thể
+Dưới đây là bảng mô tả giai đoạn TNM dựa trên hệ thống thống kê của Ủng ban Ung thư Hoa Kỳ (AJCC) phiên bản thứ 8 (2017).
+KHỐI U NGUYÊN PHÁT (T)
+XẾP LOẠI T
+TIÊU CHÍ T
+TX
+Khối u nguyên phát không thể đánh giá
+Tis
+Ung thư biểu mô tại chỗ
+T1
+Khối u lớn nhất có kích thước ≤ 2cm
+T2
+Khối u lớn nhất có kích thước 2cm ≤ khối u ≤ 4cm
+T3
+Khối u lớn nhất kích thước > 4cm hoặc xói mòn xương hoặc xâm lấn dây thần kinh hoặc xâm lấn sâu (xâm lấn ra ngoài lớp mỡ da hoặc > 6mm được đo từ tầng trên cùng lớp biểu bì đến gốc khối u)
+T4
+Khối u xâm lấn xương vỏ/tủy thô, xâm lấn nền sọ và/hoặc xâm lấn lỗ nền sọ
+T4a
+Khối u xâm lấn xương/tủy
+T4b
+U xâm lấn nền sọ và/hoặc xâm lấn lỗ nền sọ
+CÁC HẠCH BẠCH HUYẾT (N)
+XẾP LOẠI N
+TIÊU CHÍ N
+NX
+Các hạch bạch huyết khu vực không thể đánh giá
+N0
+Không xâm lấn hạch vùng
+N1
+Di căn ở một hạch bạch huyết cùng bên, kích thước lớn nhất ≤ 3 cm
+N2a
+Di căn ở một hạch cùng bên, kích thước khối u lớn nhất 3cm < khối u < 6cm
+N2b
+Di căn ở nhiều hạch bạch huyết cùng bên, không có hạch nào lớn hơn 6cm
+N2c
+Di căn hạch bạch huyết hai bên hoặc đối bên, không có hạch nào lớn hơn 6cm
+N3a
+Di căn hạch có kích thước khối u lớn nhất > 6cm
+N3b
+Di căn ở bất kỳ hạch nào
+DI CĂN XA (M)
+LOẠI M
+TIÊU CHÍ M
+M0
+Không di căn xa
+M1
+Di căn xa
+Các giai đoạn ung thư da tế bào đáy và tế bào vảy
+Các giai đoạn ung thư cho biết khối u lớn như thế nào, khả năng lan rộng đến các cơ quan, từ đó giúp bác sĩ đưa ra các biện pháp điều trị phù hợp tình trạng bệnh thực tế. (3)
+Phương pháp điều trị, tiên lượng sống và khả năng phục hồi của bệnh nhân phụ thuộc vào giai đoạn ung thư da.
+1. Giai đoạn 0
+Giai đoạn 0 ung thư da còn được gọi là ung thư biểu mô tại chỗ. Các biểu mô da bắt đầu xuất hiện tế bào ung thư da. Tuy nhiên, chúng chưa xâm lấn đến các vùng da xung quanh hoặc di căn các cơ quan khác.
+Ung thư biểu mô tế bào vảy tại chỗ còn được gọi là bệnh Bowen. Nếu không được điều trị kịp thời, bệnh Bowen có thể phát triển thành ung thư biểu mô tế bào vảy (SCC). Giai đoạn này thường được mô tả là giai đoạn tiền ung thư da.
+Xem thêm: Ung thư da giai đoạn đầu: Dấu hiệu, chẩn đoán và cách điều trị.
+2. Giai đoạn I
+Ung thư da giai đoạn I có nghĩa là ung thư có kích thước 2cm hoặc nhỏ hơn (T1), chưa có dấu hiệu di căn hạch bạch huyết vùng (N0) và di căn cơ quan khác trong cơ thể (M0).
+3. Giai đoạn II
+Ung thư da giai đoạn IIA có nghĩa kích thước khối u lớn hơn 2cm chiều ngang, nhưng không lớn quá 4cm (T2). Ở giai đoạn IIB, khối u đã phát triển đến các mô lân cận như cơ, sụn hoặc xương, chưa xâm lấn hạch bạch huyết vùng (N0) và di căn xa (M0).
+4. Giai đoạn III
+Giai đoạn III ung thư da có thể là một trong các đặc điểm sau:
+Ung thư đã lan đến các hạch bạch huyết. Khối u có thể có kích thước bất kỳ và có thể đã lan đến xương, cơ, mô liên kết hoặc sụn gần đó.
+Giai đoạn IIIA: Khối u có kích thước lớn hơn 4cm (T3) hoặc bất kỳ (T bất kỳ), có dấu hiệu tế bào ung thư xâm lấn các mô lân cận như thành xương, dây thần kinh và phát triển dưới lớp mỡ dưới da (mô dưới da). Kết quả sinh thiết hoặc chẩn đoán hình ảnh cho thấy tế bào ung thư đã xâm lấn các hạch bạch huyết gần (N1, N2), ung thư chưa di căn các cơ quan khác của cơ thể (M0).
+Giai đoạn IIIB: Khối u kích thước bất kỳ (T bất kỳ) hoặc có thể phát triển đến các mô lân cận. Tế bào ung thư xâm lấn hệ thống vỏ hạch bạch huyết (N1) ở cùng phía cơ thể với bệnh ung thư và hạch bạch huyết có kích thước dưới 3cm, chưa di căn cơ quan xa (M0), tuy nhiên có dấu hiệu ung thư lây lan đến xương, mô, liên kết, sụn hoặc cơ gần khối u.
+5. Giai đoạn IV
+Khối u ung thư da giai đoạn IV có kích thước bất kỳ, đã lan đến một hoặc nhiều hạch bạch huyết vùng. Ung thư có thể mang những đặc điểm sau đây:
+Tế bào ung thư phát triển vượt ra ngoài lớp vỏ hạch;
+Ung thư xâm lấn một hoặc nhiều hạch bạch huyết;
+Tế bào ung thư xâm lấn một hạch bạch huyết, kích thước lớn hơn 3cm nhưng không quá 6cm. Ung thư lan đến hạch bạch huyết cùng bên vị trí khối u;
+Ung thư lan đến tủy xương hoặc xương, có thể là đáy hộp sọ hoặc di căn xa đến phổi.
+Xem thêm: Ung thư da giai đoạn muộn: Triệu chứng, tiên lượng và điều trị.
+Tiên lượng tỷ lệ sống của các giai đoạn bệnh ung thư da như thế nào?
+Tỷ lệ sống thêm 5 năm đối với bệnh nhân không phải ung thư hắc tố da là khả năng sống thêm của những người bệnh ung thư sau khi được chẩn đoán so với những người không mắc bệnh trong cộng đồng chung, có cùng đặc điểm như tuổi, giới tính…
+Tỷ lệ sống thêm 5 năm đối với bệnh nhân ung thư da thường ước tính đối với ung thư biểu mô tế bào đáy (BCC) và ung thư biểu mô tế bào vảy (SCC). Đây là hai bệnh ung thư da phổi biến nhất. (4)
+Tỷ lệ sống thêm 5 năm đối với bệnh nhân ung thư biểu mô tế bào đáy là 100%, tỷ lệ sống thêm 5 năm sau chẩn đoán ung thư da đối với bệnh nhân mắc ung thư biểu mô tế bào vảy thấp hơn, khoảng 95%. Ngoài ra tỷ lệ sống thêm 5 năm đối với bệnh nhân mắc ung thư tế bào Merkel là 65%.
+Ung thư da (không phải ung thư hắc tố) rất hiếm khi di căn nên tiên lượng sống và khả năng điều trị rất tốt. Tuy nhiên một số loại ung thư có những đặc điểm liên quan đến việc gia tăng nguy cơ tái phát hoặc di căn.
+Một số đặc điểm cho có liên quan đến khả năng ung thư di căn như:
+Khối u có kích thước lớn hơn 2cm;
+Không xác định được ranh giới khối u;
+Vị trí khối u ở vùng đầu hoặc cổ;
+Hệ thống miễn dịch suy giảm;
+Khối u xâm lấn dây thần kinh;
+Vị trí khối u gần khu vực xạ trị trước đó.
+Ngoài ra bệnh nhân mắc ung thư biểu mô tế bào vảy có nguy cơ tái phát và di căn cao hơn nếu vị trí khối u ở gần bộ phận sinh dục, các vị trí viêm mạn tính hoặc sẹo.
+Khám tầm soát phát hiện ung thư da giai đoạn sớm
+Ung thư da là căn bệnh ung thư ít nguy hiểm, điều trị khả quan và tiên lương tốt. Tuy nhiên phát hiện và điều trị bệnh ở giai đoạn sớm giúp cải thiện hiệu quả điều trị.
+Tầm soát phát hiện sớm ung thư da giúp tăng khả năng điều trị thành công, hạn chế trường hợp di căn hoặc ung thư tái phát.
+BVĐK Tâm Anh cung cấp dịch vụ tầm soát ung thư giúp sớm phát hiện bệnh trước khi có các triệu chứng lâm sàng. Điều này cải thiện cơ hội điều trị ung thư thành công, bệnh nhân có thể lựa chọn các phương pháp phù hợp, tối ưu chi phí và sức khỏe.
+Đội ngũ y bác sĩ ung bướu tại BVĐK Tâm Anh có trình độ chuyên môn cao, giàu kinh nghiệm, được đào tạo chuyên sâu trong khám và điều trị các bệnh lý ung bướu, tận tâm với bệnh nhân. Bên cạnh đó, sự trang bị hệ thống máy móc hiện đại như: Hệ thống X-quang kỹ thuật số treo trần cao cấp, hệ thống máy siêu âm 3D đàn hồi Real time SuperSonic Imagine Mach 30 hiện đại nhất thế giới từ châu Âu, hệ thống Cộng hưởng từ thế hệ mới MAGNETOM Amira BioMatrix (Siemens – Đức), hệ thống máy nội soi hiện đại… giúp soi da và đánh giá mức độ xâm lấn, di căn xa của ung thư da giai đoạn tiến triển.
+Để đặt lịch khám, tầm soát và điều trị ung thư da tại BVĐK Tâm Anh, Quý khách hàng có thể liên hệ theo thông tin:
+Xác định giai đoạn ung thư da là quy trình quan trọng chi phối trực tiếp việc lựa chọn phương pháp điều trị và khả năng phục hồi sức khỏe của bệnh nhân. Bệnh lý ung thư da có tiên lượng điều trị khả quan, tuy nhiên người bệnh không nên chủ quan và cần tuân theo phác đồ điều trị mà bác sĩ chỉ định.

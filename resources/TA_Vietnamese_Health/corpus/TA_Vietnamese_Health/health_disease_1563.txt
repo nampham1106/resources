@@ -1,0 +1,56 @@
+# doc_id = health_disease_1563
+# url = https://tamanhhospital.vn/u-mo-dem-duong-tieu-hoa/
+# date = 04/06/2024
+U mô đệm đường tiêu hóa (GIST): Nguyên nhân, chẩn đoán, phòng ngừa
+U mô đệm đường tiêu hóa hình thành chủ yếu do đột biến gen, có thể xảy ra ở mọi lứa tuổi nhưng phổ biến hơn ở người lớn. Bệnh có thể tiến triển thành nhiều biến chứng nguy hiểm. Do đó, người bệnh cần được thăm khám, chẩn đoán và tiến hành điều trị sớm để tránh đe dọa đến tính mạng.
+Mục lụcU mô đệm đường tiêu hóa là gì?Nguyên nhân u mô đệm đường tiêu hóa (GIST)Triệu chứng u mô đệm đường tiêu hóaChẩn đoán u mô đệm đường tiêu hóaĐiều trị u mô đệm đường tiêu hóa1. Điều trị bằng thuốc2. Phẫu thuậtPhòng ngừa u mô đệm đường tiêu hóaThắc mắc hay gặp1. Khối u mô đệm đường tiêu hóa có nguy hiểm không?2. Khối u mô đệm đường tiêu hóa có lây không?3. U mô đệm đường tiêu hóa có chữa khỏi được không?4. Khi nào cần gặp bác sĩ?U mô đệm đường tiêu hóa là gì?
+U mô đệm đường tiêu hóa (GIST) là những u có tính chất ác tính phát triển trong thành của hệ thống ống tiêu hoá. Đây là một loại u trung mô của mô mềm, có thể có kích thước nhỏ không thể phát hiện, nhưng cũng có thể phát triển lớn để gây ra các triệu chứng và những vấn đề sức khoẻ khác. Phương pháp điều trị tối ưu là phẫu thuật loại bỏ khối u.
+Khối u mô đệm phát triển trong thành của đường tiêu hóa
+Nguyên nhân u mô đệm đường tiêu hóa (GIST)
+GIST thưởng hình thành khi gen KIT đột biến, kích thích các tế bào trong đường tiêu hóa phát triển mất kiểm soát. Gen KIT làm các tế bào tạo ra một loại protein, được gọi là KIT CD117 khiến các tế bào trong đường tiêu hóa nhân lên. Các tế bào này nhân lên bất thường và phát triển thành GIST.
+GIST cũng có thể phát triển ở nhóm người thuộc nguy cơ sau:(1)
+Di truyền: Các gen KIT bất thường có thể được truyền từ cha mẹ sang con cái, làm tăng nguy cơ phát triển GIST.
+Bệnh u sợi thần kinh loại 1: Rối loạn này khiến một số tế bào phát triển và nhân lên, tạo ra các khối u có thể hình thành trong khắp cơ thể.
+Hội chứng Carney-Stratakis: Đây là bệnh lý di truyền hiếm gặp, có thể làm tăng nguy cơ phát triển GIST.
+Triệu chứng u mô đệm đường tiêu hóa
+GIST kích thước nhỏ thường không gây ra triệu chứng. Khi GIST giai đoạn phát triển, người bệnh có thể nhận thấy các triệu chứng như sau:
+Đau bụng
+Mệt mỏi
+Buồn nôn
+Nôn mửa
+Đau quặn bụng sau khi ăn
+Không cảm thấy đói
+Cảm thấy no khi chỉ mới ăn một lượng nhỏ thức ăn
+Phân sẫm màu do chảy máu trong hệ tiêu hóa
+Sụt cân
+GIST có thể xảy ra ở mọi lứa tuổi, nhưng chúng phổ biến hơn ở người lớn và rất hiếm ở trẻ em.
+Khối u mô đệm đường tiêu hóa gây đau bụng
+Chẩn đoán u mô đệm đường tiêu hóa
+Đối với những bệnh nhân có khối u ở bụng, chụp CT có tiêm thuốc cản quang là lựa chọn được ưu tiên. Trên CT, GIST xuất hiện dưới dạng một khối rắn, tăng cường độ tương phản với bờ mịn. Ở những bệnh nhân lo ngại tiếp xúc với tia bức xạ hoặc không thể tiêm chất cản quang có chứa i-ốt, bác sĩ sẽ chỉ định chụp MRI.
+Nội soi là phương pháp đánh giá tối ưu đối với các trường hợp có dấu hiệu xuất huyết tiêu hóa. Trên nội soi, GIST thường xuất hiện tương tự như các tổn thương dưới biểu mô khác (SEL). Siêu âm nội soi (EUS) đã được chứng minh là một phương thức quan trọng giúp phân biệt GIST với các tổn thương dưới biểu mô khác. Trên EUS, GIST sẽ xuất hiện dưới dạng một khối rắn giảm âm có nguồn gốc từ lớp thứ hai (lớp cơ niêm) hoặc lớp thứ tư (lớp cơ) của thành ống tiêu hóa.
+Xét nghiệm hóa mô miễn dịch cũng có thể được chỉ định thực hiện để giúp chẩn đoán xác định GIST, dựa trên các đặc điểm bệnh lý của mẫu mô và kết hợp các đặc điểm hình thái và hóa mô miễn dịch. Trong các trường hợp liên quan đến biểu hiện hình thái điển hình của GIST, nhưng nhuộm KIT âm tính, nhuộm DOG-1 và CD34 có thể được sử dụng để xác định chẩn đoán. Định gen cũng có thể được sử dụng trong trường hợp GIST âm tính với KIT.
+Bệnh phẩm sử dụng cho giải phẫu bệnh có thể thu thập thông qua sinh thiết hoặc sau phẫu thuật cắt bỏ. Đối với các khối u dễ cắt bỏ và không cần điều trị trước phẫu thuật, sinh thiết trước phẫu thuật thường không cần thiết để tránh nguy cơ khối u lan rộng hoặc chảy máu khi sinh thiết. Trong trường hợp cần sinh thiết để chẩn đoán và/hoặc lập kế hoạch điều trị trước phẫu thuật, bác sĩ sẽ chỉ định phương pháp sinh thiết là siêu âm nội soi với chọc hút tế bào bằng kim nhỏ (FNA).
+Điều trị u mô đệm đường tiêu hóa
+Tương tự như nhiều bệnh ác tính ở đường tiêu hóa khác, việc điều trị GIST phần lớn phụ thuộc vào mức độ lan rộng của bệnh. Cụ thể như sau:
+1. Điều trị bằng thuốc
+Trong trường hợp GIST không thể cắt bỏ hoặc di căn, điều trị bằng thuốc ức chế tyrosine kinase được ưu tiên. Loại thuốc ức chế tyrosine kinase đầu tiên được sử dụng là imatinib, được khuyên dùng với liều lượng 400mg/ ngày. Đối với những bệnh nhân có đột biến kháng imatinib, chẳng hạn như đột biến KIT 9, bác sĩ khuyến khích nên sử dụng 800mg imatinib mỗi ngày để đạt hiệu quả tối ưu.
+Ngoài ra, các trường hợp không đạt hiệu quả điều trị cao với liệu pháp imatinib 400mg ,có thể được tăng lên liều 800mg hoặc chuyển sang thuốc ức chế tyrosine kinase thế hệ hai, sunitinib. Thuốc thế hệ ba điều trị GIST là regorafenib. Trong quá trình dùng thuốc, người bệnh cũng cần được theo dõi đáp ứng với điều trị nội khoa bằng chụp CT.
+2. Phẫu thuật
+Đối với trường hợp u tại chỗ, phẫu thuật cắt bỏ vẫn là phương pháp điều trị tối ưu. Trường hợp khối u tiến triển tại vùng mà không thể phẫu thuật cắt bỏ hoàn toàn hoặc có thể dẫn đến tổn thương hoặc mất chức năng, sử dụng imatinib trước phẫu thuật được chỉ định. Đối với những bệnh nhân có nguy cơ cao, chỉ định điều trị hỗ trợ với thuốc ức chế tyrosine kinase trong 3 năm, ưu tiên là imatinib.
+Phẫu thuật điều trị khối u mô đệm đường tiêu hóa
+Phòng ngừa u mô đệm đường tiêu hóa
+Nhiều loại ung thư có thể giảm nguy cơ mắc phải bằng cách thay đổi lối sống, chẳng hạn như duy trì cân nặng ổn định hoặc bỏ hút thuốc. Tuy nhiên, yếu tố nguy cơ của GIST là tuổi tác và một số hội chứng di truyền hiếm gặp, không có nguyên nhân liên quan đến lối sống và môi trường. Vì vậy, việc phòng ngừa là không thể.
+Thắc mắc hay gặp
+Dưới đây là phần giải đáp một số thắc mắc thường gặp liên quan đến khối u mô đệm đường tiêu hóa (GIST):
+1. Khối u mô đệm đường tiêu hóa có nguy hiểm không?
+GIST nếu không điều trị kịp thời có thể gây xuất huyết tiêu hóa cấp tính, thường biểu hiện dưới dạng đại tiện phân đen hoặc nôn ra máu. Xuất huyết tiêu hóa mạn tính có nguy cơ dẫn đến thiếu máu. Ngoài ra, khối u cũng có thể gây tắc ruột, xuất huyết trong ổ bụng, vỡ gây viêm phúc mạc,…
+2. Khối u mô đệm đường tiêu hóa có lây không?
+GIST là 1 loại u và không có khả năng lây lan.
+3. U mô đệm đường tiêu hóa có chữa khỏi được không?
+Khả năng chữa khỏi u mô đệm tùy thuộc vào kích thước, mức độ nghiêm trọng của khối u tại thời điểm chẩn đoán, tình trạng sức khỏe tổng thể và đáp ứng của khối u với điều trị. Theo dữ liệu từ Viện Ung thư Quốc gia Hoa Kỳ (NCI), 85% số người mắc GIST vẫn còn sống sau 5 năm kể từ khi được chẩn đoán. Tỷ lệ cụ thể như sau:
+Đối với khối u tại chỗ, không lan rộng: 95%
+Đối với khối u đã lan đến các mô và cơ quan lân cận: 84%
+Đối với khối u đã di căn đến các cơ quan xa trong cơ thể: 52%
+4. Khi nào cần gặp bác sĩ?
+Người bệnh cần đi khám bác sĩ ngay khi nhận thấy các triệu chứng nghi ngờ bị GIST. Đây là bệnh lý nghiêm trọng cần được chẩn đoán và điều trị kịp thời để tránh biến chứng nguy hiểm.
+Trên đây là bài viết tổng hợp thông tin về bệnh u mô đệm đường tiêu hóa (GIST), nguyên nhân, triệu chứng và phương pháp điều trị hiệu quả. Hy vọng qua những thông tin đã chia sẻ, người bệnh sẽ có thêm cập nhật hữu ích trong vấn đề điều trị và chăm sóc sức khỏe.

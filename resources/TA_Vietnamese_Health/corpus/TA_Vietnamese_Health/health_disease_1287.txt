@@ -1,0 +1,75 @@
+# doc_id = health_disease_1287
+# url = https://tamanhhospital.vn/her2/
+# date = 11/06/2024
+Gen HER2 là gì? Ý nghĩa, chỉ định xét nghiệm và các kết quả
+Các tế bào ung thư có mức HER2 cao hơn bình thường được gọi là HER2 dương tính. Các tế bào này thường xâm lấn và di căn nhanh hơn các loại tế bào ung thư khác? Vậy gen HER2 là gì? Có ý nghĩa gì trong cơ thể? Xét nghiệm và điều trị ra sao? Bài viết sau đây của ThS.BS Huỳnh Bá Tấn, Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM sẽ giải đáp chi tiết loại gen này.
+Mục lụcHER2 là gì?Gen HER2 trong cơ thể có ý nghĩa gì?Khi nào cần xét nghiệm HER2?Các kết quả xét nghiệm HER21. HER2 dương tính2. HER2 thấp3. HER2 âm tínhCác loại xét nghiệm chỉ số HER21. IHC (hóa mô miễn dịch)2. FISH (lai huỳnh quang tại chỗ)Ý nghĩa các chỉ số HER2 trong ung thư vú1. 0 và 1+2. 2+3. 3+Rủi ro bệnh lý liên quan tới HER2 là gì?Những chỉ định điều trị khi chỉ số HER2 bị ảnh hưởng1. HER2 dương tính2. HER2-thấp3. HER2 âm tínhHER2 là gì?
+HER2 (thụ thể của yếu tố tăng trưởng biểu bì 2) là loại protein liên quan đến sự phát triển của tế bào bình thường. Một số tế bào ung thư vú có mức HER2 cao hơn bình thường trên bề mặt, bao gồm ung thư vú, buồng trứng, bàng quang, tuyến tụy, dạ dày và thực quản. Từ đó làm các tế bào ung thư này xâm lấn nhanh hơn và di căn sang các bộ phận khác của cơ thể. Xét nghiệm HER2 trên một số loại tế bào ung thư có thể giúp lập kế hoạch điều trị phù hợp.
+Gen HER2 trong cơ thể có ý nghĩa gì?
+Gen là một phần DNA trong tế bào mà con người thừa hưởng từ cha mẹ. Thông thường, mỗi người có 2 gen HER2 trong mỗi tế bào, 1 gen từ bố và 1 gen từ mẹ. Tuy nhiên, một số bệnh ung thư có nhiều bản sao của gen HER2, dẫn đến có quá nhiều protein HER2 trên tế bào ung thư.
+Khi nào cần xét nghiệm HER2?
+Xét nghiệm HER2 trong những trường hợp sau [1]:
+Ung thư vú
+Người bệnh vừa được chẩn đoán ung thư vú và các tế bào ung thư đang xâm lấn sang các mô vú bình thường xung quanh khối u (ung thư xâm lấn).
+Khi tế bào ung thư di căn đến các bộ phận khác trên cơ thể người bệnh, việc xét nghiệm giúp xác định tình trạng dương tính với HER2 ở khối u thứ phát, ngay cả khi khối u nguyên phát đã được xét nghiệm trước đó.
+Khi ung thư tái phát, thường là sau một thời gian không tìm thấy tế bào ung thư trong cơ thể người bệnh. Việc xét nghiệm giúp xác định khối u mới có dương tính với HER2 hay không, ngay cả khi khối u đầu tiên đã được xét nghiệm, bởi tế bào ung thư có thể biến đổi theo thời gian.
+Ung thư dạ dày hoặc thực quản
+Khi không thể loại bỏ khối u bằng phẫu thuật.
+Ung thư tái phát.
+Ung thư tuyến tụy, bàng quang, buồng trứng hoặc một số bệnh ung thư khác có nồng độ HER2 cao có thể được điều trị bằng liệu pháp nhắm mục tiêu vào HER2. Do đó, cần xét nghiệm nồng độ HER2 để lên kế hoạch điều trị phù hợp.
+Các tế bào ung thư có mức HER2 cao hơn bình thường được gọi là HER2 dương tính.
+Các kết quả xét nghiệm HER2
+Các kết quả xét nghiệm HER2 bao gồm:
+1. HER2 dương tính
+HER2 dương tính có nghĩa là tế bào ung thư có hàm lượng protein HER2 hoặc gen HER2 cao. Bệnh có khả năng đáp ứng với liệu pháp nhắm mục tiêu HER2.
+2. HER2 thấp
+Ung thư vú HER2 thấp là bệnh ung thư có các protein HER2 trên bề mặt tế bào ung thư nhưng chưa đủ điều kiện để xếp vào nhóm dương tính HER2.
+3. HER2 âm tính
+HER2 âm tính có nghĩa là các tế bào ung thư không có protein HER2 hoặc gen HER2. Loại ung thư này có thể tiến triển chậm hơn ung thư dương tính với HER2. Bệnh cũng ít có nguy cơ tái phát sau điều trị hoặc xâm lấn sang các bộ phận khác của cơ thể. Liệu pháp nhắm mục tiêu HER2 sẽ không có tác dụng với loại ung thư này, nhưng các lựa chọn điều trị khác có thể có hiệu quả.
+Các loại xét nghiệm chỉ số HER2
+Hầu hết xét nghiệm HER2 đều sử dụng mẫu mô khối u được lấy bằng phương pháp sinh thiết. Có nhiều cách để làm sinh thiết, loại sinh thiết phụ thuộc vào vị trí của khối u, cụ thể:
+Sinh thiết chọc hút bằng kim nhỏ sử dụng kim rất mỏng để lấy mẫu tế bào và/hoặc chất lỏng.
+Sinh thiết kim lõi sử dụng 1 cây kim rỗng xuyên qua da, các phương pháp chẩn đoán hình ảnh, chẳng hạn như siêu âm, có thể được sử dụng để hướng dẫn kim.
+Với phẫu thuật sinh thiết, bác sĩ có thể lấy 1 mẫu khối u hoặc toàn bộ khối u.
+Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt 2 phương pháp xét nghiệm HER2, bao gồm:
+1. IHC (hóa mô miễn dịch)
+Hóa mô miễn dịch sử dụng các kháng thể đặc biệt có thể liên kết với protein HER2. Sau đó phát hiện HER2 bằng cách nhuộm màu hoặc chiếu sáng dưới kính hiển vi.
+Kết quả dương tính với HER2 khi đạt điểm IHC là 3+, cho thấy cường độ và độ đồng đều của thuốc nhuộm cao hơn 30% tế bào khối u. Điểm 0 hoặc 1+ biểu thị trạng thái âm tính HER2 trong khi điểm 2+ là dương tính HER2 thấp, cần xét nghiệm thêm.
+Hầu hết xét nghiệm HER2 đều sử dụng mẫu mô khối u được lấy bằng phương pháp sinh thiết.
+2. FISH (lai huỳnh quang tại chỗ)
+Phương pháp lai huỳnh quang tại chỗ (FISH) sử dụng kính hiển vi đặc biệt để kiểm tra các bản sao của gen HER2 trong tế bào ung thư. Các gen HER2 được đánh dấu bằng các mảnh vật liệu di truyền huỳnh quang, được gắn vào bất kỳ vùng nào của nhiễm sắc thể có chứa gen HER2.
+HER2 dương tính được biểu thị nếu có nhiều hơn 6 bản sao của gen HER2 trên mỗi tế bào hoặc nếu tìm thấy nhiều hơn 2 gen HER2 cho mỗi bản sao của nhiễm sắc thể 17. Loại thứ 2 được gọi là đầu dò liệt kê nhiễm sắc thể HER2 17 hoặc tỷ lệ CEP17.
+Ý nghĩa các chỉ số HER2 trong ung thư vú
+Ý nghĩa các chỉ số HER2 trong ung thư vú, cụ thể như sau:
+1. 0 và 1+
+0 và 1+ có nghĩa là tế bào ung thư không có quá nhiều protein HER2. Nghĩa là ung thư vú âm tính với HER2 và không đáp ứng với liệu pháp nhắm mục tiêu HER2. Bác sĩ sẽ chỉ định các phương pháp điều trị khác.
+2. 2+
+2+ có nghĩa là lượng protein HER2 ở mức giới hạn, cho kết quả không rõ ràng. Người bệnh có thể phải thực hiện loại xét nghiệm HER2 khác. Xét nghiệm có thể được thực hiện trên cùng 1 mẫu mô hoặc có thể cần cung cấp mẫu mới.
+3. 3+
+3+ có nghĩa là tế bào ung thư có quá nhiều protein HER2. Nghĩa là ung thư vú dương tính với HER2 và có khả năng đáp ứng với liệu pháp nhắm mục tiêu HER2.
+Kết quả xét nghiệm hóa mô miễn dịch HER2 dương tính
+Rủi ro bệnh lý liên quan tới HER2 là gì?
+Bệnh ung thư vú có sự hiện diện quá mức của các thụ thể HER2 có tính chất nguy hiểm hơn các dạng ung thư khác. Có khoảng 180.000 ca ung thư vú được chẩn đoán ở Hoa Kỳ hàng năm và trong số này có khoảng 25% dương tính với HER2. Ung thư vú dương tính với HER2 tiến triển và di căn nhanh hơn, đáp ứng tốt với liệu pháp hormone và ít hiệu quả với hóa trị liệu. [2]
+Những chỉ định điều trị khi chỉ số HER2 bị ảnh hưởng
+Những chỉ định điều trị bao gồm:
+1. HER2 dương tính
+Nếu ung thư vú dương tính với HER2, người bệnh thường sẽ được điều trị bằng liệu pháp nhắm mục tiêu cùng lúc hoặc sau hóa trị.
+Các liệu pháp nhắm mục tiêu bao gồm:
+Trastuzumab (Herceptin).
+Pertuzumab (Perjeta).
+Trastuzumab emtansine (Kadcyla).
+Trastuzumab deruxtecan (Enhertu).
+Neratinib (Nerlynx).
+Tucatinib (Tukysa).
+2. HER2-thấp
+Một số bằng chứng cho thấy ung thư vú có HER2 thấp đáp ứng tốt với các phương pháp điều trị nhắm mục tiêu, chẳng hạn như trastuzumab. Tuy nhiên, việc áp dụng phương pháp này cho người bệnh ung thư vú HER2 thấp vẫn chưa có sẵn và chỉ là thử nghiệm lâm sàng.
+3. HER2 âm tính
+Nếu ung thư vú âm tính với HER2, các liệu pháp nhắm mục tiêu sẽ không có hiệu quả.
+Người bệnh nên tham khảo ý kiến của bác sĩ về phương pháp điều trị tốt nhất cho bản thân. Tùy thuộc vào đặc điểm của bệnh ung thư và sức khỏe tổng thể của người bệnh, các lựa chọn điều trị có thể bao gồm:
+Phẫu thuật.
+Hóa trị.
+Xạ trị.
+Liệu pháp hormone.
+Điều trị ung thư vú dương tính với HER2 và HER thấp tại Bệnh viện Đa khoa Tâm Anh TP.HCM với đội ngũ bác sĩ nhiều kinh nghiệm. Bên cạnh đó, sự kết hợp hội chẩn giữa khoa Ngoại Vú – Chẩn đoán hình ảnh – Giải phẫu bệnh – Nội khoa Ung thư mang đến cơ hội điều trị tốt cho người bệnh
+Bệnh viện Đa khoa Tâm Anh TP.HCM cũng liên tục nhập các máy móc, trang thiết bị hiện đại nhằm hỗ trợ bác sĩ trong việc chẩn đoán các bệnh lý tuyến vú và điều trị cho người bệnh. Ngoài ra, khoa còn lập nhóm “CLB bệnh nhân ung thư vú bệnh viện Tâm Anh” giúp người bệnh có thể chia sẻ những khó khăn lo lắng với những người bệnh cùng hoàn cảnh.
+Ung thư vú dương tính với HER2 có xu hướng tiến triển mạnh hơn ung thư vú âm tính với HER2. Cùng với mức độ khối u và giai đoạn bệnh, tình trạng HER2 giúp bác sĩ xác định phương pháp điều trị phù hợp với người bệnh.

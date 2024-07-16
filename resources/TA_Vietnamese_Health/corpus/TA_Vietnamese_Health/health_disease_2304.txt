@@ -1,0 +1,53 @@
+# doc_id = health_disease_2304
+# url = https://tamanhhospital.vn/thong-ke-ve-ung-thu-vu-bo-ba-am-tinh/
+# date = 26/03/2024
+Số liệu thống kê về ung thư vú bộ ba âm tính (TNBC) và các lưu ý
+Với một số loại ung thư vú khác nhau, việc điều trị có thể khác nhau tùy từng loại. Năm 2022, ước tính có khoảng 287.850 phụ nữ ở Hoa Kỳ được chẩn đoán mắc bệnh ung thư vú. Trong đó, khoảng 10% – 15% trong tổng số trường hợp là ung thư vú bộ ba âm tính. Một số nghiên cứu thậm chí còn ước tính tỷ lệ mắc bệnh lên tới 24% trong số các bệnh ung thư vú mới được chẩn đoán. [1]
+Bài viết này sẽ xem xét một số sự kiện và số liệu thống kê về ung thư vú bộ ba âm tính (TNBC) quan trọng mà bạn nên biết về loại ung thư vú này.
+Mục lụcUng thư vú bộ 3 âm tính (TNBC) là gì?Thống kê về ung thư vú bộ ba âm tính (TNBC) và sự phổ biến của bệnhThống kê về ung thư vú âm tính bộ ba theo độ tuổi và giới tínhNguyên nhân ung thư vú bộ 3 âm tính và đối tượng nguy cơTỷ lệ tử vong đối với ung thư vú bộ ba âm tính là bao nhiêu?Chẩn đoán ung thư vú bộ 3 âm tính và phát hiện sớm thế nào?Ung thư vú bộ 3 âm tính (TNBC) là gì?
+Ung thư vú bộ ba âm tính là ung thư vú trong đó các tế bào ung thư không có thụ thể estrogen hoặc progesterone (ER hoặc PR) và không tạo bất kỳ protein nào, gọi là yếu tố tăng trưởng biểu bì ở người (HER2).
+Điều trị bằng liệu pháp hormone hoặc liệu pháp nhắm mục tiêu như Herceptin (trastuzumab) sẽ không có tác dụng đối với bệnh ung thư vú bộ ba âm tính.
+Thống kê về ung thư vú bộ ba âm tính (TNBC) và sự phổ biến của bệnh
+Một số thống kê về ung thư vú bộ ba âm tính chỉ ra rằng bệnh rất hiếm. Khoảng 13 trong số 100.000 phụ nữ ở Hoa Kỳ được chẩn đoán mắc bệnh TNBC mỗi năm. Bệnh thậm chí còn hiếm gặp ở nam giới. [2]
+Các trường hợp mắc TNBC ngày càng gia tăng. Người ta không biết tại sao lại như vậy và cần phải nghiên cứu thêm.
+Ung thư vú bộ ba âm tính xuất hiện với tỷ lệ khác nhau theo dân tộc. Tại Hoa Kỳ, ước tính phụ nữ da đen có nhiều khả năng tử vong vì ung thư vú hơn bất kỳ nhóm chủng tộc hay dân tộc nào khác. Bên cạnh đó, có sự chênh lệch đáng kể trong chẩn đoán, điều trị và tiên lượng sống giữa các nhóm chủng tộc và sắc tộc.
+Cần nhiều nghiên cứu hơn để khám phá các yếu tố như: sinh học khối u và sự khác biệt trong chức năng hệ thống miễn dịch, bên cạnh các yếu tố xã hội, văn hóa và sức khỏe cộng đồng. Chủ nghĩa phân biệt chủng tộc có hệ thống trong hệ thống chăm sóc sức khỏe cũng cần được giải quyết.
+Phụ nữ da đen mắc TNBC có nguy cơ mắc bệnh cao gấp đôi so với người da trắng. Phụ nữ da đen cũng có tỷ lệ tử vong cao hơn 28% so với phụ nữ da trắng có cùng chẩn đoán. Điều này do khả năng được điều trị bằng phẫu thuật thấp hơn và hóa trị.
+Phụ nữ gốc Latinh cũng có nguy cơ được chẩn đoán mắc TNBC hơn phụ nữ da trắng không phải gốc Latinh.
+Ung thư vú bộ ba âm tính rất hiếm và chủ yếu gặp ở phụ nữ trẻ
+Thống kê về ung thư vú âm tính bộ ba theo độ tuổi và giới tính
+TNBC có nhiều khả năng được chẩn đoán ở phụ nữ trẻ hơn phụ nữ lớn tuổi. Một nghiên cứu cho thấy, phụ nữ từ 40 tuổi trở xuống có nguy cơ mắc bệnh TNBC hơn phụ nữ từ 50 – 64 tuổi.
+Ung thư vú ở nam giới chiếm 1% tổng số ca ung thư nam và khoảng 1% tổng số ca ung thư vú trên toàn thế giới. Khoảng 95% ca ung thư vú ở nam giới là dương tính với thụ thể hormone. Ung thư vú bộ ba âm tính ở nam giới rất hiếm gặp.
+Nguyên nhân ung thư vú bộ 3 âm tính và đối tượng nguy cơ
+Nguyên nhân chính xác của TNBC vẫn chưa được xác định. Một số nhà khoa học cho rằng, bệnh có thể liên quan đến đột biến gen BRCA1 nhưng cần nghiên cứu thêm.
+Tỷ lệ mắc TNBC cao hơn ở người thuộc các nhóm tuổi, chủng tộc và sắc tộc nhất định cũng như yếu tố di truyền. Các yếu tố lối sống cũng đóng một vai trò quan trọng. Tuy nhiên, thuộc nhóm đối tượng này không có nghĩa bạn sẽ mắc ung thư, nguy cơ chỉ tăng lên khi:
+Tuổi: TNBC thường xảy ra ở phụ nữ trẻ.
+Chủng tộc: Phụ nữ da đen và Latinh có tỷ lệ mắc bệnh cao hơn các chủng tộc khác.
+Tiền sử gia đình làm tăng nguy cơ phát triển ung thư vú.
+Di truyền: có đột biến gen BRCA1 hoặc BRCA2 làm tăng nguy cơ mắc bệnh.
+Tình trạng vú lành tính: có tiền sử sinh thiết vú hoặc sinh thiết vú với các tế bào không điển hình sẽ làm tăng nguy cơ mắc bệnh.
+Cân nặng: thừa cân hoặc béo phì có thể làm tăng nguy cơ.
+Tuổi mang thai lần đầu: mang thai lần đầu trên 30 tuổi sẽ làm tăng nguy cơ mắc bệnh.
+Tiền sử: bản thân có tiền sử có yếu tố gây ung thư vú.
+Tỷ lệ tử vong đối với ung thư vú bộ ba âm tính là bao nhiêu?
+Tiên lượng sống sót sau 5 năm của TNBC là 77,1%. Chia theo giai đoạn của TNBC như sau [3]:
+Ung thư khu trú tại vú: 91,3%
+Ung thư khu trú tại vùng hạch: 65,8%
+Ung thư di căn xa: 12,0%
+Tiên lượng sống sót có thể liên quan đến thời điểm chẩn đoán TNBC. Bệnh thường được chẩn đoán ở giai đoạn muộn khi phát hiện lần đầu tiên. Việc điều trị cũng bị hạn chế hơn. Liệu pháp hormone không hiệu quả, cũng như không được dùng liệu pháp nhắm mục tiêu như Herceptin. Phẫu thuật, hóa trị và xạ trị là những phương pháp điều trị chủ yếu hiện có.
+Tiên lượng sống được định nghĩa là tỷ lệ phần trăm số người đang sống chung với một bệnh như ung thư trong khoảng thời gian nhất định. Tiên lượng sống có thể biểu thị theo một số cách khác nhau và không phản ánh tiên lượng của cá nhân hoặc tác dụng của các phương pháp điều trị mới hơn.
+Tiên lượng sống của ung thư vú bộ ba âm tính phụ thuộc vàothời điểm phát hiện và mức độ bệnh
+Chẩn đoán ung thư vú bộ 3 âm tính và phát hiện sớm thế nào?
+Tầm soát và phát hiện sớm TNBC cũng tương tự ung thư vú nói chung. TNBC chỉ được chẩn đoán sau khi đã phát hiện mắc ung thư vú.
+Các xét nghiệm tầm soát ung thư vú bao gồm:
+Chụp nhũ ảnh.
+Khám vú lâm sàng.
+Tự khám vú.
+Chụp cộng hưởng từ vú (MRI).
+Siêu âm vú.
+Sinh thiết vú khi có hình ảnh nghi ngờ.
+Sau khi chẩn đoán ung thư vú, một số xét nghiệm sẽ được thực hiện để phát hiện các đặc điểm khác nhau của tế bào ung thư, bao gồm cả những thụ thể ER, PR, Her2 và liệu có tạo ra một số protein nhất định hay không.
+Trong thực tế TNBC có tính ác tính cao và thường được chẩn đoán ở giai đoạn muộn hơn các loại ung thư vú khác.
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM với đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm trong việc thăm khám, chẩn đoán, tư vấn, điều trị chuyên sâu tất cả các vấn đề liên quan đến tuyến vú và ung thư vú.
+Ngoài ra, bệnh viện còn trang bị các máy móc, trang thiết bị hiện đại từ các nước Âu – Mỹ nhằm chẩn đoán bệnh chính xác nhất như máy siêu âm đàn hồi, máy chụp nhũ ảnh 3D, máy chụp cộng hưởng từ… giúp tất cả người bệnh cảm thấy an tâm và hài lòng khi đến khám và điều trị tại Bệnh viện Tâm Anh TP.HCM.
+Trên đây là những số liệu thống kê về ung thư vú bộ ba âm tính (TNBC) và các lưu ý. Ung thư vú bộ ba âm tính (TNBC) là loại ung thư vú thường gặp ở phụ nữ trẻ, phụ nữ da đen hoặc Latinh. Bệnh có tỷ lệ ác tính cao, được chẩn đoán ở giai đoạn muộn và nguy cơ tiến triển nhanh hoặc tái phát trở lại sau điều trị.

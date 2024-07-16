@@ -1,0 +1,90 @@
+# doc_id = health_disease_2347
+# url = https://tamanhhospital.vn/ap-xe-gan-nhiem-khuan/
+# date = 13/12/2023
+Áp xe gan nhiễm khuẩn: Nguyên nhân, triệu chứng và cách phòng ngừa
+Áp xe gan là khối chứa đầy mủ trong gan có thể hình thành do các tổn thương ở gan hoặc do các ổ nhiễm khuẩn từ nơi khác di chuyển đến gan. Căn nguyên chính của áp xe gan nhiễm khuẩn hoặc áp xe gan amip, một số ít có thể do nấm hoặc các ký sinh trùng. Mặc dù ít gặp nhưng áp xe gan có tỷ lệ tử vong cao nếu không được điều trị đúng cách và kịp thời.
+Mục lụcÁp xe gan nhiễm khuẩn là gì?Cơ chế gây bệnh áp xe gan nhiễm khuẩn1. Tác nhân gây bệnh2. Sinh bệnh họcTriệu chứng áp xe gan nhiễm khuẩnBiến chứng áp xe gan nhiễm khuẩnPhương pháp chẩn đoán áp xe gan nhiễm khuẩn1. Xét nghiệm2. Chẩn đoán hình ảnhPhương pháp điều trị áp xe gan nhiễm khuẩn1. Kháng sinh2. Dẫn lưu mủ ổ áp xe3. Phẫu thuậtPhương pháp phòng ngừa áp xe gan nhiễm khuẩnThắc mắc thường gặp1. Áp xe gan nhiễm khuẩn nguy hiểm không?2. Khám và điều trị áp xe đường gan mật ở đâu?Áp xe gan nhiễm khuẩn là gì?
+Áp xe gan là các tổn thương dạng khối chứa chất hoại tử hình thành do tổn thương ở gan hoặc do các nhiễm trùng trong ổ bụng di chuyển đến gan qua đường tĩnh mạch cửa. Áp xe gan do vi khuẩn thường do nhiều loại vi khuẩn gây nên, trong đó, thường gặp là E.coli, Klebsiella, Streptococcus, Staphylococcus. Áp xe gan amip thường do Entamoeba histolytica gây nên.
+Áp xe gan có thể phân loại theo nhiều cách khác nhau
+Theo vị trí ở gan: 50% ổ áp xe gan đơn độc thường xuất hiện ở gan phải, ít gặp hơn là ở gan trái và thùy đuôi.
+Theo nguồn gốc: do vi khuẩn, do amip, ký sinh trùng
+Áp xe gan nhiễm khuẩn là bệnh lý nguy hiểm, cần có biện pháp xử trí sớm
+Cơ chế hình thành ổ áp xe gan do vi khuẩn thường gặp bao gồm: vi khuẩn đường ruột xâm nhập gây bệnh ở gan qua đường tĩnh mạch cửa, vi khuẩn ở ruột di chuyển ngược dòng qua đường mật gây nhiễm trùng và các ổ áp xe dọc theo đường đi của các nhánh đường mật.(1)
+Cơ chế gây bệnh áp xe gan nhiễm khuẩn
+1. Tác nhân gây bệnh
+Có nhiều loại vi khuẩn có thể gây áp xe gan, trong đó có một số loại thường gặp như:
+Các vi khuẩn gram âm đường ruột, đặc biệt là E.coli, Klebsiella pneumoniae. Ở khu vực Đông Á thì K.pneumoniae là căn nguyên gây bệnh thường gặp nhất.
+Streptococci là tác nhân gây bệnh thường gặp nhất ở các trường hợp áp xe gan ở Mỹ
+2. Sinh bệnh học
+Tác nhân gây bệnh, cụ thể là vi khuẩn có thể xâm nhập và gây tổn thương mô gan tạo ổ áp xe qua một số con đường sau:
+Theo đường tĩnh mạch cửa: vi khuẩn từ các nhiễm trùng của đường ruột, viêm phúc mạc lan theo đường tĩnh mạch cửa về gan sau đó gây nên các tổn thương áp xe gan.
+Theo đường mật: ở các bệnh nhân có bệnh lý về đường mật như sỏi đường mật, u đường mật hoặc bệnh lý bẩm sinh hẹp đường mật, vi khuẩn có thể lan ngược dòng từ đường ruột lên theo đường mật gây nên các ổ áp xe dọc theo các nhánh đường mật.
+Theo đường máu động mạch: một số trường hợp nhiễm khuẩn huyết có thể xuất hiện các ổ di bệnh ở gan tạo nên ổ áp xe gan
+Triệu chứng áp xe gan nhiễm khuẩn
+Tam chứng kinh điển của áp xe gan bao gồm: sốt, đau hạ sườn phải, gan to. Bên cạnh đó, người bệnh có thể có biểu hiện vàng da, buồn nôn, nôn, mệt mỏi, sụt cân và nhợt nhạt trong bệnh cảnh của nhiễm trùng toàn thân mức độ nặng.
+Sốt là triệu chứng khá thường gặp ở các bệnh nhân áp xe gan (90% số bệnh nhân). Người bệnh có thể sốt nóng hoặc gai rét thậm chí rét run từng cơn. Cũng cần phải lưu ý ở những người có cơ địa đáp ứng miễn dịch kém như: người già, người có bệnh lý gây suy giảm đáp ứng miễn dịch,… thì các biểu hiện sốt có thể không rõ ràng thậm chí không có sốt.
+Đau bụng: thường là cảm giác đau tức vùng hạ sườn phải, có thể tăng lên khi ho hoặc hít thở sâu, đặc biệt những trường hợp ổ áp xe sát bao gan thì triệu chứng đau càng rõ rệt.
+Gan to: khoảng 25% bệnh nhân áp xe gan có biểu hiện gan to, khi bác sĩ thăm khám có thể thấy dấu hiệu ấn đau vùng gan.
+Một số triệu chứng khác có thể gặp như:
+Vàng da, vàng mắt, nước tiểu vàng trong bệnh cảnh của bệnh lý tắc nghẽn đường mật
+Suy kiệt trong bệnh cảnh nhiễm trùng nhiễm độc hoặc nhiễm khuẩn huyết hoặc bệnh lý ác tính
+Người bệnh áp xe gan nhiễm khuẩn có thể bị vàng da, vàng kết mạc mắt
+Nếu áp xe gan bị vỡ tràn vào màng phổi phải, người bệnh sẽ xuất hiện những triệu chứng của viêm phổi màng phổi như đau ngực, âm phế bào giảm và gõ đục đáy phổi phải.
+Biến chứng áp xe gan nhiễm khuẩn
+Áp xe gan có thể gây ra một số biến chứng sau:
+Nhiễm khuẩn huyết: khi áp xe gan không được điều trị đúng và kịp thời, tình trạng nhiễm khuẩn có thể lan rộng toàn thân gây nhiễm khuẩn huyết.
+Tràn mũ màng phổi do vỡ áp xe vào khoang màng phổi, thường gặp ở bên màng phổi phải.
+Tràn mủ màng tim hoặc có triệu chứng chèn ép tim cấp do ổ áp xe gan trái vỡ vào khoang màng ngoài tim.
+Nhiễm trùng ổ bụng: Vỡ ổ áp xe vào ổ bụng có thể gây viêm phúc mạc toàn thể.
+Vỡ vào ống tiêu hóa: Áp xe gan khi vỡ vào những phần của ống tiêu hóa (đại tràng, dạ dày…) sẽ khiến người bệnh xuất hiện các triệu chứng như nôn ra mủ, đi tiêu ra máu.
+Những cơ quan khác: Áp xe nếu vỡ vào cơ thành bụng có thể gây áp xe cơ thành bụng hay tạo thành lỗ rò chảy mủ.
+Viêm nội nhãn cầu ở một số trường hợp áp xe gan do Klebsiella pneumoniae ở bệnh nhân đái tháo đường.
+Phương pháp chẩn đoán áp xe gan nhiễm khuẩn
+1. Xét nghiệm
+Các xét nghiệm đánh giá tình trạng nhiễm trùng: công thức máu, máu lắng, CRP, pro-calcitonin
+Định hướng, xác định căn nguyên: Cấy máu, cấy mủ ổ áp xe, tổng phân tích nước tiểu
+2. Chẩn đoán hình ảnh
+Đánh giá ổ áp xe: Siêu âm bụng (có thể kết hợp chọc hút mủ ổ áp xe vừa để chẩn đoán căn nguyên vừa để điều trị); Cắt lớp vi tính hoặc cộng hưởng từ nếu nghi ngờ có bệnh lý đường mật.
+Định hướng, xác định căn nguyên: X quang phổi, nội soi đại tràng sau khi điều trị áp xe gan ổn định
+Phương pháp điều trị áp xe gan nhiễm khuẩn
+Nguyên tắc điều trị áp xe gan nhiễm khuẩn: kết hợp điều trị kháng sinh toàn thân và dẫn lưu ổ áp xe có thể kết hợp phẫu thuật trong một số trường hợp
+1. Kháng sinh
+Bệnh nhân sẽ được điều trị kháng sinh đường tĩnh mạch, phổ rộng
+Thời gian dùng kháng sinh từ 10 – 14 ngày đường tĩnh mạch, sau đó nếu tình trạng lâm sàng ổn định có thể chuyển kháng sinh đường uống duy trì từ 3 – 4 tuần.
+2. Dẫn lưu mủ ổ áp xe
+Cần chọc hút mủ ổ áp xe lấy mủ nuôi cấy xác định vi khuẩn gây bệnh đối với tất cả các trường hợp áp xe gan nhiễm khuẩn.
+Một số trường hợp có chỉ định chọc hút áp xe gan cấp cứu:
+Ổ áp xe gan dọa vỡ
+Nhiễm khuẩn nặng
+3. Phẫu thuật
+Chỉ định phẫu thuật đối với áp xe gan trong một số trường hợp:
+Áp xe gan vỡ
+Viêm phúc mạc toàn thể
+Bệnh lý phối hợp cần phẫu thuật
+Vị trí ổ áp xe khó can thiệp qua da
+Thất bại với dẫn lưu qua da
+Các trường hợp nhẹ có thể được chỉ định dùng thuốc điều trị
+Phương pháp phòng ngừa áp xe gan nhiễm khuẩn
+Để giảm thiểu nguy cơ mắc bệnh áp xe gan nhiễm khuẩn, cần lưu ý:
+Tránh dùng những loại thực phẩm chưa nấu chín như nem chua, nem chạo, gỏi, rau sống, tiết canh…
+Tuyệt đối không uống nước chưa đun sôi, không uống các thức uống không hợp vệ sinh.
+Thường xuyên rửa tay sạch với xà phòng sau khi đi vệ sinh và trước mỗi bữa ăn trong ngày.
+Đối với các trưởng hợp cơ thể xuất hiện ổ nhiễm khuẩn, người bệnh nên nhanh chóng đi đến các cơ sở y tế uy tín để được tư vấn điều trị phù hợp, tránh để vi khuẩn lây lan, đặc biệt là lây theo đường máu bởi nhiễm khuẩn huyết.
+Nếu nghi ngờ bị áp xe gan, bạn nên chủ động đi khám điều trị càng sớm càng tốt, ngăn ngừa bệnh tiến triển nặng, gây nguy hiểm tới tính mạng.
+Thường xuyên rửa tay sạch với xà phòng sau khi đi vệ sinh và trước khi ăn
+Thắc mắc thường gặp
+1. Áp xe gan nhiễm khuẩn nguy hiểm không?
+Như đã đề cập, bệnh áp xe gan nhiễm khuẩn khi không điều trị có thể dẫn tới những biến chứng nguy hiểm. Các biến chứng gồm:
+Nhiễm khuẩn huyết
+Vỡ áp xe vào màng ngoài tim
+Viêm phúc mạc toàn thể
+Vỡ áp xe vào phổi và màng phổi
+Vỡ áp xe vào ống tiêu hóa
+Vỡ áp xe vào các cơ quan khác
+2. Khám và điều trị áp xe đường gan mật ở đâu?
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Nơi đây quy tụ đội ngũ bác sĩ Nội soi tiêu hóa – Nội khoa và Ngoại khoa Tiêu hóa – Gan Mật Tụy – Hậu môn trực tràng chuyên môn cao, giàu kinh nghiệm. Đặc biệt, các phương pháp ngoại khoa tiên tiến được áp dụng trong các lĩnh vực Nội soi và Phẫu thuật nội soi ít xâm lấn, giúp bệnh nhân nhanh hồi phục, không để lại sẹo bởi các tuổi hàng đầu như TS.BS Đỗ Minh Hùng, TTƯT.TS.BS Phạm Hữu Tùng, BS.CKII Nguyễn Quốc Thái, TS.BS Trần Thanh Bình, ThS.BS.CKII Trần Hiếu Nhân, BS.CKII Hồ Thị Bích Thủy, BS.CKI Đặng Lê Bích Ngọc; điều trị Gan Mật Tụy kỹ thuật hiện đại với TS.BS Phạm Công Khánh, BS.CKII Võ Ngọc Bích; thăm khám và tư vấn bệnh lý nội tiêu hóa với ThS.BS.CKII Lê Thanh Quỳnh Ngân, BS.CKI Huỳnh Văn Trung, BS.CKI Hoàng Đình Thành, ThS.BS Nguyễn Thị Ngọc Bích, ThS.BS.CKI Đoàn Hoàng Long; phẫu thuật trong điều trị các bệnh lý hậu môn trực tràng như ThS.BS Nguyễn Văn Hậu, ThS.BS Ngô Hoàng Kiến Tâm, ThS.BS Nguyễn Thanh Biên…
+Các bác sĩ Khoa Ngoại Tổng hợp cũng dẫn đầu với các kỹ thuật hiện đại trong phẫu thuật nội soi ổ bụng với các tên tuổi chuyên gia như TTƯT.PGS.TS Triệu Triều Dương, ThS.BS.CKII Nguyễn Văn Trường, ThS.BS Lê Văn Lượng… Các chuyên gia thuộc lĩnh vực nội soi tiêu hóa tiêu biểu như TS.BS Vũ Trường Khanh, BSNT Đào Trần Tiến, BSNT Hoàng Nam, BS.CKII Bùi Quang Thạch…
+Ngoài ra, bệnh viện còn được trang bị hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Người bệnh áp xe gan nhiễm khuẩn cần được điều trị càng sớm càng tốt, ngăn ngừa bệnh tiến triển nặng, gây ra các biến chứng nguy hiểm. Khi được chẩn đoán mắc bệnh, bệnh nhân cần chủ động đi thăm khám và chữa trị theo đúng phác đồ điều trị từ bác sĩ.

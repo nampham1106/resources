@@ -1,0 +1,161 @@
+# doc_id = health_disease_1268
+# url = https://tamanhhospital.vn/phau-thuat-khuc-xa-mat/
+# date = 25/03/2024
+Phẫu thuật khúc xạ mắt: Chỉ định, phương pháp và quy trình mổ
+Với sự tiến bộ của y học, phẫu thuật khúc xạ mắt là 1 trong những kỹ thuật tiên tiến, được áp dụng rộng rãi trên toàn thế giới để điều trị các vấn đề liên quan đến tật khúc xạ. Vậy phẫu thuật khúc xạ mắt là gì? Có bao nhiêu phương pháp? Thích hợp cho những ai? Quy trình mổ như thế nào? Tất cả sẽ được PGS.TS.BS Nguyễn Thị Thu Hiền, Trung tâm Mắt Công nghệ cao, BVĐK Tâm Anh Hà Nội giải đáp chi tiết trong bài viết này.
+Mục lụcPhẫu thuật khúc xạ là gì?Tại sao cần mổ tật khúc xạ?Đối tượng chỉ định mổ khúc xạ?1. Chỉ định2. Chống chỉ định tuyệt đối3. Chống chỉ định tương đốiCác phương pháp mổ khúc xạ phổ biến1. LASIK2. PRK4. ReLEx SMILE5. Đặt kính nội nhãn (Phakic – ICL)6. Thay thủy tinh thể và đặt thể thủy tinh nhân tạo (Phaco – IOL)7. Phương pháp khácPhẫu thuật khúc xạ có nguy hiểm không?Quy trình mổ khúc xạ1. Thăm khám và tư vấn trước phẫu thuật2. Tiến hành phẫu thuật3. Chăm sóc và theo dõi sau phẫu thuật4. Đánh giá kết quả sau phẫu thuậtChăm sóc và phục hồi sau mổ khúc xạ1. Các cuộc hẹn tái khám2. Điều trị hỗ trợ sau phẫu thuậtBiến chứng rủi ro sau mổ khúc xạPhẫu thuật tật khúc xạ hết bao nhiêu tiền?Các thắc mắc thường gặp về phẫu thuật khúc xạ ở mắt1. Mổ khúc xạ có phải nằm viện không?2. Mổ khúc xạ có phải kiêng gì không?3. Mổ khúc xạ có tái phát không?Phẫu thuật khúc xạ là gì?
+Phẫu thuật khúc xạ mắtlà quá trình phẫu thuật nhằm điều trị các tật: cận thị, viễn thị, loạn thị và lão thị. Quy trình này thực hiện bằng cách điều chỉnh độ cong của giác mạc hoặc đặt kính vào trong nội nhãn, giúp người bệnh nhìn rõ chi tiết hình ảnh mà không cần đeo kính.
+Phẫu thuật thích hợp cho người có độ khúc xạ ổn định sau 18 – 21 tuổi. Trước khi tiến hành mổ, người bệnh cần thực hiện nhiều xét nghiệm chẩn đoán cận lâm sàng nhằm đánh giá độ dày và địa hình giác mạc, độ cong mặt trước và sau của giác mạc, loạn thị giác mạc. Sau khi có đầy đủ thông tin, bác sĩ sẽ chỉ định phương pháp phẫu thuật khúc xạ phù hợp nhất cho người bệnh.
+Có 2 loại phẫu thuật khúc xạ chính: phẫu thuật laser trên giác mạc và phẫu thuật đặt kính nội nhãn.
+Tại sao cần mổ tật khúc xạ?
+Khi mắt gặp phải các vấn đề về khúc xạ, hình ảnh từ môi trường xung quanh không thể hội tụ trên võng mạc một cách chính xác, dẫn đến tầm nhìn bị mờ và thị lực giảm sút. Phẫu thuật khúc xạ giúp khắc phục tình trạng này, cho phép người bệnh nhìn rõ mà không cần đeo kính.
+Đối tượng chỉ định mổ khúc xạ?
+1. Chỉ định
+Phẫu thuật khúc xạ mắt phù hợp nhất với những người trên 18 tuổi. [1]
+Người có độ cận ổn định trong vòng 6 – 12 tháng.
+Có nhu cầu phẫu thuật.
+Mắc các tật khúc xạ: cận thị, loạn thị, viễn thị và lão thị.
+2. Chống chỉ định tuyệt đối
+Đang mắc các bệnh về mắt như: viêm giác mạc, viêm màng bồ đào, Glaucoma, bong võng mạc.
+Giác mạc chóp, tiền lâm sàng giác mạc chóp.
+Tiền sử bệnh dẫn đến bệnh giác mạc do thần kinh Herpes zoster, Herpes simplex, tiểu đường không kiểm soát được.
+Đang dùng các nội tiết tố sinh dục như thuốc ngừa thai.
+Mẹ đang mang thai hoặc cho con bú.
+Hở mi.
+Giác mạc mỏng (trước điều trị dưới 475 µm hay theo tính toán sau điều trị laser nhu mô còn dưới 280 µm).
+Cần khám trước phẫu thuật khúc xạ mắt để lựa chọn phương pháp mổ phù hợp
+3. Chống chỉ định tương đối
+Khô mắt.
+Viêm bờ mi.
+Bệnh tự miễn (hội chứng Sjögren, viêm khớp dạng thấp, lupus ban đỏ hệ thống).
+Sẹo trung tâm giác mạc.
+Rạch giác mạc hình nan hoa dưới 3 năm.
+Người mắc bệnh toàn thân không được phẫu thuật.
+Các phương pháp mổ khúc xạ phổ biến
+1. LASIK
+LASIK, viết tắt của Laser-Assisted in Situ Keratomileusis, lần đầu tiên được thực hiện vào năm 1990 và đã phát triển mạnh mẽ trong giai đoạn 2006 – 2014 với khoảng 30 triệu ca phẫu thuật đã được thực hiện trên toàn thế giới.
+Kỹ thuật sử dụng dao vi phẫu (Microkeratome) cắt giác mạc để tạo một nắp (vạt) giác mạc, chừa lại một phần (bản lề). Vạt này được lật sang một bên sau đó laser đốt phần nhu mô làm mỏng giác mạc theo độ tật khúc xạ muốn điều chỉnh. Sau khi laser xong, vạt giác mạc được đặt lại mà không cần phải khâu.
+Ưu điểm của phẫu thuật LASIK:
+Nhẹ nhàng, không đau, chỉ cần nhỏ thuốc tê, không chảy máu.
+An toàn và chính xác với các thế hệ máy Laser hiện đại.
+Phẫu thuật nhanh chóng chỉ trong vài phút và xuất viện ngay sau mổ.
+Chi phí hợp lý.
+Tuy nhiên, LASIK tạo vạt giác mạc có độ dày 120 – 160 µm nên không phù hợp cho những trường hợp giác mạc mỏng, độ cận thị cao.
+Đăng ký tư vấn miễn phí khám bệnh lý về mắt
+(Thông tin được bảo mật đảm bảo quyền lợi riêng tư cho khách hàng)
+Chúng tôi sẽ liên hệ lại sau khi nhận được thông tin đăng ký!
+Tôi xác nhận đã đọc và hiểu các nội dung đăng ký.
+ĐĂNG KÝ NGAY
+Quy trình phẫu thuật khúc xạ mắt bằng phương pháp LASIK
+2. PRK
+PRK hoạt động bằng cách sử dụng tia laser tác động lên giác mạc để điều chỉnh độ cong, giúp hình ảnh hội tụ tập trung chính xác vào võng mạc.
+Trong quá trình phẫu thuật PRK truyền thống, biểu mô giác mạc được gạt bỏ và sau đó, laser Excimer được dùng để điều chỉnh độ cong của lớp nhu mô giác mạc. Hiện nay, phương pháp cải tiến hơn là Trans-PRK sử dụng tia laser excimer tác động loại bỏ cả biểu mô và nhu mô tương ứng với độ khúc xạ.
+Ưu điểm
+Thích hợp cho những người có giác mạc mỏng.
+Không gây biến chứng liên quan đến vạt giác mạc.
+Nhược điểm
+Sau phẫu thuật, người bệnh cảm thấy hơi khó chịu, mắt kích ứng và chảy nước mắt trong khoảng từ 1- 3 ngày.
+Biểu mô giác mạc sẽ liền trở lại trong vòng 5 – 7 ngày nên người bệnh cần đeo kính tiếp xúc hỗ trợ trong những ngày đầu.
+Mắt trở nên nhạy cảm với ánh sáng trong một thời gian và người bệnh cần sử dụng thuốc nhỏ mắt theo chỉ dẫn của bác sĩ.
+Thời gian hồi phục sau phẫu thuật PRK lâu hơn so với LASIK.
+4. ReLEx SMILE
+ReLEx SMILE là bước tiến trong phẫu thuật khúc xạ, sử dụng tia Femtosecond laser điều trị cho người bệnh có độ cận, loạn thị cao. Tia Laser Femtosecond tạo 2 lớp cắt trong nhu mô giác mạc, phẫu thuật viên dùng dụng cụ tách lõi mô ở giữa qua một vết rạch nhỏ 2 mm ở rìa giác mạc và rút lõi mô giác mạc ra ngoài. Phẫu thuật này có độ chính xác cao và ít biến chứng.
+Ưu điểm
+Áp dụng công nghệ hiện đại nhất thế giới: phục hồi thị lực cho hơn 7 triệu ca trên toàn thế giới, điều trị tới 10 độ cận, 5 độ loạn và được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) chấp thuận.
+Công nghệ không tạo vạt giác mạc nên loại trừ được nguy cơ biến chứng của vạt như: đứt vạt, rách vạt, nhăn vạt, lệch vạt,…
+Bảo tồn tối đa cấu trúc giác mạc.
+Ít gây khô mắt nhất so với các phương pháp khác.
+Thời gian thực hiện phẫu thuật mắt khúc xạ chỉ mất 23 giây, người bệnh được ra về ngay trong ngày.
+Thị lực hồi phục nhanh chóng sau 72 giờ.
+Nhược điểm
+Nếu người bệnh hợp tác không tốt, đảo mắt trong lúc laser có thể gây suction lost (mất áp lực hút), tùy vào giai đoạn laser dừng mà phẫu thuật viên quyết định tiếp tục phẫu thuật hay phải trì hoãn sau 3 – 6 tháng mới phẫu thuật lại.
+Chi phí cho phương pháp này tương đối cao.
+Quy trình phẫu thuật khúc xạ mắt SMILE
+>> Xem thêm: Mổ mắt cận Smile Pro: Phương pháp, quy trình và chỉ định phẫu thuật
+5. Đặt kính nội nhãn (Phakic – ICL)
+Phakic – ICL là phẫu thuật áp dụng cho các trường hợp độ cận, độ viễn hoặc độ loạn quá cao mà không thể điều trị được bằng phương pháp dùng Laser excimer. Trong đó, thể thủy tinh tự nhiên vẫn được bảo tồn và kính nội nhãn được đặt ở hậu phòng (sau đồng tử, trước thủy tinh thể) qua đường rạch nhỏ trên giác mạc khoảng 2,8 – 3,2 mm.
+Đặt kính nội nhãn điều trị hiệu quả cho các trường hợp tật khúc xạ cao mà vẫn bảo tồn được khả năng điều tiết của thể thủy tinh. Tuy nhiên, cần theo dõi mật độ tế bào nội mô kéo dài sau phẫu thuật. Phẫu thuật có tính tạm thời vì sau một thời gian thể thủy tinh bị đục sẽ phải lấy kính ra và phẫu thuật phaco đặt thể thủy tinh nhân tạo thay thế.
+6. Thay thủy tinh thể và đặt thể thủy tinh nhân tạo (Phaco – IOL)
+Phẫu thuật Phaco – IOL sử dụng với trường hợp người cận thị cao kèm lão thị. Với phương pháp này, thể thủy tinh tự nhiên được lấy đi và thay thế bằng thể thủy tinh nhân tạo. Một số rủi ro có thể xảy ra bao gồm: nhiễm trùng, phù hoàng điểm, bong võng mạc và vỡ bao sau của thủy tinh thể,… Lưu ý, người trẻ tuổi bị cận thị cần cẩn thận hơn vì nguy cơ bong võng mạc sau phẫu thuật khá cao.
+7. Phương pháp khác
+7.1 Vòng đệm giác mạc
+Với sự phổ biến của các phẫu thuật laser, phương pháp vòng đệm giác mạc hiện nay không còn được sử dụng. Vòng đệm giác mạc được cấy ghép để điều trị lão thị, giúp cải thiện tầm nhìn gần mà không làm thay đổi thị lực xa.
+Phương pháp này sử dụng lớp phủ giác mạc có khẩu độ nhỏ, được làm từ polyvinylidene fluoride và carbon. Mặc dù tháo rời được, nhưng vòng đệm giác mạc có thể gây ra một số biến chứng như: đục hoặc viêm giác mạc, lóa, vòng sáng, khó đọc trong ánh sáng mờ, vòng đệm lệch tâm, khô mắt và xâm lấn biểu mô.
+7.2 Đặt vòng căng giác mạc (INTACS)
+INTACS là phương pháp đặt 2 miếng nhựa hình vòng mỏng vào giác mạc qua 1 đường rạch nhỏ. Chúng giúp giảm độ cong của giác mạc trung tâm, từ đó giảm độ cận. INTACS thích hợp cho người bệnh có độ cận thị và loạn thị nhẹ.
+Tuy nhiên, sử dụng INTACS cũng có những rủi ro như: loạn thị, chỉnh không đúng mức, nhiễm trùng, chói, quầng sáng và đặt sai vị trí. Hiện nay, INTACS chủ yếu được dùng để điều trị giãn phình giác mạc, như bệnh giác mạc chóp và giãn phình sau phẫu thuật LASIK, khi kính gọng hoặc kính áp tròng không còn hiệu quả. Thị lực và khả năng chấp nhận kính áp tròng được cải thiện 70% – 80% sau khi dùng INTACS. Phương pháp này hiện nay không được sử dụng trong điều trị tật khúc xạ.
+7.3 Rạch giác mạc hình nan hoa và rạch giác mạc điều trị loạn thị
+Phương pháp rạch giác mạc hình nan hoa hiện nay không còn được sử dụng do không mang lại lợi ích rõ rệt so với laser. Nó gây ra dao động thị lực trong ngày, suy yếu giác mạc và dẫn đến viễn thị đảo ngược lâu dài.
+Rạch giác mạc điều trị loạn thị được áp dụng trong phẫu thuật đục thủy tinh thể để điều trị loạn thị. Các đường rạch được tạo ở vùng rìa giác mạc, nơi có vùng quang học lớn hơn và gần vùng rìa hơn.
+Phẫu thuật khúc xạ có nguy hiểm không?
+Như mọi quy trình phẫu thuật khác, mổ khúc xạ có một số nguy cơ và rủi ro tiềm ẩn, bao gồm:
+Nhiễm trùng.
+Biến chứng đối với giác mạc trong phẫu thuật laser.
+Tái phát cận thị.
+Khô mắt.
+Tuy nhiên, tỷ lệ rủi ro đối với phẫu thuật khúc xạ rất thấp.
+Quy trình mổ khúc xạ
+1. Thăm khám và tư vấn trước phẫu thuật
+Trước khi tiến hành phẫu thuật, người bệnh được thực hiện kiểm tra mắt toàn diện để xác định có mổ được không. Trong khoảng thời gian 120 phút, bạn sẽ trải qua các bước kiểm tra chuyên sâu sau:
+Đo khúc xạ tự động.
+Thực hiện kiểm tra thị lực và đo độ tật khúc xạ (đo khúc xạ chủ quan và khách quan).
+Chụp bản đồ giác mạc để xác định hình thái của giác mạc và loại trừ bệnh giác mạc chóp. Đo độ dày của giác mạc, yếu tố quan trọng quyết định khả năng phẫu thuật và phương pháp phẫu thuật phù hợp. Đo đường kính của giác mạc. Đo độ cong của giác mạc. Đo kích thước của đồng tử.
+Đánh giá tình trạng cơ sinh học giác mạc để loại trừ các trường hợp bất thường của giác mạc.
+Đếm tế bào nội mô giác mạc (đặc biệt trong phẫu thuật Phakic – ICL).
+Bác sĩ sẽ thăm khám, soi đáy mắt để phát hiện bất kỳ bất thường (nếu có). Với cận thị nặng (trên -6.00D) người bệnh sẽ được chụp ảnh đáy mắt góc rộng để phát hiện các thoái hóa võng mạc chu biên.
+Bác sĩ kiểm tra hồ sơ, tư vấn về phương pháp phẫu thuật phù hợp và giải đáp mọi thắc mắc của người bệnh.
+Cần khám trước phẫu thuật khúc xạ mắt để lựa chọn phương pháp mổ phù hợp
+2. Tiến hành phẫu thuật
+Có hai phương pháp phẫu thuật khúc xạ phổ biến:
+Phẫu thuật trên giác mạc: dùng laser tạo hình giác mạc.
+Phẫu thuật nội nhãn: đặt thấu kính vào bên trong mắt.
+Quy trình phẫu thuật được thực hiện nhẹ nhàng, không gây đau, chỉ cần nhỏ thuốc tê tại mắt, không chảy máu.
+3. Chăm sóc và theo dõi sau phẫu thuật
+3.1 Chăm sóc mắt sau phẫu thuật
+Nhắm mắt nghỉ ngơi vài giờ sau phẫu thuật.
+Đeo kính bảo vệ mắt liên tục trong 24 giờ đầu, kể cả khi đang ngủ.
+Thực hiện vệ sinh mắt hàng ngày bằng dung dịch NaCl 0.9% và gạc vô khuẩn.
+Nhỏ thuốc và uống thuốc theo đơn của bác sĩ, nhớ nhỏ các loại thuốc cách nhau từ 5 -10 phút.
+Vệ sinh kính hàng ngày.
+3.2 Theo dõi sau phẫu thuật
+Tái khám định kỳ theo chỉ định của bác sĩ.
+Tránh va chạm và dụi tay vào vùng mắt trong tuần đầu sau phẫu thuật (đặc biệt với phẫu thuật laser có tạo vạt giác mạc).
+Đeo kính bảo hộ trong 3 ngày đầu sau mổ.
+Hạn chế uống rượu, bia, thuốc lá, thực phẩm gây dị ứng.
+Tránh để nước, đặc biệt là nước bẩn, nước xà phòng tiếp xúc với mắt trong tuần đầu sau phẫu thuật.
+4. Đánh giá kết quả sau phẫu thuật
+Tỉ lệ thành công của phẫu thuật khúc xạ rất cao. Hầu hết sau khi mổ người bệnh đều có thị lực 10/10. Để đánh giá kết quả sau phẫu thuật, bác sĩ tiến hành kiểm tra thị lực, đảm bảo người bệnh không còn phụ thuộc vào kính đeo mắt hoặc kính áp tròng.
+Chăm sóc và phục hồi sau mổ khúc xạ
+Cách chăm sóc và phục hồi sau mổ khúc xạ:
+1. Các cuộc hẹn tái khám
+Sau phẫu thuật, cần hẹn tái khám với bác sĩ để kiểm tra mắt, lịch hẹn như sau: Sau 1 ngày, 1 tuần, 1 tháng, 3 tháng và định kỳ 6 tháng/lần.
+2. Điều trị hỗ trợ sau phẫu thuật
+Bác sĩ theo dõi tình trạng mắt trong giai đoạn hồi phục. Bên cạnh đó, người bệnh cần tuân thủ theo các hướng dẫn của bác sĩ bao gồm: sử dụng thuốc nhỏ mắt đúng liều lượng và hạn chế hoạt động quá mức trong thời gian này. Ngoài ra, nếu có bất kỳ dấu hiệu bất thường nào, hãy liên hệ với bác sĩ ngay lập tức.
+Lưu ý tuân chỉ chỉ định của bác sĩ sau phẫu thuật khúc xạ mắt
+Biến chứng rủi ro sau mổ khúc xạ
+Sau phẫu thuật khúc xạ, có thể gặp một số tác dụng phụ tạm thời và biến chứng như sau:
+Tác dụng phụ tạm thời:
+Mắt cảm thấy như có dị vật.
+Ánh sáng mạnh gây lóa mắt.
+Một số người thấy các vùng màu xanh hoặc đỏ xung quanh nguồn sáng.
+Mắt trở nên khô và kích ứng sau phẫu thuật.
+Các biến chứng:
+Chỉnh quá mức hoặc dưới mức: mắt không điều chỉnh chính xác, dẫn đến tình trạng nhìn không rõ ràng hoặc mờ mịt.
+Nhiễm trùng mắt sau mổ.
+Khô mắt sau phẫu thuật.
+Phẫu thuật tật khúc xạ hết bao nhiêu tiền?
+Giá phẫu thuật khúc xạ có thể thay đổi tùy thuộc vào nhiều yếu tố, bao gồm: địa điểm, trình độ và kinh nghiệm bác sĩ cao có giá cao hơn, phương pháp lựa chọn, độ khó của ca phẫu thuật, chi phí hậu phẫu,…
+Chi phí mổ khúc xạ mắt dao động từ 20.000.000 – 90.000.000 đồng tùy phương pháp. Tuy nhiên, để biết thông tin chính xác về giá cả và các yếu tố liên quan, bạn nên tham khảo ý kiến của bác sĩ hoặc tư vấn y tế tại bệnh viện cụ thể mà bạn quan tâm.
+Các thắc mắc thường gặp về phẫu thuật khúc xạ ở mắt
+Một số thắc mắc về phẫu thuật khúc xạ được bác sĩ giải đáp như sau:
+1. Mổ khúc xạ có phải nằm viện không?
+Phẫu thuật khúc xạ không cần nằm viện. Người bệnh được xuất viện trong cùng ngày sau phẫu thuật. Tuy nhiên, 1 số trường hợp phức tạp hoặc có vấn đề hậu phẫu, người bệnh cần ở lại viện vài ngày để bác sĩ theo dõi và kiểm tra.
+2. Mổ khúc xạ có phải kiêng gì không?
+Một số hướng dẫn sau phẫu thuật được bác sĩ khuyến nghị giúp phục hồi hiệu quả, bao gồm:
+Tránh chạm vào vết mổ, giữ vùng mổ khô ráo và sạch sẽ để ngừa nhiễm trùng.
+Tránh vận động hoặc nâng vật nặng trong 1 khoảng thời gian sau phẫu thuật để tránh gây tổn thương hoặc căng thẳng cho vùng mổ.
+Nhỏ thuốc theo hướng dẫn của bác sĩ và tránh sử dụng các loại thuốc không được phép sau phẫu thuật.
+Nên tập 1 số bài đơn giản hoặc kỹ thuật dãn cơ để giúp phục hồi và giảm đau.
+3. Mổ khúc xạ có tái phát không?
+Sau mổ khúc xạ, mắt có khả năng ổn định suốt đời. Tuy nhiên, một số trường hợp có thể tái phát sau khi phẫu thuật do một số nguyên nhân như: thức khuya nhiều, thiếu ngủ, nhìn màn hình quá gần, dùng điện thoại,…
+Các phẫu thuật khúc xạ mắt hiện nay có sự hỗ trợ của công nghệ hiện đại, thời gian phẫu thuật nhanh, hiệu quả và an toàn. Sau khi mổ, cần tuân thủ chỉ dẫn của bác sĩ và tái khám định kỳ để giảm nguy cơ tái cận và duy trì sức khỏe mắt.

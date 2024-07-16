@@ -1,0 +1,98 @@
+# doc_id = health_disease_1691
+# url = https://tamanhhospital.vn/u-lympho-hodgkin/
+# date = 24/08/2023
+U lympho hodgkin: Dấu hiệu, nguyên nhân và cách điều trị
+U lympho hodgkin là một trong hai loại ung thư tế bào lympho (gồm u lympho hodgkin và u lympho không hodgkin). Hodgkin là bệnh lý ung thư có thể điều trị khỏi với tỷ lệ thành công cao nhất là những trường hợp được chẩn đoán sớm.
+Mục lụcU lympho hodgkin là gì?Triệu chứng bệnh u lympho hodgkinNguyên nhân gây u lympho hodgkinAi có nguy cơ bị u lympho hodgkin?Các loại u lympho hodgkinU lympho hodgkin cổ điểnU lympho hodgkin dạng nốtCác giai đoạn bệnh u lympho hodgkinTiên lượng bệnh u lympho hodgkinCách chẩn đoán u lympho hodgkinCách điều trị u lympho hodgkin phổ biến hiện nayU lympho hodgkin là gì?
+U lympho hodgkin/ung thư hạch hodgkin (tên tiếng Anh lymphoma hodgkin) là sự biến đổi bất thường đối với DNA của tế bào bạch cầu (tế bào lympho). Các tế bào bất thường này trở thành ung thư hạch. Nếu không được phát hiện và điều trị kịp thời, các tế bào bất thường phát triển mất kiểm soát, tạo thành các tổ chức tế bào lympho ung thư. (1)
+U lympho hodgkin lấn át các tế bào bạch cầu bình thường và vượt qua sự phát hiện của hệ thống miễn dịch cơ thể. U lympho hodgkin khác biệt bởi có sự xuất hiện của tế bào Reed-Sternberg (tên nhà khoa học đầu tiên phát hiện ra chúng). Các tế bào hodgkin có kích thước lớn hơn tế bào lympho bình thường, nhỏ hơn tế bào R-S. Đây là căn cứ để xếp loại u lympho hodgkin hoặc không hodgkin.
+Theo thống kê từ GLOBOCAN 2018, thế giới có gần 80.000 ca chẩn đoán mới mắc ung thư lympho hodgkin với tỷ lệ nam/nữ là 1-1,3/1. Bệnh hodgkin phổ biến ở người trẻ (20-19 tuổi) và người cao tuổi (65 tuổi trở lên). Cũng theo GLOBOCAN 2018, Việt Nam có 731 ca chẩn đoán mắc mới bệnh lympho hodgkin mỗi năm.
+Triệu chứng bệnh u lympho hodgkin
+Hầu hết các bệnh nhân mắc ung thư hạch bạch huyết đều có dấu hiệu nổi hạch ở một số vùng như: cổ, vùng bẹn, nách, không đau nhức. Ngoài ra các chuyên gia nhận thấy sau khi bệnh nhân sử dụng đồ uống có cồn, vùng hạch hoặc khu vực bệnh có thể bị đau. Cơ chế này hiện vẫn chưa được xác định căn nguyên, tuy nhiên chúng cũng có thể được xem là một dấu hiệu của u lympho hodgkin.
+Hầu hết các bệnh nhân mắc bệnh lymphoma hodgkin đều có dấu hiệu nổi hạch cổ, vùng bẹn, nách.
+Một số dấu hiệu u lympho hodgkin phổ biến ở giai đoạn tiến triển như sau: (2)
+Xuất hiện các cơn ngứa ngáy khó chịu, đặc biệt sau tắm, uống rượu;
+Sốt;
+Đổ mồ hôi vào ban đêm;
+Chán ăn;
+Suy nhược cơ thể;
+Sụt cân nhanh không rõ lý do (>10% trọng lượng cơ thể trong 6 tháng);
+Tổn thương xương như đốt sống nhà, tiêu xương, gãy xương lún…
+Đối với các bệnh nhân u lympho hodgkin chèn ép tại chỗ, các triệu chứng ung thư hạch hodgkin điển hình gồm:
+Vàng da (do tắc đường mật trong hoặc ngoài gan);
+Phù nề (khối u là tắc đường bạch huyết);
+Thở khó, thở khò khè (khối u chèn ép khí quản);
+Ho hoặc cảm giác khó chịu vùng lồng ngực (thâm nhiễm nhu mô phổi, có thể giống tình trạng đông đặc ở thùy hoặc viêm phổi phế quản);
+Có thể liệt chi (do khối u xâm lấn màng cứng);
+Liệt thanh quản (hạch to chèn dây thần kinh giao cảm);
+Đau thần kinh (khối u chèn ép rễ thần kinh).
+Xem thêm: U lympho không hodgkin: Dấu hiệu, nguyên nhân và cách điều trị.
+Nguyên nhân gây u lympho hodgkin
+Nguyên nhân gây u lympho hodgkin hiện nay chưa được xác định rõ. Tuy nhiên, một số yếu tố làm tăng nguy cơ mắc ung thư hạch bạch huyết nói chung và u lympho hodgkin nói riêng bao gồm: (3)
+Đột biến tế bào lympho B trong quá trình hoạt động;
+Sự bất thường các tế bào HRS thu hút các tế bào viêm, hỗ trợ các tế bào viêm tăng sinh và tồn tại;
+Suy giảm miễn dịch cho sử dụng thuốc giảm (sau cấy ghép mô tế bào) hoặc mắc hội chứng suy giảm miễn dịch (HIV);
+Sự khuếch đại gen liên quan NST 9P24, dẫn đến loại thải một trong các gen JAK2, JMJD2C, PDL1 và PDL2 (có ý nghĩa quan trọng trong cơ chế bệnh sinh u lympho hodgkin);
+Nhiễm virus Epstein-Barr (EBV);
+Người thừa cân, béo phì;
+Người có thói quen ăn thịt đỏ, đồ ngọt;
+Người ít hoạt động rèn luyện thể chất;
+Thói quen hút thuốc lá, sử dụng rượu bia;
+Bệnh sử gia đình ghi nhận người thân từng mắc ung thư hạch bạch huyết (nguy cơ cao hơn 3-5%), tỷ lệ mắc ung thư hodgkin ở anh chị em cao hơn so với cha mẹ-con.
+Ai có nguy cơ bị u lympho hodgkin?
+Một số người có nguy cơ cao phát triển bệnh u lympho hodgkin gồm: (4)
+Bệnh u lympho hodgkin phổ biến ở người trưởng thành (20-39 tuổi) và người lớn tuổi (65 tuổi trở lên);.
+Ung thư hạch hodgkin phổ biến ở nam giới hơn phụ nữ;
+Người từng nhiễm Epstein-Barr (EBV) khi còn nhỏ hoặc thanh thiếu niên;
+Mắc các virus, hội chứng suy giảm miễn dịch như HIV;
+Tiền sử gia đình có người mắc ung thư hạch bạch huyết.
+Nguy cơ ung thư hodgkin ở người trẻ tuổi.
+Các loại u lympho hodgkin
+Có 2 loại u lympho hodgkin, bao gồm:
+U lympho hodgkin cổ điển
+U lympho hodgkin cổ điển là một loại ung thư hạch phổ biến, chiếm 95% các trường hợp ung thư hạch hodgkin. Ung thư hạch hodgkin thường được xác định bằng các kiểm tra các hạch bạch huyết hoặc mô tế bào máu dưới kính hiển vi trong phòng thí nghiệm, nhằm xác định sự hiện diện của tế bào Reed-Sternberg.
+Ung thư hạch lympho hodgkin cổ điển gồm 4 phân nhóm chính: (5)
+U lympho Hodgkin xơ cứng dạng nốt: Đây là loại u lympho hodgkin cổ điển phổ biến nhất. Loại bệnh này thường ảnh hưởng đến người trẻ tuổi, đặc biệt là phụ nữ độ tuổi sinh sản. U lympho này thường ảnh hưởng đến hạch bạch huyết vùng ngực.
+U lympho Hodgkin tế bào hỗn hợp: Bệnh thường xuất hiện ở những người lớn tuổi (trên 60). Loại u lympho hodgkin này thường mang nhiều loại tế bào khác nhau, gồm nhiều tế bào Reed-Sternberg. Bệnh hodgkin tế bào hỗn hợp có thể xuất hiện ở sâu trong ổ bụng của người bệnh.
+U lympho Hodgkin cổ điển giàu tế bào lympho: Bệnh chiếm khoảng 6% loại u lympho hodgkin. Loại bệnh hodgkin này phổ biến ở nam giới, thường được biết đến là phân nhóm giàu tế bào lympho vì các hạch bạch huyết bị ảnh hưởng mang nhiều lympho bình thường và tế bào Reed-Sternberg.
+U lympho Hodgkin cổ điển suy giảm tế bào lympho: Bệnh ảnh hưởng đến khoảng 1% người mắc bệnh u lympho hodgkin. Loại u hodgkin này phổ biến ở những người cao tuổi (60 tuổi trở lên) và những người mắc hội chứng suy giảm miễn dịch HIV/AIDS. Loại ung thư hạch hodgkin này làm giảm các tế bào bình thường trong hệ thống hạch bạch huyết, thay thế bằng các tế bào bất thường.
+U lympho hodgkin dạng nốt
+U lympho hodgkin dạng nốt là một dạng ung thư hạch hodgkin hiếm gặp, chỉ chiếm khoảng 5% số người được chẩn đoán mắc u lympho hodgkin. Loại u lympho này ảnh hưởng nhiều đến người trẻ tuổi, có diễn tiến chậm so với ung thư hạch hodgkin cổ điển. Vì vậy, người bệnh có thể kéo dài thời gian điều trị.
+Các giai đoạn bệnh u lympho hodgkin
+Sau khi nhận các kết luận chẩn đoán mắc u lympho hodgkin, các kết quả chẩn đoán được dùng nhằm đánh giá giai đoạn, mức độ ảnh hưởng của khối u đối với các cơ quan, mô lân cận của cơ thể. Theo đó, u lympho hodgkin gồm các giai đoạn phổ biến sau: (6)
+Giai đoạn I: Xuất hiện tế bào ung thư ở hạch bạch huyết hoặc cơ quan bạch huyết (tuyến ức, lách, tủy xương) hoặc có hạch ở một khu vực bên ngoài hệ bạch huyết.
+Giai đoạn II: Có tế bào ung thư hạch ở 2 hoặc nhiều nhóm hạch bạch huyết cùng một khu vực (trên hoặc dưới) cơ hoành.
+Giai đoạn III: Ung thư hạch ở các vùng hạch bạch huyết 2 bên trên và dưới cơ hoành; hoặc u lympho xuất hiện tại các hạch bạch huyết phía trên cơ hoành, trong lá lách của người bệnh.
+Giai đoạn IV: Khối u hạch bạch huyết di căn đến cơ quan bên ngoài hệ thống hạch bạch huyết của cơ thể, xâm lấn tủy xương, phổi, gan…
+Các giai đoạn bệnh u lympho hodgkin
+Tiên lượng bệnh u lympho hodgkin
+Ung thư hạch bạch huyết hodgkin có thể chữa khỏi, và là một trong số bệnh lý ung thư có khả năng điều trị khỏi cao hiện nay nếu phát hiện sớm và áp dụng các phương pháp điều trị hiện đại. Các chuyên gia ước tính rằng có đến 96-99% bệnh nhân u lympho hodgkin giai đoạn đầu có thể sống sót qua 5 năm. Đối với bệnh nhân phát hiện ở giai đoạn muộn, tỷ lệ sống sót trên 5 năm đối với những người này dao động 56-89%.
+Một số yếu tố rủi ro ảnh hưởng trực tiếp đến quá trình điều trị ung thư hiệu quả:
+Có bệnh lý nền nghiêm trọng;
+Có nhiều hơn 4 vùng hạch bị tổn thương;
+Trên 50 tuổi;
+Tốc độ máu lắng (ESR) > 50mm/giờ không đi kèm các triệu chứng sụt cân nhanh, sốt, vã mồ hôi nhiều ban đêm; hoặc 30mm/giờ có đi kèm các triệu chứng trên;
+Xuất hiện dấu hiệu viêm do khối u (thiếu máu, tăng bạch cầu, giảm bạch cầu lympho, nồng độ albumin thấp…);
+Bệnh tái phát trong vòng 12 tháng kể từ lần hoàn tất điều trị.
+Cách chẩn đoán u lympho hodgkin
+Sau khi kiểm tra các dấu hiệu cảnh báo ung thư hạch hodgkin, ví dụ như các nốt sưng hạch bạch huyết, các cơn sốt kéo dài triền miên, bác sĩ sẽ chỉ định các phương pháp chẩn đoán nhằm đưa ra kết luận chính xác.
+Các xét nghiệm chẩn đoán giúp xác định loại ung thư hạch hodgkin hoặc không hodgkin, giai đoạn tiến triển bệnh để có hướng điều trị phù hợp.
+Xét nghiệm máu: Xét nghiệm nhằm xác định sự xuất hiện của virus hay các chỉ số bất thường liên quan đến ung thư hạch bạch huyết hodgkin, ví dụ như:
+Công thức máu toàn bộ (CBC): Tiến hành đo và đếm các tế bào máu của người bệnh.
+Nghiên cứu hóa học máu: Đo lường các chất mà mô, cơ quan cơ thể giải phóng vào máu.
+Tốc độ lắng hồng cầu (ESR): Tiến hành đặt hồng cầu vào một ống nghiệm và đo thời gian các tế bào lắng xuống đáy ống nghiệm, qua đó tỷ lệ lắng nhiều có thể là dấu hiệu cảnh báo ung thư hạch bạch huyết.
+Chẩn đoán hình ảnh: Chụp cắt lớp vi tính (CT) hoặc chụp cộng hưởng từ (MRI) để đánh giá các hình ảnh bên trong cơ thể của người bệnh. Phương pháp này nhằm xác định các mô có khả năng chứa tế bào ung thư, đồng thời đánh giá mức độ ảnh hưởng của các tế bào ung thư đối với các mô lân cận, cơ quan xa của cơ thể.
+Sinh thiết hạch bạch huyết: Một phần mô hoặc có thể toàn bộ hạch bạch huyết được lấy ra và gửi đến phòng thí nghiệm giải phẫu mô bệnh học để kiểm tra dấu ấn của tế bào ung thư. Đôi khi một số mẫu sinh thiết mô tại gan, lá lách, tủy xương… cũng có thể được dùng trong xác định ung thư hạch bạch huyết.
+Một số xét nghiệm khác có thể được chỉ định:
+Xét nghiệm viêm gan B, C: Bác sĩ có thể chỉ định xét nghiệm viêm gan B, viêm gan C để tìm kiếm dấu hiệu xuất hiện các kháng nguyên hoặc/và kháng thể đặc hiệu với virus.
+Xét nghiệm HIV: Các xét nghiệm tìm kiếm virus gây suy giảm miễn dịch ở người (HIV) có thể được chỉ định nhằm giúp theo dõi, lên kế hoạch điều trị ung thư hạch hodgkin cho bệnh nhân.
+Cách điều trị u lympho hodgkin phổ biến hiện nay
+Một số phương pháp ức chế tăng sinh tế bào ung thư, ngăn ngừa tình trạng phân chia tế bào ung thư ở bệnh nhân u lympho hodgkin phổ biến. Trong đó mỗi liệu pháp điều trị đều có những ưu điểm và tác dụng phụ khác nhau, cụ thể như sau:
+Phương pháp hóa trị: Sử dụng thuốc theo phác đồ mới nhất nhằm tìm và tiêu diệt các tế bào ung thư, ngăn cản quá trình chúng phân chia. Phương pháp hóa trị có thể kết hợp đồng thời với các liệu pháp khác.
+Phương pháp xạ trị: Sử dụng dòng tia X năng lượng cao trong các loại bức xạ nhằm tiêu diệt các khối u và các mô lân cận bị ảnh hưởng. Xạ trị có thể kết hợp với hóa trị nhằm tăng hiệu quả điều trị. Tuy nhiên, phương pháp này có thể gây ra những tác dụng phụ không mong muốn như mệt mỏi, rụng tóc, buồn nôn, ăn không ngon…
+Liệu pháp miễn dịch: Phương pháp này thường được gọi là liệu pháp sinh học giúp tăng cường hệ thống miễn dịch của cơ thể, kích hoạt hệ miễn dịch để tiêu diệt tế bào ung thư.
+Phương pháp nhắm trúng đích: Liệu pháp này còn biết đến là liệu pháp nhắm mục tiêu, sử dụng các loại gen hoặc protein chuyên biệt được sản xuất trong phòng thí nghiệm đưa vào cơ thể. Các loại protein này có tác dụng tìm và tiêu diệt tế bào Reed-Sternberg (ung thư).
+Hóa trị liều cao (Diệt tủy) – ghép tế bào gốc: Đây là phương pháp thường được chỉ định đối với điều trị bệnh nhân ung thư hạch bạch huyết hodgkin. Theo đó bác sĩ sẽ tăng hóa trị liều cao, sau đó tiến hành cấy tế bào gốc (tế bào máu chưa trưởng thành) vào tủy xương của người bệnh. Tế bào gốc có thể là tế bào gốc tự thân (lấy trực tiếp từ cơ thể người bệnh) và máu dị thân (lấy từ người thân có tủy tương thích).
+Sau điều trị u lympho hodgkin, người bệnh cần tái khám định kỳ theo chỉ dẫn của bác sĩ, đồng thời xây dựng lối sống khoa học, tích. Điều này làm tăng khả năng điều trị hiệu quả, kéo dài sự sống cho người bệnh.
+Để tìm hiểu thông tin tầm soát và điều trị u lympho hodgkin tại BVĐK Tâm Anh, Quý khách hàng có thể liên hệ theo thông tin sau:
+U lympho hodgkin là một trong những bệnh lý ung thư ác tính có thể điều trị với tỷ lệ thành công cao. Tuy nhiên chúng vẫn có thể xảy ra các biến chứng nguy hiểm như di căn đến cơ quan khác, gây tử vong. Do đó khi nhận các chẩn đoán mắc ung thư hạch hodgkin, người bệnh cần tuân thủ điều trị để tăng tỷ lệ điều trị thành công.

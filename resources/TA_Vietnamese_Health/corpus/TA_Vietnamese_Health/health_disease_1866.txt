@@ -1,0 +1,138 @@
+# doc_id = health_disease_1866
+# url = https://tamanhhospital.vn/chup-mri-vu/
+# date = 17/11/2023
+Chụp MRI vú (ngực) là gì? Chỉ định, quy trình và ưu nhược điểm
+Chụp MRI vú là xét nghiệm chẩn đoán hình ảnh, trong đó từ trường, sóng vô tuyến và máy tính tiên tiến được sử dụng để tạo ra hình ảnh chi tiết, rõ nét về vú mà không cần sử dụng tia X. Trong bài viết này, thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM, sẽ chia sẻ những thông tin cần biết về chỉ định và ứng dụng của MRI tuyến vú trong thực tế lâm sàng.
+Mục lụcChụp MRI vú (cộng hưởng từ) là gì?Các chỉ định cần chụp cộng hưởng từ vú?1. Lợi ích của chụp MRI vú là gì?2. Nhược điểm của chụp MRI vú là gì?3. Chống chỉ định của chụp MRI vúQuy trình chụp MRI vú1. Làm cách nào để chuẩn bị cho chụp MRI vú?2. Điều gì xảy ra khi chụp MRI vú?3. Sau khi chụpChụp MRI vú có để lại hậu quả gì không?Những rủi ro của chụp MRI vú là gì?Nhóm kết quả MRI ở vúNên chụp cộng hưởng từ tuyến vú ở đâu?Các câu hỏi liên quan tới MRI vú1. Chụp MRI vú có ảnh hưởng đến sức khỏe không?2. Chụp MRI vú mất bao lâu?3. Phụ nữ đang cho con bú có chụp MRI được không?4. Chụp MRI có phát hiện ung thư không?5. Khi nào bạn có kết quả chụp MRI vú của mình?6. Ai thực hiện MRI vú?Chụp MRI vú (cộng hưởng từ) là gì?
+Chụp MRI vú là xét nghiệm chẩn đoán hình ảnh, trong đó từ trường, sóng vô tuyến và máy tính tiên tiến được sử dụng để tạo ra hình ảnh rất chi tiết về vú mà không cần sử dụng tia X.
+Máy MRI (magnetic resonance imaging) là một ống hình trụ lớn được bao quanh bởi một nam châm tròn. Bạn sẽ nằm trên bàn khám trượt, được di chuyển vào giữa máy.
+Thông thường, chất tương phản dạng lỏng (gadolinium), không có tính phóng xạ, được tiêm vào tĩnh mạch ở phía sau bàn tay hoặc cánh tay, giúp cho các mô bất thường bên trong vú có xu hướng thu hút chất tương phản và dễ dàng được phát hiện hơn trên các hình ảnh được chụp bằng máy MRI.
+Chụp MRI vú thường sử dụng kết hợp với các phương pháp chẩn đoán hình ảnh khác để gia tăng mức độ chính xác của kết quả tầm soát hay chẩn đoán. Chụp MRI vú ít khi được thực hiện đơn lẻ, thay thế cho phương pháp chụp X-quang tuyến vú (chụp nhũ ảnh) bởi MRI có thể bỏ sót một số bệnh mà chụp nhũ ảnh có thể phát hiện.
+Các chỉ định cần chụp cộng hưởng từ vú?
+Chụp cộng hưởng từ tuyến vú là phương tiện hỗ trợ các phương tiện hình ảnh khác nhằm tầm soát hay chẩn đoán các ấn đề liên quan đến tuyến vú [1]:
+Để xác định sớm ung thư vú ở những phụ nữ có nguy cơ mắc ung thư vú cao, ví dụ: tiền sử mắc bệnh ung thư vú ở phụ nữ trẻ, tiền sử gia đình mắc bệnh ung thư vú hoặc đột biến gen BRCA 1 – 2 đã biết. Phụ nữ từng xạ trị vùng ngực để điều trị bệnh trong độ tuổi 10 – 30,
+Để xác định mức độ bệnh ung thư vú đã được chẩn đoán bằng chụp X-quang tuyến vú hoặc siêu âm, sau đó làm sinh thiết trước khi phẫu thuật bảo tồn vú hay hoá trị trước mổ.
+Ít thường xuyên nhất, MRI vú được thực hiện để xác định xem túi ngực ở một hoặc cả hai vú còn nguyên vẹn hay không.
+1. Lợi ích của chụp MRI vú là gì?
+MRI vú thường được thực hiện cùng với chụp X-quang tuyến vú và siêu âm vú. Một số lợi ích và ưu điểm của MRI vú bao gồm:
+MRI không liên quan đến việc tiếp xúc với bức xạ. Do đó, nó có thể được sử dụng một cách an toàn để sàng lọc những phụ nữ có nguy cơ cao mắc ung thư vú hoặc những người cần sàng lọc ung thư vú dưới 40 tuổi (khi mô vú nhạy cảm hơn nhiều với tác động của bức xạ).
+MRI là xét nghiệm nhạy cảm nhất để phát hiện ung thư vú giai đoạn sớm ở những cá thể phụ nữ có nguy cơ cao: phụ nữ có đột biến BRCA1 hoặc 2; phụ nữ có tiền sử gia đình mắc bệnh ung thư vú như chị gái, mẹ, khi còn trẻ tuổi; phụ nữ đã từng xạ trị thành ngực vì bệnh Hodgkin hoặc bệnh ung thư khác trước 30 tuổi. Khả năng phát hiện các bất thường của MRI không bị giảm đi do mô vú dày đặc (thường gặp ở phụ nữ trẻ). Chụp nhũ ảnh sẽ kém hiệu quả hơn nhiều trong tình huống này.
+Túi độn ngực có thể che khuất mô vú trong quá trình chụp X-quang tuyến vú. MRI là phương pháp tốt nhất để đánh giá ngực của phụ nữ đặt túi độn vì nó có khả năng hiển thị các mô xung quanh túi độn ở mặt cắt ngang.
+MRI có thể cho biết túi độn ngực có bị vỡ hay không, trong đó chụp X-quang tuyến vú và siêu âm kém chính xác hơn.
+MRI là một công cụ giải quyết vấn đề trong trường hợp X-quang tuyến vú và siêu âm cho thấy kết quả không chắc chắn, nghiên cứu MRI thông thường thường có thể loại trừ hầu hết các loại ung thư vú.
+MRI là cách chính xác nhất để xác định kích thước của khối u và liệu có các khối u khác xuất hiện ở cùng vú đó hay vú còn lại hay không. Thông tin này có thể ảnh hưởng đến loại phẫu thuật cần thiết. Điều này có thể ngăn chặn việc cắt bỏ toàn bộ vú một cách không cần thiết (khi chỉ có một khối u nhỏ) hay ngăn điều trị không đủ rộng khi chỉ cắt bỏ một phần vú (và điều này không loại bỏ các khối u khác mà chụp X-quang tuyến vú và siêu âm có thể không cho thấy).
+Đánh giá đáp ứng của bệnh ung thư với điều trị bằng hóa chất trước mổ: MRI được thực hiện vào giữa quá trình điều trị bằng thuốc có thể giúp xác định xem thuốc có hiệu quả hay không. Đánh giá bệnh còn sót lại sau phẫu thuật và kiểm tra xem khối u có tái phát ở vú hay không. MRI có khả năng hiển thị những phát hiện đáng ngờ trong mô sẹo tốt hơn so với chụp nhũ ảnh.
+Chụp MRI vú giúp phát hiện sớm ung thư vú
+2. Nhược điểm của chụp MRI vú là gì?
+Dương tính giả: dù chụp MRI vú có thể phát hiện khối u ác tính tại tuyến vú mà chụp nhũ ảnh không tìm thấy nhưng phương pháp này cũng có xác suất phát hiện những bất thường không phải ung thư (dương tính giả). Điều này khiến một số người bệnh phải làm thêm xét nghiệm không cần thiết. Vì vậy, chụp MRI ngực thường không được chỉ định tầm soát ung thư vú ở những phụ nữ có nguy cơ từ trung bình trở xuống.
+Dị ứng thuốc cản từ: để chụp MRI vú, bệnh nhân được tiêm một loại thuốc cản từ là gadolinium qua tĩnh mạch, giúp hình ảnh MRI dễ nhìn hơn nhưng có thể gây dị ứng, đặc biệt nghiêm trọng nếu thực hiện trên phụ nữ mắc bệnh thận mức độ nặng. Triệu chứng dị ứng thuốc nhuộm gồm: sốt lạnh, đỏ vùng mặt, trong miệng có vị mặn, đau đầu từng đợt, ngừa toàn thân, buồn nôn, khó thở.
+Thời gian dài: chụp cộng hưởng từ vú yêu cầu chị em phải nằm yên bất động trong thời gian dài, khoảng 20 – 60 phút, tùy trường hợp và kỹ thuật, nên có thể khiến một số bệnh nhân khó chịu và lo lắng khi nằm lâu.
+Tiếng ồn lớn: trong quá trình hoạt động, máy MRI phát ra tiếng ồn rất lớn nên bệnh nhân cần mang nút bịt tai hoặc tai nghe để bảo vệ tai.
+Chi phí cao: so với chụp nhũ ảnh, chụp cộng hưởng từ MRI có chi phí cao hơn đáng kể.
+Kết quả của hình ảnh cộng hưởng từ tuyến vú khó diễn giải hơn và cần bác sĩ chuyên về hình ảnh vú phối hợp hình ảnh siêu âm và nhũ ảnh, trao đổi với bác sĩ phẫu thuật.
+3. Chống chỉ định của chụp MRI vú
+Phụ nữ được cấy ghép một số thiết bị kim loại bên trong cơ thể như: máy điều hòa nhịp tim, máy khử rung tim, đặt stent, ốc tai điện tử… dễ bị ảnh hưởng bởi từ trường mạnh. [2]
+Phụ nữ đang mang thai, nhất là trong 3 tháng đầu thai kỳ.
+Phụ nữ dị ứng với thành phần thuốc gadolinium hoặc iốt thì có thể chụp khảo sát túi ngực mà không tiêm thuốc cản từ, không chống chỉ định tuyệt đối.
+Phụ nữ mắc bệnh mạn tính nghiêm trọng như: suy thận, suy gan, viêm phổi, trào ngược dạ dày, hội chứng sợ không gian kín nặng…
+Quy trình chụp MRI vú
+Quy trình thực hiện chụp cộng hưởng từ tuyến vú gồm các bước sau:
+1. Làm cách nào để chuẩn bị cho chụp MRI vú?
+Khi hẹn chụp MRI vú, bạn có thể được bác sĩ hỏi ngày đầu tiên trong kỳ kinh nguyệt cuối cùng của bạn. Cuộc hẹn của bạn sẽ được thực hiện vào một tuần sau khi sạch kinh hay nói cách khác là vào 6 – 16 ngày sau khi bắt đầu kỳ kinh cuối cùng của bạn. Đây là thời điểm tốt nhất để MRI vú phát hiện tổn thương vú và ít ảnh hưởng của các thương tổn từ những thay đổi bình thường liên quan đến hormone xảy ra trong mô vú.
+Nếu bạn đang sử dụng liệu pháp thay thế hormone sau mãn kinh, bạn sẽ cần ngừng dùng thuốc từ 4 – 6 tuần trước khi chụp. Bác sĩ sẽ tư vấn về điều này.
+Nếu cần thiết, MRI vú có thể được thực hiện nếu bạn đang cho con bú. Việc hấp thu một trong các chất tương phản gadolinium vào sữa mẹ đã được chứng minh là rất nhỏ (0,01%) và rất ít (dưới 1%) thuốc được trẻ hấp thụ khi dùng theo cách này. Đây là một tỷ lệ rất nhỏ so với liều thường được dùng cho trẻ được chụp MRI. Vì vậy, bạn không cần phải ngừng cho con bú.
+Không cần chuẩn bị đặc biệt trước khi chụp MRI ngực. Bạn sẽ có thể dùng các loại thuốc bình thường, ngoại trừ liệu pháp thay thế hormone. Nhịn ăn là không cần thiết.
+Nếu bạn mắc một tình trạng khiến bạn khó nằm yên trong một khu vực kín (sợ bóng tối) hoặc nếu bạn không thể nằm sấp với hai cánh tay duỗi thẳng qua đầu trong 30 – 60 phút mà không di chuyển, hãy nói với bác sĩ của bạn và nhân viên nơi bạn chụp MRI vào thời điểm bạn đặt chỗ. Bạn có thể được bác sĩ cho một lượng nhỏ thuốc giãn cơ bằng cách tiêm hoặc uống thuốc để giúp bạn thư giãn.
+Vui lòng mang theo ảnh chụp X-quang tuyến vú, siêu âm vú trước đó và bất kỳ kết quả sinh thiết nào khi bạn đến kiểm tra MRI. Những thông tin này rất hữu ích cho bác sĩ đọc MRI của bạn vì chúng thường cung cấp thêm thông tin hữu ích khi diễn giải các phát hiện.
+Vui lòng đến quầy tiếp tân ở khoa MRI của bệnh viện để thực hiện thủ thuật ít nhất 30 phút trước giờ hẹn. Trước khi chụp MRI vú, bạn sẽ được giải thích về quy trình này và bạn sẽ được yêu cầu hoàn thành bảng câu hỏi về an toàn và tiện sử dị ứng.
+Bạn sẽ được cấp một chiếc áo choàng để mặc và một nơi để tư trang cá nhân. Bạn sẽ cần phải cởi bỏ đồ trang sức, áo ngực và bất kỳ món đồ quần áo nào khác có chứa kim loại, chẳng hạn như khóa kéo hoặc nút kim loại. Không mang bất kỳ đồng hồ hoặc thẻ nào có dải từ tính (như thẻ tín dụng) vào buồng chụp MRI, vì chúng có thể không hoạt động khi tiếp xúc với từ trường.
+Trong một số trường hợp, bạn có thể không thực hiện được MRI, ví dụ nếu bạn có máy điều hòa nhịp tim, chân tay giả, bất kỳ ghim kim loại hoặc mảnh kim loại nào trong cơ thể (đặc biệt là ở mắt), van tim kim loại, kẹp kim loại trong cơ thể bạn như ở não, cấy ghép kim loại vào tai của bạn, có hình xăm bằng loại mực chứa kim loại ở trước ngực hoặc bất kỳ thiết bị y tế nhân tạo hoặc cấy ghép nào khác.
+Bạn cũng nên thông báo cho bác sĩ nếu bạn đã từng làm việc trong môi trường chứa nhiều kim loại hoặc bạn đã phẫu thuật mạch máu gần đây.
+Các lý do khác khiến bạn không thể thực hiện MRI vú bao gồm:
+Nếu bạn bị dị ứng với chất tương phản được sử dụng cho MRI.
+Nếu bạn có các tình trạng sức khỏe khác, như bệnh lý nghiêm trọng về thận hoặc thiếu máu hồng cầu hình liềm.
+Nếu bạn đang mang thai, tác dụng của MRI đối với em bé đang phát triển vẫn chưa được biết đầy đủ và chất tương phản được biết là có thể đi qua nhau thai. Hiện chưa phát hiện bất kỳ tác hại của MRI đối với thai nhi, nhưng phụ nữ mang thai không được thự hiện MRI vú trừ khi những lợi ích tiềm năng lớn hơn những rủi ro nhỏ nhưng chưa được chứng minh đối với thai nhi.
+2. Điều gì xảy ra khi chụp MRI vú?
+MRI vú là một thủ thuật không gây đau, thường được thực hiện trên cơ sở ngoại trú.
+Nếu cần tiêm thuốc cản từ, y tá sẽ đặt một đường truyền tĩnh mạch (thường ở mu bàn tay hoặc cánh tay của bạn) trước khi bạn vào phòng chụp và sẽ rút bỏ kim ngay sau khi chụp xong.
+Bạn sẽ được yêu cầu nằm sấp trên một chiếc bàn có đệm di động với hai tay ở trên đầu. Ngực của bạn sẽ được đặt vào trong cuộn vú, giống như một chiếc áo ngực có đệm đặc biệt. Cuộn dây này hoạt động với máy MRI để tạo ra hình ảnh về bộ ngực của bạn. Lực nén nhẹ được đặt lên ngực của bạn chỉ để giữ cho chúng không di chuyển, nếu không hình ảnh có thể bị mờ. Lực nén này ít hơn nhiều so với lực nén mà bạn chụp X-quang tuyến vú và không gây đau.
+Vú của bạn sẽ được che phủ hoàn toàn trong suốt quá trình kiểm tra.
+Khi ngực bạn đã được vào vị trí thoải mái, bàn sẽ được chuyển vào một đường hầm ngắn bên trong máy quét MRI.
+Bên trong máy quét được chiếu sáng tốt và có quạt thổi không khí trong lành nhẹ nhàng lên người bạn. Máy phát ra tiếng ồn lớn và tiếng gõ cửa khi đang hoạt động, điều này khá bình thường. Bạn sẽ được cung cấp điện thoại đeo đầu hoặc nút tai đặc biệt để giúp ngăn chặn tiếng ồn này. Kỹ thuật viên X quang sẽ có thể nghe thấy bạn và sẽ nói chuyện với bạn trong quá trình kiểm tra qua điện thoại đeo tai.
+Điều rất quan trọng là bạn không được di chuyển trong khi kiểm tra, vì điều này sẽ làm cho hình ảnh bị mờ. Nếu bạn cảm thấy rất khó chịu khi ở trong máy MRI, bạn sẽ có thể giao tiếp với kỹ thuật viên X quang bằng cách nói hoặc sử dụng một chiếc chuông đặc biệt mà bạn có thể cầm trên tay. Người chụp X quang có thể nghe và nhìn thấy bạn mọi lúc.
+Có một số bước liên quan đến việc thu được hình ảnh trong quá trình thực hiện mà kỹ thuật viên X-quang sẽ giải thích cho bạn. Trong quá trình tiêm tĩnh mạch, bạn sẽ cảm thấy lạnh ở nơi đặt đường truyền tĩnh mạch trên bàn tay hoặc cánh tay. Điều này là bình thường và sẽ chỉ kéo dài vài giây.
+Thời gian bạn sẽ nằm trên bàn MRI là 20-30-60 phút tùy theo quy trình và toàn bộ quá trình kiểm tra kể từ khi bạn được gọi từ khu vực chờ, thường được hoàn thành trong vòng một tiếng rưỡi.
+Sau khi bác sĩ X quang hoàn thành kiểm tra, chiếc bàn sẽ được di chuyển ra khỏi bên trong máy và đường truyền tĩnh mạch sẽ được tháo ra và đè ép lên vị trí kim được đưa vào, sau đó sẽ dán một lớp băng dính nhỏ.
+Bạn có thể ăn uống bình thường và miễn là bạn chưa dùng bất kỳ loại thuốc an thần nào trước khi chụp, bạn có thể lái xe và quay lại làm việc. Nếu bạn đã được dùng thuốc an thần, bạn sẽ phải đợi ở cơ sở MRI trong 30 phút sau khi khám và bạn không nên lái xe trong 6 giờ vì thuốc an thần có thể ảnh hưởng đến thời gian phản ứng của bạn ở mức độ nhẹ. Bạn sẽ có thể đi lại và nói chuyện bình thường và tự mặc quần áo để ra về.
+Tư thế khi chụp MRI vú
+3. Sau khi chụp
+Để tránh chóng mặt, choáng váng do phải nằm sấp trong thời gian dài, bệnh nhân nên từ từ ngồi dậy.
+Trường hợp bệnh nhân cần dùng thuốc an thần, nên nghỉ ngơi cho đến khi thuốc hết tác dụng hãy ra về.
+Thông báo cho bác sĩ nếu phát hiện triệu chứng như: phát ban đỏ, ngứa, buồn nôn, khó thở, sưng mắt và tai, đau cơ và lưng nhiều sau buổi chụp MRI.
+Nếu đang cho con bú, bạn nên tạm dừng trong 48 giờ để thuốc cản từ tan hết rồi hãy cho em bé bú lại.
+Bệnh nhân có thể ăn uống, sinh hoạt bình thường sau khi chụp MRI vú, trừ khi có chỉ định đặc biệt từ bác sĩ.
+Chụp MRI vú có để lại hậu quả gì không?
+Nếu bạn chưa được dùng thuốc an thần thì không cần thời gian hồi phục. Bạn có thể tiếp tục các hoạt động thông thường và chế độ ăn uống bình thường ngay sau khi khám.
+Một số ít người bệnh gặp tác dụng phụ từ chất cản từ, bao gồm buồn nôn và đau cục bộ. Ít gặp hơn là bệnh nhân bị dị ứng với chất cản từ và bị nổi mề đay và ngứa mắt. Điều này thường được điều trị dễ dàng bằng thuốc kháng dị ứng tiêm tĩnh mạch. Các phản ứng nghiêm trọng hơn với chất cản từ rất hiếm xảy ra, xảy ra ở khoảng 1/10.000 bệnh nhân và bao gồm khó thở và huyết áp rất thấp.
+Nếu dị ứng nặng xảy ra, nhân viên y tế tại cơ sở MRI sẽ tiêm thuốc qua đường tĩnh mạch, sau đó đưa bệnh nhân vào bệnh viện để theo dõi trong thời gian ngắn. Những người đã biết mình bị hen suyễn hoặc dị ứng với bất kỳ loại thực phẩm hoặc thuốc nào sẽ có nguy cơ cao gặp phải loại phản ứng bất lợi nghiêm trọng này, nhưng mức độ gia tăng nguy cơ này là rất ít.
+Ngoài ra, hầu hết những người gặp phản ứng nghiêm trọng đều không có tiền sử bệnh hen suyễn hoặc bất kỳ loại dị ứng nào, vì vậy kỹ thuật viên hoặc bác sĩ của bạn không thể đoán trước được tác dụng phụ hiếm gặp này.
+Một biến chứng rất hiếm gặp nhưng nghiêm trọng do tiêm thuốc cản từ gọi là xơ cứng hệ thống do thận đã được ghi nhận ở những bệnh nhân có chức năng thận kém. Bệnh nhân bị biến chứng này có thể bị dày da và mô mềm, chủ yếu ảnh hưởng đến cánh tay và chân và hiếm khi gây tổn thương cho tim và thận. Biến chứng này chỉ được ghi nhận ở những bệnh nhân có chức năng thận bị suy yếu.
+Cơ sở MRI mà bạn tham dự sẽ đánh giá xem bạn có cần kiểm tra chức năng thận trước khi tiêm chất tương phản gadolinium hay không bằng cách đặt câu hỏi về tiền sử bệnh của bạn. Nói chung, những người trẻ, khỏe mạnh và không có tiền sử bệnh thận sẽ không cần kiểm tra chức năng thận.
+Bạn có thể bị vết bầm tím ở vị trí đặt đường truyền tĩnh mạch.
+Ngoài ra còn có rất ít khả năng bị kích ứng hoặc nhiễm trùng da tại vị trí đặt truyền tĩnh mạch do rò rỉ chất tương phản gadolinium.
+Hiện tượng này gọi là thoát mạch chất tương phản. Rất hiếm xảy ra nhưng cần sớm xử trí và điều trị bằng gây tê tại chỗ và chườm đá và nếu thoát mạch nhiều, bạn có thể được yêu cầu đến gặp bác sĩ riêng hoặc cơ sở MRI vào ngày hôm sau để đảm bảo rằng tình trạng kích ứng đã được giải quyết. Rất hiếm khi, loại thoát mạch này có thể dẫn đến hình thành cục máu đông trong tĩnh mạch bị ảnh hưởng, có thể vỡ ra và lan đến phổi.
+Đây là lý do tại sao việc theo dõi là cần thiết nếu bạn gặp hiện tượng rò rỉ chất cản quang xung quanh đường truyền tĩnh mạch.
+Nếu bạn đang cho con bú thì tiếp tục vì khá an toàn vì các nghiên cứu đã chỉ ra rằng chỉ một lượng rất nhỏ chất cản từ được em bé hấp thụ qua sữa.
+Nếu bạn đã được dùng thuốc an thần khi thực hiện thủ thuật, bạn sẽ cần ở lại cơ sở MRI một thời gian sau khi chụp. Chúng tôi khuyên bạn nên tránh lái xe hoặc vận hành máy móc trong ít nhất 6 giờ và nên sắp xếp để người thân hoặc bạn bè đưa bạn về nhà.
+Những rủi ro của chụp MRI vú là gì?
+Việc kiểm tra MRI hầu như không gây rủi ro cho bệnh nhân bình thường khi tuân thủ các hướng dẫn an toàn thích hợp. Tuy nhiên, sau hoàn thành buổi chụp MRI, bạn có thể gặp một số tình trạng sau:
+Nếu bác sĩ kê đơn thuốc an thần cho bạn, bạn có thể cảm thấy buồn ngủ và không được phép lái xe cho đến khi hết tác dụng.
+Mặc dù bản thân từ trường mạnh không có hại nhưng các thiết bị y tế có chứa kim loại có thể gặp trục trặc hoặc gây ra sự cố trong quá trình kiểm tra MRI, đó là lý do tại sao chúng tôi hỏi bạn những câu hỏi bạn có các thiết bị này như một phần của bảng câu hỏi an toàn trước khi thực hiện kiểm tra.
+Có nguy cơ rất nhỏ xảy ra phản ứng dị ứng nếu tiêm chất cản từ. Những phản ứng như vậy thường nhẹ và dễ dàng kiểm soát bằng thuốc. Khoảng 1/100 bệnh nhân bị buồn nôn và đỏ bừng trong hoặc ngay sau khi tiêm.
+Cứ 10.000 bệnh nhân thì có một người bị phản ứng dị ứng nghiêm trọng hơn (khó thở, tụt huyết áp) và có thể cần điều trị khẩn cấp. Một số lượng rất nhỏ bệnh nhân đã chết vì điều phản ứng phản vệ nghiêm trọng này.
+Có rất ít nguy cơ nhiễm trùng da tại chỗ tiêm.
+Xơ hóa hệ thống do thận hiện là một biến chứng được công nhận nhưng hiếm gặp của MRI được cho là do tiêm một số chất tương phản MRI (nhưng không phải tất cả) ở bệnh nhân có chức năng thận kém. Điều quan trọng là bạn phải nói với bác sĩ nếu bạn có tiền sử các vấn đề về thận. Bạn có thể được bác sĩ yêu cầu xét nghiệm máu để kiểm tra chức năng thận trước khi chụp.
+Chụp MRI ít gây rủi ro cho người bệnh
+Nhóm kết quả MRI ở vú
+Kết quả chụp MRI vú dựa trên thang đo BIRADS (Breast Imaging Reporting and Data System). Đây là hệ thống dữ liệu và báo cáo hình ảnh tuyến vú được sắp xếp theo thang điểm 0 – 6, cụ thể như sau [3]:
+BIRADS 0: kết quả hình ảnh chưa đầy đủ, chưa thể đưa ra chẩn đoán, cần kết hợp với kết quả chụp nhũ ảnh. Nói cách khác, bác sĩ chẩn đoán hình ảnh đã nhìn thấy một bất thường tại tuyến vú nhưng chưa rõ ràng, sẽ cần làm thêm các xét nghiệm khác như chụp X-quang, siêu âm và so sánh với những kết quả trước đó để đưa ra nhận định chính xác hơn.
+BIRADS 1: kết quả âm tính. Có nghĩa, tuyến vú không có tổn thương, thay đổi lành tính như sẹo, u nang, cấu trúc bị biến dạng, vôi hóa đáng ngờ…
+BIRADS 2: không có khối u ung thư ở tuyến vú, các tổn thương phát hiện thấy đều lành tính.
+BIRADS 3: có thể lành tính, nguy cơ ung thư vú rất thấp (không quá 2%) nhưng cần theo dõi ngắn hạn trong 6 – 12 tháng để xem liệu tổn thương này có phát triển theo thời gian hay không. Nếu sau 2 năm, tổn thương không có thay đổi bất thường thì được kết luận là lành tính.
+BIRADS 4: phát hiện nghi ngờ là ung thư, cần thực hiện sinh thiết (phải luôn thử sinh thiết bằng siêu âm trước vì phần lớn các tổn thương MRI có thể được định vị bằng siêu âm mục tiêu). Tổn thương BIRADS 4 được chia thành 3 nhóm khác nhau, sắp xếp theo thứ tự nguy cơ ung thư tăng dần:
+BIRADS 4A: nguy cơ ung thư vú thấp, từ 2% – 10%.
+BIRADS 4B: nguy ung thư vú trung bình, 10% – 50%.
+BIRADS 4C: nguy cơ ung thư vú cao, từ 50% – 95%.
+BIRADS 5: nguy cơ ung thư rất cao, trên 95%, bắt buộc phải thực hiện sinh thiết sớm.
+BIRADS 6: chắc chắn là ung thư, cần đưa ra phác đồ điều trị phù hợp.
+Nên chụp cộng hưởng từ tuyến vú ở đâu?
+Chụp được cho bệnh nhân ngoại trú, được thực hiện tại khoa chẩn đoán hình ảnh của bệnh viện​​hoặc tại phòng khám đa khoa có máy chụp MRI có bác sĩ chuyên đọc MRI vú và các hình ảnh học bệnh tuyến vú.
+Bệnh viện Đa khoa Tâm Anh TP.HCM được trang bị hệ thống máy MRI 1,5 – 3 Tesla thế hệ mới nhất, sử dụng công nghệ Ma trận sinh học toàn phần (BioMatrix), ứng dụng trí tuệ nhân tạo AI vào trong chẩn đoán. Hệ thống MRI Tesla tại Bệnh viện cho phép chụp siêu tốc, tạo ra chất lượng hình ảnh sắc nét trong thời gian ngắn. Không chỉ phát hiện sớm các tổn thương, bất thường ở tuyến vú, mà còn giúp bệnh nhân tiết kiệm nhiều thời gian.
+Ngoài ra, Bệnh viện Đa khoa Tâm Anh TP.HCM còn có khoa Ngoại Vú và Trung tâm Chẩn đoán Hình ảnh & Điện quang Can thiệp phát triển mạnh với đội ngũ hùng hậu các chuyên gia, bác sĩ chuyên khoa giàu kinh nghiệm, vững chuyên môn, mang lại kết quả chẩn đoán chính xác, phát hiện bệnh sớm, phương án điều trị dành cho từng người bệnh, giúp nâng cao hiệu quả và rút ngắn thời gian điều trị.
+Các câu hỏi liên quan tới MRI vú
+1. Chụp MRI vú có ảnh hưởng đến sức khỏe không?
+Không. Máy MRI tạo ra từ trường và sóng vô tuyến, không tạo ra tia phóng xạ, nên không ảnh hưởng đến sức khỏe của bệnh nhân. Tuy nhiên, trước khi chụp MRI vú, bệnh nhân cần thông báo cho bác sĩ biết toàn bộ tình trạng sức khỏe, các loại thuốc đang sử dụng để bác sĩ đánh giá có thể thực hiện không.
+2. Chụp MRI vú mất bao lâu?
+Quy trình này có thể mất từ ​​30-45 phút đến một tiếng rưỡi, bao gồm cả thời gian chuẩn bị cho bạn chụp quét và thu được hình ảnh.
+Trong quá trình thực hiện, một lượng lớn thông tin được thu thập và nhiều hình ảnh được tạo ra. Kỹ thuật viên X-quang sẽ cần kiểm tra xem các hình ảnh có đạt yêu cầu hay không trước khi kết thúc quá trình kiểm tra.
+Bạn sẽ cần ở lại cơ sở MRI trong một thời gian ngắn để quan sát trước khi được phép về nhà, đặc biệt nếu bạn đã dùng thuốc giãn cơ để giúp bạn đứng yên trong quá trình thủ thuật.
+3. Phụ nữ đang cho con bú có chụp MRI được không?
+Được. Thuốc cản từ tiêm vào cơ thể người mẹ khi chụp MRI không ảnh hưởng đến chất lượng sữa cho em bé bú. Tuy nhiên, tốt nhất phụ nữ không nên cho con bú trong vòng 48 giờ sau khi chụp MRI để cơ thể đào thải hết thuốc này. Trước ngày chụp MRI, bệnh nhân có thể hút, dự trữ sữa sẵn để cho con bú.
+4. Chụp MRI có phát hiện ung thư không?
+Có. Chụp MRI là phương pháp quan trọng không chỉ giúp phát hiện ung thư vú mà còn giúp xác định chính xác kích thước và vị trí khối u. Thậm chí, phương pháp này có thể phát hiện khối u ung thư vú rất nhỏ mà kết quả chụp nhũ ảnh không rõ ràng, có thể bỏ sót.
+5. Khi nào bạn có kết quả chụp MRI vú của mình?
+Thời gian bác sĩ nhận được báo cáo kết quả bằng văn bản sẽ khác nhau tùy thuộc vào:
+Mức độ khẩn cấp mà bác sĩ yêu cầu kết quả.
+Mức độ phức tạp của xét nghiệm.
+Tùy theo yêu cầu bác sĩ của bạn có cần thêm thông tin trước khi bác sĩ X quang có thể giải thích kết quả (xem đối chiếu với phim nhũ ảnh hoặc siêu âm vú.
+Tùy theo bạn đã từng chụp X-quang hoặc hình ảnh khác trước đó cần được so sánh với phim cũ này hay chưa (trường hợp này thường xảy ra nếu bạn đang được đánh giá theo mức độ tiến triển của bệnh).
+Cách gửi báo cáo đến bác sĩ của bạn (tức là qua điện thoại, email, fax hoặc thư).
+Điều quan trọng là bạn phải thảo luận kết quả với bác sĩ, trực tiếp hoặc qua điện thoại, để họ có thể giải thích kết quả có ý nghĩa gì đối với bạn.
+Không phải tất cả những gì xuất hiện trên MRI vú đều là do ung thư. MRI vú là một xét nghiệm rất nhạy cảm, có nghĩa là nó rất hiệu quả trong việc hiển thị những phát hiện nhỏ và tinh tế hoặc nhẹ ở vú, phần lớn trong số đó không phải do ung thư. Điều này có thể có nghĩa là bạn sẽ cần phải thực hiện các xét nghiệm khác sau khi chụp MRI để tìm hiểu ý nghĩa của những phát hiện này. Điều này có thể bao gồm siêu âm và sinh thiết vú sau khi chụp MRI vú.
+Sinh thiết thường có thể được thực hiện bằng kim nhưng đôi khi có thể cần phải phẫu thuật. Nếu bạn đang thực hiện sinh thiết phẫu thuật, một kẹp kim loại đánh dấu nhỏ sẽ được đưa vào vú để có thể loại bỏ đúng vùng này sau đó nếu cần.
+Đôi khi, hình ảnh từ chụp MRI vú không đạt yêu cầu vì mô vú bình thường có thể sử dụng chất tương phản mạnh đến mức không thể phát hiện bất kỳ khu vực bất thường nào. Sẽ giảm nguy cơ này xảy ra bằng cách bệnh nhân được thực hiện trong tuần thứ hai của chu kỳ kinh nguyệt nếu có thể và bệnh nhân nên ngừng nội tiết thay thế trong 4-6 tuần trước khi khám.
+6. Ai thực hiện MRI vú?
+MRI vú sẽ được thực hiện bởi một chuyên gia chụp X-quang có kỹ năng vận hành máy MRI và định vị để kiểm tra.
+Kỹ thuật viên X-quang chuẩn bị các hình ảnh thu được trong quá trình kiểm tra MRI để bác sĩ X quang xem xét, giải thích các hình ảnh MRI và chuẩn bị một báo cáo bằng văn bản cho bác sĩ chuyên khoa bệnh tuyến vú giới thiệu bạn.
+Phụ nữ lo ngại mình có nguy cơ cao mắc ung thư vú hay mong muốn tầm soát ung thư vú sớm có thể đến khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM để được các bác sĩ chuyên khoa khám, chẩn đoán, đưa ra phương pháp điều trị phù hợp
+MRI vú là chẩn đoán hình ảnh hiện đại, có thể tầm soát ung thư vú nguy cơ cao và phát hiện sớm tổn thương nghi ngờ. Có nhiều ứng dụng của MRI trong chẩn đoán và hỗ trợ các hình ảnh khác trong lập kế hoạch điều trị ung thư vú. Tuy nhiên, phương pháp này là kỹ thuật khó cần các bác sĩ chuyên hình ảnh học tuyến vú kết hợp với các chẩn đoán hình ảnh khác như chụp nhũ ảnh, siêu âm để đưa ra kết luận chính xác nhất.

@@ -1,0 +1,66 @@
+# doc_id = health_disease_2732
+# url = https://tamanhhospital.vn/gist-da-day/
+# date = 03/04/2024
+GIST dạ dày: Nguyên nhân, triệu chứng, chẩn đoán và phòng ngừa
+GIST dạ dày là khối u ác tính hiếm gặp ở đường tiêu hóa, liên quan đến đột biến trong gen KIT. Bệnh khó chẩn đoán, có nguy cơ cao diễn tiến nguy hiểm nếu không điều trị kịp thời. Tùy vào kích thước khối u, mức độ di căn, bác sĩ sẽ chỉ định hướng điều trị phù hợp.
+Mục lụcGIST dạ dày là gì?Nguyên nhân GIST dạ dày là gì?Yếu tố nguy cơTriệu chứng GIST dạ dàyChẩn đoán GIST dạ dàyGIST dạ dày có nguy hiểm không?Điều trị GIST dạ dày1. Phẫu thuật2. Dùng thuốcPhòng ngừa GIST dạ dàyCâu hỏi thường gặp1. GIST dạ dày lành tính hay ác tính?2. GIST có giống ung thư dạ dày không?3. GIST dạ dày có chữa được không?4. GIST dạ dày sống được bao lâu?GIST dạ dày là gì?
+GIST dạ dày (khối u mô đệm đường tiêu hóa) là loại khối u trung mô hiếm gặp, chiếm từ 0,1 – 3% trong tổng số khối u ác tính ở đường tiêu hóa và rất khó chẩn đoán.
+Nguyên nhân chính do đột biến gen tiền ung thư c-KIT hoặc alpha polypeptide của yếu tố tăng trưởng có nguồn gốc từ tiểu cầu. Tình trạng này dẫn đến tăng hoạt động của thụ thể tyrosine kinase, tăng sinh không kiểm soát của tế bào gốc biệt hóa thành tế bào Cajal (còn được gọi là tế bào tạo nhịp tim đường tiêu hóa), cuối cùng hình thành các khối u mô đệm đường tiêu hóa. GIST dạ dày có thể xảy ra ở mọi lứa tuổi, nhưng phổ biến nhất là ở độ tuổi trung niên và người già.
+U mô đệm đường tiêu hóa chiếm 3% trong các loại ung thư ở dạ dày. Xuất hiện ở bất kỳ vị trí nào của ống tiêu hóa. Khoảng 60-70% xuất hiện ở dạ dày, 20-30% ở tá tràng và ruột non, đại trực tràng là 5%, thực quản và các bộ phận khác dưới 5%.(1)
+GIST dạ dày là loại khối u trung mô hiếm gặp
+Nguyên nhân GIST dạ dày là gì?
+Cơ thể khỏe mạnh khi tất cả các tế bào trong cơ thể đều phát triển, phân chia và sau đó phân hủy theo chu kỳ tự nhiên. Nếu tế bào phát triển và phân chia mất kiểm soát, nguy cơ cao sẽ diễn tiến thành ung thư. Trong đó, GIST dạ dày hình thành khi các tế bào lót đường tiêu hóa nhân lên không kiểm soát. Hầu hết các GIST này đều liên quan đến đột biến trong gen KIT. Gen này kích thích các tế bào tạo ra một loại protein có tên là KIT CD117, đẩy nhanh tốc độ phát triển và phân chia mất kiểm soát.(2)
+Yếu tố nguy cơ
+Có rất ít yếu tố nguy cơ liên quan đến bệnh GIST dạ dày, một số GIST phát triển do những thay đổi tự phát trong tế bào, nhưng có thể kể đến như:
+Người từ 50 tuổi trở lên
+Di truyền (hiếm): Gen KIT bất thường truyền từ cha mẹ sang con cái, làm tăng nguy cơ hình thành GIST dạ dày.
+U xơ thần kinh loại 1: Là một dạng rối loạn xảy ra do sự tăng trưởng bất thường của tế bào, dẫn đến việc hình thành các khối u khắp cơ thể. Những khối u này có thể phát triển trên dây thần kinh, gây ra các vấn đề về da, xương, mắt và nhiều bộ phận khác. Người mắc bệnh u xơ thần kinh loại 1 cũng có nguy cơ mắc ung thư cao hơn, bao gồm cả GIST dạ dày.
+Hội chứng Carney-Stratigakis (một bệnh di truyền hiếm gặp).
+Triệu chứng GIST dạ dày
+GIST dạ dày nhỏ có thể không gây ra triệu chứng và thường diễn tiến chậm. Ở giai đoạn phát triển, tình trạng này có thể xuất hiện với một số triệu chứng sau đây:
+Đau bụng
+Mệt mỏi
+Buồn nôn
+Nôn mửa
+Đau quặn bụng sau khi ăn
+Không cảm thấy đói như bình thường
+Cảm thấy no kể cả khi chỉ ăn một ít thức ăn
+Phân sẫm màu do đường tiêu hóa chảy máu
+Người bệnh bị đau bụng do GIST dạ dày
+Chẩn đoán GIST dạ dày
+Để chẩn đoán GIST dạ dày, ban đầu, bác sĩ sẽ hỏi người bệnh về triệu chứng gặp phải và kiểm tra những dấu hiệu bất thường ở vùng bụng. Sau đó, một số xét nghiệm có thể được chỉ định thực hiện để phát hiện khối u, bao gồm:
+Xét nghiệm chẩn đoán hình ảnh: Siêu âm, chụp CT, MRI và chụp cắt lớp phát xạ positron (PET).
+Nội soi: Bác sĩ sử dụng một ống nội soi dài và mỏng có gắn đèn, luồn vào miệng xuống cổ họng để thu thập hình ảnh chi tiết về thực quản, dạ dày và phần đầu tiên của ruột non.
+Siêu âm nội soi (EUS): Bác sĩ sử dụng ống nội soi có gắn đầu dò siêu âm để thu thập hình ảnh và kích thước của khối u.
+Sinh thiết chọc hút bằng kim nhỏ: Xét nghiệm này sẽ thu thập mẫu mô nhỏ từ khối u để mang đi kiểm tra trong phòng thí nghiệm. Nếu kim không lấy đủ lượng tế bào cần thiết hoặc kết quả không rõ ràng, bác sĩ sẽ chỉ định phẫu thuật để thu thập mẫu mới.
+Nội soi chẩn đoán GIST dạ dày
+GIST dạ dày có nguy hiểm không?
+GIST dạ dày có thể gây ra một số biến chứng cấp tính như: xuất huyết, tắc ruột, xoắn ruột, thủng ruột kèm theo viêm phúc mạc, thường xảy ra khi khối u lớn hơn 4 cm.(3)
+GIST có thể là nguyên nhân gây tử vong do xuất huyết tiêu hóa. Triệu chứng thường gặp gồm: nôn ra máu, đại tiện ra máu, đại tiện phân đen, mệt mỏi, chóng mắt, ngất, thiếu máu không rõ nguyên nhân. Người bệnh cần đi khám để được điều trị sớm, đôi khi phải truyền máu để tránh tình trạng xấu nhất.
+Người bệnh bị tắc ruột, hoặc xoắn dạ dày do GIST dạ dày thường có biểu hiện đau quặn bụng, chán ăn, nôn mửa, buồn nôn, táo báo, khó tiêu, không thể đi đại tiện, đại tiện ra máu hoặc phân đen…
+Thủng ruột do GIST dạ dày là biến chứng hiếm gặp, chủ yếu chỉ xảy ra ở những người trên 50 tuổi, với triệu chứng điển hình là đau bụng.
+Điều trị GIST dạ dày
+Một số trường hợp GIST dạ dày không có triệu chứng có thể không cần điều trị ngay. Thay vào đó, bác sĩ sẽ chỉ định thực hiện các xét nghiệm để chẩn đoán ung thư. Với các trường hợp còn lại, tùy thuộc vào mức độ tổn thương, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp:
+1. Phẫu thuật
+Mục tiêu phẫu thuật là loại bỏ GIST dạ dày, thường được chỉ định là phương pháp điều trị đầu tiên cho các trường hợp GIST chưa lan sang các bộ phận khác trong cơ thể. Loại phẫu thuật phụ thuộc vào tình trạng cụ thể, trong đó phổ biến là phẫu thuật nội soi ít xâm lấn hoặc mổ mở khi kích thước khối u lớn. Ngày nay, những khối u có kích thước 1-2cm có thể được cắt qua nội soi ống mềm.
+Bác sĩ Đỗ Minh Hùng đang trong một cuộc phẫu thuật nội soi
+2. Dùng thuốc
+Phẫu thuật không phải là phương án thích hợp nếu khối u có kích thước lớn hoặc đã lan sang các cấu trúc lân cận. Trong trường hợp này, trước tiên, bác sĩ sẽ chỉ định dùng thuốc để thu nhỏ khối u, giúp quá trình cắt bỏ về sau tiến hành dễ dàng hơn (có thể phẫu thuật sau đó). Phác đồ điều trị thường bắt đầu bằng imatinib, nhằm mục tiêu tiêu diệt tế bào ác tính. Ngoài ra, thuốc cũng có thể được sử dụng sau phẫu thuật để giảm nguy cơ tái phát. Nếu GIST tái phát, các loại thuốc khác sẽ được dùng thay thế cho imatinib.
+Dùng thuốc thu nhỏ kích thước khối u trước khi tiến hành phẫu thuật GIST dạ dày
+Phòng ngừa GIST dạ dày
+Không có biện pháp nào liên quan đến chế độ ăn uống, lối sống có thể giúp phòng ngừa bệnh GIST dạ dày. Người bệnh nên chủ động đi khám bác sĩ nếu đang có bất kỳ rối loạn, khối u nào có khả năng làm tăng nguy cơ mắc GIST.
+Câu hỏi thường gặp
+Dưới đây là phần giải đáp một số thắc mắc thường gặp về bệnh GIST dạ dày:
+1. GIST dạ dày lành tính hay ác tính?
+GIST dạ dày là loại khối u trung mô ác tính hiếm gặp ở đường tiêu hóa và rất khó chẩn đoán.
+2. GIST có giống ung thư dạ dày không?
+Hầu hết các trường hợp ung thư dạ dày đều bắt đầu từ các tế bào tuyến, được gọi là ung thư biểu mô tuyến. Trong khi đó, GIST dạ dày rất hiếm gặp, có thể bắt đầu từ các loại tế bào khác nhau, cần nhiều phương pháp điều trị và có tiên lượng khác nhau.
+3. GIST dạ dày có chữa được không?
+Một số trường hợp bị GIST dạ dày có thể chữa khỏi bằng phẫu thuật. Một số khác phải dùng thuốc ức chế Tyrosine kinase để thu nhỏ khối u, sau đó mới phẫu thuật để làm chậm tốc độ phát triển của khối u cũng như ngăn ngừa di căn.
+4. GIST dạ dày sống được bao lâu?
+Tỷ lệ sống sót tương đối sau 5 năm đối với GIST là 83%. Tỷ lệ này có thể cao hơn (khoảng 93%) khi GIST khu trú và chưa lan sang các vùng khác trong cơ thể. Tuy nhiên, nếu GIST đã lan đến các vị trí xa trong cơ thể, tỷ lệ sống sót sau 5 năm chỉ còn khoảng 55%.
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Nơi đây quy tụ đội ngũ bác sĩ Nội soi tiêu hóa – Nội khoa và Ngoại khoa Tiêu hóa – Gan Mật Tụy – Hậu môn trực tràng chuyên môn cao, giàu kinh nghiệm. Đặc biệt, các phương pháp ngoại khoa tiên tiến được áp dụng trong các lĩnh vực Nội soi và Phẫu thuật nội soi ít xâm lấn, giúp bệnh nhân nhanh hồi phục, không để lại sẹo với các tên tuổi hàng đầu như TS.BS Đỗ Minh Hùng, TTƯT.TS.BS Phạm Hữu Tùng, BS.CKII Nguyễn Quốc Thái, TS.BS Trần Thanh Bình, ThS.BS.CKII Trần Hiếu Nhân, BS.CKII Hồ Thị Bích Thủy, BS.CKI Đặng Lê Bích Ngọc; điều trị Gan Mật Tụy kỹ thuật hiện đại với TS.BS Phạm Công Khánh, BS.CKII Võ Ngọc Bích; thăm khám và tư vấn bệnh lý nội tiêu hóa với ThS.BS.CKII Lê Thanh Quỳnh Ngân, BS.CKI Huỳnh Văn Trung, BS.CKI Hoàng Đình Thành, ThS.BS Nguyễn Thị Ngọc Bích, ThS.BS.CKI Đoàn Hoàng Long; phẫu thuật trong điều trị các bệnh lý hậu môn trực tràng như ThS.BS Nguyễn Văn Hậu, ThS.BS Ngô Hoàng Kiến Tâm, ThS.BS Nguyễn Thanh Biên…
+Ngoài ra, bệnh viện còn được trang bị hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Trên đây là tổng quan các thông tin liên quan đến các GIST dạ dày, nguyên nhân, triệu chứng và phương pháp điều trị hiệu quả. Hy vọng thông qua những chia sẻ này, người bệnh đã có thêm nhiều cập nhật hữu ích liên quan đến vấn đề điều trị và chăm sóc sức khỏe.

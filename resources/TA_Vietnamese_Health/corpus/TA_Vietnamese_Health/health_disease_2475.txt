@@ -1,0 +1,195 @@
+# doc_id = health_disease_2475
+# url = https://tamanhhospital.vn/thieu-mau/
+# date = 22/04/2024
+Bệnh thiếu máu: Nguyên nhân, triệu chứng, chẩn đoán và điều trị
+Bệnh thiếu máu hay hội chứng thiếu máu là một bệnh lý nguy hiểm, có thể gây suy kiệt và dẫn đến tử vong. Người bệnh cần nắm các triệu chứng thiếu máu để kịp thời thăm khám, điều trị.
+Bài viết được tư vấn chuyên môn bởi TS.BS Nguyễn Quốc Thành – Trưởng Đơn vị Huyết học lâm sàng, Khoa Nội tổng hợp, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Ước tính 1/4 dân số toàn cầu bị bệnh thiếu máu, với số ca mắc bệnh chiếm nhiều hơn ở phụ nữ mang thai và sau sinh, phụ nữ đang có kinh nguyệt, trẻ em gái và trẻ dưới 5 tuổi. Năm 2021, 1,92 tỷ người trên toàn cầu bị thiếu máu. Vậy làm sao biết mình bị thiếu máu? Nguyên nhân thiếu máu và biểu hiện thiếu máu có giống nhau ở từng trường hợp bệnh hay không? Cách điều trị thiếu máu như thế nào? (1)
+Mục lụcThiếu máu là gì?Các loại thiếu máu1. Suy tuỷ2. Thiếu máu thiếu sắt3. Bệnh thiếu máu hồng cầu hình liềm4. Bệnh Thalassemia5. Thiếu máu do thiếu Vitamin B126. Thiếu máu tán huyết tự miễn7. Các dạng thiếu máu khácTriệu chứng thiếu máu có thể nhận biếtNguyên nhân thiếu máu1. Thiếu máu do thiếu sắt2. Thiếu máu do thiếu Vitamin, Axit Folic3. Thiếu máu do viêm nhiễm4. Thiếu máu không tái tạo5. Thiếu máu tán huyết6. Bệnh thiếu máu hồng cầu hình liềmCác yếu tố tăng nguy cơ thiếu máuCác cách phân độ thiếu máu1. Phân độ thiếu máu dựa trên mức độ2. Phân độ thiếu máu dựa trên diễn tiến3. Phân độ thiếu máu dựa trên nguyên nhân4. Phân độ thiếu máu dựa trên đặc điểm dòng hồng cầuCách chẩn đoán bệnh thiếu máuĐiều trị thiếu máuThiếu máu ảnh hưởng đến cơ thể như thế nào?Cách phòng tránh thiếu máuChế độ ăn cho người thiếu máuChăm sóc bệnh nhân thiếu máuKhám thiếu máu ở đâu đáng tin cậy?Câu hỏi thường gặp1. Khi nào cần gặp bác sĩ?2. Bệnh thiếu máu có thể chữa khỏi được không?3. Bệnh thiếu máu nghiêm trọng đến mức nào?4. Thiếu máu có phổ biến không?5. Tình trạng thiếu máu liệu có nguy hiểm không?Thiếu máu là gì?
+Thiếu máu là một bệnh lý rối loạn về máu khiến số lượng hồng cầu hoặc nồng độ huyết sắc tố trong hồng cầu thấp. Người bị bệnh thiếu máu có mức độ huyết sắc tố dưới 120 g/L.
+Thiếu máu khiến số lượng hồng cầu hoặc nồng độ huyết sắc tố trong trong hồng cầu thấp.
+Chức năng của hồng cầu là vận chuyển oxy từ phổi đến các tế bào và mô của cơ thể. Sau đó, hồng cầu mang Carbon Dioxide, chất thải quay trở lại phổi để thải ra ngoài. Hemoglobin (huyết sắc tố) là một loại Protein giàu chất sắt trong hồng cầu có chức năng “vận chuyển” các phân tử oxy.
+Nếu cơ thể không có đủ chất sắt thì tủy xương không thể tạo ra đủ lượng huyết sắc tố. Đổi lại, nếu cơ thể có lượng huyết sắc tố thấp, tủy xương sẽ tạo ra ít tế bào hồng cầu hơn và những tế bào được tạo ra có xu hướng nhỏ hơn và nhợt nhạt hơn so với hồng cầu bình thường. Các tế bào hồng cầu không thể cung cấp đủ oxy để phục vụ nhu cầu của cơ thể sẽ dẫn đến thiếu máu.
+Theo Tổ chức Y tế Thế giới, ước tính có 40% trẻ em từ 6–59 tháng tuổi, 37% phụ nữ mang thai và 30% phụ nữ từ 15–49 tuổi bị thiếu máu trên toàn cầu. Năm 2021, 1,92 tỷ người bị thiếu máu. Có thể thấy, thiếu máu là một trong những vấn đề sức khỏe gây ảnh hưởng đến phần lớn người dân trên toàn thế giới, đặc biệt là phụ nữ và trẻ em.(2)
+Các loại thiếu máu
+Bệnh thiếu máu được chia thành nhiều nhóm khác nhau. Trong đó, các nhóm bệnh chính bao gồm:
+1. Suy tuỷ
+Suy tuỷ là một tình trạng bệnh lý xảy ra khi tủy xương không thể tạo ra đủ tế bào máu mới để đáp ứng nhu cầu hoạt động bình thường của cơ thể. Nguyên nhân phổ biến nhất gây suy tủy là do hệ thống miễn dịch của bạn tấn công các tế bào gốc tạo máu trong tủy xương.
+Người bệnh bị suy tủy luôn cảm thấy mệt mỏi chóng mặt, xanh xao do tuỷ xương không sản xuất hồng cầu; dễ bị nhiễm trùng do giảm số lượng bạch cầu và chảy máu không kiểm soát được do giảm số lượng tiểu cầu. Suy tuỷ có thể diễn tiến nhanh hoặc chậm tùy theo từng trường hợp bệnh.
+Suy tuỷ là một bệnh lý nguy hiểm, có thể diễn tiến nặng và đe dọa tính mạng với tỷ lệ tử vong rất cao (khoảng 70% trong vòng 1 năm) nếu không được điều trị kịp thời. Tỷ lệ sống sót chung sau 5 năm là khoảng 80% đối với người bệnh dưới 20 tuổi. Tính đến thời điểm này, không có cách nào để ngăn ngừa suy tuỷ.
+2. Thiếu máu thiếu sắt
+Thiếu máu do thiếu sắt xảy ra khi người bệnh không có đủ lượng chất sắt trong cơ thể. Đây là loại thiếu máu phổ biến nhất.
+Những người bị thiếu máu do thiếu sắt nhẹ hoặc trung bình có thể không có bất kỳ triệu chứng nào. Trường hợp thiếu máu do thiếu sắt nghiêm trọng hơn có thể gây ra các triệu chứng mệt mỏi, khó thở, choáng váng, nặng ngực, khó thở, cảm giác hồi hộp, tim đập nhanh, tay chân lạnh, da nhợt nhạt,…
+Thiếu máu do thiếu sắt gây choáng váng, mệt mỏi.
+3. Bệnh thiếu máu hồng cầu hình liềm
+Bệnh thiếu máu hồng cầu hình liềm là một dạng bệnh thiếu máu ảnh hưởng đến hình dạng của các tế bào hồng cầu, làm hạn chế khả năng tế bào hồng cầu mang oxy đến các mô và cơ quan trong cơ thể.
+Các tế bào hồng cầu thường có hình đĩa lõm 2 mặt. Cấu trúc này khiến hồng cầu rất linh hoạt và có thể di chuyển qua các mạch máu một cách dễ dàng. Tuy nhiên, khi mắc bệnh thiếu máu hồng cầu hình liềm, các tế bào hồng cầu có hình lưỡi liềm giống như chữ C. Những tế bào này kết dính lại với nhau, tạo thành cấu trúc cứng khiến hồng cầu không thể dễ dàng di chuyển qua các mạch máu, có thể gây tắc nghẽn mạch máu.
+Hồng cầu bình thường có thể sống tới 120 ngày. Tuy nhiên, tế bào hồng cầu hình liềm chỉ sống được khoảng 10 đến 20 ngày. Các tế bào hình liềm có thể bị lá lách phá hủy do hình dạng và độ cứng của chúng. Ngược lại, tế bào hồng cầu hình liềm cũng có thể làm tổn thương lá lách, làm tăng nguy cơ viêm nhiễm.
+4. Bệnh Thalassemia
+Bệnh thiếu máu Thalassemia hay gọi tắt là bệnh Thalassemia là do đột biến Gene tổng hợp Globin, một thành phần vô cùng quan trọng tạo nên huyết sắc tố – chất trong tế bào hồng cầu mang oxy đi khắp cơ thể. Các đột biến liên quan đến bệnh Thalassemia có thể được truyền từ bố mẹ sang con cái.
+Các phân tử huyết sắc tố được tạo thành từ các chuỗi Alpha và Beta. Ở người mắc bệnh Thalassemia, việc sản xuất chuỗi Alpha hoặc Beta bị giảm, gây ra các bệnh lý Alpha-Thalassemia hoặc Beta-Thalassemia. Mức độ nghiêm trọng của bệnh phụ thuộc vào số lượng đột biến Gen di truyền từ bố mẹ sang con cái. Càng nhiều Gen đột biến, bệnh Thalassemia càng nghiêm trọng.
+Trong hầu hết các trường hợp, không thể ngăn ngừa bệnh Thalassemia. Nếu bạn mắc bệnh Thalassemia hoặc nếu bạn mang Gen bệnh Thalassemia, nên thăm khám và tham vấn với các bác sĩ trước khi quyết định tiến tới hôn nhân (tham vấn tiền hôn nhân) và trước khi sinh con (tham vấn tiền sản).
+Thalassemia là một dạng bệnh thiếu máu do di truyền.
+5. Thiếu máu do thiếu Vitamin B12
+Thiếu máu do thiếu Vitamin B12 là tình trạng thiếu các tế bào hồng cầu khỏe mạnh do lượng nguyên liệu Vitamin B12 thấp hơn bình thường.
+Thiếu máu do thiếu Vitamin thường phát triển chậm trong vài tháng đến nhiều năm. Các dấu hiệu ban đầu có thể khó phát hiện. Chỉ khi tình trạng bệnh trở nên nghiêm trọng hơn, người bệnh có thể có các triệu chứng của tình trạng thiếu máu như da nhợt nhạt hoặc tái xanh, hồi hộp, tim đập nhanh, sụt cân, tê ngứa tay chân, yếu cơ,…
+6. Thiếu máu tán huyết tự miễn
+Thiếu máu tán huyết tự miễn (AIHA) là bệnh lý được đặc trưng bởi tình trạng hồng cầu bị phá huỷ bởi các kháng thể tự miễn. Sự phá hủy hồng cầu xảy ra với tốc độ nhanh hơn khả năng sản xuất tế bào mới, dẫn đến không đủ số lượng hồng cầu trong máu và gây thiếu máu.
+Nguyên nhân gây thiếu máu tán huyết tự miễn chưa được xác định chính xác. Nhiều giả thuyết được đặt ra cho rằng thiếu máu tán huyết tự miễn là một dạng rối loạn nguyên phát hoặc thứ phát sau một căn bệnh tiềm ẩn, chẳng hạn như Virus Epstein-Barr, ung thư hạch, bệnh Lupus, rối loạn suy giảm miễn dịch, viêm khớp dạng thấp hoặc viêm loét đại tràng,…
+7. Các dạng thiếu máu khác
+Ngoài những dạng thiếu máu kể trên, còn có một số dạng thiếu máu khác ít phổ biến hơn, bao gồm:
+Thiếu máu do thiếu Axit Folic: Tương tự như thiếu máu do thiếu Vitamin B12, thiếu máu do thiếu Axit Folic là một dạng thiếu máu xảy ra do chế độ dinh dưỡng kém hoặc cơ thể kém hấp thu Axit Folic. Tuy nhiên, thiếu máu do thiếu Axit Folic không quá phổ biến như thiếu máu do thiếu Vitamin B12.
+Loạn sinh tủy: Thiếu máu xảy ra khi quá trình tạo hồng cầu trong tủy xương bị rối loạn, kết quả là tạo ra các tế bào hồng cầu lớn bất thường.
+Thiếu máu nguyên bào sắt: Trong bệnh thiếu máu nguyên bào sắt, người bệnh không có đủ hồng cầu và có quá nhiều chất sắt trong cơ thể.
+Thiếu máu Fanconi: Thiếu máu Fanconi là một bệnh di truyền gen lặn với các triệu chứng bất thường sắc tố da, người thấp, dị dạng ngón cái và suy thận. Tình trạng thiếu máu bắt đầu xuất hiện ở trẻ lớn dần, có thể dẫn đến suy tủy xương.
+Triệu chứng thiếu máu có thể nhận biết
+Làm sao biết mình bị thiếu máu? Đâu là biểu hiện của thiếu máu? Với các trường hợp thiếu máu nhẹ hoặc bệnh diễn tiến chậm, bạn có thể không có triệu chứng hoặc triệu chứng bệnh diễn tiến thoáng qua. Với các trường hợp thiếu máu ở mức độ trung bình hơn, các triệu chứng có thể xảy ra đầu tiên bao gồm:
+Cảm thấy yếu, mệt mỏi thường xuyên hơn bình thường hoặc khi tập thể dục, khi gắng sức.
+Nhức đầu, hoa mắt.
+Khó tập trung hoặc suy nghĩ.
+Dễ cáu gắt.
+Ăn mất ngon, chán ăn.
+Có cảm giác tê, ngứa ran, lạnh ở tay và chân.
+Thường xuyên bị chóng mặt.
+Nhịp tim đập nhanh bất thường.
+Cảm thấy mệt mỏi, chóng mặt là triệu chứng thiếu máu phổ biến.
+Nếu tình trạng thiếu máu trở nên trầm trọng hơn, các dấu hiệu của thiếu máu có thể bao gồm:
+Da xanh, niêm mạc mắt nhạt.
+Móng tay sọc, dễ gãy.
+Thèm ăn đá hoặc những thứ không phải thực phẩm khác (hội chứng pica).
+Hoa mắt, choáng váng chóng mặt khi đứng dậy, cảm giác lảo đảo mất thăng bằng, đứng không vững.
+Khó thở khi hoạt động nhẹ hoặc thậm chí khi nghỉ ngơi.
+Lưỡi đau hoặc viêm.
+Loét miệng.
+Chậm tăng cân và tăng chiều cao (đối với trẻ em).
+Chảy máu kinh nguyệt tăng đối với phụ nữ.
+Giảm hoặc mất ham muốn tình dục.
+Tiểu đỏ, tiểu xá xị (với trường hợp bị thiếu máu hồng cầu hình liềm).
+Rối loạn tri giác, hôn mê.
+Tử vong do thiếu máu.
+Nguyên nhân thiếu máu
+1. Thiếu máu do thiếu sắt
+Nguyên nhân gây thiếu máu do thiếu sắt bao gồm:
+Mất máu: Máu chứa sắt trong các tế bào hồng cầu. Vì vậy, nếu bạn mất máu, bạn sẽ mất một ít chất sắt. Có nhiều nguyên nhân gây mất máu như phụ nữ bị mất máu do kinh nguyệt, bệnh nhân bị loét dạ dày tá tràng, Polyp đại tràng, ung thư đại trực tràng, nhiễm giun sán,…
+Thiếu chất sắt trong chế độ ăn uống: Cơ thể nhận được chất sắt từ thực phẩm chúng ta ăn hằng ngày. Vì vậy, nếu bạn ít dùng các loại thực phẩm giúp bổ sung chất sắt, về lâu dài cơ thể sẽ thiếu sắt và dẫn đến thiếu máu.
+Không có khả năng hấp thụ sắt: Sắt từ thức ăn được hấp thụ vào máu ở ruột non. Rối loạn đường ruột, chẳng hạn như bệnh celiac, ảnh hưởng đến khả năng ruột hấp thụ chất dinh dưỡng từ thức ăn tiêu hóa. Người từng phẫu thuật cắt bỏ một phần hoặc toàn bộ ruột non có nguy cơ thiếu máu do thiếu sắt cao hơn do cơ thể không thể hấp thu chất sắt cần thiết.
+Thai kỳ: Phụ nữ mang thai nếu không bổ sung sắt sẽ bị thiếu máu do thiếu sắt bởi lượng sắt dự trữ của cơ thể cần phục vụ lượng máu tăng lên trong thai kỳ. Ngoài ra, lượng chất sắt dự trữ này cũng như là nguồn cung cấp huyết sắc tố cho thai nhi đang phát triển nên phụ nữ mang thai cần nhiều chất sắt hơn thông thường.
+Phụ nữ mang thai có nguy cơ thiếu máu cao hơn.
+2. Thiếu máu do thiếu Vitamin, Axit Folic
+Tình trạng thiếu máu do thiếu Vitamin có thể xảy ra khi người bệnh không ăn đủ thực phẩm có chứa Vitamin B12, Axit Folic. Nếu cơ thể người bệnh gặp khó khăn trong việc hấp thụ hoặc xử lý các Vitamin này, người bệnh cũng có thể bị thiếu máu.
+3. Thiếu máu do viêm nhiễm
+Khi bạn bị nhiễm trùng hoặc mắc các bệnh gây phản ứng viêm, hệ thống miễn dịch của cơ thể sẽ gây ra những thay đổi trong cách cơ thể hoạt động và có thể dẫn đến thiếu máu do viêm. Lúc này, cơ thể bạn có thể không lưu trữ và sử dụng sắt bình thường.
+Không chỉ vậy, khi bạn mắc các bệnh viêm hay nhiễm trùng, thận của bạn có thể sản xuất ít Erythropoietin (EPO), một loại Hormone báo hiệu cho tủy xương – mô xốp bên trong hầu hết các xương của bạn – để tạo ra hồng cầu. Viêm nhiễm cũng khiến cho tủy xương không phản ứng bình thường với EPO, tạo ra ít tế bào hồng cầu hơn mức cần thiết.
+Viêm nhiễm cũng làm cho các tế bào hồng cầu sống trong thời gian ngắn hơn bình thường. Cơ thể không kịp sản xuất tế bào hồng cầu mới nên dẫn đến thiếu máu.
+4. Thiếu máu không tái tạo
+Nguyên nhân thiếu máu không tái tạo là gì? Có nhiều cơ chế gây ra tình trạng thiếu máu không tái tạo, nhưng cơ chế chính là giảm sản xuất hồng cầu do ức chế tạo hồng cầu, giảm lượng sắt sẵn có và giảm tuổi thọ của hồng cầu (tan máu ngoài mạch máu).
+5. Thiếu máu tán huyết
+Nguyên nhân gây thiếu máu tán huyết là gì? Thiếu máu tán huyết có thể do các tình trạng di truyền ảnh hưởng đến hồng cầu. Bên cạnh đó, bệnh cũng có thể do một số bệnh nhiễm trùng hoặc do ai đó được truyền máu từ người hiến có nhóm máu không phù hợp.
+6. Bệnh thiếu máu hồng cầu hình liềm
+Bệnh thiếu máu hồng cầu hình liềm có tính di truyền. Những người bị thiếu máu hồng cầu hình liềm thừa hưởng hai Gen Hemoglobin S bị lỗi từ bố và/hoặc mẹ của mình.
+Nguyên nhân bệnh hồng cầu hình liềm cũng có thể là do trẻ thừa hưởng một Gen Hemoglobin S và một Gen Hemoglobin bị lỗi khác, chẳng hạn như Beta (β) Thalassemia, Hemoglobin C, Hemoglobin D hoặc Hemoglobin E từ bố mẹ.
+Các yếu tố tăng nguy cơ thiếu máu
+Một số yếu tố về lối sống, cách chăm sóc sức khỏe chưa phù hợp, tuổi tác,… cũng làm tăng nguy cơ bị thiếu máu:
+Thường xuyên hiến máu: Mặc dù hiến máu là điều tuyệt vời và thường được khuyến khích nhưng việc hiến máu quá nhiều lần trong thời gian ngắn có thể ảnh hưởng tiêu cực đến sức khỏe của chính bạn. Do đó cần hiến máu theo tần suất được phép để duy trì sự an toàn của chính bạn khi thực hiện nghĩa cử cao đẹp này.
+Tuổi tác: Trẻ nhỏ cần nhiều chất sắt để tăng trưởng và phát triển. Nếu không uống sữa và tuân theo chế độ ăn uống dinh dưỡng hợp lý, trẻ sẽ dễ có nguy cơ bị thiếu máu hơn. Ngoài ra, thanh thiếu niên cũng có nguy cơ cao hơn một chút do có xu hướng ngủ ít hơn. Việc thiếu ngủ về lâu dài có thể gây căng thẳng hơn cho cơ thể và có thể gây thiếu máu.
+Kinh nguyệt: Phụ nữ có nguy cơ thiếu máu do thiếu sắt cao hơn nam giới do việc chảy máu trong chu kỳ kinh nguyệt làm mất các tế bào hồng cầu.
+Mang thai và sinh con: Do nhu cầu cơ thể cần nhiều máu hơn để cung cấp cho thai nhi trong khi mang thai cũng như rủi ro mất máu quá nhiều trong khi vượt cạn, phụ nữ mang thai và sinh con có nguy cơ bị thiếu máu cao hơn.
+Suy dinh dưỡng: Mặc dù trẻ nhỏ dễ bị thiếu máu hơn, nhưng bất kỳ ai thường xuyên thiếu các chất dinh dưỡng và khoáng chất thiết yếu trong cơ thể đều có thể bị thiếu máu. Điều này đặc biệt đúng đối với những người bị suy dinh dưỡng.
+Tiền sử gia đình: Việc có một thành viên trong gia đình bị thiếu máu sẽ khiến bạn có nguy cơ mắc bệnh cao hơn so với những người không có tiền sử gia đình mắc bệnh.
+Thiếu máu nặng, nghiêm trọng có thể gây tử vong.
+Các cách phân độ thiếu máu
+1. Phân độ thiếu máu dựa trên mức độ
+Theo Viện Ung thư Quốc gia Hoa Kỳ, các mức độ của bệnh thiếu máu được tính như sau: (3)
+Thiếu máu mức độ nhẹ: Nồng độ huyết sắc tố từ 10,0 g/dL đến 12,0 g/dL.
+Thiếu máu mức độ trung bình: Nồng độ huyết sắc tố từ 8,0 đến 10,0 g/dL.
+Thiếu máu mức độ nặng: Nồng độ huyết sắc tố từ 6,5 đến 7,9 g/dL.
+Thiếu máu mức độ đe dọa tính mạng: Huyết sắc tố dưới 6,5 g/dL.
+Việc phân loại này có thể có sự khác nhau một chút tùy theo từng Tổ chức Y tế. Viện Huyết học – Truyền máu Trung ương phân độ thiếu máu theo nồng độ huyết sắc tố như sau:
+Thiếu máu nhẹ: Huyết sắc tố từ 90 đến 120 g/L (tương đương 9,0 – 12,0 g/dL).
+Thiếu máu trung bình: Huyết sắc tố từ 60 đến dưới 90 g/L (tương đương 6,0 – 9,0 g/dL).
+Thiếu máu nặng: Huyết sắc tố từ 30 đến dưới 60 g/L (tương đương 3,0 – 6,0 g/dL).
+Thiếu máu rất nặng, nguy hiểm, nguy cơ tử vong rất cao: Huyết sắc tố dưới 30 g/L (tương đương dưới 3,0 g/dL).
+2. Phân độ thiếu máu dựa trên diễn tiến
+Xét trên diễn tiến bệnh, thiếu máu được chia làm 2 cấp độ là thiếu máu cấp tính và thiếu máu mạn tính. Trong đó:
+Thiếu máu cấp tính: Thiếu máu cấp tính là tình trạng số lượng hồng cầu giảm đột ngột và nhanh chóng, chủ yếu do tan máu hoặc xuất huyết cấp tính.
+Thiếu máu mạn tính: Thiếu máu mạn tính là tình trạng thiếu máu kéo dài từ vài tháng trở lên và được đặc trưng bởi sự suy giảm dần dần số lượng hồng cầu theo thời gian.
+3. Phân độ thiếu máu dựa trên nguyên nhân
+Dựa trên nguyên nhân gây thiếu máu, có thể phân độ thiếu máu thành 3 nhóm chính:
+Thiếu máu do mất máu.
+Thiếu máu do tan máu (tốc độ tế bào hồng cầu mất đi nhanh hơn so với tốc độ tế bào hồng cầu sản sinh).
+Thiếu máu do quá trình tạo máu bị rối loạn, suy giảm.
+4. Phân độ thiếu máu dựa trên đặc điểm dòng hồng cầu
+Với cách phân độ thiếu máu này, cần dựa trên 2 chỉ số huyết học là MCV và MCH:
+Phân độ theo chỉ số MCV: Đây là cách phân độ thiếu máu dựa trên đặc điểm hình thái hồng cầu. Lúc này, có 3 phân độ chính là thiếu máu hồng cầu nhỏ, hồng cầu bình thường hoặc hồng cầu to.
+Phân độ theo chỉ số MCH: Với cách phân độ này, có 2 nhóm là thiếu máu nhược sắc và thiếu máu ưu sắc.
+Cách chẩn đoán bệnh thiếu máu
+Để chẩn đoán bệnh thiếu máu, trước tiên bác sĩ sẽ đánh giá các dấu hiệu thiếu máu của người bệnh, kiểm tra các chỉ số lâm sàng và thăm hỏi về tiền sử bệnh của người bệnh và gia đình. Sau đó, bác sĩ sẽ chỉ định người bệnh thực hiện một số biện pháp chẩn đoán để đưa ra kết luận chính xác nhất, bao gồm:
+Xét nghiệm máu:
+Xét nghiệm công thức máu toàn bộ (CBC) là xét nghiệm máu phổ biến nhất để chẩn đoán thiếu máu. CBC được sử dụng để đếm số lượng tế bào máu trong một mẫu máu. Đối với bệnh thiếu máu, xét nghiệm sẽ đo lượng hồng cầu trong máu, được gọi là hematocrit và mức độ huyết sắc tố trong máu. Giá trị huyết sắc tố điển hình ở người trưởng thành thường là 14 đến 18 gam/dl đối với nam và 12 đến 16 gam/dl đối với nữ. Giá trị hematocrit điển hình ở người trưởng thành khác nhau nhưng nhìn chung tỷ lệ này nằm trong khoảng từ 40% đến 52% đối với nam và 35% đến 47% đối với nữ. Nếu thấp hơn, người bệnh có thể đang bị thiếu máu.
+Ngoài ra, còn có xét nghiệm nồng độ huyết sắc tố, nồng độ sắt trong máu và nồng độ ferritin.
+Chọc hút tủy xương.
+Nội soi để xác định xem có chảy máu không.
+Xét nghiệm mẫu phân xem có lẫn máu trong phân hay không.
+>> Xem thêm: Xét nghiệm gì để biết thiếu máu?
+Điều trị thiếu máu
+Việc lựa chọn phương pháp điều trị bệnh thiếu máu sẽ phụ thuộc vào nguyên nhân và mức độ nghiêm trọng của bệnh. Những người bị thiếu máu nhẹ có thể không cần điều trị. Nếu tình trạng thiếu máu là do thuốc hoặc do bệnh lý khác gây ra, bác sĩ có thể thay đổi cách điều trị để kiểm soát hoặc ngăn chặn tình trạng thiếu máu.
+Một số phương pháp điều trị thiếu máu phổ biến bao gồm:
+Sử dụng thuốc: Người bệnh có thể được kê đơn thuốc để giúp tủy xương tạo ra nhiều tế bào hồng cầu hơn, thuốc ức chế hệ thống miễn dịch, thuốc sắt, thuốc bổ sung vitamin B12,…
+Chế độ dinh dưỡng: Cải thiện chế độ dinh dưỡng luôn là lựa chọn hàng đầu với người bị thiếu máu. Cần đảm bảo chế độ ăn uống của bạn có thực phẩm giàu chất sắt, cũng như thực phẩm có chứa acid folic và vitamin B12.
+Truyền máu: Truyền máu là phương pháp đưa tế bào hồng cầu khỏe mạnh vào trong các mạch máu của người bệnh thông qua đường truyền tĩnh mạch (IV). Truyền máu thay thế lượng máu bị mất do phẫu thuật hoặc chấn thương, hoặc cung cấp máu nếu cơ thể bạn không sản xuất đúng cách.
+Ghép tế bào gốc: còn được gọi là ghép tế bào gốc tạo máu, mục tiêu thay thế các tế bào gốc tạo máu bị lỗi bằng các tế bào khỏe mạnh.
+Phẫu thuật: Phẫu thuật có thể được chỉ định để cầm máu bên trong với các trường hợp người bệnh bị chấn thương, có tổn thương bên trong cơ thể gây chảy máu ồ ạt dẫn đến thiếu máu.
+Truyền máu là một phương pháp điều trị thiếu máu.
+Thiếu máu ảnh hưởng đến cơ thể như thế nào?
+Biến chứng thiếu máu khiến người bệnh cảm thấy mệt mỏi, không đủ sức khỏe để thực hiện các hoạt động bình thường, chóng mặt và khó tập trung. Những người bị thiếu máu thường bị đau ngực, nhức đầu hoặc khó thở, da nhợt nhạt tái xanh.
+Ngoài ra, thiếu máu cũng làm tăng nguy cơ mắc các bệnh lý khác. Điều này là do cơ thể không đủ máu để nuôi dưỡng các cơ quan trong cơ thể cũng như thiếu máu làm suy giảm hệ thống miễn dịch – hệ thống phòng thủ tự nhiên của cơ thể.
+Phụ nữ mang thai bị thiếu máu dễ gặp các biến chứng thai kỳ như sinh non, sảy thai, trầm cảm sau sinh, trẻ sinh ra chậm phát triển,… Trẻ em bị thiếu máu có thể bị chậm tăng cân, kém phát triển, khó tiếp thu và ghi nhớ các bài học trên trường,…
+Với trường hợp thiếu máu cấp tính, người bệnh có thể bị sốc giảm thể tích do xuất huyết đáng kể. Do thể tích máu giảm, tình trạng thiếu oxy ở mô có thể xảy ra, dẫn đến tổn thương cơ quan đích. Người bệnh có thể bị suy tim, suy thận, suy hô hấp,… hoặc các tổn thương nội tạng khác.
+Nếu không kịp thời điều trị, thiếu máu mạn tính nghiêm trọng hoặc thiếu máu cấp tính đều có thể làm tăng nguy cơ tử vong.
+Cách phòng tránh thiếu máu
+Làm thế nào để ngăn ngừa bệnh thiếu máu? Mặc dù không phải dạng thiếu máu nào cũng có thể phòng ngừa nhưng bạn vẫn có thể áp dụng một số biện pháp để hạn chế tối đa nguy cơ bị thiếu máu, chẳng hạn như:
+Thăm khám sức khỏe tiền hôn nhân và tầm soát, trao đổi với trước khi mang thai để ngừa việc trẻ sinh ra bị thiếu máu do di truyền.
+Phụ nữ mang thai nên uống viên sắt để hạn chế việc thiếu máu trong thai kỳ.
+Việc xây dựng một chế độ dinh dưỡng lành mạnh, ưu tiên thực phẩm giàu sắt, vitamin nhóm B cũng có thể giúp phòng ngừa thiếu máu thông thường.
+Ngoài ra, cần duy trì lối sống khoa học, tập thể dục đều đặn, nghỉ ngơi đầy đủ, tránh làm việc quá sức.
+Chế độ ăn cho người thiếu máu
+Chế độ ăn uống của người bệnh nên bao gồm các loại thực phẩm từ tất cả các nhóm thực phẩm chính để đảm bảo sức khỏe và cân bằng. Đặc biệt, thực phẩm và đồ uống có chứa Vitamin C rất quan trọng vì Vitamin C giúp cơ thể hấp thụ chất sắt.
+Người bệnh nên ăn nhiều rau lá xanh đậm, ngũ cốc, bánh mì, gạo lứt, các loại đậu và hạt, thịt trắng và đỏ, cá, đậu hũ, trứng, trái cây sấy khô,… Đây là những loại thực phẩm giúp bổ sung sắt, tốt cho người bệnh thiếu máu.
+Với người bệnh bị thiếu máu do thiếu Vitamin B12, nên ưu tiên thực phẩm giúp bổ sung nhóm Vitamin đang thiếu này. Thực phẩm giàu Vitamin B12 bao gồm cá, trứng, các loại hạt, sản phẩm từ sữa và trái cây họ cam quýt,…
+>> Xem thêm: Bị thiếu máu cần bổ sung gì? Các loại vi chất cần cơ thể hấp thu
+Bên cạnh đó, người bệnh cần lưu ý uống nhiều nước lọc, hạn chế trà và cà phê.
+Người bị thiếu máu nên lựa chọn thực phẩm giàu chất sắt.
+Chăm sóc bệnh nhân thiếu máu
+Người bệnh bị thiếu máu cần duy trì chế độ ăn uống khoa học và phù hợp. Người bệnh sử dụng thuốc đúng theo chỉ định để kiểm soát bệnh, ngăn ngừa bệnh diễn tiến nghiêm trọng.
+Với người bệnh bị thiếu máu, cần cẩn thận trong sinh hoạt để hạn chế nguy cơ chảy máu (sử dụng bàn chải đánh răng có lông mềm, tránh chạm vào các vật sắc nhọn, không đi chân đất,…). Nếu có các dấu hiệu bất thường, nên sớm đến bệnh viện thay vì tự chăm sóc tại nhà.
+>> Tham khảo thêm: Chăm sóc bệnh nhân thiếu máu tại nhà
+Khám thiếu máu ở đâu đáng tin cậy?
+Nếu có các dấu hiệu nghi ngờ thiếu máu, bạn nên đến bệnh viện để được chẩn đoán chính xác. Việc thăm khám không chỉ giúp xác định bạn có bị thiếu máu hay không mà còn đánh giá xem tình trạng thiếu máu của bạn do nguyên nhân gì, đang ở dạng nào, mức độ nặng hay nhẹ…, từ đó bác sĩ có thể tư vấn phương pháp điều trị cải thiện phù hợp nhất.
+Đơn vị Huyết học lâm sàng, Khoa Nội Tổng hợp, Bệnh viện Đa khoa Tâm Anh TP.HCM là địa chỉ uy tín chuyên khám và điều trị hiệu quả các bệnh lý về máu, từ nhẹ đến nặng. Khoa quy tụ đội ngũ bác sĩ giỏi, giàu kinh nghiệm trong thăm khám và điều trị bệnh thiếu máu nói riêng và các bệnh lý huyết học nói chung.
+Để chẩn đoán các bệnh lý về máu, Bác sĩ sẽ hỏi bệnh, thăm khám lâm sàng, chỉ định các xét nghiệm chuyên sâu như: công thức máu, tủy đồ, sinh thiết tủy xương, sinh thiết hạch, các xét nghiệm dấu ấn miễn dịch tế bào, xét nghiệm di truyền tế bào, giải phẫu bệnh và hoá mô miễn dịch…
+Khoa kết hợp với Trung tâm Xét nghiệm thực hiện các xét nghiệm di truyền, xét nghiệm về gen, sinh học phân tử bằng các thiết bị chuyên dụng hiện đại bậc nhất.
+Để điều trị các bệnh lý về máu, Khoa ứng dụng toàn diện, đầy đủ các hướng dẫn điều trị chuyên sâu từ các hiệp hội huyết học trên thế giới, áp dụng vào thực tế để chữa cho người bệnh tại Việt Nam. Ngoài ra, Khoa còn phối hợp chặt chẽ với các chuyên khoa liên quan để chủ động, nâng cao hiệu quả điều trị bệnh toàn diện cho người bệnh.
+Khoa Nội Tổng hợp, Bệnh viện Đa khoa Tâm Anh có cơ sở vật chất hiện đại, khang trang, sạch sẽ, khuôn viên bệnh viện rộng rãi, đầy đủ các thiết bị tiện ích thiết yếu, giúp người bệnh thoải mái và dễ chịu nhất trong quá trình thăm khám, chữa bệnh. Khoa triển khai dịch vụ khám VIP với lối đi riêng, nhanh chóng, người bệnh thiếu máu được thăm khám trực tiếp với các bác sĩ giàu kinh nghiệm.
+Câu hỏi thường gặp
+1. Khi nào cần gặp bác sĩ?
+Người bị thiếu máu có thể tự theo dõi và điều trị tại nhà bằng cách cải thiện chế độ dinh dưỡng, dùng thuốc theo chỉ định của bác sĩ, thay đổi chế độ sinh hoạt,… Tuy nhiên, nếu có các triệu chứng sau đây, nên sớm đến gặp bác sĩ để được kiểm tra, thăm khám:
+Mệt mỏi dai dẳng, khó thở, nhịp tim nhanh, da nhợt nhạt.
+Chán ăn, không thể ăn.
+Rong kinh.
+Có các triệu chứng của loét, viêm dạ dày.
+Đi tiểu, đại tiện có lẫn máu.
+Bệnh thiếu máu di truyền có tính di truyền trong gia đình.
+Phụ nữ mang thai bị thiếu máu.
+Các trường hợp người mắc bệnh thiếu máu dù đang kiểm soát bệnh tốt nhưng muốn có con cũng nên đến gặp bác sĩ để được tư vấn về di truyền.
+2. Bệnh thiếu máu có thể chữa khỏi được không?
+Có và không. Bệnh thiếu máu ở mức độ nhẹ có thể chữa khỏi bằng những phương pháp phù hợp theo từng nguyên nhân bệnh. Người bệnh có thể được điều trị bằng cách thay đổi chế độ ăn uống hoặc dùng thuốc bổ sung.
+Tuy nhiên, một số trường hợp thiếu máu mạn tính không thể chữa khỏi hoàn toàn, chỉ có thể áp dụng các biện pháp để kiểm soát bệnh.
+3. Bệnh thiếu máu nghiêm trọng đến mức nào?
+Khi bị thiếu máu, tim phải bơm máu nhiều hơn để bù đắp cho lượng oxy trong máu quá ít. Điều này có thể dẫn đến suy tim và gây tử vong.
+Ngoài ra, một số bệnh thiếu máu di truyền, chẳng hạn như thiếu máu hồng cầu hình liềm, có thể dẫn đến các biến chứng đe dọa tính mạng.
+4. Thiếu máu có phổ biến không?
+Bệnh thiếu máu rất phổ biến, ảnh hưởng đến khoảng ⅓ dân số toàn cầu. Bất kỳ ai cũng có nguy cơ bị thiếu máu.
+5. Tình trạng thiếu máu liệu có nguy hiểm không?
+Nếu không kịp thời điều trị bằng những phương pháp phù hợp, người mắc bệnh thiếu máu có thể bị tổn thương đa cơ quan và thậm chí dẫn đến tử vong.
+>> Đọc thêm: Thiếu máu có nguy hiểm không
+Bệnh thiếu máu là một bệnh lý có thể gây nguy hiểm cho sức khỏe, đe dọa tính mạng. Người bệnh không nên chần chừ trong việc thăm khám và điều trị nếu có các triệu chứng nghi ngờ thiếu máu.

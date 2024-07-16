@@ -1,0 +1,99 @@
+# doc_id = health_disease_214
+# url = https://tamanhhospital.vn/muc-do-suy-ho-hap/
+# date = 02/05/2024
+Các mức độ suy hô hấp thường gặp và những điều cần lưu ý
+Mức độ suy hô hấp được chia thành nhiều hình thức, cấp độ khác nhau. Theo đó, mỗi mức độ suy hô hấp có triệu chứng phát hiện, cách can thiệp, phòng ngừa… khác nhau.
+Bệnh suy hô hấp diễn ra phổ biến, có thể gây nguy hiểm đến tính mạng nếu không điều trị kịp thời. Tuy nhiên, không phải ai cũng biết các mức độ suy hô hấp thường gặp cũng như dấu hiệu để phân biệt, đánh giá mức độ suy hô hấp và cách điều trị phù hợp cho từng mức độ bệnh khác nhau.
+Mục lụcSuy hô hấp là gì?Suy hô hấp có mấy độ? Các mức độ suy hô hấp thường gặp1. Suy hô hấp do thiếu oxy (loại 1)2. Suy hô hấp tăng CO2 (loại 2)3. Suy hô hấp chu phẫu (loại 3)4. Suy hô hấp do sốc (loại 4)Triệu chứng của suy hô hấpĐánh giá mức độ suy hô hấpNguyên nhân gây suy hô hấp1. Nguyên nhân2. Yếu tố nguy cơĐối tượng có nguy cơ mắc suy hô hấpPhương pháp điều trị suy hô hấpBiến chứng của bệnh suy hô hấpSuy hô hấp là gì?
+Suy hô hấp là tình trạng quá trình trao đổi khí ở phổi bị suy giảm khiến nồng độ Oxygen trong máu suy giảm (thiếu oxy máu). Suy hô hấp có thể xảy ra dù có hoặc không có sự gia tăng nồng độ Carbon Dioxide trong máu (tăng CO2). Định nghĩa suy hô hấp là chỉ số PaO2 (áp lực khí O2 trong động mạch) < 60 mmHg và/hoặc PaCO2 (áp lực khí CO2 trong động mạch) > 50 mmHg. Suy hô hấp có thể xảy ra đột ngột (cấp tính) hoặc kéo dài theo thời gian (mạn tính). (1)
+Hệ hô hấp về cơ bản bao gồm đường hô hấp trên có chức năng lấy không khí từ bên ngoài và đường hô hấp dưới có chức năng trao đổi khí. Một hoặc cả hai cơ quan quan trọng này đều có thể bị tổn thương và gây suy hô hấp.
+Suy hô hấp là tình trạng quá trình trao đổi khí ở phổi bị suy giảm đến mức làm giảm nồng độ oxy trong máu.
+Suy hô hấp có mấy độ? Các mức độ suy hô hấp thường gặp
+Từng mức độ suy hô hấp được phân loại dựa trên PaCO2, cơ chế gây bệnh, thời gian… Các mức độ suy hô hấp cụ thể gồm có:
+1. Suy hô hấp do thiếu oxy (loại 1)
+Suy hô hấp loại 1 hay suy hô hấp do thiếu oxy xảy ra khi cơ thể không có đủ oxy trong máu (thiếu oxy máu). Nguyên nhân gây suy hô hấp loại 1 thường là các bệnh gây tổn thương mô phổi, chẳng hạn như phù phổi, viêm phổi, COPD (phổi tắc nghẽn mạn tính), hen suyễn, hội chứng suy hô hấp cấp tính, xơ phổi mạn tính, tràn khí màng phổi, thuyên tắc phổi, tăng huyết áp phổi…
+Khi người bệnh bị suy hô hấp loại 1, phổi còn lại vẫn có thể hoạt động bình thường và đủ khả năng bài tiết Carbon Dioxide. Lúc này, lượng oxy ở mức thấp và lượng Carbon Dioxide ở mức bình thường hoặc thấp. Áp suất oxy động mạch (PaO2) thường dưới 8 kPa (60 mmHg) với áp suất Carbon Dioxide động mạch bình thường hoặc thấp. (2)
+2. Suy hô hấp tăng CO2 (loại 2)
+Trong các mức độ suy hô hấp thì suy hô hấp loại 2 là một trong những loại suy hô hấp phổ biến hàng đầu. Suy hô hấp tăng CO2 xảy ra khi hàm lượng Carbon Dioxide (CO2) trong máu tăng cao. Nếu cơ thể không thể loại bỏ Carbon Dioxide thì không có chỗ cho các tế bào máu mang oxy đi nuôi phổi và những tế bào khác.
+Nguyên nhân thường gặp hơn cả dẫn đến suy hô hấp loại 2 là bệnh phổi tắc nghẽn mạn tính (COPD). Ngoài ra, các nguyên nhân khác có thể gây suy hô hấp tăng CO2 bao gồm những vấn đề về tim, phổi, cơ và thần kinh (não, tủy sống), chẳng hạn như tình trạng biến dạng thành ngực, hội chứng Guillain – Barre gây yếu cơ hô hấp…
+Một số loại thuốc cũng có thể gây suy hô hấp loại 2 nhưng đây là nguyên nhân không phổ biến, thường do tác dụng phụ của thuốc an thần và những loại thuốc Opioid mạnh. Bên cạnh đó, nguyên nhân dẫn đến mức độ suy hô hấp loại 2 cũng có thể do hen suyễn nặng, béo phì, suy giáp…
+Nguyên nhân thường gặp dẫn đến suy hô hấp loại 2 là bệnh phổi tắc nghẽn mạn tính.
+3. Suy hô hấp chu phẫu (loại 3)
+Suy hô hấp loại 3 và loại 4 thường ít gặp hơn. Suy hô hấp chu phẫu thường xảy ra khi người bệnh thực hiện phẫu thuật. Thuốc gây mê có thể khiến người bệnh không thể thở bình thường. Đôi khi, các phế nang trong phổi có thể bị xẹp gây ra hiện tượng xẹp phổi và khiến oxy không thể đi vào máu.
+4. Suy hô hấp do sốc (loại 4)
+Sốc gây ra tình trạng huyết áp thấp, dịch trong phổi (phù phổi) và các vấn đề khác có thể dẫn đến suy hô hấp. Tình trạng suy hô hấp do sốc được xếp vào một nhóm riêng và có thể gọi là suy hô hấp loại 4. Nhiễm trùng huyết, các biến cố về tim (như đau tim), mất máu có thể gây sốc và dẫn đến suy hô hấp.
+Triệu chứng của suy hô hấp
+Các triệu chứng của suy hô hấp là gì? Làm sao để nhận biết các mức độ suy hô hấp? Các triệu chứng suy hô hấp phụ thuộc vào nguyên nhân gây bệnh. Không phải trường hợp nào bị suy hô hấp cũng có toàn bộ các dấu hiệu. Trong đó, các triệu chứng phổ biến thường gặp ở người bệnh bị suy hô hấp bao gồm:
+Khó thở hoặc cảm giác như không có đủ không khí để thở.
+Thở nhanh, thở gấp, cảm giác như bị hụt hơi.
+Mệt mỏi cực độ, cảm giác không đủ năng lượng để làm bất cứ điều gì.
+Tim đập nhanh.
+Khạc nhổ/ho ra máu hoặc chất nhầy có lẫn máu.
+Đổ quá nhiều mồ hôi.
+Cảm giác bồn chồn, nôn nao.
+Da, môi hoặc móng tay nhợt nhạt, xanh xao, tím tái.
+Nhức đầu.
+Hoa mắt, mờ mắt.
+Kích động, bối rối hoặc không thể bình tĩnh.
+Thay đổi hành vi, không hành động như bình thường.
+Khó thở là triệu chứng thường gặp ở mọi mức độ suy hô hấp.
+Trong các mức độ suy hô hấp, suy hô hấp loại 1 và loại 2 thường có các triệu chứng khác nhau, cụ thể như sau:
+Suy hô hấp loại 1
+Suy hô hấp loại 2
+Khó thở, nghẹt thở
+Đau đầu
+Buồn ngủ quá mức, cơ thể mệt mỏi, gặp khó khăn trong các hoạt động hằng ngày
+Nhìn mờ
+Nhịp thở nhanh
+Lú lẫn
+Hội chứng xanh tím da, đầu chi và môi xanh xao nhợt nhạt
+Nhịp thở nhanh, mạch đập nhanh
+Với suy hô hấp loại 3 và loại 4, các biểu hiện bệnh thường bao gồm cả triệu chứng của suy hô hấp loại 1, loại 2. Trường hợp trẻ sơ sinh bị suy hô hấp thường có triệu chứng da và môi xanh xao nhợt nhạt, thở nhanh, thở rút lõm lồng ngực, mỗi khi thở thấy cơ liên sườn co kéo…
+Đánh giá mức độ suy hô hấp
+Để chẩn đoán, đánh giá mức độ suy hô hấp, bác sĩ tiến hành thăm khám, kiểm tra bệnh sử của người bệnh và các triệu chứng người bệnh đang gặp (nghe nhịp tim, nghe phổi, kiểm tra màu sắc môi, da, đo nhiệt độ cơ thể, đo huyết áp,..). Ngoài ra, để phân loại chính xác mức độ suy hô hấp thì còn cần dựa trên các phương pháp xét nghiệm như:
+Đo nồng độ oxy trong máu (đo SpO2): Để đánh giá mức độ suy hô hấp, cần đánh giá mức độ bão hòa oxy trong máu để xem có bất thường hay không. Thông thường, chỉ số SpO2 ở mức độ tốt là khoảng 97% – 99%.
+Xét nghiệm khí máu động mạch (ABG): Phân tích khí máu động mạch được sử dụng để đo nồng độ oxy, Carbon Dioxide trong máu, từ đó đánh giá tình trạng thăng bằng kiềm toan, thông khí và oxy hóa của người bệnh.
+Đo hô hấp ký: Phương pháp đo hô hấp ký giúp đánh giá xem phổi có hoạt động tốt hay không, có đang mắc bệnh lý hô hấp nào hay không dựa trên lượng không khí thở ra trong quá trình đo hô hấp ký.
+Các phương pháp chẩn đoán hình ảnh: Người bệnh có thể được bác sĩ chỉ định chụp X-quang ngực và CT ngực. Các kỹ thuật chẩn đoán hình ảnh không chẩn đoán được mức độ suy hô hấp nhưng có thể giúp bác sĩ chẩn đoán nguyên nhân gây ra bệnh.
+Điện tâm đồ (EKG): Điện tâm đồ được chỉ định thực hiện để kiểm tra xem tim người bệnh hoạt động ổn định hay không nếu bác sĩ nghi ngờ bệnh tim mạch đang là nguyên nhân gây suy hô hấp.
+Phương pháp đo hô hấp ký giúp đánh giá xem phổi có hoạt động tốt hay không.
+Nguyên nhân gây suy hô hấp
+1. Nguyên nhân
+Suy hô hấp xảy ra khi cơ thể không nhận được oxy vào máu hoặc không thể lấy Carbon Dioxide ra khỏi máu. Nguyên nhân có thể là do lượng máu hoặc không khí lưu thông đến phổi kém, tích tụ chất lỏng trong phổi, phổi bị tổn thương do tắc nghẽn hoặc có xơ hoá phổi… khiến người bệnh không thể thở đúng cách, thở sâu.
+Những bệnh lý ảnh hưởng đến phổi, các vấn đề về dây thần kinh/cơ mà cơ thể sử dụng để thở hoặc chấn thương ở ngực đều có thể gây ra tình trạng suy hô hấp. Cụ thể, các bệnh như COPD (phổi tắc nghẽn mạn tính), thuyên tắc động mạch phổi, phù phổi cấp do tim, tắc nghẽn phế quản, viêm phế quản, xơ phổi, lao phổi, viêm phổi, tắc nghẽn phế quản, hội chứng Guillain – Barre, bệnh nhược cơ… đều có thể dẫn đến suy hô hấp.
+2. Yếu tố nguy cơ
+Ngoài những nguyên nhân gây ra các mức độ suy hô hấp thì còn có một số yếu tố làm tăng nguy cơ bị suy hô hấp, chẳng hạn như:
+Các bệnh lý về phổi, bao gồm hội chứng suy hô hấp cấp tính (ARDS), bệnh phổi tắc nghẽn mạn tính (COPD), viêm phổi, hen suyễn, xơ nang, phù phổi, tắc mạch phổi và xơ phổi…
+Các bệnh lý về tim hoặc tuần hoàn (lưu lượng máu), bao gồm đau tim, bệnh tim bẩm sinh, suy tim và sốc.
+Các tình trạng ảnh hưởng đến dây thần kinh và cơ có vai trò hỗ trợ cơ thể thở, bao gồm chứng loạn dưỡng cơ, bệnh xơ cứng teo cơ một bên (ALS), chứng vẹo cột sống và hội chứng Guillain – Barré…
+Chấn thương ngực, tủy sống hoặc não (bao gồm cả đột quỵ).
+Hút thuốc hoặc tiếp xúc với các chất kích thích phổi khác như hóa chất, khói bụi, ô nhiễm không khí…
+Phẫu thuật cần dùng thuốc an thần hoặc gây mê.
+Sử dụng ma túy hoặc uống rượu quá mức.
+Trẻ sơ sinh (đặc biệt là trẻ sinh non) và người lớn trên 65 tuổi có nguy cơ bị suy hô hấp cao hơn.
+Đối tượng có nguy cơ mắc suy hô hấp
+Những đối tượng thường dễ gặp các mức độ suy hô hấp gồm có:
+Trẻ em sinh non, sinh thiếu tháng do các cơ quan trong cơ thể chưa phát triển hoàn chỉnh và hệ miễn dịch yếu hơn bình thường.
+Người lớn tuổi với sức đề kháng suy giảm, hệ hô hấp bị lão hóa theo tuổi tác.
+Người tiếp xúc nhiều với các hóa chất độc hại, khói bụi, ô nhiễm…
+Người thường xuyên hút thuốc lá (chủ động hoặc gián tiếp).
+Người đã hoặc đang mắc các bệnh lý hô hấp như viêm phổi, COPD (phổi tắc nghẽn mạn tính), lao phổi…
+>>>Có thể bạn chưa biết: Bệnh suy hô hấp có nguy hiểm không?
+Phương pháp điều trị suy hô hấp
+Để lựa chọn phương pháp điều trị suy hô hấp phù hợp, bác sĩ cần đánh giá mức độ suy hô hấp và nguyên nhân gây ra bệnh. Các phương pháp điều trị thường tập trung vào việc kiểm soát nguyên nhân cơ bản, cung cấp thêm oxy cho phổi hoặc sử dụng máy thở đến khi người bệnh có thể tự thở trở lại.
+Suy hô hấp cấp tính là trường hợp cấp cứu và cần được điều trị ngay. Suy hô hấp mạn tính nhẹ thường có thể được điều trị tại nhà bằng cách kiểm soát tình trạng gây ra bệnh. Một số phương pháp chủ yếu được dùng để điều trị các mức độ suy hô hấp bao gồm:
+Sử dụng thuốc điều trị: Thuốc được sử dụng để điều trị cho người bị suy hô hấp ở mức độ nhẹ và trung bình. Các loại thuốc thường được sử dụng bao gồm: Corticoid, thuốc giãn phế quản, thuốc kháng sinh…
+Phương pháp oxy hóa màng ngoài cơ thể (ECMO): Phương pháp ECMO được dùng để thực hiện quá trình trao đổi oxy ở bên ngoài cơ thể, từ đó bổ sung oxy vào máu và loại bỏ Carbon Dioxide. ECMO thường được áp dụng cho mức độ suy hô hấp nặng.
+Liệu pháp oxy: Tùy vào từng mức độ suy hô hấp mà bác sĩ có thể cân nhắc giữa các liệu pháp oxy như dùng mặt nạ thông khí, dùng máy thở cơ học, sử dụng liệu pháp NPPV (thông khí áp lực dương không xâm lấn), sử dụng ống thông mũi…
+Tùy từng mức độ suy hô hấp mà có cách điều trị tương ứng.
+Biến chứng của bệnh suy hô hấp
+Các biến chứng của suy hô hấp có thể ảnh hưởng đến phổi, tim mạch, hệ tiêu hóa, thận… và thậm chí gây tử vong nếu không được điều trị kịp thời. Trong đó, một số biến chứng phổ biến ở người mắc chứng suy hô hấp gồm có:
+Các tổn thương phổi nghiêm trọng như tắc mạch phổi, chấn thương khí áp, xơ phổi và những biến chứng thứ phát do sử dụng các thiết bị cơ học. Người bệnh cũng dễ bị viêm phổi tái phát.
+Nhiễm trùng, chẳng hạn như nhiễm trùng huyết, nhiễm trùng đường tiết niệu.
+Tổn thương tim, dẫn đến các biến chứng tim mạch như hạ huyết áp, cung lượng tim giảm, rối loạn nhịp tim, viêm nội tâm mạc và nhồi máu cơ tim cấp tính…
+Các biến chứng đường tiêu hóa như xuất huyết, chướng bụng, tắc ruột, tiêu chảy và tràn khí ổ bụng…
+Các biến chứng thần kinh do thiếu oxy lên não.
+Tổn thương thận, suy thận, các rối loạn về điện giải và cân bằng nội môi Axit – Bazơ.
+Các biến chứng về dinh dưỡng như suy dinh dưỡng, hạ đường huyết, mất cân bằng điện giải…
+Để đặt lịch thăm khám, điều trị bệnh tại Hệ thống Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+Suy hô hấp là một tình trạng bệnh hô hấp nghiêm trọng có thể gây tử vong. Mỗi mức độ suy hô hấp khác nhau có dấu hiệu nhận biết và phương pháp điều trị khác nhau. Nhìn chung, khi có triệu chứng nghi ngờ suy hô hấp, người bệnh nên đến bệnh viện thăm khám để bác sĩ chẩn đoán và tư vấn hướng điều trị phù hợp.

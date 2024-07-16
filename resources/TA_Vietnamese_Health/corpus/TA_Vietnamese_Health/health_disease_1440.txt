@@ -1,0 +1,138 @@
+# doc_id = health_disease_1440
+# url = https://tamanhhospital.vn/viem-phoi-man-tinh/
+# date = 17/06/2024
+Viêm phổi mãn tính: Nguyên nhân, triệu chứng và cách chẩn đoán
+Viêm phổi mãn tính là bệnh nguy hiểm với tỷ lệ tử vong cao. Việc chẩn đoán và điều trị kịp thời sẽ giúp người bệnh cải thiện triệu chứng, phòng ngừa các biến chứng, tiết kiệm chi phí.
+Mục lụcBệnh viêm phổi mãn tính là gì?Triệu chứng viêm phổi mãn tínhNguyên nhân gây viêm phổi mãn tínhViêm phổi mãn tính có nguy hiểm không?Bệnh viêm phổi mãn tính lây qua đường nào?Yếu tố làm tăng nguy cơ bị viêm phổi mãn tínhChẩn đoán bệnh viêm phổi mãn tínhĐiều trị viêm phổi mãn tínhThuốc điều trị viêm phổi mãn tínhBiến chứng của bệnh viêm phổi mãn tínhPhòng ngừa viêm phổi mãn tínhKhám chữa bệnh viêm phổi mãn tính ở đâu đáng tin cậy?Bệnh viêm phổi mãn tính là gì?
+Viêm phổi mãn tính là tình trạng viêm phổi kéo dài tối thiểu 6 tuần. Nguyên nhân do vi khuẩn, nấm, kí sinh trùng. Không có những triệu chứng viêm phổi mãn tính chung cho tất cả các nguyên nhân. Các triệu chứng viêm phổi mãn tính có thể được phát hiện khi chụp X-quang.
+Những biểu hiện hô hấp thường không đặc hiệu nên không thể xem là dấu hiệu để chẩn đoán nguyên nhân mà cần xem xét các dấu hiệu ngoài phổi. Đôi khi viêm phổi mãn tính không thể chẩn đoán, ngay cả khi thực hiện sinh thiết hay nuôi cấy, khảo sát mô bệnh học. (1)
+Triệu chứng viêm phổi mãn tính
+Thông thường, những triệu chứng ban đầu xuất hiện toàn thân và không đặc hiệu bao gồm ớn lạnh, sốt, khó chịu… Tiếp đó là tình trạng chán ăn, sụt cân tiến triển cho thấy bệnh mạn tính. Những triệu chứng ở phổi có thể xuất hiện sớm nhưng so với tiến trình hình thành bệnh thì chậm trễ hơn. (2)
+Nếu thấy bệnh kéo dài, xuất hiện các triệu chứng về phổi bao gồm ho dai dẳng, có đờm, ho ra máu, ngực đau/khó thở… thì cần thăm khám sớm. Triệu chứng liên quan ngoài phổi cũng cần được xem xét ở mỗi người bệnh.
+Sự hiện diện của những triệu chứng như thở khò khè, co thắt phế quản (nếu không có bệnh phổi tiềm ẩn)… cho thấy nguy cơ viêm phổi, hen suyễn. Những dấu hiệu như nhịp tim nhanh, phù mắt cá nhân, tim to… gợi ý các bệnh về tim mạch.
+Sự hiện diện của những tổn thương ở da, ngón tay dùi trống, viêm tĩnh mạch… là dấu hiệu không đặc hiệu cho rối loạn phổi đơn lẻ; hay tình trạng chức năng gan bất thường, gan to và/hoặc lách to, bệnh hạch bạch huyết kèm theo viêm phổi mạn tính gợi ý một rối loạn hệ thống (hệ thống lưới nội mô).
+Người bệnh viêm phổi mãn tính bị ho dai dẳng, khó thở…
+Nguyên nhân gây viêm phổi mãn tính
+Nguyên nhân gây viêm phổi mãn tính được chia thành hai nhóm, bao gồm: tác nhân gây viêm phổi cấp (nguyên nhân hiếm gặp của viêm phổi mãn tính) và tác nhân lây nhiễm gây ra bệnh viêm phổi mãn tính. Trong các tác nhân thường gây bệnh viêm phổi cấp tính, vi khuẩn kỵ khí, Haemophilus influenzae, Staphylococcus aureus, Pseudomonas, Enterobacteriaceae là những sinh vật có nhiều khả năng gây bệnh viêm phổi mãn tính dai dẳng nhất.
+Đây là quá trình hoại tử mãn tính thường xuất hiện ở những người bị bệnh tiềm ẩn nghiêm trọng (đái tháo đường, nghiện rượu, phổi tắc nghẽn mạn tính…), bệnh nhập viện, cần dùng máy thở dài hạn, người bị rối loạn nuốt, trào ngược dạ dày, người có nguy cơ bị sặc tái phát (bệnh Parkinson…).
+Viêm phổi cấp xảy ra do virus hoặc vi khuẩn (như Mycoplasma pneumoniae, Streptococcus pneumoniae, Chlamydophila pneumoniae…). Bệnh hiếm khi tiến triển thành bệnh viêm phổi mãn tính (xảy ra do ký sinh trùng, nấm, virus, vi khuẩn). Ở vật chủ mạnh khỏe, cần xem xét các yếu tố như vi khuẩn mycobacteria (vi khuẩn lao không điển hình); các bệnh nhiễm nấm đặc hữu, bệnh Actinomycosis, nhiễm trùng hiếu khí, kỵ khí hỗn hợp; nhiễm trùng cơ hội cổ điển…
+Người bị suy giảm miễn dịch mắc hội chứng AIDS có thể gặp các tác nhân bệnh nhiễm trùng kể trên. Ở người bệnh AIDS, viêm phổi mãn tính có thể do vi khuẩn Pneumocystis jirovecii hoặc Rhodococcus Equi, các rối loạn không nhiễm trùng như sẹo lồi Kaposi, ung thư hạch, mô kẽ không đặc hiệu gây ra. Nhiễm trùng do giun và động vật nguyên sinh là nguyên nhân gây viêm phổi mãn tính hiếm gặp. Những người sinh sống/du lịch tại khu vực có nhiều yếu tố nguy cơ cần chú ý đến những nguyên nhân này.
+Viêm phổi mãn tính có nguy hiểm không?
+Viêm phổi mãn tính là căn bệnh nguy hiểm, ước tính đã gây ra khoảng 5 triệu ca tử vong trên toàn cầu. Bệnh viêm phổi mãn tính xuất hiện phổ biến hơn ở những quốc gia đang phát triển. Với mức độ nguy hiểm của bệnh lý này, mỗi người cần chủ động phòng ngừa, đến cơ sở y tế thăm khám, chẩn đoán, điều trị sớm khi gặp triệu chứng đáng ngờ.
+Viêm phổi mãn tính là bệnh lý nguy hiểm cần được thăm khám, chữa trị kịp thời.
+Bệnh viêm phổi mãn tính lây qua đường nào?
+Đa số những sinh vật nấm thường lây truyền qua đường hô hấp (phổi là nơi lây nhiễm chính). Với người bệnh viêm phổi mãn tính do vi khuẩn kỵ khí, hiếu khí, cơ chế bệnh sinh là do hít phải chất chứa trong miệng. Với những tác nhân vi khuẩn khác như Rhodococcus, Actinomyces, nocardia, mycobacteria… thì con đường lây nhiễm do hít hay nuốt phải những sinh vật khí dung. Tác nhân do ký sinh trùng gây viêm phổi như bệnh giun chỉ (bệnh do muỗi truyền).
+Thực tế có rất ít bằng chứng cho thấy viêm phổi mãn tính lây truyền từ động vật sang người. Trong những tác nhân phổ biến, hầu hết đều có liên quan đến việc tiếp xúc với nước, đất, thức ăn và loại động vật chân đốt.
+Yếu tố làm tăng nguy cơ bị viêm phổi mãn tính
+Tuổi tác, giới tính, chủng tộc cũng có thể được xem là yếu tố nguy cơ gây bệnh viêm phổi mãn tính.
+Tuổi tác. Đây là yếu tố nguy cơ cao, có thể dẫn đến chứng hít sặc, liên quan đến các bệnh tiềm ẩn mãn tính như đột quỵ, bất động mãn tính…
+Giới tính. Ví dụ, bệnh u cơ trơn bạch mạch phổi (một rối loạn tân sinh hiếm gặp) đa số xuất hiện ở phụ nữ trong độ tuổi vị thành niên, thanh niên; bệnh nấm paracoccidioidomycosis (bệnh nấm phát triển ở phổi) thường xảy ra ở nam giới trưởng thành.
+Chủng tộc và di truyền là yếu tố tác động khiến triệu chứng chuyển nặng. Ví dụ, bệnh lao phổi mạn tính có hang lao xuất hiện phổ biến hơn ở người Mỹ gốc Phi. Bệnh nấm histoplasmosis mãn tính thường xảy ra ở nam giới da trắng lớn tuổi có tiền sử mắc bệnh phổi mãn tính.
+Nghề nghiệp, sở thích cũng là yếu tố quan trọng cần được đánh giá trong quá trình phát triển của bệnh viêm phổi mãn tính. Ví dụ, bệnh lao thường xảy ra ở nhân viên y tế, người bị giam giữ, người nhập cư từ vùng có tỷ lệ mắc bệnh lao cao; bệnh coccidioidomycosis (bệnh nhiễm nấm phổi do hít phải nhiều bào tử nấm) thường xảy ra ở những người làm nghề thu gom đá, nhà khảo cổ, kỹ thuật viên phòng thí nghiệm… Việc đi lại cũng là vấn đề cần được chú ý khi xem xét nguyên nhân tiềm ẩn gây bệnh viêm phổi mãn tính.
+Bệnh lao phổi ngày càng có mối liên quan với tình trạng nghiện rượu, vô gia cư, nhiễm HIV. Nghiện rượu có thể liên quan đến chứng viêm phổi hít, viêm phổi hoại tử mãn tính hiếu khí/kỵ khí hỗn hợp, viêm phổi trực khuẩn gram âm mãn tính. Bệnh viêm phổi mãn tính cũng có thể liên quan đến việc tiếp xúc với những loại dược phẩm được kê đơn. Ước tính có hơn 100 loại dược phẩm liên quan đến những triệu chứng mãn tính và cấp tính tại phổi.
+Nghề nghiệp cũng là yếu tố làm tăng nguy cơ bị viêm phổi mãn tính, ví dụ như nhà khảo cổ tiếp xúc với bụi sa mạc…
+Chẩn đoán bệnh viêm phổi mãn tính
+Những nghiên cứu trong phòng thí nghiệm thường quy cung cấp “manh mối” quan trọng để giúp bác sĩ chẩn đoán bệnh viêm phổi mãn tính. Ví dụ, tình trạng giảm toàn thể huyết cầu, thiếu máu đơn độc, số lượng bạch cầu, giảm bạch cầu/giảm bạch cầu lympho, tăng bạch cầu với ưu thế tế bào đa nhân trung tính… (3)
+Những xét nghiệm thường quy trong phòng thí nghiệm đo chức năng cơ quan có thể cung cấp nhiều thông tin hữu ích hơn cho bác sĩ để chẩn đoán bệnh viêm phổi mãn tính (như xét nghiệm gan, xét nghiệm chức năng thận, xét nghiệm nước tiểu…).
+Việc xem xét những yếu tố khác như tổng lượng huyết thanh và định lượng nồng độ globulin miễn dịch trong huyết thanh, tốc độ máu lắng và protein phản ứng C… có thể hữu ích trong việc chẩn đoán viêm phổi mãn tính. Bác sĩ cũng có thể chỉ định người bệnh làm các xét nghiệm huyết thanh học cho những rối loạn mô liên kết (như kháng thể kháng nhân, yếu tố thấp khớp và tự kháng thể tế bào chất chống bạch cầu trung tính…) hay xét nghiệm men chuyển angiotensin (ACE).
+Phân lập bằng cách nuôi cấy sinh vật đặc trưng trong bối cảnh lâm sàng phù hợp thường giúp bác sĩ chẩn đoán nguyên nhân gây viêm phổi mãn tính, bao gồm: nuôi cấy đờm, nuôi cấy kỵ khí, nuôi cấy mô tủy xương, gan/hạch bạch huyết… Nhuộm gram, những chế phẩm đặc biệt dành cho vi khuẩn mycobacteria, nấm, các vết nhuộm mô học rất quan trọng trong việc giúp bác sĩ thiết lập chẩn đoán giả định trước khi có dữ liệu nuôi cấy.
+Chụp X-quang ngực thường quy hầu như luôn cho ra kết quả bất thường ở người bệnh viêm phổi mãn tính. Nếu không có dấu hiệu điển hình trên hình chụp X-quang ngực, chụp MRI/CT ngực, rất khó để có thể chẩn đoán bệnh viêm phổi mãn tính.
+Điều trị viêm phổi mãn tính
+Tùy vào tác nhân gây bệnh, tình trạng sức khỏe của người bệnh… bác sĩ sẽ chỉ định phương pháp chữa trị phù hợp. Bác sĩ có thể chỉ định cho người bệnh dùng thuốc chống vi trùng, áp dụng liệu pháp chống nấm, cân nhắc điều trị bằng corticosteroid, nội soi phế quản (điều trị bổ trợ), phẫu thuật…
+Khi điều trị viêm phổi mãn tính, người bệnh cần tránh tiếp xúc với những yếu tố nguy cơ có thể làm bùng phát các đợt cấp của bệnh (như môi trường khói bụi, khói bếp, khói thuốc lá…). Người bệnh cần tránh để cơ thể nhiễm lạnh, nên giữ ấm cho vùng ngực, cổ, chân, tay và đeo khẩu trang khi ra ngoài…
+Người đang điều trị viêm phổi mãn tính cần tránh tiếp xúc với khói thuốc lá.
+Thuốc điều trị viêm phổi mãn tính
+Dưới đây là bảng liệt kê cơ bản những tác nhân gây viêm phổi mãn tính và thuốc điều trị có thể được sử dụng. Tuy nhiên, người bệnh viêm phổi mãn tính không được tự ý dùng thuốc khi chưa có chỉ định của bác sĩ.
+Tác nhân gây bệnh
+Trị liệu chính
+Liệu pháp thay thế
+Vi khuẩn
+Hỗn hợp vi khuẩn hiếu khí/kỵ khí
+Tazobactam/piperacillin 3,375 gam tiêm tĩnh mạch mỗi 6 giờ hoặc sulbactam/ampicillin 1,5 – 3 gam tiêm tĩnh mạch mỗi 6 giờ
+Ceftriaxone 1 – 2 gms/ngày với metronidazole 300 mg ngày 3 lần
+Actinomyces spp
+Ampicillin 4 – 8 gam/ngày hoặc penicillin G 10 – 20 triệu đơn vị/ngày tiêm tĩnh mạch trong 4 tuần. Sau đó, dùng Pen VK 2 – 4 gam/ngày trong 3 – 6 tuần
+Doxycycline, ceftriaxone, erythromycin hoặc clindamycin
+Nocardia spp
+Sulfamethoxazole/trimethoprim với imipenem
+Imipenem với amikacin; linezolid với fluoroquinolone
+Rhodococcus Equi
+Azithromycin, levofloxacin hoặc rifampin (sử dụng 2 loại thuốc)
+Imipenem hoặc vancomycin, với levofloxacin, azithromycin hoặc rifampin
+Burkholderia pseudomallei
+Imipenem hoặc ceftazidime trong 10 – 14 ngày. Sau đó uống TMP/SMX 5 mg/kg ngày 2 lần với doxycycline 100 mg ngày 2 lần trong vòng 3 tháng
+Vi khuẩn Mycobacteria
+Vi khuẩn lao
+Isoniazid 300 mg/ngày, ethambutol 15 mg/kg/ngày, rifampin 600 mg/ngày và pyrazinamide 2 gms/ngày trong 8 tuần, sau đó là rifampicin và isoniazid trong 18 tuần
+(M tb kháng isoniazid): Ethambutol, rifampin, pyrazinamide và fluoroquinolone trong 6 tháng
+Kansasii
+Rifampin 600 mg/ngày, isoniazid 300 mg/ngày, ethambutol 15 mg/kg/ngày trong 18 tháng
+Clarithromycin 500 mg ngày 2 lần với rifampin và ethambutol trong 18 tháng
+Phức hợp M avium
+Clarithromycin 500 mg ngày 2 lần hoặc azithromycin 250 mg/ngày cộng với ethambutol 15 mg/kg/ngày, rifampin 600 mg/ngày. Hàng ngày, có thể thêm amikacin hoặc streptomycin vào phác đồ phối hợp
+Moxifloxacin 400 mg/ngày có thể được sử dụng thay cho azithromycin hoặc clarithromycin nếu dung nạp kém
+Nấm
+Aspergillus spp
+Voriconazole 6 mg/kg mỗi 12 giờ (2 liều nạp), sau đó dùng 4 mg/kg mỗi 12 giờ hoặc voriconazole 200 mg uống 2 lần/ngày. Một echinocandin có thể được thêm vào như liệu pháp bổ trợ cho các trường hợp nghiêm trọng hơn
+Posaconazole 400 mg, ngày uống 2 lần, lipid AmB 3 – 5 mg/kg/ngày hoặc dùng echinocandin (micafungin 150 mg/ngày, caspofungin 70 mg/ngày hoặc anidulafungin 200 mg/ngày)
+Blastomyces dermatitidis
+Itraconazole 200 mg uống 2 lần/ngày; lipid AmB 3 – 5 mg/kg/ngày cho những trường hợp nặng hơn
+Fluconazole 800 mg/ngày, voriconazole 200 mg uống 2 lần, posaconazole 400 mg uống 2 lần hoặc ketoconazole 400 mg uống 2 lần
+Coccidioides spp
+Fluconazole 400 mg/ngày hoặc itraconazole 200 mg ngày 2 lần hoặc AmB dựa trên lipid 3 – 5 mg/kg mỗi ngày
+Posaconazole 400 mg uống 2 lần/ngày
+Cryptococcus app
+Fluconazole 400 mg/ngày hoặc AmB gốc lipid 3 – 5 mg/kg/ngày x 2 tuần với trường hợp nghiêm trọng, sau đó chuyển sang sử dụng fluconazole
+Voriconazole 200 mg uống 2 lần/ngày hoặc posaconazole 400 mg uống 2 lần/ngày
+Bệnh nấm Histoplasmosis
+Itraconazole 200 mg uống 2 lần/ngày hoặc AmB gốc lipid, dùng 3 – 5 mg/kg/ngày x 2 tuần với trường hợp nặng, sau đó chuyển sang itraconazole
+Posaconazole 400 mg uống 2 lần/ngày hoặc fluconazole 800 mg/ngày
+Paracoccidioides brasiliensis
+TMP/SMX 800 mg/160 mg 2 – 3/ngày x 30 ngày, trong 18 – 24 tháng hoặc itraconazole 200 ngày 2 lần trong 6 – 18 tháng hoặc tổng liều AmB 1,5 – 2 gms, sau đó dùng itraconazole (đường uống)
+Ketoconazole 200 – 400 mg/ngày hoặc voriconazole 200 mg uống 2 lần/ngày hoặc posaconazole 400 mg uống 2 lần/ngày trong 6 – 18 tháng
+Phức hợp bào tử
+AmB dựa trên lipid 3 – 5 mg/kg/ngày hoặc AmB thông thường 0,6 – 1 mg/kg/ngày (dùng tối đa 6 tuần), sau đó sử dụng itraconazole 200 mg 2 lần/ngày trong 12 tháng
+Itraconazole 200 mg uống 2 lần/ngày trong 12 tháng với trường hợp ít nghiêm trọng hơn
+Scedosporium spp
+Voriconazole 4 mg/kg mỗi 12 giờ (tiêm tĩnh mạch) hoặc 200 mg uống 2 lần/ngày
+Posaconazole 400 mg uống 2 lần/ngày hoặc itraconazole 200 mg uống 2 lần/ngày
+Khuôn Dematiaceous
+Voriconazole 4 mg/kg mỗi 12 giờ (tiêm tĩnh mạch) hoặc 200 mg uống 2 lần/ngày
+Posaconazole 400 mg uống 2 lần/ngày hoặc itraconazole 200 mg uống 2 lần/ngày
+Ký sinh trùng
+Echinococcus hạt
+Albendazole 400 mg uống 2 lần trong 28 ngày
+M bancrofti, B malayi
+Diethylcarbamazine (DEC) 6 mg/kg/ngày x 4 ngày với doxycycline 100 – 200 mg/ngày x 6 – 8 tuần
+Albendazole với DEC và doxycycline trong 6 tuần
+Động vật nguyên sinh
+Entamoeba histolytica
+Metronidazole 750 mg (tiêm tĩnh mạch) 3 lần/ngày hoặc tinidazole 2 gm/ngày x 5 ngày, sau đó uống paramomycin 25 – 35 mg/kg/ngày uống trong 7 ngày hoặc uống iodoquinol 650 mg 3 lần/ngày trong 20 ngày
+Việc dùng corticosteroid trong chữa trị viêm phổi mãn tính còn gây tranh cãi. Nếu nguyên nhân gây bệnh là tác nhân truyền nhiễm, đặc biệt là nấm hoặc vi khuẩn, glucocorticoid thường không được bác sĩ chỉ định. Bác sĩ có thể chỉ định một liệu trình glucocorticoid ngắn hạn cho những người bệnh histoplasmosis phổi tiến triển, lao và bệnh cryptococcosis bị tổn thương hô hấp nặng.
+Steroid thường là một phần trong điều trị thường quy đối với người bệnh mắc viêm phổi mãn tính không do nhiễm trùng (như bệnh phổi kẽ mãn tính, sarcoidosis, viêm phổi tổ chức hoá và viêm mạch máu vi mạch dương tính với ANCA). Một số loại thuốc ức chế miễn dịch không steroid khác như cyclophosphamide và azathioprine có thể được dùng trong việc chữa trị bệnh viêm mạch phổi, bệnh nhu mô liên quan đến phổi.
+Bác sĩ có thể chỉ định cho người bệnh viêm phổi mãn tính dùng thuốc để chữa trị.
+Biến chứng của bệnh viêm phổi mãn tính
+Viêm phổi mãn tính nếu không được chẩn đoán, chữa trị kịp thời có thể dẫn đến nhiều biến chứng nguy hiểm.
+Các biến chứng phổ biến gặp ở người bị viêm phổi mãn tính như:
+Ho ra máu
+Khí phế thủng
+Tràn khí màng phổi
+Suy giảm chức năng phổi
+Suy hô hấp
+Xẹp thùy phổi
+Áp xe phổi
+Tràn dịch màng phổi
+Tràn mủ màng phổi…
+Một số biến chứng nặng hơn có thể kể đến như:
+Viêm màng não
+Viêm khớp
+Viêm phúc mạc
+Nhiễm khuẩn huyết
+Sốc nhiễm khuẩn có thể dẫn đến suy đa tạng
+Các biến chứng nguy hiểm có thể làm cho người bệnh viêm phổi mãn tính đối diện nguy cơ tử vong.
+Phòng ngừa viêm phổi mãn tính
+Tránh tiếp xúc với những tác nhân gây bệnh là cách phòng ngừa viêm phổi mãn tính. Tuy nhiên, đối với phần lớn dân số trên thế giới, điều này là không khả thi vì nhiều mầm bệnh xuất hiện phổ biến, đặc biệt là vi khuẩn mycobacteria không gây lao, những mầm bệnh đặc hữu… Để phòng ngừa, mỗi người nên tránh đến những khu vực lưu hành mầm bệnh, hạn chế tiếp xúc với các vật truyền bệnh nhất định (như muỗi). Hiện nay vẫn chưa có loại vắc xin phòng bệnh viêm phổi mãn tính.
+Khám chữa bệnh viêm phổi mãn tính ở đâu đáng tin cậy?
+Người bệnh viêm phổi mãn tính có thể đến thăm khám tại chuyên khoa Hô hấp, Hệ thống Bệnh viện Đa khoa Tâm Anh. Khoa quy tụ đội ngũ bác sĩ dày dặn kinh nghiệm, chu đáo, tận tâm cùng trang thiết bị hiện đại (như hệ thống chụp X-quang treo trần DigiRAD-FP, máy đo đa ký hô hấp Alice NightOne, máy đo chức năng hô hấp HI 801, ống nội soi màng phổi ống mềm video kèm phụ kiện LTF-160, ống nội soi phế quản ống mềm video kèm phụ kiện BF-P190…), giúp khám chữa bệnh hô hấp nói chung và bệnh viêm phổi mãn tính nói riêng hiệu quả, an toàn cho người bệnh.
+Để đặt lịch thăm khám, điều trị bệnh tại Hệ thống Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+Bệnh viêm phổi mãn tính có thể gây ra các biến chứng nguy hiểm, thậm chí nguy cơ cao gây tử vong. Người có dấu hiệu của bệnh viêm phổi mãn tính nên đến cơ sở y tế thăm khám để sớm phát hiện bệnh và điều trị với phác đồ hiệu quá.

@@ -1,0 +1,105 @@
+# doc_id = health_disease_180
+# url = https://tamanhhospital.vn/ung-thu-thuc-quan-giai-doan-cuoi/
+# date = 26/09/2023
+Ung thư thực quản giai đoạn cuối (4): Triệu chứng và điều trị
+Khoảng 50% người bệnh được chẩn đoán ung thư thực quản ở giai đoạn cuối, khi tế bào ác tính đã di căn đến các cơ quan khác trong cơ thể. Điều trị bệnh giai đoạn này chủ yếu nhằm giảm các triệu chứng, làm chậm sự tiến triển bệnh và kéo dài thời gian sống cho bệnh nhân.
+Theo thống kê của GLOBOCAN năm 2020, trên thế giới có khoảng 604.100 ca mới mắc và 544.076 ca tử vong do ung thư thực quản. Tại Việt Nam, ung thư thực quản đứng thứ 14 trong những loại ung thư thường gặp với 3.281 ca mắc mới, 3.080 ca tử vong mỗi năm và tỷ lệ mắc là 3,57/100.000 dân. Độ tuổi mắc bệnh thường gặp nhất là khoảng 50 đến 60 tuổi. Yếu tố nguy cơ hàng đầu đối với bệnh lý ung thư thực quản là thói quen sử dụng rượu bia, hút thuốc lá thời gian dài và thường xuyên ăn uống thực phẩm quá nóng (trên 60 độ C).
+Mục lụcUng thư thực quản giai đoạn cuối là gì?Giải mã phân đoạn T, N, M trong giai đoạn cuối ung thư thực quảnTriệu chứng ung thư thực quản giai đoạn cuối gồm những gì?Thống kê bệnh nhân ung thư thực quản giai đoạn cuối sống được bao lâuCách chẩn đoán ung thư thực quản giai đoạn cuốiCách điều trị ung thư thực quản giai đoạn cuối nào phù hợp với người bệnh?1. Xạ trị2. Hóa trị3. Liệu pháp nhắm trúng đích4. Liệu pháp miễn dịch5. Phẫu thuật giảm nhẹ6. Chăm sóc giảm nhẹChương trình chăm sóc bệnh nhân ung thư thực quản giai đoạn cuối chú ý gì?Ung thư thực quản giai đoạn cuối là gì?
+Ung thư thực quản giai đoạn cuối là khi tế bào ác tính đã di căn đến các cơ quan khác trong cơ thể như gan, phổi, não,… Ung thư thực quản là bệnh lý ác tính do sự phát triển, phân chia mất kiểm soát của các tế bào biểu mô thực quản. Dựa vào đặc điểm giải phẫu mô bệnh học, ung thư thực quản được chia thành hai nhóm là ung thư biểu mô tế bào gai và ung thư biểu mô tế bào tuyến. (1)
+Ung thư biểu mô tế bào gai (ung thư biểu mô tế bào vảy): phổ biến ở thực quản đoạn trên và giữa, phổ biến ở người châu Á và Đông Âu.
+Ung thư biểu mô tế bào tuyến: thường gặp ở đoạn dưới thực quản, nhưng cũng có thể gặp ở đoạn giữa thực quản. Ung thư thực quản dạng biểu mô tế bào tuyến thường gặp ở người Bắc Mỹ và Tây Âu.
+Ung thư thực quản ở giai đoạn sớm thường có triệu chứng không rõ ràng. Do đó, hầu hết bệnh nhân ung thư thực quản thường được phát hiện bệnh ở giai đoạn muộn.
+Giải mã phân đoạn T, N, M trong giai đoạn cuối ung thư thực quản
+Theo hệ thống phân loại của Ủy ban Liên hợp Ung thư Hoa Kỳ năm 2017 (AJCC: American Joint Committee on Cancer), ung thư thực quản được phân giai đoạn dựa trên 3 yếu tố sau: (2)
+T (Tumor – Khối u): Tùy thuộc mức độ xâm lấn của khối u, T sẽ được xếp giai đoạn như sau:
+TX: Không đánh giá được khối u thực quản.
+T0: Không ghi nhận được khối u thực quản.
+Tis: Loạn sản mức độ nặng, tế bào ung thư còn khu trú trong lớp biểu mô, chưa xâm lấn đến lớp màng đáy.
+T1: Ung thư xâm lấn đến lớp màng đáy, cơ niêm, lớp dưới niêm mạc.
+T1a: Ung thư xâm lấn đến lớp màng đáy, cơ niêm.
+T1b: Ung thư xâm lấn đến lớp dưới niêm mạc.
+T2: Ung thư xâm lấn tới lớp cơ.
+T3: Ung thư xâm lấn tới lớp vỏ (lớp ngoài cùng của thực quản).
+T4: Ung thư xâm lấn tới các cơ quan lân cận, bao gồm màng phổi, màng ngoài tim, tĩnh mạch đơn, cơ hoành (cơ ngăn cách ổ bụng và lồng ngực), phúc mạc (bụng), động mạch chủ, cột sống, đường thở.
+T4a: Ung thư xâm lấn các cơ quan lân cận, bao gồm màng phổi, màng ngoài tim, tĩnh mạch đơn, cơ hoành, phúc mạc (bụng)
+T4b: Ung thư xâm lấn đến các cơ quan lân cận, bao gồm động mạch chủ, đường thở, cột sống.
+N (Node – Di căn hạch bạch huyết): Số lượng hạch bạch huyết lân cận di căn (còn gọi là di căn hạch vùng)
+Nx: Không thể đánh giá được di căn hạch vùng.
+N0: Không di căn hạch vùng.
+N1: Di căn 1-2 hạch vùng.
+N2: Di căn 3-6 hạch vùng.
+N3: Di căn ≥ 7 hạch vùng.
+M (Metastasis – Di căn xa): Tình trạng di căn xa tới các cơ quan khác trong cơ thể như gan, phổi, não, xương… hoặc di căn đến các hạch không phải hạch vùng.
+M0: Chưa di căn xa.
+M1: Di căn xa.
+Dựa trên 3 yếu tố T, N, M, ung thư thực quản giai đoạn cuối được phân giai đoạn như sau:
+Ung thư biểu mô tế bào gai:
+Giai đoạn IVA: T4, N0-2, M0; hoặc có thể T bất kỳ, N3, M0.
+Giai đoạn IVB: T bất kỳ, N bất kỳ và M1.
+Ung thư biểu mô tế bào tuyến:
+Giai đoạn IVA: T1-4a, N2, M0; hoặc T4b, N0-2, M0; hoặc T bất kỳ, N3, M0.
+Giai đoạn IVB: T bất kỳ, N bất kỳ và M1.
+Xem thêm:
+Ung thư thực quản giai đoạn 0
+Ung thư thực quản giai đoạn 1
+Ung thư thực quản giai đoạn 2
+Ung thư thực quản giai đoạn 3
+Triệu chứng ung thư thực quản giai đoạn cuối gồm những gì?
+Ung thư thực quản giai đoạn cuối thường có biểu hiện đa dạng, phức tạp, tùy vào mức độ tổn thương tại chỗ, tại vùng và vị trí ung thư di căn đến. Các triệu chứng thường xuất hiện ở bệnh nhân ung thư thực quản giai đoạn cuối bao gồm:
+Sụt cân: Xuất hiện trong 40-50% trường hợp ung thư thực quản. Sụt cân thường đi kèm với khó nuốt, tình trạng này có thể được cải thiện nếu giải quyết được vấn đề ăn uống, dinh dưỡng cho người bệnh.
+Nuốt nghẹn, nuốt khó: Triệu chứng thường gặp nhất, xuất hiện ở 95% trường hợp ung thư thực quản. Người bệnh gặp khó khăn khi nuốt thức ăn, cảm thấy vướng nghẹn ở khu vực thực quản. Ban đầu, người bệnh có thể bị nghẹn ứ bởi thức ăn dạng đặc như thịt, cá, nhưng lâu dần cảm giác nghẹn có thể xảy đến ngay cả khi người bệnh dùng thức ăn dạng sệt, lỏng như canh, súp, cháo, thậm chí không uống được nước, sữa.
+Đau tức vùng ngực sau xương ức khi nuốt: Khối u thực quản kích thước lớn có thể chèn ép khiến bệnh nhân có cảm giác đau cục bộ xung quanh vùng ngực. Xuất hiện ở khoảng 20% trường hợp ung thư thực quản, xảy ra khi người bệnh ăn thức ăn đặc, thậm chí uống nước.
+Hạch thượng đòn hay hạch cổ hai bên: Hạch sưng to, cứng chắc, kém di động, hạch có thể sùi loét ra da, gây nhiễm trùng và các đau nhức dữ dội. Hạch cổ có kích thước lớn cũng có thể là một trong những nguyên nhân làm bệnh nhân khó nuốt.
+Các triệu chứng do khối u đã xâm lấn các cơ quan khác như: Ung thư xâm lấn khí quản gây hiện tượng rò khí – thực quản, ho, khó thở; ung thư xâm lấn thần kinh quặt ngược thanh quản gây khàn tiếng; ung thư xâm lấn hoặc di căn xa đến các vị trí, cơ quan khác (phổi, xương, gan, hạch ổ bụng…) gây tràn dịch màng phổi, đau ngực, màng ngoài tim,đau bụng, đau xương…
+Các triệu chứng khác: Khàn giọng, ho ra máu, buồn nôn, ợ nóng, khó tiêu,… là các triệu chứng khác có thể gặp ở bệnh nhân ung thư thực quản giai đoạn cuối (IV).
+Nuốt nghẹn, nuốt khó, nổi hạch thượng đòn có thể là dấu hiệu ung thư thực quản
+Thống kê bệnh nhân ung thư thực quản giai đoạn cuối sống được bao lâu
+Thống kê từ chương trình SEER (Surveillance, Epidemiology, and End Results: Chương trình Giám sát, Dịch tễ học và Kết quả cuối cùng của Viện Nghiên cứu Ung thư Hoa Kỳ) thu thập các dữ liệu từ các loại ung thư, cho biết giai đoạn ung thư thực quản được chia thành 3 thời kỳ:
+Tại chỗ: Vị trí khối u nằm ở lớp trên cùng của thành thực quản.
+Tại vùng: Khối u xâm lấn lớp sâu hơn của lòng thực quản hoặc di căn các hạch bạch huyết vùng.
+Di căn xa: Khối u xâm lấn các cấu trúc lân cận; hoặc di căn xa đến các hạch bạch huyết không phải hạch vùng, hoặc đến các cơ quan khác như phổi, gan, não, xương…
+Theo thống kê, tỷ lệ sống còn 5 năm sau chẩn đoán lần đầu đối với bệnh nhân ung thư thực quản phân theo giai đoạn được đánh giá như sau (theo SEER 2013-2019):
+Ung thư thực quản giai đoạn tại chỗ: 48,8%.
+Ung thư thực quản giai đoạn tiến triển tại chỗ – tại vùng: 27,7%.
+Ung thư thực quản giai đoạn di căn xa: 5,6%.
+Tiên lượng sống của bệnh nhân ung thư thực quản giai đoạn cuối còn phụ thuộc vào nhiều yếu tố bao gồm tuổi tác người bệnh, tình trạng sức khỏe, tinh thần và thói quen sinh hoạt, khả năng đáp ứng phương pháp điều trị…
+Cách chẩn đoán ung thư thực quản giai đoạn cuối
+Khoảng 50% người bệnh được chẩn đoán ung thư thực quản ở giai đoạn cuối, khiến việc điều trị trở nên khó khăn và tốn kém hơn, đồng thời ảnh hưởng đến tiên lượng sống và phục hồi của người bệnh. Các phương pháp cận lâm sàng có thể được thực hiện bao gồm:
+Nội soi thực quản:
+Nội soi đường tiêu hóa trên (bao gồm thực quản, dạ dày, tá tràng) thường được chỉ định trong trường hợp người bệnh có những dấu hiệu cảnh báo ung thư thực quản như nuốt khó, nuốt đau, hoặc khi phát hiện những tổn thương nghi ngờ di căn mà chưa xác định nguồn gốc ung thư bằng các phương pháp khác (như chụp cắt lớp vi tính CT-scan, cộng hưởng từ MRI…). Nội soi giúp xác định vị trí khối u, mức độ hẹp lòng thực quản, tình trạng loét hoặc sùi trên bề mặt khối u trong lòng thực quản. Đồng thời, trong quá trình nội soi thực quản, bác sĩ có thể tách các vùng mô tổn thương hoặc khối u nghi ngờ ác tính để sinh thiết. Từ đó có thể chẩn đoán xác định bản chất tổn thương bằng kết quả giải phẫu mô bệnh học.
+Nội soi thực quản có thể được kết hợp với kỹ thuật siêu âm qua đầu dò nội soi (viết tắt là EUS: Endoscopic UltraSonography). Đây là phương tiện có độ chính xác cao có thể đánh giá mức độ xâm lấn của khối u thực quản (còn gọi là T). Ngoài ra, bác sĩ có thể kết hợp kỹ thuật EUS với sinh thiết bằng kim nhỏ (FNA: Fine Needle Aspiration) để sinh thiết các vùng mô tổn thương hoặc hạch cạnh thực quản.
+Nội soi đường tiêu hóa trên kết hợp sinh thiết là một trong các phương pháp có thể được dùng để chẩn đoán ung thư thực quản giai đoạn cuối
+Chụp cắt lớp vi tính (CT-scan): Đây là phương pháp chẩn đoán thường được sử dụng phổ biến tại Việt Nam, có thể đánh giá giai đoạn ung thư thực quản nhờ khả năng có thể phát hiện các tổn thương di căn hạch hoặc di căn đến các cơ quan khác xa trong cơ thể. Mặc dù vậy, chụp cắt lớp vi tính CT-scan có những hạn chế nhất định trong việc đánh giá mức độ khối u thực quản xâm lấn tại chỗ (còn gọi là xếp giai đoạn theo T: Tumor).
+Trong một số tình huống cụ thể, bác sĩ có thể chỉ định thực hiện các xét nghiệm chẩn đoán khác như cộng hưởng từ MRI não (nghi ngờ ung thư di căn não), xạ hình xương (nghi ngờ ung thư di căn xương), PET/CT, nội soi ổ bụng, nội soi lồng ngực…
+Dấu ấn sinh học ung thư: Xét nghiệm máu có thể phát hiện nồng độ CEA, CA 19-9 tăng cao. Tuy nhiên, các dấu ấn sinh học thường không có vai trò quan trọng trong chẩn đoán bệnh nhân mắc ung thư thực quản hay không, do các chỉ số này cũng có thể tăng nếu bệnh nhân mắc các bệnh lý khác. Vì vậy, dấu ấn sinh học ung thư thường được chỉ định để theo dõi đáp ứng phác đồ sau điều trị.
+Cách điều trị ung thư thực quản giai đoạn cuối nào phù hợp với người bệnh?
+Điều trị ung thư thực quản giai đoạn cuối chủ yếu nhằm mục đích giảm các triệu chứng, làm chậm sự tiến triển và ảnh hưởng của khối u, kéo dài thời gian sống cho bệnh nhân. Các phương pháp điều trị phụ thuộc vào rất nhiều yếu tố bao gồm: toàn trạng sức khỏe, tình trạng dinh dưỡng, thói quen sinh hoạt, đời sống tinh thần và nguyện vọng của bệnh nhân. Hiện nay, các hướng dẫn điều trị đối với bệnh ung thư do Bộ Y tế và các hiệp hội ung thư trên thế giới cung cấp đều nhấn mạnh vai trò của việc phối hợp nhiều phương pháp điều trị đa phương thức như phẫu thuật, xạ trị, hóa trị, nhắm trúng đích… (còn gọi là điều trị đa mô thức), nhằm tối ưu hóa hiệu quả điều trị. Đồng thời, việc đưa ra kế hoạch điều trị còn tùy thuộc vào từng trường hợp bệnh nhân cụ thể (cá thể hóa). (3)
+Đối với ung thư thực quản giai đoạn cuối, mục đích điều trị chính yếu là kiểm soát sự phát triển của ung thư, ức chế, ngăn chặn sự tiến triển của bệnh, điều trị hỗ trợ giảm nhẹ các dấu hiệu và triệu chứng triệu chứng, duy trì dinh dưỡng nâng cao thể trạng, kéo dài và cải thiện chất lượng cuộc sống cho bệnh nhân.
+1. Xạ trị
+Xạ trị có thể được bác sĩ chỉ định ở bệnh nhân ung thư thực quản giai đoạn cuối (IV) để làm nhỏ khối u và mục đích làm giảm nhẹ các triệu chứng (nuốt đau, nuốt vướng…). Phương pháp xạ trị thường kết hợp đồng thời với hóa trị (hóa-xạ trị đồng thời) nhằm tăng hiệu quả điều trị hoặc cũng có thể xạ trị đơn thuần.
+2. Hóa trị
+Liệu pháp hóa trị có thể được cân nhắc ở bệnh nhân ung thư thực quản giai đoạn cuối (IV) tùy trường hợp. Ung thư biểu mô tuyến đáp ứng tốt với hóa trị hơn so với ung thư biểu mô tế bào gai.
+3. Liệu pháp nhắm trúng đích
+Liệu pháp nhắm mục đích có thể được chỉ định trong phác đồ điều trị ung thư thực quản giai đoạn cuối (ung thư biểu mô tuyến đoạn nối thực quản – dạ dày). (4)
+Trastuzumab: thường kết hợp với hóa trị khi khối u có Her2 dương tính.
+Ramucirumab: là kháng thể đơn dòng có tác dụng ức chế thụ thể VEGF 2. Ramucirumab được chỉ định trong điều trị ung thư biểu mô tuyến đoạn nối thực quản – dạ dày đã thất bại với các phác đồ hóa trị trước đó. Có thể kết hợp Ramucirumab kết hợp với hóa trị hoặc đơn trị Ramucirumab.
+4. Liệu pháp miễn dịch
+Pembrolizumab: có thể kết hợp với Cisplatin và Fluorouracil như một biện pháp điều trị đầu tay đối với ung thư thực quản biểu mô tế bào gai, hoặc ung thư biểu mô tuyến đoạn nối thực quản – dạ dày (Her2 âm tính).
+Nivolumab: được chỉ định trong điều trị ung thư thực quản giai đoạn IVA nếu có thể tiến hành phẫu thuật cắt bỏ khối u.
+5. Phẫu thuật giảm nhẹ
+Đa số bệnh nhân ung thư thực quản giai đoạn cuối thường không phù hợp chỉ định phẫu thuật. Phẫu thuật giảm nhẹ triệu chứng là khi bệnh không còn phù hợp nhận chỉ định phẫu thuật triệt để, hoặc thể trạng bệnh nhân không cho phép phẫu thuật triệt căn khối u. Một đoạn giá đỡ (stent) được đặt vào trong lòng thực quản để cải thiện hoạt động nhai nuốt, giúp cho thức ăn có thể đi qua. Ngoài ra để đảm bảo dinh dưỡng cho bệnh nhân, bác sĩ có thể cân nhắc mở dạ dày ra da nuôi ăn cho bệnh nhân. (5)
+6. Chăm sóc giảm nhẹ
+Điều trị hỗ trợ, chăm sóc giảm nhẹ ung thư thực quản có vai trò hết sức quan trọng, đặc biệt đối với bệnh nhân điều trị ung thư thực quản giai đoạn cuối, với mục tiêu không chỉ giúp kéo dài bệnh mà còn phải nâng cao chất lượng sống cho bệnh nhân.
+Chương trình chăm sóc bệnh nhân ung thư thực quản giai đoạn cuối chú ý gì?
+Chăm sóc bệnh nhân ung thư thực quản giai đoạn cuối giúp bệnh nhân cảm thấy thoải mái, nhẹ nhàng hơn. Gia đình có thể hỗ trợ, giúp đỡ bệnh nhân bằng cách:
+Động viên, trấn an tinh thần, đồng hành và giúp đỡ thực hiện các nguyện vọng của bệnh nhân.
+Giúp người bệnh thay đổi tư thế thường xuyên, có thể dùng đệm nước hoặc ghế tựa để người bệnh thoải mái hơn, hạn chế nguy cơ loét tỳ đè.
+Thường xuyên vệ sinh, thay drap giường, dọn dẹp khu vực sinh hoạt của bệnh nhân.
+Massage tay chân nhẹ nhàng, giảm tê bì tay chân và cải thiện lưu thông máu, giúp bệnh nhân dễ chịu, thoải mái.
+Cố gắng đảm bảo cung cấp đầy đủ các nhóm thực phẩm đủ dưỡng chất, chế biến theo nhiều cách khác nhau nhằm tăng cảm giác thèm ăn của bệnh nhân. Người nhà có thể sử dụng các loại thực phẩm bổ sung dinh dưỡng theo tư vấn của bác sĩ.
+Trong bữa ăn có thể thêm nước để làm mềm thức ăn, giúp việc nuốt trở nên dễ dàng hơn..
+Khuyến khích bệnh nhân thường xuyên ra ngoài, tập luyện thể dục thể thao ở mức độ nhẹ, phù hợp thể chất của người bệnh. Hoạt động thể chất đều đặn mỗi ngày sẽ giúp cải thiện chất lượng cuộc sống bệnh nhân ung thư.
+Chương trình chăm sóc giảm nhẹ giúp giảm nhẹ triệu chứng ung thư thực quản giai đoạn cuối
+Việc lựa chọn phương pháp điều trị cụ thể sẽ phụ thuộc vào rất nhiều yếu tố do mỗi bệnh nhân ung thư thực quản là một cá thể riêng biệt, không ai giống ai. Vì vậy bệnh nhân và gia đình cần chủ động trao đổi với bác sĩ để có được các hướng dẫn điều trị phù hợp nhất.
+Để đặt lịch khám, tư vấn, tầm soát và điều trị ung thư thực quản, Quý khách hàng có thể liên hệ qua thông tin sau:
+Đón nhận tin ung thư thực quản giai đoạn cuối là điều khó khăn đối với người bệnh và gia đình. Điều trị triệt căn ung thư thực quản giai đoạn IV là điều không thể, tuy nhiên sự phối hợp giữa phương pháp điều trị, chăm sóc giảm nhẹ, tinh thần của bệnh nhân và sự đồng hành của gia đình có thể giúp cải thiện chất lượng sống, giảm nhẹ triệu chứng ung thư giai đoạn cuối.

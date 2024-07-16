@@ -1,0 +1,103 @@
+# doc_id = health_disease_1819
+# url = https://tamanhhospital.vn/ung-thu-tuyen-giap-the-tuy/
+# date = 30/12/2023
+Ung thư tuyến giáp thể tủy: Triệu chứng, nguyên nhân và cách điều trị
+Ung thư tuyến giáp thể tủy là thể bệnh hiếm gặp, chiếm khoảng 5% số ca bệnh ung thư tuyến giáp được chẩn đoán. Tiên lượng bệnh phụ thuộc vào nhiều yếu tố như tuổi người bệnh, giai đoạn bệnh và tình trạng phẫu thuật. Phẫu thuật được coi là điều trị chính của bệnh. Ngày nay, với những tiến bộ về di truyền phân tử cho phép phân tầng nguy cơ mắc bệnh cho những người mang đột biến gen, cũng như xác định các đích điều trị cho nhóm bệnh này. Phẫu thuật cắt toàn bộ tuyến giáp dự phòng được chỉ định cho những đối tượng mang các đột biến gen có nguy cơ cao mắc ung thư tuyến giáp thể tủy.
+Mục lụcUng thư tuyến giáp thể tủy là gì?Nguyên nhân ung thư tuyến giáp thể tủyĐối tượng có nguy cơ bị ung thư tuyến giáp thể tủyUng thư tuyến giáp thể tủy có di truyền không?Triệu chứng bệnh ung thư tuyến giáp thể tủyPhân loại giai đoạn bệnh cho ung thư tuyến giáp thể tủyTiên lượng bệnh ung thư tuyến giáp thể tủyChẩn đoán ung thư tuyến giáp thể tủyĐiều trị ung thư tuyến giáp thể tủyTheo dõiUng thư tuyến giáp thể tủy là gì?
+Ung thư tuyến giáp thể tủy bắt nguồn từ các tế bào ung thư có nguồn gốc từ tế bào C cận nang của tuyến giáp. Các tế bào C này tạo ra hormone được gọi là calcitonin có vai trò trong điều hòa chuyển hóa chất khoáng, làm giảm tiêu canxi ở xương và làm giảm nồng độ canxi máu. Ngoài sản sinh calcitonin, các tế bào ung thư tuyến giáp thể tủy có thể tạo ra nhiều hormone khác như corticotropin, serotonin, melanin, prostaglandins. Các hội chứng cận u (như hội chứng carcinoid, hội chứng Cushing) có thể biểu hiện trên những bệnh nhân này.
+Về mặt bệnh nguyên: Khoảng 25% các ca bệnh ung thư tuyến giáp thể tủy có liên quan tới yếu tố gia đình. Bệnh có thể di truyền cho các thành viên trong gia đình qua gen RET. Gen tiền ung thư RET nằm trên nhiễm sắc thể số 10, đột biến gen RET được thấy ở tất cả các tế bào trong cơ thể người bệnh ung thư tuyến giáp thể tủy di truyền. Đột biến gen này gây ra tình trạng gọi là đa u tuyến nội tiết týp 2 hay MEN2. Có 2 tuýp là MEN2A và MEN2B. Tham vấn di truyền và xét nghiệm đột biến gen RET qua bệnh phẩm máu cho những bệnh nhân được chẩn đoán ung thư tuyến giáp thể tủy và cho cả những người thân bậc 1 (như bố mẹ, anh chị em ruột và con) của người bệnh đã được chẩn đoán mắc ung thư tuyến giáp thể tủy di truyền. Phẫu thuật cắt tuyến giáp dự phòng có thể được đề xuất theo nguy cơ phát triển bệnh. (1)
+Ung thư tuyến giáp thể tủy chiếm khoảng 5% ca bệnh ung thư tuyến giáp.
+Nguyên nhân ung thư tuyến giáp thể tủy
+Hiện nay, các nhà nghiên cứu chưa tìm ra nguyên nhân chính xác gây ung thư tuyến giáp thể tủy, tuy nhiên một số yếu tố làm tăng nguy cơ mắc bệnh.
+Khoảng 75% các ca ung thư tuyến giáp thể tủy không do di truyền, điều này đồng nghĩa với việc có sự biến đổi di truyền ngẫu nhiên trong DNA của người bệnh. (2)
+Khoảng 25% bệnh nhân mắc ung thư tuyến giáp thể tủy còn lại là do nguyên nhân di truyền, có liên quan tới gen tiền ung thư RET. Người bệnh được di truyền các đột biến đột biến từ cha hoặc mẹ. Ung thư tuyến giáp thể tủy do di truyền do đột biến dòng mầm này có thể xảy ra trong bệnh cảnh các bệnh lý về thần kinh nội tiết trong đa u nội tiết typ 2 (MEN 2A hoặc MEN 2B) hay trong ung thư tuyến giáp thể tủy có tính chất gia đình (FMTC).
+Đa u tuyến nội tiết týp 2A (MEN2A): Là một hội chứng gen trội trên nhiễm sắc thể thường, đặc trưng bởi ung thư biểu mô tuyến giáp thể tủy (nguy cơ phát triển bệnh tới 90%), u tế bào ưa crôm, tăng sản tuyến cận giáp hoặc u tuyến (gây cường cận giáp), thoái hóa dạng tinh bột dạng lichen ở da.
+Đa u tuyến nội tiết týp 2B (MEN2B, còn được gọi là MEN3): Là một hội chứng đột biến trội trên nhiễm sắc thể thường, đặc trưng bởi ung thư tuyến giáp thể tủy, u tủy thượng thận, đa u thần kinh niêm mạc, các bất thường về cơ, khớp và cột sống. Những người bệnh có MEN2B có nguy cơ mắc ung thư tuyến giáp thể tủy lên đến 100% ngay cả khi tuổi đời còn rất trẻ.(3)
+Đối tượng có nguy cơ bị ung thư tuyến giáp thể tủy
+Bất kỳ ai cũng có nguy cơ mắc ung thư tuyến giáp thể tủy, đặc biệt trên những người bệnh có yếu tố nguy cơ cao như mắc đa u tuyến nội tiết.
+Ung thư tuyến giáp thể tủy tự phát thường xảy ra ở người trên 50 tuổi. Bệnh có thể gặp ở đối tượng bệnh nhân ít tuổi hơn như trong những người mắc hội chứng MEN2 có nguy cơ mắc ung thư ở độ tuổi trẻ hơn, đặc biệt là nữ giới.
+Ung thư tuyến giáp thể tủy có di truyền không?
+Theo các thống kê, khoảng 25% trường hợp ung thư tuyến giáp thể tủy do di truyền. Nếu thế hệ cha mẹ mang gen RET, nguy cơ cao con cái có thể mang đột biến gen di truyền này và gây ra tình trạng đa u nội tiết loại 2 (MEN2). (4)
+Triệu chứng bệnh ung thư tuyến giáp thể tủy
+Ở giai đoạn sớm, bệnh biểu hiện với khối hoặc nhân tại tuyến giáp, có thể được phát hiện tình cờ khi thăm khám vùng cổ. Các nhân tại tuyến giáp kích thước nhỏ thường chưa gây ra triệu chứng bệnh. Khi các tế bào u di căn tới các hạch bạch huyết vùng cổ, thăm khám lâm sàng có thể phát hiện được.
+Ở giai đoạn tiến xa, người bệnh xuất hiện đau nhức vùng cổ, hàm hoặc tai. Kích thước u lớn chèn ép khí quản, thực quản gây khó thở, khó nuốt. Khàn tiếng có thể gặp khi khối u chèn ép vào dây thần kinh.
+Ở giai đoạn cuối, bệnh di căn xa tới các cơ quan khác như gan, phổi, xương, hay não và gây ra các triệu chứng trên lâm sàng.
+Các triệu chứng có thể được liệt kê như sau: (5)
+Khối, hạch vùng cổ.
+Khàn tiếng, nuốt nghẹn, khó thở.
+Hội chứng cận u như hội chứng Cushing, hội chứng carcinoid,…
+Tiêu chảy: do nồng độ cao calcitonin gây tăng bài tiết điện giải đường ruột thứ phát.
+Triệu chứng di căn xa: đau nhức xương, khó thở, đau đầu,…
+Tăng huyết áp: có thể thấy trong những bệnh nhân mắc kèm u tủy thượng thận.
+Ung thư tuyến giáp thể tủy thường gặp nhiều ở nữ giới hơn nam giới.
+Phân loại giai đoạn bệnh cho ung thư tuyến giáp thể tủy
+Hệ thống phân loại TNM của AJCC sử dụng phân giai đoạn bệnh cho ung thư tuyến giáp thể tủy theo đặc điểm khối u, tình trạng di căn hạch vùng và di căn xa:
+U nguyên phát
+Đặc điểm
+Tx
+U nguyên phát không được đánh giá
+T0
+Không có bằng chứng của khối u nguyên phát
+T1
+U kích thước ≤ 2cm và giới hạn tại tuyến giáp
+T1a
+U ≤ 1cm, giới hạn tại tuyến giáp
+T1b
+1< u ≤ 2cm, giới hạn tại tuyến giáp
+T2
+2 < u ≤ 4cm, giới hạn tại tuyến giáp
+T3
+U > 4cm, giới hạn tại tuyến giáp hoặc u xâm lấn ngoài tuyến giáp trên đại thể, xâm lấn các cơ dưới móng (hay còn gọi là các cơ strap).
+T3a
+U > 4cm, giới hạn tại tuyến giáp.
+T3b
+U kích thước bất kỳ xâm lấn ngoài tuyến giáp trên đại thể tới các cơ strap (như cơ ức-giáp, cơ ức-móng, cơ giáp-móng, hoặc cơ vai-móng).
+T4a
+U kích thước bất kỳ xâm lấn các mô dưới da, thanh quản, khí quản, thực quản, thần kinh thanh quản quặt ngược.
+T4b
+U kích thước bất kỳ xâm lấn cân trước sống, hoặc lớp áp động mạch cảnh hoặc mạch máu trung thất
+Hạch vùng
+Đặc điểm
+Nx
+Hạch vùng không thể đánh giá được
+N0
+Không có bằng chứng di căn hạch tại chỗ tại vùng
+N1
+Di căn hạch vùng
+N1a
+Di căn hạch nhóm VI hoặc VII, một hoặc ở 2 bên.
+N1b
+Di căn hạch vùng cổ bên (nhóm I, II, III, IV, V) một hoặc 2 bên hoặc hạch sau hầu.
+Di căn xa
+Đặc điểm
+M0
+Không di căn xa
+M1
+Di căn xa
+Giai đoạn I: T1N0M0
+Giai đoạn II: T2-3N0M0
+Giai đoạn III: T1-3N0M0
+Giai đoạn IVA: T4a, N bất kỳ, M0; T1-3N1bM0
+Giai đoạn IVB: T4b, N bất kỳ, M0
+Giai đoạn IVC: T bất kỳ, N bất kỳ, M1
+Tiên lượng bệnh ung thư tuyến giáp thể tủy
+Tiên lượng bệnh dựa trên các yếu tố gồm tuổi người bệnh, độ mô học, giai đoạn bệnh và kết quả phẫu thuật. Các yếu tố tiên lượng xấu như tuổi cao, độ mô học cao, phẫu thuật không hoàn toàn. Tỷ lệ sống còn 5 năm cho giai đoạn I-III là khoảng 93%, giảm chỉ còn 28% cho giai đoạn IV. Điều này cho thấy việc phát hiện sớm ung thư tuyến giáp thể tủy là rất quan trọng.
+Chẩn đoán ung thư tuyến giáp thể tủy
+Chẩn đoán bệnh ban đầu thường với xét nghiệm chọc hút tế bào (FNA) nhân giáp nghi ngờ hoặc sau khi nhân giáp được phẫu thuật và đem đi làm xét nghiệm giải phẫu bệnh. Với kết quả FNA nghi ngờ bệnh, việc đo lường nồng độ calcitonin máu và CEA sẽ được tiến hành nhằm giúp bác sĩ phẫu thuật lên kế hoạch phẫu thuật, cũng như giúp theo dõi phát hiện sớm tái phát bệnh sau điều trị.
+Khám lâm sàng: phát hiện khối hay hạch vùng cổ; tình trạng lichen amyloid trên da ở những bệnh nhân MEN2A biểu hiện với nhiều nốt lichen ngứa, tăng sắc tố vùng da bả vai. Những bệnh nhân MEN2B có thể biểu hiện thể trạng marfan với nhiều u thần kinh niêm mạc,…
+Xét nghiệm: nồng độ calcitonin, CEA, nồng độ canxi máu, FNA,…
+Xét nghiệm tầm soát u tủy thượng thận, đánh giá tình trạng cường cận giáp trước mổ.
+Hình ảnh học: siêu âm tuyến giáp và vùng cổ, nội soi thanh quản, cắt lớp vi tính cổ-ngực-bụng đánh giá di căn xa (đặc biệt ở bệnh nhân di căn hạch cổ hay nồng độ calcitonin máu tăng cao). Di căn gan là vị trí di căn xa thường gặp.
+Điều trị ung thư tuyến giáp thể tủy
+Điều trị chính cho bệnh lý này là phẫu thuật cắt toàn bộ tuyến giáp, nạo vét hạch vùng cổ. Sau khi cắt toàn bộ tuyến giáp, người bệnh sẽ được bổ sung hormone tuyến giáp cho suốt cuộc đời. (6)
+Khác với ung thư tuyến giáp thể nhú hay ung thư tuyến giáp thể nang, ung thư tuyến giáp thể tủy không hấp thụ i-ốt do vậy điều trị với i-ốt phóng xạ không đem lại hiệu quả.
+Những bệnh nhân mắc ung thư tuyến giáp thể tủy có nồng độ cao calcitonin trong máu cần được tiến hành chẩn đoán hình ảnh học trước mổ kỹ càng nhằm xác định mức độ bệnh giới hạn tại tuyến giáp, vùng cổ hay đã di căn xa. Khi có bằng chứng bệnh di căn ngoài vùng cổ, phẫu thuật lúc này nhằm mục đích giảm nhẹ, giảm các biến chứng tại chỗ do khối u gây ra.
+Những lựa chọn điều trị khác (xạ trị chiếu ngoài, hoặc hoá trị) có thể được sử dụng. Xạ trị nhìn chung ít hiệu quả, tuy nhiên có thể được chỉ định trong những ca diện cắt dương hoặc xâm lấn trung thất hay di căn xương,…
+Nhiều tác nhân hóa trị mới hứa hẹn mang lại hiệu quả điều trị cho ung thư tuyến giáp. FDA chấp thuận Vandetanib và Cabozantinib cho bệnh nhân ung thư tuyến giáp thể tủy tiến xa – di căn, thuốc không nhằm mục đích chữa khỏi bệnh xong có hiệu quả trong việc làm chậm sự phát triển của các tế bào ung thư.
+Các tác nhân hóa trị được chỉ định cho bệnh di căn xa khi bệnh nhân thất bại với điều trị nhắm đích. Phần lớn các phác đồ kết hợp dacarbazine với các tác nhân khác như vincristine, 5-FU, cyclophosphamide, streptozocin hay doxorubicin.
+Phẫu thuật cắt toàn bộ tuyến giáp và nạo vét hạch là phương pháp điều trị chính cho bệnh nhân ung thư tuyến giáp thể tủy.
+Theo dõi
+Thăm khám định kỳ là cần thiết đối với bệnh nhân ung thư tuyến giáp thể tủy do bệnh có thể tái phát sớm hay sau nhiều năm điều trị. Thăm khám lâm sàng, xét nghiệm máu đánh giá nồng độ calcitonin và CEA, siêu âm vùng cổ,… có thể được sử dụng.
+Sau phẫu thuật 2-3 tháng, các xét nghiệm đánh giá nồng độ CEA và calcitonin trong huyết thanh được thực hiện. Trong trường hợp calcitonin lớn hơn 150 pg/ml sau phẫu thuật cắt bỏ tuyến giáp 2-3 tháng, người bệnh cần thực hiện thêm các xét nghiệm chẩn đoán hình ảnh (như cắt lớp vi tính hoặc cộng hưởng từ vùng cổ-ngực-gan), y học hạt nhân (xạ hình xương, MRI cột sống cho những bệnh nhân tăng rất cao calcitonin máu sau mổ) nhằm đánh giá tình trạng bệnh sau mổ.
+Để đăng ký tầm soát và điều trị ung thư tuyến giáp tại BVĐK Tâm Anh, bạn có thể liên hệ qua thông tin sau:
+Trên đây là một số thông tin liên quan đến triệu chứng, nguyên nhân ung thư tuyến giáp thể tủy. Người bệnh lưu ý các dấu hiệu sớm của bệnh để thăm khám ngay và điều trị phù hợp.

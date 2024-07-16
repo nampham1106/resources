@@ -1,0 +1,64 @@
+# doc_id = health_disease_1482
+# url = https://tamanhhospital.vn/chi-so-men-gan/
+# date = 08/05/2024
+Chỉ số men gan: Phân loại, vai trò và khi nào cần xét nghiệm
+Các chỉ số men gan như ALT, AST, GGT, ALP… thể hiện các tình trạng tổn thương tại gan. Dựa theo mức độ cao hay thấp của những chỉ số này, kết hợp với các triệu chứng lâm sàng, bác sĩ có thể đưa ra chẩn đoán và chỉ định phác đồ điều trị phù hợp cho người bệnh.
+Mục lụcChỉ số men gan là gì?Chỉ số men gan đóng vai trò gì?Yếu tố rủi ro gây tăng men ganCác chỉ số men gan trong xét nghiệm1. Chỉ số men gan bao nhiêu là bình thường?2. Chỉ số men gan bao nhiêu là cao?3. Chỉ số men gan bao nhiêu là thấp?4. Chỉ số men gan bao nhiêu là nguy hiểm?Khi nào cần xét nghiệm chỉ số men gan?Chỉ số men gan nào quan trọng nhất?Chỉ số men gan là gì?
+Chỉ số men gan là kết quả của xét nghiệm gan, gồm những thông số thể hiện tình trạng tổn thương của gan.
+Gan là bộ phận nằm dưới cơ hoành, ở phần góc tư phía trên bên phải của cơ thể, có chức năng chuyển hóa nhiều chất khác nhau, tổng hợp protein và sản xuất enzyme tiêu hóa. Bên cạnh đó, gan cũng góp phần trong quá trình trao đổi chất của cơ thể như là điều hòa tế bào hồng cầu, tổng hợp và lưu trữ glucose.
+Men gan là các enzyme ở trong gan, có chức năng tạo ra những vận chuyển hóa học trong cơ thể, điển hình như: sản xuất mật, sản xuất chất làm đông máu, phân hủy thức ăn, phân lọc và đào thải độc chất, chống lại nhiễm trùng… Những chỉ số men gan phổ biến thường thấy trong các kết quả xét nghiệm bao gồm: AST, ALT, ALP, GGT…
+Khi gan bị tổn thương hoặc rối loạn chức năng, nó sẽ phóng thích các enzyme vào máu. Do trong máu luôn tồn tại lượng men gan nhất định và chúng sẽ tiết ra máu khi có sự tổn thương xảy ra ở tế bào gan. Vì vậy, xét nghiệm gan vốn được chỉ định để xác định chính xác nguồn gốc của loại tổn thương hiện tại dựa trên mức độ tăng hay giảm của men gan. Tuy nhiên, xét nghiệm gan không được dùng để chẩn đoán chức năng gan. Chức năng gan có thể có thể được phân loại dựa trên khả năng sản xuất albumin cũng như các yếu tố đông máu có liên quan đến vitamin K.
+Khi gan bị tổn thương chúng sẽ giải phóng enzyme vào máu gây tăng men gan
+Chỉ số men gan đóng vai trò gì?
+Xét nghiệm gan thường chú trọng vào những chỉ số men gan (ALT, AST, ALP, GGT), bilirubin huyết thanh, nồng độ protein và albumin. Chỉ số men gan giúp xác định khu vực gan bị tổn thương, phân biệt các loại tổn thương gan, hỗ trợ chẩn đoán bệnh lý về gan.
+Ví dụ, kết quả chỉ số men gan có mức tăng ALT và AST cao không tương xứng với mức tăng ALP và bilirubin biểu hiện có bệnh liên quan đến tế bào gan. Hay chỉ số ALP và bilirubin tăng cao không tương xứng với ALT và AST sẽ đặc hiệu hơn cho tình trạng ứ mật.(1)
+Ý nghĩa của các chỉ số men gan bao gồm:
+Alanine transaminase (ALT): Là một enzyme quan trọng ở trong tế bào gan, có chức năng tham gia vào quá trình chuyển hóa chất, cụ thể là chuyển hóa protein, tạo năng lượng cho cơ thể. ALT được tìm thấy chủ yếu trong gan, do đó nó khá đặc hiệu cho tổn thương gan. Thời gian bán hủy của ALT trung bình khoảng 47 giờ.
+Aspartate transaminase (AST): AST hiện diện dưới dạng isoenzym tế bào và ty thể và được tìm thấy trong gan, cơ tim, cơ xương, thận, não, tuyến tụy, phổi, bạch cầu và hồng cầu. AST không nhạy hoặc đặc hiệu đối với gan như ALT và việc tăng AST cũng có thể được coi là nguyên nhân thứ phát do các nguyên nhân không liên quan đến gan. AST có thời gian bán hủy trung bình khoảng 17 giờ.
+Gamma-glutamyl transferase (GGT): GGT nằm trên màng tế bào có hoạt tính bài tiết hoặc hấp thu cao. Chức năng chính của nó là xúc tác cho quá trình chuyển nhóm gamma-glutamyl từ peptide sang các axit amin khác. Nó cũng có nhiều trong nhiều nguồn khác của cơ thể (thận, tuyến tụy, ruột, tuyến tiền liệt, tinh hoàn, lá lách, tim và não). Vì vậy, chỉ số men gan GGT thường dùng để xem xét tình trạng gan và ống mật, đôi lúc cũng được xét cho một số loại tổn thương thận, tụy và một số cơ quan khác. Thời gian bán hủy trung bình của GGT trung bình khoảng 17 ngày.
+Alkaline phosphatase (ALP): ALP là một phần của họ enzyme kim loại kẽm tập trung nhiều ở các vi nhung mao của ống mật cũng như một số mô khác (ví dụ: xương, ruột và nhau thai). Khi ALP tăng thể hiện những tình trạng như tắc nghẽn ống mật, viêm gan và những vấn đề về xương khác. Thời gian bán hủy trung bình của ALP khoảng 7 ngày.
+Yếu tố rủi ro gây tăng men gan
+Bệnh gan do rượu, do siêu vi, do thuốc, do độc chất, do nhiễm mỡ và nhiễm trùng là những căn nguyên thường gặp làm tăng men gan. Một số bệnh gan khác ít gặp hơn như bệnh gan tự miễn, ứ sắt, ứ đồng, ung thư gan… cũng gây tăng men gan. Điều này được thể hiện trên những chỉ số men gan thất thường.
+Các chỉ số men gan trong xét nghiệm
+1. Chỉ số men gan bao nhiêu là bình thường?
+Chỉ số men gan bình thường thể hiện tình trạng gan ổn định, không có tổn thương ở tế bào gan. Thông thường, được xem xét dựa trên 2 enzyme là AST và ALT. Tuổi, giới và BMI ảnh hưởng đến hoạt tính ALT, AST trong huyết thanh. ALT, AST của nam giới cao hơn nữ giới và người có BMI lớn hơn có nồng độ ALT và AST cao hơn. Hoạt tính ALT, AST tăng dần từ tuổi thiếu niên cho đến 60 tuổi, sau đó có khuynh hướng giảm dần.(2)
+Chỉ số men gan bình thường của những enzyme phổ biến:
+ALT: Từ 5 – 37 IU/L
+AST: Từ 5 – 40 IU/L
+GGT: 5 – 60 IU/L
+ALP: 35 – 115 IU/L
+Nếu chỉ số chênh lệch không quá đáng kể thì cũng không gây vấn đề nghiêm trọng cũng như không thể hiện bệnh lý đặc hiệu.
+Chỉ số men gan nằm trong giới hạn cho phép thể hiện tình trạng sức khỏe gan bình thường
+2. Chỉ số men gan bao nhiêu là cao?
+Chỉ số men gan cao là một cảnh báo cơ bản nhất về gan đang có vấn đề sức khỏe, thường gặp như viêm gan, tổn thương gan hay hoại tử tế bào gan. Tuy nhiên, vẫn có những trường hợp chỉ số men gan chỉ tăng nhẹ do một số yếu tố tác động, thường gặp ở những người có sử dụng thuốc giảm đau hạ sốt, uống rượu bia gần đây… Để xác định xác định mức độ tăng men gan, thông thường sẽ dựa vào AST, ALT là chủ yếu. Các trường hợp tăng men gan trên giới hạn trên bình thường đều nên được xem xét đánh giá toàn diện về các bệnh lý về gan. Người ta sẽ xác định mức độ tăng men gan như sau:
+Nhẹ: Nồng độ AST và ALT tăng gấp 2–5 lần giới hạn trên.
+Trung bình: Nồng độ AST và ALT gấp 5–15 lần giới hạn trên.
+Nặng: Nồng độ AST và ALT tăng cao gấp > 15 lần giới hạn trên.
+Đặc biệt nghiêm trọng: Nồng độ AST và ALT > 10.000 IU/L.
+3. Chỉ số men gan bao nhiêu là thấp?
+Chỉ số men gan không nằm trong ngưỡng bình thường và thấp hơn mức tối thiểu được xem là chỉ số men gan thấp. Khi xét nghiệm thể hiện người bệnh có những chỉ số men gan thấp, việc nhanh chóng chẩn đoán bệnh và can thiệp điều trị là vô cùng quan trọng bởi vì có thể người bệnh đang gặp tổn thương các hệ cơ quan nghiêm trọng hoặc phức tạp. Một số nguyên nhân có thể làm men gan thấp: ruột kém hấp thu, thiếu vitamin B6, suy dinh dưỡng, chế độ ăn quá ít đạm, bệnh thận mạn…
+4. Chỉ số men gan bao nhiêu là nguy hiểm?
+Chỉ số men gan là kết quả của xét nghiệm men gan, chúng sẽ không đánh giá trực tiếp về độ nghiêm trọng của tổn thương người bệnh mắc phải. Chúng chỉ thể hiện tình trạng của các enzyme trong gan, giúp bác sĩ xác định được vị trí tổn thương và phân loại tổn thương. Để có thể chẩn đoán được chính xác về bệnh lý mà người bệnh gan mắc phải khiến chỉ số men gan tăng cao, cần làm thêm những loại xét nghiệm khác tùy vào tình trạng bệnh của mỗi người.
+Chỉ số men gan được cho là nguy hiểm khi chúng có sự chênh lệch quá khác biệt, và bất thường so với mức độ men gan thông thường. Thông thường, các bác sĩ sẽ đánh giá tổng quan về tăng men gan, cũng như các nguyên nhân đặc hiệu trước khi đưa ra kết luận mức độ nặng của tăng men gan.
+Khi nào cần xét nghiệm chỉ số men gan?
+Người bệnh khi xuất hiện những biểu hiện lâm sàng nghi ngờ liên quan đến tổn thương gan sẽ được bác sĩ chỉ định thực hiện hiện xét nghiệm để biết được các chỉ số men gan hiện tại. Những triệu chứng thường là:
+Vàng da, vàng mắt, ngứa da
+Nước tiểu sẫm màu
+Phân bạc màu
+Buồn nôn, nôn ói.
+Mệt mỏi, chán ăn, suy nhược cơ thể
+Đau bụng thượng vị, hạ sườn phải
+Vết bầm trên da không rõ nguyên nhân
+Sụt cân không chủ ý
+Dù vậy, men gan cao lại thường không gây ra triệu chứng gì cụ thể. Người bệnh có thể vô tình được chỉ định đi xét nghiệm men gan khi bác sĩ nhận thấy người bệnh có những yếu tố làm tăng nguy cơ mắc bệnh gan như:
+Lạm dụng rượu bia
+Sử dụng quá nhiều chất kích thích
+Từng mắc các bệnh lý về gan
+Người bệnh có nhu cầu tầm soát ung thư gan, viêm gan.
+Bên cạnh đó, xét nghiệm gan cũng được chỉ định thực hiện đối với người bệnh đang thực hiện một phác đồ điều trị hay bắt buộc uống thuốc dài hạn. Xét nghiệm chỉ số men gan ở trường hợp này được chỉ định nhằm xem xét có hay không sự ảnh hưởng của liều lượng thuốc. Thông thường, người bệnh sẽ được yêu cầu làm xét nghiệm chỉ số men gan mỗi 3-6 tháng. Nếu thuốc có tác dụng phụ gây ảnh hưởng đến men gan, bác sĩ sẽ kịp thời đưa hướng xử lý.(3)
+Uống thuốc dài hạn có thể làm tăng chỉ số men gan
+Chỉ số men gan nào quan trọng nhất?
+3 chỉ số men gan quan trọng nhất là GGT, ALT và AST. Chúng đều là những enzym trong gan và phản ánh tình trạng gan. Hai chỉ số ALT và AST có mối liên kết chặt chẽ với nhau, là tiêu chuẩn để xác định loại tổn thương này là viêm gan mạn tính hay cấp tính, liệu người bệnh có đang bị gan nhiễm mỡ hay không. Trong khi đó, GGT là enzyme dự đoán các tình trạng ở gan, ống mật và một phần của những bệnh lý về thận.
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Chỉ số men gan đóng vai trò quan trọng trong quá trình khám và chẩn đoán bệnh gan. Ý nghĩa của chỉ số men gan và việc xét nghiệm men gan là bằng chứng thể hiện tổn thương gan của người bệnh. Cùng với đó, phân loại tổn thương và xác định nguyên nhân cụ thể. Người bệnh cần thực hiện xét nghiệm men gan khi có những dấu hiệu của bệnh gan hoặc có tiền căn có thể gây hại đến gan như: uống nhiều rượu bia, hút thuốc, có người thân trong gia đình bị bệnh gan, bản thân từng bị bệnh gan…

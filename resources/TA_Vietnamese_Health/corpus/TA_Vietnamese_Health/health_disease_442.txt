@@ -1,0 +1,51 @@
+# doc_id = health_disease_442
+# url = https://tamanhhospital.vn/tui-mat-su/
+# date = 30/12/2023
+Túi mật sứ (vôi hóa túi mật): Nguyên nhân, triệu chứng và phòng ngừa
+Túi mật sứ là tình trạng hiếm gặp, có nguy cơ tiến triển thành ung thư nếu không được chẩn đoán và điều trị kịp thời. Bệnh thường không có triệu chứng rõ ràng, chỉ nhận thấy thông qua các xét nghiệm hình ảnh như siêu âm, chụp X-quang… Trong hầu hết các trường hợp, bác sĩ sẽ chỉ định phẫu thuật cắt bỏ túi mật để ngăn ngừa biến chứng nghiêm trọng về sau.
+Mục lụcTúi mật sứ là gì?Triệu chứng túi mật sứNguyên nhân gây túi mật sứChẩn đoán túi mật sứĐiều trị túi mật sứPhòng ngừa túi mật sứTúi mật sứ có phải là tiền ung thư?Túi mật sứ là gì?
+Túi mật sứ là tình trạng thành túi mật bị vôi hóa, trở nên cứng, giòn và có màu ngả xanh. Bệnh lý này không gây ra triệu chứng, thường chỉ được phát hiện tình cờ trong quá trình chụp X-quang bụng hoặc CT scan bụng. Ban đầu, thành túi mật chỉ xuất hiện một mảng vôi hóa duy nhất, dính vào lớp niêm mạc. Sau đó, tình trạng vôi hóa sẽ thay thế toàn bộ mô thành túi mật bằng canxi.
+Thành túi mật bị vôi hóa có thể dày lên không đều. Trong trường hợp thành túi mật ngấm toàn bộ canxi niêm mạc thường bị bong tróc và bong tróc hoàn toàn. Trong trường hợp thâm nhiễm canxi từng mảng, niêm mạc có thể biểu hiện tình trạng viêm. Điều này làm tăng nguy cơ tiến triển thành ung thư túi mật. Nguyên nhân hình thành ung thư túi mật chủ yếu do kích ứng viêm mạn tính và viêm niêm mạc túi mật.
+Túi mật sứ là tình trạng thành túi mật bị vôi hóa và ngả màu xanh
+Triệu chứng túi mật sứ
+Hầu hết các trường hợp túi mật sứ đều không gây ra triệu chứng rõ ràng. Một số người bệnh có thể nhận thấy dấu hiệu tương tự như viêm túi mật mạn tính, chẳng hạn như:(1)
+Đau âm ỉ vùng bụng trên bên phải, sau đó lan dần ra giữa lưng hoặc đầu bả vai phải
+Buồn nôn, nôn mửa
+Đầy hơi, đặc biệt là buổi tối
+Các triệu chứng thường xảy ra trong nhiều tuần, thậm chí kéo dài nhiều tháng. Tần suất và mức độ cơn đau cấp tính (viêm túi mật cấp) sẽ xảy ra thường xuyên hơn trên những bệnh nhân có triệu chứng viêm mạn tính kéo dài.
+Nguyên nhân gây túi mật sứ
+Nguyên nhân gây ra tình trạng túi mật sứ vẫn chưa được xác định chính xác, nhưng cơ chế bệnh sinh cho thấy có liên quan đến quá trình hình thành sỏi mật:
+Sỏi cholesterol: Hình thành do dịch mật bị ứ đọng, không được bài tiết hết khỏi túi mật, dẫn đến kết tủa dưới dạng bùn, sau đó chuyển thành sỏi. Ngoài ra, tắc nghẽn đường mật do hẹp cấu trúc ống mật chủ như ung thư tuyến tụy… cũng có thể gây ra tình trạng tương tự.
+Sỏi sắc tố: Nguyên nhân chủ yếu do quá trình phá hủy hồng cầu trong hệ thống nội mạch, làm tăng nồng độ bilirubin, dẫn đến hình thành sỏi. Loại sỏi này thường có màu đen.
+Sỏi sắc tố hỗn hợp: Đây là dạng sỏi mật hình thành từ quá trình kết hợp của các chất nền canxi (canxi cacbonat hoặc canxi photphat), cholesterol và mật.
+Dạng sỏi mật còn lại: Chủ yếu hình thành từ canxi, thường gặp ở người bệnh tăng canxi máu.
+Tỷ lệ mắc túi mật sứ rất hiếm, thường chỉ chiếm dưới 1% trong số tất cả các mẫu bệnh phẩm cắt túi mật. Nhóm đối tượng có nguy cơ cao gồm:
+Nữ giới
+Người trên 60 tuổi
+Người mắc bệnh sỏi mật (chiếm đến 95% các trường hợp mắc túi mật sứ)
+Ngoài ra, những người giảm cân quá mức hoặc nhịn ăn để giảm cân đều có nguy cơ cao bị sỏi mật thứ phát do ứ mật. Estrogen cũng đã được chứng minh là làm tăng nồng độ cholesterol trong mật, từ đó làm giảm khả năng co bóp của túi mật. Vì vậy, phụ nữ trong độ tuổi sinh sản hoặc đang dùng thuốc tránh thai chứa estrogen có nguy cơ hình thành sỏi mật tăng gấp đôi so với nam giới.
+Bên cạnh đó, những người mắc các bệnh mạn tính như tiểu đường cũng làm gia tăng hình thành sỏi mật do giảm khả năng co bóp của thành túi mật do bệnh lý thần kinh. Sự hiện diện kéo dài của sỏi mật và các nguyên nhân hình thành sỏi mật rất có thể là yếu tố chính dẫn đến vôi hóa thành túi mật.
+Tình trạng túi mật sứ có liên quan trực tiếp đến sỏi mật
+Chẩn đoán túi mật sứ
+Đối với tình trạng túi mật sứ, bác sĩ sẽ chỉ định thực hiện các xét nghiệm hình ảnh để có kết luận chẩn đoán chính xác:(2)
+Siêu âm bụng: tùy theo mức độ vôi hóa thành túi mật mà có các hình dạng khác nhau trên siêu âm. Túi mật vôi hóa hoàn toàn sẽ có hình ảnh bán nguyệt tăng âm với bóng lưng phía sau, vôi hóa rải rác sẽ xuất hiện những điểm những mảng tăng âm rải rác trên thành túi mật.
+Chụp X-quang thường quy: Trên kết quả chụp X-quang bụng thường quy, túi mật sứ xuất hiện dưới dạng đường cong vôi hóa ở hạ sườn phải, tương ứng với vị trí và hình dạng của túi mật. Độ dày của lớp vôi hóa có thể thay đổi, mỏng, mờ nhạt, vô định hình, loang lổ hoặc dày. Đồng thời, kích thước túi mật cũng có thể lớn hơn nhưng không đáng kể.
+Chụp cắt lớp vi tính (chụp CT): Để chẩn đoán chính xác tình trạng bệnh lý, người bệnh cần tiến hành chụp CT scan bụng. Thông qua phương pháp này, bác sĩ có thể quan sát được đường cong vôi hóa hoặc hiện tượng vôi hóa rải rác ở thành túi mật. Ngoài ra, chụp CT còn giúp phát hiện sớm ung thư biểu mô túi mật, ung thư túi mật xâm lấn các cơ quan lận cận và tình trạng di căn trong gan.
+Chẩn đoán túi mật sứ bằng phương pháp xét nghiệm hình ảnh
+Điều trị túi mật sứ
+Túi mật sứ có nguy cơ cao tiến triển thành bệnh ác tính. Do đó, phẫu thuật cắt bỏ túi mật là phương pháp cần được ưu tiên hàng đầu, không nên trì hoãn để tránh biến chứng nguy hiểm về sau.
+Phòng ngừa túi mật sứ
+Một chế độ ăn uống lành mạnh, khoa học, kết hợp tập luyện thể dục thể thao đều đặn sẽ giúp phòng ngừa hình thành sỏi túi mật, từ đó làm giảm nguy cơ vôi hóa thành túi mật. Biện pháp cụ thể như sau:
+Ăn nhiều thực phẩm giàu chất xơ, như trái cây, rau xanh, các loại đậu, ngũ cốc nguyên hạt (gạo lứt, yến mạch…).
+Ăn thực phẩm giàu chất béo lành mạnh để hỗ trợ túi mật co bóp ổn định, như dầu cá, dầu ô liu…
+Tránh ăn các loại thực phẩm có chứa nhiều đường, carbohydrate tinh chế, chất béo không lành mạnh như đồ chiên rán, món tráng miệng…
+Túi mật sứ có phải là tiền ung thư?
+Túi mật sứ thường gặp ở phụ nữ lớn tuổi và có liên quan đến sỏi mật trong khoảng 90% trường hợp. Nó có nguy cơ cao mắc bệnh ác tính và tỷ lệ có thể thay đổi từ 5 đến 22%. Cơ chế bệnh sinh của vôi hóa túi mật vẫn chưa rõ ràng và nó được coi là kết quả của sự tắc nghẽn ống túi mật dẫn đến sự kết tủa của muối canxi ở niêm mạc hoặc là kết quả của tình trạng viêm mạn tính dẫn đến xuất huyết, sẹo và hyalin hóa thành túi mật gây lắng đọng muối canxi. Tình trạng viêm mạn tính hoặc quá trình thoái hóa và tái tạo trong biểu mô túi mật có thể hoạt động như một tác nhân kích thích gây ung thư. Túi mật sứ có nguy cơ cao mắc bệnh ác tính; do đó, phẫu thuật cắt bỏ không nên trì hoãn.
+Thành túi mật có thể bị vôi hóa ở nhiều mức độ khác nhau. Mối quan hệ tương quan giữa tình trạng túi mật sứ và ung thư túi mật đạt tỷ lệ 60%. Thực tế cho thấy, tỷ lệ mắc ung thư túi mật nói chung dao động trong khoảng từ 2 – 8%. Trong khi đó, tỷ lệ mắc bệnh ung thư túi mật ở những người đang bị túi mật sứ chiếm đến 6%. Khả năng hình thành khối u ác tính ở túi mật sẽ cao hơn khi có một phần vôi hóa bám dính vào niêm mạc còn nguyên vẹn, chưa bị tổn thương.
+Nhìn chung, túi mật sứ là một tình trạng hiếm gặp và có nguy cơ cao gây ung thư túi mật. Vì vậy, phẫu thuật cắt bỏ túi mật là phương pháp điều trị hiệu quả nhất đối với bệnh lý này.
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Nơi đây quy tụ đội ngũ bác sĩ Nội soi tiêu hóa – Nội khoa và Ngoại khoa Tiêu hóa – Gan Mật Tụy – Hậu môn trực tràng chuyên môn cao, giàu kinh nghiệm. Đặc biệt, các phương pháp ngoại khoa tiên tiến được áp dụng trong các lĩnh vực Nội soi và Phẫu thuật nội soi ít xâm lấn, giúp bệnh nhân nhanh hồi phục, không để lại sẹo với các tên tuổi hàng đầu như TS.BS Đỗ Minh Hùng, TTƯT.TS.BS Phạm Hữu Tùng, BS.CKII Nguyễn Quốc Thái, TS.BS Trần Thanh Bình, ThS.BS.CKII Trần Hiếu Nhân, BS.CKII Hồ Thị Bích Thủy, BS.CKI Đặng Lê Bích Ngọc; điều trị Gan Mật Tụy kỹ thuật hiện đại với TS.BS Phạm Công Khánh, BS.CKII Võ Ngọc Bích; thăm khám và tư vấn bệnh lý nội tiêu hóa với ThS.BS.CKII Lê Thanh Quỳnh Ngân, BS.CKI Huỳnh Văn Trung, BS.CKI Hoàng Đình Thành, ThS.BS Nguyễn Thị Ngọc Bích, ThS.BS.CKI Đoàn Hoàng Long; phẫu thuật trong điều trị các bệnh lý hậu môn trực tràng như ThS.BS Nguyễn Văn Hậu, ThS.BS Ngô Hoàng Kiến Tâm, ThS.BS Nguyễn Thanh Biên…
+Các bác sĩ Khoa Ngoại Tổng hợp cũng dẫn đầu với các kỹ thuật hiện đại trong phẫu thuật nội soi ổ bụng với các tên tuổi chuyên gia như TTƯT.PGS.TS Triệu Triều Dương, ThS.BS.CKII Nguyễn Văn Trường, ThS.BS Lê Văn Lượng… Các chuyên gia thuộc lĩnh vực nội soi tiêu hóa tiêu biểu như TS.BS Vũ Trường Khanh, BSNT Đào Trần Tiến, BSNT Hoàng Nam, BS.CKII Bùi Quang Thạch…
+Ngoài ra, bệnh viện còn được trang bị hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Trên đây là tổng hợp tất cả các thông tin liên quan đến tình trạng túi mật sứ, phương pháp chẩn đoán, điều trị và phòng ngừa hiệu quả. Hy vọng thông qua những chia sẻ này, bạn đã có thêm nhiều cập nhật hữu ích để chủ động theo dõi, phát hiện bệnh từ sớm, nhằm hạn chế tối đa biến chứng nguy hiểm.

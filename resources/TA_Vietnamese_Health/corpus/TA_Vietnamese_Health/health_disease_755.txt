@@ -1,0 +1,87 @@
+# doc_id = health_disease_755
+# url = https://tamanhhospital.vn/sot-xuat-huyet-o-tre-so-sinh/
+# date = 09/11/2022
+Sốt xuất huyết ở trẻ sơ sinh: Nguyên nhân và cách chẩn đoán
+Sốt xuất huyết ở trẻ sơ sinh đôi khi có những dấu hiệu không điển hình như: hắt hơi, sổ mũi, sốt nhẹ đến vừa, tiêu chảy, nôn ói,… rất dễ chẩn đoán sai do lầm tưởng với các bệnh lý hô hấp, tiêu hóa hay nhiễm trùng. Bệnh có thể chuyển biến nhanh chóng, gây ra nhiều biến chứng nguy hiểm cho bé nếu không được chẩn đoán đúng và điều trị kịp thời.
+Bài viết được tư vấn chuyên môn bởi ThS.BS Nguyễn Anh Duy Tùng – Trung tâm Thông tin Y khoa, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Mục lụcSốt xuất huyết ở trẻ sơ sinh là gì?Nguyên nhân trẻ sơ sinh bị sốt xuất huyếtTriệu chứng sốt xuất huyết ở trẻ sơ sinhCách chẩn đoán sốt xuất huyết trẻ sơ sinhĐiều trị bệnh sốt xuất huyết ở trẻ sơ sinh1. Điều trị tại nhà2. Điều trị tại cơ sở y tếBiến chứng sốt xuất huyết trẻ sơ sinhCách phòng tránh trẻ sơ sinh bị sốt xuất huyếtSốt xuất huyết ở trẻ sơ sinh kéo dài bao lâu?Sốt xuất huyết ở trẻ sơ sinh là gì?
+Sốt xuất huyết (Dengue Fever) là một căn bệnh truyền nhiễm cấp tính do 4 chủng virus thuộc virus Dengue gây ra. Bệnh có thể xảy ra ở mọi lứa tuổi, trong đó có trẻ sơ sinh. Khi virus xâm nhập và phát triển trong cơ thể sẽ gây sốt, đau đầu, phát ban và đau nhức khắp người, thậm chí là chảy máu mũi, chảy máu răng. Bệnh có thể gây tử vong nếu không được chẩn đoán đúng và điều trị kịp thời.
+Bệnh sốt xuất huyết thường xuất hiện ở các khu vực có khí hậu nóng ẩm nhiệt đới, trong đó có Việt Nam. Hằng năm, tại miền Bắc, bệnh sẽ bắt đầu vào khoảng tháng 6-7 và đạt đỉnh điểm vào khoảng tháng 8-11. Tuy nhiên, tại miền Nam, sốt xuất huyết có thể xuất hiện quanh năm và thường sẽ bùng phát nặng vào những tháng có độ ẩm cao, mưa nhiều. Do đó, bố mẹ cần trang bị cho mình đầy đủ kiến thức về dấu hiệu, cách điều trị và phòng ngừa sốt xuất huyết, nhất là những gia đình có trẻ sơ sinh. (1)
+Nguyên nhân trẻ sơ sinh bị sốt xuất huyết
+Trên thực tế, sốt xuất huyết không lây lan trực tiếp từ người qua người. Bệnh được lây lan qua các vết đốt của muỗi vằn (Aedes Aegypti) chứa virus Dengue. Khi muỗi vằn đốt người mang virus sốt xuất huyết, virus này sẽ tồn tại trong muỗi vằn và sẽ lây cho người khác khi muỗi tiếp tục đốt người khác.
+Muỗi vằn thường sinh sôi và phát triển nhanh chóng trong môi trường khí hậu ẩm ướt và ấm áp. Chúng thường chỉ đốt vào ban ngày thay vì vào rạng sáng hay ban đêm như những loại muỗi khác.
+Sốt xuất huyết lây truyền qua vết đốt của muỗi vằn
+Triệu chứng sốt xuất huyết ở trẻ sơ sinh
+Sau khoảng 4 đến 6 ngày kể từ khi trẻ bị nhiễm virus sốt xuất huyết, trẻ sẽ bắt đầu xuất hiện các triệu chứng sau:
+Sốt cao đột ngột và liên tục (có thể lên đến 40 độ C);
+Đau mắt;
+Nhức mỏi các khớp, cơ;
+Đau đầu dữ dội;
+Phát ban khắp cơ thể, thường xuất hiện sau khi trẻ đã phát sốt;
+Mũi, nướu răng chảy máu bất thường;
+Da dễ xuất hiện các vết bầm;
+Chán ăn, buồn nôn, nôn;
+Mệt mỏi, khó chịu;
+Thân nhiệt hạ thấp 36 độ C;
+Tiểu cầu giảm nhanh;
+Ho khan;
+Chảy nước mũi (rất ít).
+Các triệu chứng sốt xuất huyết ở trẻ sơ sinh dễ bị nhầm lẫn với các bệnh nhiễm trùng khác. Tuy nhiên tình trạng và cơn đau có thể dữ dội hơn rất nhiều lần. Do đó, khi trẻ có các triệu chứng trên, mẹ nên cho bé đến bệnh viện để được kiểm tra và có phương pháp điều trị phù hợp và đúng cách. (2)
+Tuy nhiên, trong một số trường hợp bất thường, bệnh chuyển biến nhanh chóng và trở nên nghiêm trọng hơn sau khi cơn sốt dịu đi. Tình trạng này gọi là sốc sốt xuất huyết Dengue hoặc Hội chứng Sốc Dengue và nếu nó kéo dài có thể gây tử vong cho trẻ. Lúc này, trẻ sẽ có thể xuất hiện các triệu chứng như:
+Xuất huyết nghiêm trọng;
+Đau bụng dữ dội, thường xuyên cảm thấy buồn nôn và nôn;
+Khó thở;
+Tụt huyết áp;
+Mất nước;
+Suy nội tạng,…
+Trẻ bị sốt cao do sốt xuất huyết
+Cách chẩn đoán sốt xuất huyết trẻ sơ sinh
+Thông thường, bố mẹ có thể nhận biết được trẻ đang bị sốt xuất huyết qua các triệu chứng xuất hiện trong 3 ngày đầu tiên kể từ khi bắt đầu sốt.
+Ngày 1: Trẻ sốt cao đột ngột, mặt và cổ họng đỏ ửng nhưng không đau;
+Ngày 2: Trẻ vẫn sốt cao và có thể xuất hiện các dấu hiệu xuất huyết dưới da, bụng, tay, chân, cổ, hay mí mắt;
+Ngày 3: Các triệu chứng sốt xuất huyết ngày càng rõ rệt hơn, các biện pháp hạ sốt không có hiệu quả, bé có khả năng chảy máu mũi, răng. Lúc này, mẹ cần đưa bé đến gặp bác sĩ để được hỗ trợ điều trị gấp.
+Bác sĩ sẽ dựa vào các yếu tố dịch tễ, các biểu hiện lâm sàng của bệnh, đồng thời chỉ định xét nghiệm cơ bản đo số lượng bạch cầu, tiểu cầu và và hematocrit để biết có phải trẻ bị sốt xuất huyết hay không. Do đó, bác sĩ sẽ cần mẹ cung cấp đầy đủ các triệu chứng đã xuất hiện ở trẻ và các nguy cơ gây bệnh cho bé để xác định mức độ nghiêm trọng của bệnh và có phương hướng điều trị phù hợp nhất.
+Điều trị bệnh sốt xuất huyết ở trẻ sơ sinh
+Hiện nay, sốt xuất huyết vẫn chưa có thuốc đặc trị và các phương pháp điều trị sốt xuất huyết ở trẻ sơ sinh hiện có thường sẽ hướng đến điều trị các triệu chứng của bệnh. Sốt xuất huyết là một căn bệnh nguy hiểm, có tỷ lệ gây tử vong cao. Do đó, bố mẹ cần chú ý chăm sóc và điều trị cho bé đúng cách và kịp thời.
+1. Điều trị tại nhà
+Khi mới bắt đầu phát bệnh, trẻ sẽ bắt đầu xuất hiện các triệu chứng nhẹ. Nếu bé được bố mẹ chăm sóc đúng cách thì triệu chứng có thể giảm nhẹ đi. (3)
+Cho trẻ uống thuốc theo chỉ dẫn của bác sĩ: Mẹ nên tham khảo ý kiến bác sĩ về các loại thuốc có thể làm giảm nhẹ các triệu chứng và hạ sốt để cải thiện tình trạng sức khỏe của trẻ;
+Bổ sung nước cho trẻ: Sốt xuất huyết khiến trẻ bị mất nước nghiêm trọng, do đó, mẹ nên cho trẻ uống nhiều nước hơn. Đối với trẻ sơ sinh vẫn đang bú sữa mẹ, mẹ có thể tăng cữ bú cho bé, số lượng trong mỗi cữ sẽ ít lại. Đối với trẻ đã biết ăn, mẹ nên cho trẻ ăn thức ăn ở dạng lỏng như súp, cháo ấm để giúp trẻ dễ tiêu hóa.
+Theo dõi sát sao để phát hiện và xử lý kịp thời khi trẻ có biểu hiện bị sốc: Các biểu hiện sốc xuất huyết ở trẻ bao gồm: đau bụng, ói, chân tay lạnh toát, lờ đờ, không tỉnh táo, thường xuyên cảm thấy khát, rất khát, da bầm, môi xám. Khi xuất hiện các biểu hiện này, bé đang gặp nguy hiểm và nguy cơ tử vong cao, cần được đưa đến bệnh viện khẩn cấp;
+Lau mát cho trẻ: Trẻ bị sốt, thân nhiệt cao và đổ nhiều mồ hôi gây cảm giác khó chịu cho bé. Mẹ nên dùng nước ấm lau các bộ phận trên cơ thể để làm dịu da cho bé;
+Lưu ý, không điều trị cho bé bằng các phương pháp dân gian như chà lá trầu, cạo gió,…: Một số trẻ bị sốt xuất huyết xuất hiện những nốt đỏ dưới da (xuất huyết dưới da) là do hồng cầu thoát khỏi thành mạch máu, không thoát hẳn ra bên ngoài mà tích tụ dưới da. Do đó, việc điều trị bằng các phương pháp dân gian sẽ khiến trẻ bị tổn thương da nghiêm trọng hơn;
+Dành nhiều thời gian cho trẻ nghỉ ngơi, hồi sức: Sốt xuất huyết khiến trẻ cảm thấy khó chịu, mệt mỏi, mẹ nên để trẻ nghỉ ngơi nhiều hơn, giúp trẻ cảm thấy thoải mái, dễ chịu hơn.
+Tuy nhiên nếu tình trạng sức khỏe của bé không có dấu hiệu được cải thiện, thậm chí ngày càng nghiêm trọng hơn, bé có các biểu hiện bất thường như lờ đờ, đau bụng, nôn ói, tay chân lạnh, xuất huyết bất thường, mẹ cần đưa bé đến bệnh viện để được hỗ trợ điều trị.
+Trẻ có các triệu chứng sốt xuất huyết nhẹ có thể được điều trị tại nhà
+2. Điều trị tại cơ sở y tế
+Sốt xuất huyết thường kéo dài trong 7 ngày và hầu hết bệnh có thể tự khỏi qua quá trình điều trị tại nhà. Tuy nhiên, một số trường hợp có thể xuất hiện các biến chứng nặng (chiếm tỷ lệ từ 3-5%). Do đó, nếu trẻ sơ sinh bị sốt xuất huyết hoặc nếu tình trạng sức khỏe của trẻ không được cải thiện, các triệu chứng dần trở nên nặng hơn, mẹ nên đưa bé đến bệnh viện điều trị càng sớm càng tốt.
+Để khắc phục tình trạng mất nước nghiêm trọng ở trẻ, bác sĩ sẽ cho truyền dịch truyền tĩnh mạch (IV-Intravenous) và chất điện giải cho bé. trong quá trình điều trị, bác sĩ có thể cho trẻ uống thuốc giảm đau, hạ sốt theo liều lượng nhất định. Tuy nhiên, nếu bé bị xuất huyết nghiêm trọng, bác sĩ sẽ phải truyền tiểu cầu để giữ an toàn cho bé.
+Khi tình hình sức khỏe của trẻ đã được cải thiện, các triệu chứng dần biết mất hoặc nhẹ hơn, dễ kiểm soát hơn, mẹ có thể yêu cầu cho bé xuất viện.
+Trẻ bị sốt xuất huyết cần được đưa đến bệnh viện điều trị ngay khi tình trạng sức khỏe của bé ngày càng xấu hơn
+Biến chứng sốt xuất huyết trẻ sơ sinh
+Sốt xuất huyết ở trẻ sơ sinh nếu không được phát hiện sớm và điều trị đúng cách, bệnh sẽ chuyển biến nhanh chóng và có thể dẫn đến sốt xuất huyết Dengue và gây ra các biến chứng nghiêm trọng như:
+Sốt cao co giật;
+Bại não;
+Xuất hiện các cục máu đông;
+Tổn thương gan, phổi, tim;
+Hội chứng sốc do sốt xuất huyết.
+Cách phòng tránh trẻ sơ sinh bị sốt xuất huyết
+Cách phòng tránh sốt xuất huyết ở trẻ sơ sinh hiệu quả nhất là ngăn không cho trẻ bị muỗi đốt. Để thực hiện được điều này, mẹ có thể tham khảo một số biện pháp sau:
+Sử dụng các màn chắn, rèm che ở cửa ra vào, cửa sổ và đóng kỹ các khe hở;
+Tránh để trẻ chơi bên ngoài quá lâu;
+Thoa kem chống muỗi dành cho trẻ sơ sinh;
+Cho trẻ mặc quần áo dài, đi giày, tất và được che chắn cẩn thận khi ra ngoài;
+Dùng thuốc diệt côn trùng, thuốc xịt mũi;
+Cho trẻ nằm trong màn chống muỗi;
+Dùng xả, hương thảo để đuổi muỗi;
+Tránh cho trẻ đến những khu vực nhiều muỗi và đã có nhiều ca sốt xuất huyết;
+Không để nước đọng trong các chai, lọ, chậu cây;
+Đậy kỹ các thùng chứa nước;
+Làm rạch cống rãnh, máng nước;
+Phát quang bụi rậm, cắt cỏ quanh nhà;
+Dọn dẹp nhà cửa ngăn nắp, gọn gàng.
+Bảo vệ trẻ khỏi muỗi vằn là cách ngăn ngừa sốt xuất huyết tốt nhất
+Sốt xuất huyết ở trẻ sơ sinh kéo dài bao lâu?
+Các triệu chứng sốt xuất huyết ở trẻ sơ sinh thường sẽ bắt đầu xuất hiện sau khoảng từ 4 ngày đến 2 tuần kể từ khi bé bị muỗi vằn chứa virus sốt xuất huyết đốt. Thông thường, các triệu chứng nhẹ và sốt có thể kéo dài từ 2 đến 7 ngày và sau khi hạ sốt, một số triệu chứng có thể trở nên nghiêm trọng hơn. Bên cạnh các vấn đề về tiêu hóa như buồn nôn, nôn, đau bụng dữ dội,… bé có thể xuất hiện tình trạng mất nước nghiêm trọng, tụt huyết áp và xuất huyết bất thường. Lúc này, mẹ cần đưa bé đến bệnh viện để được hỗ trợ điều trị ngay lập tức để giảm nguy cơ tử vong và khả năng xuất hiện các biến chứng nguy hiểm cho trẻ.
+Để hạn chế tình trạng sốt xuất huyết ở trẻ sơ sinh, bố mẹ nên chủ động thực hiện tốt các biện pháp phòng tránh và nên trang bị cho mình các kiến thức về bệnh. Đặc biệt, khi trẻ mắc bệnh, thay vì lo lắng, bố mẹ cần phải thật bình tĩnh, tuân thủ theo đúng các chỉ định của bác sĩ và báo ngay cho bác sĩ biết về các biểu hiện bất thường của bé để có phương pháp cứu chữa kịp thời.
+Giản Đơn

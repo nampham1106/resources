@@ -1,0 +1,88 @@
+# doc_id = health_disease_2187
+# url = https://tamanhhospital.vn/thuoc-dieu-tri-viem-tuyen-giap/
+# date = 29/11/2023
+5 nhóm thuốc điều trị viêm tuyến giáp thường dùng và lưu ý quan trọng
+Viêm tuyến giáp thường không đe dọa đến tính mạng. Tuy nhiên, nếu không được phát hiện và điều trị kịp thời, cơn bão tuyến giáp có thể xảy ra. Vậy có các nhóm thuốc điều trị viêm tuyến giápnào thường được dùng? Nên lưu ý gì khi sử dụng thuốc?
+Bài viết dưới đây được tư vấn chuyên môn bởi BS.CKII Trương Thị Vành Khuyên, khoa Nội tiết – Đái tháo đường, BVĐK Tâm Anh TPHCM.
+Mục lụcViêm tuyến giáp là bệnh gì?Bảng tóm tắt về các loại viêm giápĐiều trị viêm tuyến giápCác nhóm thuốc điều trị viêm tuyến giáp thông dụngLưu ý khi sử dụngthuốc điều trị viêm tuyến giápPhòng tránh viêm tuyến giápViêm tuyến giáp là bệnh gì?
+Tuyến giáp là một phần của hệ thống nội tiết, tuyến giáp kiểm soát nhiều chức năng quan trọng của cơ thể bằng cách sản xuất và giải phóng một lượng hormone giáp cần thiết cho nhu cầu cơ thể. Các bệnh về tuyến giáp xảy ra do nhiều nguyên nhân và có các triệu chứng khác nhau. Viêm giáp là một nhóm bệnh tuyến giáp đặc trưng bằng tình trạng viêm của mô giáp do phản ứng tự miễn, do siêu vi, vi trùng, do thuốc, xạ trị,… (1)
+Hầu hết các loại viêm tuyến giáp đều có ba giai đoạn, bao gồm:
+Giai đoạn cường giáp giả: trong giai đoạn này, tuyến giáp bị viêm, tế bào tuyến giáp bị tổn thương dẫn đến rò rỉ quá nhiều hormone vào máu, gây ra tình trạng nhiễm độc giáp tạm thời.
+Giai đoạn suy giáp: sau khi bị viêm, tế bào tuyến giáp sẽ chết đi, số lượng tế bào tuyến giáp còn sống sót sẽ không sản xuất đủ hormone tuyến giáp để cung cấp cho cơ thể, dẫn đến thiếu hormone tuyến giáp, người bệnh sẽ bị suy giáp. Giai đoạn suy giáp có thể thoáng qua. Tuy nhiên, sau nhiều đợt viêm giáp, tế bào tuyến giáp mất chức năng quá nhiều, số lượng tế bào khỏe mạnh còn lại không đủ để duy trì chức năng tuyến giáp, người bệnh sẽ bị suy giáp vĩnh viễn.
+Giai đoạn bình giáp: ở giai đoạn này, nồng độ hormone tuyến giáp ở mức bình thường. Giai đoạn này có thể đến sau giai đoạn nhiễm độc giáp trước khi chuyển sang giai đoạn suy giáp hoặc có thể đến ở giai đoạn cuối sau khi tuyến giáp đã hồi phục sau tình trạng viêm và có thể duy trì khả năng sản xuất hormone giáp bình thường.
+Bảng tóm tắt về các loại viêm giáp
+LOẠI VIÊM GIÁP
+NGUYÊN NHÂN
+ĐẶC ĐIỂM LÂM SÀNG
+CHẨN ĐOÁN
+DIỄN BIẾN ĐIỀU TRỊ
+Viêm giáp Hashimoto
+Kháng thể kháng giáp, bệnh tự miễn
+Suy giáp, hiếm gặp nhiễm độc giáp thoáng qua
+Xét nghiệm chức năng tuyến giáp, xét nghiệm kháng thể, siêu âm tuyến giáp
+Suy giáp thường là vĩnh viễn
+Viêm giáp bán cấp (viêm giáp de Quervain)
+Nguyên nhân có thể do virus
+Đau tuyến giáp, nhiễm độc giáp, sau đó là suy giáp
+Xét nghiệm chức năng tuyến giáp, tốc độ máu lắng, đo độ hấp thu iod phóng xạ, siêu âm tuyến giáp
+Phục hồi chức năng tuyến giáp bình thường trong vòng 12-18 tháng, 5% khả năng bị suy giáp vĩnh viễn
+Viêm giáp sau sinh
+Kháng thể kháng giáp, bệnh tự miễn
+Nhiễm độc giáp sau đó là suy giáp
+Xét nghiệm chức năng tuyến giáp, xét nghiệm kháng thể, đo độ hấp thu iod phóng xạ (chống chỉ định nếu phụ nữ suy giáp đang cho con bú)
+Phục hồi chức năng tuyến giáp bình thường trong vòng 12-18 tháng, 20% khả năng bị suy giáp vĩnh viễn
+Viêm giáp thầm lặng, viêm giáp không đau
+Kháng thể kháng giáp, bệnh tự miễn
+Nhiễm độc giáp sau đó là suy giáp
+Xét nghiệm chức năng tuyến giáp, xét nghiệm kháng thể, đo độ hấp thu iốt phóng xạ, siêu âm tuyến giáp
+Phục hồi chức năng tuyến giáp bình thường trong vòng 12-18 tháng, 20% khả năng bị suy giáp vĩnh viễn
+Viêm giáp cấp tính, viêm giáp sinh mủ
+Chủ yếu do vi khuẩn
+Đau tuyến giáp, bệnh có thể diễn biến nhiễm trùng lan rộng toàn thân, có thể suy giáp nhẹ sau đó
+Xét nghiệm chức năng tuyến giáp, hấp thu iod phóng xạ, sinh thiết chọc hút bằng kim nhỏ,…
+Điều trị nguyên nhân nhiễm trùng, có thể gây bệnh nặng
+Viêm giáp do thuốc
+Thuốc bao gồm: amiodarone, lithium, interferon, cytokine
+Nhiễm độc giáp hoặc suy giáp
+Xét nghiệm chức năng tuyến giáp, xét nghiệm kháng thể
+Thường diễn tiến trong thời gian dùng các thuốc này, hiếm khi phải ngưng thuốc
+Viêm giáp do xạ
+Sau khi điều trị bằng iốt phóng xạ đối với bệnh cường giáp hoặc xạ trị ngoài đối với một số bệnh ung thư vùng đầu mặt cổ
+Thường gây suy giáp, thỉnh thoảng nhiễm độc giáp
+Xét nghiệm chức năng tuyến giáp
+Nhiễm độc giáp là thoáng qua, suy giáp thường là vĩnh viễn
+Viêm giáp Riedel
+Xơ hóa cấu trúc tuyến giáp
+Chèn ép tại chỗ, cảm giác căng ở cổ, khó thở, khó nuốt, khàn tiếng, ho
+Siêu âm, xét nghiệm chức năng tuyến giáp.
+30% suy giáp, hiếm gặp cường giáp
+Điều trị viêm tuyến giáp
+Có thể kiểm soát bệnh viêm tuyến giáp nếu người bệnh được chẩn đoán và điều trị kịp thời. Người bệnh nên tuân thủ đúng theo chỉ định của bác sĩ về sử dụng thuốc điều trị bệnh, kết hợp chế độ ăn uống điều độ, đồng thời theo dõi định kỳ để ổn định sức khỏe.
+Tùy thuộc vào thể viêm tuyến giáp, triệu chứng và giai đoạn của bệnh mà bác sĩ sẽ chỉ định người bệnh sử dụng các loại thuốc khác nhau, có thể kết hợp hoặc sử dụng đơn lẻ. Đa số bệnh nhân viêm giáp được theo dõi định kỳ. Các can thiệp y khoa sẽ được thực hiện khi cần thiết. (2)
+Bệnh nhân ở các giai đoạn cường giáp, bình giáp, suy giáp thoáng qua thường được điều trị triệu chứng. Bệnh nhân suy giáp vĩnh viễn được điều trị bằng hormone giáp thay thế suốt đời. Bệnh nhân viêm giáp cấp do vi trùng sinh mủ cần dùng kháng sinh để khống chế nhiễm trùng.
+Viêm tuyến giáp do thuốc thường kéo dài trong thời gian dùng các thuốc (để điều trị các bệnh khác). Bác sĩ có thể chỉ định bạn sử dụng một loại thuốc khác có tác dụng tương tự để hạn chế tình trạng viêm tuyến giáp. Nếu cần thiết, bác sĩ có thể kê đơn levothyroxine để sử dụng trong khi bạn có thể tiếp tục dùng loại thuốc gây viêm giáp này vì không có thuốc thay thế. Tình trạng viêm giáp sẽ thoái lui khi ngưng loại thuốc này.
+Một số trường hợp đặc biệt, khi bệnh nhân viêm giáp có tuyến giáp phát triển thành bướu giáp có kích thước lớn gây chèn ép vùng cổ, làm người bệnh khó thở, khó nuốt, có thể cần phẫu thuật để giải áp,… Viêm giáp Riedel thường cần dùng đến phẫu thuật.
+Tùy thuộc vào thể viêm tuyến giáp, triệu chứng và giai đoạn của bệnh mà bác sĩ sẽ chỉ định người bệnh sử dụng các loại thuốc khác nhau, có thể kết hợp hoặc sử dụng đơn lẻ.
+Các nhóm thuốc điều trị viêm tuyến giáp thông dụng
+Tùy vào tình trạng và mức độ bệnh mà bác sĩ sẽ cho người bệnh sử dụng các loại thuốc khác nhau. Dưới đây là những nhóm thuốc điều trị viêm tuyến giáp phổ biến:
+Thuốc điều trị triệu chứng đau: Cơn đau do viêm tuyến giáp truyền nhiễm cấp tính và viêm tuyến giáp bán cấp thường có thể được kiểm soát bằng thuốc chống viêm không steroid (NSAID) như aspirin hoặc ibuprofen, paracetamol. Một vài trường hợp đặc biệt khi người bệnh quá đau có thể cần điều trị bằng corticosteroid.
+Các loại thuốc giảm nhịp tim: nhóm thuốc ức chế beta có thể cần thiết trong giai đoạn cường giáp. Tuy nhiên, do các thuốc này có nhiều tác dụng phụ và liều lượng, thời gian cần dùng tùy theo mỗi cá thể nên người bệnh cần được bác sĩ cân nhắc và chỉ định khi sử dụng thuốc.
+Hormone giáp: Khi người bệnh đã được xác định suy giáp vĩnh viễn, bệnh nhân sẽ được chỉ định hormone giáp. Các giai đoạn suy giáp nặng cũng có thể cần dùng hormone giáp. Tuy nhiên hormone giáp nếu dùng không đúng chỉ định hoặc không đúng liều lượng có thể gây ra nhiều hậu quả cho người bệnh, nhất là người có bệnh tim mạch, tuyệt đối không tự mua thuốc uống. Liều lượng thuốc cần được tính toán cân nhắc kỹ càng, cần được bác sĩ có chuyên môn về Nội tiết điều chỉnh liều cho người bệnh.
+Thuốc kháng sinh: bệnh nhân viêm giáp do vi trùng sinh mủ cần được sử dụng kháng sinh để khống chế nhiễm trùng, tránh tình trạng áp xe hóa và nhiễm trùng lan rộng đến các khu vực lân cận. Nếu áp xe hình thành trên tuyến giáp, bác sĩ có thể cần phải hút dịch và mủ bằng chọc hút bằng kim nhỏ. Tình trạng nhiễm trùng nặng hoặc bệnh nhân cao tuổi, có suy giảm miễn dịch, nhiều bệnh nền như xơ gan, suy thận, đái tháo đường nên chỉ định kháng sinh tĩnh mạch mạnh để khống chế nhanh bệnh viêm giáp do vi trùng sinh mủ.
+Các điều trị hỗ trợ khác: trong một số tình huống người bệnh quá đau, ăn uống kém (thường gặp trong viêm giáp do vi trùng sinh mủ, người bệnh cần được hỗ trợ dinh dưỡng, bù dịch và điện giải đường tĩnh mạch.
+Cơn đau do viêm tuyến giáp truyền nhiễm cấp tính và viêm tuyến giáp bán cấp thường có thể được kiểm soát bằng thuốc chống viêm không steroid (NSAID) như aspirin hoặc ibuprofen, paracetamol.
+>>>Xem thêm:Viêm tuyến giáp có nguy hiểm không?
+Lưu ý khi sử dụngthuốc điều trị viêm tuyến giáp
+Người bệnh sử dụng thuốc điều trị viêm tuyến giáp theo đúng chỉ định từ bác sĩ.
+Sử dụng thuốc đúng liều lượng: Levothyroxine thường được dùng bằng đường uống. Levothyroxin đường tĩnh mạch chỉ được sử dụng trong bệnh viện. Liều lượng thuốc cần được bác sĩ điều chỉnh cẩn thận dựa trên nhu cầu và phản ứng của từng bệnh nhân và có thể thay đổi theo thời gian, độ tuổi và phản ứng của cơ thể. Người bệnh suy giáp cần tái khám để kiểm tra các chỉ số TSH, T3, T4. Qua các chỉ số này bác sĩ sẽ điều chỉnh thuốc điều trị phù hợp cho từng giai đoạn của bệnh. Vì vậy, người bệnh không bao giờ nên tự thay đổi liều lượng thuốc điều trị bệnh lý tuyến giáp để hạn chế xảy ra các tác dụng phụ nguy hiểm, ảnh hưởng đến sức khỏe và tính mạng người bệnh.
+Uống thuốc đúng giờ: nội tiết tố tuyến giáp được hấp thu chủ yếu ở hồi tràng và hỗng tràng, một lượng nhỏ được hấp thu ở tá tràng. Thuốc sẽ được cơ thể hấp thu nhanh hơn khi đói bụng, với mức hấp thu cao nhất là 2 giờ sau khi sử dụng. Tuy nhiên, thuốc cũng có thể mất nhiều thời gian hơn để hấp thu nếu dùng cùng với các loại thuốc, chất bổ sung hoặc thực phẩm khác. Vì vậy, theo hướng dẫn của Hiệp hội Tuyến giáp Hoa Kỳ, người bệnh nên dùng levothyroxine ít nhất 30 – 60 phút trước khi ăn sáng hoặc trước khi đi ngủ (ít nhất 3 – 4 giờ sau bữa tối). Không dùng levothyroxine trong vòng 4 giờ sau khi dùng các sản phẩm có thể chứa sắt hoặc canxi.
+Theo dõi tác dụng phụ của thuốc: Khi liều hormone giáp vượt quá nhu cầu cần thiết, một số người bệnh có thể gặp các triệu chứng như đánh trống ngực, nhịp tim nhanh, loạn nhịp tim, sụt cân, hồi hộp, dễ kích thích, co cứng bụng, tiêu chảy, run, đau đầu, mất ngủ, vã mồ hôi, sợ nóng,… Vì vậy, người bệnh cần thông báo cho bác sĩ nếu gặp bất kỳ vấn đề nào khi dùng hormone tuyến giáp.
+Chú ý tương tác thuốc: Dùng thuốc tuyến giáp cùng lúc với các thuốc khác có thể gây ra một số phản ứng bất lợi, chẳng hạn như giảm hấp thu hoặc tăng bài tiết levothyroxine hoặc ảnh hưởng đến khả năng liên kết của levothyroxin trong máu. Một số loại thuốc phổ biến như thuốc ức chế bơm proton (PPI), statin, sắt, canxi, magie, raloxifene, estrogen,… có thể cản trở quá trình hấp thu hormone tuyến giáp. Hệ quả là người bệnh không được kiểm soát tốt suy giáp. Thuốc hormone tuyến giáp không nên dùng cùng lúc với thuốc kháng acid dạ dày, nếu người bệnh cần dùng thì nên uống 2 loại thuốc cách nhau 4 giờ.
+Xây dựng chế độ ăn uống: một trong những tác dụng của levothyroxine là kích thích tăng cường trao đổi chất trong cơ thể, từ đó tăng giải phóng năng lượng và sinh nhiệt, do đó nhiều người bệnh cảm thấy nóng trong người, sụt cân, hồi hộp, nhịp tim nhanh,… Người bệnh suy giáp cần ăn uống đầy đủ, đảm bảo cơ thể được cung cấp đủ nước, ăn nhiều các loại rau xanh,…
+Người bệnh cần lưu ý khi sử dụng các loại thuốc khác trong quá trình điều trị viêm giáp.
+>>>Có thể bạn chưa biết:Viêm tuyến giáp có phải mổ không? Khi nào nên tiến hành?
+Phòng tránh viêm tuyến giáp
+Dù hiện nay vẫn chưa tìm được biện pháp cụ thể phòng ngừa hoàn toàn bệnh viêm tuyến giáp, tuy nhiên người bệnh có thể phát hiện bệnh sớm bằng cách khám sức khỏe định kỳ. Nếu người bệnh cần điều trị bằng iốt phóng xạ hoặc xạ trị, hãy tham khảo ý kiến của bác sĩ về nguy cơ mắc bệnh viêm tuyến giáp. Trường hợp thuốc theo toa bạn đang dùng gây viêm tuyến giáp, người bệnh nên trao đổi với bác sĩ về nguy cơ này và liệu bạn có nên ngừng dùng thuốc hay không.
+BSCKI Đỗ Tiến Vũ, khoa Nội tiết – Đái tháo đường, BVĐK Tâm Anh TP.HCM đang tư vấn cho người bệnh về tình trạng viêm tuyến giáp.
+Khoa Nội tiết – Đái tháo đường, BVĐK Tâm Anh TP.HCM là nơi quy tụ các chuyên gia đầu ngành, bác sĩ giỏi chuyên môn cùng nhiều năm kinh nghiệm trong việc thăm khám, chẩn đoán, tư vấn và điều trị các bệnh nội tiết. Bệnh viện được trang bị nhiều thiết bị máy móc hiện đại chính hãng, đảm bảo mang đến những dịch vụ chất lượng, an toàn và hiệu quả, giúp người bệnh nhanh chóng điều trị các bệnh liên quan đối rối loạn nội tiết, đái tháo đường, tuyến giáp, tuyến yên, suy thượng thận,…
+Người bệnh nên sử dụng thuốc điều trị viêm tuyến giáp theo đúng chỉ định của bác sĩ, không nên tự ý ngừng sử dụng thuốc hoặc tăng liều. Ngoài ra, bạn nên thường xuyên tập luyện thể dục, xây dựng thực đơn dinh dưỡng kết hợp cùng nghỉ ngơi điều độ để nâng cao sức đề kháng, chống lại bệnh tật.

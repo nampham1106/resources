@@ -1,0 +1,108 @@
+# doc_id = health_disease_1096
+# url = https://tamanhhospital.vn/giai-doan-ung-thu-vom-hong/
+# date = 03/01/2023
+5 giai đoạn ung thư vòm họng: Cách đánh giá và chẩn đoán chi tiết
+Giai đoạn ung thư vòm họng được sử dụng để xác định mức độ lan rộng của bệnh, từ đó giúp lựa chọn phương pháp điều trị phù hợp và đánh giá được tiên lượng của bệnh.
+Bác sĩ Trần Vương Thảo Nghi – Trưởng khoa Ung bướu, BVĐK Tâm Anh TP.HCM cho biết, có 5 giai đoạn ung thư vòm họng, từ giai đoạn 0 đến IV. Tùy vào giai đoạn ung thư vòm họng cũng như tình trạng sức khỏe của từng bệnh nhân, bác sĩ sẽ quyết định việc lựa chọn phương pháp điều trị phù hợp (cá thể hóa phương pháp điều trị cho từng bệnh nhân). Tiên lượng sống sau 5 năm ở các giai đoạn ung thư vòm họng là khác nhau. Ngoài việc giúp cho bác sĩ chọn lựa phương pháp điều trị phù hợp cho từng bệnh nhân, việc xác định giai đoạn bệnh và đánh giá tiên lượng bệnh cũng giúp bệnh nhân và thân nhân chủ động xây dựng kế hoạch cho tương lai.
+Mục lụcUng thư vòm họng là gì?Các giai đoạn ung thư vòm họngGiải thích về phân loại T, N, M trong chẩn đoán ung thư vòm họngCác giai đoạn của ung thư vòm họngGiai đoạn 0 (Tis N0 M0):Giai đoạn I (T1 N0 M0):Giai đoạn II: bao gồm các trường hợp sauGiai đoạn III: bao gồm các trường hợp sauGiai đoạn IV: bao gồm các trường hợp sauTriệu chứng của bệnh ung thư vòm họngTiên lượng sống sau 5 năm của các giai đoạn ung thư vòm họngChẩn đoán ung thư vòm họngUng thư vòm họng là gì?
+Ung thư vòm họng là bệnh lý ác tính phát sinh từ các tế bào biểu mô lót vòm họng.
+Các giai đoạn ung thư vòm họng
+Bác sĩ Nghi cho biết, ngoài việc chẩn đoán bệnh ung thư vòm họng, bác sĩ cần đánh giá mức độ lan rộng của bệnh (còn được gọi là xác định giai đoạn bệnh) để đưa ra phương pháp điều trị phù hợp.
+Giai đoạn sớm nhất của ung thư vòm họng là giai đoạn 0, còn được gọi là ung thư biểu mô tại chỗ (Tis). Các giai đoạn khác trải dài từ I đến IV. Riêng giai đoạn IV được chia nhỏ hơn thành IVA và IVB. Giai đoạn sớm tương ứng với bệnh khu trú tại chỗ tại vùng chứ chưa lan rộng và chưa di căn xa.
+Mỗi giai đoạn ung thư vòm họng sẽ có phương pháp điều trị khác nhau
+Giải thích về phân loại T, N, M trong chẩn đoán ung thư vòm họng
+Hệ thống TNM của Ủy ban liên hợp về Ung thư Hoa Kỳ (AJCC) được sử dụng trong đánh giá giai đoạn bệnh ung thư vòm họng. (1)
+Ý nghĩa của TNM như sau:
+T (Tumor) = khối u: mô tả kích thước và tính chất của khối u.
+N (Node) = hạch: mô tả tình trạng di căn của bệnh ung thư đến các hạch vùng.
+M (Metastasis) = di căn: mô tả tình trạng di căn của bệnh ung thư đến các bộ phận khác trong cơ thể.
+T (Tumor) = khối u
+T kết hợp với chữ cái hoặc số (0 đến 4) được sử dụng để mô tả kích thước và tính chất của khối u.
+TX: Không thể đánh giá được khối u nguyên phát.
+Tis: Ung thư biểu mô tại chỗ. Tế bào ung thư chỉ nằm ở lớp tế bào trên cùng bên trong vòm họng và chưa phát triển sâu hơn.
+T0: Không tìm thấy bằng chứng về khối u, nhưng có hạch cổ dương tính với EBV.
+T1: Khối u nằm giới hạn trong vòm họng. Khối u có thể đã lan ra hầu họng (một phần của cổ họng ở phía sau miệng) và/hoặc khoang mũi nhưng không xa hơn vùng họng.
+T2: Khối u đã lan đến vùng họng nhưng không xa hơn.
+T3: Khối u đã lan đến các cấu trúc xương quanh vùng vòm (xương nền sọ, xương cột sống cổ vùng vòm, xương chân bướm) và/hoặc các xoang cạnh mũi.
+T4: Khối u đã lan đến các cấu trúc bên trong sọ, xâm lấn các dây thần kinh nội, lan xuống hạ họng, ổ mắt, tuyến mang tai và/hoặc xâm lấn phần mềm bên ngoài cơ chân bướm ngoài.
+N (Node) = hạch
+Mô tả tình trạng di căn của bệnh ung thư đến các hạch vùng. (2)
+Nx: Không đánh giá được các hạch vùng.
+N0: Không di căn hạch vùng.
+N1: Di căn một hay nhiều hạch cổ cùng bên kích thước hạch ≤6cm, trên hố thượng đòn và/hoặc một hoặc nhiều hạch cạnh hầu cùng bên hoặc hai bên với kích thước hạch ≤6cm.
+N2: Di căn hạch cổ hai bên, kích thước hạch ≤6cm, trên hố thượng đòn.
+N3: Di căn hạch cổ cùng bên hoặc cả 2 bên, kích thước hạch >6cm và/hoặc di căn hạch trong hố thượng đòn.
+M (Metastasis) = di căn
+Mô tả tình trạng di căn của bệnh ung thư đến các bộ phận khác trong cơ thể, hay còn được gọi là di căn xa.
+M0: Ung thư chưa di căn sang các bộ phận khác của cơ thể.
+M1: Ung thư đã di căn sang các bộ phận khác của cơ thể.
+Các giai đoạn của ung thư vòm họng
+Giai đoạn 0 (Tis N0 M0):
+Khối u chỉ nằm ở lớp tế bào trên cùng bên trong vòm họng và chưa phát triển sâu hơn (Tis). (3)
+Ung thư chưa di căn đến các hạch (N0), cũng chưa di căn đến các bộ phận xa của cơ thể (M0).
+Xem thêm: Ung thư vòm họng giai đoạn 0: phát hiện sớm, chữa khỏi cao.
+Giai đoạn I (T1 N0 M0):
+Khối u nằm giới hạn trong vòm họng. Khối u có thể đã lan ra hầu họng (một phần của cổ họng ở phía sau miệng) và/hoặc khoang mũi nhưng không xa hơn vùng họng (T1).
+Ung thư chưa di căn đến các hạch (N0), cũng chưa di căn đến các bộ phận xa của cơ thể (M0).
+Giai đoạn II: bao gồm các trường hợp sau
+T0 N1 M0 hoặc T1 N1 M0:
+Khối u nằm giới hạn trong vòm họng. Khối u có thể đã lan ra hầu họng (một phần của cổ họng ở phía sau miệng) và/hoặc khoang mũi nhưng không xa hơn vùng họng (T1).
+Hoặc không thấy khối u trong vòm họng, nhưng ung thư được tìm thấy trong các hạch ở cổ và dương tính với virus Epstein-Barr (EBV) (T0).
+Ung thư đã di căn đến một hoặc nhiều hạch ở một bên cổ, hoặc di căn đến các hạch cạnh hầu cùng bên. Trong cả hai trường hợp, không có hạch nào >6cm theo chiều ngang (N1).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+T2 N0 M0 hoặc T2 N1 M0:
+Khối u đã lan đến vùng họng nhưng không xa hơn (T2).
+Ung thư chưa di căn đến các hạch (N0); hoặc đã di căn đến một hoặc nhiều hạch ở một bên cổ, hoặc di căn đến các hạch cạnh hầu cùng bên, không có hạch nào lớn hơn 6 cm theo chiều ngang (N1).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+Giai đoạn III: bao gồm các trường hợp sau
+T0 N2 M0 hoặc T1 N2 M0:
+Khối u nằm giới hạn trong vòm họng. Khối u có thể đã lan ra hầu họng (một phần của cổ họng ở phía sau miệng) và/hoặc khoang mũi nhưng không xa hơn vùng họng (T1).
+Hoặc không thấy khối u trong vòm họng, nhưng ung thư được tìm thấy trong các hạch ở cổ và dương tính với virus Epstein-Barr (EBV) (T0).
+Di căn hạch cổ hai bên, kích thước hạch ≤6cm, trên hố thượng đòn (N2).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+T2 N2 M0:
+Khối u đã lan đến vùng họng nhưng không xa hơn (T2).
+Di căn hạch cổ hai bên, kích thước hạch ≤6cm, trên hố thượng đòn (N2).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+T3 N0 M0, hoặc T3 N1 M0, hoặc T3 N2 M0:
+Khối u đã lan đến các cấu trúc xương quanh vùng vòm (xương nền sọ, xương cột sống cổ vùng vòm, xương chân bướm) và/hoặc các xoang cạnh mũi.
+Ung thư chưa di căn đến các hạch (N0); hoặc đã di căn đến một hoặc nhiều hạch ở một bên cổ, hoặc di căn đến các hạch cạnh hầu cùng bên, không có hạch nào >6cm theo chiều ngang (N1); hoặc di căn hạch cổ hai bên với kích thước hạch ≤6cm, trên hố thượng đòn (N2).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+Giai đoạn IV: bao gồm các trường hợp sau
+T4 N0 M0, hoặc T4 N1 M0, hoặc T4 N2 M0:
+Khối u đã lan đến các cấu trúc bên trong sọ, xâm lấn các dây thần kinh nội, lan xuống hạ họng, ổ mắt, tuyến mang tai và/hoặc xâm lấn phần mềm bên ngoài cơ chân bướm ngoài (T4).
+Ung thư chưa di căn đến các hạch (N0); hoặc đã di căn đến một hoặc nhiều hạch ở một bên cổ, hoặc di căn đến các hạch cạnh hầu cùng bên, không có hạch nào >6cm theo chiều ngang (N1); hoặc di căn hạch cổ hai bên với kích thước hạch ≤6cm, trên hố thượng đòn (N2).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+T bất kỳ N3 M0:
+Bất kỳ giai đoạn T nào.
+Di căn hạch cổ cùng bên hoặc cả 2 bên, kích thước hạch >6cm và/hoặc di căn hạch trong hố thượng đòn (N3).
+Ung thư chưa di căn đến các bộ phận xa của cơ thể (M0).
+T bất kỳ N bất kỳ M1:
+Bất kỳ giai đoạn T nào.
+Bất kỳ giai đoạn N nào.
+Ung thư đã di căn đến các bộ phận xa của cơ thể (M1).
+Triệu chứng của bệnh ung thư vòm họng
+Theo bác sĩ Nghi, bệnh nhân có thể có một hoặc kết hợp nhiều dấu hiệu ung thư vòm họng khác nhau, tùy theo vị trí của khối u cũng như giai đoạn bệnh:
+Các triệu chứng ở mũi: nghẹt mũi, chảy nước mũi có lẫn nhầy máu, chảy dịch mũi sau; khàn tiếng.
+Các triệu chứng về tai: giảm thính lực, đau tai, ù tai, viêm tai giữa.
+Các triệu chứng do tổn thương dây thần kinh: nhìn đôi.
+Nổi hạch ở cổ, có thể kèm theo sưng đau hoặc không.
+Các triệu chứng do di căn xa: sụt cân, chán ăn, ăn kém ngon miệng, đau xương, ho khan kéo dài…
+Ù tai, giảm thính lực có thể là triệu chứng cảnh báo ung thư vòm họng
+Tiên lượng sống sau 5 năm của các giai đoạn ung thư vòm họng
+Bác sĩ Nghi cho biết, tỷ lệ sống còn của một loại bệnh ung thư, có thể được hiểu theo một cách đơn giản, là tỷ lệ phần trăm những người mắc loại bệnh ung thư đó vẫn còn sống trong một khoảng thời gian nhất định (thông thường là 5 năm) sau khi được chẩn đoán và điều trị. Tỷ lệ này không cho biết cụ thể một người mắc bệnh sẽ sống được bao lâu, nhưng có thể giúp hiểu rõ hơn về khả năng thành công của việc điều trị. Bệnh ung thư được chẩn đoán ở giai đoạn càng sớm, khả năng điều trị thành công khỏi hẳn bệnh càng cao, đồng nghĩa với tỷ lệ sống sót càng cao. (4)
+Tỷ lệ sống sau 5 năm của ung thư vòm họng được tiên lượng như sau:
+Ung thư tại chỗ: Tỷ lệ sống sau 5 năm là 81%
+Ung thư khu trú: Tỷ lệ là 73%
+Ung thư di căn xa: Tỷ lệ thường nhỏ hơn 40%
+Chẩn đoán ung thư vòm họng
+Nếu nghi ngờ bệnh ung thư vòm họng, bác sĩ có thể áp dụng một số phương pháp để chẩn đoán như:
+Hỏi tiền sử bệnh của bản thân bệnh nhân và gia đình, về lối sống, về dinh dưỡng cũng như các yếu tố khác có thể làm tăng nguy cơ phát triển ung thư vòm họng;
+Nội soi tai mũi họng;
+Chụp cắt lớp vi tính (CT) hoặc PET/CT;
+Chụp cộng hưởng từ (MRI);
+Sinh thiết qua nội soi tai mũi họng: một mẫu u hoặc tổn thương bất thường được bấm trong quá trình nội soi tai mũi họng, sau đó làm xét nghiệm tế bào mô học để giúp xác định bản chất lành hay ác tính, để chẩn đoán ung thư.
+Chụp xạ hình xương toàn thân
+Nên thăm khám sức khỏe định kỳ ít nhất mỗi năm một lần và tầm soát ung thư vòm họng nếu có các yếu tố nguy cơ hoặc các bất thường về tai mũi họng.
+Bác sĩ Thảo Nghi khuyến nghị, người dân sống trong các khu vực có yếu tố nguy cơ mắc ung thư vòm họng cao (Đông Nam Á, Trung Quốc và Việt Nam) nên nâng cao việc phòng ngừa bằng cách duy trì lối sống lành mạnh về dinh dưỡng và vận động thể lực; chủ động thăm khám sức khỏe định kỳ mỗi 6 tháng một lần hoặc mỗi năm một lần; chủ động tầm soát ung thư vòm họng nếu có các yếu tố nguy cơ hoặc các dấu hiệu nghi ngờ bất thường về tai mũi họng.
+Ung thư vòm họng giai đoạn đầu vẫn có tỷ lệ chữa khỏi tương đối khả quan. Đối với những bệnh nhân mắc ung thư vòm họng nên kiên trì điều trị theo phác đồ của bác sĩ chuyên khoa; không nên tin và thực hành theo các phương pháp điều trị chưa được khoa học kiểm chứng nhằm tránh mất tiền mà bệnh càng tăng nặng. Đối với mỗi giai đoạn ung thư vòm họng, mỗi bệnh nhân cụ thể đều cần có kế hoạch “chiến đấu” với bệnh tật khác nhau. Việc hiểu rõ về bệnh, giai đoạn bệnh cũng như phương pháp điều trị sẽ giúp cho bệnh nhân và thân nhân an tâm củng cố tinh thần để chiến đấu chống lại bệnh.

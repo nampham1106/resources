@@ -1,0 +1,83 @@
+# doc_id = health_disease_2869
+# url = https://tamanhhospital.vn/cum-a-h5n1-o-tre-em/
+# date = 13/09/2023
+Cúm A H5N1 ở trẻ em: Nguyên nhân, dấu hiệu và cách điều trị
+Cúm A H5N1 ở trẻ em là một bệnh lý nguy hiểm được gây ra bởi sự xâm nhập của virus. Bệnh có nguy cơ bùng phát thành dịch với tỷ lệ tử vong cao nếu không được kiểm soát chặt chẽ.
+Mục lụcCúm A H5N1 ở trẻ là gì?Nguyên nhân trẻ bị cúm A H5N1Tại sao trẻ em là đối tượng dễ nhiễm bệnh cúm A H5N1 nhất?Triệu chứng trẻ bị cúm A H5N1Chẩn đoán trẻ bị cúm A H5N1Điều trị cúm A H5N1 ở trẻ emPhòng ngừa trẻ em bị cúm A H5N1Biến chứng trẻ bị cúm A H5N1Cách chăm sóc trẻ em cúm A H5N1Cúm A H5N1 ở trẻ là gì?
+Cúm A H5N1 ở trẻ em (Cúm A (H5), cúm gia cầm) là một bệnh lý có chuyển biến nhanh chóng do virus H5N1 gây ra. Bệnh có nguy cơ xuất hiện biến chứng cao và tỷ lệ tử vong lên đến 60%. Trẻ em, thanh niên, người già, người có hệ miễn dịch suy giảm là những đối tượng dễ mắc bệnh và tử vong do cúm A H5N1. Theo thống kê của Trung tâm Y tế dự phòng TP.HCM, từ năm 2003 cho đến nay, nước ta đã ghi nhận 128 trường hợp cúm A H5N1 ở người, trong đó có 64 ca tử vong.
+Bệnh phát triển theo 3 giai đoạn:
+Giai đoạn ủ bệnh: Giai đoạn này thường sẽ kéo dài trong khoảng 2 – 8 ngày, thậm chí tới 17 ngày kể từ khi trẻ tiếp xúc với nguồn bệnh. Bệnh nhi thường không có bất kỳ dấu hiệu bất thường nào.
+Giai đoạn khởi phát: Trẻ sốt cao trên 38 độ và bắt đầu các triệu chứng tương tự như cảm cúm thông thường gồm ho khan, mệt mỏi, chán ăn, uể oải.
+Giai đoạn toàn phát: Các triệu chứng của cúm A H5N1 trở nên rõ ràng và nghiệm trọng hơn. Trẻ có thể đối mặt với các biến chứng nguy hiểm, thậm chí là tử vong nếu không được hỗ trợ y tế kịp thời.
+Hiện nay, bệnh vẫn chưa có thuốc đặc trị và vacxin phòng ngừa. Người bệnh cần phải thực hiện các biện pháp cách ly để giảm nguy cơ bệnh lây nhiễm nhanh chóng, tạo thành dịch cúm A H5N1. (1)
+Nguyên nhân trẻ bị cúm A H5N1
+Virus H5N1 là một chủng virus thuộc nhóm virus cúm A, họ Orthomyxoviridae. Theo nghiên cứu, chủng virus này có thể sống khá lâu ở môi trường bên ngoài: trong nhiều năm khi môi trường đóng băng, ít nhất 35 ngày khi môi trường có nhiệt độ 4 độ và ít nhất 6 ngày khi môi trường có nhiệt độ 37 độ. Virus chỉ có thể bị tiêu diệt ở môi trường có nhiệt độ từ 70 độ C trở lên.
+Hơn nữa, virus H5N1 có khả năng đột biến nhanh chóng, chứa gen của nhiều loài động vật khác nhanh nên chúng có thể tái tổ hợp từ nhiều gen virus và lây truyền trực tiếp từ người sang người. (2)
+Tuy nhiên, phần lớn trẻ bị lây nhiễm virus H5N1 chủ yếu được lây nhiễm trực tiếp từ gia cầm sang người do:
+Sống gần các trang trại gia cầm, thủy cầm;
+Ăn trứng, thịt gia cầm chưa nấu chín;
+Chạm trực tiếp và chất tiết từ gia cầm bị nhiễm bệnh;
+Thường xuyên lui tới những nơi bán trứng, gia cầm không đảm bảo vệ sinh.
+Virus H5N1 thường được lây truyền trực tiếp từ gia cầm sang người.
+Tại sao trẻ em là đối tượng dễ nhiễm bệnh cúm A H5N1 nhất?
+Trẻ em có sức đề kháng và hệ miễn dịch còn yếu, vì vậy, trẻ rất dễ bị nhiễm bệnh khi bị các loại virus có tính độc cao tấn công, điển hình như virus H5N1. Hơn nữa, trẻ đang trong giai đoạn phát triển, tìm hiểu và khám phá thế giới xung quanh nên chúng thường rất hiếu động và tò mò nhưng trẻ vẫn chưa có ý thức phòng bệnh cao như người lớn. Thêm vào đó, đa số trẻ rát yêu thích động vật, nên chúng sẽ rất thích chơi cùng các vật nuôi trong nhà, trong đó có gà, vịt,….Chính vì điều này, trẻ rất dễ bị nhiễm virus gây bệnh cúm A H5N1 khi môi trường hoặc vật nuôi có chứa virus.
+Ngoài ra, các loại thực phẩm, chế phẩm từ gia cầm, thủy cầm luôn là nguồn dưỡng chất bổ dưỡng cho sức khỏe và sự phát triển của trẻ. Vì vậy, bố mẹ thường cho trẻ ăn nhiều thức ăn được chế biến từ chúng nhưng trong một số trường hợp bố mẹ vô tình cho trẻ ăn phải sản phẩm có chứa virus, khiến trẻ mắc bệnh cúm A (H5).
+Triệu chứng trẻ bị cúm A H5N1
+Phần lớn các triệu chứng ban đầu của cúm A H5N1 khá giống với triệu chứng của cảm cúm thông thường, gồm:
+Sốt cao đột ngột (trên 38 độ C), sốt liên tục kèm rét run, mặt đỏ ửng;
+Đau rát họng;
+Ho, ho khan, ho có đờm khi bị bội nhiễm vi khuẩn;
+Đau đầu, cơn đau tăng dần khi bệnh nhân ho hoặc sốt cao hơn;
+Đau bụng, rối loạn tiêu hóa;
+Mỏi cơ, nhất là vùng chân, cánh tay và cổ;
+Đau quanh hốc mắt;
+Nổi hạch vùng cổ;
+Thở nhanh, khó thở;
+Trẻ sốt cao đột ngột do nhiễm virus H5N1.
+Chẩn đoán trẻ bị cúm A H5N1
+Để chẩn đoán cúm A H5N1 ở trẻ em, đầu tiên bác sĩ sẽ thực hiện thăm khám lâm sàng. Sau đó, bác sĩ sẽ yêu cầu trẻ thực hiện một số xét nghiệm để tìm kiếm sự hiện diện của H5N1. Một số bệnh phẩm có thể được sử dụng để xét nghiệm gồm: máu tĩnh mạch, dịch họng/mũi, dịch hút phế quản, mẫu sinh thiết phổi, phế quản hoặc mô phổi sau tử vong.
+Các kỹ thuật xét nghiệm thường được sử dụng trong chẩn đoán cúm A H5N1 gồm:
+Kỹ thuật di truyền phân tử RT-PCR;
+Kỹ thuật xác định trình tự chuỗi nucleotide Sequencing;
+Kỹ thuật ngăn ngưng kết hồng cầu HI;
+Kỹ thuật miễn dịch hấp phụ gắn mẹ ELISA;
+Kỹ thuật phân lập virus;
+Kỹ thuật trung hoa vi lượng.
+Điều trị cúm A H5N1 ở trẻ em
+Đối với các trường hợp trẻ bị cúm A H5N1, bệnh nhi cầu được chăm sóc và điều trị càng sớm càng tốt, tốt nhất trong vòng 48h kể từ khi bệnh có biểu hiện ra ngoài. Thuốc kháng virus oseltamivir (Tamiflu) và zanamivir (Relenza) là hai loại thuốc thường được bác sĩ kê đơn để làm giảm mức độ nguy hiểm của bệnh, từ đó, giảm nguy cơ tử cho trẻ.
+Ngoài ra, tùy thuộc vào tình trạng và mức độ nghiêm trọng của bệnh, bác sĩ có thể cho trẻ sử dụng thêm một số loại thuốc khác như thuốc hạ sốt (nếu trẻ sốt cao), thuốc kháng sinh, thuốc chống viêm corticosteroid (nếu bệnh có dấu hiệu động nhiễm khuẩn),….Trong trường hợp trẻ có dấu hiệu xuất hiện biến chứng, bác sĩ sẽ điều trị cúm A H5N1 kết hợp với điều trị biến chứng như hỗ trợ hô hấp, điều trị suy tạng,…
+Phòng ngừa trẻ em bị cúm A H5N1
+Để giảm nguy cơ mắc bệnh cúm A H5N1, bố mẹ cần chủ động thực hiện tốt các biện pháp phòng ngừa bệnh cho trẻ, gồm:
+Tập cho trẻ rửa tay thường xuyên, đúng cách với xà phòng khử khuẩn và nước sạch hoặc dung dịch rửa tay có chứa cồn trước khi ăn, sau khi đi vệ sinh, chơi đùa, nhất là sau khi tiếp xúc với gia cầm, thủy cầm.
+Chỉ cho trẻ ăn các thức ăn được làm từ gia cầm như trứng, thịt,… có nguồn gốc rõ ràng, đảm bảo an toàn vệ sinh thực phẩm.
+Tuyệt đối không cho trẻ ăn thịt gia cầm hay các sản phẩm được làm từ gia cầm ốm, chết không rõ nguyên nhân.
+Thức ăn cho trẻ cần được nấu chín, nhất là thức ăn được chế biến từ các loại gia cầm, thủy cầm.
+Không cho trẻ tham gia hoặc tiếp xúc gần với các loại chim, gia cầm khi dịch bệnh cúm A H5N1 đang có dấu hiệu bùng phát.
+Hạn chế cho trẻ đến những nơi đông người, nhất là những khu vực đang được cảnh báo có dịch bệnh.
+Đối với những gia đình có chăn nuôi gia cầm, thủy sản, bố mẹ cần tuân thủ đúng các quy định về tiêm phòng vacxin cúm A H5N1 cho vật nuôi.
+Đối với các trường hợp gia cầm chết không rõ nguyên nhân, cần thông báo ngay cho thú ý và các chính quyền địa phương để có biện pháp xử lý phù hợp, ngăn ngừa dịch bệnh lây lan.
+Tránh giết mổ, vận chuyển, mua bán gia cầm hay các sản phẩm được làm từ gia cầm không rõ nguồn gốc.
+Nâng cao sức khỏe toàn diện bằng cách xây dựng lối sống khoa học, chế độ dinh dưỡng đủ chất, thường xuyên rèn luyện thể dục thể thao.
+Cho trẻ tiêm vacxin phòng chống các bệnh cảm cúm hiện có theo khuyến cáo của Bộ Y tế nhằm nâng cao sức đề kháng cho trẻ.
+Trẻ cần rửa tay kỹ lưỡng sau khi tiếp xúc với các loài chim, gia cầm.
+Biến chứng trẻ bị cúm A H5N1
+Cúm A H5N1 có thể trở nên nghiêm trọng, khó điều trị và gây ra nhiều biến chứng nguy hiểm, đe dọa tính mạng của trẻ khi không được phát hiện và có phương pháp điều trị kịp thời. Những biến chứng thường gặp do cúm A H5N1 gây ra gồm:
+Suy hô hấp, viêm phế quản – phổi, viêm phổi;ARDS
+Bội nhiễm tai – mũi – họng;
+Suy đa tạng ( thận, gan, não,…);
+Hội chứng đông máu nội mạch rải rác;
+Viêm màng ngoài tim;
+Viêm cơ tim;
+Sock tim
+Viêm màng não;
+…
+Vì vậy, khi trẻ có các triệu chứng của cúm A H5N1 hoặc nghi ngờ đã nhiễm virus H5N1, bố mẹ nên đưa trẻ đến bệnh viện để được kiểm tra, chẩn đoán và có phương pháp can thiệp sớm. Việc phát hiện bệnh sớm sẽ giúp quá trình điều trị cúm A H5N1 có tiên lượng tốt hơn, giảm nguy cơ xuất hiện biến chứng cho trẻ.
+Cách chăm sóc trẻ em cúm A H5N1
+Bên cạnh việc tuân thủ theo các chỉ định của bác sĩ, việc chăm sóc trẻ bị cúm A H5N1 đúng cách sẽ giúp trẻ giảm nguy cơ xuất hiện biến chứng, rút ngắn thời gian nhiễm bệnh. Một số lưu ý trong quá trình chăm sóc trẻ mắc bệnh gồm:
+Cho trẻ nghỉ ngơi nhiều hơn;
+Đảm bảo môi trường sống thoáng khí, sạch khuẩn, nhiệt độ phòng phù hợp (không quá nóng hoặc quá lạnh);
+Vệ sinh cho trẻ sạch sẽ, sát khuẩn họng cho trẻ bằng nước muối sinh lý thường xuyên và kết hợp với xịt mũi để giảm nguy cơ viêm đường hô hấp cho trẻ;
+Ăn chín, uống sôi, ưu tiên thực phẩm dễ tiêu hóa, đủ dưỡng chất;
+Uống nhiều nước, nước ép trái cây để bổ sung vitamin và khoáng chất.
+Để biết thêm thông tin về cách chăm sóc và những vấn đề sức khỏe khác của trẻ, bạn có thể liên hệ khoa Nhi, bệnh viện đa khoa Tâm Anh theo địa chỉ:
+Cúm A H5N1 ở trẻ em là một bệnh lý nguy hiểm và có nguy cơ gây biến chứng, đe dọa tính mạng của trẻ cao. Vì vậy, thực hiện tốt các biện pháp phòng ngừa và trang bị cho mình những thông tin hữu ích về nguyên nhân, triệu chứng, cách chăm sóc trẻ bị cúm A H5N1 là cách tốt nhất để bảo vệ sức khỏe của trẻ.

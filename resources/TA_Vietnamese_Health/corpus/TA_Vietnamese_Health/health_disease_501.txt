@@ -1,0 +1,31 @@
+# doc_id = health_disease_501
+# url = https://tamanhhospital.vn/uong-thuoc-huyet-ap-dung-cach/
+# date = 16/10/2022
+Hướng dẫn uống thuốc huyết áp đúng cách, đúng liều lượng
+Thuốc huyết áp được dùng phổ biến hiện nay nhưng không phải ai cũng sử dụng đúng cách và hiểu rõ về loại thuốc này. Bài viết sau đây sẽ tổng hợp những lưu ý của bác sĩ về cách sử dụng và uống thuốc huyết áp đúng cách, an toàn cho bệnh nhân.
+Khi được chẩn đoán xác định tăng huyết áp, người bệnh sẽ được điều trị. Do mức độ tăng huyết áp và nguy cơ biến chứng tim mạch của mỗi bệnh nhân khác nhau về cơ địa, chức năng gan, chức năng thận, nhóm tuổi, bệnh đi kèm nên hướng dẫn sử dụng thuốc điều trị tăng huyết áp ở mỗi người cũng không giống nhau.
+Mục lục1. Chỉ uống thuốc huyết áp khi được chẩn đoán mắc bệnh2. Dùng thuốc theo chỉ định của bác sĩ3. Uống thuốc đúng giờ4. Không tự ý ngưng thuốc1. Chỉ uống thuốc huyết áp khi được chẩn đoán mắc bệnh
+Theo khuyến cáo hiện nay của Hội Tim mạch châu Âu và Hội Tim mạch Việt Nam, gọi là tăng huyết áp khi huyết áp tâm thu ≥ 140 mmHg và/hoặc huyết áp tâm trương ≥ 90 mmHg. Và theo khuyến cáo của Hội Tim mạch Mỹ, huyết áp ≥ 130/80 mmHg là tăng huyết áp.
+Tuy nhiên, bác sĩ sẽ thăm khám và quyết định khi nào người bệnh bắt đầu dùng thuốc huyết áp và dùng với liều lượng như thế nào. Người bệnh không tự ý dùng thuốc hoặc thay đổi thuốc khi chưa có chỉ định của bác sĩ.
+Nếu huyết áp từ 120-129/<80 mmHg, người bệnh chưa cần dùng thuốc, chỉ điều chỉnh lối sống lành mạnh.
+Nếu huyết áp từ 130/80 đến 139/89 mmHg, người bệnh đang bị tăng huyết áp giai đoạn 1 theo khuyến cáo của Hội Tim mạch Mỹ. Đối với trường hợp này, nếu có thêm nguy cơ cao bị đau tim hoặc đột quỵ trong 10 năm, các hướng dẫn khuyến nghị dùng thuốc hạ huyết áp và kết hợp song song với việc thay đổi lối sống lành mạnh.
+Tuyên bố mới được ban hành khuyến nghị các bác sĩ lâm sàng nên cân nhắc dùng thuốc cho những người bệnh có nguy cơ thấp trong 10 năm, sau 6 tháng duy trì thay đổi lối sống lành mạnh mà không đạt được huyết áp mục tiêu (<130/80 mmHg).
+Nếu huyết áp từ 140/90 mmHg hoặc cao hơn (tăng huyết áp giai đoạn 2), người bệnh cần được bác sĩ kê đơn thuốc ổn định huyết áp ngay.
+Nếu người bệnh từng có huyết áp từ 180/120 mmHg trở lên là trường hợp khẩn cấp. người bệnh cần sự trợ giúp y tế ngay lập tức để kiểm soát huyết áp.
+Người bệnh cần thăm khám bác sĩ để được kiểm tra huyết áp và có chỉ định dùng thuốc phù hợp.
+2. Dùng thuốc theo chỉ định của bác sĩ
+Hiện nay có nhiều loại thuốc huyết áp với các cơ chế hoạt động khác biệt nhưng đều nhằm duy trì huyết áp ở mức ổn định. Mỗi thuốc sẽ có tác dụng phụ khác nhau.
+Trong trường hợp người bệnh có nguy cơ tim mạch thấp hoặc lớn tuổi, không thể dung nạp mức huyết áp thấp hoặc có nguy cơ hạ huyết áp xuống quá thấp… thì chỉ nên khởi đầu điều trị bằng 1 loại thuốc. Bác sĩ sẽ cân nhắc chọn thuốc có tác dụng kéo dài để giảm số lần sử dụng thuốc.
+Trường hợp tăng huyết áp mức độ 2, mức độ 3 hoặc chỉ bị tăng huyết áp độ 1 nhưng có nguy cơ tim mạch cao, người bệnh nên bắt đầu điều trị với 2 loại thuốc phối hợp với nhau. Dù phối hợp 2 loại thuốc với liều thấp cũng giúp đem lại hiệu quả điều trị cao hơn và giảm tác dụng phụ hơn so với việc chỉ dùng 1 loại thuốc điều trị tăng huyết áp ở liều cao.
+Người bệnh cần thăm khám bác sĩ chuyên khoa Tim mạch, không nên tự ý mua thuốc về dùng. Thuốc điều trị tăng huyết áp hiệu quả không đồng nghĩa là thuốc đắt tiền hay vì người khác sử dụng có hiệu quả. Bác sĩ sẽ đưa ra loại thuốc điều trị tốt nhất và phù hợp nhất, căn cứ vào tình trạng sức khỏe của người bệnh (các yếu tố nguy cơ tim mạch, bệnh lý đi kèm hay có tổn thương các cơ quan như suy thận, suy tim, dày thất trái…).
+Tùy theo bệnh cảnh, mỗi người sẽ có phác đồ sử dụngthuốc điều trị tăng huyết áp khác nhau.
+3. Uống thuốc đúng giờ
+Người bệnh tăng huyết áp cần uống thuốc liên tục, đúng giờ và đều đặn mỗi ngày để tránh trường hợp quên thuốc. Nếu uống cách ngày hoặc uống không đúng giờ, người bệnh có thể quên mình đã uống thuốc hay chưa uống, dẫn đến uống thêm và ngược lại. Điều này khiến huyết áp của người bệnh không ổn định và gây tác dụng phụ không mong muốn. Khi uống thuốc đúng giờ mỗi ngày sẽ tạo một thói quen tốt và tuân thủ tốt việc điều trị, từ đó sẽ đem lại hiệu quả tốt nhất.
+Người bệnh cần tuân thủ tuyệt đối khoảng cách giữa các lần dùng thuốc vì đây cũng là nguyên nhân làm cho huyết áp không ổn định và có thể gây hại. Mỗi loại thuốc sẽ có thời gian tác dụng khác nhau:
+Đối với thuốc dùng 1 lần trong ngày (có tác dụng 24 giờ): người bệnh nên uống vào một giờ cố định.
+Đối với thuốc dùng nhiều lần trong ngày (có thời gian tác dụng ngắn): người bệnh cần chia đều trong 24 giờ.
+Thuốc huyết áp hoạt động hiệu quả nhất khi người bệnh uống đúng theo chỉ định của bác sĩ. Trong đó, cần phải uống đúng liều lượng và đúng giờ mỗi ngày để đảm bảo nồng độ thuốc trong máu luôn đủ để kiểm soát huyết áp. Việc uống thuốc thất thường có thể khiến người bệnh gặp các vấn đề nghiêm trọng do tăng huyết áp gây ra như tai biến mạch máu não, di chứng liệt nửa người…
+4. Không tự ý ngưng thuốc
+Thuốc điều trị tăng huyết áp nhằm giúp kiểm soát huyết áp trong giới hạn mục tiêu, không phải điều trị dứt điểm căn bệnh này. Ngay cả khi huyết áp trở về bình thường, nếu người bệnh ngừng điều trị, huyết áp có thể tăng đột ngột và gây ra những biến chứng nguy hiểm. Vì vậy, người bệnh không nên tự ý ngưng hoặc thay đổi thuốc huyết áp khi chưa có chỉ định của bác sĩ.
+Bên cạnh đó, người bệnh tăng huyết áp cần tái khám định kỳ theo chỉ định của bác sĩ để được điều chỉnh loại thuốc hoặc tăng giảm liều lượng thuốc phù hợp nếu cần.
+Để đặt lịch khám, tầm soát và điều trị tăng huyết áp, Quý khách hàng vui lòng liên hệ Trung tâmTim mạch Hệ thống Bệnh viện Đa khoa Tâm Anh:

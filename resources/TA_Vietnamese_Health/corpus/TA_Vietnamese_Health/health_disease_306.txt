@@ -1,0 +1,54 @@
+# doc_id = health_disease_306
+# url = https://tamanhhospital.vn/ung-thu-phoi-giai-doan-cuoi/
+# date = 23/09/2023
+Ung thư phổi giai đoạn cuối: Triệu chứng, tiên lượng và điều trị
+Gần 50% người bệnh ung thư phổi đã tiến triển đến giai đoạn cuối khi được phát hiện bệnh. Ung thư phổi giai đoạn cuối, khối u có thể đã di căn nhiều nơi và gây tổn hại nghiêm trọng tới sức khỏe người bệnh.
+Mục lụcUng thư phổi giai đoạn cuối là gì?Triệu chứng ung thư phổi giai đoạn cuốiUng thư phổi giai đoạn cuối sống được bao lâu?Ung thư phổi giai đoạn cuối có lây không?Điều trị ung thư phổi giai đoạn cuốiChăm sóc người bệnh ung thư phổi giai đoạn cuốiUng thư phổi giai đoạn cuối là gì?
+Ung thư phổi giai đoạn cuối là thời kỳ khối u đã di căn đến những cơ quan khác như phổi đối bên, não, gan, xương, tuyến thượng thận… hoặc di căn đến những hạch không phải hạch vùng. Trong giai đoạn này, ung thư không còn khả năng điều trị triệt để (điều trị khỏi bệnh), các phương pháp điều trị chủ yếu nhằm mục đích làm chậm sự tiến triển bệnh, kéo dài thời gian sống, giảm nhẹ triệu chứng, nâng cao chất lượng cuộc sống cho người bệnh.
+Theo hướng dẫn của Ủy ban Liên hợp về Ung thư Hoa Kỳ phiên bản 8 năm 2017 (AJCC: the American Joint Committee on Cancer), ung thư phổi không tế bào nhỏ được phân giai đoạn dựa trên đặc điểm của 3 yếu tố:
+T (Tumor – Khối u): Vị trí và kích thước, mức độ xâm lấn của khối u.
+N (Node – Di căn hạch bạch huyết): Tình trạng di căn tới các hạch bạch huyết lân cận (còn gọi là hạch vùng).
+M (Metastasis – Di căn xa): Tình trạng di căn xa tới các cơ quan khác trong cơ thể như phổi đối bên, não, xương, tuyến thượng thận… hoặc di căn đến các hạch không phải hạch vùng.
+Dựa trên các yếu tố T, N, M, ung thư phổi không tế bào nhỏ được phân giai đoạn từ 0 đến IV. Trong đó, ung thư phổi không tế bào nhỏ giai đoạn cuối bao gồm các giai đoạn IVA, IVB, IVC, được mô tả như sau:
+Giai đoạn IVA: Di căn phổi đối bên, di căn màng phổi, màng ngoài tim hoặc có tình trạng tràn dịch màng phổi, tràn dịch màng ngoài tim ác tính.
+Giai đoạn IVB: Di căn tổn thương đơn độc tại một vị trí khác ngoài lồng ngực (bao gồm di căn hạch không phải hạch vùng).
+Giai đoạn IVC: Di căn nhiều tổn thương ở một hoặc nhiều cơ quan ngoài lồng ngực.
+Triệu chứng ung thư phổi giai đoạn cuối
+Các triệu chứng người bệnh ung thư phổi không tế bào nhỏ giai đoạn cuối có thể gặp phải bao gồm: (1)
+Ho, viêm phế quản hoặc viêm phổi kéo dài hoặc tái phát không cải thiện với điều trị nội khoa;
+Ho ra máu, khạc ra máu màu đỏ bầm hoặc đỏ tươi;
+Đau ngực thường xuyên;
+Cảm giác hụt hơi, khó thở liên tục hoặc khi gắng sức, cảm giác không đủ sức khi thực hiện các hoạt động thường ngày (như đi bộ, leo cầu thang…);
+Mệt mỏi, chán ăn, sụt cân. Người bệnh có thể gặp phải các dấu hiệu suy mòn (sự giảm khối lượng cơ, xương của cơ thể). Suy mòn có thể không hồi phục kể cả khi được hỗ trợ dinh dưỡng, khiến người bệnh ngày càng trở nên suy kiệt hơn.
+Hình ảnh suy mòn của người bệnh ung thư.
+Tùy thuộc vào vị trí, mức độ xâm lấn của khối u, một số triệu chứng khác cũng có thể xuất hiện như:
+Đau ngực, đau xương sườn, đau vai và đau lưng do khối u xâm lấn thành ngực, cột sống;
+Nuốt khó, nuốt nghẹn do khối u xâm lấn thực quản;
+Khàn tiếng do khối u xâm lấn thần kinh quặt ngược thanh quản.
+Ngoài các triệu chứng do khối u nguyên phát từ phổi gây ra, người bệnh còn có thể gặp phải các triệu chứng do các tổn thương di căn, bao gồm:
+Tràn dịch màng phổi, màng ngoài tim: do tế bào ung thư di căn đến màng phổi, màng tim gây tình trạng ứ dịch trong khoang màng phổi, khoang màng ngoài tim. Tình trạng tràn dịch có thể dẫn đến các biến chứng cấp tính nghiêm trọng như suy hô hấp, chèn ép tim…
+Khối u di căn não: gây đau đầu, nôn ói, mất thăng bằng, co giật…
+Khối u di căn xương: gây đau lưng, đau cột sống, gãy xương, chèn ép tủy (gây yếu liệt chi, tiêu tiểu không tự chủ…), tăng canxi máu…
+Khối u di căn gan: gây đau vùng hạ sườn phải, tràn dịch màng bụng, vàng da…
+Bên cạnh những triệu chứng về mặt thể chất, người bệnh ung thư phổi giai đoạn cuối có thể gặp phải các vấn đề tinh thần như rối loạn lo âu, trầm cảm, hoặc có những cảm xúc đau buồn, mất niềm tin… Vì vậy, người bệnh ung thư phổi giai đoạn cuối cần có một kế hoạch chăm sóc và điều trị toàn diện. (2)
+Ung thư phổi giai đoạn cuối sống được bao lâu?
+Đối với ung thư phổi giai đoạn cuối, các liệu pháp điều trị hầu như không còn khả năng điều trị triệt để (điều trị khỏi bệnh). Mục tiêu điều trị chủ yếu tập trung vào việc giảm nhẹ sự đau đớn, nâng cao chất lượng cuộc sống, hạn chế sự tiến triển của bệnh và kéo dài thời gian sống cho người bệnh.
+Hiện nay, với sự phát triển của các liệu pháp điều trị mới, thời gian sống còn của người bệnh ung thư phổi giai đoạn cuối đã được cải thiện đáng kể, thậm chí có thể kéo dài nhiều năm kể từ khi được chẩn đoán bệnh. Ngoài giai đoạn ung thư, tiên lượng sống của người bệnh phụ thuộc vào nhiều yếu tố như: thể trạng, loại giải phẫu bệnh của ung thư phổi, tình trạng đột biến gen, phương pháp điều trị và tình trạng đáp ứng với điều trị, bệnh nền đi kèm, tâm lý và sự tuân thủ điều trị của người bệnh.
+Theo thống kê của Hiệp hội Ung thư Hoa Kỳ, tỷ lệ sống sau 5 năm của người bệnh ung thư phổi không tế bào nhỏ giai đoạn cuối là 8%. Nhưng nếu không được điều trị đặc hiệu, thời gian sống trung bình của người bệnh chỉ kéo dài khoảng 7 tháng.
+Ung thư phổi giai đoạn cuối có lây không?
+Ung thư phổi không lây nhiễm dù ở bất kỳ giai đoạn nào, kể cả ung thư phổi giai đoạn cuối.
+Bản chất khối u là do sự tăng sinh mất kiểm soát từ các tế bào bất thường, nên hoàn toàn không có khả năng lây nhiễm từ người này sang người khác như các bệnh truyền nhiễm như vi khuẩn, virus.
+Điều trị ung thư phổi giai đoạn cuối
+Người bệnh ung thư phổi giai đoạn cuối có thể gặp nhiều triệu chứng khó chịu về thể chất từ căn bệnh ung thư (đau nhức, khó thở, suy kiệt…) và từ các tác dụng phụ, biến chứng của các liệu pháp điều trị. Đồng thời, người bệnh còn chịu đựng sự đau khổ về tâm lý, xã hội, tâm linh. Vì vậy, việc chăm sóc và điều trị người bệnh cần có kế hoạch toàn diện, kết hợp giữa các liệu pháp điều trị ung thư và chăm sóc giảm nhẹ.
+Đối với ung thư phổi giai đoạn cuối, điều trị toàn thân bằng thuốc (hóa trị, liệu pháp miễn dịch, nhắm trúng đích) có vai trò chính yếu. Mặc dù không thể điều trị khỏi bệnh, nhưng với sự phát triển của những liệu pháp điều trị mới, thời gian sống của người bệnh ung thư phổi đã được cải thiện đáng kể.
+Hóa trị: Các thuốc hóa chất được sử dụng bằng cách truyền tĩnh mạch hoặc uống. Mỗi loại hóa chất sẽ có cơ chế tác động khác nhau vào tế bào ung thư. Hóa trị được tiến hành theo từng đợt (chu kỳ), có khoảng thời gian nghỉ giữa một đợt, người bệnh có thời gian phục hồi trước đợt điều trị kế tiếp. Hóa chất được truyền chậm qua tĩnh mạch, từ đó đi khắp cơ thể người bệnh. Trong một số phác đồ hiện tại, hóa trị có thể kết hợp liệu pháp miễn dịch, từ đó tăng khả năng kiểm soát bệnh, nâng cao hiệu quả điều trị.
+Liệu pháp nhắm trúng đích: Các thuốc nhắm trúng đích có thể tác động một số đột biến gen nhất định. Người bệnh cần được xét nghiệm đột biến gen qua mẫu mô (khối u, hạch được sinh thiết) hoặc qua mẫu máu, nhằm xác định các đột biến gen phù hợp với mỗi liệu pháp điều trị.
+Liệu pháp miễn dịch: Tế bào ung thư có khả năng tránh được các hoạt động của tế bào miễn dịch trong cơ thể. Liệu pháp miễn dịch chống lại cơ chế này bằng cách giúp các tế bào miễn dịch tăng khả năng nhận biết tế bào ung thư. Liệu pháp miễn dịch có thể sử dụng đơn lẻ hoặc phối hợp với hóa trị. Trong một số trường hợp, người bệnh cần được xét nghiệm để xác định các đột biến gen phù hợp trước khi lựa chọn phác điều trị.
+Xạ trị: Đối với ung thư phổi giai đoạn cuối, vai trò của xạ trị chủ yếu nhằm giảm nhẹ các triệu chứng hoặc điều trị các biến chứng như: xạ trị giảm đau, xạ trị chống chèn ép tủy, xạ trị trong hội chứng tĩnh mạch chủ trên…
+Chăm sóc giảm nhẹ: Liệu pháp này có vai trò rất quan trọng trong điều trị ung thư phổi giai đoạn cuối. Theo Tổ chức Y tế Thế giới: “Chăm sóc giảm nhẹ là hoạt động nhằm cải thiện chất lượng cuộc sống của người bệnh và gia đình người bệnh, những người đang đối mặt với những vấn đề liên quan tới sự ốm đau đe dọa đến tính mạng, thông qua sự ngăn ngừa và làm giảm gánh nặng họ chịu đựng bằng cách nhận biết sớm, đánh giá toàn diện và điều trị đau và các vấn đề khác, thể chất, tâm lý, xã hội và tâm linh.”
+Trong một số trường hợp, người bệnh có thể trạng yếu, suy kiệt, không thể thực hiện các liệu pháp điều trị đặc hiệu hoặc đôi khi người bệnh không muốn điều trị đặc hiệu (hóa trị, liệu pháp miễn dịch…). Lúc này, việc điều trị sẽ tập trung vào chăm sóc giảm nhẹ để giảm sự đau đớn, nâng cao chất lượng cuộc sống cho người bệnh.
+Chăm sóc người bệnh ung thư phổi giai đoạn cuối
+Chăm sóc người bệnh ung thư phổi giai đoạn cuối có thể tiến hành ở nhà, ở cơ sở khám chữa bệnh ngoại trú hoặc trong bệnh viện, tùy thuộc vào mong muốn và điều kiện của người bệnh.
+Người bệnh ung thư phổi giai đoạn cuối cần được quan tâm đến các vấn đề, các triệu chứng đang trực tiếp gây khó chịu cho người bệnh. Cần lưu ý rằng, mục tiêu chăm sóc quan trọng nhất trong thời điểm này chính là sự dễ chịu của người bệnh. Người chăm sóc và nhân viên y tế cần thảo luận với người bệnh về những khó khăn mà người bệnh đang gặp phải. Từ đó, có thể đưa ra kế hoạch chăm sóc phù hợp nhất với thể chất, nguyện vọng của người bệnh. Ngoài ra, chăm sóc giảm nhẹ có thể hỗ trợ thân nhân có những kỹ năng chăm sóc người bệnh trong giai đoạn cuối, đồng thời hỗ trợ tinh thần để thân nhân vượt qua nỗi đau mất mát. (3)
+Để đặt lịch khám, tư vấn, điều trị và chăm sóc giảm nhẹ tại khoa Ung bướu, BVĐK Tâm Anh, Quý khách hàng vui lòng liên hệ:
+Tại khoa Ung bướu BVĐK Tâm Anh, quá trình chăm sóc giảm nhẹ được bắt đầu từ khi người bệnh phát hiện ung thư, và diễn ra trong suốt thời gian điều trị bệnh. Giúp người bệnh ung thư phổi giai đoạn cuối ít gặp các triệu chứng nặng hơn, có chất lượng cuộc sống tốt hơn, và hài lòng hơn với việc điều trị.

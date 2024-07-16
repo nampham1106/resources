@@ -1,0 +1,143 @@
+# doc_id = health_disease_2430
+# url = https://tamanhhospital.vn/ung-thu-vu-her2-am-tinh-co-nguy-hiem-khong/
+# date = 14/06/2024
+Ung thư vú HER2 âm tính có nguy hiểm không? Dấu hiệu và chẩn đoán
+Ung thư vú HER2 âm tính chiếm khoảng 78% tổng số trường hợp ung thư vú [1]. Xét nghiệm protein HER2 giúp xác định các phương pháp điều trị cho người bệnh. Vậy ung thư vú âm tính her2 có nguy hiểm không? Dấu hiệu và chẩn đoán như thế nào? Bài viết sau đây của bác sĩ CKI Đỗ Anh Tuấn, Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM sẽ giải đáp chi tiết loại bệnh này.
+Mục lụcUng thư vú HER2 âm tính là gì?Ung thư vú HER2 âm tính có nguy hiểm không?Triệu chứng của ung thư vú HER2 âm tínhNguyên nhân ung thư vú HER2 âm tính và yếu tố nguy cơBiến chứng rủi ro ung thư vú HER2 âm tínhChẩn đoán xác định bị ung thư vú HER2 âm tính thế nào?1. Xét nghiệm hóa mô miễn dịch (IHC)2. Xét nghiệm lai huỳnh quang tại chỗ (FISH)Kết quả xét nghiệm HER2 âm tínhPhương pháp điều trị bệnh ung thư vú HER2 âm tính1. Phẫu thuật2. Hóa trị3. Xạ trị4. Liệu pháp hormone5. Liệu pháp miễn dịchKhám, điều trị & chăm sóc giảm nhẹ tại khoa Ngoại Vú – BVĐK Tâm AnhPhòng ngừa và chăm sóc ung thư vú HER2 âm tính1. Thay đổi lối sống2. Tự kiểm tra vú và khám lâm sàng3. Liệu pháp thay thế hormone (HRT)4. Cho con bú5. Phòng ngừa bằng thuốcUng thư vú HER2 âm tính là gì?
+Ung thư vú HER2 âm tính là dạng ung thư có lượng protein HER2 thấp hoặckhông có. HER2 là một loại protein tồn tại trên bề mặt của tất cả các tế bào vú, hỗ trợ sự phát triển và sửa chữa tế bào bình thường. Thụ thể HER2 còn tồn tại trên cả tế bào ung thư (ác tính). Các tế bào ung thư vú dương tính với HER2 có thể có số lượng thụ thể nhiều hơn tới 100 lần so với các tế bào vú bình thường hoặc âm tính với HER2.
+Có 2 nhóm ung thư vú HER2 âm tính, được xác định bởi dấu ấn sinh học của thụ thể hormone (HR) với estrogen và progesterone.
+Ung thư vú âm tính với HER2, HR dương tính: loại ung thư này chiếm khoảng 68% trường hợp ung thư vú ở phụ nữ, là loại ung thư phổ biến nhất. Tình trạng này bao gồm các khối u có estrogen, progesterone hoặc cả hai. Khi estrogen và progesterone liên kết với các thụ thể này, các khối u sẽ phát triển.
+Ung thư vú âm tính với HER2, âm tính với HR: loại này ít phổ biến hơn, chiếm khoảng 10% trường hợp ung thư vú ở phụ nữ. Loại ung thư vú này âm tính với các thụ thể HER2, estrogen và progesterone, còn được gọi là ung thư vú bộ ba âm tính.
+Theo thời gian, một số bệnh ung thư vú dương tính với HER2 có thể trở nên âm tính với HER2 và ngược lại. Điều này có thể xảy ra khi ung thư tái phát. Do đó, sinh thiết thường được áp dụng để kiểm tra lại tình trạng HER2 khi ung thư tái phát sau điều trị.
+Ung thư vú âm tính HER2 chiếm khoảng 78%/tổng số trường hợp ung thư vú.
+Ung thư vú HER2 âm tính có nguy hiểm không?
+Ung thư vú HER2 âm tính có nguy hiểm hay không phụ thuộc vào nhiều yếu tố. Tiên lượng cho người bệnh ung thư vú HER2 âm tính thay đổi tùy vào đặc điểm và tình trạng tổng thể của người bệnh.
+Những phụ nữ mắc bệnh ung thư vú dương tính với HR, HER2 âm tính có tiên lượng sống tốt nhất. Tỷ lệ sống thấp nhất ở người bệnh ung thư vú bộ ba âm tính.
+Theo Viện Ung thư Quốc gia, yếu tố quan trọng nhất quyết định tiên lượng sống là giai đoạn chẩn đoán, cụ thể:
+Giai đoạn sớm (ung thư chỉ giới hạn ở nơi khởi phát).
+Tại chỗ tại vùng (ung thư đã lan đến các hạch bạch huyết, mô hoặc cơ quan lân cận).
+Tiến xa (ung thư đã di căn đến các bộ phận khác của cơ thể).
+Nếu mắc ung thư vú HER2 âm tính, HR dương tính, tỷ lệ sống tương đối trong 5 năm, dựa trên giai đoạn ung thư khi chẩn đoán, cụ thể như sau [2]:
+Gần 100% với ung thư giai đoạn sớm.
+90% ung thư tại chỗ tại vùng.
+31% cho ung thư đã tiến xa.
+Với ung thư vú âm tính HER2, HR âm tính, tỷ lệ sống tương đối sau 5 năm như sau:
+91% ung thư ung thư giai đoạn sớm.
+65% với ung thư tại chỗ tại vùng.
+12% cho ung thư đã tiến xa.
+Có 2 loại ung thư vú âm tính HER2, được xác định bởi dấu ấn sinh học của thụ thể hormone (HR) với estrogen và progesterone.
+Triệu chứng của ung thư vú HER2 âm tính
+Các triệu chứng của ung thư vú âm tính HER2 không khác biệt nhiều so với các triệu chứng của các nhóm ung thư vú khác. Các dấu hiệu và triệu chứng bao gồm:
+Khối u sưng tấy hoặc dày lên một phần hoặc toàn bộ vú.
+Da đỏ, khô, bong tróc hoặc dày lên ở núm vú hoặc vú.
+Da ngực có vết lõm như vỏ cam.
+Núm vú bị thụt.
+Tiết dịch núm vú bất thường (trừ sữa mẹ).
+Da có vảy, đỏ hoặc sưng tấy ở vùng núm vú hoặc vú.
+Đau vú hoặc núm vú.
+Sưng hạch bạch huyết dưới cánh tay hoặc gần xương đòn.
+Bất kỳ thay đổi nào về hình dạng hoặc kích thước của vú.
+Mặc dù những triệu chứng này có thể xảy ra với tất cả các loại ung thư vú nhưng cũng có thể liên quan đến các tình trạng vú không phải ung thư. Người bệnh nên đến khoa Ngoại vú khám nếu gặp các triệu chứng trên càng sớm càng tốt.
+Sau khi được chẩn đoán, ung thư vú HER2 âm tính có xu hướng phát triển chậm hơn, ít lây lan và tái phát hơn ung thư vú dương tính với HER2.
+Nguyên nhân ung thư vú HER2 âm tính và yếu tố nguy cơ
+Nguyên nhân chính xác gây ung thư vú vẫn chưa rõ ràng. Di truyền, thói quen sinh hoạt và các yếu tố môi trường có thể góp phần làm tăng nguy cơ tiến triển ung thư vú.
+Có tới 10% trường hợp ung thư vú do khiếm khuyết gen di truyền, được truyền từ cha mẹ sang con. Các khiếm khuyết ở BRCA1 (gen ung thư vú số 1) hoặc BRCA2 (gen ung thư vú số 2) là nguyên nhân gây hầu hết các loại ung thư vú di truyền. [3]
+Gen HER2 không nằm trong số các gen bất thường liên quan đến các loại ung thư vú di truyền.
+Có người thân mắc một loại ung thư vú sẽ làm tăng nguy cơ mắc ung thư vú nhưng không ảnh hưởng đến nguy cơ mắc cùng loại ung thư vú có cùng nhóm HER2.
+Di truyền, thói quen sinh hoạt và các yếu tố môi trường có thể góp phần làm tăng nguy cơ tiến triển ung thư vú.
+Biến chứng rủi ro ung thư vú HER2 âm tính
+Một số biến chứng, rủi ro của ung thư vú HER2 âm tính tương tự như các nhóm ung thư vú khác như:
+Sưng, dày hoặc đau vùng vú.
+Làm sụp lõm da vùng vú hoặc tổn thương vùng da vú (bong vảy, đỏ, lỗ chảy, vết loét).
+Đau vùng da vú, có dịch trong suốt hoặc có máu.
+Sưng các hạch bạch huyết ở vùng nách hoặc xương đòn.
+Mệt mỏi bất thường hoặc giảm cân không rõ nguyên nhân.
+Biến chứng của ung thư di căn:
+Ung thư vú HER2 âm tính thường tiến triển và di căn chậm hơn so với ung thư vú HER2 dương tính. Tuy nhiên, nếu không được điều trị, khối u có thể xâm chiếm các hạch bạch huyết gần đó và di căn đến các phần khác của cơ thể.
+Các vị trí di căn thường gặp và triệu chứng tương ứng bao gồm:
+Xương: đau khớp và xương, gãy xương, ảnh hưởng khả năng di chuyển.
+Não: đau đầu, buồn nôn, nôn, chóng mặt.
+Gan: đau bụng, mệt mỏi, ăn uống khó tiêu.
+Phổi: khó thở, ho nhiều, mệt mỏi.
+Chẩn đoán xác định bị ung thư vú HER2 âm tính thế nào?
+Chẩn đoán ung thư vú HER2 âm tính thường được xác định sau khi người bệnh được chẩn đoán xác định mắc ung thư vú.
+Loại xét nghiệm được sử dụng để chẩn đoán ung thư vú phụ thuộc vào các triệu chứng của người bệnh. Các kỹ thuật phổ biến nhất để chẩn đoán ung thư vú bao gồm:
+Siêu âm vú: sử dụng sóng siêu âm để cung cấp hình ảnh có độ tương phản cao bên trong vú của người bệnh mà không có bức xạ.
+Chụp nhũ ảnh: sử dụng tia X liều thấp để xác định các mô bất thường trong vú.
+Chụp cộng hưởng từ vú (MRI): MRI vú sử dụng nam châm cực mạnh và tiêm thuốc nhuộm tương phản để cung cấp hình ảnh về bộ ngực của người bệnh mà không cần bức xạ hoặc nén vú.
+Sinh thiết vú: sinh thiết vú liên quan đến việc lấy một mẫu mô vú để có thể kiểm tra dưới kính hiển vi. Kết quả có thể được sử dụng để theo dõi những phát hiện bất thường khi chụp X-quang tuyến vú, siêu âm vú hoặc MRI vú.
+Khi ung thư vú được xác định, bác sĩ sẽ sử dụng một trong các xét nghiệm sau đây trên mẫu mô vú được lấy ra trong quá trình sinh thiết để xác định tình trạng HER2:
+1. Xét nghiệm hóa mô miễn dịch (IHC)
+Xét nghiệm IHC được sử dụng phổ biến nhất để xác định xem tế bào ung thư có thụ thể HER2 và/hoặc thụ thể hormone trên bề mặt hay không.
+IHC được sử dụng phổ biến nhất để xác định thụ thể HER2 và/hoặc thụ thể hormone trên bề mặt tế bào ung thư.
+2. Xét nghiệm lai huỳnh quang tại chỗ (FISH)
+Xét nghiệm FISH kiểm tra mô ung thư vú, đánh giá sự khuếch đại của gen HER2 nhằm xác định xem ung thư HER2 âm tính hay dương tính.
+FISH kiểm tra mô ung thư vú để tìm các bản sao bổ sung của gen HER2.
+Kết quả xét nghiệm HER2 âm tính
+Kết quả xét nghiệm HER2 giúp bác sĩ lựa chọn phương pháp điều trị tốt nhất.
+Hiện vẫn chưa xác định được xét nghiệm này có chính xác hơn xét nghiệm kia hay không, nhưng FISH có chi phí thực hiện cao hơn và mất nhiều thời gian hơn để có kết quả nên IHC được thực hiện trước tiên.
+Kết quả IHC là 0 và 1+ nghĩa là ung thư vú HER2 âm tính và không đáp ứng điều trị bằng thuốc sinh học nhắm vào HER2.
+Phương pháp điều trị bệnh ung thư vú HER2 âm tính
+Xác định tình trạng HER2 trong chẩn đoán ung thư vú là yếu tố quan trọng trong việc xác định phương pháp điều trị thích hợp nhất. Phương pháp điều trị thích hợp nhất cho bệnh ung thư vú âm tính HER2 thường phụ thuộc vào tình trạng của người bệnh. Những yếu tố khác bao gồm: giai đoạn bệnh, tình trạng xâm lấn, di căn và tình trạng mãn kinh của người bệnh.
+1. Phẫu thuật
+Điều trị ung thư vú HER2 âm tính thường bắt đầu bằng phẫu thuật điều trị, có thể liên quan đến một trong các kỹ thuật sau:
+Phẫu thuật bảo tồn tuyến vú hoặc phẫu thuật đoạn nhũ có hay không tạo hình lại tuyến vú.
+Đánh giá tình trạng hạch nách: Sinh thiết hạch gác cửa hoặc nạo vét hạch nách.
+2. Hóa trị
+Với ung thư vú HR dương tính/HER2 âm tính, người bệnh có thể phải hóa trị cùng với liệu pháp nội tiết. Điều đó phụ thuộc vào giai đoạn, mức độ ung thư và các đặc điểm khác. Việc bổ sung hóa trị có thể giảm nguy cơ ung thư tái phát.
+Bác sĩ sẽ dựa vào độ tuổi và sức khỏe của người bệnh, cân nhắc lợi ích và rủi ro để cân nhắc thực hiện hóa trị. Nếu ung thư vú bộ ba âm tính, người bệnh có thể phải phẫu thuật trước hoặc sau hóa trị.
+3. Xạ trị
+Tùy vào giai đoạn bệnh, thể trạng, loại phẫu thuật, mong muốn của người bệnh (có chỉ định xạ trị sau mổ). Xạ trị góp phần kiểm soát bệnh và hạn chế tái phát.
+4. Liệu pháp hormone
+Trong ung thư HER2 âm tính, HR dương tính, liệu pháp hormone thường được sử dụng để ngăn chặn hormone thúc đẩy sự phát triển của ung thư. Những phương pháp điều trị này bao gồm:
+Nolvadex (tamoxifen)
+Chất ức chế aromatase
+Thuốc ức chế buồng trứng
+Orserdu
+Điều trị ung thư vú HER2 âm tính cũng có thể bao gồm các liệu pháp nhắm đích, nhắm vào các gen, protein hoặc môi trường mô cụ thể góp phần vào sự phát triển của ung thư. Các lựa chọn bao gồm một hoặc nhiều phương pháp điều trị sau:
+Ibrance ( palbociclib)
+Afinitor (everolimus)
+Kisqali (ribociclib)
+Verzenio (abemaciclib)
+Piqray (alpelisib)
+Lynparza (olaparib)
+Talzenna (talazoparib)
+5. Liệu pháp miễn dịch
+Liệu pháp miễn dịch bao gồm Tecentriq (atezolizumab) hoặc Keytruda (pembrolizumab) với ung thư vú bộ ba âm tính (HER2 âm tính, HR âm tính) hoặc Trodelvy (sacituzumab govitecan) với ung thư vú dương tính với HR và HER2 âm tính.
+Xác định tình trạng HER2 trong chẩn đoán ung thư vú là yếu tố quan trọng trong việc xác định phương pháp điều trị thích hợp nhất.
+Khám, điều trị & chăm sóc giảm nhẹ tại khoa Ngoại Vú – BVĐK Tâm Anh
+Khám, điều trị & chăm sóc giảm nhẹ tại khoa Ngoại Vú – BVĐK Tâm Anh với hệ thống trang thiết bị hiện đại, đội ngũ chuyên gia nhiều kinh nghiệm, làm việc phối hợp đa chuyên khoa như Ngoại Vú – Chẩn đoán hình ảnh – Giải phẫu bệnh – Nội khoa Ung thư, mang đến nhiều cơ hội điều trị cho người bệnh.
+Bên cạnh đó, khoa Ngoại Vú – BVĐK Tâm Anh còn:
+Xây dựng phác đồ điều trị:
+Cập nhật các hướng dẫn trên thế giới, phác đồ tiên tiến để ứng dụng.
+Chi tiết cụ thể cho từng nhóm bác sĩ lâm sàng, bác sĩ chẩn đoán hình ảnh, bác sĩ giải phẫu bệnh.
+Chuẩn mực các quy trình:
+Tư vấn phòng ngừa, tầm soát, chẩn đoán các bệnh lý tuyến vú, điều trị, theo dõi sau điều trị, tạo hình thẩm mỹ.
+Kết hợp đa mô thức
+Bác sĩ lâm sàng: phẫu trị, hóa trị, xạ trị, nội tiết, tạo hình thẩm mỹ, tư vấn tâm lý. Các sĩ chẩn đoán hình ảnh can thiệp chuyên về vú: siêu âm, nhũ ảnh và MRI vú.
+Bác sĩ giải phẫu bệnh: hoá mô miễn dịch, giải phẫu bệnh, sinh học, di truyền và xét nghiệm gen.
+Hội chẩn đa chuyên khoa.
+Tư vấn cho người bệnh:
+Kế hoạch chẩn đoán và điều trị chi tiết.
+Chi phí.
+Dịch vụ hỗ trợ đi kèm: ăn ở, sinh hoạt để bệnh nhân chọn lựa và đưa ra quyết định.
+Phòng ngừa và chăm sóc ung thư vú HER2 âm tính
+Ung thư vú HER2 âm tính không thể phòng ngừa hoàn toàn nhưng có những cách giúp giảm nguy cơ và phát hiện sớm bệnh. Cụ thể:
+1. Thay đổi lối sống
+Chế độ ăn uống lành mạnh: áp dụng chế độ ăn uống cân bằng, nhiều trái cây, rau, ngũ cốc nguyên hạt và protein nạc. Hạn chế thực phẩm chế biến sẵn, thịt đỏ và rượu.
+Hoạt động thể chất: tham gia tập thể dục thường xuyên, có thể hoạt động aerobic cường độ vừa phải ít nhất 150 phút/tuần.
+Duy trì cân nặng khỏe mạnh: béo phì có liên quan đến việc tăng nguy cơ ung thư vú.
+Không hút thuốc: hút thuốc có liên quan đến nhiều loại ung thư khác nhau, bao gồm cả ung thư vú.
+2. Tự kiểm tra vú và khám lâm sàng
+Tự khám vú định kỳ để phát hiện những bất thường hoặc khối u. Thực hiện theo các hướng dẫn tầm soát được đề xuất:
+Chụp nhũ ảnh: chụp X-quang tuyến vú thường xuyên theo khuyến nghị của bác sĩ có thể phát hiện sớm ung thư vú, trước cả khi các triệu chứng xuất hiện.
+Khám vú lâm sàng: ít nhất 1 lần/năm.
+Xét nghiệm di truyền: cân nhắc xét nghiệm di truyền nếu gia đình có tiền sử mắc ung thư vú hoặc các yếu tố nguy cơ khác.
+3. Liệu pháp thay thế hormone (HRT)
+Nếu đang cân nhắc sử dụng HRT để điều trị các triệu chứng mãn kinh, bạn nên tham khảo ý kiến bác sĩ về những rủi ro và lợi ích. Sử dụng lâu dài HRT kết hợp estrogen và progestin có thể làm tăng nguy cơ ung thư vú.
+4. Cho con bú
+Nuôi con bằng sữa mẹ có thể giúp giảm nguy cơ ung thư vú.
+5. Phòng ngừa bằng thuốc
+Một số loại thuốc, chẳng hạn như thuốc điều chế thụ thể estrogen chọn lọc (SERM) như tamoxifen hoặc raloxifene, có thể làm giảm nguy cơ ung thư vú ở những người có nguy cơ cao.
+Việc phát hiện sớm và tầm soát thường xuyên đóng vai trò quan trọng trong việc xác định ung thư vú ở giai đoạn đầu. Hỏi ý kiến bác sĩ để có kế hoạch phòng ngừa được cá nhân hóa dựa trên các yếu tố rủi ro của bạn.
+Tình trạng HER2 giúp xác định phương pháp điều trị phù hợp. Ung thư vú HER2 âm tính có hàm lượng protein HER2 thấp hoặc không có. Các phương pháp điều trị nhắm vào thụ thể HER2 không ảnh hưởng đến ung thư vú âm tính HER2. Việc điều trị sẽ thuận lợi hơn khi bệnh được phát hiện sớm nên việc tầm soát rất quan trọng.

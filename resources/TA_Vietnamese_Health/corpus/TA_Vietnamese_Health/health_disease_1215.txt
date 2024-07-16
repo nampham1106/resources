@@ -1,0 +1,132 @@
+# doc_id = health_disease_1215
+# url = https://tamanhhospital.vn/phau-thuat-giam-can/
+# date = 13/09/2021
+Những điều cần biết về phẫu thuật giảm cân
+Phẫu thuật giảm cân được khuyến nghị cho các trường hợp béo phì khi các phương pháp ăn kiêng, tập thể dục và sử dụng thuốc giảm cân không đem lại hiệu quả tích cực. Trước tình trạng số người mắc béo phì ở Việt Nam đang gia tăng, TS.BS Đỗ Minh Hùng – Giám đốc Trung tâm Nội soi & Phẫu thuật Nội soi tiêu hóa, Bệnh viện Đa khoa Tâm Anh có sẽ chia sẻ cụ thể và chi tiết về những điều cần biết về phẫu thuật giảm cân, giúp người bệnh hiểu rõ ưu nhược điểm và các bước chuẩn bị cần thiết trước khi quyết định tiến hành phẫu thuật.
+Mục lụcPhẫu thuật giảm cân là gì?Mục đích của phẫu thuật giảm cânĐối tượng nào đủ điều kiện phẫu thuật giảm cân?Phẫu thuật giảm cân có an toàn không?Các phương pháp phẫu thuật giảm cânNội soi đặt bóng giảm cânPhẫu thuật thắt đai dạ dàyPhẫu thuật tạo hình ống dạ dàyPhẫu thuật nối tắt dạ dàyChuyển dòng mật tụyQuy trình phẫu thuật giảm cânChuẩn bị trước phẫu thuậtQuá trình phẫu thuật giảm cânGiai đoạn phục hồi sau phẫu thuậtCác biến chứng và ảnh hưởng phụ của phẫu thuật giảm cânChế độ ăn uống và sinh hoạt sau phẫu thuật giảm cânCâu hỏi thường gặp về phẫu thuật giảm cân1. Tôi sẽ giảm được bao nhiêu cân sau phẫu thuật?2. Chi phí mổ giảm cân là bao nhiêu?Phẫu thuật giảm cân là gì?
+Phẫu thuật giảm cân không chỉ giúp cải thiện vóc dáng mà còn điều trị nhiều vấn đề sức khỏe nguy hiểm
+Phẫu thuật giảm cân là việc can thiệp để thực hiện các thay đổi ở hệ tiêu hóa người bệnh nhằm mục đích giảm cân. Phẫu thuật giảm cân là một lựa chọn cho bệnh nhân béo phì khi chế độ ăn kiêng, tập thể dục và các phương pháp khác không đem lại hiệu quả, hoặc khi người bệnh có các vấn đề sức khỏe nghiệm trọng kèm theo như huyết áp cao, cholesterol cao, bệnh khớp, tiểu đường… (1)
+Tổ chức Y tế thế giới (WHO) xem béo phì là một bệnh mạn tính tiến triển, đặc trưng bởi tình trạng tích trữ quá nhiều mỡ trong cơ thể. Tình trạng béo phì được nhận định bằng chỉ số khối cơ thể BMI. Chỉ số này thể hiện sự tương quan giữa cân nặng và chiều cao một người, được tính bằng công thức:
+BMI (kg/m2) = [Cân nặng (kg)] / [Chiều cao(m)x2]
+Người có cân nặng bình thường thì BMI nằm trong khoảng 18.5 đến 24.9, thừa cân nếu BMI từ 25 đến 30 và béo phì nếu BMI lớn hơn 30.
+Có nhiều loại thủ thuật, phẫu thuật giảm béo khác nhau giúp người bệnh đạt được mục đích giảm cân nhanh chóng, đáng kể và cải thiện sức khỏe. Một số loại phẫu thuật có tác dụng giảm thể tích khoang chứa trong dạ dày, khiến người bệnh no nhanh và ít cảm thấy đói hơn. Các loại phẫu thuật khác lại đem đến hiệu quả giảm cân bằng cách làm giảm khả năng hấp thụ chất dinh dưỡng của cơ thể. Một số phương pháp đem lại cả hai tác dụng trên.
+Mục đích của phẫu thuật giảm cân
+Ngoài mục đích giảm cân, cải thiện vóc dáng, phẫu thuật giảm béo còn giúp ngăn ngừa và điều trị hiệu quả các vấn đề sức khỏe liên quan đến cân nặng, bao gồm:
+Bệnh tim
+Đột quỵ
+Huyết áp cao
+Cholesterol cao
+Chứng ngưng thở lúc ngủ
+Bệnh tiểu đường tuýp 2
+Các vấn đề khớp
+Bệnh hen suyễn
+Chứng đau nửa đầu
+Vô sinh
+Trầm cảm
+Bệnh trào ngược dạ dày thực quản (GERD)
+Bệnh gan nhiễm mỡ không do rượu (NAFLD) hoặc viêm gan nhiễm mỡ không do rượu (NASH)
+Tiểu không kiểm soát do stress
+Bệnh ứ trệ tĩnh mạch
+Hội chứng chuyển hóa
+Đối tượng nào đủ điều kiện phẫu thuật giảm cân?
+Để thực hiện phẫu thuật giảm cân, người bệnh cần đáp ứng tiêu chuẩn tối thiểu sau:
+Chỉ số BMI từ 40 trở lên; hoặc BMI từ 35 đến 39,9 và kèm theo các vấn đề sức khỏe nghiêm trọng khác có liên quan đến béo phì như huyết áp cao, đái tháo đường, ngưng thở khi ngủ, cholesterol cao…
+Đối với thủ thuật đặt bóng dạ dày, người bệnh cần có BMI từ 30 đến 40 (có hoặc không có vấn đề sức khỏe kèm theo).
+Điều quan trọng là bệnh nhân cần hiểu rằng phẫu thuật giảm cân chỉ là một phần trong chương trình điều trị béo phì, và không phải ai cũng phù hợp với phương pháp này. Nguyên tắc cơ bản để giảm cân và duy trì cân nặng ở mức hợp lý là áp dụng chế độ ăn uống, luyện tập thể thao kết hợp lối sống lành mạnh.
+Bên cạnh đó, người bệnh cũng cần được bác sĩ tư vấn cặn kẽ giữa lợi ích đạt được, chi phí và những rủi ro của phẫu thuật giảm cân. Bệnh nhân cần xác định rõ ràng mục đích và động lực của mình để tuân thủ nghiêm ngặt các thay đổi về ăn uống và sinh hoạt sau phẫu thuật. Chỉ có như thế thì hiệu quả điều trị mới được kéo dài và tránh tình trạng tăng cân trở lại.
+Phẫu thuật giảm cân có an toàn không?
+Phẫu thuật giảm cân được đánh giá là có mức độ an toàn cao với tỷ lệ sống sót lên đến 99,9%. Có khoảng 10% bệnh nhân trải qua phẫu thuật gặp phải biến chứng, nhưng hầu hết là những biến chứng nhẹ và không nguy hiểm đến tính mạng. (2)
+Hơn nữa, xét về lâu dài, các tác hại từ bệnh lý béo phì gây nguy hiểm hơn nhiều so với nguy cơ từ phẫu thuật giảm cân. Chẳng hạn, người bị béo phì có nguy cơ tử vong trong 5 năm cao hơn 85% bệnh nhân đã thực hiện phẫu thuật giảm cân.
+Các phương pháp phẫu thuật giảm cân
+Có nhiều phương pháp mổ giảm béo khác nhau, trong đó 5 loại phẫu thuật thông dụng nhất là:
+Nội soi đặt bóng giảm cân
+Minh họa nội soi đặt bóng giảm cân
+Nội soi đặt bóng giảm cân là một lựa chọn giảm cân không phẫu thuật. Bác sĩ sẽ tiến hành đặt lần lượt từ 1 tới 3 bóng silicon bên trong dạ dày. Các quả bóng sẽ chiếm không gian bên trong dạ dày, làm người bệnh mau no hơn và giảm lượng thức ăn tiêu thụ.
+Ưu điểm của phương pháp này là ít tốn kém, không phẫu thuật và người bệnh không cần nằm viện. Các quả bóng chỉ nằm trong dạ dày người bệnh tạm thời và thường được lấy ra sau 6 tháng bằng nội soi.
+Nhược điểm của phương pháp này là người bệnh có thể cảm thấy đau bụng, buồn nôn và nôn vài ngày đầu sau khi đặt bóng. Tuy nhiên, các triệu chứng này sẽ nhanh chóng biến mất. Bên cạnh đó, phương pháp này cũng có một vài hạn chế cũng như không phù hợp với những người béo phì với BMI > 40 hoặc người đã thực hiện phẫu thuật cắt dạ dày.
+Phẫu thuật thắt đai dạ dày
+Thắt đai dạ dày là một loại phẫu thuật trong đó một vòng silicon (đai dạ dày) được đặt quanh phần trên của dạ dày tạo thành một túi nhỏ trên đai. Dây đai không thít chặt hoàn toàn mà tạo thành một lối thông hẹp giữa phần trên và phần dưới dạ dày. Phương pháp này tạo cảm giác nhanh no, đồng thời thức ăn qua dạ dày di chuyển chậm, nhờ đó duy trì cảm giác no lâu hơn. Hầu hết người bệnh sau phẫu thuật thắt đai chỉ cần ăn nửa chén hoặc 1 chén thức ăn là đã thấy no. (3)
+Ưu điểm của phẫu thuật này là thực hiện đơn giản, thời gian phục hồi nhanh, chỉ cần tháo đai là dạ dày sẽ trở lại hình dáng như cũ. Bác sĩ có thể dễ dàng can thiệp để thắt chặt hoặc nới lỏng đai khi cần thiết.
+Tuy nhiên, nhược điểm lớn nhất của phẫu thuật thắt đai dạ dày là hiệu quả giảm cân thấp hơn các loại phẫu thuật khác. Biến chứng có thể gặp như tắc ruột, hoại tử thành dạ dày…. Các yêu cầu trong ăn uống, sinh hoạt sau mổ cũng nghiêm ngặt hơn
+Phẫu thuật tạo hình ống dạ dày
+Cắt tạo hình ống dạ dày là một phẫu thuật nhằm giảm kích thước của dạ dày. Trong ca phẫu thuật, bác sĩ loại bỏ khoảng 70 – 80% dạ dày ở phía bờ cong lớn, tạo ra một ống dạ dày hẹp với thể tích khoảng 150 – 200ml. Dạ dày mới nhỏ hơn, ít tiết ra hormone Ghrelin hơn (đây là hormone tạo cảm giác đói, thèm ăn). Nhờ đó mà người bệnh ít cảm thấy đói và nhanh no hơn, giảm cân ổn định sau mổ.
+Cắt tạo hình ống dạ dày đem lại hiệu quả giảm cân và cải thiện sức khỏe tốt, đa số người bệnh giảm được 70% trọng lượng cân thừa trong vòng 2 năm sau khi thực hiện phẫu thuật. Ruột được giữ nguyên vẹn sau mổ nên người bệnh tránh được tình trạng thiếu hụt dưỡng chất.
+Dù vậy, so với phương pháp nội soi đặt bóng và thắt đai dạ dày, cắt tạo hình ống dạ dày cần thời gian nằm viện và phục hồi lâu hơn và dạ dày của người bệnh sẽ không thể khôi phục về hình dạng như cũ.
+Phẫu thuật nối tắt dạ dày
+Minh họa phẫu thuật nối tắt dạ dày
+Cắt nối tắt dạ dày là phương pháp phẫu thuật nhằm thực hiện cả 2 mục đích thu nhỏ dạ dày và giảm hấp thụ. Trong ca phẫu thuật, bác sĩ tạo ra một phần nhỏ dạ dày bên trên, sau đó chuyển lưu thông của ruột trực tiếp từ phần dạ dày vừa được tạo hình với hồi tràng (đoạn cuối của ruột non). Sau phẫu thuật, dạ dày trở nên nhỏ hơn, khiến người bệnh có cảm giác mau no khi ăn. Đồng thời, quá trình vận chuyển thức ăn không đi qua phần dưới của dạ dày và đoạn đầu ruột non. Điều này làm giảm lượng calo và dưỡng chất mà cơ thể hấp thụ.
+Nối tắt dạ dày có ưu điểm là hiệu quả cao. Người bệnh sau phẫu thuật giảm trung bình 65% trọng lượng dư thừa trong vòng 1 năm. Nhờ giảm đáng kể cân nặng trong thời gian ngắn mà các bệnh lý kèm theo cũng cải thiện đáng kể. Hơn nữa, hiệu quả giảm cân cũng được duy trì trong thời gian dài sau đó. (4)
+Tuy nhiên, một nhược điểm lớn của phương pháp này là người bệnh dễ gặp phải tình trạng thiếu hụt chất dinh dưỡng, dẫn đến nhiều vấn đề sức khỏe khác. Để giảm thiểu nguy cơ này, người bệnh cần có chế độ ăn đặc biệt và dùng các viên uống theo hướng dẫn của bác sĩ để bổ sung các chất bị thiếu hụt.
+Bên cạnh đó, bệnh nhân thực hiện nối tắt dạ dày dễ gặp phải hội chứng Dumping. Hội chứng này xảy ra khi thức ăn di chuyển từ dạ dày đến quá nhanh, được đặc trưng bởi các triệu chứng đầy bụng, đau bụng, buồn nôn, đổ mồ hôi, suy nhược và tiêu chảy. Việc điều chỉnh chế độ ăn uống, giảm thực phẩm nhiều đường hoặc nhiều carb có thể hạn chế tình trạng này. Ngoài ra, sau phẫu thuật, người bệnh gần như không có cơ hội phục hồi lại hình dạng dạ dày như cũ.
+Chuyển dòng mật tụy
+Chuyển dòng mật tụy được xem là một phiên bản phức tạp hơn của cắt nối tắt dạ dày. Trong phương pháp này, bác sĩ cắt bỏ tới 70 – 80% dạ dày để tạo dạ dày mới hình ống, chuyển lại lưu thông ruột và cắt bỏ túi mật. Phương pháp này giúp giảm thể tích dạ dày lẫn khả năng hấp thụ calo và chất dinh dưỡng của cơ thể.
+So với nối tắt dạ dày thông thường, phương pháp chuyển dòng mật tụy giúp giảm cân nhanh và nhiều hơn. Tuy nhiên, đây lại là phương pháp ít phổ biến nhất do sự phức tạp và tính rủi ro của nó. Người bệnh cũng có nguy cơ cao bị suy dinh dưỡng nghiêm trọng và gặp phải hội chứng Dumping.
+Mỗi phương pháp phẫu thuật giảm cân đều có những ưu nhược điểm riêng biệt. Bác sĩ sẽ lựa chọn phương pháp tối ưu nhất cho người bệnh sau khi cân nhắc nhiều yếu tố, bao gồm chỉ số khối cơ thể, thói quen ăn uống, các vấn đề sức khỏe khác, các cuộc phẫu thuật trước đó và những rủi ro liên quan đến mỗi thủ thuật.
+Quy trình phẫu thuật giảm cân
+Chuẩn bị trước phẫu thuật
+Người bệnh sẽ được chỉ định thực hiện một số xét nghiệm và kiểm tra cần thiết để đảm bảo đủ điều kiện sức khỏe trước khi tiến hành phẫu thuật. Bên cạnh đó, bác sĩ sẽ xem xét bệnh sử và các loại thuốc điều trị (nếu có) mà người bệnh đang sử dụng. Người bệnh có thể được yêu cầu ngừng sử dụng một số loại thuốc nhất định trước phẫu thuật.
+Bác sĩ cũng sẽ lưu ý cụ thể cho người bệnh về việc ăn uống, vệ sinh và những vấn đề khác trước ngày mổ. Nếu có hút thuốc lá, người bệnh cần ngừng hút vì thuốc lá có thể ảnh hưởng đến quá trình lành vết thương và làm tăng nguy cơ biến chứng sau mổ.
+Quá trình phẫu thuật giảm cân
+Phẫu thuật giảm cân bằng phương pháp mổ nội soi
+Người bệnh được gây mê toàn thân khi tiến hành phẫu thuật. Tùy từng phương pháp phẫu thuật mà quy trình và thời gian thực hiện sẽ khác nhau. Cắt dạ dày giảm cân có thể thực hiện bằng phương pháp mổ nội soi hoặc mổ mở. Cả hai kỹ thuật phẫu thuật này đều có lợi ích và rủi ro khác nhau. Căn cứ vào tình trạng cụ thể của người bệnh mà bác sĩ sẽ lựa chọn kỹ thuật mổ phù hợp.
+Ngày nay, với sự phát triển của y học, hầu hết các phẫu thuật giảm cân đều được thực hiện bằng phương pháp mổ nội soi. Phẫu thuật nội soi sở hữu nhiều ưu điểm như vết rạch mổ nhỏ, thẩm mỹ cao, người bệnh nhanh hồi phục và hạn chế biến chứng. Dù vậy, không phải ai cũng phù hợp với phương pháp này. Mổ mở vẫn sẽ được chỉ định khi nó đem lại hiệu quả điều trị tốt hơn cho người bệnh.
+Giai đoạn phục hồi sau phẫu thuật
+Sau khi phẫu thuật, người bệnh được chuyển đến phòng hồi tỉnh và được theo dõi sát sao về tình trạng hô hấp, tim mạch sau mổ. Tùy vào từng loại phẫu thuật mà người bệnh có thể về ngay trong ngày hoặc cần nằm viện đến 3 ngày để theo dõi. Thời gian phục hồi hoàn toàn mất từ 3 ngày đến 6 tuần. Thời gian có thể đi làm trở lại là từ 3 ngày đến 3 tuần sau phẫu thuật.
+Để biết chính xác tình trạng phục hồi sau phẫu thuật của mình, người bệnh cần thảo luận trực tiếp với bác sĩ.
+Các biến chứng và ảnh hưởng phụ của phẫu thuật giảm cân
+Mặc dù được đánh giá là có tính an toàn cao, nhưng tỉ lệ biến chứng sau phẫu thuật giảm cân khá cao. Ước tính cứ 10 bệnh nhân mổ giảm cân thì có 1 bệnh nhân gặp phải biến chứng.
+Tùy vào loại phẫu thuật được sử dụng, mổ nội soi hay mổ mở, tuổi và tình trạng sức khỏe chung của người bệnh mà nguy cơ biến chứng sẽ khác nhau. Những rủi ro liên quan đến quy trình phẫu thuật có thể bao gồm:
+Chảy máu
+Nhiễm trùng trong ổ bụng hoặc vết mổ
+Loét
+Thoát vị
+Dị ứng hoặc tác dụng phụ của thuốc mê
+Sự hình thành cục máu đông
+Các vấn đề về phổi hoặc hô hấp
+Xì rò đường cắt dạ dày, ruột non
+Tắc ruột
+Trong đó, các phẫu thuật làm thay đổi giải phẫu các cơ quan tiêu hóa như cắt tạo hình ống dạ dày, phẫu thuật nối tắt dạ dày, chuyển dòng mật tụy có nguy cơ gây biến chứng nhiều và nghiêm trọng hơn. Các thủ thuật không làm thay đổi cấu trúc giải phẫu như nội soi đặt bóng giảm cân có ít biến chứng hơn. Phẫu thuật thắt đai dạ dày không làm thay đổi giải phẫu nhưng tỷ lệ biến chứng liên quan đến đai lại tương đối cao, đặc biệt là những bệnh nhân không tuân thủ nghiêm ngặt các hướng dẫn sau mổ.
+Ngoài các biến chứng liên quan đến quy trình mổ, phẫu thuật giảm cân cũng có thể gây ra nhiều ảnh hưởng phụ từ nhẹ đến nặng, tùy thuộc vào phẫu thuật. Các tác dụng phụ phổ biến nhất bao gồm:
+Các vấn đề về tiêu hóa như khó nuốt, buồn nôn, nôn, trào ngược axit, táo bón, tiêu chảy hoặc không dung nạp một số loại thực phẩm
+Da chảy xệ: Tác dụng phụ này có thể khắc phục thông qua phẫu thuật thẩm mỹ
+Suy dinh dưỡng, đặc biệt là sau khi cắt dạ dày và chuyển dòng mật tụy
+Rụng tóc tạm thời
+Sỏi mật tạm thời
+Chế độ ăn uống và sinh hoạt sau phẫu thuật giảm cân
+Xây dựng chế độ ăn uống và tập luyện thể thao sau phẫu thuật giảm cân là điều hết sức quan trọng, giúp người bệnh hồi phục nhanh và giảm khả năng tăng cân trở lại. TS.BS Minh Hùng khuyên người bệnh sau phẫu thuật giảm cân nên chú ý những vấn đề sau:
+Chế độ ăn chia thành nhiều bữa nhỏ: Dạ dày sau khi được thu nhỏ vẫn có thể giãn ra nếu người bệnh ăn quá nhiều trong một bữa. Do đó, người bệnh cần chia nhỏ khẩu phần ăn thành nhiều bữa trong ngày để tránh tăng cân trở lại. Ngoài ra, điều này cũng giúp thức ăn được tiêu hóa dễ dàng hơn.
+Đảm bảo cung cấp đủ chất dinh dưỡng: Phẫu thuật giảm cân có thể làm giảm khả năng hấp thụ dinh dưỡng, đặc biệt người bệnh rất dễ bị thiếu vitamin B9, B12, D, sắt và canxi. Người bệnh cần trao đổi với bác sĩ để biết mình có cần thiết bổ sung các chất này hay không, nếu có thì với liều lượng bao nhiêu.
+Tập thể dục nhẹ nhàng, điều độ: Vận động thường xuyên giúp tinh thần sảng khoái, cơ thể dẻo dai và hỗ trợ tốt cho việc duy trì thành quả giảm cân sau mổ.
+Câu hỏi thường gặp về phẫu thuật giảm cân
+1. Tôi sẽ giảm được bao nhiêu cân sau phẫu thuật?
+Số cân nặng có thể giảm sau phẫu thuật phụ thuộc vào cân nặng hiện tại, loại phẫu thuật và đặc biệt là khả năng tuân thủ chặt chẽ các hướng dẫn sau mổ của bác sĩ.
+Có thể ước tính lượng cân giảm được trong 3 tháng, 6 tháng và 1 năm theo từng loại phẫu thuật như sau:
+3 tháng
+6 tháng
+1 năm
+Đặt bóng nội soi
+15%
+30%
+–
+Thắt đai dạ dày
+20%
+30%
+40%
+Cắt tạo hình ống dạ dày
+30%
+50%
+70%
+Cắt nối tắt dạ dày
+30%
+50%
+65%
+Chuyển dòng mật tụy
+30%
+45%
+65%
+2. Chi phí mổ giảm cân là bao nhiêu?
+Chi phí điều trị béo phì bằng phẫu thuật sẽ thay đổi tùy từng trường hợp cụ thể, phụ thuộc vào loại phẫu thuật được lựa chọn, dụng cụ và thiết bị phẫu thuật được sử dụng, quá trình gây mê và các dịch vụ chăm sóc sức khỏe khác kèm theo.
+Phẫu thuật giảm cân đem lại nhiều lợi ích sức khỏe thiết thực cho người bệnh. Tuy nhiên, chúng cũng tiềm ẩn nhiều rủi ro và tác dụng phụ cả trong ngắn hạn và dài hạn. Để hạn chế biến chứng, người bệnh cần lựa chọn các bệnh viện uy tín, có bác sĩ chuyên về phẫu thuật điều trị bệnh lý tiêu hóa, đặc biệt là bệnh lý béo phì.
+Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa Tâm Anh quy tụ đội ngũ bác sĩ Ngoại tiêu hóa hàng đầu, có chuyên môn cao và kinh nghiệm dày dặn thực hiện phẫu thuật điều trị béo phì và các bệnh lý tiêu hóa nguy hiểm khác. Trung tâm cũng là đơn vị đầu tiên tại Đông Nam Á ứng dụng dụng cụ robot cầm tay cơ học kết hợp với hệ thống phẫu thuật nội soi 3D/4K ICG Rubina trong phẫu thuật nội soi đem lại hiệu quả cao và giảm chi phí cho người bệnh.
+Đội ngũ bác sĩ dày dặn kinh nghiệm của Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa, Bệnh viện đa khoa Tâm Anh
+Để đặt lịch khám và điều trị béo phì cũng như các bệnh lý tiêu hóa khác với các chuyên gia tại Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, xin vui lòng liên hệ:

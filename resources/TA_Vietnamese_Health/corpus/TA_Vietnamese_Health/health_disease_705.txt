@@ -1,0 +1,77 @@
+# doc_id = health_disease_705
+# url = https://tamanhhospital.vn/chup-mri-khop-thai-duong-ham/
+# date = 27/06/2024
+Chụp MRI khớp thái dương hàm: Đối tượng và quy trình thực hiện
+Kỹ thuật chụp MRI khớp thái dương hàm thường được chỉ định để đánh giá, chẩn đoán các vấn đề liên quan đến khớp hàm. So với các phương pháp chẩn đoán hình ảnh khác, MRI mang lại độ tương phản mô vượt trội, cung cấp hình ảnh chi tiết, sắc nét về mô mềm và cấu trúc khớp khác.
+Mục lụcChụp MRI khớp thái dương hàm là gì?Khi nào cần chụp MRI khớp thái dương hàm?Đối tượng chụp MRI khớp thái dương hàm1. Chỉ định2. Chống chỉ địnhQuy trình chụp MRI khớp thái dương hàm1. Chuẩn bị gì?2. Thực hiện3. Sau khi chụp mriChụp MRI khớp thái dương hàm giá bao nhiêu?Chụp cộng hưởng từ khớp thái dương hàm ở đâu?Chụp MRI khớp thái dương hàm là gì?
+Khớp thái dương hàm là một trong những khớp phức tạp nhất ở con người. Tương tự như các khớp hoạt dịch khác trong cơ thể, khớp thái dương hàm bao gồm bề mặt khớp, bao xơ, dịch khớp màng hoạt dịch và dây chằng. Khớp thái dương hàm được bao phủ bởi sụn xơ thay vì sụn hyaline (hay còn gọi là sụn khớp) như các khớp khác.
+Chụp MRI khớp thái dương hàm (chụp cộng hưởng từ) là kỹ thuật giúp bác sĩ quan sát rõ ràng các mô mềm và cấu trúc khớp trong khớp thái dương. MRI giúp hiển thị đĩa khớp mà không cần bất kỳ phương tiện tương phản nào.(1)
+Chụp MRI giúp nhận biết bất thường khớp thái dương hàm
+Khi nào cần chụp MRI khớp thái dương hàm?
+Có nhiều lý do để bác sĩ chỉ định người bệnh chụp MRI nhằm kiểm tra, khảo sát khớp thái dương – hàm. Thông thường chụp MRI để phục vụ mục đích chẩn đoán các bệnh lý liên quan đến xương khớp. Người bệnh thường cần chụp MRI khớp thái dương hàm khi:(2)
+Cảm thấy đau nhức vùng miệng trong thời gian dài mà không rõ nguyên nhân. Thời gian đầu chỉ xuất hiện triệu chứng đau nhẹ, thỉnh thoảng mới đau; tuy nhiên tình trạng trên không được cải thiện, ngày càng xuất hiện nhiều cơn đau, đau dai dẳng hơn.
+Khi nhai hoặc nói chuyện có cảm giác đau nhức vùng tai, có tiếng lộp cộp khi nhai. Lúc này người bệnh có xu hướng nhai 1 bên miệng gây mỏi hàm, lệch khớp cắn.
+Người bệnh đột nhiên có cảm giác mỏi cổ, đau đầu, đau vùng thái dương bất thường, không rõ nguyên nhân.
+Chụp MRI khớp thái dương hàm giúp phát hiện những bệnh lý như:
+Cứng khớp: chứng cứng khớp có thể do khớp bị dính hoặc xương hợp nhất gây hạn chế vận động của hàm. Cứng khớp thái dương hàm thường do các nguyên nhân như nhiễm trùng, phẫu thuật chấn thương, viêm khớp ở trẻ vị thành niên… Chụp MRI giúp nhận biết độ bám dính, từ đó lên kế hoạch điều trị phù hợp.
+Viêm khớp thái dương hàm: chụp MRI có thể nhận biết tình trạng viêm khớp là vô căn, tự phát hay viêm khớp dạng thấp.
+Viêm khớp thoái hóa xương: là bệnh lý thoái hóa mãn tính, ảnh hưởng đến sụn khớp của khớp hoạt dịch và có liên quan đến tái tạo đồng thời xương dưới sụn. Viêm xương khớp là bệnh lý phổ biến nhất liên quan đến khớp thái dương hàm. MRI cho thấy sự bất thường của vỏ xương bề mặt khớp, xói mòn và hình thành gai xương.
+Viêm khớp chuyển hóa/bệnh khớp tinh thể: bệnh lý này gây ra bởi sự lắng đọng của các tinh thể canxi pyrophosphate khử nước trong và xung quanh khớp, đặc biệt trong sụn khớp và sụn xơ. Hình ảnh MRI cho thấy sự ăn mòn và lắng đọng tinh thể canxi xuất hiện dưới dạng vật liệu giảm tín hiệu trên chuỗi xung T1 và T2.
+U sụn màng hoạt dịch: là bệnh lý lành tính với sự chuyển sản sụn của màng hoạt dịch và hình thành các nốt sụn. Những nốt này có thể bong ra và tạo thành dị vật di chuyển tự do trong khớp, sau đó bị vôi hóa, trường hợp này ít gặp ở khớp thái dương hàm. Chụp MRI có khả năng phát hiện các dị vật này ngay cả khi chúng chưa bị vôi hóa.
+Chứng siêu di động: là tình trạng không thể đóng sau khi mở rộng hàm, điều này xảy ra do sự dịch chuyển của lồi cầu ra ngoài rìa của phần bám phía trước bao khớp thái dương hàm. Sự mắc kẹt của lồi cầu dọc theo sườn phía trước lồi khớp là do các hạn chế về cơ sinh học khác nhau, đặc biệt là hoạt động của cơ nhai. Chụp MRI giúp nhận biết thông tin về chiều cao và độ dốc của khối khớp cũng như hình dạng và vị trí của đĩa đệm.
+Ngoài ra, chụp MRI khớp thái dương hàm còn giúp bác sĩ chẩn đoán nhiều bệnh lý khác như viêm màng dịch hoạt nốt sắc tố, khối u, tràn dịch khớp, tăng sản lồi cầu…
+Tới cơ sở y tế ngay khi có các bất thường về khớp thái dương hàm
+Đối tượng chụp MRI khớp thái dương hàm
+Chụp MRI được thực hiện ở một số đối tượng nhất định. Dưới đây là các đối tượng được chỉ định và chống chỉ định chụp MRI khớp thái dương hàm.
+1. Chỉ định
+Người bệnh chuyển động hàm không đều, khó mở và đóng miệng.
+Người bệnh bị đau vùng tai khi nói chuyện, nhai thức ăn hoặc mở miệng rộng.
+Người bệnh bị đau nhức đầu khi đóng mở miệng.
+Khi đóng mở miệng có phát ra tiếng lộp cộp ở khớp hàm
+Người bị đau trước hoặc dưới tai mà không có dấu hiệu nhiễm trùng.
+Người bị đau vùng khớp hàm, răng, cổ và vai.
+Người bị đau hàm hoặc đau răng khi vừa thức dậy.
+Người bị sai khớp cắn, khó khăn trong việc nhai thức ăn.
+2. Chống chỉ định
+Người đang cấy ghép các thiết bị được kích hoạt bằng điện, từ tính hoặc cơ học như máy tạo nhịp tim, máy kích thích sinh học bơm Insulin, máy kích thích thần kinh, máy trợ thính…
+Người đang mang thai (tùy trường hợp, cần thảo luận với bác sĩ trước khi tiến hành chụp).
+Người có dị vật, mảnh bom, mảnh đạn, kim loại trong cơ thể.
+Quy trình chụp MRI khớp thái dương hàm
+Để quá trình chụp MRI diễn ra nhanh chóng, an toàn, người bệnh cần nắm rõ quy trình dưới đây.
+1. Chuẩn bị gì?
+Hãy thông báo với bác sĩ nếu người bệnh:
+Dị ứng hoặc từng có tiền sử dị ứng với chất cản quang
+Đang mang thai hoặc cho con bú
+Cơ thể có chứa mảnh bom, đạn, kim loại
+Không thể nằm yên trong khoảng 20 – 30 phút
+Mắc các hội chứng sợ không gian hẹp, sợ tối, sợ ở một mình
+Trước khi thực hiện thủ thuật, người bệnh cần lưu ý những vấn đề sau:
+Ký giấy thỏa thuận đồng ý chụp MRI khớp thái dương hàm
+Tháo bỏ tất cả trang sức, phụ kiện bằng kim loại như chìa khóa, ví tiền, điện thoại, máy trợ thính…
+Không mặc quần áo có chứa kim loại, tốt nhất người bệnh nên mặc quần áo bệnh viện cung cấp
+Tiếp nhận hướng dẫn cũng như chuẩn bị tâm lý trước khi chụp. Trong trường hợp người bệnh sợ không gian hẹp, sợ ở một mình, có thể trao đổi trước với bác sĩ.
+Tham khảo ý kiến của bác sĩ về vấn đề chiều cao, cân nặng do một số người có thể không phù hợp với giới hạn của máy.
+Cần tham khảo ý kiến bác sĩ trước khi chụp MRI khớp thái dương hàm
+2. Thực hiện
+Chụp MRI khớp thái dương hàm diễn ra theo các bước dưới đây:
+Người bệnh nằm ngửa, tay chân xuôi theo cơ thể. Bàn chụp sẽ được di chuyển cho phù hợp với vị trí cần chụp.
+Đầu người bệnh được bảo vệ bằng dây chuyên dụng và đệm cố định. Trong cả quá trình chụp, đầu người bệnh phải được giữ nguyên để đảm bảo chất lượng hình ảnh.
+Một miếng đệm được lót dưới chân người bệnh. Do thời gian thực hiện MRI khá dài, người bệnh cần được nằm với tư thế thoải mái nhất.
+Người bệnh sẽ được cung cấp nút tai hoặc tai nghe trong suốt quá trình chụp để tránh tiếng ồn từ thiết bị.
+Kỹ thuật viên thực hiện việc căn chỉnh sao cho vị trí chụp vào trung tâm từ tường. Lúc này, các chuỗi xung bộ phận xử lý hình ảnh sẽ tạo ra loạt ảnh về khớp thái dương hàm kèm các thông tin liên quan.
+Khi chụp, kỹ thuật viên sẽ quan sát ở phòng bên cạnh. Trong trường hợp gặp bất kỳ bất thường nào, người bệnh có thể thông báo với kỹ thuật viên qua bộ đàm để được xử lý nhanh chóng.
+Có thể bác sĩ sẽ yêu cầu người bệnh nín thở trong vài giây, thường chỉ diễn ra một hai lần để nâng cao chất lượng hình ảnh.
+Quy trình chụp MRI diễn ra trong khoảng 20 – 30 phút tùy trường hợp
+3. Sau khi chụp mri
+Sau khi chụp người bệnh sẽ được hướng dẫn di chuyển ra khỏi phòng. Cần di chuyển chậm rãi, tránh choáng váng, xây xẩm do nằm lâu.
+Nếu không có bất thường, người bệnh sẽ sinh hoạt, ăn uống như bình thường. Trong trường hợp cần kiêng một số thực phẩm nào đó, bác sĩ sẽ thông báo với người bệnh.
+Nếu sử dụng thuốc an thần trước khi chụp, người bệnh cần đợi hết thuốc trước khi về. Tuyệt đối không lái xe trong vòng 24 tiếng kể từ khi dùng thuốc an thần.
+Bác sĩ chuyên khoa sẽ xem xét hình ảnh, đưa ra những chẩn đoán và trao đổi với người bệnh sau khi có kết quả.
+Chụp MRI khớp thái dương hàm giá bao nhiêu?
+Hệ thống chụp MRI là công nghệ hiện đại, do đó chi phí chụp MRI sẽ nhỉnh hơn so với các kỹ thuật chẩn đoán hình ảnh khác. Đây là phương pháp không xâm lấn, không sử dụng bức xạ, mang lại độ an toàn, chính xác cao.
+Mức phí cho mỗi lần chụp MRI phụ thuộc vào nhiều yếu tố như loại máy, tình trạng bệnh lý, quy định mức giá của các cơ sở y tế… Do đó, để biết chính xác chi phí chụp MRI khớp thái dương hàm là bao nhiêu, người bệnh cần liên hệ trực tiếp tới cơ sở y tế để được tư vấn chi tiết tại thời điểm sử dụng dịch vụ.
+Chụp cộng hưởng từ khớp thái dương hàm ở đâu?
+Chẩn đoán đóng vai trò đặc biệt quan trọng để quá trình điều trị diễn ra thuận lợi, đảm bảo an toàn cho người bệnh. Do đó người bệnh cần đặc biệt lưu ý trong việc lựa chọn nơi thực hiện các bước thăm khám và chẩn đoán ban đầu.
+Máy chụp cộng hưởng từ thế hệ mới
+Trung tâm Chẩn đoán Hình ảnh và Điện quang Can thiệp, Hệ thống Bệnh viện Đa khoa Tâm Anh được trang bị hệ thống cơ sở vật chất, trang thiết bị hiện đại, nhiều loại máy móc lần đầu xuất hiện tại Việt Nam. Với chẩn đoán hình ảnh bằng cộng hưởng từ trong đó có chụp MRI khớp thái dương hàm, Bệnh viện sở hữu các hệ thống máy MRI hàng đầu như Máy MRI 1,5 – 3 Tesla. Ngoài ra, Bệnh viện còn sở hữu các hệ thống hiện đại khác như hệ thống chụp X-quang treo trần kỹ thuật số hiện đại, hệ thống chụp nhũ ảnh DBT, MRI tư thế đứng G-scan Brio, máy chụp CT 768 và 1975 lát cắt…, tạo ra hình ảnh sắc nét, chính xác, độ phân giải cao, hỗ trợ tối ưu quá trình chẩn đoán và điều trị bệnh lý.
+Chụp MRI khớp thái dương hàm là phương pháp an toàn, hiệu quả cao được lựa chọn để đánh giá các vấn đề của khớp thái dương hàm. Nếu người bệnh đang gặp các biểu hiện bất thường về khớp thái dương hàm, cần sớm đến cơ sở y tế để được kiểm tra, chẩn đoán và điều trị theo phác đồ phù hợp.

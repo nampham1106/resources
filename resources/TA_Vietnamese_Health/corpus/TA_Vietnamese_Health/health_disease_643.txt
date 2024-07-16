@@ -1,0 +1,125 @@
+# doc_id = health_disease_643
+# url = https://tamanhhospital.vn/giai-doan-ung-thu-tuyen-giap/
+# date = 10/11/2022
+4 giai đoạn ung thư tuyến giáp: Cách đánh giá và chẩn đoán chi tiết
+Có 4 giai đoạn ung thư tuyến giáp. Mỗi giai đoạn cho biết mức độ nghiêm trọng, hiệu quả điều trị và tiên lượng sống còn của bệnh nhân. Giai đoạn càng thấp, hiệu quả điều trị càng cao.
+Ung thư tuyến giáp là tình trạng biến đổi và phát triển bất thường của các tế bào bên trong tuyến giáp. Theo Trung tâm kiểm soát và phòng ngừa dịch bệnh (CDC) hàng năm, có khoảng 12.000 nam giới và 33.000 phụ nữ mắc bệnh ung thư tuyến giáp, và khoảng 950 nam giới và 1.100 phụ nữ tử vong vì căn bệnh này. Đối với những người chẳng may mắc phải căn bệnh này, việc nắm rõ bản thân đang mắc phải giai đoạn ung thư tuyến giáp nào sẽ giúp chủ động hơn trong việc lập kế hoạch điều trị.
+Mục lụcGiai đoạn ung thư tuyến giáp là gì?Giải mã phân loại TNM trong chẩn đoán ung thư tuyến giápCác giai đoạn ung thư tuyến giápUng thư tuyến giáp thể biệt hóa ở bệnh nhân dưới 55 tuổiUng thư tuyến giáp thể biệt hóa ở bệnh nhân 55 tuổi trở lênUng thư tuyến giáp thể không biệt hóaUng thư tuyến giáp thể tủyChẩn đoán phát hiện ung thư tuyến giápSiêu âm tuyến giáp và hạch vùng cổXét nghiệm tế bào học u tuyến giáp, hạch cổ dưới hướng dẫn của siêu âmChụp CT và MRI vùng cổSinh thiết tức thì trong phẫu thuậtChỉ điểm sinh họcGiai đoạn ung thư tuyến giáp là gì?
+Theo TS.BS Trần Hải Bình – Phó Trưởng khoa Ung bướu, BVĐK Tâm Anh Hà Nội, giai đoạn ung thư tuyến giáp là cách các bác sĩ phân loại dựa trên mức độ lây lan của ung thư để dự đoán tiên lượng và lựa chọn phương pháp điều trị phù hợp. Giai đoạn được đánh giá theo khối u (T-tumor), hạch di căn (N-nodal) và di căn xa (M-metastasis).
+Giải mã phân loại TNM trong chẩn đoán ung thư tuyến giáp
+Ủy ban Liên hợp về Ung thư Hoa Kỳ (AJCC) sử dụng hệ thống phân giai đoạn TNM dựa trên 3 phần thông tin chính để phân giai đoạn ung thư tuyến giáp. (1)
+Mức độ (kích thước) của khối u (T): Khối u lớn đến mức nào? Nó có phát triển đến các cấu trúc lân cận không?
+Sự lây lan đến các hạch bạch huyết lân cận (N): Ung thư có di căn đến các hạch bạch huyết lân cận không?
+Sự lây lan (di căn) đến các vị trí xa (M): Ung thư đã di căn đến các cơ quan xa như phổi hoặc gan chưa?
+Các số hoặc chữ cái sau T, N và M cung cấp thêm thông tin chi tiết về từng yếu tố này. Con số cao hơn có nghĩa là ung thư tiến triển hơn. Các thông số T, N và M sẽ được kết hợp để xác định và phân loại giai đoạn cụ thể.
+Các giai đoạn ung thư tuyến giáp
+Ung thư tuyến giáp có mấy giai đoạn? Ung thư tuyến giáp được phân làm 4 giai đoạn, tuy nhiên tùy theo độ tuổi người bệnh. Chẳng hạn, nếu người mắc ung thư tuyến giáp thể biệt hóa (chiếm 90% ung thư tuyến giáp) ít hơn 55 tuổi thì chỉ có 2 giai đoạn là giai đoạn 1 và 2; nếu người bệnh trên 55 tuổi thì có 4 giai đoạn 1, 2, 3, 4. Giai đoạn được các bác sĩ sử dụng để lập kế hoạch điều trị và tiên lượng bệnh. (2)
+Ung thư tuyến giáp thể biệt hóa ở bệnh nhân dưới 55 tuổi
+Tỷ lệ tử vong do ung thư tuyến giáp thể biệt hóa (thể nhú hoặc thể nang) ở người trẻ tuy thấp nhưng vẫn có thể xảy ra. Vì vậy, phân nhóm giai đoạn TNM cho những bệnh ung thư này để tiên lượng về khả năng tử vong có thể xảy ra.
+Theo đó, những người dưới 55 tuổi mắc các bệnh ung thư tuyến giáp này đều thuộc giai đoạn I nếu không có di căn xa và giai đoạn II nếu có di căn xa.
+Ung thư tuyến giáp thể biệt hóa giai đoạn I
+Giai đoạn I (dưới 55 tuổi, bất kỳ T, bất kỳ N, M0)
+Khối u có kích thước bất kỳ (bất kỳ T) và có thể đã di căn đến các hạch bạch huyết lân cận (bất kỳ N).
+Chưa có di căn xa (M0).
+Ung thư tuyến giáp thể biệt hóa giai đoạn II
+Giai đoạn II (dưới 55 tuổi, bất kỳ T, bất kỳ N, M1)
+Khối u có kích thước bất kỳ (bất kỳ T). Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N).
+Nó đã lan đến các bộ phận khác của cơ thể, chẳng hạn như các hạch bạch huyết ở xa, các cơ quan nội tạng, xương,… (M1).
+Ung thư tuyến giáp thể biệt hóa ở bệnh nhân 55 tuổi trở lên
+Ung thư tuyến giáp thể biệt hóa giai đoạn I
+Giai đoạn I (55 tuổi trở lên, T1, N0 hoặc NX, M0)
+Khối u có kích thước dưới 2cm và giới hạn trong tuyến giáp (T1).
+Nó chưa lan đến các hạch bạch huyết lân cận (N0) hoặc đến các vị trí xa (M0).
+Giai đoạn I (55 tuổi trở lên, T2, N0 hoặc NX, M0)
+Khối u có kích thước từ 2cm đến dưới 4cm và giới hạn trong tuyến giáp (T2).
+Nó chưa lan đến các hạch bạch huyết lân cận (N0) hoặc đến các vị trí xa (M0).
+Ung thư tuyến giáp thể biệt hóa giai đoạn II
+Giai đoạn II (55 tuổi trở lên, T1, N1, M0)
+Khối u có kích thước dưới 2 cm và giới hạn trong tuyến giáp (T1).
+Nó đã lan đến các hạch bạch huyết gần đó (N1), chưa có di căn xa (M0).
+Giai đoạn II (55 tuổi trở lên, T2, N1, M0)
+Khối u có kích thước từ 2cm đến dưới 4cm và giới hạn trong tuyến giáp (T2).
+Nó đã lan đến các hạch bạch huyết gần đó (N1), chưa có di căn xa (M0).
+Giai đoạn II (55 tuổi trở lên, T3a hoặc T3b, N bất kỳ, M0)
+Khối u lớn hơn 4cm nhưng giới hạn trong tuyến giáp (T3a) hoặc nó đã xâm lấn đến các mô xung quanh tuyến giáp (T3b).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa có di căn xa (M0).
+Ung thư tuyến giáp thể biệt hóa giai đoạn III
+Giai đoạn III (55 tuổi trở lên, T4a, N bất kỳ, M0)
+Khối u có kích thước bất kỳ và đã lan ra ngoài tuyến giáp, xâm lấn vào các mô lân cận ở cổ như thanh quản, khí quản, thực quản hoặc dây thần kinh thanh quản quặt ngược (T4a).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa có di căn xa (M0).
+Ung thư tuyến giáp thể biệt hóa giai đoạn IV
+Giai đoạn IVA (55 tuổi trở lên, T4b, N bất kỳ, M0)
+Khối u có kích thước bất kỳ và đã xâm lấn cân trước sống, bao cảnh và các mạch máu trung thất (T4b).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa di căn xa (M0).
+Giai đoạn IVB (55 tuổi trở lên, bất kỳ T, N bất kỳ, M1)
+Khối u có kích thước bất kỳ (bất kỳ T) và có thể hoặc đã di căn đến các hạch bạch huyết lân cận (bất kỳ N).
+Nó đã lan đến các bộ phận khác của cơ thể, chẳng hạn như các hạch bạch huyết ở xa, các cơ quan nội tạng, xương…. (M1).
+Ung thư tuyến giáp thể không biệt hóa
+Tất cả các ung thư tuyến giáp thể không biệt hóa đều được coi là ung thư tuyến giáp giai đoạn IV và thường có tiên lượng xấu.
+Giai đoạn IVA (T1, T2 hoặc T3a, N0 hoặc NX, M0)
+Khối u ác tính có kích thước bất kỳ nhưng giới hạn ở tuyến giáp (T1, T2 hoặc T3a).
+Nó chưa lan đến các hạch bạch huyết lân cận (N0) hoặc đến các vị trí xa (M0).
+Giai đoạn IVB (T1, T2 hoặc T3a, N1, M0)
+Khối u ác tính có kích thước bất kỳ nhưng giới hạn ở tuyến giáp (T1, T2 hoặc T3a). Nó đã lan đến các hạch bạch huyết gần đó (N1).
+Chưa có di căn xa (M0).
+Giai đoạn IVB (T3b, N bất kỳ, M0)
+Khối u ác tính có kích thước bất kỳ và xâm lấn ra ngoài tuyến giáp (T3b).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa có di căn xa (M0).
+Giai đoạn IVB (T4, N bất kỳ, M0)
+Khối u ác tính có kích thước bất kỳ, đã lan rộng ra ngoài tuyến giáp, xâm lấn vào các mô lân cận của cổ như thanh quản, khí quản, thực quản hoặc dây thần kinh thanh quản quặt ngược hoặc cân trước sống hoặc vào các mạch máu lớn gần đó (T4).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa có di căn xa (M0).
+Giai đoạn IVC (bất kỳ T, bất kỳ N, M1)
+Khối u ác tính có kích thước bất kỳ (bất kỳ T) và có thể hoặc đã di căn đến các hạch bạch huyết lân cận (bất kỳ N).
+Nó đã lan đến các bộ phận khác của cơ thể, chẳng hạn như các hạch bạch huyết ở xa, các cơ quan nội tạng, xương… (M1).
+Ung thư tuyến giáp thể không biệt hóa IVB có kích thước bất kỳ và tiên lượng kém
+Ung thư tuyến giáp thể tủy
+Trong giai đoạn ung thư tuyến giáp thể tủy, tuổi tác không được tính là một yếu tố. (3)
+Ung thư tuyến giáp thể tủy giai đoạn I
+Giai đoạn I (T1, N0, M0)
+Khối u có kích thước ≤2cm và giới hạn trong tuyến giáp (T1).
+Nó chưa lan đến các hạch bạch huyết lân cận (N0) hoặc đến các vị trí xa (M0).
+Ung thư tuyến giáp thể tủy giai đoạn II
+Giai đoạn II (T2, N0, M0)
+Khối u >2cm nhưng <4cm và giới hạn trong tuyến giáp (T2).
+Nó chưa lan đến các hạch bạch huyết lân cận (N0) hoặc đến các vị trí xa (M0).
+Giai đoạn II (T3, N0, M0)
+Khối u >4cm và giới hạn ở tuyến giáp hoặc bất kỳ kích thước nào và phát triển bên ngoài tuyến giáp nhưng không liên quan đến các cấu trúc lân cận (T3).
+Nó chưa lan đến các hạch bạch huyết lân cận (N0) hoặc đến các vị trí xa (M0).
+Ung thư tuyến giáp thể tủy giai đoạn III
+Giai đoạn III (T1, T2 hoặc T3, N1a, M0)
+Khối u có kích thước bất kỳ và có thể phát triển bên ngoài tuyến giáp nhưng không liên quan đến các cấu trúc lân cận (T1, T2, T3).
+Nó đã lan đến các hạch bạch huyết ở cổ (trước khí quản, ống thở, thanh quản, hoặc trung thất trên) (N1a) nhưng chưa đến các hạch bạch huyết khác hoặc các vị trí xa (M0).
+Ung thư tuyến giáp thể tủy giai đoạn IV
+Giai đoạn IVA (T4a, N bất kỳ, M0)
+Khối u có kích thước bất kỳ và đã phát triển ra ngoài tuyến giáp vào các mô lân cận của cổ, chẳng hạn như khí quản, thực quản hoặc dây thần kinh thanh quản, thanh quản (T4a).
+Ung thư có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa có di căn xa (M0).
+Giai đoạn IVA (T1, T2 hoặc T3, N1b, M0)
+Khối u có kích thước bất kỳ và có thể phát triển bên ngoài tuyến giáp nhưng chưa xâm lấn đến các cấu trúc lân cận (T1, T2, T3).
+Nó đã lan đến một số hạch bạch huyết ở cổ (N1b), chưa có di căn xa (M0).
+Giai đoạn IVB (T4b, N bất kỳ, M0)
+Khối u có kích thước bất kỳ và đã xâm lấn cân trước sống hoặc vào các mạch máu lớn gần đó (T4b).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N), chưa có di căn xa (M0).
+Giai đoạn IVC (bất kỳ T, bất kỳ N, M1)
+Khối u có kích thước bất kỳ và có thể đã xâm lấn vào các cấu trúc lân cận (bất kỳ T).
+Nó có thể đã hoặc chưa lan đến các hạch bạch huyết lân cận (bất kỳ N). Nó đã lan đến các vị trí xa như gan, phổi, xương hoặc não (M1).
+* Các danh mục bổ sung sau không được liệt kê ở trên:
+Tx: Không thể đánh giá khối u chính do thiếu thông tin.
+T0: Không có bằng chứng về khối u nguyên phát.
+Nx: Không đánh giá được hạch vùng do thiếu thông tin.
+Xem thêm:
+Ung thư tuyến giáp di căn: Dấu hiệu, chẩn đoán và cách điều trị.
+8 dấu hiệu ung thư tuyến giáp giai đoạn cuối: Tiên lượng và điều trị.
+Chẩn đoán phát hiện ung thư tuyến giáp
+Sau khi thăm khám lâm sàng, bác sĩ sẽ chỉ định các kiểm tra chuyên sâu để chẩn đoán ung thư tuyến giáp cũng như xác định giai đoạn của bệnh. (4)
+Siêu âm tuyến giáp và hạch vùng cổ
+Phương pháp này giúp phát hiện khối u bất thường cũng như đánh giá vị trí, kích thước, tính chất, số lượng các khối u tuyến giáp và hạch vùng cổ.
+Xét nghiệm tế bào học u tuyến giáp, hạch cổ dưới hướng dẫn của siêu âm
+Siêu âm (chọc hút kim nhỏ – FNA) là phương pháp sử dụng kim đưa qua da vào trong tuyến giáp để lấy một số tế bào từ khối u và hạch cổ. Các tế bào này được kiểm tra dưới kính hiển vi trong phòng thí nghiệm để tìm tế bào ung thư.
+Chụp CT và MRI vùng cổ
+Hai phương pháp này giúp đánh giá kỹ hơn mức độ xâm lấn của u tuyến giáp và hạch với các cơ quan xung quanh như khí quản, phần mềm vùng cổ, thực quản.
+Sinh thiết tức thì trong phẫu thuật
+Trong quá trình phẫu thuật, bác sĩ sẽ cắt bỏ một thùy của tuyến giáp hoặc nhân giáp. Các mẫu bệnh phẩm này sẽ được đem đi làm xét nghiệm mô bệnh học ngay trong mổ. Bác sĩ sẽ dựa vào kết quả xét nghiệm này để có hướng xử trí kịp thời và phù hợp.
+Chỉ điểm sinh học
+Đối với ung thư tuyến giáp thể biệt hóa, sau phẫu thuật, chỉ số Tg sẽ được dùng để đánh giá điều trị và theo dõi ung thư tái phát. Đối với ung thư tuyến giáp thể tủy, chỉ số Calcitonin và CEA có vai trò trong tiên lượng của bệnh nhân và việc theo dõi sau điều trị.
+Tại Bệnh viện Đa khoa Tâm Anh, việc chẩn đoán ung thư tuyến giáp sẽ dựa trên thăm khám lâm sàng, bác sĩ hỏi các yếu tố nguy cơ và tiền sử gia đình của bệnh nhân. Sau đó, người bệnh sẽ được kiểm tra bằng siêu âm tuyến giáp để đánh giá vị trí, kích thước của khối u cũng như khả năng xâm lấn của khối u tuyến giáp. Đồng thời siêu âm cũng giúp khảo sát hạch cổ có di căn hay không. Trong quy trình này, người bệnh sẽ được chọc hút tế bào u tuyến giáp dưới hướng dẫn của siêu âm và xét nghiệm tế bào học. Sau đó, các bác sĩ giải phẫu bệnh sẽ xem dưới kính hiển vi để xác định có tế bào ung thư tuyến giáp hay không.
+Có nhiều loại ung thư tuyến giáp, mỗi loại sẽ được phân thành các giai đoạn ung thư tuyến giáp khác nhau với mức độ xâm lấn khác nhau theo hệ thống TNM. Hiểu biết về mức độ xâm lấn, tiên lượng sẽ giúp người bệnh chủ động trong kế hoạch điều trị và dự phòng cho tương lai.

@@ -1,0 +1,122 @@
+# doc_id = health_disease_579
+# url = https://tamanhhospital.vn/ung-thu-vu-thu-the-noi-tiet-duong-tinh/
+# date = 10/11/2023
+Ung thư vú thụ thể nội tiết dương tính (HR+): Chẩn đoán và điều trị
+Các hormone estrogen và progesterone trong cơ thể giúp bạn bước vào tuổi dậy thì và kiểm soát chu kỳ kinh nguyệt hàng tháng, có thể đóng vai trò gây ra bệnh ung thư vú. Khoảng 70% ung thư vú ở phụ nữ nhạy cảm với estrogen và progesterone. Những khối u này có một loại công tắc bật tắt sinh học được gọi là thụ thể nội tiết. Estrogen và progesterone có thể “bật” các công tắc này và đẩy nhanh sự phát triển của tế bào ung thư. Vậy ung thư vú thụ thể nội tiết dương tính là gì? Chẩn đoán và điều trị ra sao?
+Bài viết sau sẽ được thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM giúp bạn hiểu rõ hơn về ung thư vú có thụ thể nội tiết dương tính (HR+).
+Mục lụcThụ thể nội tiết là gì?Ung thư vú thụ thể nội tiết dương tính là gì?Các loại thụ thể nội tiết trong ung thư vúTriệu chứng của ung thư vú dương tính với thụ thể nội tiết tốNguyên nhân ung thư vú dương tính HR+ và yếu tố nguy cơUng thư vú thụ thể nội tiết dương tính có nguy hiểm không?Chẩn đoán ung thư vú thụ thể nội tiết dương tínhPhương pháp điều trị ung thư vú thụ thể nội tiết dương tính1. Ức chế aromatase2. Bộ điều biến thụ thể estrogen chọn lọc (SERM)3. Thuốc điều hòa thụ thể estrogen (ERD)4. Chất ức chế CDK4/6Phòng ngừa và chăm sóc người bị ung thư vú thụ thể nội tiết dương tínhCâu hỏi thường gặp về ung thư vú HR+1. Tại sao việc xác định tình trạng thụ thể nội tiết lại quan trọng?2. Ung thư vú thụ thể nội tiết dương tính có di truyền không?3. Tiên lượng của ung thư vú có thụ thể nội tiết dương tính?4. Ung thư vú thụ thể nội tiết dương tính có tái phát không?5. Nghiên cứu gần đây về ung thư vú có thụ thể nội tiết dương tính6. Khám và điều trị ung thư vú thụ thể nội tiết dương tính ở đâu?Thụ thể nội tiết là gì?
+Các thụ thể nội tiết là các protein nằm trên bề mặt hoặc bên trong tế bào gắn với các hormone lưu thông trong máu. Những thụ thể này giống như mắt và tai của tế bào, chúng nhận thông tin từ hormone và các chất khác trong máu rồi ra lệnh cho tế bào phải làm gì.
+Thế nhưng, chúng giống như một công tắc bật tắt. Nếu chúng xuất hiện phù hợp thì công tắc sẽ được bật và tế bào bắt đầu hoạt động với nhiệm vụ cụ thể.
+Điều này có nghĩa, các tế bào vú bình thường cũng có các thụ thể gắn vào hormone estrogen và progesterone. Ngay cả tế bào ung thư vú cũng có thể có những thụ thể này.
+Ung thư vú thụ thể nội tiết dương tính là gì?
+Ung thư vú thụ thể nội tiết dương tính là loại ung thư vú phát triển đáp ứng với nội tiết tố. Ở dạng này, những tế bào ung thư vú có các thụ thể (1 loại protein) gắn vào các hormone estrogen và progesterone. Các tế bào ung thư cần những hormone này để phát triển.
+Các loại thụ thể nội tiết trong ung thư vú
+Ung thư vú có thụ thể estrogen (Estrogen receptor – ER) và progesterone (Progesterone receptor – PR) gồm các loại sau:
+ER dương tính (ER+): ung thư có thụ thể estrogen (ER). Kết quả ER+ cho thấy các tế bào ung thư nhận được tín hiệu từ estrogen có thể thúc đẩy sự phát triển của chúng.
+PR dương tính (PR+): ung thư có thụ thể progesterone (PR). Kết quả PR+ chỉ ra rằng, các tế bào ung thư nhận được tín hiệu từ progesterone có thể thúc đẩy sự phát triển của chúng.
+Thụ thể nội tiết tố dương tính (HR+): ung thư có 1 hoặc cả 2 loại thụ thể này.
+Thụ thể HR âm tính (HR-): ung thư vú không có thụ thể ER hoặc PR được gọi là thụ thể hormone âm tính (HR-). HR viết tắt hormone receptor.
+Triệu chứng của ung thư vú dương tính với thụ thể nội tiết tố
+Khối u ở vú là triệu chứng phổ biến nhất. Các triệu chứng khác có thể bao gồm [1]:
+Thay đổi về hình dạng vú.
+Tiết dịch núm vú.
+Đau ở vú hoặc núm vú.
+Vết lõm ở da trên vú
+Nguyên nhân ung thư vú dương tính HR+ và yếu tố nguy cơ
+Các yếu tố nguy cơ của ung thư vú dương tính HR+ cũng tương tự như các loại ung thư vú khác, gồm [2]:
+Tuổi tác: các nghiên cứu đã chỉ ra rằng, phụ nữ trẻ có khả năng cao mắc ung thư vú dương tính với thụ thể nội tiết hơn phụ nữ lớn tuổi.
+Có gen BRCA1 và BRCA2 di truyền trong gia đình.
+Phụ nữ trên 50 tuổi.
+Người có mô vú dày đặc.
+Người có kinh trước 12 tuổi hoặc mãn kinh sau 55 tuổi.
+Có tiền sử gia đình mắc bệnh ung thư vú hoặc ung thư buồng trứng.
+Thừa cân sau mãn kinh.
+Dùng liệu pháp thay thế hormone hoặc thuốc tránh thai.
+Uống rượu.
+Ung thư vú thụ thể nội tiết dương tính có nguy hiểm không?
+Ung thư vú dương tính với thụ thể nội tiết có xu hướng phát triển chậm hơn những loại ung thư âm tính với thụ thể nội tiết. Phụ nữ mắc loại ung thư này thường tiên lượng tốt hơn nhưng bệnh có thể tái phát sau điều trị. [3]
+Chẩn đoán ung thư vú thụ thể nội tiết dương tính
+Để chẩn đoán ung thư vú dương tính với thụ thể nội tiết, đầu tiên bác sĩ sẽ tiến hành sinh thiết bằng cách lấy 1 mẫu mô vú mang đi xét nghiệm. Có 3 loại sinh thiết chính:
+Chọc hút bằng kim nhỏ: sử dụng kim rất mảnh để lấy mẫu tế bào vú hoặc chất dịch.
+Sinh thiết lõi kim: sử dụng kim lớn hơn để lấy mẫu mô.
+Phẫu thuật sinh thiết.
+Với chọc hút bằng kim nhỏ và sinh thiết lõi kim, kỹ thuật này gồm các bước sau:
+Người bệnh sẽ nằm nghiêng hoặc ngồi trên bàn sinh thiết.
+Bác sĩ sát trùng vị trí sinh thiết và tiêm thuốc tê để người bệnh không cảm thấy đau trong suốt quá trình thực hiện thủ thuật.
+Sau khi gây tê, bác sĩ sẽ chọc kim nhỏ hoặc kim sinh thiết lõi vào vị trí sinh thiết. Sau đó lấy 1 mẫu mô hoặc chất dịch mang đi xét nghiệm.
+Người bệnh có thể cảm thấy hơi căng tức vú khi lấy mẫu.
+Ép 1 lực trên vị trí sinh thiết cho đến khi máu ngừng chảy.
+Dán băng vô trùng tại vị trí sinh thiết.
+Với phẫu thuật sinh thiết, bác sĩ sẽ cắt vết nhỏ trên da để lấy toàn bộ hoặc 1 phần khối u vú. Sinh thiết bằng phẫu thuật được thực hiện khi sinh thiết bằng kim không thể tiếp cận được khối u. Phương pháp này gồm các bước sau:
+Người bệnh được đưa vào phòng mổ và mở đường truyền tĩnh mạch trên cánh tay hoặc bàn tay.
+Người bệnh có thể được kê thuốc an thần để giúp thư giãn. Ngoài ra, người bệnh cũng có thể được gây tê cục bộ hoặc gây mê toàn thân nên sẽ không cảm thấy đau trong quá trình thực hiện. Để gây tê cục bộ, bác sĩ sẽ tiêm thuốc vào vị trí sinh thiết để làm tê vùng đó.
+Bác sĩ sẽ rạch 1 đường nhỏ ở vú và lấy đi 1 phần hoặc toàn bộ khối u; một số mô xung quanh khối u cũng được lấy đi cùng.
+Vết cắt trên da sẽ được khâu lại hoặc dùng băng dính sinh học.
+Mẫu bệnh phẩm sau khi lấy ra sẽ được gửi đến các bác sĩ giải phẫu bệnh làm xét nghiệm
+Hầu hết, các phòng xét nghiệm sử dụng quy trình nhuộm đặc biệt để làm cho các thụ thể nội tiết xuất hiện trong mẫu mô ung thư vú. Xét nghiệm này được gọi là nhuộm hóa mô miễn dịch (IHC). Không phải tất cả các phòng xét nghiệm đều sử dụng cùng 1 phương pháp để phân tích. Các kết quả nhuộm hóa mô miễn dịch thường được phân tích như sau :
+Tỷ lệ phần trăm: tỷ lệ này cho biết có bao nhiêu tế bào trong số 100 tế bào dương tính với thụ thể nội tiết. Dao động từ 0% (không có thụ thể) đến 100% (tất cả đều có thụ thể).
+Điểm Allred từ 0 – 8: hệ thống tính điểm này được đặt tên theo bác sĩ đã phát minh ra nó. Đây là hệ thống xem xét tỷ lệ phần trăm tế bào dương tính với thụ thể nội tiết, mức độ hiển thị của các thụ thể sau khi nhuộm (cường độ). Những thông tin này được kết hợp để chấm theo thang điểm từ 0 – 8. Điểm càng cao thì càng tìm thấy nhiều thụ thể và dễ nhìn thấy chúng trong mẫu.
+Kết quả âm tính hay dương tính
+Ung thư vú cần được kiểm tra cả thụ thể estrogen và progesterone. Nếu kết quả dương tính hoặc âm tính, hãy hỏi bác sĩ để biết tỷ lệ phần trăm hoặc con số đánh giá cụ thể. Người bệnh cũng có thể hỏi xem những kết quả này ảnh hưởng như thế nào đến quyết định điều trị.
+Điểm 0 nghĩa là liệu pháp hormone sẽ không hữu ích trong điều trị ung thư vú. Khi điểm bằng 0, ung thư được xem là âm tính với thụ thể nội tiết.
+Kết quả đôi khi không xác định. Nếu nhận được kết quả này, hãy hỏi bác sĩ ý nghĩa và những bước cần thực hiện bổ sung để xác định tình trạng bệnh của mình.
+Chẩn đoán ung thư bằng sinh thiết dưới hướng dẫn của siêu âm
+Phương pháp điều trị ung thư vú thụ thể nội tiết dương tính
+Bên cạnh phẫu thuật, hoá trị, xạ trị, liệu pháp nội tiết tố (hay liệu pháp hormone) được sử dụng để điều trị tất cả các giai đoạn của bệnh ung thư vú dương tính với thụ thể nội tiết.
+Thuốc trị liệu bằng nội tiết tố hoạt động theo các cách sau:
+Ngăn chặn việc sản xuất estrogen trong cơ thể.
+Ngăn chặn tác dụng của estrogen lên tế bào ung thư vú.
+Liệu pháp nội tiết tố không phải là lựa chọn điều trị cho bệnh ung thư vú âm tính với thụ thể nội tiết.
+Có 3 loại thuốc điều trị nội tiết chính được sử dụng, gồm:
+Ức chế aromatase.
+Bộ điều biến thụ thể estrogen chọn lọc (SERM).
+Điều hòa thụ thể estrogen (ERD).
+Tuy nhiên, việc lựa chọn loại thuốc phụ thuộc vào tình trạng mãn kinh.
+Trước mãn kinh, buồng trứng thường sản xuất lượng estrogen lớn. Để ngăn chặn estrogen này cung cấp năng lượng cho các tế bào ung thư, bác sĩ sẽ chỉ định dùng SERM, loại thuốc hay dùng là tamoxifen.
+Sau mãn kinh, cơ thể có ít estrogen. Nguồn estrogen chính sau mãn kinh là sự chuyển đổi androgen (hormone nam) của cơ thể thành estrogen. Phản ứng này được xúc tác bởi một enzyme gọi là aromatase. Các loại thuốc gọi là chất ức chế aromatase có thể ngăn chặn enzyme này.
+1. Ức chế aromatase
+Các chất ức chế aromatase hoạt động bằng cách ngăn chặn enzyme aromatase. Enzyme này làm biến đổi hormone androgen thành 1 lượng nhỏ estrogen trong cơ thể. Ức chế aromatase không thể ngăn buồng trứng tạo ra estrogen, vì vậy những loại thuốc này chủ yếu được dùng để điều trị cho phụ nữ sau mãn kinh. Bởi giai đoạn này, buồng trứng không còn hoạt động nữa. Hiện có 3 chất ức chế aromatase:
+Arimidex (anastrozole).
+Aromasin (exemestan).
+Femara (letrozole).
+Những loại thuốc này đôi lúc được sử dụng ở phụ nữ tiền mãn kinh đã điều trị ức chế buồng trứng. Sau khi dùng thuốc ngăn buồng trứng sản xuất estrogen hoặc đã cắt bỏ buồng trứng, những phụ nữ này được chuyển từ tamoxifen sang thuốc ức chế aromatase.
+Bisphosphonates cũng có thể được sử dụng cùng với các chất ức chế aromatase để điều trị ung thư vú ER+ giai đoạn đầu sau mãn kinh. Điều này giúp làm giảm nguy cơ tái phát ngăn ung thư vú di căn đến xương.
+2. Bộ điều biến thụ thể estrogen chọn lọc (SERM)
+Bộ điều biến thụ thể estrogen chọn lọc (SERM) ngăn chặn tác dụng của estrogen lên tế bào ung thư vú, bằng cách gắn vào các thụ thể estrogen. SERM có trong thụ thể estrogen sẽ ngăn tế bào ung thư nhận được tín hiệu. Từ đó, tế bào ung thư vú không thể phát triển và nhân lên.
+SERM có thể sử dụng để điều trị cho cả phụ nữ trước và sau mãn kinh cũng như nam giới.
+3. Thuốc điều hòa thụ thể estrogen (ERD)
+Tương tự như SERM, các chất điều hòa thụ thể estrogen (ERD) giúp ngăn chặn tác động của estrogen lên tế bào ung thư vú. ERD cũng làm giảm số lượng và thay đổi hình dạng của thụ thể estrogen ở tế bào vú để chúng không hoạt động tốt.
+4. Chất ức chế CDK4/6
+Thuốc ức chế CDK4/6 là liệu pháp nhắm trúng đích được sử dụng để điều trị 1 số loại ung thư vú có thụ thể nội tiết dương tính, HER2 âm tính. Liệu pháp nhắm trúng đích gồm các loại thuốc nhắm vào các đặc điểm cụ thể của tế bào ung thư, chẳng hạn như protein cho phép tế bào ung thư phát triển nhanh chóng hoặc bất thường. Các liệu pháp nhắm trúng đích thường ít có khả năng gây tổn hại cho các tế bào khỏe mạnh hơn hóa trị.
+Chất ức chế CDK4/6 can thiệp vào cách tế bào ung thư vú phân chia và nhân lên. Để làm điều này, thuốc nhắm mục tiêu vào các protein cụ thể (kinase phụ thuộc cyclin 4 và 6, viết tắt CDK4/6).
+Thạc sĩ bác sĩ nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú và êkip bác sĩ khoa Ngoại Vú đang phẫu thuật điều trị cho người bệnh ung thư vú tại BVĐK Tâm Anh TP.HCM
+Phòng ngừa và chăm sóc người bị ung thư vú thụ thể nội tiết dương tính
+Chăm sóc cho người bị ung thư vú thụ thể nội tiết dương tính (HR+) gồm nhiều yếu tố như:
+Duy trì chế độ ăn uống cân đối; hạn chế thức ăn nhanh, nhiều chất béo. Bổ sung rau củ quả, thực phẩm giàu chất chống oxy hóa có thể nâng cao sức đề kháng.
+Tập các bài tập vừa sức, vận động 30 phút/ngày có thể cải thiện tình trạng sức khỏe.
+Hạn chế rượu, thuốc lá.
+Giảm căng thẳng, giữ tinh thần thoải mái, thư giãn.
+Tuân thủ kế hoạch điều trị của bác sĩ.
+Tìm kiếm hỗ trợ từ chuyên gia tâm lý hoặc tham gia CLB Bệnh nhân Ung thư vú BVĐK Tâm Anh TP,HCM để chia sẻ kinh nghiệm điều trị.
+Kiểm tra tái khám đều sau điều trị ung thư vú và tầm soát ung thư vú đối bên.
+Câu hỏi thường gặp về ung thư vú HR+
+1. Tại sao việc xác định tình trạng thụ thể nội tiết lại quan trọng?
+Việc xét nghiệm tình trạng thụ thể nội tiết rất quan trọng. Bởi kết quả sẽ giúp bác sĩ đưa ra chẩn đoán chính xác, quyết định phương pháp điều trị phù hợp.
+Một số ung thư vú dương tính với thụ thể nội tiết có thể mất thụ thể theo thời gian. Ngược lại, ung thư âm tính với thụ thể nội tiết có thể phát triển các thụ thể sau đó.
+Nếu ung thư vú tái phát sau điều trị, bác sĩ sẽ yêu cầu người bệnh thực hiện sinh thiết để kiểm tra tế bào ung thư còn thụ thể nội tiết hay không. Nếu tế bào ung thư không còn cơ quan thụ cảm, liệu pháp hormone sẽ không mang lại hiệu quả điều trị. Trường hợp các tế bào đã phát triển các thụ thể nội tiết, liệu pháp hormone sẽ giúp ích trong quá trình điều trị.
+2. Ung thư vú thụ thể nội tiết dương tính có di truyền không?
+Ở một số trường hợp, ung thư vú dương tính với thụ thể nội tiết cũng có thể di truyền. Nguy cơ mắc ung thư vú HR+ tăng nếu tiền sử người thân trong gia đình mắc ung thư vú, đặc biệt là mẹ, chị em hoặc con cái. Một số trường hợp di truyền qua các biến đổi gen như BRCA1, BRCA2. Tuy nhiên, không phải tất cả các trường hợp ung thư vú HR+ đều do di truyền.
+3. Tiên lượng của ung thư vú có thụ thể nội tiết dương tính?
+Tiên lượng của ung thư vú có thụ thể nội tiết dương tính phụ thuộc vào nhiều yếu tố khác nhau, bao gồm giai đoạn, kích thước khối u và sức khỏe tổng thể của người bệnh.
+Nhìn chung, ung thư vú HR+ có tiên lượng tốt hơn so với ung thư vú HR-. Các nghiên cứu gần đây đã chỉ ra rằng, tiên lượng sống sau 5 năm đối với ung thư vú ER+ cao hơn 10% so với ung thư vú ER-.
+Việc phát hiện sớm ung thư vú có thụ thể nội tiết dương tính giúp làm tăng cơ hội điều trị và cải thiện tiên lượng sống. Ung thư vú ở giai đoạn sớm thường khu trú nên dễ điều trị hơn. Phụ nữ chụp nhũ ảnh định kỳ và tự khám vú có thể phát hiện sớm ung thư trước khi lan rộng. Phát hiện sớm cũng giúp điều trị ít xâm lấn, hạn chế tác dụng phụ và cải thiện chất lượng cuộc sống tốt hơn cho bệnh nhân.
+Do đó, phát hiện sớm là điều kiện tiên quyết để tăng cơ hội điều trị thành công và ngăn ngừa các biến chứng.
+4. Ung thư vú thụ thể nội tiết dương tính có tái phát không?
+Ung thư vú dương tính với thụ thể nội tiết có thể tái phát 10 – 30 năm sau chẩn đoán. Vì vậy, người bệnh cần dùng thuốc đúng liều lượng, tuân theo chỉ định điều trị và tái khám theo hướng dẫn của bác sĩ để ngăn bệnh tái phát. [4]
+5. Nghiên cứu gần đây về ung thư vú có thụ thể nội tiết dương tính
+Liệu pháp miễn dịch là phương pháp điều trị sử dụng hệ thống miễn dịch của cơ thể để tấn công các tế bào ung thư. Tuy nhiên, hầu hết các liệu pháp miễn dịch hiện có, chẳng hạn như thuốc ức chế điểm kiểm soát miễn dịch, cho thấy hiệu quả hạn chế đối với ung thư vú có thụ thể nội tiết dương tính. Tuy nhiên, một số thử nghiệm lâm sàng vẫn đang được tiến hành để kiểm tra hiệu quả của liệu pháp này.
+Y học chính xác liên quan đến việc áp dụng phương pháp điều trị phù hợp với đặc điểm cá nhân của bệnh nhân, chẳng hạn như cấu trúc di truyền, đặc điểm khối u. Các xét nghiệm gen mới, chẳng hạn như MammaPrint có thể giúp xác định những bệnh nhân điều trị hiệu quả bằng hóa trị hoặc đáp ứng tốt hơn với liệu pháp nội tiết đơn thuần.
+6. Khám và điều trị ung thư vú thụ thể nội tiết dương tính ở đâu?
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM với đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm trong việc thăm khám, chẩn đoán, tư vấn, điều trị chuyên sâu tất cả các vấn đề liên quan đến tuyến vú nói chung (khối u lành tính, bất thường bẩm sinh, vú sa trễ, vú phì đại…) và ung thư vú nói riêng.
+Ngoài ra, bệnh viện còn trang bị các máy móc, trang thiết bị hiện đại từ các nước Âu – Mỹ nhằm chẩn đoán bệnh chính xác nhất như máy siêu âm đàn hồi, máy chụp nhũ ảnh 3D, máy chụp cộng hưởng từ… giúp tất cả người bệnh cảm thấy an tâm và hài lòng khi đến khám và điều trị tại Bệnh viện Tâm Anh TP.HCM.
+Bài viết đã cung cấp những thông tin về ung thư vú thụ thể nội tiết dương tính (HR+) là gì? Chẩn đoán và điều trị ra sao? Việc phát hiện, điều trị sớm và quản lý hiệu quả trong nhiều thập kỷ đã giảm tỷ lệ tử vong liên quan đến loại ung thư này. Qua đó cho thấy, phụ nữ mắc ung thư vú thụ thể nội tiết dương tính có tiên lượng sống cao hơn so với 50 năm trước.

@@ -1,0 +1,31 @@
+# doc_id = health_disease_2244
+# url = https://tamanhhospital.vn/mau-nhiem-mo-o-nguoi-gay/
+# date = 28/06/2022
+Vì sao người gầy mà mỡ máu cao? | Bệnh viện Đa khoa Tâm Anh
+Tình trạng rối loạn lipid máu ở người gầy không hiếm gặp, nguyên nhân chủ yếu là do di truyền, lối sống ít vận động và chế độ ăn không khoa học.
+Câu hỏi:
+Tôi 25 tuổi, cao 1.6m, nặng 42kg, xét nghiệm máu cho chỉ số cholesterol 7,3; LDL-C là 5,1. Tôi thắc mắc tại sao mình thuộc dạng nhẹ cân mà lại bị mỡ máu, trong khi bệnh này thường gặp ở người thừa cân? Tôi có cần phải điều trị bằng thuốc không? Xin bác sĩ tư vấn chế độ sinh hoạt và vận động như thế nào để giảm mỡ máu? (Minh Thư, TP.HCM)
+Trả lời:
+Máu của chúng ta chứa 3 loại lipid chính: lipoprotein tỷ trọng cao (HDL-C), lipoprotein tỷ trọng thấp (LDL-C) và chất béo trung tính (triglycerides). Trong đó:
+LDL-C được coi là loại cholesterol “xấu” do nó có thể tích tụ và hình thành nên các mảng bám trong thành động mạch. Quá nhiều mảng bám trong động mạch là nguyên nhân gây ra cơn đột quỵ và nhồi máu cơ tim.
+HDL-C là cholesterol “tốt” vì nó giúp loại bỏ LDL-C khỏi máu. Tuy nhiên những nghiên cứu gần đây cho thấy tăng HDL-C không làm giảm nguy cơ mắc bệnh tim mạch do xơ vữa.
+Triglycerides được hình thành trong ruột non từ chất béo mà bạn ăn vào nhưng không đốt cháy ngay lập tức mà được lưu trữ trong các tế bào mỡ. Chúng cũng được tạo ra trong gan từ lượng đường dư thừa trong thức ăn. Chúng được giải phóng dưới dạng năng lượng khi cơ thể cần. Tuy nhiên, nếu bạn nạp nhiều calo hơn mức đốt cháy, cơ thể sẽ bị tích tụ chất béo trung tính.
+Tình trạng rối loạn lipid máu (mỡ máu) xảy ra khi mức LDL-C hoặc triglycerides của bạn quá cao. Bạn cũng có thể bị mỡ máu nếu mức HDL-C quá thấp. Hoặc dạng hỗn hợp khi vừa tăng LDL-C vừa tăng triglycerides máu.
+Mục lụcNguyên nhân gây máu nhiễm mỡ ở người gầy1. Yếu tố di truyền2. Ít vận động3. Thói quen ăn uống không lành mạnh4. Lạm dụng rượu biaNguyên nhân gây máu nhiễm mỡ ở người gầy
+Nhiều người cho rằng những người thừa cân – béo phì mới có mỡ máu cao. Tuy nhiên, điều đó không có nghĩa là rối loạn lipid máu không gặp ở người gầy. Tỷ lệ nhóm bệnh nhân cân nặng bình thường có mỡ máu cao thường dao động từ 10-37%. Nguyên nhân khiến mỡ máu xảy đến với người gầy là:
+1. Yếu tố di truyền
+Đây là nguyên nhân gây nên tình trạng rối loạn mỡ máu nguyên phát. Vì thế, nếu bố hoặc mẹ (hoặc cả bố và mẹ) bạn bị rối loạn lipid máu thì khả năng cao bạn cũng bị bệnh lý này, bất kể thể trạng ra sao.
+2. Ít vận động
+Một trong những lý do khiến người gầy có lượng cholesterol cao là tình trạng ít hoạt động thể chất, thậm chí không tập thể dục (do họ nghĩ mình không cần đốt calo để giảm cân). Kết quả của việc lười vận động là sự gia tăng các axit béo bão hòa trong cơ thể, dẫn đến tăng mức cholesterol xấu.
+3. Thói quen ăn uống không lành mạnh
+Nếu có chế độ ăn uống thiếu khoa học, ngay cả những người thiếu cân cũng sẽ bị rối loạn lipid máu. Mức cholesterol tăng trong máu đến từ một số loại thực phẩm rất giàu cholesterol xấu như bơ thực vật, thịt đỏ, gan, lòng đỏ trứng, tôm… Người gầy không thực sự quan tâm đến các loại thực phẩm họ tiêu thụ. Tuy họ ăn ít và không tăng cân nhưng đôi khi, thức ăn họ dung nạp lại chứa nhiều cholesterol xấu.
+4. Lạm dụng rượu bia
+Chính vì không bị thừa cân – béo phì nên người gầy ít khi kiêng cữ rượu bia. Kết quả là, tiêu thụ lượng rượu quá mức cho phép sẽ dẫn đến sự gia tăng các lipoprotein tỷ trọng thấp (LDL-C).
+Bình thường, nồng độ cholesterol máu < 5,2 mmol/l, Triglycerides trong máu <2.3 mmol/l, HDL-C >= 1 mmol/l và LDL-C <3,4 mmol/l. Trường hợp của bạn có chỉ số cholesterol và LDL-C tăng rất cao. Vậy nên, bạn cần điều trị hạ lipid máu nhằm hạn chế biến chứng xơ vữa động mạch.
+Việc điều trị rối loạn lipid máu thường kết hợp cả 3 phương pháp: điều chỉnh chế độ ăn, tăng cường vận động và sử dụng thuốc (nếu cần). Tùy theo mức độ rối loạn lipid máu và các yếu tố nguy cơ khác của bệnh nhân, bác sĩ sẽ quyết định sử dụng thuốc hay không dùng thuốc.
+Hiện nay, có nhiều nhóm thuốc điều trị rối loạn lipid máu. Lựa chọn loại nào phụ thuộc vào thể trạng người bệnh, mức độ tăng cholesterol, các biến chứng trên mạch máu và các bệnh lý nền khác. Bạn cần đi khám để bác sĩ đánh giá toàn diện, từ đó có chỉ định thuốc phù hợp.
+Bác sĩ sẽ cân nhắc kê toa thuốc dựa trên thể trạng, chỉ số mỡ máu cũng như các bệnh lý đi kèm của bệnh nhân.
+Bên cạnh dùng thuốc, việc thay đổi lối sống đóng vai trò vô cùng quan trọng đối với người bệnh rối loạn lipid máu. Bạn cần vận động với cường độ và thời gian hợp lý để giảm LDL-C, tăng HDL-C, nhờ đó góp phần kiểm soát tốt huyết áp và lượng đường huyết. Thông thường, nếu mỗi người hoạt động thể lực khoảng ít nhất 30 phút/ngày và ít nhất 5 ngày/tuần, thì tình trạng mỡ máu sẽ được cải thiện rất nhiều. Ngoài ra, cần hạn chế thức ăn chứa nhiều axit béo bão hòa (như mỡ trong thịt heo, thịt bò, thịt cừu…), nhiều cholesterol xấu (lòng đỏ trứng, bơ thực vật, tôm…). Thay vào đó, nên tăng cường thực phẩm giàu axit béo không bão hòa như dầu đậu nành, dầu ô liu, dầu bắp, mỡ cá…, bổ sung thêm chất xơ, vitamin, yếu tố vi lượng từ các loại rau, củ và hoa quả; hạn chế bia rượu…
+Hy vọng những thông tin trên sẽ giúp bạn có những lựa chọn tốt nhất để cải thiện tình trạng rối loạn lipid của mình, phòng ngừa các biến cố tim mạch có thể xảy ra trong tương lai.
+ThS.BS Phạm Đỗ Anh Thư
+Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh TP.HCM

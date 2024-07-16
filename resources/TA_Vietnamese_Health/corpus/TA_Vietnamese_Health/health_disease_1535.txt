@@ -1,0 +1,93 @@
+# doc_id = health_disease_1535
+# url = https://tamanhhospital.vn/thong-lien-that-o-tre-so-sinh/
+# date = 05/04/2024
+Thông liên thất ở trẻ sơ sinh: Nguyên nhân, dấu hiệu và điều trị
+Thông liên thất ở trẻ sơ sinh là dị tật tim bẩm sinh phổ biến nhất. Đa số các trường hợp có thể tự đóng lại, nhưng một số trường hợp lỗ thông có kích thước trung bình đến lớn có nguy cơ dẫn đến biến chứng. Vậy trẻ sơ sinh bị thông liên thất có những dấu hiệu gì và cách điều trị như thế nào?
+Mục lụcThông liên thất ở trẻ sơ sinh là gì?Các dạng thông liên thất ở trẻ sơ sinh1. Thông liên thất phần quanh màng2. Thông liên thất phần cơ3. Thông liên thất phần (buồng) nhận4. Thông liên thất phần phễuThông liên thất ở trẻ sơ sinh có phổ biến không?Dấu hiệu thông liên thất ở trẻ sơ sinhNguyên nhân gây thông liên thất ở trẻ sơ sinhThông liên thất ở trẻ sơ sinh có nguy hiểm không?Phương pháp chẩn đoán thông liên thất ở trẻ sơ sinh1. X-quang tim phổi2. Siêu âm tim3. Thông tim4. Chụp cắt lớp vi tính (CT tim) và cộng hưởng từ tim (MRI tim)5. Điện tâm đồ (ECG)Điều trị thông liên thất ở trẻ sơ sinh như thế nào?1. Điều trị nội khoa2. Phẫu thuật3. Thông tim can thiệp đóng lỗ thông liên thấtCách chăm sóc trẻ sơ sinh bị thông liên thấtThông liên thất ở trẻ sơ sinh là gì?
+Thông liên thất ở trẻ sơ sinh, gây ra các triệu chứng như khó thở, ăn uống kém, chậm tăng cân ở hầu hết trẻ.
+Thông liên thất xảy ra khi có sự xuất hiện của một hay nhiều lỗ nằm trên vách ngăn giữa tâm thất trái và tâm thất phải. Khi đó, máu giàu oxy từ tâm thất trái đổ vào tâm thất phải, và lên thẳng động mạch phổi, làm tăng thể tích và áp lực trong hệ tuần hoàn phổi và tăng lượng máu trở về tim trái. Đồng thời, tim cần phải làm việc nhiều hơn, lâu dần khiến tim bị dãn.
+Thông liên thất lớn hay nhỏ khi so sánh kích thước lỗ thông với vòng van động mạch chủ. Lỗ thông được xem là lớn khi > 3/4 đường kính vòng van, nhỏ khi kích thước ≤ 1/4 đường kính vòng van, còn lại từ 1/4 – 3/4 là trung bình.
+Thông liên thất không kèm bệnh tim bẩm sinh nào khác chiếm 37% tổng số bệnh tim bẩm sinh ở trẻ em. Sàng lọc ở trẻ sơ sinh, tỷ lệ thông liên thất chiếm khoảng 0,3%. Có tới 90% các trường hợp lỗ thông liên thất có thể tự bít trong năm đầu đời hoặc trước 10 tuổi. (1)
+Trường hợp lỗ thông liên thất có kích thước từ trung bình đến lớn có thể gây ra các biến chứng bất lợi cho trẻ như tăng áp động mạch phổi, rối loạn chức năng tâm thất và tăng nguy cơ rối loạn nhịp tim. Khi đó, trẻ cần điều trị bằng phẫu thuật hoặc thông tim để đóng lỗ thông, tránh các biến chứng nguy hiểm và tạo điều kiện thuận lợi cho sự phục hồi, phát triển bình thường của trẻ.
+Cấu trúc tim bình thường và tim có lỗ thông liên thất
+Các dạng thông liên thất ở trẻ sơ sinh
+Dựa trên vị trí giải phẫu, bệnh thông liên thất được chia thành 4 loại chính bao gồm:
+1. Thông liên thất phần quanh màng
+Cho đến nay, thông liên thất phần quanh màng là loại phổ biến nhất, chiếm 80% tổng số các trường hợp thông liên thất. Vị trí của lỗ thông liên thất nằm tại phần trên của vách ngăn giữa tâm thất và có thể tự đóng lại.
+2. Thông liên thất phần cơ
+Vị trí dạng thông liên thất này nằm trong vách ngăn phần cơ, thường ở gần mỏm tim, ở giữa vách hoặc ở phần nhận của vách liên thất. Trường hợp này chiếm tới 20% thông liên thất ở trẻ sơ sinh. Tỷ lệ mắc thông liên thất phần cơ ở người lớn thấp hơn do lỗ thông có xu hướng tự đóng lại khi lớn lên.
+3. Thông liên thất phần (buồng) nhận
+Lỗ thông liên thất này nằm ngay đường vào (van ba lá và van hai lá). Thông liên thất phần buồng nhận chỉ khoảng 8% của tất cả các trường hợp và thường xuất hiện cùng với tổn thương van nhĩ thất (kênh nhĩ thất) và một số trường hợp đi kèm hội chứng Down.
+4. Thông liên thất phần phễu
+Thông liên thất phần phễu nằm ngay dưới lỗ van động mạch phổi và trước dưới van động mạch chủ trong tâm thất trái, nối hai buồng với nhau, chiếm 6% tổng số trường hợp thông liên thất.
+Thông liên thất ở trẻ sơ sinh có phổ biến không?
+Thông liên thất là dị tật tim bẩm sinh phổ biến nhất ở trẻ em và là bất thường bẩm sinh phổ biến thứ hai ở người lớn. Bệnh chiếm khoảng 30% các trường hợp trẻ em bị tim bẩm sinh, với ước tính khoảng 2-5 trẻ mắc bệnh trong 1.000 trẻ sinh sống.
+Thông liên thất có thể đơn thuần nhưng có thể nằm trong một bệnh cảnh bệnh tim bẩm sinh phức tạp khác như Tứ chứng Fallot, Kênh nhĩ thất, Chuyển vị đại động mạch,… (2)
+Dấu hiệu thông liên thất ở trẻ sơ sinh
+Thông liên thất nhỏ có thể không biểu hiện triệu chứng, hiếm khi cần phải điều trị bằng phẫu thuật hoặc thông tim đóng lỗ thông mà chỉ cần theo dõi. Phần lớn các lỗ thông liên thất nhỏ ở trẻ sơ sinh đều có thể tự đóng bằng các cấu trúc mô xung quanh như mô van ba lá tạo thành phình vách màng trước tuổi đi học. Tuy nhiên đối với các trường hợp thông liên thất lỗ lớn, trẻ sơ sinh có thể có triệu chứng sớm sau 1 tuần tuổi.
+Một trong những dấu hiệu của bệnh thông liên thất ở trẻ sơ sinh là chậm tăng cân
+Các dấu hiệu gợi ý cần kiểm tra thông liên thất ở trẻ sơ sinh bao gồm:
+Nhịp tim bất thường;
+Thở nhanh, co lõm ngực hoặc khó thở;
+Bú kém, thở mệt hay vã mồ hôi nhiều khi bú, cữ bú kéo dài;
+Chậm tăng cân.
+Nguyên nhân gây thông liên thất ở trẻ sơ sinh
+Thông liên thất ở trẻ sơ sinh xảy ra khi có sự phát triển bất thường cấu trúc tim của phôi thai.
+Một số yếu tố di truyền đã biết liên quan đến thông liên thất ở trẻ sơ sinh bao gồm: bất thường nhiễm sắc thể, đột biến gen và di truyền đa gen. Đột biến gen TBX5 được phát hiện gây ra khuyết tật vách ngăn ở những trẻ mắc hội chứng Holt-Oram.
+Ngoài ra, một số yếu tố nguy cơ trong quá trình mang thai làm tăng nguy cơ xuất hiện thông liên thất ở trẻ sơ sinh bao gồm:
+Mẹ bị mắc các bệnh truyền nhiễm như rubella, cúm hoặc sốt trong 3 tháng đầu thai kỳ;
+Mẹ bị đái tháo đường thai kỳ, phenylceton niệu;
+Sử dụng rượu, bia hoặc các chất kích thích (cocaine, thuốc lá,…) và các thuốc như metronidazole, ibuprofen trong thời gian mang thai.
+Thông liên thất ở trẻ sơ sinh có nguy hiểm không?
+Các lỗ thông liên thất nhỏ gần như không ảnh hưởng đến sự tăng trưởng và phát triển của trẻ và đa số các trường hợp lỗ thông sẽ tự đóng lại khi trẻ lớn lên. Lỗ thông liên thất kích thước nhỏ cũng không gây ra triệu chứng ở trẻ sơ sinh. Tuy nhiên, các lỗ thông liên thất nhỏ lại làm tăng nguy cơ viêm nội tâm mạc nhiễm trùng (SBE).
+Đây là tình trạng viêm nội mạc tim và mạch máu do vi khuẩn trong máu gây ra, thường xảy ra sau thủ thuật nha khoa hoặc can thiệp có chảy máu khác. Tuy nhiên, tình trạng này có thể được ngăn ngừa bằng cách sử dụng kháng sinh dự phòng trước khi thực hiện thủ thuật để ngăn viêm nội tâm mạc nhiễm trùng.
+Đối với lỗ thông liên thất có kích thước trung bình đến lớn, dòng máu chảy qua lỗ thông đủ lớn, dẫn đến tình trạng tăng lưu lượng máu đến phổi. Thông thường, áp lực ở tim trái cao hơn nhiều so với tim phải. Tuy nhiên, khi xuất hiện thông liên thất, máu sẽ từ tâm thất trái qua lỗ thông vào tâm thất phải, lên phổi gây tăng tuần hoàn phổi và buộc tim phải làm việc nhiều hơn. Khi tim không thể đáp ứng khối lượng công việc tăng lên này, các triệu chứng của suy tim sung huyết sẽ phát triển bao gồm: đổ nhiều mồ hôi, trẻ bú kém, tăng cân chậm, thở nhanh, trẻ khó chịu, hay quấy khóc.
+Các trường hợp thông liên thất phần phễu nằm gần van động mạch phổi, thường dẫn đến hở van động mạch chủ. Khi đó, phẫu thuật đóng lỗ thông thường được khuyến khích ngay cả khi lỗ thông nhỏ.
+Phương pháp chẩn đoán thông liên thất ở trẻ sơ sinh
+Hầu hết các trường hợp thông liên thất được phát hiện khi bác sĩ khám tổng quát cho trẻ sơ sinh và phát hiện âm thổi trước tim. Khi đó, các bác sĩ sẽ yêu cầu trẻ thực hiện thêm các cận lâm sàng để chẩn đoán thông liên thất bao gồm:
+1. X-quang tim phổi
+Không chỉ định thường quy ở trẻ sơ sinh. Tuy nhiên, vì lý do nào đó trẻ được chụp X-quang, khi thông liên thất lớn, có thể sẽ thấy bóng tim to hơn bình thường, tuần hoàn phổi tăng. Các trường hợp thông liên thất lỗ nhỏ, gần như không làm thay đổi hình ảnh tim trên X-quang tim phổi.
+2. Siêu âm tim
+Siêu âm tim qua thành ngực (TTE) là phương pháp lựa chọn hàng đầu không xâm lấn có thể giúp phát hiện tới 95% các trường hợp thông liên thất. Siêu âm tim giúp xác định chẩn đoán, xác định giải phẫu (vị trí, kích thước và số lượng lỗ thông liên thất), tổn thương giải phẫu kèm theo, biến chứng liên quan (tăng áp phổi, giãn buồng tim, hở van tim) và theo dõi điều trị.
+Siêu âm tim là kỹ thuật thường quy giúp phát hiện thông liên thất ở trẻ sơ sinh
+3. Thông tim
+Thông tim giúp cung cấp thông tin huyết động chính xác liên quan đến sức cản mạch máu phổi và đáp ứng với thuốc giãn mạch.
+Phương pháp chẩn đoán này giúp cung cấp thêm thông tin về tình trạng hở van động mạch chủ, thông liên thất nhiều lỗ và khi nghi ngờ có bệnh động mạch vành đi kèm. Tuy nhiên ở trẻ sơ sinh, thông tim thường không cần thiết đối với thông liên thất đơn thuần.
+4. Chụp cắt lớp vi tính (CT tim) và cộng hưởng từ tim (MRI tim)
+Cả chụp cộng hưởng từ và chụp cắt lớp vi tính (CT) không cần thực hiện nếu là thông liên thất đơn thuần. Trong trường hợp thông liên thất kèm theo các bệnh tim bẩm sinh phức tạp khác có thể các bác sĩ cần thực hiện thêm CT tim, MRI tim để đánh giá toàn diện cấu trúc và chức năng tim khi mà siêu âm tim qua thành ngực không cung cấp đầy đủ thông tin cho chẩn đoán và định hướng điều trị.
+5. Điện tâm đồ (ECG)
+Do sự khác biệt về sinh lý tuần hoàn sơ sinh, điện tâm đồ ở trẻ sơ sinh, kể cả trường hợp có thông liên thất lớn vẫn còn biểu hiện của ưu thế thất phải. Rất hiếm trường hợp ở trẻ sơ sinh có thông liên thất, nhất là trong 3 – 7 ngày đầu sau sinh ghi nhận điện tim có dãn thất trái, nhĩ trái.
+Điều trị thông liên thất ở trẻ sơ sinh như thế nào?
+Do tỷ lệ tự đóng dần của lỗ thông liên thất nhỏ khá cao, khoảng 85-90% thông liên thất nhỏ đơn độc sẽ tự đóng lại trong năm đầu đời của trẻ. Do đó, trẻ có thông liên thất nhỏ – trung bình nếu không có triệu chứng gì và không gây giãn buồng tim, hở van tim hay tăng áp phổi thường có tiên lượng tốt mà không cần bất kỳ sự can thiệp nào.
+Trong trường hợp thông liên thất lớn, gây tăng áp phổi, trẻ cần phẫu thuật sớm, tốt nhất là trước 6 tháng, chậm nhất là 1 năm. Nếu lỗ thông liên thất kích thước trung bình, thời điểm phẫu thuật cho trẻ liên quan tới việc phát hiện giãn buồng tim hoặc hở van động mạch chủ tiến triển.
+Đối với trẻ sơ sinh thông liên thất, thường không cần phẫu thuật hay can thiệp trong giai đoạn này. Nếu thông liên thất lớn, trẻ suy tim, thở nhanh thì điều trị nội khoa ổn định trước và có thể phẫu thuật khi trẻ 1-3 tháng tuổi.
+1. Điều trị nội khoa
+Điều trị thông liên thất bằng thuốc chủ yếu giúp giảm bớt tải cho tim và tăng sức co bóp cơ tim. Các loại thuốc có thể được chỉ định bao gồm: thuốc lợi tiểu, digoxin và các thuốc làm giảm hậu tải, giảm tái cấu trúc tim.
+Những loại thuốc này thường giúp điều trị giảm triệu chứng, hỗ trợ cho trẻ vượt qua giai đoạn sơ sinh để phẫu thuật lúc 1-3 tháng tuổi trong trường hợp thông liên thất lớn.
+2. Phẫu thuật
+Nếu việc sử dụng thuốc điều trị nội khoa tối ưu vẫn không thể kiểm soát được các triệu chứng của trẻ, bác sĩ sẽ xem xét chỉ định phẫu thuật vá lỗ thông.
+Hầu như trong giai đoạn sơ sinh, trẻ có thông liên thất không phải can thiệp phẫu thuật hoặc điều trị vá lỗ thông ngay mà chờ đến khi trẻ đủ lớn, một số trường hợp cần phải tiến hành ngay trước 6 tháng tuổi, khi mà lỗ thông quá lớn gây tăng quá mức lưu lượng máu lên phổi.
+Trong phẫu thuật tim hở đóng lỗ thông liên thất, bác sĩ phẫu thuật sẽ khâu trực tiếp hoặc dùng miếng vá nhân tạo để vá lại lỗ thông trên vách ngăn. (3)
+Phẫu thuật sửa chữa giúp giảm nguy cơ viêm nội tâm mạc, có thể cải thiện tình trạng tăng áp phổi, tăng khả năng sống sót. Phẫu thuật đóng thông liên thất ở trẻ em khá an toàn, nếu không có tăng áp phổi, tỷ lệ tử vong trong khi phẫu thuật là dưới 1%.
+Các biến chứng có thể gặp bao gồm:
+Thông liên thất tồn lưu;
+Hở van ba lá;
+Hở van động mạch chủ;
+Rối loạn nhịp tim;
+Rối loạn chức năng thất trái;
+Tiến triển tăng áp phổi.
+3. Thông tim can thiệp đóng lỗ thông liên thất
+Thông tim can thiệp đóng lỗ thông liên thất là đưa một ống thông có gắn dụng cụ vào để bít lỗ thông trong tim. Ống thông thường được luồn vào từ động mạch hoặc tĩnh mạch ở bẹn, đi qua mạch máu đến tim. Khi ống thông được đưa đến đúng vị trí thông liên thất, dụng cụ sẽ được mở ra để che kín lỗ thông.
+Ưu điểm của thủ thuật này là không cần phải phẫu thuật tim hở, bác sĩ chỉ cần chích lỗ nhỏ từ 2-3mm để thực hiện thủ thuật.
+Tuy nhiên, thủ thuật này thường không áp dụng cho trẻ sơ sinh vì nếu lỗ thông liên thất nhỏ thường chưa cần điều trị ở giai đoạn này. Trong khi lỗ thông liên thất lớn thì không có dụng cụ phù hợp để đóng.
+Cách chăm sóc trẻ sơ sinh bị thông liên thất
+Nếu thông liên thất ở trẻ sơ sinh có kích thước nhỏ, bác sĩ sẽ trao đổi với phụ huynh về việc chăm sóc như các trẻ sơ sinh khác về vấn đề dinh dưỡng, chủng ngừa hoặc có kế hoạch theo dõi định kỳ cho bé.
+Xây dựng chế độ dinh dưỡng phù hợp với trẻ sơ sinh đủ tháng hay non tháng, đảm bảo trẻ được cung cấp đủ năng lượng qua sữa mẹ hoặc sữa công thức nhằm tránh suy dinh dưỡng.
+Một số trường hợp trẻ sơ sinh không thể bú mẹ, suy tim nặng làm trẻ bú mệt, chậm tiêu hóa hoặc gây hậu quả là rất chậm tăng cân có thể cần chia nhỏ cữ, thêm cữ bú đêm và có thể cần đặt ống thông mũi – dạ dày để bơm sữa cho bé.
+Tránh để trẻ quấy khóc nhiều;
+Trẻ có các biến chứng suy tim, tăng áp động mạch phổi, bố mẹ cần chú ý quan sát các triệu chứng của con như thở mệt, tím môi từng cơn,… học cách theo dõi đếm nhịp thở, quan sát cách thở co lõm ngực nhiều;
+Đưa trẻ đến thăm khám định kỳ theo đúng chỉ định để bác sĩ có thể theo dõi hiệu quả trong điều trị cũng như kịp thời phát hiện bất thường nếu có.
+Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh tiếp nhận và chữa trị thành công cho các trường hợp bệnh tim bẩm sinh như thông liên thất, thông liên nhĩ, hẹp/hở van tim, loạn nhịp tim…. bằng kỹ thuật can thiệp hoặc phẫu thuật ít xâm lấn, giúp giảm đau, rút ngắn thời gian nằm viện, giúp trẻ mau chóng hồi phục.
+Trung tâm quy tụ đội ngũ các chuyên gia giàu kinh nghiệm trong điều trị nội khoa, can thiệp và phẫu thuật bệnh Tim bẩm sinh sẽ chăm sóc và theo dõi chặt chẽ quá trình điều trị, phục hồi để phát hiện và can thiệp sớm các bất thường trái tim cho trẻ.
+Để đặt lịch khám, tư vấn tầm soát và điều trị bệnh tim bẩm sinh cho trẻ với các bác sĩ Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh, Quý khách có thể liên hệ theo thông tin sau:
+Thông liên thất ở trẻ sơ sinh có thể tự đóng lại nếu lỗ thông nhỏ và không gây ra triệu chứng. Tuy nhiên, nếu lỗ thông có kích thước lớn, có những ảnh hưởng về huyết động thì cần được can thiệp điều trị đúng thời điểm, tránh các biến chứng nguy hiểm cho trẻ. Sau điều trị, bố mẹ cần chăm sóc tốt cho con về dinh dưỡng, tập vận động hợp lý để giúp con nhanh chóng hồi phục và phát triển khỏe mạnh.

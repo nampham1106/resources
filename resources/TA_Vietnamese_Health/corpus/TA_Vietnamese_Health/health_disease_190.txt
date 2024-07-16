@@ -1,0 +1,215 @@
+# doc_id = health_disease_190
+# url = https://tamanhhospital.vn/chuyen-vat-tu-do/
+# date = 10/11/2020
+Phẫu thuật chuyển vạt tự do: Tổng quan kiến thức A-Z
+Phẫu thuật chuyển vạt tự do giúp phục hồi các tổ chức của bộ phận, cơ quan trên cơ thể bị khuyết hổng. Đây là phương pháp hiện đại, hiệu quả, khắc phục được những nhược điểm của các phương pháp phẫu thuật phục hồi có trước nó.
+Mục lụcKhái niệm về phẫu thuật chuyển vạt tự doLịch sử phẫu thuật chuyển vạtNguyên tắc phẫu thuật chuyển vạtChỉ định chuyển vạt tự do1. Chỉ định chung2. Chống chỉ định chungChuyển vạt tự do ở chi trên1. Chỉ định2. Chống chỉ địnhChuyển vạt tự do ở chi dưới1. Chỉ định2. Chống chỉ địnhVị trí chuyển vạt tự do trong bậc thang điều trịNhững vạt tổ chức thường được sử dụng ở dạng tự do1. Vạt ở đầu và thân mình2. Vạt ở chi trên3. Vạt ở chi dướiThời điểm chuyển vạt tự doThực hiện phẫu thuật chuyển vạt tự do1. Chuẩn bị trước mổ2. Trong mổTheo dõi, điều trị sau mổ1. Đặc điểm bệnh nhân sau mổ chuyển vạt tự do2. Những biến chứng có thể gặp3. Theo dõi, xử trí tắc mối nối mạch4. Xử trí biến chứng tắc mạch trong phẫu thuật5. Thuốc phòng dự phòng tắc mạch6. Công tác chăm sóc, điều dưỡngKhái niệm về phẫu thuật chuyển vạt tự do
+Vạt (Flap) hay vạt tổ chức (Tisue Flap) là một khối tổ chức có mạch máu nuôi dưỡng, đảm bảo có thể chuyển từ vị trí giải phẫu bình thường (nơi cho – doner site) đến vị trí khác (nơi nhận – recipient site) trên cơ thể nhưng tuần hoàn trong vạt vẫn được duy trì.
+Chuyển vạt tự do (Free Flap Transfer) hay chuyển tổ chức tự do (Free Tissue Transfer) là chuyển vạt từ nơi này tới nơi khác trên cơ thể, mạch máu nuôi được cắt rời khỏi nơi cho và sau đó được nối với mạch máu ở nơi nhận để tái lập tuần hoàn trong vạt.
+Chuyển vạt (vạt tự do và vạt có cuống) khác với ghép (graft) ở chỗ: Vạt được chuyển vẫn có tuần hoàn riêng nuôi vạt ngay sau khi chuyển, còn tổ chức được ghép thì không có tuần hoàn cấp máu ngay sau khi ghép nên sự sống của nó hoàn toàn phụ thuộc vào sự nuôi dưỡng từ nền nhận (ban đầu là sự thấm huyết tương vào mảnh ghép, sau đó mới dần hình thành hệ thống mạch máu đảm bảo tuần hoàn trong vạt).
+Lịch sử phẫu thuật chuyển vạt
+Vạt (flap) là thuật ngữ xuất hiện từ thế kỷ 16 theo tiếng Hà Lan “flappe” để chỉ một cái gì đó được treo lỏng lẻo do chỉ được cố định chặt ở một cạnh (bờ, bên, đầu, phía).
+Phẫu thuật chuyển vạt có từ 600 năm trước Công Nguyên khi Sushruta Samita mô tả phục hồi mũi bằng vạt da má.
+Thời kỳ đầu, phẫu thuật chuyển vạt chủ yếu là xoay chuyển vạt da tới vùng khuyết hổng da kế cận, tiếp theo là kỹ thuật đẩy trượt vạt da. Vào thời kỳ phục hưng (từ thế kỷ 14), xuất hiện kỹ thuật chuyển vạt từ xa có cuống.
+Lịch sử phát triển của phẫu thuật chuyển vạt để điều trị khuyết hổng trên cơ thể được đánh dấu bởi các mốc thời gian sau:
+Trong Đại chiến thế giới thứ nhất và thứ hai: Thực hiện chuyển vạt có cuống nuôi ngẫu nhiên (random flap).
+Trong những năm 1950 và 1960:xuất hiện kỹ thuật chuyển vạt có trục mạch nuôi (axial pattern flap) dạng có cuống.
+Năm 1973:lần đầu tiên trên thế giới, nhờ có kỹ thuật vi phẫu (KTVP), Daniel RK và Taylor GI thành công trên lâm sàng chuyển vạt tự do, đó là vạt da mỡ bẹn được chuyển để điều trị khuyết hổng phần mềm ở cẳng chân gây lộ xương chày.
+Yếu tố quyết định đảm bảo thành công của phẫu thuật chuyển vạt tự do là mối nối mạch máu (động mạch và tĩnh mạch) của vạt với mạch máu ở nơi nhận (mạch nhận) phải lưu thông tốt (1), trường hợp cần phục hồi cảm giác của vạt da hoặc chức năng vận động của vạt cơ thì mối khâu nối thần kinh phải không làm tổn thương các axon (sợi trục). Để thực hiện được những điều này, phẫu thuật viên phải sử dụng KTVP.
+Trong những năm 1980, có nhiều loại vạt tổ chức khác nhau được chuyển ở dạng tự do như: vạt da cân, vạt cơ, vạt da – cơ, vạt xương, vạt da – xương,…
+Trong những năm 1990, xuất hiện kỹ thuật chuyển vạt tự do dựa trên mạch xuyên (perforator flap). Những vạt này được cấp máu bởi những mạch máu nhỏ (trước đây được cho rằng quá nhỏ không đủ nuôi vạt), chúng xuất phát từ mạch lớn của vạt và đi xuyên qua cơ, vách liên cơ để cấp máu cho tổ chức ở phía trên. Ví dụ điển hình của loại vạt này là vạt DIEP (deep inferior epigastric perforator), nay được sử dụng như một vạt tiêu chuẩn trong tái tạo vú.
+Ở Việt Nam, chuyển vạt tự do trong điều trị khuyết hổng tổ chức được thực hiện từ những năm cuối 1980, bắt đầu tại Bệnh viện Trung ương Quân Đội 108 và nay đang được triển khai tại một số bệnh viện lớn trong đó có BVĐK Tâm Anh.
+Khuyết hổng phức tạp ở bàn chân được Thiếu tướng TTND. GS.TS. Nguyễn Việt Tiến – Chủ nhiệm Khoa Chấn thương Chỉnh hình BVĐK Tâm Anh chuyển vạt tự do, tránh nguy cơ cắt cụt chi.
+Nguyên tắc phẫu thuật chuyển vạt
+Trong phẫu thuật phục hồi và chuyển vạt nói chung cũng như chuyển vạt tự do nói riêng, có 5 nguyên tắc cơ bản cần được tuân thủ chặt chẽ, đó là:
+Nguyên tắc I: Khuyết tổ chức nào thì phục hồi lại bằng tổ chức ấy.
+Nguyên tắc II: Phục hồi theo đơn vị tạo hình
+Nguyên tắc III: Luôn có hình mẫu và kế hoạch dự phòng.
+Nguyên tắc IV: Lấy chỗ nọ bù cho chỗ kia (“giật gấu vá vai”).
+Nguyên tắc V: Không bao giờ quên vùng cho.
+Chỉ định chuyển vạt tự do
+1. Chỉ định chung
+Chuyển vạt tự do được chỉ định trong điều trị những trường hợp sau:
+Khuyết hổng phần mềm làm lộ những cấu trúc quan trọng như: xương, khớp, gân, mạch máu, thần kinh khi không có chỉ định sử dụng vạt xoay tại chỗ, ghép da kinh điển hoặc vạt có cuống.
+Khuyết hổng phần mềm có kèm theo tổn thương gân, thần kinh mà tiên lượng sẽ xử trí tổn thương gân, thần kinh kỳ hai.
+Khuyết hổng xương hoặc phức hợp da – xương, da – cơ – xương.
+Khôi phục lại hình thể sau cắt vú.
+Chuyển cơ chức năng để phục hồi vận động vùng mặt, vùng chi thể.
+Phục hồi lại ngón tay cái, ngón tay dài.
+Chuyển thần kinh chéo ngực qua đoạn thần kinh ghép có nối mạch nuôi.
+Việc lựa chọn phương pháp điều trị khuyết hổng dựa theo bậc thang phẫu thuật phục hồi, bắt đầu từ đơn giản và sử dụng vạt tại chỗ, nếu không có chỉ định mới sử dụng phương pháp phức tạp hơn với chuyển vạt từ xa. Tuy nhiên, sau 4 thập kỷ triển khai chuyển vạt tự do bằng KTVP với tỷ lệ thành công trong nhiều báo cáo trên 95%, chỉ định chuyển vạt tự do không hoàn toàn phụ thuộc vào bậc thang đó.
+Tại những cơ sở chuyên khoa có đủ điều kiện, chuyển vạt tự do được chỉ định rộng rãi hơn để nhanh chóng đạt được kết quả cao về chức năng và thẩm mỹ, vì đáp ứng chặt chẽ yêu cầu cơ bản của phẫu thuật phục hồi như Millard DR đã nêu trong nguyên tắc I.
+Việc lựa chọn loại vạt và vị trí cho vạt cụ thể phụ thuộc vào kích thước, vị trí, đặc điểm giải phẫu của tổn khuyết và mục đích phục hồi. Vạt tự do được phân làm 2 loại, gồm: vạt tổ chức đơn thuần (riêng biệt, đơn độc) như vạt da, cân, cơ, thần kinh, xương đơn thuần hoặc vạt tổ chức kết hợp (gồm 2 loại tổ chức trở lên) như vạt da – cơ, vạt da – cơ có thần kinh cảm giác, da – xương.
+2. Chống chỉ định chung
+Những vấn đề liên quan đến bệnh nhân
+Tình trạng chung của bệnh nhân không cho phép thực hiện phẫu thuật kéo dài.
+Toàn thân hoặc tại chỗ đang trong tình trạng nhiễm khuẩn cấp tính nặng.
+Có bệnh nhiễm khuẩn khác kèm theo chưa được kiểm soát.
+Rối loạn đông máu.
+Bệnh lý về thận và bệnh mạch máu ngoại vi.
+Những bệnh có nguy cơ biến chứng cao gây tắc mối nối mạch: bệnh tim mạch, tiểu đường, hội chứng Raynaud, bệnh cứng da (scleroferma), nghiện thuốc, điều trị tia xạ.
+Những mạch máu dự kiến làm nguồn nuôi (động mạch, tĩnh mạch) đều bị tổn thương.
+Những vấn đề liên quan đến thực hiện phẫu thuật
+Không đảm bảo được vô cảm cho cuộc mổ kéo dài.
+Không có đội ngũ phẫu thuật viên thực hiện được KTVP.
+Không đủ trang thiết bị thực hiện KTVP.
+Chuyển vạt tự do ở chi trên
+1. Chỉ định
+Đối với những tổn thương ở chi trên có chỉ định chuyển vạt tự do hầu hết là do nguyên nhân chấn thương, nhiễm khuẩn và sau cắt khối u lớn. Ở chi trên, có thể chuyển một vạt đơn thuần hoặc vạt kết hợp nhiều loại tổ chức như da, cơ, gân, thần kinh, xương trong một vạt.
+Một trong những ưu điểm chính của chuyển vạt tự do trong phẫu thuật phục hồi ở bàn tay là bàn tay được vận động sớm nhằm giảm phù nề và cứng khớp sau phẫu thuật.
+Đối với những trường hợp khuyết hổng phần mềm, khi không có chỉ định điều trị bằng các phương pháp kinh điển như ghép da, vạt xoay tại chỗ kế cận vết thương hoặc vạt có cuống mạch liền ở chi bị tổn thương thì cần được chỉ định chuyển vạt phần mềm tự do.
+Vạt sử dụng có thể là vạt da, cơ hoặc vạt cân tự do. Việc lựa chọn vạt cụ thể được căn cứ vào vị trí, kích thước, các tổ chức quan trọng bị bộc lộ, độ sâu của hoại tử và mức độ nhiễm khuẩn của từng tổn khuyết cụ thể, chẳng hạn: nếu khuyết hổng da nhỏ vùng mu bàn tay làm lộ các gân duỗi ngón tay hoặc có tổn thương gân nhưng được chỉ định khâu, ghép gân đồng thời với tạo hình phủ (khi khuyết hổng không bị nhiễm khuẩn) thì sử dụng vạt cân tự do (cân thái dương, cân bả vai) và ghép da kinh điển lên trên cân. Nhưng nếu có mất đoạn gân mà không có chỉ định ghép gân đồng thời với tạo hình phủ (vết thương có nhiễm khuẩn) thì sử dụng vạt da cân (vạt bả vai, bên bả, delta, cánh tay ngoài) để tạo thuận lợi cho xử trí gân kỳ sau.
+Trường hợp khuyết hổng da và gân gấp ngón tay ở ngay trên khớp cổ tay và không bị nhiễm khuẩn (sau cắt sẹo do di chứng bỏng, chấn thương) thì sử dụng vạt da – gân duỗi mu bàn chân để thực hiện đồng thời ghép phục hồi gân gấp và tạo hình phủ.
+Trường hợp mất đoạn xương quay hoặc xương trụ trên 5 – 6 cm và phần mềm tại chỗ bị xơ sẹo, kém được nuôi dưỡng thì chỉ định ghép vạt xương mác là rất ưu việt. Khi sử dụng vạt xương mác, có thể phục hồi đồng thời xương và phần mềm bằng cách sử dụng vạt da – xương mác hoặc da – cơ dép – xương mác, cũng có thể phục hồi động mạch quay hoặc động mạch trụ bị mất đoạn bằng cách nối đầu ngoại vi động mạch mác (hoặc đầu trung tâm nếu đặt xương mác đảo chiều) vào đầu ngoại vi của động mạch cần phục hồi.
+Những trường hợp cụt ngón tay cái mà không có chỉ định cái hóa ngón tay dài (tổn thương nặng nề ở bàn tay, cụt đốt 2 ngón tay cái) thì có chỉ định chuyển ngón chân phục hồi ngón tay cái. Căn cứ vào tổn thương cụ thể ở ngón cái, ở bàn tay bị tổn thương, sự lành lặn ở bàn chân để lựa chọn chuyển một phần ngón chân cái hoặc toàn bộ ngón chân cái, hoặc ngón chân thứ hai và lựa chọn bên chân sẽ được lấy ngón. Trường hợp cụt toàn bộ các ngón tay dài thì có chỉ định chuyển ngón chân thứ hai hoặc ngón chân thứ hai và thứ ba để phục hồi ngón tay dài (ưu tiên phục hồi ngón nhẫn và ngón út để các ngón đối chiếu được với nhau).
+2. Chống chỉ định
+Chống chỉ định chuyển vạt tự do ở chi trên tương tự như chống chỉ định chuyển vạt tự do nói chung.
+Chuyển vạt tự do ở chi dưới
+1. Chỉ định
+Những khuyết hổng ở chi dưới có chỉ định điều trị bằng chuyển vạt tự do hầu hết là do nguyên nhân chấn thương, nhiễm khuẩn, sau cắt khối u lớn và dị tật bẩm sinh (khớp giả bẩm sinh xương chày).
+Ưu điểm chính của chuyển vạt tự do trong điều trị tổn thương ở chi dưới là cung cấp một khối lượng chất liệu tạo hình lớn theo yêu cầu điều trị, ngoài ra là phục hồi cảm giác khi tạo hình phủ vùng tỳ đè ở bàn chân và nhất là điều trị khuyết hổng xương.
+Ở chi dưới, do yêu cầu về thẩm mỹ không cao trong khi tỷ lệ tắc mối nối mạch lại cao hơn so với chi trên nên thường ưu tiên lựa chọn vạt cuống mạch liền, sử dụng vạt tự do là lựa chọn sau cùng. Căn cứ vào đặc điểm từng tổn thương cụ thể và yêu cầu điều trị để lựa chọn loại vạt và nơi cho cụ thể, đó có thể là vạt đơn thuần hoặc vạt kết hợp nhiều loại tổ chức như da, cơ, thần kinh, xương trong một vạt.
+Việc lựa chọn loại vạt và nơi cho cụ thể được căn cứ vào vị trí, kích thước, các tổ chức quan trọng bị lộ, độ sâu của vùng hoại tử và mức độ nhiễm khuẩn của từng khuyết hổng cụ thể, ngoài ra còn căn cứ vào độ dài cần thiết của cuống mạch vạt… ví dụ: đối với khuyết hổng phần da ở vùng tỳ đè của bàn chân thì sử dụng vạt da có thần kinh cảm giác như vạt delta, vạt cánh tay ngoài; nếu khuyết hổng đó sâu gây bộc lộ xương bị viêm thì sử dụng vạt cánh tay ngoài có lấy kèm một phần cơ tam đầu cánh tay.
+Đối với khuyết hổng phần mềm có kèm theo ổ viêm khuyết xương ở nơi không tỳ đè thì sử dụng vạt cơ, căn cứ vào kích thước khuyết hổng để lựa chọn vạt cụ thể trong số: vạt cơ lưng to, vạt cơ thẳng bụng, vạt cơ thon, vạt cơ sinh đôi bắp chân. Đối với khuyết hổng xương thì sử dụng vạt xương mào chậu cho ổ khuyết xương chày và mất đoạn xương chày < 5 – 6cm; sử dụng vạt xương mác cho mất đoạn xương đùi và mất đoạn xương chày > 6cm, thường sử dụng vạt xương mác gập đôi để nhanh chóng đạt được độ cứng sinh học cần thiết của xương ghép.
+Điều trị gãy xương hở ở chi dưới còn được gọi là “phẫu thuật chỉnh hình thẩm mỹ”, đây là sự kết hợp điều trị tổn thương phần mềm và điều trị gãy xương nhằm nhanh chóng làm liền vết thương, tạo thuận lợi cho quá trình điều trị gãy xương để tránh những biến chứng không liền xương, viêm xương và có thể là cắt cụt chi. Đối với gãy hở xương chày độ III B theo phân loại của Gustilo RB, yêu cầu điều trị là cần phải tạo hình phần mềm bằng vạt tổ chức, đó có thể là vạt tại chỗ hoặc vạt tự do.
+2. Chống chỉ định
+Chống chỉ định chuyển vạt tự do ở chi dưới tương tự như chống chỉ định chuyển vạt tự do nói chung.
+Vị trí chuyển vạt tự do trong bậc thang điều trị
+Cắt lọc vết thương là bước đầu tiên trong quy trình của bậc thang điều trị vết thương. Sau khi cắt lọc triệt để, nếu được thì có thể khâu đóng vết thương kỳ đầu (bậc điều trị thứ nhất). Điều này rất hiếm khi thực hiện được trong điều trị gãy xương hở vì thường liên quan tới khuyết hổng phần mềm, mức độ nhiễm bẩn hoặc không thể đảm bảo chắc chắn là đã cắt lọc vết thương thỏa đáng.
+Khâu đóng vết thương thì đầu trì hoãn (bậc điều trị thứ 2) là những trường hợp được thực hiện trong vòng 24 – 48 giờ, khi cần chờ đợi vết thương giảm phù nề hoặc cần theo dõi, đánh giá vết thương.
+Đối với vết thương nhỏ và không chắc chắn về sự an toàn nếu khâu kín (vết thương do hỏa khí, vết thương nhiễm bẩn) thì không khâu kín mà để tự liền do quá trình biểu mô hóa và sự thu nhỏ lại của vết thương – đây là bậc thứ 3 trong điều trị phục hồi.
+Bậc thang điều trị tiếp theo (bậc thứ 4) là sử dụng phương pháp ghép da, đó có thể là ghép da lưới, mảnh da mỏng hoặc ghép da dày. Phương pháp ghép da được chỉ định đối với những vết thương vượt khả năng làm liền kỳ đầu hoặc kỳ đầu trì hoãn.
+Đối với những vết thương phức tạp hơn, ví dụ: vết thương lộ các cấu trúc quan trọng như thần kinh, động mạch, xương không còn màng xương hoặc các vết thương bị khuyết hổng phần mềm không có chỉ định cho ghép da thì sử dụng những vạt tổ chức phần mềm kế cận hoặc ở vị trí xa vết thương – đây là bậc thang tiếp theo trong thứ bậc điều trị làm liền vết thương.
+Các vạt xoay như vạt cơ, vạt da, vạt cân hoặc vạt kết hợp cả ba tổ chức này có thể cung cấp phần mềm với mạch máu nuôi đầy đủ, cho phép lấp đầy khoang chết và vết thương được che phủ kín không có sức căng. Tuy nhiên, lựa chọn này có thể bị giới hạn do vị trí của vết thương hoặc vị trí cho vạt không thuận tiện. Trong những trường hợp đó, chuyển vạt tự do phải được cân nhắc đến.
+Bậc thang cao nhất trong phẫu thuật phục hồi để làm liền vết thương là sử dụng vạt phần mềm tự do, có thể kết hợp bậc thang này với các bậc thang điều trị thấp hơn như đóng da, ghép da hoặc xoay vạt.
+Như vậy, bậc thang điều trị làm liền vết thương có nhiều thứ bậc. Phẫu thuật viên có thể đi từ thứ bậc này tới thứ bậc khác và trong nhiều trường hợp có thể sử dụng cùng một lúc nhiều kỹ thuật với các thứ bậc khác nhau trong bậc thang để giải quyết những yêu cầu khác nhau trong điều trị. Trình độ và kinh nghiệm lựa chọn trong bậc thang sẽ giúp các phẫu thuật viên lên kế hoạch điều trị hợp lý, cứu được chi và tránh được các biến chứng nặng nề do hậu quả từ việc làm liền vết thương không thích hợp.
+Những vạt tổ chức thường được sử dụng ở dạng tự do
+1. Vạt ở đầu và thân mình
+Vạt cân thái dương được nuôi bởi mạch thái dương nông.
+Vạt da – cân bả vai hoặc bên bả (có thể lấy một phần xương bả vai kèm theo) được nuôi bởi mạch mũ bả vai.
+Vạt cơ lưng to hoặc da – cơ lưng được nuôi bởi mạch ngực lưng.
+Vạt cơ thẳng bụng, vạt TRAM (transverse rectus abdominus myocutaneous), vạt DIEP (deep inferior epigastric perforator) được nuôi bởi mạch thượng vị dưới sâu (DIEA – deep inferior epigastric artery).
+Vạt xương mào chậu hoặc da – xương mào chậu được nuôi bởi mạch mũ chậu sâu.
+2. Vạt ở chi trên
+Vạt da – cân delta được nuôi bởi mạch mũ cánh tay sau.
+Vạt da – cân cánh tay ngoài được nuôi bởi nhánh sau của mạch cánh tay sâu.
+Vạt da – cân cẳng tay quay được nuôi bởi mạch quay.
+Vạt thần kinh trụ được nuôi bởi bó mạch trụ và bó mạch bên trong trụ trên.
+3. Vạt ở chi dưới
+Vạt da – cân mông trên được nuôi bởi nhánh xuyên động mạch mông trên (vạt SGAP – superior gluteal artery perforator).
+Vạt cơ thon được nuôi bởi mạch tách từ động mạch đùi sâu.
+Vạt da – cân đùi trước ngoài (vạt ALT – anterolateral thigh flap) được nuôi bởi nhánh xuống của mạch mũ đùi ngoài.
+Vạt cơ sinh đôi được nuôi bởi mạch tách từ động mạch khoeo.
+Vạt da – cân mu chân được nuôi bởi mạch mu chân.
+Vạt da – gân mu chân được nuôi bởi mạch mu chân.
+Vạt xương mác hoặc da – xương mác được nuôi bởi mạch mác.
+Vạt ngón chân cái hoặc ngón chân thứ II được nuôi bởi mạch mu chân.
+Vạt nội tạng:
+Mạc nối lớn được nuôi bởi mạch vị mạc nối trái và phải.
+Đoạn ruột non được nuôi bởi nhánh tách từ mạch mạc treo tràng trên.
+Thời điểm chuyển vạt tự do
+Đối với khuyết hổng phần mềm, thời điểm tiến hành chuyển vạt phần mềm tự do để làm liền vết thương được căn cứ vào tình trạng chung của bệnh nhân, tình trạng cụ thể tại vết thương (mức độ khuyết hổng phần mềm, loại tổ chức phần mềm bị khuyết hổng, tình trạng nhiễm khuẩn, xương bị gãy và mức độ gãy xương, tình trạng bộc lộ xương…).
+Lưu ý, việc tạo hình phần mềm che phủ vết thương càng sớm càng tốt, nhất là những trường hợp chấn thương nặng gây mất phần mềm và lộ các cấu trúc quan trọng (xương, khớp, mạch máu, thần kinh).
+Nếu vết thương được cắt lọc một cách triệt để ở lần đầu thì có thể thực hiện chuyển vạt tự do ngay. Tuy nhiên, Yarremchuk MJ khuyến nghị rằng, chuyển vạt tự do nên được thực hiện từ ngày thứ 7-14 vì ranh giới giữa vùng tổn thương và vùng lành thường không rõ ràng tại thời điểm nhập viện, thường phải sau nhiều lần cắt lọc mới loại bỏ hết vùng tổn thương, khi đó thì vạt chuyển ghép mới liền với vùng nhận.
+Thực hiện phẫu thuật chuyển vạt tự do
+Do tính phức tạp của phẫu thuật chuyển vạt tự do nên khi thực hiện cần tuân thủ những hướng dẫn (guidelines) đã trở thành nguyên tắc dưới đây để đảm bảo đạt được kết quả cao nhất.
+1. Chuẩn bị trước mổ
+Thăm khám toàn điện, đảm bảo chắc chắn rằng bệnh nhân có khả năng chịu được cuộc mổ kéo dài (thường là 8 giờ hoặc lâu hơn).
+Lựa chọn vạt dựa vào vị trí và kích thước khuyết hổng, loại tổ chức cần được phục hồi, độ dài cuống mạch của vạt, tình trạng bệnh lý nơi cho vạt, dự đoán kết quả về chức năng và thẩm mỹ ở cả nơi nhận và nơi cho vạt.
+Dự kiến mạch nhận (động mạch và tĩnh mạch nuôi vạt ở vùng nhận) sẽ được sử dụng và vị trí nối mạch sao cho nằm ngoài vùng tổn thương.
+Có phương án thay thế nếu phẫu thuật chuyển vạt lần đầu bị thất bại.
+Bệnh nhân và gia đình người bệnh phải được giải thích và hiểu rõ về nội dung phẫu thuật, tất cả những biến chứng có thể xảy ra ở cả nơi nhận và nơi cho vạt.
+2. Trong mổ
+Kế hoạch mổ cần được trao đổi với kíp gây mê và y tá phục vụ, bao gồm: phương pháp vô cảm, chuẩn bị dụng cụ phẫu thuật, thời gian cuộc mổ, tư thế đặt bệnh nhân và những thay đổi tư thế trong mổ, việc đánh chải vùng mổ, những thuốc chống chỉ định đối với bệnh nhân.
+Nếu có 2 kíp phẫu thuật làm việc đồng thời thì phải đảm bảo có đủ y tá chuyên về vi phẫu thuật phục vụ.
+Chuẩn bị dụng cụ chuyên dụng: Kính hiển vi phẫu thuật, dụng cụ vi phẫu thuật mạch máu – thần kinh, máy đốt lưỡng cực, kim chỉ loại 9/0 – 10/0mm, ống nghe siêu âm Doppler đã được tiệt khuẩn.
+Chuẩn bị bệnh nhân: đặt bệnh nhân ở tư thế thuận lợi cho phẫu thuật, kể cả khi cần lấy tĩnh mạch, thần kinh, da để ghép, nhất là khi tiến hành đồng thời 2 kíp mổ (kíp chuẩn bị nền nhận và kíp lấy vạt). Đặt tấm đệm lót tại tất cả các điểm tỳ, chống căng kéo hoặc chèn ép các dây thần kinh, đặt thông tiểu. Băng ép nhẹ liên tục 2 cẳng chân để dự phòng hình thành cục nghẽn ở tĩnh mạch sâu. Sát khuẩn nơi cho, nơi nhận, nơi dự kiến lấy tĩnh mạch, thần kinh, da để ghép.
+Thực hiện kỹ thuật:
+Luôn bắt đầu phẫu thuật bằng việc cắt bỏ toàn bộ khối u hoặc vùng tổn thương và thăm dò, chuẩn bị cẩn thận vùng nhận. Phải khống chế nhiễm khuẩn và cắt lọc vết thương thật căn bản trước khi chuyển vạt.
+Cắt lọc vết thương do chấn thương mới:
+Đối với vết thương mới ở chi thể (gãy hở xương chày độ III B hoặc III C theo phân loại của Gustilo RB), việc cắt lọc được thực hiện dưới garô vì nếu không thì máu hoặc dịch tiết có thể nhuộm màu phần mềm làm khó khăn cho việc phân biệt mô mềm còn sống với mô mềm không còn khả năng sống.
+Việc quyết định chỗ nào nên được cắt bỏ được dựa vào trạng thái và sự thuần nhất của các tổ chức mô mềm. Phần mềm còn sống ở chi thể bị thiếu máu có màu sáng thuần nhất. Phần mềm bị tổn thương thường có dính dị vật, màu sắc không thuần nhất, thường có các vết thâm, có máu tụ hoặc bầm dập. Cần cắt bỏ toàn bộ mô mềm không còn khả năng sống hoặc nghi ngờ là có thể sống.
+Sau cắt xong, bỏ garô và đánh giá sự co cơ, sự chảy máu, màu sắc và sự thuần nhất của các tổ chức mô mềm để xác định khả năng sống của chúng.
+Rửa sạch phần xương bị lộ bằng dung dịch pha kháng sinh. Các mảnh xương rời nhỏ thường được lấy bỏ.
+Buộc các mạch máu bị đứt và nếu các mỏm cụt của mạch bị tổn thương dập nát thì tiến hành cắt tới vùng lành. Đối với những mạch máu chính cấp máu cho chi thể bị mất đoạn thì phục hồi sự liên tục của chúng bằng cách ghép tĩnh mạch.
+Cấu trúc duy nhất còn nhiều tranh cãi khi cắt lọc là thần kinh. Nói chung, đa số đều nhất trí rằng có thể cắt lọc một cách cẩn thận cho tới các bó sợi còn nguyên vẹn, việc cắt lọc dây thần kinh được thực hiện kính hiển vi phẫu thuật hoặc kính lúp phẫu thuật có độ phóng đại trên 4 lần.
+Cắt lọc vết thương mạn tính:
+Yêu cầu cắt lọc đối với vết thương mạn tính như là cắt lọc đối với xử trí một khối u, tức là cắt bỏ toàn bộ tổn thương bệnh lý cho tới tổ chức lành. Cắt bỏ toàn bộ mô sẹo. Việc cắt lọc xương có thể khó khăn vì việc phân biệt giữa xương sống và can xương với phần xương bị hoại tử, nhiễm khuẩn có khi là một thách thức. Trước khi cắt lọc vết thương mạn tính, nhiều trường hợp phải căn cứ vào phim chụp CT và MRI để lập kế hoạch cắt lọc.
+Sau khi cắt lọc, cần đánh giá lại chỉ định phục hồi bằng chuyển vạt tự do sau khi cắt lọc căn bản. Trong một số trường hợp, có thể sử dụng ghép da hoặc vạt tại chỗ thay thế chuyển vạt tự do theo bậc thang phẫu thuật phục hồi.
+Lựa chọn và bộc lộ mạch nhận: Có thể sử dụng siêu âm Doppler để xác định tình trạng mạch tại nơi nhận vạt để lựa chọn mạch nhận. Động mạch và tĩnh mạch vùng nhận được sử dụng nuôi vạt phải được đánh giá rất cẩn thận, đảm bảo rằng những mạch này có lưu lượng tuần hoàn đủ khả năng nuôi vạt, không sử dụng mạch nằm trong vùng tổn thương hoặc đã bị chạy tia xạ để nuôi vạt vì nguy cơ tắc mối nối mạch rất cao. Sau khi lựa chọn được mạch nhận, tiến hành bộc lộ động mạch và tĩnh mạch nhận, tốt nhất là có 2 tĩnh mạch dẫn lưu vạt (thường là 2 tính mạch tùy hành hoặc 1 tĩnh mạch tùy hành và 1 tĩnh mạch nông). Việc lựa chọn mạch nhận sao cho thích hợp là yếu tố rất quan trọng liên quan tới thành công của chuyển vạt tự do, đặc biệt khi chuyển vạt ở chi dưới.
+Trong chuyển vạt phần mềm tự do cho chi dưới, nhiều tác giả cho rằng những yếu tố quan trọng nhất liên quan tới việc lựa chọn mạch nhận là vị trí của tổn thương, tình trạng của mạch máu, loại vạt được sử dụng và phương pháp nối mạch (tận – tận hay tận – bên), còn vị trí của mối nối mạch là yếu tố ít quan trọng hơn.
+Đo kích thước khuyết hổng, xác định loại tổ chức cần sử dụng để phục hồi và tiến hành lựa chọn vạt.
+Vạt phần mềm được phân thành hai loại chính là vạt đơn thuần như: vạt da, vạt cân, vạt cơ và vạt phức hợp những tổ chức này. Việc lựa chọn loại vạt và nơi cho cụ thể được căn cứ vào: vị trí và kích thước vết thương, loại tổ chức phần mềm bị khuyết hổng, tình trạng nhiễm khuẩn vết thương, tình trạng bệnh lý nơi cho vạt, dự đoán kết quả về chức năng và thẩm mỹ ở cả nơi nhận và nơi cho vạt.
+Chiều dài cần thiết cho cuống mạch của vạt sao cho mối nối mạch nằm ở vùng an toàn (nơi mạch nhận không nằm trong vùng bị tổn thương ban đầu) cũng là yếu tố liên quan tới việc lựa chọn vạt và kỹ thuật ghép vạt vào vùng nhận. Do đó, cần chuẩn bị cho nối mạch ở vị trí nằm ngoài vùng tổn thương, đó có thể là ở phía trung tâm hoặc ngoại vi của tổn thương.
+Khái niệm về vùng tổn thương ở đây là đề cập tới phản ứng viêm của phần mềm từ vết thương ban đầu lan rộng ra xung quanh, phản ứng viêm làm thay đổi cấu trúc vi thể của mạch máu và tổ chức quanh mạch, đó là: mạch máu nằm trong khối sẹo khó bóc tách, thành mạch giảm tính bền dai và đàn hồi, tăng tính mủn nát nên dễ bị bục rách. Những thay đổi này làm tăng nguy cơ tắc mối nối mạch, đặc biệt là khi chuyển vạt tự do ở chi dưới. Vì vậy, hầu hết các phẫu thuật viên tránh vùng tổn thương bằng cách bóc tách rộng về phía trung tâm của cuống mạch nhận (mạch nuôi) và có khi sử dụng tĩnh mạch ghép làm dài cuống mạch của vạt để nối với mạch nhận tại vùng lành. Trong nhiều trường hợp, những cố gắng này trong chuyển vạt tự do đã cứu được chi thể bị tổn thương nặng mà thông thường phải tiến hành cắt cụt.
+Thực hiện nối mạch bằng KTVP theo những nguyên tắc chính như sau:
+Sau khi bộc lộ mạch nhận, xác định sự tương xứng về kích thước đường kính giữa mạch nhận và mạch cuống vạt để dự kiến nối mạch kiểu tận – tận hoặc tận bên.
+Chuẩn bị tất cả các đầu mạch tại vùng lành, lấy bỏ hết những mảnh vụn và sợi huyết trong lòng mạch, cắt bỏ lớp bao ngoài (adventitia) động mạch và tĩnh mạch trên đoạn dài 2 – 3 mm để không cho tổ chức này chui vào lòng mạch khi khâu nối, nong nhẹ lòng mạch và tưới rửa bằng nước muối có pha heparine (100 đơn vị/ml).
+Kiểm tra và thắt các nhánh bên để chống chảy máu gây hình thành máu tụ (hematoma).
+Nối mạch của vạt vào mạch mạch nhận kiểu tận – tận hoặc tận – bên là phụ thuộc vào hướng đặt vạt và sự tương ứng về kích thước đường kính giữa mạch cuống vạt và mạch nhận.
+Đảm bảo các mạch không bị căng kéo, xoắn vặn.
+Nếu dự tính cuống mạch bị căng thì phải ghép tĩnh mạch.
+Thông thường, khâu mạch bằng các mối chỉ rời, khoảng cách giữa các mũi khâu vừa phải để không bị thưa gây chảy máu nhưng cũng không quá dày để tránh gây hẹp mối nối và tổn thương lớp nội mạc mạch máu.
+Khi dòng máu được tái thông, vùng nối mạch được tưới nước ấm và papaverine để giảm co thắt mạch.
+Kiểm tra sự thông của mối nối bằng test vắt kiệt “stripping”.
+Khi khâu cố định vạt vào vùng nhận, chú ý không để cuống mạch bị đè ép, căng kéo, xoắn vặn. Trong một số trường hợp tạo hình ở đầu và cổ, thực hiện cố định vạt vào vùng nhận trước khi nối mạch.
+Với trường hợp vạt được vùi trong sâu, nên dùng đầu dò Doppler bên trong đặt cạnh mối nối mạch để theo dõi tình trạng lưu thông của mối nối.
+Băng che phủ vết mổ lỏng, không được băng chặt, để hở một phần vạt để theo dõi sau mổ, nếu cần phải đặt nẹp cố định thì băng giữ nẹp không có sức ép. Khi vận chuyển cũng như đặt tư thế của bệnh nhân, chú ý đảm bảo vùng cuống mạch không bị đè ép.
+Thiếu tướng.TTND. GS.TS. Nguyễn Việt Tiến – Chủ nhiệm Khoa Chấn thương Chỉnh hình BVĐK Tâm Anh đang chuyển vạt thần kinh tự do có nối mạch nuôi để phục hồi chức năng vận động và cảm giác cho bệnh nhân bị nhổ, đứt các rễ thần kinh đám rối cánh tay.
+Theo dõi, điều trị sau mổ
+1. Đặc điểm bệnh nhân sau mổ chuyển vạt tự do
+Trải qua một cuộc mổ lớn, ở hai vị trí (nơi lấy vạt ghép và vùng tổn thương), thời gian cuộc mổ kéo dài (từ 4 – 10 giờ, có khi trên 10 giờ). Do vậy, bệnh nhân thường bị mất máu và có nguy cơ nhiễm khuẩn cao.
+Được sử dụng một khối lượng lớn thuốc mê hoặc gây tê; có nhiều loại độc cho gan, thận hoặc gây rối loạn hoạt động của nhiều cơ quan, bộ phận.
+Được truyền một khối lượng lớn các loại dịch, máu nên có nguy cơ bị giảm thân nhiệt, sốc do dịch truyền, sốc hoặc dị ứng do truyền máu…
+Sức khỏe bị giảm, sức đề kháng giảm nên các bệnh cũ dễ tái phát, bệnh tiềm ẩn dễ bùng phát, dễ mắc các bệnh do vi rút hoặc nhiễm khuẩn.
+Thường có những chấn thương về tâm lý do: bệnh tật nặng nề, thường đã trải qua nhiều lần mổ, những khó khăn về kinh tế…
+Ngoài theo dõi và xử trí những rối loạn mang tính toàn thân như: tuần hoàn, hô hấp, tiêu hóa, tiết niệu, cân bằng nước – điện giải, thăng bằng kiềm – toan, giữ ấm thân nhiệt của bệnh nhân để tránh co thắt mạch ngoại vi thì hết sức chú ý theo dõi và xử trí những biến chứng tại chỗ.
+2. Những biến chứng có thể gặp
+Hoại tử vạt do tắc động mạch hoặc tĩnh mạch, hoặc cả hai.
+Vạt phù nề.
+Hoại tử lớp mỡ của vạt.
+Máu tụ do chảy từ cuống mạch, cần phải truyền máu.
+Nhiễm khuẩn.
+Toác vết mổ
+Biến chứng tại nơi cho vạt: hoại tử da, cơ bên dưới do khâu đóng vết mổ căng, máu tụ, bục toác vết mổ, nhiễm khuẩn…
+Biến chứng toàn thân do gây mê.
+Tắc tĩnh mạch sâu, tắc động mạch phổi.
+3. Theo dõi, xử trí tắc mối nối mạch
+Theo dõi phát hiện sớm tình trạng tắc mối nối mạch để kịp thời xử trí là nội dung quan trọng nhất của công tác chăm sóc sau mổ chuyển vạt tự do. Nhiệm vụ này được tiến hành ngay sau mổ, do kíp chuyên khoa đảm nhiệm, khi thay kíp thì phải bàn giao rất tỷ mỷ, đặc biệt là trong trong 24 – 48 giờ đầu. Tuy nhiên, việc theo dõi thường xuyên vẫn được thực hiện ít nhất là 5 ngày sau mổ; trong thực tế, có một số báo cáo gặp biến chứng tắc mạch vào ngày thứ 4 – thứ 7 sau mổ.
+Kỹ thuật theo dõi sự sống của vạt sau mổ có thể chia làm 4 loại: (1) đánh giá lâm sàng, (2) theo dõi trực tiếp mạch máu, (3) biến đổi tuần hoàn trong vạt, (4) các chất chuyển hóa liên quan đến sự cấp máu, cụ thể như sau:
+Thứ nhất, đánh giá lâm sàng
+Đánh giá lâm sàng vẫn được coi là phương pháp theo dõi chuẩn, khi đánh giá độ tin cậy của các phương pháp theo dõi khác thì vẫn cần phải đối chiếu với lâm sàng. Quy trình đánh giá lâm sàng bao gồm sự quan sát màu sắc da, nhiệt độ, hồi lưu mao mạch, đặc tính máu chảy tại vạt khi châm kim và thay băng kiểm tra, cụ thể là:
+Màu sắc: màu sắc của vạt ghép (màu sắc vạt da hoặc cơ) bình thường hoặc gần như bình thường là dấu hiệu phản ánh các mối nối mạch thông, vạt tổ chức được cấp máu tốt. Trái lại, nếu màu sắc không hồng như bình thường, có màu sẫm hoặc màu tím thì đó là dấu hiệu của tắc mối nối. Trường hợp có màu tím từ nhẹ đến sẫm thì là dấu hiệu tắc tĩnh mạch, màu sắc nhợt nhạt là dấu hiệu tắc động mạch. Việc quan sát màu sắc được thực hiện ở ánh sáng tự nhiên để đảm bảo độ chính xác.
+Nhiệt độ tại vạt ghép: Nhiệt độ tại vạt ghép là biểu hiện của sự tắc mối nối. Tuy nhiên, dấu hiệu này ít có giá trị do vạt được sưởi ấm sau mổ.
+Hồi lưu mao mạch: nếu ấn vào vạt da, vạt da – cơ hoặc đảo da nhỏ được lấy kèm theo vạt xương để làm “vạt kiểm chứng” mối nối mạch cho đến khi hết máu rồi buông tay mà thấy chỗ ấn và vạt ghép căng phồng lại ngay, có màu sắc như bình thường thì đó là dấu hiệu của hồi lưu mao mạch tốt, cho thấy vạt được cấp máu tốt. Trái lại, sau khi ấn và buông tay, chỗ đè ấn không căng phồng lại ngay, màu sắc nhợt nhạt hoặc tím thì đó là dấu hiệu của tắc mạch.
+Màu sắc máu chảy khi châm kim ở vạt da: đây là biện pháp có giá trị để xác định tình trạng lưu thông mối nối mạch, thường được thực hiện khi các theo dõi khác còn nghi ngờ. Nếu máu chảy ra là sẫm màu hoặc không chảy thì đó là dấu hiệu của tắc mạch 8.
+Thay băng kiểm tra: nếu đường khâu căng nề, rỉ máu đen, thậm chí lòi tổ chức dưới da có ứ máu đen thì đó là dấu hiệu của tắc tĩnh mạch. Hoặc, vết mổ không căng nhưng nhợt nhạt, khô héo, không thấy chảy máu thì đó là dấu hiệu tắc động mạch. Khi đó, có thể cắt một số mũi chỉ, cắt một lát mỏng tổ chức mỡ dưới da, rửa vết mổ bằng oxy già để quan sát và đánh giá thêm: nếu còn chảy máu đen nhiều thì đó là tắc tĩnh mạch và động mạch có thể chưa tắc; nếu tổ chức mỡ dưới da sẫm màu, không chảy máu hoặc rỉ máu đen rồi hết thì đó là dấu hiệu của tắc tĩnh mạch và động mạch.
+Thứ hai, theo dõi trực tiếp mạch máu
+Theo dõi trực tiếp mạch máu có thể được thực hiện bằng cách sử dụng các lưu lượng kế điện từ, đây là thiết bị đo dòng điện được tạo ra do dòng chảy của máu.
+Nghe mạch bằng siêu âm Doppler: nghe mạch trên vạt da bằng siêu âm doppler là phương pháp khá tin cậy, phát hiện được sớm tình trạng tắc mạch. Tuy nhiên, khó áp dụng được phương pháp này đối với trường hợp chuyển vạt cơ đơn thuần. Khi đó, sử dụng loại siêu âm có đầu dò nhỏ được đặt cạnh mối nối mạch để theo dõi.
+Phương pháp đo nhiệt tại vị trí trước và sau mối nối mạch: sử dụng hai dụng cụ đo nhiệt rất nhỏ để đo sự khác nhau về nhiệt độ giữa trước miệng nối và sau miệng nối tại cuống vạt.
+Thứ ba, theo dõi lưu lượng tuần hoàn trong vạt
+Đây là thiết bị đo lưu lượng tuần hoàn trong vạt dựa vào sự thay đổi nhiệt độ ở da biểu thị cho dòng máu chảy tại đó. Dụng cụ đo lường này dựa vào sự thay đổi về lượng ánh sáng được phản ánh trong quá trình thay đổi thể tích máu của da tại chỗ. Ngoài ra, có thiết bị theo dõi mạch và độ bão hòa oxy trong vạt.
+Thứ tư, theo dõi qua các chất chuyển hóa trong vạt
+Theo dõi độ bão hòa oxy và phân áp oxy bằng phương tiện không xâm nhập qua da và theo dõi sự tưới máu tại vạt dựa vào các chất chuyển hóa. Mức độ của phân áp oxy trong vạt phản ánh được chất lượng của tuần hoàn mao mạch. Việc theo dõi này thường được thực hiện tại phòng hồi sức trong 24 giờ đầu sau mổ, các biến chứng tắc mạch cũng thường xảy ra trong 24 đầu sau khi chuyển vạt.
+Trong thực tế, thường kết hợp nhiều test lâm sàng và cận lâm sàng để chẩn đoán tắc mối nối mạch, bên cạnh đó cũng cần tìm hiểu đó là tắc động mạch hay tĩnh mạch, có thể gặp những tình huống sau:
+Vạt ghép nhợt nhạt, mất hồi lưu mao mạch, nghe không thấy có mạch, châm kim không thấy máu chảy, vạt có biểu hiện “héo” thì đó là dấu hiệu của tắc động mạch.
+Vạt ghép sẫm màu hoặc tím, nề, hồi lưu có nhưng chậm và màu tím, máu đen chảy từ vết khâu, châm kim thấy có máu chảy nhưng sẫm màu, nghe có thể thấy mạch nhưng yếu hơn so với trước thì đó là dấu hiệu của tắc tĩnh mạch.
+Vạt ghép sẫm màu, nề vừa phải, không có hồi lưu mao mạch, nghe không có mạch, châm kim thấy máu chảy sẫm màu nhưng rất chậm thì đó là dấu hiệu của tắc cả động mạch và tĩnh mạch và tắc động mạch xảy ra trước.
+Vạt ghép sẫm màu, nề nhiều, không có hồi lưu mao mạch, nghe không có mạch, châm kim thấy máu chảy sẫm màu và chảy nhanh, thì đó là dấu hiệu của tắc cả động mạch và tĩnh mạch và tắc tĩnh mạch xảy ra trước.
+4. Xử trí biến chứng tắc mạch trong phẫu thuật
+Chuyển vạt tự do có tỷ lệ thành công trên 95%. Biến chứng cấp tính thường xảy ra trong 48 giờ đầu, biến chứng đó bao gồm: tắc động mạch, tắc tĩnh mạch, máu tụ, chảy máu và vạt bị phù nề lớn.
+Khi phát hiện thấy có dấu hiệu tắc động mạch, cần thay băng kiểm tra, nhanh chóng tháo bỏ băng chặt, cắt mũi chỉ khâu căng nếu có, giảm độ treo (kê) cao chi để cải thiện tuần hoàn động mạch, có thể phong bế gốc chi để chặn thần kinh giao cảm. Sau đó, cần can thiệp phẫu thuật nếu các dấu hiệu tắc mạch không cải thiện.
+Khi thấy có dấu hiệu tắc tĩnh mạch, cũng thay băng để nhanh chóng loại bỏ tình trạng băng chặt và cắt mũi chỉ khâu căng, treo (kê) cao chi để tăng cường dẫn lưu máu tĩnh mạch qua trọng lượng. Ngoài ra, có thể dùng đỉa hút bớt máu, cũng có thể lấy bỏ móng tay và đắp gạc có thấm heparine băng nền móng đối với chuyển ngón chân phục hồi ngón tay nếu bệnh nhân từ chối dùng đỉa. Cuối cùng, thăm khám và xử trí phẫu thuật, nhưng tỷ lệ thành công thường không cao.
+Máu tụ, chảy máu cũng là biến chứng thường gặp, nếu không xử lý kịp thời có thể dẫn đến chèn ép vạt từ bên trong, dẫn đến rối loạn tuần hoàn trong vạt và gây tắc mạch nuôi vạt. Khi thấy vạt phù nề, căng bóng thì tiến hành thay băng, xác định tình trạng máu tụ hoặc chảy máu. Cách xử trí: cắt chỉ lấy máu tụ, thắt mạch máu đang chảy…
+5. Thuốc phòng dự phòng tắc mạch
+Đa số tác giả đều nhất trí rằng, nguyên nhân chính gây tắc mạch là kỹ thuật nối mạch không tốt. Do vậy, đảm bảo nối mạch đúng kỹ thuật, chuẩn xác, mũi khâu được đặt ở tổ chức lành là đã dự phòng tắc mạch. Dẫu thế, không mấy ai phủ nhận vai trò của thuốc dự phòng tắc mạch trong phẫu thuật có sử dụng kỹ thuật vi phẫu mạch máu (khâu nối mạch máu nhỏ).
+Tuy nhiên, nếu như trong phẫu thuật nối chi thể nhiều tác giả chủ trương sử dụng thuốc chống đông (heparine, lovenox) kết hợp với thuốc làm tăng tuần hoàn vi mạch và thuốc chống kết dính tiểu cầu thì trong chuyển vạt tự do đa số tác giả lại không chủ trương sử dụng thuốc chống đông mà chỉ dùng thuốc làm tăng tuần hoàn vi mạch và thuốc chống kết dính tiểu cầu, vì trong chuyển vạt tự do thì diện bóc tách rộng, dùng thuốc chống đông sẽ gây chảy máu kéo dài làm mất máu, dễ hình thành máu tụ tại nơi lấy vạt và nơi nhận vạt ghép.
+Theo GS.TS. Nguyễn Việt Tiến cho biết “Ở Việt Nam, chúng tôi chủ trương dùng thuốc dự phòng tắc mạch sau mổ chuyển vạt tự do như sau:
+Dextran MW 40.000: 500 ml hàng ngày, trong 3 ngày.
+Aspirin PH 8: uống1g hàng ngày, chia 2 lần một ngày, trong 7 ngày.
+Dipiridamol: uống 150 mg hàng ngày, chia 2 lần một ngày, trong 7 ngày.
+6. Công tác chăm sóc, điều dưỡng
+Giữ ấm thân nhiệt của bệnh nhân để tránh co thắt mạch ngoại vi. Theo đó, cần giữ ấm phòng, đắp chăn ấm vào mùa lạnh. Bên cạnh đó, sưởi ấm tại chỗ bằng đèn điện công suất 60W đặt cách xa 30cm (tránh gây khô và bỏng tổ chức vì vạt ghép chưa có cảm giác).
+Treo hoặc kê cao chi nhận vạt nhằm hỗ trợ sự trở về của tuần hoàn tĩnh mạch để chống phù nề. Chú ý, chỉ cần treo chi thể cao hơn tim, không treo quá cao để tránh gây ảnh hưởng đến cấp máu động mạch cho vạt.
+Tại vị trí cho vạt, cũng chú ý theo dõi, chăm sóc như tại vị trí nhận vạt trong giai đoạn hậu phẫu. Phát hiện và xử trí kịp thời biến chứng máu tụ, ứ đọng dịch, khâu căng gây thiểu dưỡng mép da hoặc thậm chí gây hoại tử cơ trong trường hợp lấy vạt da – xương mác, vạt cánh tay ngoài, vạt cẳng tay quay với kích thước lớn…<

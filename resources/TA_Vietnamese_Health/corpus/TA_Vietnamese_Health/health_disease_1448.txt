@@ -1,0 +1,73 @@
+# doc_id = health_disease_1448
+# url = https://tamanhhospital.vn/ngoai-tam-thu-nhi/
+# date = 03/07/2024
+Ngoại tâm thu nhĩ: Nguyên nhân, triệu chứng, chẩn đoán, phòng ngừa
+Ngoại tâm thu nhĩ là một dạng của rối loạn nhịp tim gây ra những ảnh hưởng đến sức khỏe nếu không được chữa trị kịp thời. Vậy làm sao để nhận biết các triệu chứng của ngoại tâm thu nhĩ, nguyên nhân và chẩn đoán điều trị như thế nào? Hãy cùng tìm hiểu qua bài viết sau để có những giải pháp phòng ngừa và điều trị hiệu quả.
+Mục lụcNgoại tâm thu nhĩ là gì?Phân loại ngoại tâm thu nhĩNguyên nhân ngoại tâm thu nhĩTriệu chứng ngoại tâm thu nhĩBệnh ngoại thu tâm nhĩ có nguy hiểm không?Các phương pháp chẩn đoán ngoại tâm thu nhĩ1. Điện tâm đồ2. Điện tâm đồ holter 24 – 48h3. Nghiệm pháp gắng sức4. Siêu âm timNgoại thu tâm nhĩ được điều trị như thế nào?1. Sử dụng thuốc điều trị2. Triệt đốt điện sinh lýBiện pháp phòng bệnh ngừa ngoại tâm thu nhĩNgoại tâm thu nhĩ là gì?
+Ngoại tâm thu nhĩ trên ECG là một dạng của rối loạn nhịp tim được thể hiện đặc trưng qua các biểu hiện như hiện tượng nhịp tim đập sớm hơn bình thường do tín hiệu điện bất thường được phát ra từ tâm nhĩ.
+Hình ảnh ngoại tâm thu nhĩ trên ECG (Nguồn từ nghiên cứu của PGS. TS Phạm Nguyễn Vinh, 2019 Ngoại Tâm Thu)
+Thông thường, nút xoang làm nhiệm vụ điều khiển nhịp tim bằng cách phát tín hiệu điện cho toàn bộ tim. Khi tín hiệu điện được phát bất thường từ tâm nhĩ thay vì nút xoang, sẽ gây ra một nhịp đến sớm gọi là ngoại tâm thu nhĩ. Nhịp đến sớm này, khiến tim tạm nghỉ một thời gian ngắn trước khi đập một nhịp mạnh để bơm máu tích lũy ra khỏi buồng tim, gây ra cảm giác hụt hẫng trong lồng ngực. (1)
+Phân loại ngoại tâm thu nhĩ
+Phân loại ngoại tâm thu nhĩ sẽ được dựa vào các đặc điểm xuất hiện của chúng trong nhịp tim. Dưới đây là một số phân loại ngoại tâm thu nhĩ cụ thể:
+Ngoại tâm thu nhĩ nhịp đôi: Một nhịp ngoại tâm thu nhĩ xen kẽ với một nhịp tim bình thường. Điều này có nghĩa là sau mỗi nhịp tim bình thường sẽ xuất hiện một nhịp ngoại tâm thu nhĩ.
+Ngoại tâm thu nhĩ nhịp ba: Một nhịp ngoại tâm thu nhĩ xuất hiện sau mỗi hai nhịp tim bình thường.
+Ngoại tâm thu nhĩ cặp đôi: Hai ngoại tâm thu nhĩ liên tiếp nhau.
+Chuỗi ngoại tâm thu nhĩ: Từ 3 ngoại tâm thu nhĩ liên tiếp nhau trở lên.
+Ngoại tâm thu nhĩ đa ổ: Các nhịp ngoại tâm thu nhĩ được xuất phát từ nhiều ổ khác nhau trong tâm nhĩ, không phải từ một điểm cố định. Trên điện tâm đồ (ECG), các sóng P của các nhịp ngoại tâm thu này sẽ có hình dạng khác nhau do xuất phát từ nhiều vị trí.
+Ngoại tâm thu nhĩ thưa: Các nhịp ngoại tâm thu nhĩ xuất hiện ít, không thường xuyên. Thường thì các nhịp ngoại tâm thu nhĩ này không theo một quy luật cố định và có thể xuất hiện rải rác trong một chuỗi nhịp tim bình thường.
+Nguyên nhân ngoại tâm thu nhĩ
+Dưới đây là một số nguyên nhân chính dẫn đến tình trạng ngoại tâm thu nhĩ bao gồm:
+Tác dụng phụ của thuốc: Một số loại thuốc có thể gây ra ngoại tâm thu nhĩ như thuốc hen suyễn, thuốc cảm lạnh, thuốc chống trầm cảm và thuốc chứa chất kích thích. Những thuốc này có thể ảnh hưởng đến hệ thống dẫn truyền điện của tim, gây ra các nhịp đập bất thường.
+Bệnh nhân có bệnh nền về tim mạch: Người bệnh mắc các bệnh lý tim mạch như cao huyết áp, thiếu máu cơ tim, nhồi máu cơ tim, hở hoặc hẹp van tim,, bệnh cơ tim, bệnh tim bẩm sinh, bệnh lý đường dẫn truyền nhịp tim …. Những bệnh này làm thay đổi cấu trúc và chức năng của tim, dễ dẫn đến rối loạn nhịp tim.
+Sử dụng chất kích thích: Thường xuyên sử dụng bia rượu, thuốc lá hoặc các chất kích thích khác có thể làm tăng nguy cơ ngoại tâm thu nhĩ. Các chất này có thể kích thích hệ thần kinh giao cảm, dẫn đến tăng nhịp tim và gây ra rối loạn nhịp.
+Mệt mỏi và stress: Stress và mệt mỏi thường xuyên có thể làm tăng hoạt động của hệ thần kinh giao cảm, gây ra các rối loạn nhịp tim như ngoại tâm thu nhĩ. Tình trạng này làm tăng mức độ catecholamine trong cơ thể, ảnh hưởng đến nhịp tim.
+Rối loạn nội tiết: Rối loạn nội tiết như cường giáp có thể gây ra ngoại tâm thu nhĩ. Tuyến giáp hoạt động quá mức sẽ làm tăng tốc độ trao đổi chất và có thể ảnh hưởng đến nhịp tim.
+Các bệnh lý ngoài tim: Một số bệnh lý không thuộc về tim cũng có thể dẫn đến ngoại tâm thu nhĩ, chẳng hạn như cường giáp, bệnh phổi tắc nghẽn mãn tính (COPD), đái tháo đường, rối loạn điện giải, bệnh lý tuyến thượng thận, suy hô hấp, nhiễm trùng, sốc, thiếu máu…
+Ngoại tâm thu nhĩ có nguồn gốc từ nhiều nguyên nhân khác nhau
+Những nguyên nhân trên đều có thể được xác định và quản lý thông qua các biện pháp y tế phù hợp. Nếu bạn gặp phải triệu chứng ngoại tâm thu nhĩ, hãy tham khảo ý kiến bác sĩ để có chẩn đoán chính xác và điều trị kịp thời.
+Triệu chứng ngoại tâm thu nhĩ
+Bệnh nhân mắc bệnh ngoại tâm thu nhĩ có thể xuất hiện một số triệu chứng điển hình như sau:
+Người bệnh có thể cảm nhận nhịp tim bị rối loạn đập nhanh chậm không đều, không theo quy luật bình thường, tim đập hụt nhịp, nhịp tim đập mạnh hơn. Thường được mô tả có một khoảng dừng ngắn trong nhịp đập của tim.
+Ngoài ra, người bệnh cũng có thể gặp phải các dấu hiệu thường thấy ở những bệnh nhân tim mạch khác, bao gồm:
+Ngất xỉu, choáng váng: Một số người bệnh có thể cảm thấy choáng váng hoặc ngất xỉu do nhịp tim.
+Toát mồ hôi lạnh: Khi nhịp tim không đều, cơ thể phản ứng bằng cách đổ mồ hôi nhiều và làm sắc mặt trở nên nhợt nhạt.
+Người bệnh gặp tình trạng đau ngực, khó thở, chóng mặt: Đây là các triệu chứng xuất hiện do tim không bơm máu hiệu quả, gây thiếu oxy cho các mô và cơ quan trong cơ thể.
+Mệt mỏi sau khi vận động: Người bệnh có thể cảm thấy mệt mỏi hơn thường ngày sau khi tập thể dục hoặc vận động do nhịp tim không đều làm giảm hiệu suất hoạt động của tim.
+Bệnh ngoại thu tâm nhĩ có nguy hiểm không?
+Ngoại tâm thu nhĩ thường không gây nguy hiểm ở giai đoạn đầu và đa số lành tính. Thậm chí, trong nhiều trường hợp, không có triệu chứng cụ thể nào mà chỉ xuất hiện một vào triệu chứng nhất thời hoặc một cảm giác nhẹ nhàng như tim đập mạnh.
+Hiện tượng này kéo dài có thể gây mệt mỏi cả về thể chất và tinh thần, đau đầu, căng thẳng, từ đó ảnh hưởng xấu đến khả năng tập trung, hiệu suất làm việc và chất lượng cuộc sống hàng ngày.
+Trong trường hợp ít gặp, bệnh ngoại tâm thu nhĩ không cần quá lo lắng. Tuy nhiên, nó có thể tiến triển nghiêm trọng hơn, đặc biệt là ở những người có tiền sử bệnh tim mạch như bệnh mạch vành, bệnh cơ tim… Vì vậy, việc thăm khám tim mạch để được chẩn đoán và điều trị kịp thời là điều vô cùng quan trọng để tránh dẫn đến các biến chứng nguy hiểm.
+Các phương pháp chẩn đoán ngoại tâm thu nhĩ
+Để chẩn đoán bệnh ngoại tâm thu nhĩ các bác sĩ có thể thực hiện một số phương pháp sau:
+1. Điện tâm đồ
+Điện tâm đồ là một phương pháp quan trọng để chẩn đoán ngoại tâm thu nhĩ. Kỹ thuật này sử dụng các điện cực để ghi lại hoạt động điện của tim qua một đoạn thời gian ngắn. Kết quả được ghi lại dưới dạng biểu đồ, cho phép các bác sĩ phân tích các biến đổi trong nhịp tim và xác định nếu có sự xuất hiện của ngoại tâm thu nhĩ. (2)
+2. Điện tâm đồ holter 24 – 48h
+Điện tâm đồ holter là một công cụ để ghi lại hoạt động điện của tim trong một khoảng thời gian dài hơn. Thiết bị holter được gắn vào người bệnh và ghi lại dữ liệu trong suốt 24 đến 48 giờ trong khi họ tiếp tục sinh hoạt hàng ngày.
+Kỹ thuật này cho phép xem xét những biến đổi trong nhịp tim trong các tình huống thực tế và có thể phát hiện ngoại tâm thu nhĩ mà không cần đến môi trường y tế.
+3. Nghiệm pháp gắng sức
+Nghiệm pháp gắng sức là phương pháp mà bệnh nhân sẽ tham gia vào các hoạt động gắng sức như chạy bộ, đạp xe đạp. Kỹ thuật này được thực hiện nhằm ghi nhận bất thường nhịp tim như ngoại tâm thu nhĩ xuất hiện lúc gắng sức.
+4. Siêu âm tim
+Siêu âm tim là phương pháp sử dụng sóng siêu âm để tạo ra hình ảnh chân thực về cấu trúc và hoạt động của tim. Siêu âm tim có thể phát hiện các biến thể cấu trúc của tim và đánh giá chức năng tim, giúp chẩn đoán ngoại tâm thu nhĩ và các vấn đề tim mạch khác.
+Siêu âm tim là một trong những phương pháp chẩn đoán ngoại tâm thu nhĩ hiệu quả
+Ngoại thu tâm nhĩ được điều trị như thế nào?
+Để điều trị bệnh ngoại tâm thu nhĩ, các bác sĩ có thể sử dụng một số phương pháp điều trị và can thiệp phổ biến như:
+1. Sử dụng thuốc điều trị
+Điều trị nguyên nhân gây bệnh: Nếu ngoại tâm thu nhĩ xuất phát từ các căn bệnh như tăng huyết áp, cường giáp, bệnh mạch vành, bệnh cơ tim, rối loạn điện giải như thiếu canxi, kali…việc sử dụng thuốc để điều trị nguyên nhân gốc của bệnh có thể giúp giảm triệu chứng ngoại tâm thu nhĩ hiệu quả.
+Điều trị triệu chứng: Các loại thuốc chống loạn nhịp tim như thuốc chẹn beta, chẹn kênh canxi có thể được sử dụng để giảm các triệu chứng như tim đập không đều, rối loạn nhịp tim.
+Bệnh ngoại tâm thu nhĩ có thể được điều trị bằng việc sử dụng thuốc
+2. Triệt đốt điện sinh lý
+Đây là một phương pháp điều trị ngoại tâm thu nhĩ khi điều trị thuốc không hiệu quả.
+Ngoại tâm thu nhĩ là bệnh lý có thể không nguy hiểm từ ban đầu, nhưng nếu không được điều trị đúng cách, nó có thể gây ra những biến chứng nghiêm trọng. Do đó, việc tuân thủ điều trị dưới sự hướng dẫn của bác sĩ là rất quan trọng để ngăn chặn sự tiến triển của bệnh lý này.
+Biện pháp phòng bệnh ngừa ngoại tâm thu nhĩ
+Ngoài tuổi tác có thể là một yếu tố không thể can thiệp trực tiếp, bệnh nhân có thể tự bảo vệ mình khỏi nguy cơ phát triển ngoại tâm thu nhĩ bằng cách:
+Tập luyện thể dục thể thao đều đặn: Hoạt động thể chất đều đặn không chỉ giúp duy trì trọng lượng cơ thể lành mạnh mà còn cải thiện sức khỏe tim mạch và giảm nguy cơ ngoại tâm thu nhĩ.
+Kiểm soát và theo dõi huyết áp: Giữ cho huyết áp ở mức ổn định là một phần quan trọng trong việc ngăn ngừa ngoại tâm thu nhĩ. Điều này có thể đạt được thông qua ăn uống lành mạnh và lối sống tích cực.
+Giữ lượng cholesterol trong tầm kiểm soát: Mức cholesterol cao có thể tăng nguy cơ ngoại tâm thu nhĩ. Bằng cách duy trì một chế độ ăn uống giảm lượng cholesterol, bạn có thể giảm nguy cơ này.
+Ngừng sử dụng thuốc lá: Thuốc lá không chỉ tăng nguy cơ ngoại tâm thu nhĩ mà còn gây ra nhiều vấn đề sức khỏe khác. Ngưng hút thuốc là một bước quan trọng để bảo vệ sức khỏe tim mạch.
+Thăm khám thường xuyên để phòng ngừa và điều trị bệnh ngoại tâm thu nhĩ
+Ngoài ra, các biện pháp sau cũng có thể giúp ngăn ngừa ngoại tâm thu nhĩ:
+Ngủ đủ giấc: Việc có giấc ngủ đủ và đủ thời gian giúp cơ thể phục hồi và làm giảm căng thẳng, giảm nguy cơ ngoại tâm thu nhĩ.
+Hạn chế hoặc ngừng sử dụng rượu và các chất kích thích: Việc uống rượu quá mức và sử dụng chất kích thích như cafein có thể làm tăng nhịp tim và tăng nguy cơ ngoại tâm thu nhĩ.
+Tránh căng thẳng: Các biện pháp giải tỏa căng thẳng như thiền, yoga, hoặc hoạt động thể chất có thể giúp giảm nguy cơ ngoại tâm thu nhĩ.
+Nhờ sự kết hợp giữa chuyên môn cao và trang thiết bị hiện đại, Trung tâm Tim mạch Bệnh viện Đa khoa Tâm Anh luôn mang lại hiệu quả điều trị tốt nhất cho người bệnh. Để đặt lịch khám, tư vấn và điều trị trực tiếp với các bác sĩ tại Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh, Quý khách hàng có thể liên hệ theo thông tin sau:
+Ngoại tâm thu nhĩ là một bệnh lý không quá nghiêm trọng, tuy nhiên nếu không được điều trị kịp thời có thể gây nên những biến chứng nghiêm trọng cho tim mạch. Vì vậy, người bệnh cần đặc biệt lưu ý theo dõi các triệu chứng và đến ngay cơ sở y tế chuyên khoa tim mạch nếu phát hiện dấu hiệu hoặc biến chứng bất thường.

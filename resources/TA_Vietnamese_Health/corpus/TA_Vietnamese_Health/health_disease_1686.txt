@@ -1,0 +1,49 @@
+# doc_id = health_disease_1686
+# url = https://tamanhhospital.vn/te-bao-goc-da-nang/
+# date = 20/06/2024
+Tế bào gốc đa năng: Nguồn gốc và ứng dụng trong y học hiện đại
+Tế bào gốc đa năng có khả năng biệt hóa thành các loại tế bào mới khác nhau, là vấn đề y khoa đang được nhiều người quan tâm. Vậy tế bào gốc đa năng là gì? Nguồn gốc và nghiên cứu, ứng dụng ra sao?
+Mục lụcTế bào gốc đa năng là gì?Tế bào gốc đa năng được tìm thấy ở đâu?1. Tế bào gốc tạo máu2. Tế bào gốc trung mô3. Tế bào gốc thần kinh4. Tế bào gốc biểu mô5. Tế bào gốc đường ruộtTế bào gốc đa năng được nuôi cấy như thế nào?Ứng dụng của tế bào gốc đa năngCác vấn đề khi sử dụng tế bào gốc đa năngTế bào gốc đa năng là gì?
+Các tế bào gốc có thể được phân loại theo tiềm năng biệt hóa: tế bào gốc toàn năng (totipotent stem cells) có thể biệt hóa thành toàn bộ phôi thai hoàn chỉnh gồm bánh nhau, túi ối và thai nhi; tế bào gốc vạn năng (pluripotent stem cells) có thể biệt hóa thành toàn bộ các tế bào trên cơ thể người; tế bào gốc đa năng (multipotent stem cells) có khả năng biệt hóa thành một số loại tế bào. Tế bào gốc đa năng có ý nghĩa quan trọng trong quá trình phát triển, sửa chữa các mô trong cơ thể. Ví dụ, tế bào gốc tạo máu (Hematopoietic Stem Cells – HSCs) là một loại tế bào gốc đa năng với khả năng biệt hóa thành các tế bào miễn dịch hoặc tế bào máu hay tế bào gốc trung mô (Mesenchymal Stem Cells – MSCs) có thể biệt hóa thành tế bào mỡ, sụn, xương.
+Tế bào gốc đa năng mang lại hy vọng chữa trị nhiều bệnh lý trong tương lai
+Tế bào gốc đa năng được tìm thấy ở đâu?
+Tế bào gốc đa năng được tìm thấy ở gần như tất cả các mô trong cơ thể. Loại tế bào gốc này vừa tự làm mới để duy trì tế bào gốc trong mô, vừa biệt hóa thành các tế bào chức năng nhằm tái tạo và sửa chữa các tế bào bị tổn thương tại các mô này. (1)
+1. Tế bào gốc tạo máu
+Tế bào gốc tạo máu là loại tế bào gốc đa năng được tìm thấy ở tủy xương, chúng chịu trách nhiệm sản xuất các loại tế bào máu như tiểu cầu, hồng cầu, bạch cầu. Các tế bào gốc tạo máu được nhận biết qua các dấu ấn đặc hiệu trên bề mặt tế bào, CD45, CD90 (Thy-1), CD34, CD38, CD133 (Prominin-1).
+2. Tế bào gốc trung mô
+Loại tế bào gốc đa năng này được tìm thấy phổ biến ở nhiều mô liên kết khác nhau, bao gồm mô mỡ, tủy xương, dây rốn. Chúng có thể biệt hóa thành các loại tế bào khác nhau như tế bào sụn, mỡ và xương. Theo quy chuẩn của Hiệp hội Quốc tế về Liệu pháp Tế bào (ISCT), quần thể tế bào gốc trung mô cần phải có ít nhất 95% các tế bào biểu hiện CD105, CD73, CD90, và không quá 2% các tế bào biểu hiện CD45, CD34, CD14, CD11b, CD79a, CD19 và HLA nhóm II qua xét nghiệm huỳnh quang dòng chảy.
+CD73 (Ecto-5′-nucleotidase): Điều hòa đáp ứng miễn dịch và quá trình viêm.
+CD90 (Thy-1): Điều hòa các tín hiệu tế bào.
+CD105 (Endogline): Điều hòa sự tăng sinh, biệt hóa của tế bào.
+CD44 (Thụ thể Hyaluronan): Kết dính, truyền tín hiệu tế bào.
+CD146 (MCAM – Phân tử kết dính tế bào giống khối u ác tính): Hỗ trợ tế bào gốc tạo máu
+CD271 (NGFR – Nerve Growth Factor Receptor): Chỉ có ở tế bào gốc trung mô từ tủy xương và mô mỡ (không tìm thấy trên tế bào gốc trung mô từ mô dây rốn hay nhau thai).
+STRO-1: Chỉ có ở tế bào gốc trung mô từ tủy xương.
+Dây rốn trẻ sơ sinh là nguồn chứa tế bào gốc trung mô dồi dào
+3. Tế bào gốc thần kinh
+Đây là loại tế bào gốc đa năng được tìm thấy nhiều trong vùng tiền não thất bên (subventricular zone) và subgranular zone, có khả năng biệt hóa thành các tế bào ở hệ thần kinh trung ương và ngoại biên khác nhau như tế bào thần kinh, tế bào thần kinh đệm. Các tế bào gốc thần kinh được xác định bằng dấu ấn phân tử, quan trọng nhất là Nestine và SOX2, ngoài ra, các dấu ấn khác như Notch1, CD133, Pax6, Prominin-1 cũng được dùng tham khảo.
+4. Tế bào gốc biểu mô
+Tế bào gốc biểu mô nằm phía sâu trong trong các biểu mô đóng vai trò tái tạo các mô trong biểu mô như màng nhầy, da..
+5. Tế bào gốc đường ruột
+Loại tế bào gốc này được tìm thấy ở đáy hốc nhung mao của niêm mạc ruột, chúng tham gia vào quá trình tái tạo niêm mạc ruột, giúp niêm mạc ruột được đổi mới liên tục. Các dấu ấn sinh học được dùng để xác định và mô tả tế bào gốc đường ruột bao gồm:
+Lgr5 (Thụ thể kết hợp G-protein chứa lặp lại giàu Leucine số 5): Liên kết giữa các tế bào và kiểm soát tín hiệu Wnt.
+Olfm4 (Olfactomedin 4): Tham gia vào quá trình điều hòa phản ứng viêm và ngừa ung thư.
+Bmi1: Điều chỉnh quá trình tự đổi mới của các tế bào gốc đường ruột.
+Tế bào gốc đa năng được nuôi cấy như thế nào?
+Trong điều kiện phù hợp, tế bào gốc đa năng có thể tăng sinh hoặc biệt hóa. Tại phòng thí nghiệm, tế bào gốc sẽ trải qua quá trình nghiêm ngặt, bao gồm các bước như sau:
+Phân lập: Tiến hành gạn tách tế bào gốc bằng kỹ thuật chuyên dụng và quy trình cụ thể tùy theo loại tế bào và nguồn tế bào.
+Nuôi cấy tế bào: Sau khi thu thập đủ lượng tế bào gốc nhất định, tế bào sẽ được nuôi trong môi trường nuôi cấy thích hợp để giữ được hoạt tính.
+Kiểm soát vô khuẩn: Các quy trình phân lập và nuôi cấy tế bào được tiến hành trong phòng sạch đạt tiêu chuẩn ISO 6. Mẫu từ tế bào được đem đi thử vi khuẩn, vi nấm, mycoplasma và nội độc tố để đảm bảo an toàn khi sử dụng trên bệnh nhân.
+Biệt hóa tế bào: Tùy thuộc vào mục đích nuôi cấy (ứng dụng hoặc nghiên cứu), tế bào gốc được nuôi trong môi trường biệt hóa để biệt hóa thành nhiều loại tế bào.
+Lưu trữ: Trong điều kiện bảo quản lạnh âm sâu trong nitrogen lỏng (-190℃), khối tế bào có thể giữ được nguyên vẹn các hoạt tính, và sẵn sàng được đưa vào sử dụng khi cần thiết.
+Quy trình nuôi cấy tế bào gốc đa năng và biệt hóa chúng được nghiên cứu ứng dụng trong lĩnh vực dược phẩm như phục vụ thử nghiệm thuốc mới, giảm số lượng động vật thí nghiệm và đánh giá thuốc chính xác hơn khi sử dụng tế bào người, ứng dụng trong y học như nghiên cứu cơ chế bệnh sinh… và ứng dụng điều trị. (2)
+Ứng dụng của tế bào gốc đa năng
+Tế bào gốc đa năng hứa hẹn mang lại triển vọng trong y học tái tạo. Chúng có thể biệt hóa thành mọi tế bào thuộc một dòng tế bào cụ thể, tham gia vào quá trình tái tạo mô và duy trì các chức năng trong cơ thể. (3)
+Nhờ vào khả năng điều hòa miễn dịch, chống viêm và giúp sửa chữa các mô bị tổn thương do bệnh lý hoặc sau chấn thương, tế bào gốc trung mô, một loại tế bào gốc đa năng còn được nghiên cứu nhằm hỗ trợ điều trị bệnh lý ở người như rối loạn tự miễn, viêm khớp dạng thấp, dị tật mạch máu…. Một số nghiên cứu cho thấy, loại tế bào gốc này còn có thể biệt hóa thành các tế bào thần kinh, đồng thời bảo vệ và hỗ trợ phục hồi các tế bào thần kinh, mang lại hy vọng điều trị hiệu quả nhiều bệnh lý nghiêm trọng ở hệ thần kinh.
+Tế bào gốc tạo máu cũng đang được sử dụng trong điều trị nhiều bệnh lý về máu, khối tế bào gốc tạo máu có thể được truyền cho bệnh nhân để tái tạo toàn bộ hệ máu và miễn dịch, và điều trị triệt để các bệnh lý như ung thư máu, ung thư bạch huyết hay thiếu máu tan máu.
+Các vấn đề khi sử dụng tế bào gốc đa năng
+Tế bào gốc đa năng mang đến hy vọng về liệu pháp điều trị mới, hiệu quả trong tương lai. Tuy nhiên, việc ứng dụng tế bào gốc vào điều trị bệnh còn cần tiếp tục nghiên cứu chuyên sâu để có thể đánh giá được hiệu quả của liệu pháp này.
+Bên cạnh đó, việc thu thập và lưu trữ tế bào gốc cũng ảnh hưởng trực tiếp đến hiệu quả của liệu pháp tế bào gốc. Nếu không được thu thập và lưu trữ đúng cách, chất lượng và số lượng tế bào gốc có thể bị giảm thiểu, khó có thể đáp ứng điều trị bệnh lý. Vì vậy, để hỗ trợ tối ưu liệu pháp cấy ghép tế bào gốc trong điều trị bệnh, việc thu thập và lưu trữ tế bào gốc cần được thực hiện tại bệnh viện uy tín, được Bộ Y tế cấp phép cung cấp dịch vụ này.
+Trung tâm Tế bào gốc và Ngân hàng mô tại Hệ thống Bệnh viện Đa khoa Tâm Anh là cơ sở y tế cung cấp dịch vụ thu thập, lưu trữ tế bào gốc từ mô và máu dây rốn trẻ sơ sinh với quy trình hiện đại, khép kín đạt tiêu chuẩn quốc tế. Trung tâm hợp tác chặt chẽ với các Khoa lâm sàng khác trong bệnh viện nhằm triển khai nghiên cứu và hướng đến vấn đề ứng dụng tế bào gốc trong việc điều trị nhiều bệnh lý trên lâm sàng.
+Nên chọn lưu trữ tế bào gốc đa năng tại cơ sở y tế uy tín
+Tóm lại, ứng dụng tế bào gốc đa năng trong y học tái tạo mang lại hy vọng chữa trị các bệnh lý cho con người. Để biết thêm thông tin về lĩnh vực này, bạn nên đến các cơ sở y tế uy tín có chuyên khoa Tế bào gốc để được các bác sĩ tư vấn và giải đáp chi tiết.

@@ -1,0 +1,47 @@
+# doc_id = health_disease_2421
+# url = https://tamanhhospital.vn/chup-ct-cat-lop-tim-mach/
+# date = 31/03/2021
+Chẩn đoán bệnh tim mạch bằng chụp CT (cắt lớp) tim mạch
+Chụp CT tim (còn gọi là chụp cắt lớp tim) là phương pháp chẩn đoán các bệnh lý tim mạch bằng hình ảnh có độ tin cậy, được giới chuyên môn đánh giá cao.
+Theo thống kê của Tổ chức Y tế Thế giới (WHO), bệnh tim mạch là nguyên nhân gây tử vong đứng hàng đầu trên thế giới. Các bệnh lý tim mạch được ví như kẻ “giết người thầm lặng” vì bệnh thường âm thầm tiến triển đến khi triệu chứng xuất hiện thì đã ở giai đoạn nặng, gây khó khăn cho việc điều trị cũng như nguy cơ tử vong cao.
+Việc áp dụng các kỹ thuật hiện đại vào chẩn đoán sớm các bệnh lý tim mạch để phòng ngừa và điều trị kịp thời là vô cùng quan trọng.
+Mục lụcChụp CT tim là gì?Chụp cắt lớp tim mạch có tiêm thuốc cản quangNhững đối tượng nào cần chụp cắt lớp tim mạch?Cần lưu ý gì khi thực hiện chụp CT timChụp CT tim là gì?
+Chụp CT tim hay chụp cắt lớp tim là một kỹ thuật sử dụng tia X-quang, quét theo chiều cắt ngang qua tim. Kỹ thuật này được ứng dụng rộng rãi từ thế kỷ XX, do Godfrey Hounsfield (nhà vật lý người Anh) và bác sĩ Allan Cormack phát minh ra.(1)
+Theo đó, tim là vị trí khoanh vùng chính của tia X. Các tín hiệu tia X sẽ được máy tính thu nhận, giải mã và tái tạo hình ảnh 2 chiều – 3 chiều của cấu trúc tim: màng tim, mạch vành tim, cơ tim và van tim, từ đó giúp các bác sĩ chẩn đoán chính xác các bệnh lý tim mạch liên quan.
+Chụp cắt lớp tim mạch có tiêm thuốc cản quang
+So với các phương pháp khác, chụp CT tim (thuật ngữ chuyên môn gọi là MSCT: Multislice Computer Tomography – chụp cắt lớp vi tính/điện toán đa lát cắt) có tiêm thuốc cản quang được giới chuyên môn đánh giá cao. Đây là phương pháp có tính hiệu quả trong việc chẩn đoán sớm (trước khi có dấu hiệu, triệu chứng bệnh) để có kế hoạch điều trị bệnh kịp thời.
+Chụp cắt lớp tim cho phép chuyên gia “khảo sát” lòng mạch vành, căn cứ vào vị trí cũng như mức độ của các mảng bám tích tụ trong động mạch vành (ngay cả ở những động mạch có đường kính rất nhỏ – khoảng 1mm) để đánh giá mức độ hẹp của mạch vành với hiệu quả lên đến 97%. Điều này khiến CT tim trở thành một công cụ rất đáng tin cậy cho loại trừ bệnh động mạch vành. Từ đó giúp:
+Đưa ra phác đồ điều trị hiệu quả nhằm giảm triệu chứng đau thắt ngực, phương pháp tái lưu thông lòng mạch, phòng tránh nguy cơ nhồi máu cơ tim.
+Đánh giá nguy cơ và lên kế hoạch phòng ngừa/điều trị tích cực – với người được chẩn đoán có nguy cơ cao mắc bệnh động mạch vành.
+Đối với những bệnh nhân đã từng đặt stent mạch vành (Stent hay còn gọi là giá đỡ, là một loại thiết bị dành riêng cho người bị tắc hẹp động mạch do các mảng xơ vữa, giúp mở rộng lòng động mạch) hay đã thực hiện phẫu thuật bắc cầu động mạch vành, chuyên gia sẽ chỉ định chụp CT tim để đánh giá tình trạng nếu nghi ngờ có tái hẹp trong stent hoặc cầu nối mạch vành
+Chụp CT tim vi tính cũng được áp dụng cho các một số trường hợp bệnh lý van tim hoặc có bệnh tim bẩm sinh, đồng thời giúp phát hiện các khối u ở tim. Ngoài ra, kỹ thuật này còn giúp tầm soát, chẩn đoán một số bệnh lý cơ tim như bệnh cơ tim phì đại…
+Có thể khẳng định, việc áp dụng CT tim hay chụp cắt lớp vi tính tim được xem là giải pháp giúp hỗ trợ tầm soát, chẩn đoán và điều trị các bệnh lý tim mạch tốt nhất hiện nay. Tuy nhiên, chụp CT tim cũng có những hạn chế nhất định như yêu cầu bệnh nhân khi chụp phải có nhịp tim ổn định và khả năng nín thở 10 giây…(2)
+Bệnh viện Đa khoa Tâm Anh trang bị máy chụp CT SOMATOM Drive 2 đầu bóng nhập khẩu từ Đức với khả năng chụp 768 lát cắt trong một vòng quay, quét cắt lớp vi tính toàn thân chỉ từ 3 – 4 giây, có khả năng chụp nhanh và giảm liều tia tối đa, hỗ trợ chẩn đoán hiệu quả các bệnh tim mạch.
+Đặc biệt, có thể khảo sát mạch vành không phụ thuộc vào nhịp tim, liều thấp chỉ tương đương như một lần chụp X quang ngực thông thường. Thời gian khảo sát cho mọi bộ phận trong cơ thể với thời gian chụp cực nhanh, thậm chí bệnh nhân không cần nín thở, đặc biệt cần thiết cho bệnh nhân nhi, người lớn tuổi hoặc bệnh nhân cấp cứu.
+Tìm hiểu về kỹ thuật chụp ct tầm soát đột quỵ tim, giúp phát hiện và điều trị bệnh sớm đảm bảo an toàn cho sức khỏe.
+Những đối tượng nào cần chụp cắt lớp tim mạch?
+Tùy thuộc vào tần suất cơn đau thắt ngực (thường xuyên hay không thường xuyên), những yếu tố nguy cơ tim mạch, bệnh cảnh lâm sàng, độ tuổi, giới tính… mà các chuyên gia sẽ chỉ định người bệnh có nên chụp CT tim hay không.(3)
+Để hiểu rõ hơn, bạn có thể xem bảng đối tượng chỉ định và chống chỉ định chụp CT tim mạch dưới đây:
+Đối tượng chỉ định chụp CT tim
+Đối tượng chống chỉ định chụp CT tim
+Người có nguy cơ cao mắc các bệnh tim mạch, động mạch vành như:
+Mắc các bệnh lý mãn tính: tăng huyết áp, đái tháo đường
+Hút thuốc lá nhiều, rối loạn lipid máu (mỡ máu cao)
+Có các triệu chứng đau ngực (ngày càng nhiều)
+Có yếu tố di truyền
+Mắc bệnh thận (có nồng độ creatinin cao) hoặc bị suy thận mạn
+Bị suy tim không xác định được nguyên nhân
+Hen suyễn nặng, suy hô hấp (không thể nín thở từ 5 – 7 giây)
+Đã từng phẫu thuật bắc cầu động mạch vành
+Phụ nữ có thai
+Đã từng đặt stent thông lòng mạch
+Tiền sử dị ứng với hải sản hoặc thuốc cản quang (chống chỉ định tương đối)
+Cần lưu ý gì khi thực hiện chụp CT tim
+Ưu điểm của chụp CT tim là thời gian chụp rất ngắn, vì vậy, sau khi thực hiện kỹ thuật này người bệnh có thể trở lại công việc, nhịp sống bình thường ngay do sức khỏe không bị ảnh hưởng. Tuy nhiên, để đảm bảo kết quả chính xác người bệnh cần lưu ý một số vấn đề sau:
+Trước khi chụp CT tim cần:
+Có kết quả xét nghiệm chức năng thận.
+Nhịn ăn tối thiểu 4 tiếng.
+Sau khi chụp CT tim, tùy trường hợp bác sĩ sẽ khuyên người bệnh nên uống nhiều nước (trong vòng 1 – 2 ngày) để thải hết thuốc cản quang ra ngoài theo đường tiết niệu
+Cuối cùng, cần hiểu rằng các bệnh lý tim mạch nói chung là những ẩn họa sức khỏe cần được phát hiện sớm để phòng ngừa và điều trị kịp thời tránh những hậu quả nghiêm trọng.
+Khuyến cáo người bệnh cần thăm khám sức khỏe định kỳ 6 tháng/lần để được các chuyên gia trực tiếp theo dõi và tư vấn hướng điều trị phù hợp
+Bạn cần có thói quen khám sức khỏe định kỳ mỗi 6 tháng/lần. Đặc biệt với những người có tiền sử gia đình mắc bệnh tim hoặc có bất cứ các dấu hiệu nào liên quan đến tim mạch thì cần phải được thăm khám chuyên sâu. Tùy tình trạng, chuyên gia có thể chỉ định chụp CT tim (chụp cắt lớp tim), kiểm soát tích cực các yếu tố nguy cơ để phòng ngừa và điều trị bệnh tim mạch hiệu quả.

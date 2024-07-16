@@ -1,0 +1,177 @@
+# doc_id = health_disease_263
+# url = https://tamanhhospital.vn/viem-tui-mat-cap-tinh/
+# date = 19/08/2023
+Viêm túi mật cấp tính: Triệu chứng, chẩn đoán và cách phòng ngừa
+Viêm túi mật cấp là biến chứng phổ biến nhất của bệnh sỏi mật. Bệnh xuất hiện với nhiều triệu chứng đa dạng, có thể thay đổi khác nhau giữa các đối tượng (người cao tuổi, người trưởng thành, trẻ em…), nhưng nhìn chung tình trạng đau và nhiễm trùng tiến triển làm cho người bệnh khó chịu và có thể tiến triển nặng dần. Tình trạng viêm cần được chẩn đoán và điều trị kịp thời để hạn chế biến chứng nghiêm trọng, đặc biệt là đe dọa đến tính mạng khi biến chứng viêm túi mật gây viêm phúc mạc mật và nhiễm trùng, nhiễm độc.
+Mục lụcViêm túi mật cấp là gì?Triệu chứng viêm túi mật cấpNguyên nhân viêm túi mật cấp1. Viêm túi mật không sỏi2. Viêm túi mật có sỏiChẩn đoán viêm túi mật cấp1. Siêu âm2. Chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI)3. Chụp cắt lớp vi tính (Chụp CT)4. Chụp cộng hưởng từ (MRI)5. Chụp X-quang bụng thường quy6. Nội soi mật tụy ngược dòng (ERCP)Biến chứng viêm túi mật cấpĐiều trị viêm túi mật cấp1. Điều trị ban đầu2. Phẫu thuật3. Trường hợp có viêm túi mật kèm sỏi ống mật chủ (OMC)Chăm sóc bệnh nhân viêm túi mật cấpPhòng ngừa viêm túi mật cấp tínhViêm túi mật cấp có nguy hiểm không?Viêm túi mật cấp là gì?
+Viêm túi mật cấp là biến chứng xảy ra khi ống cổ túi mật bị tắc nghẽn liên tục, phần lớn do mắc kẹt sỏi. Tình trạng ứ đọng mật sẽ kích hoạt giải phóng các enzym gây viêm và hình thành các chất trung gian gây quá trình viêm xảy ra làm tăng tính thấm xuất tiết thành túi mật cả ra ngoài và vào trong lòng túi mật kèm theo sau là tình trạng nhiễm khuẩn làm cho tình trạng viêm tiến triển nặng.
+Khi viêm, niêm mạc bị tổn thương liên tục tiết dịch vào lòng túi mật thay vì hấp thụ theo cơ chế thông thường. Kết quả là giải phóng thêm các chất trung gian gây viêm, khiến tình trạng tổn thương trở nên càng nghiêm trọng, dẫn đến thiếu máu cục bộ kéo dài. Vòng luẩn quẩn giữa tiết dịch, hấp thu, lưu thông và viêm ( vòng xoắn bệnh lý), nếu không được kiểm soát kịp thời có thể gây hoại tử hoặc thủng túi mật.
+Nếu tình trạng tái phát nhiều lần, túi mật sẽ bị xơ hoá và co lại, viêm teo hoặc vận chuyển mật lưu thông mật trở lại bệnh nhân đỡ đau, các triệu chứng cải thiện, túi mật có thể viêm tái diễn mãn tính.
+Tình trạng viêm xảy ra bên trong túi mật
+Triệu chứng viêm túi mật cấp
+Triệu chứng phổ biến nhất của viêm túi mật cấp tính là đau vùng bụng trên, đặc biệt phổ biến nhất là đau hạ sườn phải, một số biểu hiện bất thường khác bao gồm:
+Cơn đau lan dần lên vai phải hoặc xương bả vai
+Cơn đau bắt đầu ở vùng trên rốn và sau đó khu trú ở góc phần tư phía trên bên phải (RUQ) đó là vùng hạ sườn phải
+Cơn đau vùng bụng thường âm ỉ liên tục
+Chướng bụng, ăn vào đau tăng
+Buồn nôn, nôn
+Sốt
+Người bệnh bị viêm túi mật không do sỏi có thể chỉ bị sốt, chướng bụng và nặng có thể có nhiễm trùng huyết, có thể không có triệu chứng đau nhất là trên bệnh nhân lớn tuổi. Biểu hiện khác có thể gặp trên một số nhóm đối tượng cũng được ghi nhận bao gồm:(1)
+Sốt
+Nhịp tim nhanh
+Các dấu hiệu kích thích phúc mạc: Đau ở hạ sườn phải hoặc vùng thượng vị, khi tiến triển thấm mật phúc mạc có thể đau lan khắp bụng và chướng bụng.
+Vàng da có thể gặp
+Triệu chứng cụ thể của viêm túi mật cấp có thể khác nhau ở mỗi đối tượng, chẳng hạn như:
+Người cao tuổi, đặc biệt là người mắc bệnh tiểu đường: Triệu chứng mơ hồ, không có dấu hiệu đau và sốt hoặc chủ yếu là đau cục bộ, có khả năng tiến triển nghiêm trọng và nhanh chóng
+Trẻ em: Chủ yếu xảy ra ở các bé mắc bệnh hồng cầu hình liềm, dị tật đường mật bẩm sinh…
+﻿
+Nguyên nhân viêm túi mật cấp
+Nguyên nhân gây viêm túi mật cấp được phân chia theo hai dạng sau đây:
+1. Viêm túi mật không sỏi
+Loại này chiếm khoảng 5 – 10% trong tổng số ca mắc viêm túi mật cấp. Một số yếu tố nguy cơ có thể kể đến như:
+Trải qua phẫu thuật phức tạp, bị bỏng, chấn thương hoặc nhiễm trùng huyết
+Nhịn ăn kéo dài hoặc bổ sung thức ăn hoàn toàn bằng đường tĩnh mạch, gây ứ đọng mật
+Suy giảm miễn dịch
+Viêm mạch (lupus ban đỏ hệ thống, viêm nút quanh động mạch…)
+Sau các can thiệp đường mật như nội soi mật tụy ngược dòng lấy sỏi, viêm hẹp đường mật, steint đường mật, tỉ lệ mắc viêm túi mật khoảng 0,2 – 0,7%
+Viêm do vi khuẩn, do ký sinh trùng
+Cơ chế liên quan đến quá trình giải phóng các chất trung gian gây viêm do thiếu máu cục bộ, nhiễm trùng hoặc ứ đọng mật. Một số trường hợp xảy ra do nhiễm vi sinh vật như salmonella hoặc cytomegalovirus ở người bệnh suy giảm miễn dịch. Đối với trẻ em, viêm túi mật cấp không do sỏi có xu hướng xuất hiện sau khi bị sốt nhưng không xác định được cơ quan đích nhiễm trùng.
+2. Viêm túi mật có sỏi
+Loại này chiếm đến 90% trong tổng số trường hợp bị viêm túi mật cấp tính. Sỏi gây tắc nghẽn con đường vận chuyển dịch mật tự nhiên, dẫn đến cô đặc mật, tích tụ bên trong túi mật kèm nhiễm khuẩn, viêm xuất tiết với biểu hiện túi mật sưng to, căng phù nề xung huyết và có thể tiến triển hoại tử gây viêm phúc mạc mật. Túi mật ban đầu luôn ở trạng thái vô trùng, khi có ứ đọng và viêm sẽ dễ bị nhiễm khuẩn E. coli , Klebsiella , Streptococcus và Clostridium. Dấu hiệu viêm có xu hướng lan ra thành túi mật và các cấu trúc xung quanh.
+Viêm túi mật cấp tính chủ yếu xảy ra do sỏi làm tắc nghẽn con đường vận chuyển mật tự nhiên
+Chẩn đoán viêm túi mật cấp
+Một số kết quả xét nghiệm có thể hỗ trợ quá trình chẩn đoán viêm túi mật cấp chính xác hơn, bao gồm:
+Số lượng bạch cầu tăng
+Nồng độ alanine aminotransferase (ALT) và aspartate aminotransferase (AST) tăng do viêm túi mật hoặc tắc nghẽn ống mật chủ (CBD)
+Nồng độ phosphatase kiềm tăng cao (25% trường hợp bị viêm túi mật)
+Từ đó, một số xét nghiệm có thể được chỉ định, gồm:
+Xét nghiệm bilirubin: Giúp phát hiện tình trạng tắc nghẽn ống mật chủ kèm theo không hoặc viêm túi mật thấm mật phúc mạc
+Xét nghiệm amylase/lipase: Được sử dụng để đánh giá xem có tình trạng viêm tụy cấp kèm theo, amylase cũng có thể tăng nhẹ trong viêm túi mật
+Xét nghiệm nước tiểu: Được sử dụng để loại trừ hoặc xác định bệnh phối hợp như tình trạng viêm bể thận và sỏi thận
+Bác sĩ cũng có thể chỉ định thực hiện một số phương thức chẩn đoán hình ảnh như sau:
+1. Siêu âm
+Đối với tình trạng viêm túi mật cấp, siêu âm là lựa chọn đầu tiên, dễ thực hiện, ít tốn kém và có ở hầu hết các tuyến y tế. Đây là xét nghiệm có độ nhạy cao, xét nghiệm thăm dò không xâm lấn, an toàn, nhất là với phụ nữ có thai. Tuy nhiên một số trường hợp bụng chướng hơi sẽ làm khó xác định trên siêu âm.
+Theo phân loại và tiêu chuẩn Tokyo 2006, viêm túi mật cấp được đánh giá các tiêu chuẩn trên siêu âm như sau:
+Ấn đầu dò điểm Murphy có dấu hiệu phản ứng
+Thành túi mật dày > 4mm nếu bệnh nhân không mắc bệnh gan mạn tính dịch ascite ổ bụng hoặc suy tim
+Túi mật to với trục dọc > 8cm, đường kính > 4cm, có thể có hình ảnh sỏi kẹt cổ túi mật, dịch mật không trong, có cặn, có dịch quanh túi mật, thành túi mật có thể tách lớp, mất liên tục.
+Siêu âm chẩn đoán viêm túi mật cấp
+2. Chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI)
+Độ nhạy, độ đặc hiệu của chụp cắt lớp vi tính (CT) và chụp cộng hưởng từ (MRI) trong chẩn đoán viêm túi mật cấp tính là lớn hơn 95%. Ưu điểm là không xâm lấn.
+3. Chụp cắt lớp vi tính (Chụp CT)
+Chụp cắt lớp vi tính (CT) là phương pháp chẩn đoán hình ảnh được ưu tiên thứ hai, sau siêu âm, thường được chỉ định khi siêu âm cho hình ảnh không rõ ràng, có thể giúp xác định các rối loạn và biến chứng của viêm túi mật cấp. Tính ưu việt so với siêu âm là khả năng đánh giá có viêm tụy kèm theo hoặc xác định có sỏi ống mật chủ kết hợp. Chụp cắt lớp vi tính có hai thì, thì không tiêm thuốc cản quang và thì có tiêm thuốc cản quang. Kết quả chụp cho thấy dịch quanh túi mật, túi mật to, thành túi mật dày thâm nhiễm mỡ và được phân chia làm 3 giai đoạn:
+Giai đoạn 1: Dấu hiệu viêm khu trú bao gồm đau và phản ứng điểm Murphy, sờ thấy khối túi mật to ở hạ sườn phải
+Giai đoạn II: Dấu hiệu viêm khu trú hạ sườn phải kèm theo phản ứng viêm toàn thân gồm sốt, CRP, bạch cầu tăng cao
+Giai đoạn III: Ngoài các dấu hiệu của giai đoạn II, tiến triển viêm phúc mạc mật, chướng bụng, đau lan khắp bụng, kèm rối loạn chức năng các cơ quan như hô hấp, tim mạch, thần kinh, thận, gan
+Tình trạng viêm túi mật đến muộn là trên 72 giờ. Chỉ định phẫu thuật cắt túi mật ở giai đoạn I có nguy cơ thấp hơn giai đoạn II. Phẫu thuật cắt túi mật ở giai đoạn II sẽ khó khăn và nhiều nguy cơ. Phẫu thuật giai đoạn III cần điều trị hồi sức tích cực, dùng kháng sinh, điều trị các rối loạn chức năng các cơ quan. Với các trường hợp có bệnh, bác sĩ sẽ chỉ định phối hợp đặt dẫn lưu túi mật, điều trị hồi sức tốt, sau đó tiến hành phẫu thuật cắt túi mật sau. Với các trường hợp hồi sức tích cực, dẫn lưu túi mật không đáp ứng, bác sĩ có thể chỉ định phẫu thuật cắt túi mật nhưng sẽ rất khó khăn, nhiều nguy cơ và tiên lượng nặng.
+4. Chụp cộng hưởng từ (MRI)
+Bác sĩ có thể chỉ định chụp cộng hưởng từ (MRI) với chất cản quang dựa trên gadolinium đường tĩnh mạch đối với người bệnh bị dị ứng thuốc cản quang trong chụp cắt lớp vi tính. Phương pháp này đồng thời cũng có khả năng dựng hình được cây đường mật, là giải pháp thay thế hữu ích cho chụp CT ở phụ nữ mang thai. Cụ thể, MRI tăng tín hiệu quanh túi mật, túi mật to, thành túi mật dày.
+5. Chụp X-quang bụng thường quy
+10 – 15% trường hợp sỏi mật có thể được nhìn thấy trên phim chụp X-quang do sỏi có cản quang. Xét nghiệm này chỉ cho thấy sỏi mật, có thể không giúp phát hiện viêm túi mật
+6. Nội soi mật tụy ngược dòng (ERCP)
+Phương pháp này thường được ưu tiên thực hiện đối với những trường hợp có kèm sỏi ống mật chủ, được chỉ định ERCP lấy sỏi ống mật chủ trước khi phẫu thuật nội soi cắt bỏ túi mật hoặc chỉ định đồng thời cùng thì.
+Biến chứng viêm túi mật cấp
+Trong tổng số các trường hợp viêm túi mật cấp không điều trị, 10% bị thủng tại chỗ và 1% gây thủng tạng rỗng kèm viêm phúc mạc. Một số biến chứng đáng lo ngại khác bao gồm:
+Viêm mủ túi mật, hoại thư hoặc thủng cơ quan lân cận: Triệu chứng dễ thấy là đau bụng ngày càng tăng, sốt cao, rét run kèm chướng bụng, sau đau khắp bụng.
+Tắc nghẽn ống mật chủ: Vàng da ứ mật biểu hiện mắt, da vàng, đái nước tiểu vàng đậm, xét nghiệm máu Bilirubin máu tăng cao.
+Hội chứng Mirizzi.
+Viêm tụy do sỏi mật: Sỏi mật di chuyển từ túi mật vào đường mật và làm tắc nghẽn ống tụy.
+Rò túi mật-ruột: Sỏi kích thước lớn ăn mòn thành túi mật, tạo ra lỗ rò thông với ruột non hoặc những nơi khác trong khoang bụng.
+Tắc nghẽn ruột non.
+Điều trị viêm túi mật cấp
+Tuỳ theo mức độ nghiêm trọng của viêm túi mật cấp, bác sĩ sẽ chỉ định phương pháp điều trị phù hợp, bao gồm:
+1. Điều trị ban đầu
+Điều trị ban đầu thường áp dụng cho trường hợp viêm nhẹ, không biến chứng. Phương pháp cụ thể như sau:(2)
+Uống thuốc kháng sinh nhóm Cephalosporin hoặc levofloxacin phối hợp cùng metronidazole để tiêu diệt vi sinh vật, đặc biệt là vi khuẩn đường ruột gram âm và vi khuẩn kỵ khí.
+Uống thuốc chống nôn, chẳng hạn như promethazine hoặc prochlorperazine để kiểm soát cơn buồn nôn và ngăn ngừa tình trạng rối loạn nước, điện giải.
+Uống thuốc giảm đau: acetaminophen hoặc giãn cơ trơn giảm đau như No-spa
+Bù nước và điện giải.
+2. Phẫu thuật
+Các thủ tục can thiệp phẫu thuật được sử dụng trong điều trị viêm túi mật cấp bao gồm:
+Phẫu thuật nội soi cắt bỏ túi mật bao gồm phẫu thuật nội soi và mổ mở
+Dẫn lưu túi mật qua da (PCC) với các trường hợp nặng, có nhiều nguy cơ phẫu thuật, sau dẫn lưu điều trị hồi sức tích cực khi ổn định sẽ phẫu thuật cắt túi mật
+Dẫn lưu túi mật thông qua nội soi ngược dòng mật tụy
+Ngày nay có thêm phương pháp nội soi tán sỏi túi mật laser và lấy sỏi túi mật qua da dưới hướng dẫn của siêu âm
+3. Trường hợp có viêm túi mật kèm sỏi ống mật chủ (OMC)
+Trong trường hợp này, vấn đề quan trọng là cần phân biệt với tình trạng nhiễm trùng đường mật và chiến lược can thiệp khác.
+Theo Guideline Tokyo 2018, chẩn đoán sỏi mật có nhiễm trùng đường mật bao gồm lâm sàng có tam chứng charcot với độ nhạy là 92%, độ đặc hiệu là 78%. Trong đó, triệu chứng đau sốt xuất hiện ở 80% trường hợp và dấu hiệu vàng da chỉ gặp khoảng 60 – 70% , được chẩn đoán bằng bảng tóm tắt sau:
+Biểu hiện
+Ngưỡng tiêu chuẩn
+Dấu hiệu nhiễm trùng
+Sốt hoặc rét run
+>38°C
+Hội chứng nhiễm trùng
+Bạch cầu < 4G/l hoặc > 10G/l
+CRP ≥10mg/L
+Ứ mật
+Tắc mật
+Bilirubine totale ≥ 34 μmol/L
+Bất thường về chức năng gan
+ASAT, ALAT, PAL và gamma-GT >1,5 x giới hạn bình thường
+Chẩn đoán hình ảnh
+Hình ảnh gián tiếp giãn đường mật
+Bằng chứng về hình ảnh cản trở (sỏi, hẹp, stent..)
+Chẩn đoán nghi ngờ
+Dấu hiệu nhiễm trùng kèm theo có ứ mật hoặc có dấu hiệu chẩn đoán hình ảnh
+Chẩn đoán xác định
+Có cả ba dấu hiệu nhiễm trùng, ứ mật và dấu hiệu trên chẩn đoán hình ảnh
+Bảng 1: Tiêu chuẩn chẩn đoán sỏi mật có nhiễm trùng và tắc nghẽn đường mật theo Guideline Tokyo 2013/ 2018.
+Giai đoạn
+Biểu hiện
+Ngưỡng tiêu chuẩn
+Giai đoạn 3: có ít nhất một tiêu chuẩn
+(mức độ nặng)
+Rối loạn về tim mạch
+Dopamine> 5μg/kg/min hoặc với bất cứ liều noradrénaline nào
+Rối loạn thần kinh
+Rối loạn ý thức
+Rối loạn hô hấp
+PaO2/FiO2 < 300
+Rối loạn chức năng thận
+Créatininémie> 176μmol/L hoặc xét nghiệm bất thường chức năng thận qua nước tiểu
+Rối loạn chức năng gan
+INR >1,5
+Rối loạn huyết học
+Tiểu cầu < 100.000/mm3
+Giai đoạn 2: có ít nhất hai tiêu chuẩn (mức độ trung bình)
+Bạch cầu
+<4 G/L hoặc >12G/L
+Sốt
+>39°C
+Tuổi
+>75 tuổi
+Bilirubin máu
+>85 μmol/L
+Albumin máu thấp
+<0,7 x mức dưới hạn dưới bình thường
+Giai đoạn 1(mức độ nhẹ)
+Không bao gồm các yếu tố ở giai đoạn 2, giai đoạn 3
+Bảng 2: Tiêu chuẩn chẩn đoán giai đoạn nặng của nhiễm trùng đường mật theo Guideline Tokyo 2013/ 2018
+Sỏi túi mật không gây tắc mật vàng da. Tuy nhiên, nếu bệnh gây biến chứng viêm phúc mạc mật thì có thể dẫn đến vàng da. Xét nghiệm bilirubin máu tăng nhưng không nhiều và nghiêm trọng như tắc mật do sỏi ống mật chủ.
+Kết hợp ERCP (nội soi mật tụy ngược dòng) lấy sỏi OMC, sau đó nội soi cắt túi mật hiện đang là lựa chọn hàng đầu với các trường hợp có chỉ định ERCP lấy sỏi OMC. Hầu hết các trường hợp viêm túi mật cấp điều trị đều cần can thiệp phẫu thuật và phẫu thuật trong vòng 72 giờ. Trong thời điểm này, bác sĩ vẫn có thể thực hiện phẫu thuật nội soi cấp cứu.
+Khi không có chỉ định ERCP lấy sỏi OMC hoặc có kết hợp nhiễm trùng đường mật, viêm tụy, bác sĩ sẽ chỉ định phẫu thuật cắt túi mật đồng thời mở ống mật chủ lấy sỏi, bơm rửa đường mật, dẫn lưu Kehr OMC. Phương pháp này được đánh giá là hiệu quả và triệt để nhất.
+Ngày nay, nhờ vào các kỹ thuật can thiệp ít xâm lấn, các phương tiện kỹ thuật thăm dò trong điều trị sỏi ống mật chủ, nguy cơ biến chứng được giảm đáng kể, tăng hiệu quả điều trị và điều trị triệt để hơn, như:
+Dẫn lưu đường mật qua da và dùng kháng sinh
+Hồi sức trước mổ trước khi phẫu thuật với trường hợp tắc mật, nhiễm trùng đường mật, tình trạng bệnh nhân nặng, phẫu thuật ngay có nhiều nguy cơ.
+Các kỹ thuật tán sỏi đường mật nội soi qua da, đặt stent đường mật, chụp đường mật và nội soi đường mật trong mổ, tán sỏi nội soi trong mổ.
+Phẫu thuật cắt bỏ túi mật trong điều trị viêm túi mật cấp
+Chăm sóc bệnh nhân viêm túi mật cấp
+Sau khi xuất viện, người bệnh có thể được kê đơn thuốc kháng sinh và thuốc giảm đau. Chế độ ăn, ăn ít chất béo cho đến khi túi mật được cắt bỏ. Ngoài ra, một số giải pháp hữu ích người bệnh có thể tham khảo như:(3)
+Tập thể dục đều đặn 30 phút mỗi ngày
+Xây dựng chế độ ăn giàu chất xơ, đặc biệt là rau củ quả, trái cây, ngũ cốc nguyên hạt
+Giảm cân từ từ và an toàn nếu thừa cân
+Phòng ngừa viêm túi mật cấp tính
+Viêm túi mật cấp tính không thể được ngăn ngừa hoàn toàn nhưng có thể giảm nguy cơ hình thành sỏi mật thông qua một số giải pháp sau:
+Áp dụng chế độ ăn uống lành mạnh, cân bằng, giảm thực phẩm chứa nhiều cholesterol.
+Duy trì mức cân nặng hợp lý, tránh thừa cân, béo phì.
+Tập thể dục thường xuyên.
+Tránh chế độ ăn kiêng giảm cân cấp tốc.
+Chế độ ăn tốt, giảm nguy cơ sỏi túi mật, viêm túi mật: Cá tươi, cua, tôm, thịt nạc và thịt gia cầm (loại bỏ mỡ và da trước khi ăn), các loại hạt thô, Sữa ít béo, phô mai, sữa chua, súp làm từ nước dùng, nước sốt không béo (sốt cà chua, sốt mù tạt…). Đậu nành, dầu ô liu, dầu mè, nước cốt chanh, ngũ cốc nguyên hạt. Trái cây tươi, trái cây sấy khô, các loại đậu như Đậu Hà Lan, đậu lăng…
+Viêm túi mật cấp có nguy hiểm không?
+Viêm túi mật cấp là tình trạng bệnh lý nguy hiểm. Nếu không điều trị kịp thời, bệnh có nguy cơ tiến triển thành các biến chứng nghiêm trọng, đe doạ trực tiếp đến tính mạng, điển hình như:
+Hoại tử túi mật gây viêm phúc mạc mật
+Nhiễm trùng lan rộng, nhiễm trùng huyết, sốc nhiễm trùng, suy đa tạng
+Thủng túi mật
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị chuyên khoa, hiệu quả cho các bệnh nhân mắc các vấn đề về gan từ nhẹ đến nặng (gan nhiễm mỡ, viêm gan cấp tính, mạn tính, xơ gan, ung thư gan, viêm túi mật mạn tính…). Hệ thống BVĐK Tâm Anh quy tụ đội ngũ bác sĩ Nội khoa – Ngoại khoa – Nội soi tiêu hóa chuyên môn cao, giàu kinh nghiệm, bên cạnh đó là sự hỗ trợ của hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh về gan với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Trên đây là tổng hợp tất cả các thông tin liên quan đến bệnh lý viêm túi mật cấp, nguyên nhân, triệu chứng, phương pháp chẩn đoán và điều trị hiệu quả. Hy vọng thông qua những chia sẻ này, bạn đã có thêm nhiều cập nhật hữu ích để chủ động theo dõi, phát hiện bệnh ngay từ sớm, nhằm hạn chế tối đa biến chứng nguy hiểm.

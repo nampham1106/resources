@@ -1,0 +1,100 @@
+# doc_id = health_disease_883
+# url = https://tamanhhospital.vn/ung-thu-thanh-quan-giai-doan-2/
+# date = 10/08/2023
+Ung thư thanh quản giai đoạn II: Triệu chứng, chẩn đoán và điều trị
+Ung thư thanh quản giai đoạn II dù tiến triển hơn giai đoạn I nhưng vẫn là ung thư giai đoạn sớm, tiên lượng khả quan nếu được chẩn đoán và điều trị phù hợp.
+Mục lụcUng thư thanh quản giai đoạn 2 là gì?Giải mã phân đoạn T, N, M trong giai đoạn II ung thư thanh quảnYếu tố nguy cơ gây ung thư thanh quản gồm những gì?1. Tuổi2. Giới tính3. Thói quen hút thuốc lá4. Thói quen uống nhiều rượu bia5. Tiếp xúc với hóa chất6. Bệnh viêm nhiễmTriệu chứng ung thư thanh quản giai đoạn IIUng thư thanh quản giai đoạn II sống được bao lâu?Cách chẩn đoán ung thư thanh quản giai đoạn II1. Nội soi thanh quản2. Sinh thiết3. Nội soi tai mũi họng4. Một số kỹ thuật chẩn đoán hình ảnhPhương pháp điều trị ung thư thanh quản giai đoạn IIUng thư thanh quản giai đoạn 2 là gì?
+Ung thư thanh quản xuất hiện ở bất kỳ vị trí nào trong thanh quản bao gồm vùng thượng thanh môn, thanh môn và hạ thanh môn. Bệnh nhân ung thư thanh quản giai đoạn II có thể gặp một số triệu chứng rõ ràng hơn so với ung thư thanh quản giai đoạn I như giọng nói thay đổi, ho kéo dài… do kích thước khối u phát triển gây ảnh hưởng đến chức năng của thanh quản. (1)
+Triệu chứng ung thư thanh quản giai đoạn II rõ ràng hơn, mức độ nặng hơn.
+Giải mã phân đoạn T, N, M trong giai đoạn II ung thư thanh quản
+Hệ thống phân giai đoạn ung thư thanh quản phổ biến nhất được ứng dụng hiện nay là hệ thống TNM dựa theo hướng dẫn của Ủy ban Liên hợp về Ung thư Hoa Kỳ (AJCC – American Joint Committee on Cancer). Ung thư thanh quản có 5 giai đoạn – sớm nhất là giai đoạn 0 theo sau là giai đoạn I đến IV. Tựu trung, giai đoạn càng cao đồng nghĩa với ung thư càng lan rộng. (2)
+Hình ảnh mô phỏng 4 giai đoạn ung thư thanh quản.
+Các giai đoạn của ung thư thanh quản của từng vùng (thượng thanh môn, thanh môn và hạ thanh môn) sẽ có sự khác biệt:
+Thượng thanh môn: là vùng phía trên dây thanh âm (thuộc phần nắp thanh môn, bao gồm nắp thanh môn phần trên và phần dưới xương móng). Nắp thanh môn là một cấu trúc có thể đóng mở tạm thời khi nhai/nuốt, giúp đóng tạm đường thở để thức ăn không rơi vào đường thở phía trước.
+Thanh môn: là vùng chứa dây thanh âm thật, bao gồm cả hai dây thanh âm.
+Hạ thanh môn: là vùng nằm phía dưới thanh môn đến bờ dưới của sụn nhẫn. Sụn nhẫn là một vòng sụn bao quanh khí quản và là ranh giới dưới cùng của khung xương thanh quản; sụn nhẫn có hình vòng giống nhẫn mặt vuông, nằm phía dưới sụn giáp.
+Xem thêm:
+Ung thư thanh quản giai đoạn 0
+Ung thư thanh quản giai đoạn 1
+Ung thư thanh quản giai đoạn 3
+Ung thư thanh quản giai đoạn 4
+Hình ảnh minh họa giải phẫu thanh quản
+Trong bài viết này, chúng tôi trình bày việc phân giai đoạn ung thư thanh quản dựa theo hướng dẫn do Ủy ban Liên hợp về Ung thư Hoa Kỳ (AJCC – American Joint Committee on Cancer) cung cấp, với phiên bản 8 là phiên bản cập nhật mới nhất vào năm 2017. (3)
+Giai đoạn II ung thư thanh quản
+Phân đoạn
+Chi
+Thượng thanh môn
+T2
+N0
+M0
+Khối u đã xâm lấn niêm mạc của vùng lân cận hạ thanh môn hoặc thanh môn hoặc một phần ngoài thượng thanh môn, tuy nhiên không cố định thanh quản (T2).
+Ung thư chưa di căn đến các hạch bạch huyết lân cận (N0), chưa di căn đến các cơ quan khác của cơ thể (M0).
+Thanh môn
+T3
+N0
+M0
+Khối u lan đến thượng thanh môn và/hoặc hạ thanh môn, và/hoặc làm hạn chế khả năng vận động của dây thanh (T2).
+Ung thư chưa di căn đến các hạch bạch huyết lân cận (N0), chưa di căn đến các cơ quan khác của cơ thể (M0).
+Hạ thanh môn
+T2
+N0
+M0
+Khối u lan đến 1 hoặc 2 dây thanh với dây thanh cử động bình thường hoặc suy giảm (không cố định dây thanh) (T2).
+Ung thư chưa di căn đến các hạch bạch huyết lân cận (N0), chưa di căn đến các cơ quan khác của cơ thể (M0).
+Hệ thống phân chia giai đoạn ung thư thanh quản theo hệ thống AJCC mới nhất.
+Yếu tố nguy cơ gây ung thư thanh quản gồm những gì?
+Bất kỳ điều gì làm tăng khả năng phát triển ung thư đều được cho là yếu tố nguy cơ. Yếu tố nguy cơ ung thư thanh quản có thể đến từ các hoạt động của chính bản thân người bệnh, tác động từ môi trường sống xung quanh hoặc do di truyền từ ba mẹ sang con cái qua bộ gen (gen là bộ mã hóa cho các tế bào trong cơ thể chúng ta). Yếu tố nguy cơ điển hình của ung thư thanh quản có thể bao gồm những yếu tố sau:
+1. Tuổi
+Ung thư thanh quản thường gặp ở bệnh nhân lớn tuổi (hơn 40 tuổi).
+2. Giới tính
+Ung thư thanh quản thường gặp ở nam giới nhiều hơn là nữ giới. Nguyên nhân có thể là do thói quen hút thuốc lá, sử dụng nhiều rượu bia gặp ở nam giới nhiều hơn.
+3. Thói quen hút thuốc lá
+Khi hút thuốc lá, khói thuốc lá đi qua thanh quản trước khi đến phổi của bạn. Làn khói này chứa nhiều hóa chất độc hại, tác động xấu đến sức khỏe. Hút thuốc lá (thuốc lá điếu, tẩu, xì gà) được cho làm tăng nguy cơ phát triển ung thư thanh quản. Đây là một trong những yếu tố nguy cơ hàng đầu gây ung thư thanh quản ở các bệnh nhân phương Tây. Nguy cơ ung thư càng tăng khi thời gian người bệnh hút thuốc càng lâu năm hay số điếu hút mỗi ngày càng nhiều.
+4. Thói quen uống nhiều rượu bia
+Uống nhiều rượu bia trong thời gian dài làm tăng nguy cơ ung thư thanh quản. Hiện tại chưa có định nghĩa cụ thể về lượng rượu bia tiêu thụ có thể làm tăng nguy cơ ung thư thanh quản. Tuy nhiên, một số hướng dẫn về dinh dưỡng khuyến cáo rằng nam giới không nên uống quá 3 lon bia (330ml) 5%/ngày và không quá 9 lon/tuần, rượu 40% không uống quá 100ml/ngày và không quá 250ml/tuần; nữ giới không nên uống quá 2 lon bia (330ml) 5%/ngày và không quá 7 lon/tuần, rượu 40% không quá 75ml/ngày và không quá 150ml/tuần. Nguy cơ mắc ung thư thanh quản sẽ cao hơn nếu bạn có cả 2 thói quen là hút thuốc lá và uống nhiều rượu bia.
+5. Tiếp xúc với hóa chất
+Cơ quan Nghiên cứu Ung thư Quốc tế (IARC- International Agency for Research on Cancer) liệt kê sương mù chứa Acid và Asbestos là những chất được chứng minh làm tăng nguy cơ mắc ung thư thanh quản.
+6. Bệnh viêm nhiễm
+HPV (Human papilloma virus) là viết tắt tên của một loại virus gây u nhú ở người. Đây là một loại bệnh phổ biến, thường không gây ra triệu chứng và có thể tự khỏi. Một số nghiên cứu cho rằng HPV tuýp 16 có liên quan đến ung thư thanh quản nhưng các bằng chứng vẫn còn chưa rõ ràng. Ngoài ra HPV là nguyên nhân hàng đầu liên quan đến các loại ung thư đầu và cổ khác, nhưng mối liên quan giữa virus u nhú HPV với ung thư thanh quản còn rất hạn chế.
+Triệu chứng ung thư thanh quản giai đoạn II
+Một số dấu hiệu được cho là triệu chứng ung thư thanh quản giai đoạn II gồm: (4)
+Thay đổi giọng nói;
+Khàn tiếng;
+Đau họng dai dẳng;
+Nuốt đau, nuốt khó;
+Sụt cân không rõ nguyên nhân;
+Khó thở.
+Ung thư thanh quản giai đoạn II dù tiến triển hơn giai đoạn I nhưng vẫn là ung thư giai đoạn sớm, nên các triệu chứng thường không quá rõ ràng và dễ bị nhầm lẫn với các bệnh lý tai – mũi – họng thông thường. Do đó bác sĩ khuyến nghị đối với người trên 45 tuổi có một trong các dấu hiệu trên, kéo dài và không đáp ứng với điều trị nội khoa thông thường nên đến bệnh viện kiểm tra và tầm soát. Phát hiện ung thư thanh quản ở giai đoạn càng sớm, lựa chọn phương pháp điều trị phù hợp giúp tăng cơ hội điều trị khỏi bệnh.
+Triệu chứng ung thư thanh quản giai đoạn 2 thường bị nhầm lẫn với các bệnh lý hô hấp, tai mũi họng thông thường
+Ung thư thanh quản giai đoạn II sống được bao lâu?
+Theo Văn phòng Thống kê Quốc gia Anh (ONS – Office for National Statistics), khoảng 70% bệnh nhân ung thư thanh quản giai đoạn II có thể sống sau 5 năm kể từ thời điểm chẩn đoán bệnh. Ung thư thanh quản giai đoạn II là giai đoạn tiến triển tại chỗ, khối u nguyên phát đã lan ra khỏi vị trí ban đầu và gây ảnh hưởng đến hoạt động của dây thanh âm nhưng chưa làm bất động dây thanh; tế bào ung thư chưa di căn hạch bạch huyết vùng cũng như chưa di căn xa.
+Tiên lượng sống sau 5 năm của bệnh nhân ung thư thanh quản giai đoạn II tương đối khả quan.
+Tỷ lệ sống sau 5 năm ung thư thanh quản giai đoạn II dựa trên vị trí khối u được xác định như sau:
+Ung thư thanh môn: 80-91%.
+Ung thư thượng thanh môn: 55-75%.
+Ung thư hạ thanh môn: 50-86%.
+Số liệu thống kê tiên lượng sống bệnh nhân ung thư chỉ mang tính chất tham khảo. Nói cách khác, tỷ lệ sống của bệnh nhân ung thư thanh quản giai đoạn II còn phụ thuộc vào các yếu tố như tuổi, thể trạng, bệnh lý đi kèm của bệnh nhân, loại tế bào ung thư, khả năng tuân thủ điều trị hay khả năng đáp ứng điều trị của bệnh nhân, lối sống của bệnh nhân… (5)
+Cách chẩn đoán ung thư thanh quản giai đoạn II
+Nếu xuất hiện các triệu chứng bất thường cảnh báo nguy cơ mắc ung thư thanh quản, các bác sĩ có thể chỉ định các phương pháp chẩn đoán sau:
+1. Nội soi thanh quản
+Bác sĩ sử dụng ống soi nhỏ, có đèn và camera ở phần đầu ống nội soi có thể đưa từ mũi hoặc từ họng để khảo sát vùng thanh quản. Hình ảnh thu nhận được sẽ hiển thị trực tiếp trên màn hình.
+Nội soi thanh quản có thể được thực hiện khi bệnh nhân tỉnh táo, có thể khiến bệnh nhân không thoải mái, khó chịu trong quá trình nội soi. Nếu cần thiết, bác sĩ có thể gây tê cục bộ vùng mũi-họng giúp bệnh nhân giảm bớt cảm giác khó chịu và bớt đau.
+Nội soi thanh quản có thể thực hiện gây tê, bệnh nhân hoàn toàn tỉnh táo.
+2. Sinh thiết
+Sinh thiết mô tế bào học được thực hiện đồng thời trong quá trình nội soi. Một công cụ từ ống nội soi tách một phần mô bất thường để gửi phòng xét nghiệm làm giải phẫu bệnh giúp xác định loại tế bào lành hay ác tính. Sinh thiết có thể được thực hiện khi nội soi thanh quản. Nếu cần thiết, nội soi thanh quản được thực hiện trong điều kiện bệnh nhân được gây mê toàn thân ở phòng mổ. bệnh nhân thường xuất viện trong ngày.
+3. Nội soi tai mũi họng
+Có thể được dùng để đánh giá toàn bộ vùng tai mũi họng trước và sau điều trị.
+4. Một số kỹ thuật chẩn đoán hình ảnh
+Các phương pháp chẩn đoán hình ảnh thường được sử dụng để đánh giá giai đoạn của bệnh, bao gồm:
+Chụp cắt lớp vi tính (CT): Kỹ thuật này sử dụng tia X và máy tính tạo ra hình ảnh ba chiều của thanh quản và các mô xung quanh. Chụp cắt lớp vi tính CT vùng đầu cổ giúp xác định mức độ ảnh hưởng của khối u thanh quản, gồm kích thước và mức độ xâm lấn của khối u, tình trạng di căn hạch bạch huyết vùng và có thể giúp lập kế hoạch xạ trị.
+Cộng hưởng từ (MRI): Chụp cộng hưởng từ hay còn gọi là chụp MRI (tên tiếng anh là Magnetic Resonance Imaging) là phương pháp ứng dụng từ trường mạnh, sóng vô tuyến và máy tính để phác họa hình ảnh một cách chi tiết bên trong cơ thể con người; đặc biệt hữu ích trong việc phác họa hình ảnh các mô mềm và hệ thần kinh. MRI vùng đầu cổ giúp đánh giá chuẩn xác và khách quan về vị trí khối u, mức độ xâm lấn của khối u vào mô mềm xung quanh cũng như xâm lấn thần kinh, mạch máu; ngoài ra MRI cũng giúp đánh giá chi tiết hạch di căn vùng cổ và gợi ý các bất thường khác.
+Siêu âm: Siêu âm hạch vùng cổ là phương pháp sử dụng sóng siêu âm tần số cao để thu lại hình ảnh của cấu trúc bên trong hạch cổ. Sau khi xem xét các hình ảnh siêu âm, bác sĩ có thể nhận biết những biểu hiện bất thường (hạch mất cấu trúc, vỡ vỏ bao hoặc xâm lấn cấu trúc xung quanh…) và đưa ra chẩn đoán.
+Phương pháp điều trị ung thư thanh quản giai đoạn II
+Phẫu thuật cắt bỏ một phần thanh quản có thể được chỉ định trong điều trị ung thư thanh quản giai đoạn II.
+Phương pháp điều trị ung thư thanh quản cần được lựa chọn mang tính cá thể hóa, nhằm đảm bảo tính phù hợp với thể trạng cụ thể của từng bệnh nhân. (6)
+Xạ trị và phẫu thuật là hai phương thức điều trị chính yếu trước tiên cho bệnh ung thư thanh quản giai đoạn II.
+Xạ trị (có thể kèm theo hóa trị) giúp mang lại cho bệnh nhân cơ hội bảo tồn thanh quản, bảo tồn giọng nói. Nếu bệnh tái phát sau xạ trị, xét chỉ định phẫu thuật cắt một phần hoặc cắt toàn bộ thanh quản.
+Phẫu thuật nội soi cắt u kèm nạo hạch hoặc phẫu thuật mở cắt một phần thanh quản kèm nạo hạch. Tùy vào kết quả giải phẫu bệnh sau mổ sẽ lựa chọn phương pháp điều trị tiếp theo là phẫu thuật lần 2 cắt rộng hoặc cắt toàn bộ thanh quản nếu cần; hoặc xạ trị sau mổ (có thể kết hợp với hóa trị nếu cần).
+Khoa Ung bướu, BVĐK Tâm Anh được đầu tư trang thiết bị hiện đại, quy tụ đội ngũ y bác sĩ chuyên môn cao, nhiều năm kinh nghiệm, áp dụng phác đồ điều trị cá thể hóa theo tiêu chuẩn quốc tế. Không chỉ chăm sóc chuyên biệt, hỗ trợ tiếp cận với các phác đồ, chuyên gia y tế hàng đầu thế giới, các bác sĩ khoa Ung bướu còn phối hợp cùng bác sĩ khoa Dinh dưỡng thiết lập chế độ ăn uống trước – trong và sau điều trị ung thư nhằm nâng cao tổng trạng sức khỏe cho từng bệnh nhân, cải thiện tình trạng phục hồi. Bên cạnh đó, bác sĩ cũng hỗ trợ tư vấn tâm lý cho bệnh nhân và người thân, giúp bệnh nhân vững tâm và lạc quan, tăng hiệu quả điều trị thành công.
+Để đặt lịch thăm khám, tầm soát, điều trị ung thư thanh quản tại BVĐK Tâm Anh, bạn có thể liên hệ theo thông tin:
+Ung thư thanh quản giai đoạn II có tiên lượng khả quan nếu được phát hiện kịp thời và điều trị phù hợp. Ung thư thanh quản giai đoạn sớm (bao gồm giai đoạn I và giai đoạn II) có tiên lượng khá tốt nếu đáp ứng với điều trị. Do đó, nếu có các triệu chứng bất thường kéo dài, và/hoặc có các yếu tố nguy cơ, bệnh nhân cần chủ động khám sức khỏe và tầm soát nhằm phát hiện sớm bệnh ung thư thanh quản.

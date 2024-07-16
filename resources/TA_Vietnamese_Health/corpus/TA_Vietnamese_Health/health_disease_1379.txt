@@ -1,0 +1,53 @@
+# doc_id = health_disease_1379
+# url = https://tamanhhospital.vn/do-phan-suat-du-tru-mach-vanh/
+# date = 06/04/2021
+Khi nào cần đo phân suất dự trữ lưu lượng mạch vành
+Đo phân suất dự trữ mạch vành (FFR ) là một kỹ thuật trong y khoa, được chỉ định cho các tổn thương hẹp mức độ từ 40-90% trên hình ảnh chụp mạch, giúp xác định chính xác tổn thương hẹp nào gây giảm lưu lượng máu thực sự. Trên cơ sở đó, bác sĩ sẽ đưa ra quyết định: tiếp tục điều trị thuốc, nong mạch vành hay phải mổ bắc cầu.
+Bài viết được tư vấn chuyên môn bởi BS.CKII Huỳnh Ngọc Long, Trưởng khoa Thông tim can thiệp, Trung tâm tim mạch BVĐK Tâm Anh TP.HCM
+Bác sĩ sẽ căn cứ trên tình trạng bệnh lý để quyết định có thực hiện đo FFR cho người bệnh hay không
+Mục lụcĐo phân suất dự trữ lưu lượng mạch vành (FFR) là gì?Khi nào bệnh nhân cần đo phân suất dự trữ lưu lượng mạch vành?Trường hợp nào không nên đo phân suất dự trữ lưu lượng mạch vành?Các bước tiến hành đo phân suất dự trữ lưu lượng mạch vànhBước 1Bước 2Bước 3: Đánh giá kết quảĐo phân suất dự trữ lưu lượng mạch vành có nguy hiểm không?Thực hiện đo phân suất dự trữ lưu lượng mạch vành (FFR) tại Hệ thống BVĐK Tâm AnhĐo phân suất dự trữ lưu lượng mạch vành (FFR) là gì?
+Phân suất dự trữ lưu lượng mạch vành (tên tiếng Anh Fractional Flow Reserve – FFR) là thông số được đo trong quá trình chụp mạch vành. Đó là tỷ lệ giữa áp lực sau chỗ hẹp/áp lực trước chỗ hẹp. Mạch vành không hẹp, tỷ lệ này bằng 1. Nếu mạch vành có hẹp nhẹ, tỷ lệ này giảm ít. Nếu tỷ lệ này giảm nhiều, nhỏ hơn 0.8 thì kết luận rằng tổn thương hẹp này là nặng, đã gây giảm lượng máu đến nuôi cơ tim phía sau. Từ đó, bác sĩ sẽ quyết định cần phải nong rộng, đặt giá đỡ (stent mạch vành) hoặc mổ bắc cầu nhánh mạch vành đó.
+Khi nào bệnh nhân cần đo phân suất dự trữ lưu lượng mạch vành?
+Những đối tượng sau thường được chỉ định đo FFR:
+Bệnh nhân hẹp động mạch vành từ 40-90% trên hình ảnh chụp mạch, tính cả những trường hợp tái hẹp trong stent (số 90% dựa trên khuyến cáo Hiệp hội tim mạch châu Âu năm 2019, trước 2019 là số 70%).
+Bệnh nhân có hẹp nhiều nhánh động mạch vành mà không thể xác định được nhánh nào là thủ phạm gây thiếu máu cơ tim.
+Tổn thương hẹp lan tỏa nhiều vị trí trên cùng một nhánh động mạch vành, nhằm xác định vị trí nào là hẹp đáng kể nhất.
+Bệnh nhân có hẹp tại chỗ phân nhánh và cần quyết định có can thiệp vào nhánh bên không. Sau khi can thiệp nong/stent động mạch vành nhánh chính, đánh giá ảnh hưởng tới nhánh bên.
+Trường hợp nào không nên đo phân suất dự trữ lưu lượng mạch vành?
+Kỹ thuật đo FFR chống chỉ định cho các đối tượng gặp phải:
+Những tổn thương hẹp quá nặng >90% vì nhánh mạch này đã gây giảm lưu lượng máu nuôi tim quá rõ ràng;
+Những tổn thương hẹp <40% chưa có chỉ định nong hay mổ;
+Những tổn thương hẹp ở phía quá xa không thích hợp về mặt giải phẫu;
+Nhồi máu cơ tim cấp, bệnh cơ tim phì đại, có nhiều tuần hoàn bàng hệ, cầu cơ động mạch vành… do khó đánh giá chính xác được mức độ ảnh hưởng huyết động.
+Các bước tiến hành đo phân suất dự trữ lưu lượng mạch vành
+Bước 1
+Người bệnh được giải thích rõ ràng về lợi và hại của thủ thuật và đồng ý thực hiện.
+Bước 2
+Sau khi chụp mạch vành, xác định tổn thương cần đo phân suất dự trữ lưu lượng mạch vành;
+Chuẩn bị dụng cụ đo phân suất dự trữ lưu lượng mạch vành. Đó là 1 dây dẫn rất nhỏ 0.014 inch (0.35 mm). Bộ phận đo áp lực được gắn ở đầu dây dẫn (Hình bên dưới).
+Dụng cụ đo phân suất dự trữ lưu lượng mạch vành
+Bác sĩ sẽ dùng ống thông can thiệp 6 French (đường kính 2mm) cài vào lỗ xuất phát động mạch vành bị tổn thương. Sau đó đưa dây dẫn đo áp lực qua vị trí tổn thương đến đoạn xa bình thường của mạch máu.
+Dây đo áp lực khi đó được kết nối với máy đo. Thuốc Heparin và Nitroglycerin được sử dụng thường quy giống như trong các thủ thuật tim mạch can thiệp.
+Dùng thuốc Adenosin hoặc Papaverin [D2] cho trực tiếp vào lòng động mạch vành qua ống thông hoặc bằng truyền thuốc giãn mạch qua đường tĩnh mạch để gây giãn mạch tối đa, kết quả đo được sẽ chính xác nhất.
+Khi đó phân suất dự trữ động mạch vành sẽ được máy tính tự động, hiện kết quả trên màn hình (hình bên dưới).
+Kết quả đo phân suất dự trữ lưu lượng mạch vành
+Bước 3: Đánh giá kết quả
+Bác sĩ ghi nhận kết quả đo <0.8: Tổn thương hẹp gây thiếu lưu lượng máu nuôi cơ tim.
+Đo trên tất cả các nhánh có hẹp.
+Tổng cộng có 0, 1, 2, 3 nhánh mạch vành bị hẹp nặng, cần phải can thiệp. Từ đó đưa ra quyết định: tiếp tục uống thuốc, nong mạch vành hay mổ bắc cầu.
+Đo phân suất dự trữ lưu lượng mạch vành có nguy hiểm không?
+Kỹ thuật FFR có khả năng gây ra một số biến chứng như:
+Các biến chứng nhẹ thoáng qua trong quá trình đo gồm: khó thở, đau ngực, co thắt mạch vành, blốc nhĩ thất, ngưng xoang (do thuốc adenosin). Các biến chứng này thường thoáng qua và không gây nguy hại gì. Cần phải phát hiện kịp thời, cho các thuốc giãn mạch khi bị co thắt động mạch vành. Trong trường hợp nhịp chậm do thuốc, người bệnh được thông báo ho vài tiếng hoặc nếu cần cho tiêm atropin tĩnh mạch.
+Các biến chứng do dây dẫn: bóc tách thành động mạch vành, thủng động mạch vành khi lái dây dẫn vào mạch vành thì rất hiếm gặp. Cần phát hiện sớm, dùng bóng bơm kéo dài hoặc stent có màng bọc (cover stent) để điều trị.
+Do đó, người bệnh cần thăm khám ở những cơ sở y tế có chuyên khoa tim mạch uy tín, chuyên gia giàu kinh nghiệm, trang thiết bị hiện đại để được thực hiện đúng cách, hạn chế biến chứng cũng như xử trí kịp thời khi có sự cố xảy ra.
+Thực hiện đo phân suất dự trữ lưu lượng mạch vành (FFR) tại Hệ thống BVĐK Tâm Anh
+Trung tâm tim mạch BVĐK Tâm Anh được trang bị hệ thống máy móc nhập khẩu đồng bộ từ nước ngoài, bao gồm dụng cụ đo phân suất dự trữ lưu lượng mạch vành FFR; máy thông tim; hệ thống máy chụp CT 768 lát cắt chụp cắt lớp vi tính toàn thân chỉ từ 3 đến 4 giây; máy chụp cộng hưởng từ công nghệ tiên tiến chụp tim không cần nín thở; máy siêu âm tim, siêu âm mạch máu (động mạch cảnh, mạch máu ngoại biên…) thế hệ mới dựng hình ảnh 4D giúp hỗ trợ phẫu thuật tim, thông tim trong bệnh van tim, khảo sát thể tích và chức năng tích tim 4D… hỗ trợ thực hiện kỹ thuật đo phân suất dự trữ lưu lượng mạch vành và các kỹ thuật can thiệp chẩn đoán – điều trị bệnh tim mạch.
+Bên cạnh đó, trung tâm còn phối hợp chặt chẽ với các chuyên khoa khác như Nội thần kinh, Trung tâm xét nghiệm, Trung tâm Chẩn đoán hình ảnh, Trung tâm Sản Phụ khoa, Trung tâm Nhi – Sơ sinh, khoa Ngoại tổng quát, khoa Gây mê hồi sức… hỗ trợ tối đa cho quá trình thăm khám, chẩn đoán và điều trị toàn diện, hiệu quả nhất cho bệnh nhân.
+Liên hệ đặt lịch khám với các chuyên gia hàng đầu tại Trung tâm tim mạch, Hệ thống BVĐK Tâm Anh:
+Hà Nội:
+108 Hoàng Như Tiếp, P.Bồ Đề, Q.Long Biên, TP.Hà Nội
+Hotline: 024 3872 3872 – 024 7106 6858
+TP.HCM:
+2B Phổ Quang, P.2, Q.Tân Bình, TP.Hồ Chí Minh
+Hotline: 0287 102 6789 – 093 180 6858
+Fanpage: https://www.facebook.com/benhvientamanh

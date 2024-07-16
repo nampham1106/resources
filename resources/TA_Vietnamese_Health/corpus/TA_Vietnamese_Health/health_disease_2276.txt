@@ -1,0 +1,96 @@
+# doc_id = health_disease_2276
+# url = https://tamanhhospital.vn/xet-nghiem-er-pr/
+# date = 06/05/2024
+Xét nghiệm ER/PR (thụ thể estrogen/progesterone) trong ung thư vú
+Tình trạng thụ thể hormone rất quan trọng trong việc xác định các lựa chọn điều trị ung thư vú. Xác định tình trạng khối u của người bệnh là ưu tiên hàng đầu sau sinh thiết vú hoặc phẫu thuật ung thư vú (cắt bỏ vú hoặc khối u) vì sinh học của bướu có tiên lượng tốt hay xấu đều tác động lớn đến các bước tiếp theo trong kế hoạch điều trị. Vậy xét nghiệm ER/PR trong ung thư vú là gì? Tại sao xét nghiệm thụ thể estrogen và progesterone lại quan trọng trong ung thư vú? Chỉ định xét nghiệm khi nào? Bài viết sau đây của thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM sẽ giải đáp cụ thể loại xét nghiệm này.
+Mục lụcThụ thể estrogen/progesterone là gì?Xét nghiệm ER/PR (thụ thể estrogen/progesterone) là gì?Tại sao cần xét nghiệm ER/PR?Đối tượng chỉ định xét nghiệm ER/PRCác loại thụ thể estrogen/progesterone (ER/PR) trong ung thư vúXét nghiệm thụ thể estrogen/progesterone có rủi ro gì không?Phương pháp xét nghiệm ER/PRQuy trình xét nghiệm ER/PR (thụ thể estrogen/progesterone) trong ung thư vú1. Chọc hút sinh thiết kim lõi2. Sinh thiết phẫu thuậtKết quả xét nghiệm ER/PRXét nghiệm thụ thể ER/PR tại BVĐK Tâm AnhCâu hỏi thường gặp về xét nghiệm ER/PR1. Xét nghiệm ER/PR có nguy hiểm không?2. Những lựa chọn điều trị khi dương tính với thụ thể hormone3. Thời gian điều trị khi dương tính với thụ thể hormoneThụ thể estrogen/progesterone là gì?
+Thụ thể estrogen/progesterone (viết tắt trong tiếng Anh là ER, PR) là các protein nằm ở trong hoặc trên các tế bào của một số chất trong máu. Các tế bào vú bình thường và một số tế bào ung thư vú có các thụ thể gắn vào hormone estrogen và progesterone. Tế bào ung thư cần các hormone này để phát triển.
+Xét nghiệm ER/PR (thụ thể estrogen/progesterone) là gì?
+Xét nghiệm ER/PR (thụ thể estrogen/progesterone) là phương pháp giúp tất cả ca nghi ung thư sẽ được thực hiện kiểm tra dưới kính hiển vi để tìm dấu ấn sinh học của thụ thể estrogen và progesterone. Khoảng 60%-70% trường hợp ung thư vú là dương tính với thụ thể hormon ER và hoặc PR. [1]
+Tình trạng thụ thể hormone của người bệnh sẽ có trong kết quả xét nghiệm sau khi sinh thiết hoặc phẫu thuật. Các tình trạng thụ thể này sẽ được đánh giá lại trên mô bướu tái phát nếu người bệnh bị tái phát hoặc di căn vì trạng thái thụ thể có thể thay đổi.
+Nội tiết tố và thụ thể đi cùng nhau giống như ổ khóa và chìa khóa. Cơ quan thụ cảm là các protein trên bề mặt tế bào vú và khi hormone liên kết với các cơ quan này, các thụ thể sẽ phát tín hiệu cho tế bào phát triển và phân chia. Tất cả các tế bào vú đều có thụ thể, nhưng chúng được tìm thấy với số lượng lớn hơn nhiều trên các tế bào ung thư vú và được coi là dương tính thụ thể hormone.
+Mục tiêu của việc điều trị là chặn tín hiệu được tạo ra khi hormone gắn vào các thụ thể. Để thực hiện được điều đó cần có 1 trong 2 điều sau:
+Giảm lượng hormone trong cơ thể
+Ngăn hormone liên kết với thụ thể
+Trong hầu hết các trường hợp, ung thư vú có xu hướng dương tính hoặc âm tính với cả thụ thể estrogen và progesterone. Đôi khi, một người sẽ dương tính với estrogen nhưng không dương tính với progesterone.
+Trong hầu hết các trường hợp, ung thư vú có xu hướng dương tính hoặc âm tính đối với cả thụ thể estrogen và progesterone.
+Tại sao cần xét nghiệm ER/PR?
+Cần xét nghiệm ER/PR vì tình trạng khối u của người bệnh sẽ tác động lớn đến các bước tiếp theo trong kế hoạch điều trị. Ung thư vú dương tính với thụ thể estrogen (ER+) và/hoặc dương tính với thụ thể progesterone (PR+) được “tiếp sức” bởi hormone.
+Tình trạng này khác với các bệnh ung thư vú dương tính với HER2, khi đó sự phát triển của khối u được thúc đẩy bởi các yếu tố tăng trưởng liên kết với thụ thể HER2 trên tế bào ung thư. Ung thư vú không có bất kỳ thụ thể nào trong 3 yếu tố này (estrogen, progesterone và các yếu tố tăng trưởng có thể kích thích sự phát triển của tế bào) được gọi là ung thư vú bộ ba âm tính.
+Điểm ER+ hoặc PR+ có nghĩa là hormone đang khiến khối u của người bệnh phát triển và các phương pháp điều trị ức chế hormone có khả năng hoạt động tốt. Nếu điểm âm tính (ER- hoặc PR-) thì khối u của người bệnh không được điều khiển bởi hormone và kết quả sẽ được đánh giá cùng với các xét nghiệm khác, chẳng hạn như tình trạng HER2, để xác định phương pháp điều trị hiệu quả nhất.
+Nếu thông tin duy nhất người bệnh được thực hiện là các xét nghiệm tình trạng hormone âm tính, người bệnh nên hỏi bác sĩ để biết tỷ lệ dương tính thực tế. Ngay cả khi con số này ở mức thấp, khối u vẫn có thể được điều trị hiệu quả bằng liệu pháp hormone. ER (+) nghĩa là trên 1% dương tính. Tương tự vậy, PR (+) cũng là trên 1% dương tính, nhưng HER2 (3+) phải trên 10% dương tính. [2]
+Đối tượng chỉ định xét nghiệm ER/PR
+Đối tượng chỉ định xét nghiệm ER/PR là người bệnh đã được chẩn đoán mắc bệnh ung thư vú. Biết được tình trạng thụ thể hormone giúp bác sĩ quyết định cách điều trị phù hợp. Nếu người bệnh ung thư dương tính với ER, PR dương tính hoặc HR dương tính, các loại thuốc giảm nồng độ hormone hoặc ngăn các hormone thúc đẩy sự phát triển của ung thư sẽ có hiệu quả. Nếu người bệnh bị ung thư có thụ thể ER và hoặc PR âm tính, những loại thuốc này sẽ không hiệu quả.
+Các loại thụ thể estrogen/progesterone (ER/PR) trong ung thư vú
+Các loại thụ thể estrogen/progesterone (ER/PR) trong ung thư vú bao gồm:
+ER dương tính (ER+): ung thư vú có thụ thể estrogen được gọi là ung thư dương tính với ER (hoặc ER+).
+PR dương tính (PR+): ung thư vú với thụ thể progesterone được gọi là ung thư PR dương tính (hoặc PR+).
+Thụ thể nội tiết tố dương tính (HR+): nếu tế bào ung thư có 1 hoặc cả 2 thụ thể trên, thuật ngữ dương tính với thụ thể hormone hormone dương tính (hoặc HR+) được sử dụng.
+Thụ thể hormone âm tính: nếu tế bào ung thư không có estrogen hoặc thụ thể progesterone, tình trạng này được gọi là thụ thể hormone âm tính (hormone âm tính hoặc HR-).
+Giữ cho các hormone estrogen và progesterone không gắn vào các thụ thể có thể ngăn ung thư phát triển và lan rộng.
+Đối tượng chỉ định xét nghiệm ER/PR là người bệnh đã được chẩn đoán mắc bệnh ung thư vú.
+Xét nghiệm thụ thể estrogen/progesterone có rủi ro gì không?
+Xét nghiệm thụ thể estrogen/progesterone có rủi ro, một vài trường hợp sinh thiết không đủ mẫu bướu đại diện hoặc mẫu bướu bị thiếu máu lâu sẽ ảnh hưởng đến kết quả. Người bệnh bị bầm tím nhẹ, chảy máu tại vị trí sinh thiết. Nếu bị nhiễm trùng, người bệnh sẽ được điều trị bằng kháng sinh. Sinh thiết phẫu thuật có thể gây đau và khó chịu. Bác sĩ sẽ kê toa để giúp người bệnh dễ chịu hơn.
+Phương pháp xét nghiệm ER/PR
+Các phương pháp sinh thiết để có mẫu mô xét nghiệm giải phẫu bệnh và xét nghiệm ER/PR:
+Sinh thiết kim lõi: sử dụng 1 cây kim rỗng để lấy các mảnh mô vú.
+Sinh thiết phẫu thuật: bác sĩ phẫu thuật tạo 1 vết cắt nhỏ trên da để loại bỏ tất cả hoặc một phần khối u vú. Sinh thiết phẫu thuật được thực hiện nếu khối u không thể thực hiện sinh thiết bằng kim hoặc mẫu sinh thiết kim không đủ lớn để xét nghiệm ER/PR.
+Mẫu mô sẽ được kiểm tra dưới kính hiển vi để tìm dấu ấn sinh học của thụ thể estrogen và progesterone.
+Quy trình xét nghiệm ER/PR (thụ thể estrogen/progesterone) trong ung thư vú
+Quy trình xét nghiệm ER/PR (thụ thể estrogen/progesterone) trong ung thư vú, cụ thể như sau:
+1. Chọc hút sinh thiết kim lõi
+Người bệnh nằm nghiêng hoặc ngồi trên bàn.
+Bác sĩ làm sạch vị trí sinh thiết và tiêm thuốc gây mê, vì vậy người bệnh không cảm thấy đau trong suốt quá trình sinh thiết.
+Khi khu vực bị tê, bác sĩ sẽ đưa kim sinh thiết lõi vào vị trí sinh thiết và lấy 1 mẫu mô.
+Người bệnh có thể cảm thấy hơi đau khi lấy mẫu.
+Người bệnh có thể cảm thấy áp lực khi kim đi vào.
+Bác sĩ dùng băng vô trùng tại vị trí sinh thiết.
+2. Sinh thiết phẫu thuật
+Bác sĩ phẫu thuật sẽ thực hiện 1 vết cắt nhỏ trên da để loại bỏ tất cả hoặc một phần của khối u vú. Sinh thiết phẫu thuật đôi khi được thực hiện nếu khối u không thể sinh thiết bằng kim. Sinh thiết phẫu thuật thường bao gồm các bước sau.
+Người bệnh nằm trên bàn mổ. đường truyền tĩnh mạch có thể được đặt trong cánh tay hoặc bàn tay của người bệnh.
+Người bệnh có thể được cho dùng thuốc an thần để giúp thư giãn.
+Người bệnh sẽ được gây tê tại chỗ hoặc toàn thân và sẽ không cảm thấy đau trong suốt quá trình phẫu thuật.
+Với gây tê tại chỗ, bác sĩ sẽ tiêm thuốc vào vị trí phẫu thuật để làm tê khu vực.
+Nếu gây mê toàn thân, bác sĩ sẽ làm người bệnh bất tỉnh trong suốt quá trình.
+Khi phẫu thuật, bác sĩ sẽ thực hiện 1 vết cắt nhỏ vào vú và lấy 1 phần hoặc toàn bộ khối u. Một số mô xung quanh khối u cũng có thể được loại bỏ.
+Vết cắt trên da sẽ được khâu lại.
+Sau đó, kết quả sẽ được kiểm tra dưới kính hiển vi để tìm dấu ấn sinh học của thụ thể estrogen và progesterone. Tình trạng thụ thể hormone của sẽ có trong báo cáo giải phẫu bệnh sau sinh thiết hoặc phẫu thuật. Các tình trạng thụ thể này sẽ được đánh giá lại trên mô bướu tái phát nếu người bệnh bị tái phát hoặc di căn vì trạng thái thụ thể có thể thay đổi.
+Kết quả sinh thiết được kiểm tra dưới kính hiển vi để tìm dấu ấn sinh học của thụ thể estrogen và progesterone.
+Kết quả xét nghiệm ER/PR
+Kết quả xét nghiệm ER/PR cho biết tỷ lệ phần trăm tế bào được xét nghiệm dương tính với thụ thể hormone. 0% nghĩa là không tìm thấy thụ thể nào và 100% có nghĩa là tất cả các tế bào được xét nghiệm đều có thụ thể.
+Xét nghiệm thụ thể ER/PR tại BVĐK Tâm Anh
+Xét nghiệm thụ thể ER/PR tại BVĐK Tâm Anh với hệ thống thiết bị, máy móc hiện đại, đội ngũ bác sĩ nhiều kinh nghiệm, phối hợp đa chuyên khoa như: Ngoại vú – Chẩn đoán hình ảnh – Giải phẫu bệnh – Nội khoa Ung thư, xét nghiệm chính xác thụ thể ER/PR, mang đến cơ hội điều trị tốt cho người bệnh không may mắc ung thư vú.
+Bên cạnh đó, Khoa Ngoại Vú còn:
+Xây dựng phác đồ điều trị:
+Cập nhật các hướng dẫn trên thế giới, phác đồ tiên tiến để ứng dụng.
+Chi tiết cụ thể cho từng nhóm BS lâm sàng, BS giải phẫu bệnh, BS hình ảnh.
+Chuẩn mực các quy trình: Tư vấn phòng ngừa, chẩn đoán, tầm soát, điều trị, theo dõi sau điều trị, tạo hình thẩm mỹ.
+Kết hợp đa mô thức:
+Bác sĩ lâm sàng: phẫu trị, xạ trị, hóa trị, tạo hình thẩm mỹ, tư vấn tâm lý.
+Bác sĩ chẩn đoán hình ảnh can thiệp chuyên về vú: nhũ ảnh, siêu âm và MRI vú.
+Bác sĩ giải phẫu bệnh: giải phẫu bệnh, sinh học, di truyền, hoá mô miễn dịch và xét nghiệm gen.
+Hội chẩn đa chuyên khoa:
+Tư vấn cho người bệnh:
+Kế hoạch chẩn đoán và điều trị chi tiết.
+Chi phí.
+Dịch vụ hỗ trợ đi kèm: ăn ở, sinh hoạt để người bệnh lựa chọn và ra quyết định.
+Câu hỏi thường gặp về xét nghiệm ER/PR
+1. Xét nghiệm ER/PR có nguy hiểm không?
+Xét nghiệm ER/PR không nguy hiểm nhưng cần phải lấy mẫu bướu chính xác và đại diện cho bướu nếu được thực hiện tại trung tâm hình ảnh học can thiệp chuyên về bệnh lý tuyến vú, xét nghiệm tại khoa giải phẫu bệnh chuyên nghiệp. Ngoài ra, người bệnh cũng cần thực hiện tốt các lưu ý trong quá trình xét nghiệm cũng như tuân thủ hướng dẫn của bác sĩ. Người bệnh sẽ không cần bất kỳ loại thuốc hỗ trợ nào nếu gây tê cục bộ (gây tê vị trí sinh thiết).
+Xét nghiệm ER/PR bao lâu có kết quả?
+Xét nghiệm ER/PR bao lâu có kết quả phụ thuộc vào loại sinh thiết hoặc phẫu thuật cũng như điều kiện cơ sở vật chất của cơ sở làm xét nghiệm. Người bệnh nên đến trực tiếp khoa Ngoại vú để được bác sĩ tư vấn cụ thể.
+2. Những lựa chọn điều trị khi dương tính với thụ thể hormone
+Nếu khối u của người bệnh là ER+ và/hoặc PR+, liệu pháp hormone thường được khuyến khích áp dụng. Tuy nhiên, việc lựa chọn loại thuốc phụ thuộc vào tình trạng mãn kinh của người bệnh.
+Trước mãn kinh, buồng trứng sản xuất lượng estrogen lớn nhất. Để ngăn estrogen cung cấp năng lượng cho các tế bào ung thư, các loại thuốc được gọi là bộ điều biến thụ thể estrogen chọn lọc sẽ được sử dụng. Ví dụ như tamoxifen, liên kết với thụ thể estrogen để estrogen không thể tiếp cận được.
+Sau mãn kinh, cơ thể ít estrogen hơn rất nhiều. Nguồn estrogen chính sau mãn kinh là sự chuyển đổi androgen (hormone nam) của cơ thể thành estrogen. Phản ứng này được xúc tác bởi một enzyme (aromatase). Chất ức chế aromatase (AI) có thể ngăn chặn enzyme này khiến cơ thể không thể sản xuất estrogen, từ đó “bỏ đói khối u”.
+Hiện có 3 chất ức chế Aromatase là:
+Arimidex (anastrozole)
+Aromasin (exemestan)
+Femara (letrozole)
+Những loại thuốc này đôi khi có thể được sử dụng ở phụ nữ tiền mãn kinh sau khi điều trị ức chế buồng trứng. Sau lần đầu tiên dùng thuốc ngăn buồng trứng sản xuất estrogen hoặc trong một số trường hợp cắt bỏ buồng trứng, những phụ nữ này được chuyển từ tamoxifen sang thuốc ức chế aromatase. Cách này mang đến hiệu quả tốt hơn, tăng thời gian sống và giảm tái phát.
+Thuốc Bisphosphonates cũng có thể được sử dụng cùng với chất ức chế aromatase để điều trị ung thư vú ER+ giai đoạn đầu sau mãn kinh. Bisphosphonates làm giảm nguy cơ tái phát và sự lây lan của ung thư vú đến xương.
+Với bệnh ung thư vú giai đoạn đầu dương tính với thụ thể estrogen, liệu pháp nội tiết tố có thể làm giảm khoảng một nửa nguy cơ tái phát.
+Đôi khi, các liệu pháp nội tiết tố khác cũng có thể được sử dụng. Một loại thuốc tên là Faslodex (fulvestrant) là chất điều hòa giảm thụ thể estrogen có chọn lọc (SERD). Loại này được sử dụng để điều trị cho phụ nữ bị ung thư tiến triển khi đang dùng tamoxifen hoặc thuốc ức chế aromatase. Ngoài ra, các liệu pháp nội tiết tố khác dành cho bệnh ung thư vú di căn có thể được xem xét đối với một số người.
+3. Thời gian điều trị khi dương tính với thụ thể hormone
+Trước đây, việc điều trị bằng thuốc ức chế tamoxifen hoặc aromatase thường được tiếp tục trong 5 năm. Tuy nhiên, các nghiên cứu đã chỉ ra rằng, ở những phụ nữ có nguy cơ tái phát cao, việc điều trị lâu hơn đến 10 năm có thể có ích. Điều quan trọng là phải trao đổi với bác sĩ để nắm các khuyến cáo về thời gian điều trị theo những nghiên cứu mới này, các yếu tố nguy cơ của bản thân, ưu và khuyết điểm của từng loại thuốc thích hợp cho tình trạng bệnh chung.
+Xét nghiệm ER/PR (thụ thể estrogen/progesterone) là phương pháp kiểm tra mẫu mô dưới kính hiển vi để tìm dấu ấn sinh học của thụ thể estrogen và progesterone. Từ đó giúp bác sĩ nắm được tình trạng thụ thể hormone của người bệnh và đưa ra cách điều trị phù hợp.

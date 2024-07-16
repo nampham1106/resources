@@ -1,0 +1,189 @@
+# doc_id = health_disease_210
+# url = https://tamanhhospital.vn/ung-thu-phoi-te-bao-nho/
+# date = 18/03/2024
+Ung thư phổi tế bào nhỏ: Triệu chứng, nguyên nhân và chẩn đoán
+Ung thư phổi tế bào nhỏ chiếm tỉ lệ khoảng 15% các trường hợp ung thư phổi được chẩn đoán. Loại ung thư này có khả năng điều trị và tiên lượng xấu do tế bào ung thư phát triển nhanh và thường di căn sớm. Hầu hết bệnh nhân (khoảng 2/3) được phát hiện ung thư phổi tế bào nhỏ khi bệnh đã ở giai đoạn tiến triển, khiến việc điều trị càng thêm phức tạp và tỷ lệ thành công thấp.
+Mục lụcUng thư phổi tế bào nhỏ là gì?Các loại ung thư phổi tế bào nhỏTriệu chứng ung thư phổi tế bào nhỏNguyên nhân gây ung thư phổi tế bào nhỏCác giai đoạn ung thư phổi tế bào nhỏBệnh ung thư phổi tế bào nhỏ sống được bao lâu?Cách chẩn đoán ung thư phổi tế bào nhỏCách điều trị ung thư phổi tế bào nhỏ1. Điều trị dựa trên giai đoạn ung thư2. Vai trò của xạ trị và phẫu thuật3. Tiến bộ trong điều trị ung thư phổi4. Điều trị ban đầu cho ung thư phổi giai đoạn giới hạn5. Điều trị ung thư phổi giai đoạn lan rộngCó thể phòng ngừa ung thư phổi tế bào nhỏ không?Các câu hỏi thường gặp1. Ung thư phổi tế bào nhỏ có di truyền không?2. Ung thư phổi tế bào nhỏ có lây không?3. Bệnh nhân ung thư phổi tế bào nhỏ nên ăn gì?4. Bệnh nhân ung thư phổi tế bào nhỏ kiêng ăn gì?Ung thư phổi tế bào nhỏ là gì?
+Ung thư phổi tế bào nhỏ (tên tiếng Anh là Small Cell Lung Cancer = SCLC) là một loại ung thư phổi ác tính hình thành từ các tế bào thần kinh nội tiết nằm dọc đường dẫn khí trong phổi. Bình thường những tế bào này có chức năng hỗ trợ phục hồi các tế bào bị tổn thương. Ung thư phổi tế bào nhỏ có đặc trưng là thời gian tế bào ung thư nhân đôi rất nhanh, tỷ lệ tế bào ung thư tăng sinh cao dẫn đến bệnh thường lan rộng rất nhanh và di căn rất sớm đến các cơ quan khác.
+Mặc dù 95% các trường hợp ung thư tế bào nhỏ bắt nguồn từ phổi, nhưng bệnh cũng có thể phát sinh từ các vị trí ngoài phổi như từ vòm họng, đường tiêu hóa, đường sinh dục và tiết niệu. Ung thư tế bào nhỏ của phổi và ngoài phổi đều có đặc điểm lâm sàng và sinh học tương tự nhau, với đặc tính là bệnh tiến triển nhanh và khả năng di căn cao.
+Ung thư phổi là nguyên nhân hàng đầu gây tử vong do ung thư trên thế giới. Theo Tổ chức Ung thư Toàn cầu (GLOBOCAN) 2020, ung thư phổi gây tử vong cho khoảng 1,8 triệu người. Tại Việt Nam, có hơn 26.200 ca mắc mới mỗi năm và gần 23.800 ca tử vong mỗi năm do ung thư phổi. Ung thư phổi tế bào nhỏ chiếm khoảng 15% trường hợp. Tỷ lệ mắc ung thư phổi tế bào nhỏ ở nam giới cao hơn nữ. (1)
+Ung thư phổi tế bào nhỏ được biết đến là loại ung thư “hung hăng” do tính chất tiến triển nhanh.
+Các loại ung thư phổi tế bào nhỏ
+Có 3 loại u thần kinh nội tiết phổi: (2)
+Ung thư biểu mô thần kinh nội tiết tế bào lớn: Ít phổ biến hơn ung thư phổi tế bào nhỏ. Đây cũng là một loại ung thư phổi ác tính, có các đặc điểm của cả ung thư biểu mô tuyến và ung thư thần kinh nội tiết.
+Khối u carcinoid: thường phát triển chậm và có tiên lượng tốt hơn.
+Ung thư phổi tế bào nhỏ: Loại u thần kinh nội tiết phổ biến nhất ở phổi, thường hình thành ở vùng trung tâm phổi, phát triển nhanh chóng và thường đã di căn ra ngoài phổi khi được phát hiện. Có 2 loại ung thư phổi tế bào nhỏ:
+Ung thư tế bào nhỏ (trước đây gọi là ung thư tế bào yến mạch): Đây là loại ung thư tế bào nhỏ phổ biến hơn.
+Ung thư kết hợp tế bào nhỏ và không tế bào nhỏ: Là loại ít phổ biến hơn, kết hợp các đặc điểm của cả hai dạng ung thư.
+Triệu chứng ung thư phổi tế bào nhỏ
+Khối u phổi nhỏ thường không gây ra triệu chứng đáng kể. Các triệu chứng thường chỉ xuất hiện khi khối u phổi phát triển lớn, chèn ép vào mô phổi lành cũng như đường dẫn khí xung quanh, xâm lấn các khu vực lân cận hoặc ung thư đã di căn ra ngoài phổi. Ung thư phổi tế bào nhỏ có thể gây ra nhiều loại triệu chứng khác nhau, tùy thuộc vào vị trí phát triển và di căn. Ngoài ra, một số trường hợp có thể gặp các triệu chứng trong hội chứng cận ung.
+Một số triệu chứng do khối u phát triển cục bộ, tế bào ung thư còn khu trú tại phổi:
+Ho
+Ho ra máu
+Hụt hơi
+Đau ngực nặng khi thở sâu
+Khi ung thư phổi di căn đến cơ quan lân cận, các triệu chứng có thể xuất hiện:
+Khàn giọng do dây thanh âm bị khối u chèn ép.
+Khó thở do u chèn ép dây thần kinh hoành hoặc do tràn dịch màng phổi. Bệnh nhân có thể có tiếng thở rít do tình trạng chèn ép, chít hẹp của đường dẫn khí.
+Khó nuốt, nuốt vướng do khối u chèn ép thực quản.
+Hội chứng tĩnh mạch chủ trên: là tình trạng tĩnh mạch chủ trên bị tắc nghẽn. Tĩnh mạch chủ trên là một tĩnh mạch lớn mang máu từ đầu, cổ và cánh tay về tim. Khi tĩnh mạch chủ trên bị tắc nghẽn, máu không thể chảy về tim và điều này có thể dẫn đến một số vấn đề, bao gồm: sưng ở mặt, cổ và cánh tay, khó thở, ho, khàn giọng, đau ngực, nhức đầu, mất ý thức.
+Các triệu chứng ung thư phổi di căn xa phụ thuộc vào cơ quan tế bào ung thư di căn đến, cụ thể:
+Ung thư di căn não có thể gây đau đầu, mờ mắt, buồn nôn, nôn mửa, yếu tay chân, thay đổi tinh thần và co giật.
+Ung thư di căn cột sống gây đau lưng.
+Ung thư di căn tủy sống và/hoặc có chèn ép tủy sống gây ra yếu tay chân, tê liệt, mất chức năng ruột hoặc bàng quang.
+Ung thư di căn xương gây đau nhức xương, gãy xương.
+Ung thư di căn gan có thể làm đau phần bụng trên phía bên phải.
+Ung thư di căn tuyến thượng thận khiến rối loạn chức năng thận, gây mệt mỏi, đau nhức, buồn nôn, nôn…
+Các triệu chứng trong hội chứng cận ung:
+Hội chứng cận ung là một tập hợp các triệu chứng toàn thân không do di căn trực tiếp của khối u, mà do các chất trong khối u tiết ra như hormone, cytokine, kháng nguyên… hoặc do phản ứng tự miễn của cơ thể đối với khối u. Các triệu chứng có thể xảy ra trước, trong hoặc sau khi có chẩn đoán ung thư. Biểu hiện của hội chứng này rất đa dạng, tùy thuộc vào loại ung thư và các chất được tiết ra. Một số biểu hiện thường gặp là:
+Nội tiết: rối loạn chức năng tuyến giáp, cường giáp, hạ đường huyết…
+Thần kinh: tê bì, yếu cơ, co giật, suy giảm trí nhớ…
+Da: ngứa, ban đỏ, rụng tóc…
+Huyết học: thiếu máu, giảm tiểu cầu…
+Khớp: viêm khớp, đau khớp…
+Nguyên nhân gây ung thư phổi tế bào nhỏ
+Nguyên nhân chính xác gây ung thư phổi tế bào nhỏ vẫn chưa được xác định. Tuy nhiên, có một số yếu tố nguy cơ làm tăng nguy cơ mắc ung thư phổi ở mỗi người như:
+Hút thuốc lá và các sản phẩm thuốc lá: Đây là yếu tố nguy cơ cao nhất gây ung thư phổi. Một người bất kể đang hay đã từng hút thuốc trong quá khứ đều có nguy cơ mắc ung thư phổi. Ung thư phổi tế bào nhỏ có mối liên hệ chặt chẽ với việc hút thuốc lá. Hầu hết người mắc căn bệnh này đều đang hút thuốc hoặc đã từng hút thuốc. Thậm chí, nhiều bệnh nhân hút thường xuyên với lượng lớn, trên 1 gói thuốc lá mỗi ngày. Ngừng hút thuốc có khả năng cải thiện tiên lượng sống còn của bệnh nhân – ung thư phổi.
+Thuốc lá là yếu tố nguy cơ cao nhất của bệnh ung thư phổi tế bào nhỏ.
+Tiếp xúc với khói thuốc thụ động cũng là yếu tố làm tăng nguy cơ mắc ung thư phổi. Khói thuốc lá chứa nhiều chất gây ung thư hữu cơ và vô cơ bao gồm hydrocarbon thơm đa vòng (PAH), amin thơm, N-nitrosamine, benzen, vinyl clorua, asen và crom cùng nhiều chất khác.
+Tuy nhiên, ngoài hút thuốc, vẫn còn những yếu tố nguy cơ khác chưa xác định của ung thư phổi tế bào nhỏ. Các nhà khoa học vẫn đang nghiên cứu để giải đáp lý do tại sao một số người hút thuốc cả đời không mắc ung thư phổi, trong khi những người khác chưa từng hút thuốc lại mắc bệnh. Dưới đây là một số yếu tố khác làm tăng nguy cơ mắc ung thư phổi tế bào nhỏ:
+Tiếp xúc với amiante (abestos), asen, crom, berili, niken, bồ hóng hoặc hắc ín tại nơi làm việc.
+Tiếp xúc với các tia bức xạ như xạ trị vùng ngực hoặc vú, phơi nhiễm radon (một loại khí trơ là sản phẩm của quá trình phân rã uranium) tại nhà và nơi làm việc, chụp cắt lớp vi tính liều cao, bức xạ từ bom nguyên tử…
+Môi trường sống ô nhiễm.
+Bệnh sử gia đình mắc ung thư phổi.
+Nhiễm virus gây suy giảm miễn dịch ở người (HIV).
+Ngoài ra có một yếu tố nguy cơ không thể thay đổi của hầu hết các bệnh ung thư là tuổi già. Tuổi càng cao, nguy cơ mắc bệnh ung thư càng tăng do tình trạng tế bào bị lão hóa và tình trạng mất khả năng sửa chữa của các tế bào lão hóa.
+Có một hoặc nhiều hơn một yếu tố nguy cơ cao không có nghĩa là chắc chắn sẽ bị ung thư; Điều này cũng được hiểu là việc không có yếu tố nguy cơ không có nghĩa sẽ không bị ung thư. Do đó, mỗi cá nhân nên chủ động đến thăm khám với các bác sĩ để kiểm tra sức khỏe và tư vấn thêm nếu thuộc nhóm nguy cơ cao mắc ung thư.
+Các giai đoạn ung thư phổi tế bào nhỏ
+Ung thư phổi được phân giai đoạn dựa trên sự phát triển và di căn của tế bào ung thư. Các tế bào ung thư có thể hình thành một hoặc nhiều khối u trong phổi, chúng cũng có thể phát triển xuyên qua màng phổi để xâm lấn các cơ quan xung quanh, đồng thời cũng có khả năng di căn đến các cơ quan khác để tạo thành khối u mới.
+Tại thời điểm chẩn đoán, tình trạng ung thư phổi của mỗi bệnh nhân có mức độ phát triển và di căn khác nhau. Hệ thống phân giai đoạn là một cách để nhóm các trường hợp ung thư phổi dựa trên sự phát triển và di căn của chúng. Bác sĩ sử dụng phân loại giai đoạn ung thư cho nhiều mục đích như:
+Đánh giá tiên lượng bệnh.
+Xác định các lựa chọn điều trị cho từng bệnh nhân.
+Cá thể hóa việc lập kế hoạch điều trị.
+Nghiên cứu các nhóm bệnh ung thư với các giai đoạn khác nhau.
+Có 2 hệ thống phân loại giai đoạn cho ung thư phổi tế bào nhỏ:
+Hệ thống phân loại của hội Cựu chiến binh Hoa Kỳ (VA)
+Hệ thống Phân loại Ung thư Quốc tế (TNM)
+Hệ thống phân loại giai đoạn VA do Nhóm nghiên cứu Ung thư Phổi Cựu chiến binh Hoa Kỳ (VA Lung Study Group) tạo ra và là hệ thống phân giai đoạn đầu tiên được sử dụng cho ung thư phổi tế bào nhỏ.
+Hệ thống VA chia ung thư phổi tế bào nhỏ thành 2 giai đoạn chính:
+Giai đoạn giới hạn (Limited stage):
+Khối u chỉ nằm trong một bên phổi và có thể được xạ trị với một trường xạ tương đối nhỏ.
+Có thể di căn tới các hạch bạch huyết ở vùng ngực, nhưng chỉ ở cùng bên với khối u.
+Có thể di căn tới hạch bạch huyết ở trên xương đòn (gọi là hạch thượng đòn), nhưng chỉ ở cùng bên với khối u.
+Giai đoạn lan rộng (Extensive stage):
+Khối u lan rộng sang phổi đối bên.
+Có thể di căn đến các hạch bạch huyết ở vùng ngực hoặc không.
+Có thể di căn hạch thượng đòn ở cả hai bên.
+Ung thư đã di căn đến các cơ quan khác như xương, gan, não, tuyến thượng thận hoặc các hạch bạch huyết xa.
+Ưu điểm của hệ thống này là tính đơn giản, dễ hiểu, được dùng nhiều trong nghiên cứu điều trị ung thư phổi tế bào nhỏ. Hạn chế là không cung cấp đủ chi tiết về mức độ lan rộng của bệnh.
+Hệ thống Phân loại Ung thư Quốc tế (TNM) bao gồm 3 yếu tố chính:
+T (Tumor): Đánh giá khối tế bào ung thư hình thành đầu tiên trong phổi, hay còn gọi là u nguyên phát. Đánh giá T dựa trên: đo lường kích thước u theo đơn vị centimet (cm); mức độ xâm lấn của khối u vào các cấu trúc lân cận; số lượng u trong phổi. Yếu tố T đi kèm một chữ số từ 1- 4. Chữ số này biểu thị mức độ phát triển của khối u. Số lớn hơn tương ứng với mức độ phát triển nhiều hơn.
+N (Node): Hạch bạch huyết (hay gọi tắt là hạch) là các cấu trúc nhỏ dạng bầu dục giúp cơ thể chống lại bệnh tật. Đánh giá yếu tố N là đánh giá mức độ lan đến các hạch bạch huyết lân cận từ khối u nguyên phát. Yếu tố N đi kèm một chữ số từ 1- 3. Chữ số này biểu thị mức độ lan rộng đến các hạch. Số lớn hơn tương ứng với mức độ lan rộng hơn.
+M (Metastasis): Yếu tố M cho biết ung thư đã lan đến các cơ quan khác của cơ thể (còn gọi là di căn). Ung thư phổi thường di căn đến các cơ quan như não, xương, tuyến thượng thận, gan, phổi đối bên…
+Kết hợp các yếu tố T, N, M cho ra giai đoạn cụ thể.
+Ưu điểm của hệ thống này là chi tiết hơn, cung cấp nhiều thông tin về khối u, hạch bạch huyết và di căn xa, giúp xác định chính xác hơn bệnh nhân nào có thể hưởng lợi từ phẫu thuật hoặc xạ trị tại chỗ. Tuy nhiên phân loại này ít được sử dụng trong nghiên cứu về điều trị ung thư phổi tế bào nhỏ hơn so với hệ thống VA.
+Phân loại giai đoạn theo phương pháp kết hợp giữa hệ thống VA và TNM:
+Giai đoạn giới hạn: Bao gồm các giai đoạn 1 đến 3 theo hệ thống TNM, có thể điều trị bằng xạ trị với liều cao.
+Giai đoạn lan rộng: Bao gồm bất kỳ giai đoạn nào, kể cả giai đoạn 4, không thể điều trị bằng xạ trị liều cao nhằm mục đích chữa khỏi.
+Phương pháp này kết hợp ưu điểm của cả hai hệ thống VA và TNM. Giữ lại sự đơn giản của hệ thống VA để dễ diễn đạt khi nghiên cứu và điều trị đồng thời sử dụng thông tin chi tiết của hệ thống TNM để xác định khả năng điều trị tại chỗ. Đây là phương pháp tối ưu hiện nay vì cân bằng giữa tính đơn giản, dễ hiểu và thông tin chi tiết về mức độ lan rộng của bệnh.
+Bệnh ung thư phổi tế bào nhỏ sống được bao lâu?
+Khả năng điều trị ung thư phổi phụ thuộc vào nhiều yếu tố như sức khỏe người bệnh, mức độ đáp ứng với phương pháp điều trị, giai đoạn phát hiện bệnh…
+Hầu hết các trường hợp ung thư phổi tế bào nhỏ đều được phát hiện muộn, khi tế bào ung thư đã di căn đến các cơ quan khác của cơ thể. Điều này làm giảm tiên lượng sống còn của người bệnh cũng như hạn chế việc lựa chọn phương pháp điều trị.
+Tiên lượng sống còn của bệnh nhân ung thư phổi tế bào nhỏ phụ thuộc nhiều yếu tố
+Khoảng 70% bệnh nhân ung thư phổi tế bào nhỏ phát hiện bệnh ở giai đoạn lan rộng, ở giai đoạn này bệnh không thể chữa khỏi với tiên lượng xấu. Phần lớn bệnh nhân có di căn xa sẽ tử vong trong vòng 24 tháng, và tỷ lệ sống sót sau 5 năm dưới 2%.
+Đối với bệnh nhân ở giai đoạn giới hạn, điều trị bằng hóa trị và xạ trị cho kết quả sống sót cao hơn, đạt 80% sau 2 năm, nhưng tỷ lệ sống sót sau 5 năm vẫn dưới 15%.
+Yếu tố ảnh hưởng đến tiên lượng:
+Sụt trên 10% so với cân nặng ban đầu.
+Nồng độ Natri trong máu thấp.
+Bệnh tái phát.
+Chỉ số thể trạng thấp.
+Cách chẩn đoán ung thư phổi tế bào nhỏ
+Để xác định bệnh nhân mắc ung thư phổi, một số xét nghiệm, chẩn đoán hình ảnh có thể được chỉ định gồm: (3)
+Nội soi phế quản: Đây là một thủ thuật sử dụng ống soi mềm có gắn camera giúp bác sĩ quan sát bên trong lòng đường dẫn khí của phổi. Nếu gặp tổn thương nghi ngờ, bác sĩ có thể lấy mẫu u/mẫu tế bào để xét nghiệm.
+Chụp cắt lớp vi tính (CT scan): Kỹ thuật này nhằm đánh giá kích thước, vị trí của khối u trong phổi, mức độ xâm lấn các cơ quan lân cận, cũng như để phát hiện sự lan rộng của bệnh đến các hạch bạch huyết và các cơ quan khác.
+Chụp cộng hưởng từ (MRI): Phương pháp này để đánh giá có di căn não và/hoặc tủy sống hay không. Ung thư phổi tế bào nhỏ thường diễn tiến nhanh, chụp MRI não thường được chỉ định thường quy để đánh giá di căn não mà chưa cần có triệu chứng gợi ý.
+Chụp PET-CT: Kỹ thuật này được áp dụng để đánh giá hoạt động của các tế bào ung thư trong cơ thể bằng cách sử dụng một chất phóng xạ. Các tế bào ung thư sẽ hấp thu nhiều chất phóng xạ hơn các tế bào bình thường và sáng hơn trên hình ảnh PET-CT.
+Sinh thiết kim nhỏ (FNA = Fine Needle Aspiration): Bác sĩ sẽ tiến hành chọc hút tế bào từ khối u hoặc hạch bạch huyết bằng kim nhỏ qua da dưới hướng dẫn siêu âm hoặc CT.
+Sinh thiết mẫu mô: Kỹ thuật này giúp đánh giá đặc điểm tế bào ung thư. Mẫu mô có thể được lấy từ sinh thiết xuyên thành ngực, nội soi phế quản hoặc phẫu thuật.
+Xét nghiệm máu: Đây là xét nghiệm kiểm tra chức năng gan, thận, huyết học và các chất chỉ điểm ung thư như CEA, Cyfra 21-1.
+Chăm sóc giảm nhẹ giúp bệnh nhân ung thư cải thiện chất lượng cuộc sống và kéo dài thời gian sống.
+Cách điều trị ung thư phổi tế bào nhỏ
+Phương pháp điều trị cổ điển cho ung thư phổi tế bào nhỏ là hóa trị. Hóa trị là một liệu pháp điều trị toàn thân, thuốc hóa trị di chuyển theo đường máu đến để tiêu diệt các tế bào ung thư từ đó ngăn chặn tế bào ung thư tăng sinh và ngăn chặn tế bào ung thư di căn đến các cơ quan khác. Phác đồ hóa trị kinh điển trong điều trị ung thư phổi tế bào nhỏ là phác đồ bộ đôi có Platinum. (4)
+1. Điều trị dựa trên giai đoạn ung thư
+Phương pháp điều trị thay đổi tùy thuộc từng giai đoạn bệnh. Việc áp dụng phân loại giai đoạn theo phương pháp kết hợp giữa hệ thống VA và TNM giúp lên kế hoạch điều trị chính xác hơn.
+Giai đoạn giới hạn: Bao gồm các giai đoạn 1 đến 3 theo hệ thống TNM, có thể điều trị bằng xạ trị với liều cao.
+Giai đoạn lan rộng: Bao gồm bất kỳ giai đoạn nào, kể cả giai đoạn 4, không thể điều trị bằng xạ trị liều cao nhằm mục đích chữa khỏi.
+2. Vai trò của xạ trị và phẫu thuật
+Xạ trị sử dụng tia X năng lượng cao để tiêu diệt tế bào ung thư hoặc ngăn chúng phân chia. Tế bào ung thư bị tổn thương và chết, hoặc ngừng sinh sản tế bào mới. Đây là phương pháp điều trị tại chỗ, nghĩa là chỉ ảnh hưởng đến vùng được chiếu xạ. Kỹ thuật xạ trị hiện đại cho phép định hình chính xác vùng chiếu xạ, hạn chế ảnh hưởng đến mô lành xung quanh. Xạ trị có vai trò ở tất cả các giai đoạn ung thư phổi tế bào nhỏ. Mục đích chính của xạ trị là điều trị triệt để ung thư ở giai đoạn giới hạn. Xạ trị cũng được sử dụng để giảm nhẹ triệu chứng của ung thư giai đoạn lan rộng. Phẫu thuật cũng là một phương pháp điều trị tại chỗ khác được sử dụng cho một số trường hợp ung thư giai đoạn giới hạn.
+3. Tiến bộ trong điều trị ung thư phổi
+Mặc dù ung thư phổi giai đoạn lan rộng vẫn là một thách thức, nhưng điều trị đã có những cải thiện đáng kể trong những năm gần đây. Một trong những bước tiến quan trọng là sự ra đời của liệu pháp miễn dịch.
+Liệu pháp miễn dịch hoạt động như thế nào?
+Khác với xạ trị, miễn dịch là một phương pháp điều trị toàn thân, giúp tăng cường khả năng chống lại các tế bào ung thư của cơ thể thông qua hệ miễn dịch. Hệ miễn dịch được kích thích để nhận diện và tấn công các tế bào ung thư, giúp kiểm soát sự phát triển của bệnh.
+Liệu pháp miễn dịch là một lựa chọn điều trị mới cho bệnh nhân ung thư phổi giai đoạn lan rộng, có thể mang lại hiệu quả điều trị tốt hơn và tác dụng phụ ít hơn so với hóa trị truyền thống. Nghiên cứu về liệu pháp miễn dịch trong ung thư phổi vẫn đang diễn ra, hứa hẹn mang lại nhiều tiến bộ hơn trong tương lai.
+4. Điều trị ban đầu cho ung thư phổi giai đoạn giới hạn
+Mục tiêu điều trị: Mục tiêu chính của điều trị ban đầu cho ung thư phổi tế bào nhỏ giai đoạn giới hạn là chữa khỏi bệnh. Để đạt được mục tiêu này, các bác sĩ thường kết hợp phương pháp điều trị toàn thân (hóa trị) với phương pháp điều trị tại chỗ (phẫu thuật hoặc xạ trị).
+Lựa chọn điều trị:
+Danh sách chi tiết các lựa chọn điều trị ban đầu trong bảng sau:
+Lựa chọn điều trị cho ung thư phổi tế bào nhỏ giai đoạn giới hạn
+Giai đoạn 1A, 1B và 2A
+Hoá xạ đồng thời.
+Phẫu thuật cắt thuỳ phổi kèm nạo hạch trung thất sau đó:
+Hóa trị hỗ trợ nếu không di căn hạch.
+Hóa trị, hoá xạ đồng thời, hoặc hoá xạ tuần tự nếu có di căn hạch trong phổi.
+Hoá xạ đồng thời, hoặc hoá xạ tuần tự nếu di căn hạch trung thất.
+Xạ trị lập thể định vị thân sau đó hóa trị.
+Giai đoạn 2B, 2A, 3B và 3C
+Chỉ số thể trạng 0, 1, 2: Hóa xạ đồng thời.
+Chỉ số thể trạng 3, 4 do bệnh lý ung thư:
+Hóa trị.
+Hóa xạ đồng thời.
+Hóa xạ tuần tự.
+Chỉ số thể trạng 3, 4 không do ung thư: Cá thể hóa điều trị (bao gồm chăm sóc giảm nhẹ).
+Phác đồ hóa trị phổ biến nhất sử dụng kết hợp các thuốc Platinum (như Cisplatin hoặc Carboplatin) kết hợp với Etoposide. Thường sử dụng trong 4 chu kỳ, mỗi chu kỳ kéo dài 21-28 ngày.
+Hóa xạ trị
+Đa số bệnh nhân ung thư phổi giai đoạn giới hạn được điều trị bằng hóa xạ đồng thời, tức là kết hợp hóa trị và xạ trị. Có hai cách kết hợp chính:
+Hoá xạ đồng thời: hóa trị và xạ trị được thực hiện cùng lúc.
+Hoá xạ tuần tự: hóa trị được thực hiện trước, sau đó tiếp tục với xạ trị.
+Bác sĩ sẽ lựa chọn phương pháp điều trị phù hợp dựa trên tình trạng sức khỏe và khả năng đáp ứng điều trị của từng bệnh nhân.
+Chỉ số thể trạng (Performance Status, còn được viết tắt là PS): đánh giá khả năng thực hiện các hoạt động hàng ngày của bệnh nhân cũng như đánh giá mức độ mà bệnh tật có thể ảnh hưởng đến khả năng này. Bác sĩ thường dựa vào thang điểm trạng thái hoạt động ECOG để đánh giá mức độ nghiêm trọng của bệnh và lựa chọn phương pháp điều trị phù hợp. Khi điểm đánh giá cao, bệnh nhân có thể không phù hợp với hoá xạ đồng thời do tác dụng phụ quá nặng nề.
+Phẫu thuật
+Phẫu thuật chỉ có thể thực hiện khi các hạch bạch huyết trung thất (vùng lồng ngực nằm giữa hai lá phổi) không bị di căn, điều này được được xác định qua sinh thiết các hạch trung thất. Phẫu thuật thường dùng là cắt thùy phổi (lobectomy), tức cắt bỏ toàn bộ một thùy phổi chứa khối u. Trong quá trình phẫu thuật, bác sĩ sẽ lấy hạch bạch huyết ở phổi và trung thất để kiểm tra khả năng ung thư di căn. Có hai phương pháp lấy hạch: Chỉ lấy một số hạch để kiểm tra hoặc lấy hạch thường quy, khi đó bác sĩ sẽ cố gắng lấy tối đa số hạch có thể.
+Điều trị sau phẫu thuật: Sau phẫu thuật, bệnh nhân sẽ được hóa trị hỗ trợ để tiêu diệt tế bào ung thư còn sót lại. Trong một số trường hợp, bệnh nhân có thể được hóa xạ trị đồng thời hoặc tuần tự. Xạ trị có thể cải thiện hiệu quả điều trị nếu ung thư đã di căn đến hạch trung thất.
+Xạ trị lập thể định vị thân
+Xạ trị lập thể định vị thân (Stereotactic Ablative Radiotherapy = SABR), còn được gọi là Stereotactic Body Radiation Therapy (SBRT): có thể là lựa chọn thay thế phẫu thuật cho những bệnh nhân không đủ sức khỏe để thực hiện phẫu thuật hoặc không muốn phẫu thuật. Tuy nhiên, cần lưu ý xạ trị lập thể định vị thân không phải lựa chọn phù hợp cho tất cả các bệnh nhân. Cần đánh giá cụ thể từng người bệnh dựa trên kích thước, vị trí khối u, tình trạng sức khỏe tổng thể để đưa ra phương pháp điều trị phù hợp. Tương tự như sau phẫu thuật, sau xạ trị lập thể định vị thân, bệnh nhân có thể được chỉ định hóa trị hỗ trợ để tiêu diệt tế bào ung thư còn sót lại. Ưu điểm của phương pháp này là không xâm lấn, ít đau đớn hơn so với phẫu thuật, thời gian điều trị ngắn hơn, tỷ lệ tác dụng phụ thấp hơn so với xạ trị thông thường. Nhược điểm là không phải lựa chọn phù hợp cho tất cả bệnh nhân và có thể có nguy cơ tái phát cao hơn so với phẫu thuật.
+5. Điều trị ung thư phổi giai đoạn lan rộng
+Mục tiêu điều trị ung thư phổi giai đoạn lan rộng là kiểm soát các triệu chứng do ung thư gây ra và kéo dài thời gian sống thêm cho người bệnh. Phương pháp chính được sử dụng là điều trị toàn thân bằng thuốc.
+Điều trị ban đầu: Thông thường, bệnh nhân sẽ được điều trị bằng hóa trị kết hợp liệu pháp miễn dịch trong 4 chu kỳ, mỗi chu kỳ kéo dài 21 ngày. Một số trường hợp có thể cần đến 6 chu kỳ. Sau đó, tùy thuộc vào hiệu quả điều trị, có thể tiếp tục với liệu pháp miễn dịch đơn trị.
+Hóa trị kết hợp miễn dịch: Đây là phương pháp điều trị ưu tiên cho ung thư phổi giai đoạn lan rộng. Hóa trị phối hợp hai thuốc (nhóm Platinum và Etoposide) sẽ được kết hợp với liệu pháp miễn dịch cụ thể là thuốc ức chế điểm kiểm soát miễn dịch – giúp các tế bào T của hệ miễn dịch tấn công và tiêu diệt tế bào ung thư. Các thuốc ức chế điểm kiểm soát miễn dịch phổ biến trong ung thư phổi tế bào nhỏ là Atezolizumab, Durvalumab.
+Điều trị duy trì: Sau khi kết thúc hóa trị kết hợp miễn dịch, nếu hiệu quả điều trị tốt, có thể tiếp tục duy trì với thuốc ức chế điểm kiểm soát miễn dịch. Đây được gọi là điều trị duy trì. Mục tiêu của điều trị duy trì là kéo dài thời gian đáp ứng với điều trị, hạn chế việc tiến triển của bệnh ung thư.
+Không phải tất cả các bệnh nhân đều phù hợp với liệu pháp miễn dịch. Bệnh nhân có sức khỏe quá yếu, mắc các bệnh lý tự miễn như bệnh Crohn, viêm loét đại tràng, lupus không nên sử dụng liệu pháp miễn dịch do nguy cơ làm suy giảm hệ miễn dịch. Trong trường hợp không sử dụng được liệu pháp miễn dịch, bác sĩ có thể chỉ định hóa trị đơn trị liệu.
+Xạ trị
+Xạ trị trong giai đoạn lan rộng thường nhằm mục đích giảm nhẹ các triệu chứng do ung thư phổi gây ra như giảm phù nề do khối u chèn ép tĩnh mạch chủ trên, giảm đau xương do ung thư di căn đến xương, giảm đau lưng do khối u chèn ép tủy sống, cải thiện khó thở do khối u chèn ép đường thở, giảm đau đầu do di căn não…
+Xạ trị não: Xạ trị toàn bộ não (Whole-Brain Radiation Therapy = WBRT) thường được sử dụng để điều trị ung thư di căn não. Trong một số trường hợp, bệnh nhân có thể được xạ trị liều cao tập trung vào vùng não bị di căn.
+Xạ trị não dự phòng: Trong một số trường hợp, xạ trị não có thể được tiến hành dự phòng ngay cả khi chưa có triệu chứng, nhằm ngăn ngừa di căn não trong tương lai.
+Có thể phòng ngừa ung thư phổi tế bào nhỏ không?
+Ung thư phổi tế bào nhỏ có liên quan đến các yếu tố nguy cơ về thói quen sống. Trong đó, yếu tố nguy cơ chính là hút thuốc lá. Vì vậy, cách hiệu quả nhất để phòng ngừa ung thư phổi tế bào nhỏ là bỏ thuốc lá và các sản phẩm từ thuốc lá. Tránh hút thuốc lá thụ động cũng là cách giảm nguy cơ mắc bệnh ung thư phổi.
+Các yếu tố nguy cơ khác gây ung thư phổi tế bào nhỏ gồm phơi nhiễm amiante, radon và uranium. Để giảm thiểu nguy cơ mắc bệnh ung thư, mỗi cá nhân cần chủ động thực hiện các biện pháp phòng ngừa như mang đồ bảo hộ chuyên dụng, đeo khẩu trang khi tiếp xúc với môi trường bụi bẩn, ô nhiễm…
+Các câu hỏi thường gặp
+1. Ung thư phổi tế bào nhỏ có di truyền không?
+Một số gen di truyền nhất định có thể làm tăng nguy cơ phát triển ung thư phổi tế bào nhỏ. Tuy nhiên, thừa hưởng một số gen di truyền không phải yếu tố duy nhất gây ung thư. Sở hữu gen đột biến gây ung thư đồng nghĩa nó có thể làm tăng khả năng ung thư. Do đó, nếu trong gia đình có người mắc ung thư phổi, bạn nên chú ý thăm khám sức khỏe định kỳ và chủ động tầm soát ung thư phổi để có hướng điều trị kịp thời.
+2. Ung thư phổi tế bào nhỏ có lây không?
+Tế bào ung thư phổi khởi phát tại phổi, là hệ quả của quá trình phân chia mất kiểm soát các tế bào bất thường. Bạn không thể lây nhiễm ung thư cho người khác cũng như không thể bị người khác lây nhiễm ung thư. Các đường tiếp xúc gần gũi như đụng chạm, dùng chung bữa ăn, quan hệ tình dục hay hít thở chung bầu không khí đều không thể khiến ung thư lây lan.
+3. Bệnh nhân ung thư phổi tế bào nhỏ nên ăn gì?
+Ăn đủ chất đạm: Cơ thể cần protein có trong đạm để sửa chữa tế bào và mô. Các thực phẩm chứa nhiều protein gồm: các loại thịt cá hải sản, trứng, sữa ít béo, các loại hạt và bơ hạt, đậu, các thực phẩm làm từ đậu nành.
+Ăn nhiều trái cây tươi, rau củ xanh để bổ sung khoáng chất và vitamin.
+Bổ sung ngũ cốc nguyên hạt có trong cháo bột yến mạch, bánh mì nguyên cám, mì ống nguyên hạt, gạo lứt.
+Tăng cường các chất béo lành mạnh như bơ, quả hạch, dầu olive…
+Nên rã đông cá, thịt bằng cách rã đông trong tủ lạnh và thường xuyên thay đổi nước.
+ThS.BS Nguyễn Tiến Sỹ khuyến nghị nên chia nhỏ các bữa ăn thành 4-6 cữ/ngày. Đồng thời người bệnh nên uống đủ nước, duy trì ít nhất 1,5-2 lít nước mỗi ngày.
+4. Bệnh nhân ung thư phổi tế bào nhỏ kiêng ăn gì?
+Không hút thuốc lá, không sử dụng rượu bia và đồ uống có cồn. (5)
+Hạn chế đồ ăn chiên xào nhiều dầu mỡ, thực phẩm cay, nóng do có thể gây buồn nôn và tiêu chảy.
+Không uống cà phê hoặc thức uống chứa caffein do có thể gây mất nước, gây táo bón.
+Tránh thực phẩm nguội, chế biến sẵn như thịt nguội, xúc xích.
+Không ăn các thực phẩm sống hoặc chưa làm chín kỹ do chúng có thể mang vi khuẩn listeria, salmonella, E.coli… gây ngộ độc thực phẩm.
+Không uống sữa tươi hoặc các sản phẩm làm từ sữa chưa qua tiệt trùng.
+Tránh sử dụng mật ong, bơ hạt và nước trái cây chưa tiệt trùng.
+Không ăn thực phẩm dễ hư hỏng nào đã để ở nhiệt độ phòng quá 2 giờ, đồ ăn thừa trong tủ lạnh quá 3 ngày.
+Phát hiện sớm, điều trị kịp thời là điều quan trọng giúp nhiều bệnh nhân chiến thắng căn bệnh ung thư phổi tế bào nhỏ. Để đặt lịch thăm khám và tầm soát ung thư phổi tại Bệnh viện Đa khoa Tâm Anh, Quý khách hàng có thể liên hệ qua thông tin:
+Nhiều bệnh nhân ung thư phổi tế bào nhỏ sống lâu hơn nhờ chủ động khám sàng lọc ung thư giúp phát hiện bệnh ở giai đoạn sớm, áp dụng các phương pháp điều trị hiệu quả ngay từ thời điểm phát hiện bệnh. Với sự tiến bộ trong điều trị ung thư hiện nay, ngày càng có nhiều phương pháp điều trị mới giúp bệnh nhân ung thư kéo dài sự sống và có cuộc sống chất lượng hơn.

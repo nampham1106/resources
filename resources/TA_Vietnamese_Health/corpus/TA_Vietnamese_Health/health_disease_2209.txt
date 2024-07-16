@@ -1,0 +1,65 @@
+# doc_id = health_disease_2209
+# url = https://tamanhhospital.vn/cam-cum-o-tre-em/
+# date = 10/08/2023
+Cảm cúm ở trẻ em: Nguyên nhân, dấu hiệu và cách chữa bệnh
+Cảm cúm ở trẻ em là một bệnh lý thường gặp, có khả năng gây ra nhiều biến chứng nguy hiểm khi không được phát hiện và điều trị đúng cách. Đặc biệt, triệu chứng của bệnh khá giống với cảm lạnh, khiến nhiều phụ huynh nhầm lẫn.
+Mục lụcCảm cúm ở trẻ em là gì?Cảm cúm ở trẻ em lây qua đường nào?Nguyên nhân cảm cúm ở trẻ emDấu hiệu cảm cúm ở trẻChăm sóc trẻ bị cảm cúm như thế nào?1. Theo dõi nhiệt độ của trẻ2. Cho trẻ uống thuốc trị cảm cúm3. Ăn uống đủ chất4. Lau người bằng nước ấm5. Cho trẻ nghỉ ngơi nhiềuTrẻ bị cảm cúm khi nào đến bác sĩ?Cảm cúm ở trẻ em là gì?
+Cảm cúm là một bệnh nhiễm trùng đường hô hấp do vi rút cúm gây ra, bùng phát mạnh mẽ vào mùa đông xuân (từ tháng 11 đến tháng 4). Bệnh có thể tái nhiễm nhiều lần do virus cúm biến đổi kháng nguyên tạo ra nhiều chủng mới, miễn dịch đặc hiệu giảm dần theo thời gian và không có miễn dịch chéo giữa các type và phân type virus cúm. (1)
+Virus cúm lây truyền qua đường hô hấp, có thể lây lan nhanh chóng từ người này qua người khác, đặc biệt là ở những nơi đông người như trường học, nhà trẻ. Theo thống kê của Tổ chức Y tế Thế giới (WHO), hàng năm có khoảng 1 tỷ trường hợp mắc cúm mùa, trong đó có 3 – 5 triệu ca bệnh diễn ra ở mức độ năng, ước tính 250.000 đến 500.000 ca tử vong do cúm mỗi năm. Theo Trung tâm kiểm soát và phòng ngừa dịch bệnh Mỹ (CDC), cúm là một bệnh lý đang nằm ở mức báo động với diễn biến ngày càng tồi tệ, số ca mắc và tử vong không ngừng tăng. Trẻ dưới 5 tuổi, đặc biệt trẻ dưới 2 tuổi là đối tượng có nguy cơ cao gặp phải các biến chứng nghiêm trọng của cảm cúm khi mắc bệnh.
+Trẻ bị cảm là một bệnh lý có khả năng lây lan nhanh chóng.
+Cảm cúm ở trẻ em lây qua đường nào?
+Cúm có thể lây lan từ người này sang người khác thông qua tiếp xúc với giọt bắn nhỏ chứa virus trong không khí được phát tán ra môi trường bên ngoài khi người bệnh hắt hơi, ho. Các giọt này bay lơ lửng trong không khí và vô tình rơi vào miệng, mũi của những người xung quanh, xâm nhập vào đường hô hấp và bắt đầu gây bệnh.
+Bên cạnh đó, virus gây bệnh cảm cúm ở trẻ có thể tồn tại khá lâu ở môi trường bên ngoài. Trẻ có thể nhiễm virus khi chạm tay vào các bề mặt như tay nắm cửa, đồ chơi, ly cốc có virus gây bệnh hay tiếp xúc cơ thể với trẻ đang mắc cúm rồi chạm tay lên mắt, mũi, miệng của mình.
+Đặc biệt, người bệnh có thể bắt đầu lây lan bệnh từ 1 ngày trước khi bệnh bắt đầu xuất hiện triệu chứng. Thời gian lây lan bệnh kéo dài 1 tuần hoặc lâu hơn đối với trẻ nhỏ. Chính vì khả năng lây lan nhanh chóng, cảm cúm có thể phát triển thành dịch bệnh hàng năm. Ngoài ra virus cúm có thể lây truyền từ gia cầm sang người. (2)
+Nguyên nhân cảm cúm ở trẻ em
+Virus cúm là nguyên nhân gây cảm cúm ở trẻ em, được chia làm 3 loại: cúm A, cúm B, cúm C. Tuy nhiên, loại virus này có thể biến đổi về cấu trúc di truyền, tạo thành chủng virus mới có khả năng kháng lại miễn dịch trước đó và tiếp tục gây cảm cúm cho trẻ. Tại Việt Nam các virus cúm hay gặp là cúm A/H1N1,cúm A/H3N2 và cúm B. Cơ chế biến đổi cấu trúc của virus cúm được chia làm 2 nhóm chính:
+Antigenic drift: Đây là hiện tượng cấu trúc kháng nguyên bề mặt của virus có sự thay đổi nhỏ do đột biến gen. Nếu sự thay đổi này không quá lớn, hệ miễn dịch của cơ thể trẻ vẫn có thể nhận dạng và chống lại virus mới theo cơ chế phản ứng chéo (cross-reaction). Nhưng nếu sự thay đổi này kéo dài và tính tụ lại thành một chủng virus mới, miễn dịch trước đó sẽ mất tác dụng, cơ thể cần thời gian để xây dựng lại miễn dịch với chủng mới này.
+Antigenic shift: Cấu trúc di truyền của virus có sự thay đổi lớn và đột ngột, tạo ra một chủng virus cúm mới hoàn toàn. Thông thường, hiện tượng này xảy ra ở virus cúm động vật đột biến, lây lan sang người. Đối với chủng virus này, cơ thể người hoàn toàn chưa có miễn dịch với chúng nên virus lây lan nhanh chóng, có thể gây đại dịch như dịch H1N1 vào năm 2009.
+Dấu hiệu cảm cúm ở trẻ
+Triệu chứng cảm cúm ở mỗi trẻ sẽ có thay đổi khác nhau, tùy thuộc vào cơ địa, độ tuổi và thể trạng sức khỏe của trẻ. Nhìn chung, thời gian ủ bệnh 1 đến 4 ngày, trung bình 2 ngày. Khởi phát trẻ sẽ bị sốt cao đột ngột, kèm theo một loạt các triệu chứng khác đi kèm như:
+Cảm giác ớn lạnh.
+Run rẩy.
+Đau đầu.
+Đau cơ.
+Mệt mỏi.
+Chóng mặt.
+Biếng ăn.
+Ho.
+Đau họng.
+Buồn nôn.
+Nôn.
+Chảy nước mũi, ngạt mũi.
+Có thể có tiêu chảy.
+Chăm sóc trẻ bị cảm cúm như thế nào?
+Phần lớn trẻ bị cảm cúm đều có thể phục hồi hoàn toàn thường mất 1-2 tuần. Tuy nhiên, một số trường hợp trẻ có hệ miễn dịch suy yếu kèm với việc không được chăm sóc đúng cách, trẻ có nguy cơ gặp phải các biến chứng như viêm phổi, viêm phế quản, viêm tai giữa…
+Một số cách chữa cảm cúm cho trẻ nhỏ bố mẹ nên biết gồm:
+1. Theo dõi nhiệt độ của trẻ
+Khi trẻ bị cảm cúm, bố mẹ nên chú ý theo dõi chặt chẽ các biểu hiện, đặc biệt là thân nhiệt của trẻ. Điều này sẽ giúp bố mẹ phát hiện và đưa trẻ đến bệnh viện để được hỗ trợ kịp thời nếu tình trạng sốt không có dấu hiệu cải thiện sau khi đã thực hiện các biện pháp hạ sốt tại nhà, sốt cao kéo dài.
+Khi thân nhiệt của trẻ đo ở nách trên 38,5 độ C thì cho bé dùng thuốc hạ sốt (liều paracetamol 10-15 mg/kg/lần, cách 4h-6h/lần, không quá 60 mg/kg/ngày).
+Trẻ bị cảm cúm nên được theo dõi nhiệt độ chặt chẽ nhằm phát hiện và có phương án xử lý kịp thời khi thân nhiệt của trẻ tăng cao.
+2. Cho trẻ uống thuốc trị cảm cúm
+Các loại thuốc trị cảm cúm cho trẻ hiện có đều tập trung điều trị các triệu chứng, giúp trẻ cảm thấy thoải mái hơn. Tùy thuộc vào triệu chứng, mức độ nghiêm trọng và thể trạng sức khỏe của từng trẻ, bác sĩ sẽ cân nhắc kê toa thuốc với liều lượng phù hợp. Một số loại thuốc được sử dụng trong điều trị cảm cúm ở trẻ gồm:
+Thuốc hạ sốt, giảm đau: Acetaminophen và ibuprofen là hai loại thuốc hạ sốt giảm đau thường được sử dụng cho trẻ. Lưu ý, không dùng aspirin để hạ sốt cho trẻ vì điều này có thể khiến trẻ gặp phải hội chứng Reye.
+Thuốc kháng virus: Oseltamivir (tamiflu) được chỉ định khi cúm có biến chứng hoặc có yếu tố nguy cơ (trẻ em dưới 5 tuổi đặc biệt dưới 2 tuổi, suy dinh dưỡng, béo phì, hen phế quản, suy giảm miễn dịch bẩm sinh hoặc mắc phải…)
+Thuốc kháng sinh chỉ được sử dụng khi có bội nhiễm nhiễm trùng.
+3. Ăn uống đủ chất
+Cảm cúm khiến trẻ mệt mỏi, biếng ăn, thậm chí rối loạn tiêu hóa (buồn nôn, nôn, tiêu chảy). Bố mẹ cần thực hiện chế độ dinh dưỡng khoa học, đủ chất và phù hợp cho trẻ, từ đó, nâng cao sức đề kháng và hệ miễn dịch cho trẻ, rút ngắn thời gian điều trị bệnh.
+Ngoài ra, tình trạng sốt, nôn mửa, tiêu chảy là nguyên nhân khiến trẻ mất nước và điện giải. Bố mẹ nên chú ý cho trẻ uống đủ nước mỗi ngày, đồng thời, bổ sung thêm các loại vitamin, điện giải thông qua các loại rau củ, trái cây như cam, quýt, ổi…
+Hệ tiêu hóa của trẻ bị cảm cúm thường sẽ yếu hơn so với bình thường. Do đó, bố mẹ nên lựa chọn các thực phẩm mềm, dạng lỏng, dễ tiêu hóa như cháo, sú.,..
+Trẻ bị cảm cúm cần được bổ sung đủ dưỡng chất và năng lượng để chống chọi lại với tác nhân gây bệnh.
+4. Lau người bằng nước ấm
+Được sử dụng trong trường hợp sốt cao chưa đáp ứng với thuốc hạ nhiệt hoặc chưa đủ thời gian dùng thuốc hạ nhiệt , bố mẹ có thể dùng một chiếc khăn mềm thấm nước ấm (nhiệt độ của nước thấp hơn nhiệt độ cơ thể 1-2 độ C), vắt khô và lau khắp người cho trẻ, nhất là ở khu vực nách, bẹn và trán. Đây là cách hạ sốt không dùng thuốc thường được sử dụng.
+Tuy nhiên, bố mẹ nên lưu ý không dùng nước lạnh, rượu hoặc cồn để lau người cho trẻ vì điều này có thể khiến trẻ bị nhiễm lạnh, bệnh trở nên nghiêm trọng hơn.
+5. Cho trẻ nghỉ ngơi nhiều
+Khi bị cảm cúm, cơ thể trẻ sẽ mất nhiều năng lượng hơn để chống lại tác nhân gây bệnh. Lúc này, giấc ngủ được xem là cách tốt nhất để cơ thể hồi phục. Do đó, bố mẹ nên cho trẻ nghỉ ngơi nhiều hơn, cho trẻ ngủ trong những không gian thoáng khí, mát mẻ để trẻ cảm thấy thoải mái và ngon giấc.
+Trẻ bị cảm cúm khi nào đến bác sĩ?
+Thông thường, bệnh cảm cúm có thể hồi phục trong 1-2 tuần. Tuy nhiên cúm có thể có nhiều biến chứng nguy hiểm như: viêm phổi, viêm xoang, viêm tai giữa, viêm cơ tim cấp, viêm não… nếu trong quá trình chăm sóc, trẻ có 1 trong các biểu hiện dưới đây, bố mẹ cần đưa trẻ đến bệnh viện để được hỗ trợ càng sớm càng tốt:
+Trẻ quấy khóc nhiều, li bì, co giật.
+Sốt cao liên tục đáp ứng kém với thuốc hạ nhiệt.
+Có biểu hiện mất nước: môi miệng khô, khóc không ra nước mắt, nước tiểu ít và vàng…
+trẻ biếng ăn hoặc nôn nhiều.
+Trẻ khó thở, thở nhanh, rút lõm lồng ngực, tím tái.
+Cảm thấy tức ngực, đau bụng.
+Trẻ có biểu hiện da xanh tái, mệt.
+Để biết thêm thông tin về cách chăm sóc trẻ và những vấn đề về sức khỏe khác của trẻ, bạn có thể liên hệ khoa Nhi bệnh viện đa khoa Tâm Anh theo địa chỉ:
+Tóm lại, cảm cúm ở trẻ em tuy là một trong những bệnh lý thường gặp, có thể tự khỏi sau 1 – 2 tuần chăm sóc đúng cách, tuy nhiên bố mẹ không nên vì thế mà chủ quan. Trong quá trình chăm sóc trẻ, bố mẹ cần đưa trẻ đến bệnh viện ngay khi có bất kỳ dấu hiệu bất thường nào.

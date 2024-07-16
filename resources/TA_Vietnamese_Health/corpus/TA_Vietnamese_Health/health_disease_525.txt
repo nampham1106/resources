@@ -1,0 +1,76 @@
+# doc_id = health_disease_525
+# url = https://tamanhhospital.vn/lieu-phap-mien-dich-trong-dieu-tri-ung-thu/
+# date = 01/12/2023
+Liệu pháp miễn dịch trong điều trị ung thư cho bệnh nhân
+Liệu pháp miễn dịch trong điều trị ung thư là phương pháp kích thích, hoạt hóa hệ thống miễn dịch nhằm nhận biết, phát hiện, truy tìm và tiêu diệt các phần tử ngoại lai hoặc các tế bào ung thư.
+Mục lụcLiệu pháp miễn dịch là gì?Vai trò của liệu pháp miễn dịch trong điều trị ung thưLiệu pháp miễn dịch trong điều trị ung thư gồm những loại nào?1. Kháng thể đơn dòng và liệu pháp ức chế khối u2. Liệu pháp miễn dịch không đặc hiệu3. Liệu pháp virus oncolytic4. Liệu pháp tế bào T5. Vắc xin ung thư6. Chất ức chế điểm kiểm soát miễn dịchPhương pháp miễn dịch giúp chống lại tế bào ung thư như thế nào?Tác dụng phụ của liệu pháp miễn dịch ở người bệnhCác liệu pháp miễn dịch được đưa vào cơ thể như thế nào?Tần suất điều trị bằng liệu pháp miễn dịchĐiều trị ung thư bằng liệu pháp miễn dịch ở đâu?Liệu pháp miễn dịch là gì?
+Liệu pháp miễn dịch trong điều trị ung thư (liệu pháp sinh học) là phương pháp điều trị sử dụng hệ thống miễn dịch của cơ thể nhằm chống lại ung thư. Liệu pháp miễn dịch có thể tăng cường hoặc thay đổi cách hệ thống miễn dịch hoạt động, khuếch đại khả năng phát hiện và tấn công các tế bào ung thư. Ngoài ra liệu pháp miễn dịch cũng có thể làm giảm hoặc ức chế hệ miễn dịch, được gọi là liệu pháp miễn dịch ức chế. (1)
+Các chất giống thành phần của hệ thống miễn dịch được tạo ra trong phòng thí nghiệm, giúp khôi phục hoặc cải thiện các hệ thống miễn dịch của cơ thể nhằm phát hiện, tấn công các tế bào lạ nguy hiểm. Các tế bào tác động hệ miễn dịch như tế bào lympho, đại thực bào, tế bào đuôi gai, tế bào tiêu diệt tự nhiên, tế bào lympho T gây độc tế bào phối hợp với nhau để bảo vệ cơ thể, chống lại ung thư và các tác nhân ngoại lai nguy hiểm.
+Hiện nay các liệu pháp miễn dịch trong điều trị ung thư đang tiếp tục được nghiên cứu, mở rộng thử nghiệm lâm sàng.
+Vai trò của liệu pháp miễn dịch trong điều trị ung thư
+Hệ thống miễn dịch có vai trò quan trọng trong cơ thể con người, có cơ chế hoạt động chống lại các phần tử lạ như virus, vi khuẩn, ký sinh trùng, cũng như các tế bào ung thư là các tế bào bất thường của cơ thể. Hiểu một cách nôm na, hệ thống miễn dịch cơ thể là hàng rào bảo vệ sức khỏe cơ thể trước các tác nhân gây nguy hiểm. Tuy nhiên, các tế bào ung thư có khả năng né tránh hệ thống miễn dịch bằng nhiều cơ chế khác nhau. Khi hệ miễn dịch suy yếu, tế bào ung thư càng dễ trốn thoát và phát triển mạnh.
+Căn cứ vào cơ chế hoạt động của hệ thống miễn dịch, liệu pháp miễn dịch trong điều trị ung thư được nghiên cứu và phát triển trong những năm gần đây có ý nghĩa lớn, là chìa khóa quan trọng trong quá trình kiểm soát ung thư, mang lại một phương pháp điều trị mới hiệu quả cao, lâu dài và ít độc tính. (2)
+Phương pháp miễn dịch điều trị ung thư ứng dụng phát triển các chất tương tự hệ miễn dịch tự nhiên nhằm chống lại ung thư.
+Liệu pháp miễn dịch trong điều trị ung thư có thể kết hợp với các phương pháp trị liệu khác như phẫu thuật, hóa trị, xạ trị, được đánh giá hiệu quả vượt trội về hiệu quả và thời gian so với một số phương pháp điều trị truyền thống khác. Liệu pháp miễn dịch trở thành một phần quan trọng trong các nghiên cứu, thử nghiệm lâm sàng và mở ra một bước ngoặt trong điều trị ung thư hơn nửa thập kỷ qua.
+Liệu pháp miễn dịch trong điều trị ung thư gồm những loại nào?
+1. Kháng thể đơn dòng và liệu pháp ức chế khối u
+Các kháng thể tự nhiên trong máu có tác dụng chống lại nguy cơ nhiễm trùng. Liệu pháp miễn dịch kháng thể đơn dòng được tạo ra trong phòng thí nghiệm, bắt chước cách hoạt động của các kháng thể tự nhiên. Kháng thể đơn dòng có thể nhận biết và gắn vào các thụ thể receptor đặc hiệu trên bề mặt tế bào ung thư. Chúng có thể hoạt động theo nhiều cách khác nhau như: (3)
+Kích hoạt hệ thống miễn dịch.
+Hỗ trợ hệ thống miễn dịch tấn công ung thư.
+2. Liệu pháp miễn dịch không đặc hiệu
+Cách hoạt động của liệu pháp miễn dịch không đặc hiệu tương tự kháng thể đơn dòng. Chúng kích thích hệ thống miễn dịch tự nhiên tham gia vào hoạt động nhận diện và tiêu diệt tế bào ung thư. Trong liệu trình điều trị ung thư bằng phương pháp miễn dịch, bác sĩ có thể chỉ định liệu pháp miễn dịch không đặc hiệu kết hợp các phương pháp điều trị khác như xạ trị, hóa trị. (4)
+Có 2 loại liệu pháp miễn dịch không đặc hiệu gồm:
+Interleukin: thúc đẩy hệ miễn dịch tăng sinh các kháng thể có khả năng nhận diện và tiêu diệt tế bào ung thư. Loại này phù hợp với những trường hợp mắc ung thư thận, da. Tuy nhiên, phương pháp này có thể gây ra các tác dụng phụ như tăng cân, tăng huyết áp, các dấu hiệu giống bệnh cảm cúm.
+Interferon: ức chế sự phát triển của tế bào ung thư ác tính. Liệu pháp này có thể gây ra một số tác dụng không mong muốn như tăng rủi ro nhiễm trùng, phát ban, rụng tóc, các dấu hiệu giống bệnh cảm cúm.
+3. Liệu pháp virus oncolytic
+Các virus oncolytic được phát triển trong phòng thí nghiệm, có tác dụng tiêu diệt tế bào ung thư.
+4. Liệu pháp tế bào T
+Phương pháp này hoạt động bằng cách thay đổi gen trong tế bào bạch cầu (tế bào T) nhằm kích hoạt khả năng nhận biết và tiêu diệt tế bào ung thư. Liệu pháp này còn được gọi là liệu pháp miễn dịch biến đổi gen tế bào T trong điều trị ung thư.
+Liệu pháp tế bào T thường được chỉ định cho một số trẻ em mắc bệnh bạch cầu, người lớn mắc u lympho. Ngoài ra liệu pháp đang được thử nghiệm lâm sàng với các bệnh lý ung thư khác.
+5. Vắc xin ung thư
+Các nhà nghiên cứu đang xem xét việc phát triển vaccine ung thư. Cách thức hoạt động của chúng tương tự các loại vaccine chống lại bệnh tật, vaccine ung thư được tạo ra nhằm giúp hệ thống miễn dịch nhận biết và tấn công các tế bào ung thư tương tự cách chúng tấn công các tế bào bệnh lý khác.
+Nghiên cứu vắc xin ung thư mở ra hướng đi mới điều trị miễn dịch trong ung thư.
+6. Chất ức chế điểm kiểm soát miễn dịch
+Các tế bào ung thư có khả năng bất hoạt tạm thời, giúp chúng vượt qua vòng kiểm soát của hệ thống miễn dịch. Chất ức chế điểm kiểm soát hoạt động bằng cách kiểm soát, ngăn chặn khả năng bất hoạt của tế bào ung thư, giúp hệ thống miễn dịch nhận ra và tiêu diệt chúng. (5)
+Các kháng thể kháng PD-1/PD-L1 và kháng CTLA-4 là hai hoạt chất ức chế kiểm soát được sử dụng cho bệnh nhân trong điều trị ung thư bằng liệu pháp miễn dịch. Các nghiên cứu cho thấy kháng thể kháng protein liên kết với tế bào lympho T 4 (CTLA-4) và protein kháng tế bào chết theo chương trình 1 (PD-1) mang lại các kết quả điều trị khả quan trong nhiều nghiên cứu.
+Thuốc ức chế điểm kiểm soát miễn dịch được chấp thuận trong điều trị nhiều loại bệnh ung thư ác tính như ung thư phổi, ung thư vú, ung thư cổ tử cung, ung thư bàng quang, ung thư đại trực tràng, ung thư vùng đầu và cổ, u lympho hodgkin…
+Phương pháp miễn dịch giúp chống lại tế bào ung thư như thế nào?
+Hệ thống miễn dịch tự nhiên của cơ thể con người là một tập hợp các tế bào, cơ quan có chức năng đặc biệt, giúp bảo vệ cơ thể khỏi nhiễm trùng và nhiều bệnh lý khác. Hệ thống này di chuyển và phân bổ khắp cơ thể, giúp chúng ta tránh vi khuẩn gây nhiễm trùng.
+Hệ thống miễn dịch theo dõi tất cả các chất được tìm thấy trong cơ thể. Khi có các tế bào lạ xuất hiện, bất kể tế bào xấu hay tế bào lành, hệ thống miễn dịch có thể nhận ra và phát động tấn công các tế bào lạ. Tuy nhiên các tế bào ung thư có cách thức hoạt động chuyên biệt hơn, có khả năng bất hoạt tạm thời để vượt qua sự kiểm soát của hệ thống miễn dịch khiến hệ miễn dịch gặp khó khăn trong việc nhắm mục tiêu vào tế bào ung thư.
+Rõ ràng, hệ thống miễn dịch có những giới hạn nhất định bởi nhiều trường hợp bệnh nhân có hệ miễn dịch khỏe mạnh nhưng tế bào ung thư vẫn phát triển, rõ ràng:
+Hệ thống miễn dịch không nhận diện được tế bào ung thư là ngoại lai vì chúng không quá khác biệt so với tế bào bình thường.
+Hệ thống miễn dịch phát hiện được các tế bào ung thư nhưng phản ứng không đủ mạnh để tiêu diệt tế bào ung thư.
+Tế bào ung thư có khả năng bất hoạt tạm thời hoặc tiết ra các chất ngăn hệ thống miễn dịch tìm và tấn công chúng.
+Do đó, các nhà nghiên cứu liệu pháp miễn dịch trong điều trị ung thư tìm cách giúp hệ thống miễn dịch tự nhiên sớm nhận ra các tế bào ung thư và tăng khả năng phản ứng của hệ miễn dịch để tấn công tiêu diệt chúng.
+Tác dụng phụ của liệu pháp miễn dịch ở người bệnh
+Một số tác dụng phụ có thể xảy đến khi điều trị bằng phương pháp miễn dịch như:
+Buồn ngủ
+Mệt mỏi
+Sốt
+Ớn lạnh
+Táo bón
+Các triệu chứng tương tự mắc cảm cúm
+Cảm giác nóng rát
+Số lượng tế bào máu thấp
+Đau đớn do tổn thương dây thần kinh
+Nguy cơ hình thành huyết khối
+Một số loại thuốc có thể gây dị tật bẩm sinh nếu dùng trong thời gian mang thai
+Người bệnh có thể gặp nhiều tác dụng phụ trong quá trình điều trị. Nếu các triệu chứng mức độ nghiêm trọng xảy ra, người bệnh nên thăm khám, tư vấn với bác sĩ điều trị để có cách xử trí thích hợp.
+Các liệu pháp miễn dịch được đưa vào cơ thể như thế nào?
+Có nhiều cách dẫn truyền liệu pháp miễn dịch vào cơ thể phụ thuộc vào liệu pháp điều trị, bao gồm:
+Tiêm: truyền liệu pháp miễn dịch qua đường tĩnh mạch.
+Uống: thuốc miễn dịch dưới dạng viên nén hoặc viên nang, có thể uống dễ dàng.
+Kem bôi da: một số loại liệu pháp miễn dịch ở dạng gel, có thể bôi qua da (dành cho bệnh nhân ung thư da giai đoạn đầu).
+Tùy thuộc vào tình trạng bệnh và mức đáp ứng của cơ thể, bác sĩ sẽ chỉ định cách thức đưa thuốc miễn dịch vào cơ thể người bệnh.
+Liệu pháp miễn dịch ung thư được đưa vào cơ thể bằng nhiều cách khác nhau.
+Tần suất điều trị bằng liệu pháp miễn dịch
+Tần suất điều trị bằng liệu pháp miễn dịch đối với bệnh nhân ung thư phụ thuộc vào một số yếu tố như sau:
+Loại ung thư, mức độ tiến triển bệnh.
+Lựa chọn loại liệu pháp miễn dịch.
+Mức độ đáp ứng của cơ thể.
+Thời gian thực hiện liệu pháp theo định kỳ hàng ngày, hàng tuần hoặc hàng tháng phụ thuộc vào phác đồ đã lên sẵn. Sau mỗi kỳ điều trị, cơ thể sẽ có một khoảng thời gian nghỉ ngơi, hồi phục và tái tạo các tế bào khỏe mạnh mới.
+Điều trị ung thư bằng liệu pháp miễn dịch ở đâu?
+Hiệu quả trong điều trị ung thư bằng liệu pháp miễn dịch đã đạt những thành tựu bước đầu, giúp cải thiện khả năng sống còn của người bệnh sau chẩn đoán ung thư.
+Hiện nay, điều trị ung thư bằng liệu pháp miễn dịch được chỉ định và thực hiện tại các bệnh viện lớn, có chuyên khoa điều trị ung thư. BVĐK Tâm Anh là một trong những bệnh viện áp dụng đa dạng phương pháp điều trị ung thư như phẫu thuật, phẫu thuật nội soi, hóa trị, điều trị nhắm mục tiêu, liệu pháp điều trị miễn dịch… tối ưu quá trình điều trị cho người bệnh.
+Để tìm hiểu liệu pháp miễn dịch trong điều trị ung thư cũng như các phương pháp điều trị ung thư, bạn có thể liên hệ BVĐK Tâm Anh theo thông tin:
+Khoa Ung bướu, BVĐK Tâm Anh luôn cập nhật phác đồ điều trị quốc tế, bao gồm liệu pháp miễn dịch trong điều trị ung thư; đồng thời ứng dụng các trang thiết bị hiện đại nâng cao hiệu quả điều trị cho bệnh nhân. Nhờ vậy, quy trình tầm soát, điều trị được rút ngắn, hiệu quả cao, mang đến sự thoải mái, riêng tư cho người bệnh trong quá trình điều trị cũng như nâng cao chất lượng sống sau điều trị.

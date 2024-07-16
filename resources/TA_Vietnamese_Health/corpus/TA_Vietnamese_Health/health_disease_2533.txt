@@ -1,0 +1,115 @@
+# doc_id = health_disease_2533
+# url = https://tamanhhospital.vn/xa-tri-ung-thu-vu/
+# date = 17/04/2024
+Xạ trị ung thư vú: Chỉ định và phương pháp điều trị
+Xạ trị ung thư vú giúp tiêu diệt tế bào ung thư còn sót lại sau phẫu thuật điều trị. Vậy xạ trị ung thư vú là gì? Chỉ định và phương pháp điều trị như thế nào? Thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM sẽ giải đáp thắc về xạ trị ung thư vú.
+Mục lụcXạ trị ung thư vú là gì?Tại sao cần xạ trị ung thư vú?Đối tượng chỉ định xạ trị ung thư vú?1. Xạ trị sau cắt bỏ khối u (xạ sau bảo tồn vú)2. Xạ trị sau phẫu thuật cắt bỏ vú (Xạ trị sau đoạn nhũ)3. Xạ trị cho bệnh ung thư vú tiến triển tại chỗ2 phương pháp xạ trị ung thư vú hiện nay1. Bức xạ bên ngoài – Xạ trị ngoài (EBRT)2. Bức xạ bên trong – Xạ trị trong (IORT)Quy trình xạ trị ung thư vú1. Chuẩn bị trước khi xạ trị2. Thực hiện xạ trị ung thư vú3. Sau xạ trị ung thư vúBiến chứng rủi ro sau xạ trị ung thư vúChăm sóc sau xạ trị ung thư vúNgười bệnh được chỉ định xạ trị ung thư vú bao nhiêu lần?1. Xạ trị ngoài2. Xạ trị trongCác thắc mắc thường gặp về xạ trị ung thư vú1. Có nên xạ trị ung thư vú phòng ngừa?2. Xạ trị ung thư vú có cho con bú được không?3. Xạ trị ung thư vú có đau không?4. Xạ trị ung thư vú có phòng ngừa hoàn toàn?5. Xạ trị ung thư vú sau sinh được không?Xạ trị ung thư vú là gì?
+Xạ trị ung thư vú là việc sử dụng tia X, proton hoặc hạt năng lượng cao khác để tiêu diệt tế bào ung thư. Các tế bào phát triển nhanh như tế bào ung thư dễ bị ảnh hưởng bởi xạ trị hơn tế bào bình thường.
+Tia X hoặc các hạt không gây đau và không nhìn thấy được. Người bệnh thường không nhiễm phóng xạ sau khi điều trị. Vì vậy, người khác ở gần người bệnh vẫn sẽ an toàn, kể cả trẻ em.
+Tại sao cần xạ trị ung thư vú?
+Người bệnh cần xạ trị ung thư vú để tiêu diệt tế bào ung thư. Xạ trị thường được sử dụng sau phẫu thuật để giảm nguy cơ ung thư tái phát. Xạ trị cũng có thể giúp giảm đau và triệu chứng khác của bệnh ung thư vú tiến triển.
+Xạ trị để kiểm soát ung thư vú di căn. Nếu ung thư vú đã di căn sang bộ phận khác trên cơ thể, xạ trị được khuyến nghị để thu nhỏ khối u và kiểm soát triệu chứng như đau đớn, chảy máu. Ung thư di căn xương cũng được xạ trị giảm đau và chống chèn ép.
+Xạ trị thường được sử dụng sau phẫu thuật để giảm nguy cơ ung thư tái phát.
+Đối tượng chỉ định xạ trị ung thư vú?
+Đối tượng chỉ định xạ trị ung thư vú được phân như sau:
+1. Xạ trị sau cắt bỏ khối u (xạ sau bảo tồn vú)
+Nếu người bệnh đang phẫu thuật để loại bỏ ung thư vú và giữ nguyên mô vú còn lại (phẫu thuật cắt bỏ khối u hoặc bảo tồn vú), bác sĩ có thể đề nghị xạ trị sau phẫu thuật để tiêu diệt tế bào ung thư còn sót lại. Việc bổ sung thêm tia xạ sau khi cắt bỏ khối u sẽ làm giảm nguy cơ ung thư tái phát ở vú bị ảnh hưởng.
+Cắt bỏ khối u kết hợp với xạ trị thường được gọi là liệu pháp phẫu thuật bảo tồn vú. Loại điều trị này hiệu quả tương đương với việc cắt bỏ toàn bộ mô vú (hay gọi là đoạn nhũ). Trong tình huống đặc biệt, nguy cơ tái phát rất thấp, bác sĩ có thể thảo luận về lựa chọn tránh bức xạ sau khi cắt bỏ khối u.
+Sau khi cắt bỏ khối u, người bệnh lựa chọn điều trị bằng bức xạ với 2 dạng sau:
+Xạ trị toàn bộ vú: một trong những loại xạ trị phổ biến nhất sau phẫu thuật cắt bỏ khối u là xạ trị chùm tia bên ngoài toàn bộ vú (chiếu xạ toàn bộ vú).
+Xạ trị vào một phần của vú: đây có thể là lựa chọn cho một số bệnh ung thư vú giai đoạn đầu. Kỹ thuật này hướng bức xạ bên trong hoặc bên ngoài đến khu vực xung quanh nơi ung thư được cắt bỏ.
+2. Xạ trị sau phẫu thuật cắt bỏ vú (Xạ trị sau đoạn nhũ)
+Bức xạ được sử dụng sau phẫu thuật cắt bỏ vú sẽ tiêu diệt tế bào ung thư còn sót lại và làm giảm nguy cơ ung thư tái phát ở mô còn lại của thành ngực hoặc hạch bạch huyết.
+Khi xác định xem người bệnh có nên xạ trị sau phẫu thuật cắt bỏ vú hay không, bác sĩ sẽ xem xét các yếu tố sau:
+Hạch bạch huyết có di căn: hạch bạch huyết ở nách có kết quả xét nghiệm dương tính với tế bào ung thư là dấu hiệu cho thấy một số tế bào ung thư đã lan ra ngoài vú.
+Kích thước khối u lớn: khối u ung thư vú lớn hơn khoảng 4-5cm thường có nguy cơ tái phát cao hơn so với ung thư nhỏ hơn.
+Bờ rìa cắt ung thư với mô lành có dấu hiệu còn sót ung thư vú: Sau khi mô vú được cắt bỏ, rìa của mô sẽ được kiểm tra để tìm dấu hiệu tế bào ung thư. Độ rộng rìa cắt rất hẹp hoặc rìa cắt xét nghiệm dương tính với tế bào ung thư là yếu tố nguy cơ cao tái phát.
+3. Xạ trị cho bệnh ung thư vú tiến triển tại chỗ
+Xạ trị có thể được sử dụng để điều trị:
+Ung thư vú không thể cắt bỏ bằng phẫu thuật.
+Ung thư vú dạng viêm – loại ung thư nguy hiểm lây lan đến bạch huyết của vùng da bao phủ vú. Loại ung thư này thường được điều trị bằng hóa trị trước khi phẫu thuật cắt bỏ vú, sau đó bác sĩ xạ trị để giảm nguy cơ tái phát.
+2 phương pháp xạ trị ung thư vú hiện nay
+2 phương pháp xạ trị ung thư vú hiện nay gồm liệu pháp xạ trị chùm tia ngoại (EBRT) và xạ trị trong phẫu thuật (IORT) có thể được thực hiện thông qua:
+1. Bức xạ bên ngoài – Xạ trị ngoài (EBRT)
+Phương pháp này dùng máy đưa bức xạ từ bên ngoài cơ thể đến vú. Đây là loại xạ trị phổ biến nhất được sử dụng cho bệnh ung thư vú.
+2. Bức xạ bên trong – Xạ trị trong (IORT)
+Sau khi người bệnh phẫu thuật để loại bỏ ung thư, bác sĩ sẽ tạm thời đặt thiết bị phóng xạ vào vú ở khu vực từng bị ung thư. Một nguồn phóng xạ sẽ được đưa vào thiết bị trong thời gian ngắn trong quá trình điều trị của người bệnh.
+Bức xạ được sử dụng sau phẫu thuật cắt bỏ vú sẽ tiêu diệt bất kỳ tế bào ung thư nào còn sót lại.
+Quy trình xạ trị ung thư vú
+1. Chuẩn bị trước khi xạ trị
+Trước khi điều trị bằng bức xạ, người bệnh sẽ gặp các bác sĩ sẽ xạ trị cho mình, bao gồm:
+Bác sĩ chuyên điều trị ung thư bằng bức xạ (bác sĩ xạ trị). Bác sĩ sẽ xác định liệu pháp thích hợp với tình trạng của người bệnh, theo dõi tiến triển trong lúc điều trị và điều chỉnh phương pháp điều trị nếu cần.
+Kỹ sư vật lý y tế về ung thư bức xạ và bác sĩ đo liều – người thực hiện tính toán, đo lường liều lượng và sự phân phối bức xạ.
+Kỹ thuật viên xạ trị ung thư, điều dưỡng hỗ trợ bác sĩ trả lời câu hỏi về phương pháp điều trị, tác dụng phụ và theo dõi sức khỏe của người bệnh trong quá trình xạ trị.
+Chuyên viên trị liệu bằng tia xạ, người vận hành thiết bị bức xạ và quản lý phương pháp điều trị.
+Trước khi bắt đầu điều trị, bác sĩ xạ trị sẽ xem xét bệnh sử và khám sức khỏe để xác định xem cơ thể người bệnh có chỉ định được xạ trị không. Bác sĩ cũng sẽ thảo luận về lợi ích và tác dụng phụ của xạ trị khi dùng cho người bệnh.
+1.1 Trước khi xạ trị ngoài
+Trước buổi điều trị đầu tiên, người bệnh sẽ trải qua 1 buổi lập kế hoạch xạ trị (gọi là mô phỏng).Trong đó, bác sĩ sẽ cẩn thận lập bản đồ vùng vú của người bệnh để nhắm tới vị trí chính xác của việc điều trị.
+Trong quá trình mô phỏng:
+Bác sĩ sẽ đưa người bệnh vào vị trí tốt nhất để nhắm mục tiêu vùng bị ảnh hưởng và tránh làm tổn thương mô bình thường xung quanh. Đôi khi, miếng đệm hoặc thiết bị khác được sử dụng để giúp người bệnh giữ nguyên tư thế.
+Người bệnh cần chụp CT để bác sĩ xác định được vùng điều trị và mô bình thường cần tránh. Khi chụp CT, người bệnh sẽ nghe thấy tiếng ồn khi thiết bị di chuyển xung quanh. Người bệnh hãy cố gắng thư giãn, giữ yên cơ thể để đảm bảo phương pháp điều trị phù hợp và chính xác.
+Bác sĩ có thể đánh dấu cơ thể người bệnh bằng mực bán vĩnh viễn hoặc chấm xăm nhỏ vĩnh viễn. Việc này sẽ hướng dẫn bác sĩ xác định đúng vị trí cần xạ trị trong suốt thời gian thực hiện. Vì vậy, người bệnh cẩn thận khi tắm, tránh chà đi vết đánh dấu trên da.
+Bác sĩ sẽ sử dụng phần mềm máy tính để lập kế hoạch điều trị bức xạ. Sau khi quá trình mô phỏng được thực hiện nhiều lần kiểm tra đảm bảo chất lượng và lập kế hoạch hoàn tất người bệnh có thể bắt đầu điều trị.
+1.2 Trước khi xạ trị trong
+Trước khi bắt đầu xạ trị trong (xạ trị áp sát), bác sĩ sẽ đặt thiết bị đặc biệt chứa chất phóng xạ vào khu vực đã cắt bỏ khối u. Điều này được thực hiện trong quá trình phẫu thuật ung thư hoặc thủ thuật riêng biệt vài ngày sau đó.
+Trước buổi điều trị đầu tiên, người bệnh sẽ trải qua 1 buổi mô phỏng – lập kế hoạch xạ trị ung thư vú.
+2. Thực hiện xạ trị ung thư vú
+2.1 Trong quá trình xạ trị ngoài
+Khi đến bệnh viện hoặc cơ sở điều trị, người bệnh sẽ được đưa đến phòng đặc biệt được sử dụng riêng cho xạ trị. Một buổi xạ trị ngoài điển hình thường tuân theo quy trình sau:
+Người bệnh cần thay quần áo và mặc áo bệnh viện.
+Bác sĩ sẽ đưa người bệnh vào vị trí cần điều trị đã đánh dấu sẵn trong quá trình mô phỏng.
+Bác sĩ có thể chụp X-quang để đảm bảo người bệnh đã được đặt đúng tư thế. Sau đó, bác sĩ rời khỏi phòng và bật máy phát bức xạ (máy xạ trị gia tốc).
+Mặc dù kỹ thuật viên vận hành máy không có mặt ở phòng trong quá trình điều trị nhưng sẽ theo dõi người bệnh từ phòng khác trên màn hình tivi. Thông thường, người bệnh và nhà trị liệu bác sĩ có thể nói chuyện qua hệ thống liên lạc nội bộ. Nếu người bệnh cảm thấy mệt hoặc không thoải mái, hãy với kỹ thuật viên xạ trị để được dừng nếu cần.
+2.2 Trong quá trình xạ trị trong
+Với bức xạ bên trong, nguồn phóng xạ nằm trong thiết bị phân phối bức xạ và được cấy ghép 1 hoặc 2 lần/ngày trong vài phút. Điều này thường được thực hiện với người bệnh ngoại trú và có thể nghỉ giữa các buổi.
+3. Sau xạ trị ung thư vú
+3.1 Xạ trị ngoài
+Sau buổi xạ trị, người bệnh có thể tự do thực hiện hoạt động thường ngày của mình, kể cả bước tự chăm sóc nào tại nhà mà bác sĩ bạn chẳng hạn như chăm sóc da sau xạ trị.
+Một số trường hợp, sau khi hoàn thành các đợt xạ trị chính, bác sĩ có thể đề nghị xạ trị tăng cường, có nghĩa các phần bức xạ bổ sung hướng vào nơi có mối nguy cơ cao tái phát nhiều nhất hoặc thêm 4-5 ngày điều trị. Ví dụ, sau khi hoàn tất chiếu xạ toàn bộ vú, việc tăng cường bức xạ thường được thực hiện ở khu vực nơi ung thư đã được cắt bỏ (nền bướu có đặt các kẹp chỉ điểm).
+3.2 Xạ trị trong
+Sau quá trình điều trị, thiết bị phóng xạ sẽ được tháo ra. Người bệnh có thể được cho dùng thuốc giảm đau trước khi tháo thiết bị xạ trị trong. Khu vực này có thể đau nhức trong vài ngày hoặc vài tuần khi mô phục hồi sau phẫu thuật và xạ trị.
+Sau buổi xạ trị ung thư vú, người bệnh có thể tự do hoạt động và sinh hoạt như thường ngày.
+Biến chứng rủi ro sau xạ trị ung thư vú
+Biến chứng rủi ro sau xạ trị ung thư vú khác nhau tùy thuộc vào loại và mô được điều trị. Tác dụng phụ có xu hướng nghiêm trọng nhất vào cuối đợt điều trị bức xạ. Sau khi các buổi điều trị hoàn tất, người bệnh có thể phải mất vài ngày hoặc vài tuần để tác dụng phụ biến mất.
+Các tác dụng phụ thường gặp trong quá trình điều trị, bao gồm:
+Mệt mỏi ở mức nhẹ đến trung bình.
+Kích ứng da chẳng hạn như ngứa, tấy đỏ, bong tróc hoặc phồng rộp. Biến chứng này tương tự như tình trạng da cháy nắng.
+Sưng tuyến vú.
+Tùy thuộc vào mô nào phơi nhiễm, xạ trị có thể gây ra hoặc làm tăng nguy cơ:
+Sưng cánh tay (phù bạch huyết cánh tay) nếu hạch này được xạ trị.
+Tổn thương hoặc biến chứng phải tháo bỏ túi ngực khi người bệnh đã tái tạo vú bằng túi ngực sau phẫu thuật cắt bỏ vú.
+Hiếm khi, xạ trị có thể gây ra hoặc làm tăng nguy cơ:
+Gãy xương sườn hoặc đau thành ngực.
+Viêm mô phổi hoặc tổn thương tim.
+Ung thư thứ phát, chẳng hạn như ung thư xương hoặc cơ (sarcomas) hoặc ung thư phổi.
+Chăm sóc sau xạ trị ung thư vú
+Để chăm sóc sau khi hoàn thành xạ trị ung thư vú, bác sĩ sẽ lên lịch tái khám để theo dõi tiến triển của cơ thể người bệnh, tìm tác dụng phụ muộn và kiểm tra dấu hiệu tái phát ung thư. Người bệnh và gia đình có thể hỏi bác sĩ những điều cần lưu ý và cách chăm sóc đúng sau xạ trị ung thư vú.
+Sau khi xạ trị xong, người bệnh hãy báo cho bác sĩ nếu gặp phải:
+Đau dai dẳng.
+Xuất hiện cục u, vết bầm tím, phát ban hoặc sưng tấy.
+Sụt cân không rõ nguyên nhân.
+Sốt hoặc ho không thuyên giảm.
+Bất kỳ triệu chứng khó chịu nào khác.
+Người bệnh được chỉ định xạ trị ung thư vú bao nhiêu lần?
+Số lần người bệnh được chỉ định xạ trị ung thư vú tùy thuộc vào phương pháp xạ trị và tình trạng của mỗi người bệnh, bao gồm:
+1. Xạ trị ngoài
+Thời gian ca xạ trị chỉ kéo dài vài phút nhưng dự kiến ​​​​mất từ ​​​​15-45 phút/phiên, vì bác sĩ mất vài phút để vùng điều trị của người bệnh đặt đúng. Bước này quan trọng giúp đảm bảo việc cung cấp liệu pháp xạ trị chính xác và tối ưu nhất.
+2. Xạ trị trong
+Xạ trị thường bắt đầu từ 3-8 tuần sau phẫu thuật trừ trường hợp người bệnh còn có kế hoạch hóa trị. Khi người bệnh hoá trị hỗ trợ, kế hoạch xạ trị thường bắt đầu từ 3-4 tuần sau khi kết thúc hóa trị. Người bệnh có thể sẽ được xạ trị với tư cách ngoại trú tại bệnh viện hoặc cơ sở điều trị khác.
+Lịch trình điều trị thông thường trước đây gồm 1 lần/ngày, 5 ngày/tuần (thường từ thứ hai – thứ sáu), đều đặn trong 5-6 tuần. Lịch trình này vẫn được sử dụng phổ biến ở người cần xạ trị đến hạch bạch huyết.
+Tuy nhiên, càng ngày bác sĩ càng khuyến nghị lịch trình điều trị ngắn hơn (điều trị giảm phân liều) bằng cách chiếu xạ toàn bộ vú rút ngắn xuống còn 1-4 tuần. Việc chiếu xạ một phần vú có thể được hoàn thành trong vòng 5 ngày hoặc ít hơn.
+Các lịch trình điều trị giảm phân liều này có tác dụng tốt tương đương như lịch trình dài hơn và có thể làm giảm một số tác dụng phụ. Bác sĩ có thể giúp quyết định lịch trình nào phù hợp với bạn.
+Các thắc mắc thường gặp về xạ trị ung thư vú
+1. Có nên xạ trị ung thư vú phòng ngừa?
+Có, nên xạ trị ung thư vú phòng ngừa. Xạ trị có thể được sử dụng để điều trị ung thư vú ở hầu hết mọi giai đoạn. Xạ trị là cách hiệu quả để giảm nguy cơ ung thư vú tái phát sau phẫu thuật. Ngoài ra, phương pháp này thường được sử dụng để giảm triệu chứng do ung thư đã lan sang bộ phận khác của cơ thể gây ra (ung thư vú di căn xương).
+2. Xạ trị ung thư vú có cho con bú được không?
+Phụ nữ mắc ung thư vú đang điều trị bằng xạ được khuyến cáo không nên cho con bú. Bởi phương pháp này có thể làm thay đổi mô vú và dễ viêm nhiễm mô vú do xạ trị, giảm sữa và dễ viêm quầng vú núm vú. [1]
+3. Xạ trị ung thư vú có đau không?
+Xạ trị không gây đau. Người bệnh có thể cảm thấy hơi khó chịu khi nằm ở tư thế điều trị. Tuy nhiên, tình trạng này thường tồn tại trong thời gian ngắn.
+Xạ trị ung thư vú không gây đau.
+4. Xạ trị ung thư vú có phòng ngừa hoàn toàn?
+Xạ trị không thể phòng ngừa hoàn toàn ung thư vú. Liệu pháp này bổ trợ sau phẫu thuật để tiêu diệt tế bào ung thư, ngừa bệnh tái phát, giảm đau và giảm triệu chứng của ung thư vú.
+5. Xạ trị ung thư vú sau sinh được không?
+Có, xạ trị ung thư vú thường được thực hiện sau sinh. Xạ trị không được khuyến khích ở bất kỳ giai đoạn nào của thai kỳ, thậm chí liều thấp cũng gây nguy hiểm đến em bé. Vì vậy, kế hoạch điều trị ung thư vú ở người bệnh đang mang thai thường cố gắng tránh hoặc trì hoãn đến sau khi sinh. [2]
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM quy tụ các chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm, liên tục trau dồi các phương pháp điều trị mới trên thế giới, trang bị máy móc, thiết bị tân tiến nhằm hỗ trợ bác sĩ trong việc chẩn đoán bệnh lý tuyến vú và điều trị cho người bệnh. Ngoài ra, khoa còn lập nhóm “CLB bệnh nhân ung thư vú bệnh viện Tâm Anh” giúp người bệnh có thể chia sẻ những khó khăn lo lắng với người bệnh khác cùng hoàn cảnh.
+Xạ trị ung thư vú là phương pháp điều trị phổ biến, hiệu quả với bệnh ung thư vú giai đoạn đầu và hỗ trợ cho giai đoạn tiến triển. Thông qua bài này, người bệnh hiểu hơn về phương pháp hỗ trợ này và hợp tác theo bác sĩ vượt qua bệnh này hiệu quả, an toàn nhất.

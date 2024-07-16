@@ -1,0 +1,72 @@
+# doc_id = health_disease_2032
+# url = https://tamanhhospital.vn/cau-hoi-ve-benh-gan-nhiem-mo-khong-do-ruou/
+# date = 01/09/2021
+10 Câu hỏi thường gặp về bệnh gan nhiễm mỡ không do rượu | Tâm Anh
+Bệnh gan nhiễm mỡ không do rượu (Nonalcoholic fatty liver disease – NAFLD) là bệnh gan mạn tính thường gặp nhất ở các nước phát triển và là nguyên nhân hàng đầu gây xơ gan, ung thư gan hiện nay. Mức độ phổ biến và nghiêm trọng của căn bệnh này tỉ lệ thuận với tình trạng béo phì và hội chứng chuyển hóa ở bệnh nhân.
+BS.CKI Huỳnh Văn Trung, Trung tâm Nội soi & Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa Tâm Anh giải đáp 10 thắc mắc thường gặp nhất của người bệnh về bệnh lý này, đồng thời đưa ra những khuyến cáo giúp người bệnh điều trị hiệu quả và nâng cao chất lượng cuộc sống.
+Mục lục1. Gan nhiễm mỡ không do rượu là gì?2. Bệnh gan nhiễm mỡ không do rượu có phổ biến không?3. Ngưỡng uống rượu bia để xác định NAFLD là bao nhiêu?4. Nguyên nhân nào gây ra NAFLD?5. Ai có nguy cơ cao mắc gan nhiễm mỡ không do rượu?6. Gan nhiễm mỡ không do rượu có triệu chứng gì?7. Chẩn đoán bệnh gan nhiễm mỡ bằng cách nào?8. Người bị gan nhiễm mỡ không do rượu cần làm gì?9. Tiên lượng bệnh gan nhiễm mỡ NAFLD có tốt không?10. Điều trị bệnh gan nhiễm mỡ ở đâu?1. Gan nhiễm mỡ không do rượu là gì?
+Gan nhiễm mỡ không do rượu thường gặp ở bệnh nhân thừa cân, béo phì
+Gan nhiễm mỡ không do rượu (NAFLD) là thuật ngữ chỉ tình trạng tích tụ chất béo trong tế bào gan diễn ra ở những người sử dụng ít hoặc không sử dụng rượu. Bệnh gan nhiễm mỡ được xác định khi lượng chất béo chiếm hơn 5 – 10% trọng lượng của gan.
+NAFLD giai đoạn đầu thường không gây ảnh hưởng rõ rệt. Tuy nhiên, khoảng 15 – 20% trường hợp mắc bệnh có thể tiến triển thành viêm gan nhiễm mỡ không do rượu (NASH), dẫn đến xơ gan hoặc ung thư gan. Ngoài ra, việc có quá nhiều chất béo trong gan cũng làm tăng nguy cơ mắc các vấn đề sức khỏe nghiêm trọng khác như tiểu đường, bệnh tim, huyết áp cao, bệnh thận…
+2. Bệnh gan nhiễm mỡ không do rượu có phổ biến không?
+Gan nhiễm mỡ không do rượu là một căn bệnh phổ biến, ảnh hưởng đến khoảng 25% dân số thế giới. Tỷ lệ người mắc bệnh ngày một tăng do dân số béo phì ngày càng nhiều, đặc biệt là ở các nước phương Tây. Hiện nay, NAFLD đã vượt qua viêm gan siêu vi C, chỉ đứng sau bệnh gan do rượu về nhu cầu ghép gan ở người bệnh.
+3. Ngưỡng uống rượu bia để xác định NAFLD là bao nhiêu?
+Ngưỡng sử dụng rượu bia có sự khác nhau giữa nam và nữ trong định nghĩa bệnh gan nhiễm mỡ không do rượu. Cụ thể:
+Ở nam giới: dưới 2 đơn vị cồn/ngày
+Ở nữ giới: dưới 1 đơn vị cồn/ngày
+Đơn vị cồn trong rượu, bia được tính bằng công thức:
+Đơn vị cồn = Dung tích (ml) x Nồng độ (%) x 0.79 (Hệ số quy đổi)
+Ví dụ: Một lon bia 333 có thể tích 330ml với nồng độ 4.8% tương ứng 1.25 đơn vị cồn.
+Như vậy, nếu một bệnh nhân nam siêu âm bụng ghi nhận gan nhiễm mỡ, uống ít hơn 2 lon bia 333/ngày, không có nguyên nhân khác gây tổn thương gan mạn hoặc gan nhiễm mỡ thì được gọi là bệnh gan nhiễm mỡ không do rượu.
+4. Nguyên nhân nào gây ra NAFLD?
+Hiện nay, nguyên nhân gây ra NAFLD vẫn chưa được xác định một cách rõ ràng. Tương tự như vậy, giới y học vẫn chưa hiểu hết lý do tại sao một số trường hợp gan nhiễm mỡ lại tiến triển thành viêm và xơ gan.
+Tuy nhiên, cả NAFLD và NASH đều liên quan đến các tình trạng sức khỏe sau:
+Thừa cân, béo phì
+Kháng insulin
+Lượng đường trong máu cao
+Lượng chất béo trong máu cao, đặc biệt là triglyceride.
+5. Ai có nguy cơ cao mắc gan nhiễm mỡ không do rượu?
+Bệnh nhân đái tháo đường có nguy cơ cao mắc NAFLD
+Bệnh nhân đang mắc phải các vấn đề sau có nguy cơ cao mắc NAFLD:
+Béo phì: Trên 95% bệnh nhân béo phì nặng trải qua phẫu thuật giảm cân có NAFLD
+Đái tháo đường type 2: Khoảng 1/3 – 2/3 bệnh nhân đái tháo đường type 2 có NAFLD. Có mối tương quan 2 chiều giữa những bệnh nhân đái tháo đường và NAFLD.
+Rối loạn lipid máu: Nồng độ triglyceride cao và HDL thấp thường gặp ở bệnh nhân NAFLD, tần suất của NAFLD ở bệnh nhân rối loạn lipid có triệu chứng lâm sàng khoảng 50%.
+Hội chứng chuyển hóa
+Hội chứng buồng trứng đa nang
+Vấn đề nội tiết: suy giáp, suy tuyến yên, suy sinh dục
+Ngưng thở lúc ngủ do tắc nghẽn
+Nguy cơ NAFLD tiến triển thành NASH sẽ tăng lên nếu bệnh nhân:
+Lớn tuổi
+Bị bệnh tiểu đường
+Có lượng mỡ cơ thể tập trung ở vùng bụng.
+6. Gan nhiễm mỡ không do rượu có triệu chứng gì?
+NAFLD thường không gây ra bất kỳ triệu chứng nào trong giai đoạn đầu. Do đó, phần lớn bệnh nhân đều không biết mình mắc bệnh cho đến khi được phát hiện thông qua các buổi kiểm tra sức khỏe định kỳ hoặc xét nghiệm vì một bệnh lý khác.
+Khi bệnh tiến triển thành NASH hoặc xơ gan, người bệnh có thể nhận thấy các triệu chứng sau:
+Đau vùng bụng trên bên phải
+Suy nhược, mệt mỏi
+Giảm cân không chủ ý
+Vàng da, vàng mắt
+Cổ trướng, còn gọi là báng bụng (tích tụ dịch trong ổ bụng)
+Sưng (phù) ở cẳng chân, bàn chân và mắt cá chân
+Xuất hiện nhiều nốt giãn mạch màu đỏ trên da, còn gọi là nốt sao mạch
+Lòng bàn tay đỏ rực (bàn tay son)
+Lú lẫn, giảm trí nhớ, thay đổi tính cách
+7. Chẩn đoán bệnh gan nhiễm mỡ bằng cách nào?
+Xét nghiệm chẩn đoán được thực hiện tại Bệnh viện Đa khoa Tâm Anh
+Các xét nghiệm được thực hiện để chẩn đoán và xác định mức độ nghiêm trọng của bệnh gan nhiễm mỡ không do rượu bao gồm:
+Xét nghiệm máu: Giúp đánh giá tình trạng hoại tử tế bào gan cũng như yếu tố nguy cơ như rối loạn lipid máu, đái tháo đường, suy giáp, suy tuyến yên, suy sinh dục…
+Siêu âm bụng tổng quát: Giúp đánh giá tình trạng tích tụ mỡ tại gan và phân loại mức độ nhiễm mỡ
+Các xét nghiệm cận lâm sàng không xâm lấn: Giúp đánh giá mức độ xơ hóa gan, bao gồm NAFLD Fibrosis Score (NFS), FIB-4 hoặc siêu âm đo độ đàn hồi gan…
+Sinh thiết gan: Sinh thiết gan là tiêu chuẩn vàng nhằm xác định các giai đoạn của bệnh gan nhiễm mỡ không do rượu cũng như đánh giá giai đoạn xơ hóa gan. Dù vậy, xét nghiệm này chỉ được tiến hành khi:
+Gợi ý bệnh gan nhiễm mỡ không do rượu với xơ hóa tiến triển
+Loại trừ bệnh đồng mắc cũng như nguyên nhân kèm theo gây bệnh gan mạn tính.
+8. Người bị gan nhiễm mỡ không do rượu cần làm gì?
+Biện pháp kiểm soát cơ bản và quan trọng nhất dành cho người bị gan nhiễm mỡ không do rượu là giảm cân thông qua sự kết hợp giữa chế độ ăn uống lành mạnh và luyện tập hợp lý. Người bệnh nên hướng đến chỉ số khối cơ thể BMI từ 18,5 – 24,9. Việc giảm 10% trọng lượng cơ thể sẽ giúp loại bỏ bớt chất béo khỏi gan, đồng thời ngăn ngừa các biến chứng nguy hiểm của bệnh.
+Người mắc NAFLD được khuyến nghị giảm lượng calo trong khẩu phần ăn, tăng cường rau củ (rau ngót, rau cần tây, diếp cá, đậu Hà lan, cà chua, tỏi, bắp chuối…), trái cây (chanh, cam, quýt, bưởi, táo chín…). Hạn chế các thực phẩm chứa nhiều dầu mỡ, thức ăn nhanh, thực phẩm và đồ uống có hàm lượng fructose cao, thực phẩm giàu cholesterol, rượu bia, chất kích thích.
+Bên cạnh đó, người bệnh cần kiên trì việc luyện tập ít nhất 30 phút trong ngày để việc giảm cân có kết quả tốt nhất. Nếu chưa quen với việc tập thể dục thường xuyên, người bệnh nên tham khảo ý kiến bác sĩ và bắt đầu từ những bài tập đơn giản.
+Trường hợp người bệnh bị viêm gan nhiễm mỡ không do rượu, đặc biệt là khi gan xơ hóa nặng, bác sĩ có thể kê đơn thuốc để điều trị các tình trạng này. Ngoài ra, những bệnh nhân có nguy cơ cao mắc phải các vấn đề nghiêm trọng khác do NAFLD như tiểu đường, hội chứng chuyển hóa, tăng men gan, viêm hoại tử cao cũng có thể được điều trị bằng thuốc để ngăn ngừa tiến triển bệnh.
+Đối với trường hợp bệnh đã ở giai đoạn xơ gan tiến triển, khiến gan không còn khả năng hoạt động, ghép gan sẽ là lựa chọn điều trị duy nhất của người bệnh.
+9. Tiên lượng bệnh gan nhiễm mỡ NAFLD có tốt không?
+Tiên lượng của NAFLD thường là tốt nếu chưa xuất hiện biến chứng. Tuy vậy, nhìn chung, bệnh nhân mắc NAFLD có tỉ lệ tử vong cao hơn so với người không mắc bệnh. Trong đó, bệnh tim mạch là nguyên nhân tử vong hàng đầu (≥ 40%) ở NAFLD, tiếp theo là các biến chứng liên quan gan như xơ gan, ung thư biểu mô tế bào gan (HCC).
+10. Điều trị bệnh gan nhiễm mỡ ở đâu?
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa, Bệnh viện Đa khoa Tâm Anh là đơn vị y tế uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho các bệnh nhân mắc các vấn đề về gan từ nhẹ đến nặng (gan nhiễm mỡ, viêm gan cấp tính, mạn tính, xơ gan, ung thư gan…). Trung tâm quy tụ đội ngũ bác sĩ Nội – Ngoại – Nội soi tiêu hóa chuyên môn cao, giàu kinh nghiệm, bên cạnh đó là sự hỗ trợ của hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.

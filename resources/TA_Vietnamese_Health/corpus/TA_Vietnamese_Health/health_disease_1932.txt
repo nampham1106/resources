@@ -1,0 +1,67 @@
+# doc_id = health_disease_1932
+# url = https://tamanhhospital.vn/ung-thu-vu-her2-thap/
+# date = 12/12/2023
+Ung thư vú HER2 thấp: Nguyên nhân, dấu hiệu và phòng ngừa
+Ung thư vú HER2 thấp chiếm khoảng 50% tổng số trường hợp ung thư vú [1]. Đây là loại ung thư vú mới, đặc trưng bởi hàm lượng protein HER2 thấp. Vậy ung thư vú HER2 thấp là gì? Nguyên nhân, dấu hiệu và phòng ngừa ra sao? Bài viết sau đây của thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang, Trưởng khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM sẽ giúp giải đáp những thắc mắc trên.
+Mục lụcHER2 là gì?Ung thư vú HER2 thấp là gì?Triệu chứng của ung thư vú HER2 thấpUng thư vú thấp HER2 có nguy hiểm không?Chẩn đoán xác định bị ung thư vú HER2 thấp thế nào?1. Hóa mô miễn dịch (IHC)2. Lai huỳnh quang tại chỗ (FISH)Phương pháp điều trị bệnh ung thư vú HER2 thấp1. Liệu pháp nhắm mục tiêuHER2 là gì?
+HER2 (thụ thể yếu tố tăng trưởng biểu bì 2 ở người) là một loại protein kiểm soát sự phát triển và tồn tại của các tế bào khỏe mạnh. Một số bệnh ung thư bao gồm ung thư vú, có thể tạo ra HER2 với lượng cao hơn bình thường.
+Ung thư vú tạo ra lượng HER2 cao hơn bình thường được gọi là dương tính với HER2. Trong khi ung thư vú tạo một lượng nhỏ hoặc không có protein HER2 được gọi là âm tính với HER2.
+HER2 thấp mô tả 1 loại ung thư vú mới tạo ra một số protein HER2 nhưng không đủ để được phân loại là HER2 dương tính.
+Ung thư vú HER2 thấp là gì?
+Khi được chẩn đoán mắc ung thư vú xâm lấn hoặc di căn, tình trạng HER2 của khối u (khối lượng tế bào phân chia nhanh) sẽ được xác định và đưa ra quyết định điều trị. Ung thư vú xâm lấn nghĩa là các tế bào ung thư đã lan sang những mô xung quanh. Trong khi ung thư vú di căn đã lan đến các bộ phận khác của cơ thể, ví dụ: xương hoặc não.
+Ung thư vú HER2 thấp là một phân nhóm ung thư vú “ở giữa”, gồm HER2 dương tính và HER2 âm tính. Các tế bào ung thư có một số protein HER2 trên bề mặt nhưng không đủ để xem là dương tính với HER2.
+Trước đây, ung thư vú có HER2 thấp được phân loại và điều trị dưới dạng ung thư vú âm tính với HER2 vì không có đủ protein HER2 để thuốc nhắm mục tiêu HER2 có hiệu quả. Tuy nhiên, liệu pháp nhắm mục tiêu HER2 được phê duyệt vào năm 2022 có hiệu quả chống lại ung thư vú có HER2 thấp. Điều này mang lại hy vọng và tăng thêm thời gian cho những trường hợp không còn các lựa chọn điều trị khác.
+Bên cạnh tình trạng HER2, một số yếu tố khác cũng được xem xét khi lập kế hoạch điều trị ung thư vú cho từng người bệnh. Một số yếu tố gồm:
+Giai đoạn ung thư (tình trạng di căn và số lượng tế bào ung thư trong cơ thể).
+Tình trạng thụ thể hormone (khối u có protein mà hormone estrogen hoặc progesterone có thể gắn vào và kích thích tăng trưởng, gồm ER+, ER-, PR+, PR-).
+Sự hiện diện của đột biến gen BRCA1 và BRCA2.
+Những vấn đề cần điều trị và tình trạng mãn kinh của người bệnh.
+Triệu chứng của ung thư vú HER2 thấp
+Các triệu chứng của ung thư vú có HER2 thấp cũng tương tự các triệu chứng của ung thư vú HER2 dương tính và ung thư vú HER2 âm tính.
+Ung thư vú dương tính với HER2 có xu hướng tiến triển mạnh nhất được xem là sự khác biệt chính giữa các phân nhóm HER2. Protein HER2 dư thừa trên bề mặt tế bào ung thư khiến khối u phát triển và lan rộng nhanh chóng (di căn). Ung thư vú dương tính với HER2 cũng có nhiều khả năng tái phát hơn.
+Các triệu chứng của ung thư vú có HER2 thấp gồm:
+Khối u ung thư vú (triệu chứng đầu tiên thường gặp nhất).
+Sưng 1 phần hoặc toàn bộ vú.
+Đau vú hoặc núm vú.
+Thay đổi ở da vú: lúm đồng tiền, đỏ, bong tróc hoặc dày lên.
+Núm vú tiết dịch hoặc có máu.
+Núm vú thụt vào trong.
+Sưng hạch bạch huyết ở nách hoặc gần xương đòn.
+Tại thời điểm chẩn đoán, từ 5% – 8% tổng số người mắc ung thư vú khi đến gặp bác sĩ đã có các triệu chứng di căn. Vị trí di căn phổ biến nhất của ung thư vú và các triệu chứng liên quan gồm:
+Xương: đau và gãy xương.
+Phổi: khó thở, ho dai dẳng và ho ra máu.
+Gan: khó chịu hoặc sưng ở vùng bụng bên phải; vàng da, vàng mắt và chán ăn.
+Não: đau đầu, suy nhược, tê, yếu liệt, thị lực thay đổi đáng kể.
+Các triệu chứng của ung thư vú có HER2 thấp cũng tương tựcác triệu chứng của ung thư vú có HER2 dương tính và HER2 âm tính.
+Ung thư vú thấp HER2 có nguy hiểm không?
+Điều trị ung thư vú rất phức tạp và đòi hỏi cách tiếp cận từng cá thể. Trạng thái của HER dù cao hay thấp đều nên được xem xét, vì vậy, tình trạng này không thể coi là hoàn toàn “tốt” hay “xấu”.
+Như đã nói, HER2 chắc chắn là 1 tiên lượng (thước đo kết quả điều trị) quan trọng trong bệnh ung thư vú. Mặc dù ung thư dương tính với HER2 trước đây cho kết quả kém nhưng việc phát hiện các liệu pháp nhắm vào HER2 đã thay đổi quan điểm này, từ đó dẫn đến kết quả điều trị tốt hơn, bao gồm cả tiên lượng sống.
+Liên quan đến ung thư vú có HER2 thấp, các chuyên gia vẫn đang tìm hiểu thêm về loại này. Tuy nhiên, thực tế ung thư đáp ứng với các liệu pháp nhắm vào HER2 như Enhertu là một điều trị đầy hứa hẹn.
+Trong một thử nghiệm, gần 500 người tham gia mắc ung thư vú di căn thấp HER2 đã điều trị trước đó và được chọn ngẫu nhiên để điều trị bằng Enhertu hoặc hóa trị. Những người tham gia dùng Enhertu có nguy cơ tiến triển bệnh (xấu đi) thấp hơn khoảng 50% và nguy cơ thấp hơn 36% tử vong cao hơn so với những người được điều trị bằng hóa trị.
+Chẩn đoán xác định bị ung thư vú HER2 thấp thế nào?
+Sau khi phát hiện khối u ung thư vú, bác sĩ sẽ sinh thiết mẫu mô và gửi đi xét nghiệm đặc biệt, nhằm xác định xem tế bào ung thư có mức protein HER2 cao, thấp hay bình thường. Mức độ protein HER2 giúp phân loại ung thư vú, từ đó đưa ra kế hoạch điều trị phù hợp.
+Ung thư vú có HER2 thấp chứa protein HER2 trên bề mặt tế bào, nhưng không đủ để được phân loại là dương tính với HER2. Tình trạng HER2 được xác định bằng cách thực hiện hóa mô miễn dịch (IHC) và lai huỳnh quang tại chỗ (FISH) trên mẫu mô ung thư vú.
+1. Hóa mô miễn dịch (IHC)
+Hóa mô miễn dịch do bác sĩ giải phẫu bệnh (bác sĩ chuyên phân tích các mô cơ thể) xem xét mẫu mô dưới kính hiển vi và đo các loại protein khác nhau.
+Hóa mô miễn dịch (IHC) là xét nghiệm đầu tiên được thực hiện trong phòng thí nghiệm để xác định tình trạng HER2.
+Để phát hiện tình trạng HER2 của 1 người, phương pháp hóa mô miễn dịch giúp đo số lượng thụ thể protein HER2 (vị trí gắn kết) trên bề mặt tế bào ung thư vú:
+Điểm IHC là 0 hoặc 1+: ung thư âm tính với HER2.
+Điểm IHC là 3+: ung thư dương tính với HER2.
+Nếu điểm IHC là 2+, phương pháp lai huỳnh quang tại chỗ (FISH, CISH hoặc dual ISH) sẽ được thực hiện tiếp theo.
+2. Lai huỳnh quang tại chỗ (FISH)
+FISH giúp phát hiện gen mã hóa protein HER2 và xem có bao nhiêu bản sao. Nếu FISH dương tính (có 2 bản sao của gen), ung thư dương tính với HER2; nếu âm tính thì khối u có HER2 thấp.
+Tình trạng HER2 được xác định bằng cách thực hiện hóa mô miễn dịch (IHC) và lai huỳnh quang tại chỗ (FISH) trên mẫu mô ung thư vú.
+Phương pháp điều trị bệnh ung thư vú HER2 thấp
+Điều trị ung thư vú, kể cả HER2 thấp, nhằm mục đích hạn chế sự phát triển và di căn của các tế bào ung thư vú và ngừa bệnh tái phát.
+1. Liệu pháp nhắm mục tiêu
+Liệu pháp nhắm mục tiêu là những loại thuốc nhắm vào các protein cụ thể, nhằm tiêu diệt hoặc làm chậm sự phát triển của tế bào ung thư vú. Phương pháp này khác với hóa trị vì thường hướng tới các tế bào cụ thể, không phải tất cả các tế bào khỏe mạnh, phát triển nhanh trong cơ thể.
+Trước đây, ung thư vú có HER2 thấp được phân loại và điều trị dưới dạng ung thư vú âm tính với HER2. Không có liệu pháp nhắm mục tiêu nào có sẵn cho đến tháng 8 năm 2022, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt Enhertu (fam-trastuzumab deruxtecan) – loại thuốc nhắm mục tiêu đầu tiên điều trị ung thư vú có HER2 thấp. [2]
+Enhertu (T-DXd) được sử dụng cho người mắc bệnh nhưng không thể phẫu thuật hoặc ung thư vú di căn có HER2 thấp:
+Từng hóa trị 1 lần vì ung thư vú di căn.
+Ung thư tái phát trong 6 tháng sau khi kết thúc hóa trị hoặc trải qua phẫu thuật.
+Enhertu là loại thuốc tiêm tĩnh mạc, gồm 1 kháng thể đơn dòng (loại protein nhân tạo liên kết với 1 mục tiêu cụ thể trên bề mặt tế bào) được kết nối về mặt hóa học với 1 loại thuốc hóa trị. Trong trường hợp này, kháng thể đơn dòng là trastuzumab và thuốc hóa trị là deruxtecan.
+Ngoài ra, có nhiều phương pháp điều trị ung thư vú, gồm phẫu thuật, xạ trị, hóa trị, liệu pháp hormone, liệu pháp miễn dịch và liệu pháp nhắm mục tiêu.
+Thạc sĩ bác sĩ Nguyễn Đỗ Thùy Giang – Trưởng khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM đang tư vấn và kiểm tra sức khỏe cho người bệnh.
+Khoa Ngoại Vú, Bệnh viện Đa khoa Tâm Anh TP.HCM quy tụ đội ngũ chuyên gia đầu ngành, bác sĩ chuyên khoa giàu kinh nghiệm trong khám, tư vấn, chẩn đoán và chữa trị chuyên sâu các bệnh tuyến vú như bất thường bẩm sinh, u lành tính, vú phì đại hoặc sa trễ và ung thư vú.
+Song song đó, bệnh viện còn được trang bị hệ thống máy móc hiện đại, nhập khẩu chính hãng từ các nước Âu – Mỹ nhằm đưa ra những chẩn đoán chính xác, chẳng hạn như máy chụp nhũ ảnh 3D, siêu âm đàn hồi, máy chụp cộng hưởng từ (MRI)… từ đó, giúp người bệnh cảm thấy hài lòng, an tâm khi lựa chọn khám, điều trị tại khoa Ngoại Vú, BVĐK Tâm Anh TP.HCM.
+Mặc dù vẫn còn nhiều điều cần tìm hiểu về bệnh ung thư vú HER2 thấp, tuy nhiên, việc phát hiện liệu pháp nhắm vào HER2 có tên Enhertu (trastuzumab deruxtecan) hiệu quả chống lại bệnh ung thư vú có HER2 thấp, không thể cắt bỏ hoặc di căn, mang lại nhiều hy vọng cho người bệnh ung thư vú hiện tại và tương lai.

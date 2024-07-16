@@ -1,0 +1,103 @@
+# doc_id = health_disease_2777
+# url = https://tamanhhospital.vn/lieu-phap-oxy/
+# date = 20/03/2023
+Liệu pháp oxy là gì? Đối tượng nào cần sử dụng? Có lợi hay hại?
+Dù thở bằng miệng hay mũi, cơ thể chúng ta cũng hít không khí vào phổi với hàm lượng 80% nitơ và 20% oxy. Khí oxy không màu, không mùi, không vị. Phổi sẽ hấp thu oxy từ không khí và chuyển oxy qua mạch máu đến các cơ quan, mô và tế bào giúp duy trì sự sống.
+Tuy nhiên, nếu đường hô hấp gặp vấn đề, không thể tự thở hoặc không thể nhận đủ oxy cần thiết vào phổi một cách tự nhiên buộc phải can thiệp liệu pháp oxy. Vậy liệu pháp oxy là gì? Đối tượng nào cần sử dụng? Dùng liệu pháp oxy có lợi hay hại? Bài viết dưới đây chia sẻ về cách sử dụng liệu pháp oxy trong y học.
+Mục lụcLiệu pháp oxy là gì?Liệu pháp oxy dùng để làm gì?Đối tượng nào cần liệu pháp oxy?Các loại hệ thống trị liệu oxy là gì?Làm thế nào để các hệ thống trị liệu oxy cung cấp oxy?Mức oxy khỏe mạnh là gì?Dấu hiệu của mức oxy thấp (thiếu oxy)?Những lợi ích của liệu pháp oxy?Tác dụng phụ có thể gặp của liệu pháp oxyLiệu pháp oxy có an toàn không?Khi nào cần gặp bác sĩ?Sử dụng liệu pháp oxy cần lưu ý những gì?Liệu pháp oxy là gì?
+Liệu pháp oxy là phương pháp đưa một lượng oxy thích hợp vào cơ thể, cung cấp oxy cho máu động mạch và cải thiện tình trạng thiếu oxy ở các mô tế bào ngoại vi. Bởi lúc này, phổi không nhận đủ oxy phân phối đến các tế bào nên máu thiếu oxy khiến cơ thể không hoạt động bình thường. (1)
+Nếu không cung cấp kịp oxy, tình trạng thiếu oxy trong máu kéo dài có thể dẫn đến tổn thương cơ quan gây suy đa cơ quan, tử vong. Người bệnh muốn sử dụng liệu pháp oxy phải được nhân viên y tế thực hiện bằng cách sử dụng ống thông hoặc mặt nạ.
+Liệu pháp oxy dùng để làm gì?
+Liệu pháp oxy dùng phổ biến trong y học với mục đích điều trị trong các trường hợp suy hô hấp như người mắc bệnh hen phế quản, COPD, COVID-19, khí phế thũng, hội chứng ngưng thở khi ngủ và các bệnh lý hô hấp khác.
+Liệu pháp oxy được ví như phương thức hỗ trợ hệ hô hấp; người bệnh sau khi điều trị sẽ nhận đủ lượng oxy cần thiết để cải thiện giấc ngủ, tăng năng lượng cho cơ thể, duy trì hoạt động hàng ngày, từ đó cải thiện chất lượng cuộc sống tốt hơn.
+Thế nhưng, oxy khi đưa vào người bệnh cũng giống như các loại thuốc. Việc sử dụng liệu pháp oxy cũng cần được chỉ định điều trị rõ ràng, liều lượng thích hợp, bởi nếu chỉ định và dùng liều lượng oxy không đúng và không theo dõi có thể gây hậu quả nghiêm trọng.
+Liệu pháp oxy thường được dùng trong việc điều trị các trường hợp suy hô hấp.
+Đối tượng nào cần liệu pháp oxy?
+Bác sĩ điều trị thường chỉ định sử dụng liệu pháp oxy cho những người bệnh rơi vào tình trạng phổi bị ngăn cản nhận đủ oxy, thường khi nồng độ oxy trong máu dưới 88%. Một số người cần liệu pháp oxy mọi lúc, một số người chỉ thỉnh thoảng được chỉ định hoặc trong một số tình huống nhất định.
+Người bình thường, mức oxy trong máu động mạch dao động từ 75 đến 100 mmHg.
+Người cần được bổ sung oxy khi mức oxy máu động mạch từ 60 mmHg trở xuống.
+Mức oxy không được vượt quá 110 mmHg. Nếu cung cấp quá nhiều oxy có thể làm hư các tế bào trong phổi.
+Nhóm người bệnh thường được chỉ định dùng liệu pháp oxy gồm:
+Bệnh phổi tắc nghẽn mạn tính (COPD)
+COVID-19
+Viêm phế quản mạn hoặc khí phế thũng
+Viêm phổi
+Hen suyễn
+Loạn sản phế quản phổi (BPD) dạng bệnh phổi mạn tính ở trẻ sơ sinh non tháng.
+Suy tim
+Bệnh xơ nang, xơ phổi
+Hội chứng ngưng thở khi ngủ
+Bệnh phổi
+Ung thư phổi hoặc các bệnh ung thư khác
+Hệ hô hấp bị chấn thương
+Người sinh sống hoặc đi du lịch ở khu vực có độ cao lớn, nồng độ oxy loãng.
+Để xác định liệu một người bị thiếu oxy hay không, bác sĩ sẽ kiểm tra lượng oxy trong máu động mạch bệnh nhân. Hoặc người bệnh được sử dụng máy đo oxy xung (SpO2) để đo nồng độ oxy một cách gián tiếp hoặc độ bão hòa oxy mà không cần lấy mẫu máu. Cụ thể:
+Máy đo oxy xung: dạng thiết bị nhỏ này dùng để kẹp vào ngón tay, ngón chân hoặc dái tai người bệnh một cách dễ dàng, không đau. Trong thiết bị này có bộ phận cảm biến, giúp gửi các chùm ánh sáng qua da người bệnh để đo nồng độ oxy trong các mạch máu nhỏ (mao mạch). Kể từ sau đại dịch COVID-19, nhiều người dân cũng quen với việc sử dụng thiết bị này mua ở nhà thuốc để tự kiểm tra nồng độ oxy trong máu hơn. Tại các bệnh viện, thiết bị này cũng được sử dụng nhiều để kiểm tra oxy máu cho người bệnh đến khám hoặc đang điều trị.
+Xét nghiệm khí máu động mạch: sử dụng mẫu máu từ động mạch để đo nồng độ oxy và carbon dioxide trong máu cho người bệnh. Phương pháp xét nghiệm này cho kết quả chính xác nhất để xác định chức năng phổi đang trong tình trạng ra sao.
+Đo chức năng hô hấp: dùng để đo các dòng khí khi người bệnh hít vào và thở ra, từ đó tính toán được các thông số đánh giá chức năng phổi.
+Người bệnh cần lưu ý: liệu pháp oxy được thực hiện tại các cơ sở y tế hoặc tại nhà và phải được bác sĩ tư vấn, hỗ trợ, chỉ định cụ thể cho từng ca bệnh.
+Bác sĩ sẽ chỉ định sử dụng liệu pháp oxy cho người bệnh rơi vào tình trạng phổi bị ngăn cản nhận đủ oxy.
+Các loại hệ thống trị liệu oxy là gì?
+Oxy có ở dạng khí hoặc lỏng. Hệ thống oxy có thể lớn hoặc nhỏ, cố định để sử dụng tại cơ sở y tế, tại nhà hoặc xách tay di động.
+Khí nén: lưu trữ 100% oxy dưới dạng khí, chứa trong một xi lanh lớn bằng kim loại. Xi lanh có một bộ điều chỉnh để kiểm soát lưu lượng oxy. Trên bình xi lanh này có thiết bị cung cấp oxy cho người bệnh. Khi bình hết oxy, máy đo hiển thị mức oxy sẽ thông báo bình rỗng để thay thế. Người bệnh luôn có sẵn bình oxy dự phòng.
+Oxy lỏng: lưu trữ oxy nguyên chất dưới dạng chất lỏng rất lạnh và được đựng trong bình chứa giống như bình giữ nhiệt. Khi người bệnh sử dụng, bình sẽ giải phóng oxy, chất lỏng sẽ chuyển thành khí để hít vào phổi dễ dàng. Bình chứa nhỏ có thể mang theo khi đi du lịch, công tác.
+Bộ tập trung oxy: thiết bị này chạy bằng điện hoặc pin, có nhiệm vụ hút không khí ra khỏi phòng. Sau đó, máy tách và nén oxy từ không khí, đồng thời loại bỏ khí tự nhiên khác, như khí nitơ giúp người bệnh hít thở không khí trong lành. Bộ tập trung là hệ thống di động truyền oxy dễ di chuyển nhất, đảm bảo không bao giờ hết oxy.
+Làm thế nào để các hệ thống trị liệu oxy cung cấp oxy?
+Sau khi khám kiểm tra sức khỏe, tùy thuộc vào tình trạng bệnh của mỗi cá nhân, bác sĩ sẽ chỉ định về phương pháp truyền oxy và nhu cầu oxy của bạn. Người bệnh sẽ được truyền oxy thông qua:
+Ống thông: một ống nhỏ có ngạnh ở mỗi đầu để đặt vào bên trong lỗ mũi người bệnh.
+Mặt nạ: có thể truyền khí oxy vào mũi, hỗ trợ đường thở mà không cần phải xâm lấn can thiệp bằng đường mổ.
+Đặt ống nội khí quản hoặc mở khí quản: người bệnh có chỉ định sẽ được đặt ống vào đường thở hoặc mở khí quản, giúp đưa oxy vào.
+Bài viết liên quan:Thở oxy qua mặt nạ là gì? Ưu điểm và nhược điểm? Lưu ý cần biết
+Mức oxy khỏe mạnh là gì?
+Mức oxy khỏe mạnh là khi nồng độ bão hòa oxy trong máu của bạn đạt từ 95% trở lên. Một khi cơ thể nhận đủ nồng độ oxy trong máu thì người bệnh cảm thấy đủ năng lượng, giấc ngủ ngon hơn.
+Dấu hiệu của mức oxy thấp (thiếu oxy)?
+Nếu mức oxy xuống thấp quá ít so với tiêu chuẩn chung, đôi khi khó nhận ra. Do đó, không phải lúc nào người bệnh cũng nhận biết khi nào nồng độ oxy trong máu đang xuống thấp. Bạn cần đến ngay bệnh viện nếu mức oxy xuống thấp kèm các triệu chứng như:
+Hụt hơi, thở nhanh
+Da xanh, môi và móng tay nhợt nhạt
+Đau đầu dữ dội
+Ho, khó thở, thở khò khè
+Đổ mồ hôi
+Mạch và nhịp tim nhanh
+Lú lẫn
+Những lợi ích của liệu pháp oxy?
+Liệu pháp oxy không thể chữa khỏi vấn đề về hô hấp và các bệnh liên quan hô hấp nhưng phương pháp này hỗ trợ cho cơ thể nhận được lượng oxy cần thiết để giữ cho các cơ quan khỏe mạnh và hoạt động tốt khi đang bị bệnh. Những lợi ích dưới đây do liệu pháp oxy mang lại:
+Bớt khó thở hơn.
+Giảm nhức đầu, cáu gắt, mệt mỏi.
+Nhiều năng lượng và hoạt động thể chất nhiều hơn.
+Giúp ích cho sự tăng trưởng và phát triển của trẻ mắc bệnh phổi mạn tính.
+Ngủ tốt hơn.
+Tác dụng phụ có thể gặp của liệu pháp oxy
+Khi truyền oxy vào cơ thể, người bệnh có thể gặp những tác dụng phụ sau:
+Mệt mỏi.
+Nhức đầu, đặc biệt là vào buổi sáng.
+Chảy máu cam (chảy máu cam).
+Liệu pháp oxy có an toàn không?
+Đây là liệu pháp an toàn cho người bệnh, tuy nhiên oxy không bắt lửa nhưng có thể khiến lửa cháy nhanh, bùng phát mạnh hơn. Vì vậy, khi sử dụng oxy, người bệnh cần lưu ý những điều sau: (2)
+Không hút thuốc gần bình dưỡng khí và tránh xa lửa (bếp gas, nến, lò sưởi…) ít nhất 2,5 m.
+Không lăn bình oxy, hãy cố định bình ở vị trí thẳng đứng vào giá đỡ hoặc vật cố định. Tránh để bình oxy bị đổ hoặc lăn có thể bị nứt, tạo ra áp suất có thể làm bình nổ.
+Chọn nơi thông thoáng khí trời, khô ráo để bảo quản bình oxy, để tránh lượng nhỏ oxy bị phát tán ra trong nhà không bị ứ đọng bắt lửa.
+Không sử dụng các vật liệu dễ cháy như: bình xịt aerosol, vật liệu làm sạch và các sản phẩm dầu (dầu mỏ) lại gần bình oxy.
+Nhà có người sử dụng bình oxy, tốt nhất nên chọn quần áo và ga trải giường bằng vải cotton thay vì len, nylon và các chất liệu tổng hợp, có thể tạo ra tia lửa tĩnh điện.
+Trang bị bình chữa cháy, chuông báo cháy trong nhà và biết cách sử dụng nó.
+Sử dụng liệu pháp oxy theo chỉ định của bác sĩ, tránh hấp thụ nhiều oxy hơn nhu cầu của cơ thể, có thể làm ngộ độc, chậm nhịp thở, rối loạn nhịp tim gây nguy hiểm.
+Các dấu hiệu ngộ độc oxy bao gồm:
+Đau ngực
+Khó thở
+Chóng mặt
+Co thắt cơ bắp
+Buồn nôn
+Mờ mắt
+Dùng liệu pháp oxy theo chỉ định của bác sĩ, tránh hấp thụ nhiều oxy hơn nhu cầu của cơ thể gây ngộ độc, chậm nhịp thở, rối loạn nhịp tim.
+Khi nào cần gặp bác sĩ?
+Người bệnh đi gặp bác sĩ nếu khó thở, nhất là khi mắc bệnh hô hấp kèm các dấu hiệu sau:
+Đau ngực
+Nhầm lẫn hoặc mất trí nhớ
+Chóng mặt
+Khó thở cực độ
+Buồn nôn và ói mửa
+Nhức đầu dữ dội
+Sử dụng liệu pháp oxy cần lưu ý những gì?
+Người bệnh cần tuân thủ và làm theo hướng dẫn của bác sĩ điều trị, bởi tùy tình trạng bệnh, người bệnh sẽ được sử dụng những loại hệ thống cung cấp oxy khác nhau.
+Ngoài ra, thời gian sử dụng oxy cũng không giống nhau, có trường hợp, người bệnh chỉ cần oxy khi ngủ, khi tập thể dục nhưng có khi phải sử dụng 24 giờ mỗi ngày.
+Thông tin cho bác sĩ biết loại thuốc đang sử dụng.
+Liệu pháp oxy có vai trò quan trọng trong việc điều trị các trường hợp suy hô hấp. Tuy nhiên, bác sĩ sẽ chỉ định sử dụng tùy tình trạng bệnh khác nhau. Việc sử dụng liệu pháp oxy cũng cần được chỉ định điều trị rõ ràng, liều lượng thích hợp, nếu sử dụng không đúng và không theo dõi có thể gây nguy hiểm đến sức khỏe.

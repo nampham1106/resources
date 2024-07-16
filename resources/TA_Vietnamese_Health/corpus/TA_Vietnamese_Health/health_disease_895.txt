@@ -1,0 +1,86 @@
+# doc_id = health_disease_895
+# url = https://tamanhhospital.vn/ung-thu-buong-trung-giai-doan-3/
+# date = 02/01/2024
+Ung thư buồng trứng giai đoạn 3: Triệu chứng, chẩn đoán và điều trị
+Ung thư buồng trứng (UTBT) là bệnh lý phụ khoa ác tính thường gặp ở nữ giới, theo thống kê tại Việt Nam có 1404 ca bệnh mới mắc và 923 ca tử vong do bệnh (SEER 2020). UTBT thường được phân thành 4 giai đoạn theo phân loại FIGO I, II, III, IV với tỷ lệ sống còn 5 năm tương ứng là 89%, 71%, 41% và 20% (theo AJCC 6th). Khoảng 60% bệnh nhân nhận chẩn đoán mắc ung thư buồng trứng giai đoạn 3, gây nhiều khó khăn khi điều trị.
+Ung thư buồng trứng giai đoạn 3 là sự ghi nhận các tế bào ung thư xuất hiện ở 1 hoặc cả 2 buồng trứng hay vòi tử cung, gieo rắc tế bào u vào phúc mạc ngoài vùng chậu hay di căn hạch vùng. Khoảng 60% bệnh nhân được chẩn đoán mắc ung thư buồng trứng khi bệnh đã bước sang giai đoạn III (giai đoạn tiến xa tại chỗ-tại vùng) dẫn tới việc điều trị khó khăn hơn và tiên lượng kém hơn so với bệnh ở giai đoạn sớm. Điều trị nền tảng cho giai đoạn này là hóa trị và phẫu thuật kết hợp với điều trị toàn thân khác (như điều trị nhắm đích với bevacizumab,..).
+Mục lụcUng thư buồng trứng giai đoạn III là gì?Ung thư buồng trứng giai đoạn III có chữa được không?Giải mã phân đoạn trong ung thư buồng trứng giai đoạn III1. Ung thư buồng trứng giai đoạn IIIA2. Ung thư buồng trứng giai đoạn IIIB3. Ung thư buồng trứng giai đoạn IIICCác dấu hiệu và triệu chứng của ung thư buồng trứngTiên lượng tỷ lệ sống giai đoạn III ung thư buồng trứngChẩn đoán ung thư buồng trứng giai đoạn IIIĐiều trị ung thư buồng trứng giai đoạn III1. Phẫu thuật2. Hóa trị bổ trợ trước (hay còn gọi là hóa trị tân bổ trợ)3. Hóa trị sau phẫu thuật (hay hóa trị bổ trợ)4. Phương pháp điều trị nhắm đíchSống chung với bệnh ung thư buồng trứng giai đoạn IIIUng thư buồng trứng giai đoạn III là gì?
+Ung thư buồng trứng giai đoạn III: các tế bào ung thư có thể biểu hiện ở 1 hoặc cả 2 buồng trứng/vòi tử cung, gieo rắc các tế bào ung thư vào trong phúc mạc ổ bụng ngoài vùng chậu (ví dụ như các tế bào ung thư cũng có thể reo rắc trên bề mặt của gan, lá lách,….) hay di căn tới hạch bạch huyết vùng. (1)
+K buồng trứng giai đoạn III ghi nhận sự di căn hạch.
+Khoảng 60% bệnh nhân được phát hiện ung thư buồng trứng khi bệnh đã bước sang giai đoạn III (giai đoạn tiến xa tại chỗ-tại vùng).
+Theo phân loại về mô bệnh học, ung thư buồng trứng có thể chia thành 3 loại chính:
+Ung thư biểu mô buồng trứng.
+Ung thư mô đệm.
+Ung thư tế bào mầm.
+Thông thường, ung thư buồng trứng được chia thành 4 giai đoạn theo phân loại FIGO nhằm xác định mức độ bệnh, sự xâm lấn đến các cơ quan khác nhằm xây dựng phác đồ điều trị thích hợp, lựa chọn phương pháp điều trị phù hợp cũng như đưa ra tiên lượng sống còn cho người bệnh .
+Xem thêm:
+4 giai đoạn ung thư buồng trứng: Cách đánh giá và chẩn đoán chi tiết.
+Ung thư buồng trứng giai đoạn 1: Triệu chứng, chẩn đoán và điều trị.
+Ung thư buồng trứng giai đoạn 2: Triệu chứng, chẩn đoán và điều trị.
+Ung thư buồng trứng giai đoạn 4: Triệu chứng, điều trị và tiên lượng.
+Ung thư buồng trứng giai đoạn III có chữa được không?
+CÓ, tuy nhiên hiệu quả điều trị thành công thấp hơn nhiều so với giai đoạn sớm ung thư buồng trứng. Phương pháp điều trị chính cho những bệnh nhân ở giai đoạn này là phẫu thuật và hóa trị. Bệnh nhân có thể được phẫu thuật trước, sau đó nhận điều trị hóa trị bổ trợ; hoặc người bệnh có thể nhận điều trị hóa trị bổ trợ trước (còn gọi là hóa trị tân bổ trợ) nhằm mục đích giảm thiểu kích thước khối u cũng như tạo thuận lợi cho phẫu thuật sau đó.
+Xu hướng điều trị hiện nay theo khuyến cáo từ các Hiệp hội Ung thư lớn như Hoa Kỳ (NCCN) hay châu Âu (ESMO) cho nhóm bệnh nhân giai đoạn III đã nghiêng về lựa chọn điều trị hóa trị trước, theo sau bởi phẫu thuật giảm tổng khối bướu. Hiệu quả điều trị có thể được đánh giá dựa trên mức độ đáp ứng một phần hoặc hoàn toàn với hóa trị tân bổ trợ, với những bệnh nhân có đáp ứng hoàn toàn với hóa trị tân bổ trợ mang lại tiên lượng tốt hơn với nhóm đáp ứng một phần. Điều trị nhắm đích với thuốc kháng sinh mạch bevacizumab có thể được chỉ định cho nhóm bệnh nhân này, đặc biệt mang lại hiệu quả cải thiện tiên lượng sống còn toàn bộ trên nhóm bệnh nhân nguy cơ cao giai đoạn III.
+Giải mã phân đoạn trong ung thư buồng trứng giai đoạn III
+Hệ thống phân loại ung thư buồng trứng giai đoạn III thường dựa trên phân loại giai đoạn theo FIGO sử dụng trên lâm sàng. Theo đó, hệ thống phân đoạn ung thư FIGO chia ung thư buồng trứng thành 4 giai đoạn: FIGO I đến FIGO IV. Ung thư buồng trứng giai đoạn III được chẩn đoán khi tế bào ung thư phát triển gieo rắc phúc mạc ổ bụng ngoài vùng chậm hay tế bào ung thư được thấy trong các hạch bạch huyết vùng và chưa phát hiện di căn cơ quan xa. (2)
+1. Ung thư buồng trứng giai đoạn IIIA
+Giai đoạn IIIA1: Di căn hạch sau phúc mạc.
+Giai đoạn IIIA2: Xâm lấn phúc mạc ngoài vùng chậu trên vi thể ± di căn hạch sau phúc mạc.
+Ung thư buồng trứng thường được tìm thấy ở những phụ nữ sau mãn kinh.
+2. Ung thư buồng trứng giai đoạn IIIB
+Di căn phúc mạc ngoài vùng chậu trên đại thể với kích thước khối di căn ≤2 cm ± di căn hạch sau phúc mạc; gồm cả gieo rắc tế bào u tại vị trí vỏ bao gan/lách.
+3. Ung thư buồng trứng giai đoạn IIIC
+Di căn phúc mạc ngoài vùng chậu trên đại thể với kích thước khối di căn >2cm ± hạch sau phúc mạc dương tính; gồm cả gieo rắc tế bào u tại vị trí vỏ bao gan/lách. (3)
+Các dấu hiệu và triệu chứng của ung thư buồng trứng
+Ở giai đoạn sớm, bệnh nhân thường biểu hiện ít triệu chứng trên lâm sàng, các triệu chứng không đặc hiệu, thậm chí không biểu hiện triệu chứng gì, do đó mà phần lớn ca bệnh được chẩn đoán ở giai đoạn tiến xa.
+Các triệu chứng có thể gặp như:
+Các triệu chứng toàn thân: như mệt mỏi, chán ăn, gầy sút cân, bụng chướng, nôn, buồn nôn ..
+Người bệnh có thể cảm thấy có khối trong ổ bụng.
+Đau bụng, đau tức vùng bụng chậu thoáng qua
+Đầy bụng, khó tiêu, rối loạn chức năng tiêu hóa (táo bón do u chèn ép trực tràng), trào ngược dạ dày,..
+Thường xuyên đi tiểu, tiểu dắt do kích thích bàng quang.
+Ra máu âm đạo
+Khó thở, đau nhức xương, đau đầu, nổi hạch,..
+Huyết khối chi dưới gây phù chân, đau chân.
+Các triệu chứng của hội chứng cận u,..
+Tiên lượng tỷ lệ sống giai đoạn III ung thư buồng trứng
+Người bệnh ung thư buồng trứng giai đoạn III sống được bao lâu? Theo các kết quả nghiên cứu, tỷ lệ sống sót qua 5 năm kể từ thời điểm phát hiện bệnh ung thư buồng trứng giai đoạn III khoảng 41%. Tuy nhiên ThS.BS Lưu Thảo Ngọc nhấn mạnh, các số liệu thống kê chỉ mang tính chất tham khảo. Các yếu tố khác như tình trạng sức khỏe chung của người bệnh, bệnh lý nền, giai đoạn ung thư, loại giải phẫu bệnh, khả năng đáp ứng phác đồ điều trị,… sẽ ảnh hưởng đến hiệu quả điều trị ung thư buồng trứng giai đoạn III. (4)
+Tỷ lệ sống thêm sau 5 năm cho ung thư buồng trứng theo loại giải phẫu bệnh cụ thể như sau (theo SEER 2011-2017):
+Ung thư biểu mô buồng trứng: 49%
+Các khối u tế bào mầm buồng trứng: 93%
+Các khối u mô đệm buồng trứng: 90%
+Khoảng 78% bệnh nhân ung thư buồng trứng có thể sống ít nhất 1 năm kể từ thời điểm chẩn đoán bệnh. Hơn 60% bệnh nhân sống ít nhất qua 3 năm và khoảng 50% phụ nữ sống qua 5 năm sau khi phát hiện ung thư buồng trứng. Theo đó, phụ nữ dưới 65 tuổi có tiên lượng sống cao hơn.
+Chẩn đoán ung thư buồng trứng giai đoạn III
+Một số phương pháp chẩn đoán ung thư buồng trứng thường được sử dụng gồm:
+Thăm khám lâm sàng: khai thác bệnh sử gia đình và cá nhân, thăm khám và quan sát toàn thân, khám âm đạo, bàng quang-trực tràng và các cơ quan khác để xác định các bất thường. Sau đó, bác sĩ sẽ chỉ định các xét nghiệm cận lâm sàng để chẩn đoán.
+Xét nghiệm máu nhằm phát hiện chất chỉ điểm khối u: các xét nghiệm chỉ điểm u sẽ được cho tùy theo thể giải phẫu bệnh lý như CEA, CA 125, HE4, CA 72-4, AMH, LH, Inhhibin B. AFP và HCG. Giá trị các xét nghiệm chỉ điểm u này giúp bác sĩ đánh giá đáp ứng điều trị cũng như theo dõi bệnh tái phát.
+Xét nghiệm máu đo nồng độ CA-125 thường được chỉ định để đánh giá đáp ứng điều trị và theo dõi cho các bệnh nhân ung thư biểu mô buồng trứng.
+Một số phương pháp chẩn đoán hình ảnh có thể được chỉ định cho ung thư buồng trứng:
+Siêu âm ổ bụng bụng: quan sát rõ cấu trúc, nang, tế bào trứng… nhằm phát hiện các điểm bất thường (nếu có).
+Chụp cắt lớp vi tính ngực – bụng (CT) hoặc cộng hưởng từ (MRI) vùng bụng-tiểu khung: đánh giá mức độ xâm lấn của khối u, tình trạng di căn hạch bạch huyết, di căn đến các tế bào cơ quan xa.
+Nội soi ổ bụng: Một số trường hợp người bệnh có thể được chỉ định nội soi ổ bụng sinh thiết lấy bệnh phẩm giải phẫu bệnh nhằm phục vụ cho chẩn đoán xác định ung thư buồng trứng, lựa chọn phác đồ hóa trị tân bổ trợ,..
+Nội soi đường tiêu hóa: trong trường hợp loại trừ khối u Krukenberg.
+Xét nghiệm gen di truyền học: Người bệnh có thể được chỉ định xét nghiệm di truyền, đặc biệt với các đối tượng nguy cơ cao nhằm sớm phát hiện gen BRCA1 và BRCA2 (loại gen có khả năng gây ung thư vú, ung thư buồng trứng) để theo dõi, đánh giá và điều trị phòng ngừa từ sớm cho bản thân và cả cá nhân trong gia đình.
+Điều trị ung thư buồng trứng giai đoạn III
+Người bệnh mắc ung thư buồng trứng giai đoạn III ghi nhận tế bào ung thư đã lan rộng đến các cơ quan vùng chậu, xâm lấn các hạch bạch huyết sau vùng bụng. Ước tính chỉ khoảng 40% bệnh nhân sống sót sau hơn 5 năm khi điều trị ung thư buồng trứng giai đoạn III. (5)
+Các phương pháp điều trị ung thư buồng trứng giai đoạn III phổ biến gồm:
+1. Phẫu thuật
+Phương pháp phẫu thuật giảm tổng khối u trong điều trị ung thư buồng trứng giai đoạn III sẽ cắt bỏ tử cung, buồng trứng, vòi tử cung, mạc nối lớn của người bệnh, các hạch bạch huyết và một số mô vùng khung chậu cũng có thể được loại bỏ nếu nghi ngờ chứa tế bào ung thư.
+2. Hóa trị bổ trợ trước (hay còn gọi là hóa trị tân bổ trợ)
+Hóa chất được cho trước phẫu thuật (từ 4-6 chu kỳ) nhằm mục đích thu nhỏ khối bướu, giảm tổng lượng bệnh, chuyển từ giai đoạn không thể mổ được sang giai đoạn mổ được và tạo thuận lợi cho phẫu thuật giảm tổng khối u gian kỳ.
+3. Hóa trị sau phẫu thuật (hay hóa trị bổ trợ)
+Hóa trị bổ trợ (hóa trị sau phẫu thuật): Hóa chất được cho sau phẫu thuật nhằm mục đích tiêu diệt các tế bào ung thư còn sót lại mà quá trình phẫu thuật không thể loại bỏ.
+Một số trường hợp có thể được chỉ định hóa trị nội phúc mạc (IP): Thuốc hóa chất được cho trong cuộc mổ nhằm đưa thuốc tới khoang phúc mạc, tác động trực tiếp đến tế bào ung thư, phương pháp này được áp dụng ở một số trung tâm ung thư. Các tác dụng không mong muốn được ghi nhận như nhiễm trùng, tắc nghẽn, khó chịu,…
+4. Phương pháp điều trị nhắm đích
+Phương pháp điều trị ung thư đích có thể được kết hợp đồng thời với hóa trị. Thuốc thường được sử dụng là thuốc kháng sinh mạch bevacizumab đã mang lại lợi ích về sống còn cho người bệnh ung thư buồng trứng giai đoạn III-IV.
+Sau khi người bệnh được nhận các phương pháp điều trị tối ưu nhất thì bệnh vẫn có nguy cơ tái phát vẫn rất cao. Vì vậy, việc theo dõi định kỳ sau điều trị cho các bệnh nhân ung thư buồng trứng là rất quan trọng, nhằm mục đích phát hiện sớm tái phát và điều trị kịp thời cho người bệnh.
+Sống chung với bệnh ung thư buồng trứng giai đoạn III
+Khi được chẩn đoán K buồng trứng giai đoạn III (giai đoạn tiến xa), người bệnh thường có những lo lắng, sợ hãi nhất định ảnh hưởng không nhỏ đến chất lượng cuộc sống cũng như tinh thần. Để chăm sóc với bệnh nhân ung thư buồng trứng giai đoạn III, gia đình cần chú ý một số điểm sau:
+Cân bằng cảm xúc người bệnh: Việc đón nhận tin tức mắc ung thư được xem là một thử thách lớn đối với mỗi người, ảnh hưởng đến tâm lý của họ suốt quãng đời còn lại. Vì thế việc đón nhận tin tức dữ, khiến người bệnh mất cân bằng tinh thần là điều dễ hiểu. Để giúp bệnh nhân ung thư sớm vực dậy tinh thần, gia đình nên trò chuyện, tâm sự với người bệnh để họ cảm thấy thoải mái, bớt bi quan. Ngoài ra khuyến khích người bệnh tham gia các hoạt động vận động nhẹ, thể dục thể thao, du lịch ngắn ngày để bệnh nhân khuây khỏa tâm hồn.
+Tìm kiếm sự giúp đỡ của các bác sĩ, chuyên gia: Bệnh nhân có thể trải qua rất nhiều cảm xúc khác nhau như bực bội, nóng nảy, căng thẳng, tức giận, lo lắng, buồn rầu, tuyệt vọng… Do đó khi nhận ra những dấu hiệu bất ổn của bệnh nhân, gia đình có thể liên hệ bác sĩ điều trị hoặc các chuyên gia, bác sĩ tâm lý để tìm kiếm giải pháp hỗ trợ bệnh nhân thư giãn, tránh căng thẳng quá độ. Nếu bản thân người chăm sóc bệnh nhân cảm thấy khó khăn, hãy tìm cách cân bằng cảm xúc cá nhân trước, sau đó mới đủ sức khỏe và vững tinh thần khi chăm sóc người bệnh.
+Xây dựng hệ thống thực đơn giàu dinh dưỡng: Người mắc ung thư giai đoạn muộn thường trải qua những đau đớn từ bệnh cũng như quá trình điều trị gây suy nhược cơ thể, chán ăn, do đó người nhà cần chuẩn bị các thức ăn giàu dinh dưỡng, đa dạng thực đơn để kích thích người bệnh ăn uống. Đồng thời, người bệnh cần tránh các loại thực phẩm lên men, thịt đỏ, đồ ăn chiên xào nhiều dầu mỡ…
+Kết hợp vận động nhẹ: Các bài tập thể dục, vận động nhẹ nhàng góp phần nâng cao thể chất của người bệnh, giúp đáp ứng điều trị tốt hơn.
+Đi khám đúng lịch trình bác sĩ chỉ định: Người thân cần đưa bệnh nhân đến tái khám hoặc điều trị theo đúng phác đồ bác sĩ đã chỉ định. Đồng thời tham vấn chi tiết thông tin, lời khuyên của bác sĩ; cung cấp các dấu hiệu tiến triển bệnh để bác sĩ theo dõi kịp thời tình trạng bệnh.
+Không được tự ý bỏ liệu trình: Nhiều người bệnh cảm thấy khỏe hơn đã tự ý từ bỏ tái khám hoặc điều trị, uống thuốc. Điều này cực kỳ nguy hiểm. Do đó người bệnh và cả người chăm sóc bệnh nhân ung thư buồng trứng giai đoạn III cần theo dõi sát sao, tuân thủ phác đồ điều trị đã được lên trước đó.
+Nhằm phát hiện và điều trị ung thư buồng trứng sớm, việc khám sàng lọc được khuyến nghị. Để đặt lịch hẹn tư vấn và tầm soát ung thư buồng trứng, bạn có thể liên hệ:
+Ung thư buồng trứng giai đoạn 3được xem là giai đoạn tiến triển của bệnh, tuy nhiên với sự tiến bộ của kỹ thuật điều trị y khoa hiện đại, tỷ lệ điều trị bệnh ung thư buồng trứng thành công là điều có thể. Để đạt kết quả tốt nhất, bệnh nhân và gia đình cần nỗ lực rất lớn trong quá trình điều trị để sớm đẩy lùi bệnh tật.

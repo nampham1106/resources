@@ -1,0 +1,114 @@
+# doc_id = health_disease_2285
+# url = https://tamanhhospital.vn/thong-tim/
+# date = 31/03/2021
+Thông tim là gì? Kỹ thuật, quy trình thực hiện và đối tượng áp dụng
+Thông tim là một thủ thuật quan trọng trong chẩn đoán và điều trị các bệnh lý về tim mạch ở trẻ em và cả người lớn. Hiểu về kỹ thuật giúp bệnh nhân sớm đưa ra quyết định điều trị chính xác.
+Bài viết được tư vấn chuyên môn bởi BS.CKII Huỳnh Ngọc Long – Trưởng khoa Thông tim can thiệp, Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh TP.HCM.
+Mục lụcThông tim là gì?Vì sao cần thông tim?1. Thông tim chẩn đoán2. Thông tim can thiệpƯu điểm của kỹ thuật thông timAi có thể được chỉ định thông tim?Quy trình và thời gian thực hiện kỹ thuật thông timRủi ro hoặc biến chứng có thể xảy raKhám tầm soát sức khỏe tim mạch tại Bệnh viện Đa khoa Tâm AnhThông tim là gì?
+Thông tim là thủ thuật dùng để chẩn đoán và điều trị một số vấn đề về tim mạch. Khi thực hiện thủ thuật thông tim, một ống thông (Catheter) rỗng ruột được luồn vào động mạch hoặc tĩnh mạch ở bẹn, cổ hoặc cánh tay; luồn qua các mạch máu và đến tận tim.
+Thông tim là thủ thuật được dùng để chẩn đoán và điều trị một số vấn đề về tim mạch
+Thông qua các ống thông này, các bác sĩ có thể thực hiện các kỹ thuật khác nhau, bao gồm: chụp mạch máu, chụp buồng tim có cản quang, siêu âm nội mạch (IVUS), đo cung lượng tim (CO), phát hiện và định lượng các luồng thông, sinh thiết nội mạc cơ tim, đo lường chuyển hóa cơ tim,…
+Các xét nghiệm trên giúp thấy rõ giải phẫu động mạch vành, giải phẫu tim, chức năng tim để xác định chẩn đoán và hỗ trợ trong việc điều trị. Động tác này gọi là thông tim chẩn đoán.
+Ngoài ra, thông qua các ống thông này, các bác sĩ còn đưa các loại dụng cụ chuyên dùng vào để điều trị các bất thường trong tim như: bít dù thông liên nhĩ, thông liên thất, tồn tại ống động mạch, nong hẹp van 2 lá, nong hẹp van động mạch phối, thay van động mạch chủ qua da, clip van để điều trị hở van 2 lá, nong mạch vành, đặt stent mạch vành…Các động tác này gọi là thông tim can thiệp.
+Thông thường, thông tim ở người lớn chỉ cần gây tê tại chỗ chích mạch quay hoặc mạch đùi, không cần gây mê. Chỉ có cảm giác đau nhẹ khi gây tê. Sau đó, khi luồn ống thông vào mạch máu, sẽ không có cảm giác đau. Bệnh nhân hoàn toàn tỉnh táo. Những bệnh nhân lo lắng quá sẽ được bác sĩ chỉ định thuốc để thư giãn. Thông tim trẻ em thì cần gây mê.
+Thời gian hồi phục sau khi thông tim thường nhanh và ít để lại biến chứng cho người bệnh.
+Vì sao cần thông tim?
+1. Thông tim chẩn đoán
+Mục đích của thông tim chẩn đoán là đánh giá tổn thương giải phẫu – sinh lý của tim mạch (như bệnh tim bẩm sinh, hẹp động mạch vành, tổn thương van tim). Bên cạnh đó, thông tim chẩn đoán còn giúp đánh giá các thông số huyết động học gồm: áp lực buồng tim, áp lực mạch máu, cung lượng tim và độ bão hòa oxy.
+Tùy vào từng tình trạng bệnh, các bác sĩ sẽ chỉ định phương pháp chẩn đoán và thông tim phù hợp. Cụ thể, theo thông tin của bảng sau:
+Chỉ định
+Thủ thuật
+Bệnh động mạch vành
+Cơn đau thắt ngực mới xuất hiện
+Chụp động mạch vành và chụp buồng thất trái
+Cơn đau thắt ngực không ổn định
+Chụp động mạch vành và chụp buồng thất trái
+Đánh giá trước phẫu thuật
+Chụp động mạch vành và chụp buồng thất trái
+Thiếu máu cơ tim thầm lặng
+Chụp động mạch vành, chụp buồng thất trái, kết hợp ± kích thích tim bằng ergonovine
+Nghiệm pháp gắng sức dương tính
+Chụp động mạch vành, chụp buồng thất trái, kết hợp ± kích thích tim bằng ergonovine
+Đau ngực không điển hình, hoặc co thắt động mạch vành
+Chụp động mạch vành, chụp buồng thất trái, kết hợp ± kích thích tim bằng ergonovine
+Nhồi máu cơ tim
+Đau thắt ngực không ổn định sau nhồi máu cơ tim
+Chụp động mạch vành và buồng thất trái
+Dùng thuốc tiêu sợi huyết thất bại
+Chụp động mạch vành và buồng thất trái, thông tim phải
+Sốc tim
+Chụp động mạch vành và buồng thất trái, thông tim phải
+Biến chứng cơ học của nhồi máu cơ tim (như thủng vách liên thất, đứt dây chằng van hai lá)
+Chụp động mạch vành, chụp buồng thất trái, kết hợp thông tim trái, phải
+Đột tử do tim
+Chụp động mạch vành, chụp buồng thất trái, kết hợp thông tim trái, phải
+Bệnh van tim
+Chụp động mạch vành, chụp buồng thất trái, thông tim trái, phải, và chụp động mạch chủ
+Bệnh tim bẩm sinh
+Chụp động mạch vành, chụp buồng thất trái, thông tim trái, phải, và chụp động mạch chủ
+Tách thành động mạch chủ
+Chụp động mạch vành, chụp động mạch chủ
+Viêm màng ngoài tim co thắt hoặc ép tim
+Chụp buồng thất trái, chụp động mạch vành, thông tim trái, phải
+Bệnh cơ tim
+Chụp buồng thất trái, chụp động mạch vành, thông tim trái, phải, sinh thiết cơ tim
+Đánh giá trước và sau ghép tim
+Chụp buồng thất trái, chụp động mạch vành, thông tim trái, phải, sinh thiết cơ tim
+Thông tim là một thủ thuật cần sự chuẩn bị và chỉ được tiến hành khi bệnh nhân đã được chuẩn bị đầy đủ về thể chất và tinh thần. Chống chỉ định thông tim trong các trường hợp: xuất huyết tiêu hóa cấp hoặc thiếu máu cấp, rối loạn đông máu gây chảy máu và không kiểm soát được, rối loạn điện giải, nhiễm khuẩn, sốt, có thai, suy thận, suy tim nặng, tiền sử tai biến mạch máu não (trong vòng 1 tháng), rối loạn nhịp tim không kiểm soát.
+Trong một số trường hợp, tình trạng sức khỏe của bệnh nhân không ổn định như nhồi máu cơ tim cần thông tim cấp cứu. Thông tim phải chủ yếu được thực hiện qua tĩnh mạch đùi, thông tim trái chủ yếu thực hiện qua động mạch đùi.
+2. Thông tim can thiệp
+Mục đích của kỹ thuật thông tim can thiệp là để điều trị các dị tật tim mạch như: thông liên thất, thông liên nhĩ, bít tắc các dị dạng mạch máu, ống động mạch, nong van động mạch phổi, nong van động mạch chủ, nong hẹp động mạch thận,…
+Một số phương pháp điều trị ứng dụng kỹ thuật thông tim can thiệp có thể kể đến như:
+Nong động mạch vành bằng bóng: Thủ thuật được thực hiện bằng cách đưa dụng cụ có gắn bóng ở đầu vào động mạch vành. Khi bóng đã được đưa đến vị trí bị tắc nghẽn trong động mạch, bóng sẽ được bơm căng ra để làm ép các mảng xơ vữa sát vào thành mạch, mở rộng lòng động mạch và giúp tăng máu đến được cơ tim. Nong bằng bóng được áp dụng cho các mạch máu nhỏ 2 mm, hẹp mạch quá dài, lan tỏa cả mạch máu, hẹp ở chỗ chia đôi…
+Đặt stent: khi có tắc nghẽn nghiêm trọng hoặc nguy cơ tái hẹp động mạch, các bác sĩ sẽ chỉ định đặt stent động mạch vành. Stent là một ống kim loại nhỏ có mắt lưới được cấy vào động mạch vành sau khi nong động mạch bằng bóng. Bệnh nhân trước khi đặt stent thường dùng thuốc loãng máu để tránh tạo cục máu đông trong stent. Tùy theo tình trạng của mỗi bệnh nhân mà bác sĩ sẽ chỉ định đặt stent phủ thuốc. Stent phủ thuốc được cấy vĩnh viễn trong động mạch, giải phóng thuốc giúp phòng tránh hình thành tắc nghẽn.
+Phương pháp đặt stent động mạch vành
+Đóng lỗ thông bất thường trong tim: các luồng thông bất thường trong tim như thông liên nhĩ, thông liên thất và các động mạch lớn làm ảnh hưởng huyết động và chức năng của tim. Đóng lỗ thông bất thường trong tim sử dụng một dụng cụ dạng lưới làm từ Niken và Titanium, quấn bằng chỉ Polyester giúp ổn định huyết động và chức năng tim.
+Sửa chữa hoặc thay thế các van tim bị rò rỉ: Khi mức độ tổn thương của van tim chưa nghiêm trọng, các bác sĩ sẽ tiến hành sửa chữa để làm giảm tình trạng hẹp hay hở van; khi tổn thương ở van tim quá nặng, sẽ tiến hành thay thế. Thông tim là kỹ thuật giúp các bác sĩ thực hiện những công việc này.
+Điều trị một số bệnh lý tim bẩm sinh: bệnh tim bẩm sinh là các khiếm khuyết của tim hay hệ thống mạch máu hình thành trong giai đoạn bào thai. Trong những năm gần đây, với sự phát triển mạnh mẽ của nền y học, bệnh tim bẩm sinh đã có thể điều trị bằng phương pháp can thiệp qua da, giúp bệnh nhân không cần phải phẫu thuật, giảm thiểu tối đa đau đớn và rút ngắn thời gian hồi phục. Kỹ thuật thông tim can thiệp được thực hiện bằng cách luồn dụng cụ vào mạch máu bệnh nhân, rồi đưa đến tim để bít lỗ thông trong tim, nong rộng chỗ hẹp ở van tim hoặc mạch máu.
+Ưu điểm của kỹ thuật thông tim
+Các thông tin thu thập được khi ứng dụng kỹ thuật thông tim có độ chính xác cao, mang lại lợi ích to lớn trong việc chẩn đoán và điều trị cho người bệnh:
+Giúp xác định vị trí thu hẹp hoặc tắc nghẽn trong mạch máu;
+Đo áp suất và nồng độ oxy ở các bộ phận khác nhau của tim;
+Kiểm tra chức năng bơm máu của tim;
+Lấy mẫu mô của tim;
+Chẩn đoán dị tật tim bẩm sinh;
+Kiểm tra các vấn đề về van tim.
+Bên cạnh đó, thông tim còn là kỹ thuật hỗ trợ điều trị các vấn đề về tim mạch có tính an toàn cao; tỷ lệ biến chứng thấp và rút ngắn tối đa thời gian hồi phục, giúp bệnh nhân mau trở lại cuộc sống và sinh hoạt bình thường. Một số phương pháp điều trị ứng dụng kỹ thuật thông tim phổ biến như:
+Mở rộng động mạch bị hẹp (nong mạch);
+Hở van tim hẹp (nong van tim bằng bóng);
+Sửa chữa, thay thế van tim;
+Đóng lỗ thông bất thường trong tim;
+Điều trị một số bệnh lý bẩm sinh về tim khác.
+Ai có thể được chỉ định thông tim?
+Thông tim có thể chẩn đoán chính xác tình trạng bệnh của những bệnh nhân gặp vấn đề về tim mạch như: xơ vữa động mạch, bệnh cơ tim, suy tim, van tim, và bệnh tim bẩm sinh.
+Xơ vữa động mạch: thường gặp ở những người có thói quen sinh hoạt không lành mạnh; ít vận động; có bệnh nền huyết áp cao, thừa cân béo phì, đái tháo đường và ở người lớn tuổi. Xơ vữa động mạch là tình trạng xơ cứng của thành động mạch, các mảng xơ vữa bị bong gây tắc mạch cục bộ và một số biến chứng nguy hiểm. Bệnh có thể diễn tiến âm thầm, đến khi phát bệnh thì đã chuyển biến nghiêm trọng.
+Bệnh cơ tim: thường gặp ở người có thói quen sống không lành mạnh như nghiện rượu, ma túy; mắc các bệnh gây tổn thương cơ tim như hemochromatosis, sarcoidosis, hoặc amyloidosis; người mắc bệnh mạch vành, rối loạn nhịp tim, bệnh van tim, cao huyết áp kéo dài,… Bệnh thường xảy ra khi cấu trúc và chức năng cơ tim bị biến đổi, giảm khả năng bơm máu của tim và gây ra nhiều biến chứng tim mạch nghiêm trọng. Các bệnh cơ tim thường gặp như: giãn cơ tim, cơ tim phì đại, cơ tim hạn chế.
+Bệnh suy tim: thường gặp ở bệnh nhân có bệnh nền tăng huyết áp, đái tháo đường, rối loạn lipid máu, có bệnh lý tim bẩm sinh, bệnh lý van tim không được sửa chữa, bệnh phổi tắc nghẽn không được kiểm soát, người cao tuổi,… Suy tim là tình trạng tim không đủ khả năng bơm máu để đáp ứng cho các nhu cầu hoạt động của cơ thể, làm suy giảm khả năng hoạt động và sụt giảm chất lượng sống. Trong trường hợp suy tim nặng, người bệnh có nguy cơ tử vong cao.
+Bệnh van tim: khuyết tật van tim bẩm sinh, do van tim bị lỗi ngay khi còn ở trong bào thai hoặc cũng có thể là biến chứng của một bệnh lý khác trong quá trình phát triển. Bệnh van tim thường xảy ra khi một hoặc nhiều van tim không thực hiện tốt chức năng đóng mở cho máu lưu thông theo một chiều. Có hai dạng bệnh van tim thường gặp là hẹp và hở van tim.
+Ở trẻ sơ sinh, thông tim thường được chỉ định khi trẻ có các dị tật tim mạch bẩm sinh do di truyền hay nhiễm độc thai. Chẳng hạn như thông liên thất (hay VSD) là bệnh tim bẩm sinh phổ biến gây ảnh hưởng lớn đến sức khỏe và sự phát triển toàn diện của trẻ với nhiều biến chứng nguy hiểm như chậm lớn, suy tim ứ huyết, nhiễm trùng phổi,… Thông tim trong điều trị dị tật tim bẩm sinh có nhiều ưu điểm như không phải mổ xương ức, giảm thiểu nguy cơ gây nhiễm khuẩn, rút ngắn thời gian hồi phục của bệnh nhân.
+Quy trình và thời gian thực hiện kỹ thuật thông tim
+Trước khi thông tim trong ít nhất 6 giờ, bệnh nhân không được ăn hoặc uống bất cứ thứ gì. Vì thức ăn trong dạ dày có thể làm tăng nguy cơ biến chứng do gây mê. Hãy hỏi ý kiến của các bác sĩ hoặc điều dưỡng trong trường hợp bạn cần uống thuốc với nước.
+Trong trường hợp bệnh nhân bị đái tháo đường, hãy hỏi các bác sĩ để được hướng dẫn về thuốc điều trị tiểu đường và insulin. Thông thường, bệnh nhân có thể ăn và uống bình thường sau khi làm xét nghiệm.
+Nên ngừng uống các loại thuốc có thể làm loãng máu như: warfarin, aspirin, apixaban, dabigatran và rivaroxaban. Khi đi thăm khám, tốt nhất nên mang theo tất cả các loại thuốc mà bạn đang sử dụng. Tốt nhất bạn nên mang cả lọ thuốc để bác sĩ có thể biết chính xác liều lượng thuốc bạn đang dùng.
+Trước khi tiến hành thông tim, bệnh nhân sẽ được kiểm tra huyết áp, mạch và được yêu cầu đi vệ sinh để làm sạch bàng quang. Bệnh nhân có thể sẽ được bác sĩ yêu cầu tháo răng giả, trang sức (đặc biệt là vòng cổ) vì có thể làm ảnh hưởng đến kết quả chẩn đoán qua hình ảnh của tim.
+Tại Hệ thống BVĐK Tâm Anh, thông tim được thực hiện trong phòng mổ vô trùng; được trang bị máy móc, công nghệ hiện đại như các loại máy X-quang, máy chụp mà các phòng phẫu thuật thông thường khác không có. Thông tim thường được thực hiện khi bệnh nhân tỉnh táo. Tuy nhiên, trong một số thủ thuật nhất định như cắt bỏ, sửa van hoặc thay van, thông tim được tiến hành khi bệnh nhân được gây mê hoàn toàn.
+Ngay trước khi thông tim, điều dưỡng có thể cạo đi vùng lông tại nơi chèn ống thông vào. Trước khi ống thông được đưa vào cơ thể qua đường động mạch, bệnh nhân sẽ được gây tê tại vùng đó. Sau khi bệnh nhân đã được gây tê, một ống thông sẽ được đưa vào cơ thể. Nếu vào cơ thể từ chân, các bác sĩ có thể rạch một đường rất nhỏ để tiếp cận động mạch. Vỏ bọc nhựa sẽ được chèn vào vị trí rạch để các bác sĩ có thể đưa ống thông vào.
+Ống Catheter rỗng ruột được luồn vào động mạch hoặc tĩnh mạch ở bẹn, cổ hoặc cánh tay người bệnh
+Trong quá trình thực hiện thủ thuật, các bác sĩ sẽ cung cấp cho bệnh nhân những loại thuốc bổ sung cần thiết qua đường tiêm tĩnh mạch. Ngoài ra, trong quá trình thông tim, các bác sĩ cũng sẽ lưu ý kiểm tra tình trạng tim mạch bằng cách đặt các điện cực trên ngực của người bệnh. Bác sĩ có thể yêu cầu bệnh nhân hít sâu và giữ hơi thở, ho hoặc đặt cánh tay của người bệnh ở nhiều vị trí khác nhau.
+Lưu ý, thông tim không gây đau và bệnh nhân cũng sẽ không có cảm giác ống thông đang di chuyển trong cơ thể của mình. Hãy cho bác sĩ biết ngay nếu bạn có bất kỳ cảm giác khó chịu nào trong quá trình thông tim.
+Sau khi thông tim, các vỏ nhựa được lắp vào bẹn, cổ hoặc cánh tay bệnh nhân sẽ được gỡ bỏ ngay. Bệnh nhân sẽ được đưa đến phòng hồi sức trong khi chờ thuốc gây mê/ gây tê hết tác dụng. Thường chỉ mất một vài giờ để hồi phục sau khi thực hiện thủ thuật. Nếu ống thông được đưa vào cơ thể qua bẹn, bệnh nhân có thể sẽ phải nằm thẳng trong một vào giờ để tránh gây chảy máu nghiêm trọng và cũng là để động mạch được lành lại.
+Người bệnh có thể ăn uống bình thường sau khi thực hiện thủ thuật thông tim. Thời gian nằm viện phụ thuộc vào tình trạng sức khỏe của từng người bệnh. Bệnh nhân có thể xuất viện cùng ngày, hoặc có thể ở qua đêm hoặc lâu hơn nếu cần thực hiện các thủ thuật bổ sung như nong động mạch và đặt stent.
+Sau khi bệnh nhân xuất viện về nhà, người thân cần lưu ý giữ vệ sinh sạch sẽ tại vị trí đưa ống thông, bằng cách rửa vết thương ít nhất một lần một ngày bằng nước muối hoặc nước sát trùng (theo sự hướng dẫn của bác sĩ và điều dưỡng). Dùng tay hoặc khăn mềm lau nhẹ nhàng, không chà xát vết thương. Dùng băng cá nhân che vết thương.
+Thông thường, vết thương có màu xanh và đen trong vài ngày đầu, có thể sưng và xuất hiện cục u nhỏ, nhưng chỉ sau một vài ngày là hết. Để tránh vết thương nhiễm trùng, người bệnh cần giữ vệ sinh khô ráo không tắm quá lâu hoặc đi bơi trong vòng ít nhất là 1 tuần sau phẫu thuật. Bệnh nhân mặc quần áo rộng rãi, không bôi kem hay bất cứ loại thuốc nào lên vết thương (trừ khi được bác sĩ chỉ định).
+Rủi ro hoặc biến chứng có thể xảy ra
+Thông tim là một kỹ thuật an toàn trong chẩn đoán và điều trị các vấn đề về tim. Tuy nhiên, bất cứ thủ thuật nào đưa dị vật vào cơ thể người bệnh đều có thể xuất hiện một số rủi ro nhất định. Tỷ lệ biến chứng sau thông tim có thể dao động từ 0.8%-8%, tùy thuộc vào bệnh nhân và kỹ thuật, kinh nghiệm của người thực hiện thủ thuật.
+Các yếu tố từ phía bệnh nhân có thể làm gia tăng nguy cơ biến chứng khi thông tim bao gồm: Tuổi cao; bệnh van tim; suy tim; bệnh động mạch ngoại biên; bệnh COPD; bệnh thận mạn tính; bệnh tiểu đường phụ thuộc insulin…
+Hầu hết các biến chứng sau thông tim thường nhẹ và điều trị dễ dàng. Các biến chứng nghiêm trọng thường có tỷ lệ rất hiếm, có thể bao gồm: phản ứng phản vệ, sốc, co giật, tím tái, nhồi máu cơ tim,…
+Khám tầm soát sức khỏe tim mạch tại Bệnh viện Đa khoa Tâm Anh
+Với mục tiêu đáp ứng nhu cầu thăm khám và điều trị các bệnh lý về tim mạch ngày càng cao trong cộng đồng, Trung tâm Tim mạch của Bệnh viện Đa khoa Tâm Anh được thành lập.
+Bệnh viện Đa khoa Tâm Anh quy tụ đội ngũ chuyên gia giàu kinh nghiệm và tận tâm như: PGS.TS.BS Phạm Nguyễn Vinh, PGS.TS.BS Nguyễn Thị Bạch Yến, BS Nguyễn Minh Trí Viên (cố vấn phẫu thuật tim), TS.BS Trần Văn Hùng, TS.BS Nguyễn Anh Dũng, BSCKII Huỳnh Ngọc Long, BSCKI Vũ Năng Phúc, TS.BS Nguyễn Thị Duyên, TS.BS Lê Thị Thanh Hằng, BS Nguyễn Đức Hưng, BS Nguyễn Phạm Thùy Linh, BS.CKI Phạm Thục Minh Thủy, ThS.BS Huỳnh Khiêm Huy, BS.CKII Võ Ngọc Cẩm, ThS.BS Nguyễn Khiêm Thao, BS.CKI Hoàng Thị Bình, ThS.BS Nguyễn Quốc Khánh…
+Bên cạnh đó, bệnh viện còn có trang thiết bị tiên tiến được nhập khẩu trực tiếp từ nước ngoài như: hệ thống máy chụp CT ứng dụng trí tuệ nhân tạo được nhập khẩu từ Đức có khả năng chụp 768 lát cắt trong một vòng quay, quét cắt lớp vi tính toàn thân chỉ từ 3 đến 4 giây; Máy chụp cộng hưởng từ công nghệ tiên tiến chụp tim không cần nín thở;
+Máy siêu âm tim, siêu âm mạch máu (động mạch cảnh, mạch máu ngoại biên…) thế hệ mới dựng hình ảnh 4D giúp hỗ trợ phẫu thuật tim, thông tim trong bệnh van tim, khảo sát thể tích và chức năng tích tim 4D; Máy điện tâm đồ và máy ghi điện tim liên tục 24 giờ đến 14 ngày để phát hiện các rối loạn nhịp bất thường… kết hợp cùng kỹ thuật điều trị hiện đại giúp phát hiện sớm bệnh và có hướng xử trí kịp thời, đúng đắn.
+PGS.TS.BS Phạm Nguyễn Vinh – Giám đốc Trung tâm Tim mạch, Bệnh viện Đa khoa Tâm Anh TP.HCM thăm khám cho bệnh nhân
+Khi đến thăm khám và điều trị tại Trung tâm Tim mạch của Bệnh viện Đa khoa Tâm Anh, bạn có thể an tâm vì toàn bộ quy trình sẽ diễn ra một cách chuyên nghiệp với sự hướng dẫn của các y bác sĩ hàng đầu, kết hợp cùng các loại máy móc tiên tiến.
+Thông tim là kỹ thuật an toàn, ít biến chứng, giúp rút ngắn thời gian hồi phục và nâng cao chất lượng cuộc sống của người bệnh. Cần lựa chọn bệnh viện uy tín, hiện đại kết hợp cùng đội ngũ chuyên gia giàu kinh nghiệm để được chăm sóc sức khỏe một cách tốt nhất.

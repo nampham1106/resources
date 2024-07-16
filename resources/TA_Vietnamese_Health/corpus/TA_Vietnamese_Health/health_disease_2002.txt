@@ -1,0 +1,265 @@
+# doc_id = health_disease_2002
+# url = https://tamanhhospital.vn/xet-nghiem-60-di-nguyen/
+# date = 27/12/2023
+Xét nghiệm 60 dị nguyên là gì? Khi nào cần thực hiện? Có chính xác không?
+Đồng hành cùng quá trình phát triển của nhân loại, y học thế giới trong không ngừng phát triển và việc phát hiện triệu chứng dị ứng cũng như các phương pháp điều trị cá thể hóa cũng được hoàn thiện từng ngày. Việc thực hiện xét nghiệm 60 dị nguyên sẽ góp phần xác định nguyên nhân gây dị ứng, từ đó quyết định phương hướng điều trị để giảm thiểu, thậm chí ngăn chặn các triệu chứng dị ứng trong tương lai.
+Vậy xét nghiệm 60 dị nguyên là gì? Khi nào cần thực hiện xét nghiệm? Xét nghiệm 60 dị nguyên có chính xác không? Bài viết sau được bác sĩ Ngô Minh Quân, Trung tâm Xét nghiệm, BVĐK Tâm Anh TP.HCM tư vấn.
+Mục lụcXét nghiệm 60 dị nguyên là gì?Bảng xét nghiệm 60 dị nguyênÝ nghĩa test 60 dị nguyênXét nghiệm 60 dị nguyên khi nào nên thực hiện?Quy trình xét nghiệm test 60 dị nguyênXét nghiệm 60 dị nguyên có cần nhịn ăn không?Lưu ý cần biết khi thực hiện test 60 dị nguyênMột số câu hỏi liên quan1. Xét nghiệm 60 dị nguyên có nhanh không?2. Xét nghiệm 60 dị nguyên có chính xác không?3. Xét nghiệm 60 dị nguyên ở đâu tốt?Xét nghiệm 60 dị nguyên là gì?
+Xét nghiệm 60 dị nguyên (hay test panel 60 dị nguyên) là phương pháp xét nghiệm sử dụng 60 mẫu dị nguyên có sẵn để xác định nguyên nhân gây ra tình trạng dị ứng trong cơ thể. Từ đó giúp các bác sĩ tìm ra phương pháp điều trị phù hợp và giúp người bệnh hiểu được cơ thể dị ứng với dị nguyên nào để có hướng điều trị.
+Thông thường, kết quả âm tính có nghĩa là bạn không bị dị ứng với mẫu chất gây dị ứng. Ngược lại, kết quả dương tính có nghĩa là bạn phản ứng quá mẫn cảm với chất gây dị ứng hiện có, mức độ dị ứng thể từ nhẹ đến rất nặng. (1)
+Xét nghiệm dị nguyên giúp bác sĩ và người bệnh theo dõi khả năng miễn dịch của cơ thể để có biện pháp phòng bệnh thích hợp
+Bảng xét nghiệm 60 dị nguyên
+STT
+Tiếng Anh
+Tiếng Việt
+1
+Total IgE
+Định lượng nồng độ IgE tổng thể đặc hiệu trong máu
+2
+CCD (Cross-reactive Carbohydrate Determinants)
+Dị nguyên phản ứng chéo
+Mold / pollen (mốc / phấn)
+3
+Cladosporium herbarum
+Nấm Cladosporium herbarum
+4
+Alternaria alternata
+Nấm Alternaria alternata
+5
+Aspergillus fumigatus
+Nấm Aspergillus fumigatus
+6
+Mugwort
+Cây ngải cứu
+7
+Japanese hop
+Cây sàn sạt
+8
+Common ragweed
+Cỏ phấn hương
+Mite / dander (mạt bụi / lông thú cưng)
+9
+House dust
+Bụi nhà
+10
+D.pteronyssinus
+Mạt bụi (mạt nhà) D.pteronyssinus
+11
+D.farinae
+Mạt bụi (mạt nhà) D.farinae
+12
+Cat epithelium & dander
+Lông và biểu mô mèo
+13
+Dog dander
+Lông chó
+14
+Cockroach
+Gián
+Dairy products (chế phẩm từ sữa)
+15
+Milk
+Sữa
+16
+Cheese / Cheddar type
+Pho mát / Pho mát Cheddar
+Meat (thịt)
+17
+Pork
+Thịt heo/lợn
+18
+Chicken
+Thịt gà
+19
+Beef
+Thịt bò
+20
+Lamb
+Thịt cừu
+Wood (gỗ)
+21
+Alder
+Gỗ trăn
+22
+Birch
+Gỗ phong vàng
+23
+Oak
+Gỗ sồi
+Seafood (hải sản)
+24
+Crab
+Cua
+25
+Shrimp
+Tôm
+26
+Mackerel
+Cá thu
+27
+Codfish
+Cá tuyết đen
+28
+Salmon / Tuna
+Cá hồi / Cá ngừ
+29
+Anchovy Alaska Pollock / Plaice
+Cá minh thái Alaska / Cá bơn sao
+30
+Pacific squid / Lobster
+Mực Thái Bình Dương / Tôm hùm
+31
+Eel
+Lươn
+32
+Blue mussel / Clam / Oyster / Scallop
+Vẹm xanh / Nghêu (ngao) / Hàu / Sò điệp
+Grains/ Nuts (hạt)
+33
+Barley
+Lúa mạch
+34
+Rice
+Gạo
+35
+Buckwheat
+Kiều mạch
+36
+Cultivated rye
+Lúa mạch đen
+37
+Sesame
+Mè (vừng)
+38
+Sweet chestnut
+Dẻ thơm
+39
+Walnut
+Quả óc chó
+40
+Hazelnut
+Hạt phỉ
+41
+Almond / Sunflower / Pine nut
+Hạt hạnh nhân / Hạt hướng dương / Hạt thông
+42
+Cacao
+Cacao
+43
+Peanut
+Đậu phộng (lạc)
+44
+Soybean
+Đậu nành (đậu tương)
+45
+Wheat
+Lúa mì
+Vegetables (rau củ quả)
+46
+Corn
+Bắp (ngô)
+47
+Carrot
+Cà rốt
+48
+Potato
+Khoai tây
+49
+Onion / Garlic
+Hành tây / Tỏi
+50
+Celery
+Cần tây
+51
+Cucumber
+Dưa leo
+52
+Tomato
+Cà chua
+Fruits (Trái cây)
+53
+Peach
+Đào
+54
+Apple
+Táo
+55
+Citrus mix
+Trái cây chi cam chanh
+56
+Strawberry
+Dâu tây
+57
+Banana / Mango / Kiwi
+Chuối / Xoài / Kiwi
+Others (Khác)
+58
+Egg white
+Lòng trắng trứng
+59
+Baker’s yeast
+Nấm men bánh mì
+60
+Silkworm pupae
+Nhộng tằm
+Ý nghĩa test 60 dị nguyên
+Hội Da liễu Việt Nam thống kê khoảng 20% ​​dân số Việt Nam mắc các bệnh liên quan đến dị ứng, chủ yếu dưới 20 tuổi và sống ở thành thị. Điều này cho thấy dị ứng là một tình trạng khá phổ biến trong cộng đồng dân cư.
+Vì vậy, việc xét nghiệm 60 chất gây dị ứng được coi là cực kỳ quan trọng vì:
+Xét nghiệm bảng dị ứng thường bao gồm 60 chất gây dị ứng phổ biến và lâm sàng, tập trung vào các nhóm thực phẩm như tôm, cua, cá, mực, sữa, táo và một số chất gây dị ứng từ môi trường bên ngoài như bụi bẩn, lông chó mèo, mỹ phẩm, thuốc, phấn hoa,…
+Quá trình xét nghiệm cảnh báo bác sĩ về nguyên nhân và mức độ dị ứng của bệnh nhân.
+Giúp bác sĩ và người bệnh theo dõi khả năng miễn dịch của cơ thể để có biện pháp phòng bệnh thích hợp.
+Bài viết liên quan:Xét nghiệm dị nguyên là gì? Khi nào cần thực hiện? Có an toàn không?
+Nhiều người dị ứng với nấm men bánh mì
+Với công nghệ hiện đại ngày nay, việc xét nghiệm dị ứng không còn quá khó khăn nữa. Tuy nhiên, người bệnh cần đến cơ sở y tế có dịch vụ xét nghiệm dị ứng uy tín để đảm bảo kết quả chính xác nhất.
+Xét nghiệm 60 dị nguyên khi nào nên thực hiện?
+Người bệnh cần xét nghiệm 60 dị nguyên ngay nếu bị: (2)
+Viêm mũi dị ứng (sốt cỏ khô), thường do phấn hoa, dị ứng vật nuôi hoặc nấm mốc.
+Sốc phản vệ, là một phản ứng dị ứng nghiêm trọng và đôi khi đe dọa tính mạng bởi một số loại thực phẩm, côn trùng đốt hoặc các chất gây dị ứng khác.
+Viêm da tiếp xúc do tiếp xúc với các chất kích thích như hóa chất, chất tẩy rửa, thực vật độc hoặc một số kim loại (chẳng hạn như niken).
+Các triệu chứng dị ứng khá đa dạng, có thể bao gồm:
+Đau bụng.
+Ho.
+Tiêu chảy.
+Khô da.
+Chàm.
+Đau đầu.
+Nổi mề đay và sưng tấy (phù nề).
+Ngứa, đỏ hoặc chảy nước mắt.
+Buồn nôn và ói mửa.
+Khó thở.
+Phát ban.
+Hắt xì.
+Đau họng (viêm họng).
+Nghẹt mũi, ngứa hoặc chảy nước mũi.
+Sưng môi, lưỡi, mắt hoặc mặt.
+Thở khò khè, tức ngực hoặc hen suyễn dị ứng.
+Quy trình xét nghiệm test 60 dị nguyên
+Xét nghiệm test 60 dị nguyên được sử dụng để xác định dị ứng và đánh giá mức độ nghiêm trọng của phản ứng dị ứng. Quy trình xét nghiệm test 60 dị nguyên gồm các bước như sau:
+Bước 1: Người bệnh cần cung cấp mẫu máu để xét nghiệm.
+Bước 2: Mẫu máu được gửi đến phòng thí nghiệm để xét nghiệm chuyên sâu. Mẫu máu sẽ được kiểm định và cho ra kết quả.
+Bước 3: Kết quả sẽ được các bác sĩ được so sánh với phạm vi tham chiếu để xác định người bệnh có bị dị ứng hay không.
+Bước 4: Dựa vào kết quả xét nghiệm, các bác sĩ lên phác đồ phù hợp nhất để điều trị tình trạng dị ứng.
+Bước 5: Bác sĩ sẽ thông báo kết quả xét nghiệm và tiến trình điều trị phù hợp cho người bệnh.
+Bác sĩ sẽ lấy mẫu máu mang đi xét nghiệm
+Xét nghiệm 60 dị nguyên có cần nhịn ăn không?
+Người bệnh không cần nhịn ăn hay uống trước khi xét nghiệm, trừ khi được bác sĩ yêu cầu. Xét nghiệm 60 dị nguyên có thể thực hiện ở bất kỳ thời điểm nào trong ngày.
+Lưu ý cần biết khi thực hiện test 60 dị nguyên
+Một trong những cách chuẩn bị xét nghiệm phổ biến nhất trong phòng thí nghiệm là nhịn ăn. Nhịn ăn có nghĩa là bạn không nên ăn hoặc uống bất cứ thứ gì ngoại trừ nước trong vài giờ hoặc đêm trước khi xét nghiệm bởi vì chất dinh dưỡng và thành phần trong thực phẩm được hấp thụ vào máu sẽ có thể ảnh hưởng đến kết quả xét nghiệm. (3)
+Tuy nhiên, tùy vào cơ địa mà thời gian nhịn ăn của mỗi người có thể khác nhau. Bác sĩ sẽ khám lâm sàng và chỉ định thời điểm cần nhịn ăn.
+Các lưu ý phổ biến khác bao gồm:
+Tránh các loại thực phẩm và đồ uống cụ thể như thịt nấu chín, trà thảo dược hoặc rượu.
+Không ăn quá nhiều vào ngày trước ngày thực hiện xét nghiệm.
+Không hút thuốc.
+Tránh hoạt động quá sức.
+Tránh một số loại thuốc hoặc thực phẩm bổ sung. Thông tin đến bác sĩ tất cả loại thuốc bạn hiện đang dùng, bao gồm các loại thuốc không kê đơn, vitamin và thực phẩm bổ sung.
+Bác sĩ tiến hành xét nghiệm chuyên sâu để tìm ra dị nguyên
+Với một số xét nghiệm máu, bạn có thể được yêu cầu uống thêm nước để đảm bảo lượng nước cần thiết cho cơ thể.
+Một số câu hỏi liên quan
+1. Xét nghiệm 60 dị nguyên có nhanh không?
+Thông thường kết quả xét nghiệm 60 dị nguyên sẽ có trong vòng 1-2 ngày.
+2. Xét nghiệm 60 dị nguyên có chính xác không?
+Hiện nay đây là phương pháp xét nghiệm có tính chính xác cao nhất nên thường được các trung tâm y tế và bệnh viện lớn sử dụng.
+3. Xét nghiệm 60 dị nguyên ở đâu tốt?
+Chuyên khoa Da liễu – Thẩm mỹ Da và Trung tâm Xét nghiệm, BVĐK Tâm Anh TPHCM đạt chất lượng ISO 15189:2012 với đội ngũ nhân sự có trình độ chuyên môn cao, cập nhật kiến thức liên tục, sinh phẩm xét nghiệm được bảo quản nghiêm ngặt cùng hệ thống máy sinh hóa – miễn dịch được nhập khẩu từ các hãng hàng đầu trên thế giới: Roche, Abbott, Beckman Coulter, Sysmex, Siemens… giúp nâng cao hiệu quả thăm khám chuyên sâu với những ca bệnh khó, đồng thời tối ưu hiệu quả rút ngắn thời gian điều trị.
+Đặc biệt, hệ thống thiết bị xét nghiệm luôn được cập nhật phiên bản hiện đại nhất, cho ra thời gian trả kết quả xét nghiệm nhanh chóng và chính xác nhất. Bên cạnh đó ngoài việc thăm khám lâm sàng, sự kết hợp từ các chuyên gia đầu ngành về xét nghiệm và các bác sĩ sẽ giúp chẩn đoán tình trạng bệnh chính xác và cá thể hóa phác đồ điều trị chính xác, an toàn, hiệu quả, đảm bảo quá trình điều trị tối ưu nhất cho người bệnh.
+Hiện nay, xét nghiệm 60 dị nguyên là xét nghiệm có tính chính xác cao, lại không có rủi ro xảy ra các tác dụng phụ do người bệnh không cần tiếp xúc trực tiếp với các dị nguyên. Với mục tiêu cải thiện chất lượng cuộc sống và chăm sóc sức khỏe bản thân tốt nhất vì vậy khi xuất hiện bất kỳ triệu chứng dị ứng nào, người bệnh nên đi xét nghiệm 60 dị nguyên càng sớm càng tốt.

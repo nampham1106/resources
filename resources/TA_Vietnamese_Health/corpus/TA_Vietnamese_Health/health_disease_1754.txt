@@ -1,0 +1,77 @@
+# doc_id = health_disease_1754
+# url = https://tamanhhospital.vn/bom-surfactant/
+# date = 16/06/2024
+Kỹ thuật bơm Surfactant trong điều trị suy hô hấp sơ sinh
+Bơm Surfactant là một kỹ thuật được sử dụng phổ biến trong điều trị suy hô hấp ở trẻ sơ sinh. Từ đó, trẻ sơ sinh bị suy hô hấp có thêm cơ hội sống sót và phát triển khỏe mạnh.
+Mục lụcKỹ thuật bơm Surfactant là gì?Nguyên nhân gây thiếu SurfactantLợi ích của liệu pháp SurfactantChỉ định dùng SurfactantChống chỉ định bơm SurfactantBơm Surfactant trong điều trị suy hô hấp sơ sinh1. Kỹ thuật INSURE (INtubation-SURfactant-Extubation: Đặt nội khí quản – Bơm Surfactant – Rút nội khí quản)2. Kỹ thuật LISA/MIST (Less Invase Surfactant Administration/Minimally Invase Surfactant Therapy: Bơm surfactant ít xâm lấn).Tai biến – biến chứng của bơm SurfactantKỹ thuật bơm Surfactant là gì?
+Bơm Surfactant (Chất hoạt động bề mặt phổi) là một kỹ thuật cung cấp Surfactant vào phổi của trẻ sơ sinh để làm giảm sức căng bề mặt phế nang, ngăn ngừa xẹp phổi và cải thiện độ đàn hồi của phổi. (1)
+Surfactant là chất lót bề mặt phổi, đây là một phức hợp phospholipid và lipoprotein được sản xuất bởi tế bào phế nang loại II. Sự sản xuất surfactant bắt đầu từ khoảng tuần thứ 24 đến tuần 28 của thai kỳ và đạt mức đủ để hỗ trợ hô hấp tự nhiên cho trẻ vào khoảng 34 đến 36 tuần tuổi thai.
+Năm 2023, Hiệp hội Nhi khoa Mỹ (AAP) khuyến cáo, tất cả các trẻ sinh non cần được bác sĩ sơ sinh hồi sức, hỗ trợ hô hấp ngay lập tức nếu có chỉ định. Các trẻ cực non nên được hỗ trợ bằng thở áp lực dương liên tục qua mũi. Bơm Surfactant được thực hiện sớm khi có chỉ định sẽ là giải pháp giúp giảm tỷ lệ đặt nội khí quản.
+Trẻ sẽ được bơm Surfactant liều đầu trong vòng vài giờ đầu tiên, tốt nhất là trong hai giờ đầu. Nếu trẻ sơ sinh không đáp ứng tốt với liều đầu, liều thứ hai sẽ được thực hiện trong vòng 6 – 12 giờ tiếp theo.
+Trẻ sinh non tháng cần được hỗ trợ hô hấp ngay từ khi mới chào đời.
+Nguyên nhân gây thiếu Surfactant
+Nguyên nhân thiếu Surfactant là do tế bào phế nang loại 2 chưa hoàn thiện, hoặc tế bào phế nang loại 2 bị ức chế hoạt động.
+Thiếu hụt Surfactant nguyên phát là một tình trạng thường gặp ở trẻ sinh non do tế bào phế nang loại 2 chưa hoàn thiện. Tình trạng này gây ra hội chứng nguy kịch hô hấp cấp ở trẻ sơ sinh, còn gọi là bệnh màng trong.
+Trẻ có biểu hiện thở gắng sức, thở co lõm ngực, rên rỉ, cánh mũi phập phồng… dẫn đến nhiều biến chứng như tràn khí màng phổi, xuất huyết phổi, xuất huyết não… và tử vong sơ sinh. Khi trẻ được bơm Surfactant sớm, suy hô hấp cải thiện, trẻ sẽ giảm nguy cơ bệnh nặng và biến chứng.
+Ngoài ra thiếu hụt Surfactant thứ phát cũng gặp ở các trẻ đủ tháng và gần đủ tháng với tỉ lệ ít hơn so với trẻ sinh non. Nguyên nhân vì tế bào phế nang loại 2 bị bất hoạt và chất surfactant bị phá hủy, trong các trường hợp trẻ sơ sinh bị viêm phổi hít phân su, viêm phổi nặng, xuất huyết phổi…
+Các yếu tố làm tăng nguy cơ thiếu hụt Surfactant:
+Sinh non: càng non tháng sự thiếu hụt surfactant càng tăng lên.
+Là bé trai.
+Sinh mổ chưa chuyển dạ.
+Ngạt chu sinh.
+Đa thai.
+Mẹ tiểu đường.
+Tiền căn gia đình: do đột biến các men mã hóa protein surfactant hoặc protein vận chuyển.
+Các yếu tố làm giảm nguy cơ thiếu hụt Surfactant:
+Bé gái.
+Sinh thường.
+Vỡ ối kéo dài.
+Mẹ có sử dụng corticoids trước sinh.
+Mẹ có sử dụng thuốc an thần, nội tiết tố tuyến giáp, thuốc giảm cơn gò tử cung.
+Lợi ích của liệu pháp Surfactant
+Các lợi ích mang tại từ liệu pháp Surfactant:
+Giúp giảm tỷ lệ biến chứng và tử vong ở trẻ sinh non mắc hội chứng nguy kịch hô hấp cấp.
+Hồi phục quá trình oxy hóa và giảm nhu cầu oxy hóa qua màng ngoài cơ thể (ECMO).
+Giảm tỷ lệ thở máy, giảm nguy cơ tràn khí màng phổi, khí phế thủng, tăng cơ hội sống sót khỏe mạnh mà không bị loạn sản phổi thông qua liệu pháp bơm surfactant sớm và thông khí bảo vệ phổi ở trẻ sinh non.
+Cải thiện trao đổi khí, rút ngắn thời gian thở máy và nằm viện.
+Chỉ định dùng Surfactant
+Hiện nay, chỉ định thực hiện bơm Surfactant được thực hiện khi:
+Có bằng chứng lâm sàng và X-quang về hội chứng suy hô hấp (RDS).
+Trẻ sơ sinh cần đặt nội khí quản và thở máy thứ phát sau suy hô hấp.
+Trẻ sơ sinh mắc hội chứng hít phân su có nhu cầu oxy cao.
+Xem xét thực hiện ở bệnh nhân xuất huyết phổi nặng đã ngưng tiến triển.
+Chống chỉ định bơm Surfactant
+Phương pháp bơm Surfactant không dùng cho các trường hợp:
+Trẻ có dị tật bẩm sinh nặng không thích nghi được với cuộc sống ngoài tử cung.
+Gia đình từ chối điều trị surfactant.
+Kỹ thuật bơm surfactant mang đến nhiều cơ hội sống sót và giảm tỷ lệ mắc các biến chứng về hô hấp cho trẻ sinh non.
+Bơm Surfactant trong điều trị suy hô hấp sơ sinh
+Surfactant được bơm vào phổi ở dạng lỏng, qua ống nội khí quản hoặc qua ống thông nhỏ được đặt vào khí quản. Tùy vào từng trường hợp cụ thể, bác sĩ sẽ chỉ định bơm Surfactant bằng một trong hai kỹ thuật sau:
+1. Kỹ thuật INSURE (INtubation-SURfactant-Extubation: Đặt nội khí quản – Bơm Surfactant – Rút nội khí quản)
+Kỹ thuật INSURE được áp dụng cho trẻ sơ sinh suy hô hấp chưa đặt nội khí quản thở máy có tác dụng giảm nguy cơ thở máy xâm lấn, từ đó hạn chế nguy cơ gặp biến chứng do thở máy.
+Thực hiện
+Bước 1: Chuẩn bị bệnh nhân.
+Caffeine citrate 20mg/kg tiêm vào đường tĩnh mạch nhằm ngăn ngừa tình trạng ngưng thở.
+Fentanyl 0.5-1mg/kg tiêm tĩnh mạch để an thần nếu cần.
+Bước 2: Đặt nội khí quản qua đường miệng. Đánh giá lâm sàng vị trí ống.
+Bước 3: Bơm Surfactant 100 – 200 mg/kg, thông khí áp lực dương trong 5-10 phút.
+Bước 4: Rút ống nội khí quản.
+Bước 5: Tiếp tục thở áp lực dương liên tục (NCPAP) hoặc thở máy không xâm lấn.
+2. Kỹ thuật LISA/MIST (Less Invase Surfactant Administration/Minimally Invase Surfactant Therapy: Bơm surfactant ít xâm lấn).
+Đây là một kỹ thuật ít xâm lấn và được ưa chuộng hơn so với kỹ thuật INSURE, giảm biến chứng liên quan đến nội khí quản và tổn thương phổi do thông khí cơ học qua nội khí quản. Với điều kiện trẻ tự thở hiệu quả với thở máy không xâm lấn. Bệnh nhi được bơm surfactant thông qua một ống thông nhỏ đặt vào khí quản.
+Thực hiện:
+Bước 1: Hỗ trợ hô hấp cho trẻ bằng thở máy không xâm lấn trong cả quá trình thực hiện bơm surfactant.
+Bước 2: Caffeine citrate 20mg/kg tiêm vào đường tĩnh mạch trước thủ thuật 30-60 phút và đặt trẻ ở vị trí, tư thế phù hợp.
+Bước 3: Giảm đau cho trẻ bằng sucrose hoặc sữa mẹ trong 2 phút trước khi thực hiện thủ thuật.
+Bước 4: Đặt ống thông vào khí quản nhờ đèn soi thanh quản.
+Bước 5: Bơm Surfactant, theo dõi nhịp tim, SpO2. Tạm ngừng thủ thuật khi trẻ có hiện tượng ngưng thở, chậm nhịp tim.
+Bước 6: Rút ống thông từ từ ra khỏi khí quản sau khi bơm xong.
+Tai biến – biến chứng của bơm Surfactant
+Bơm Surfactant vẫn có thể xảy ra một số biến chứng như:
+Giảm oxy máu, chậm nhịp tim thoáng qua.
+Trào ngược surfactant từ khí quản lên vùng hầu họng (đối với phương pháp LISA)
+Hạ huyết áp thoáng qua;
+Xuất huyết phổi do còn ống động mạch rối loạn huyết động;
+So với lợi ích do kỹ thuật bơm Surfactant, nguy cơ biến chứng trên là không đáng kể và có thể khắc phục được.
+Để biết thêm thông tin về cách chăm sóc trẻ và những vấn đề về sức khỏe khác của trẻ, bạn có thể liên hệ Trung tâm Sơ sinh, bệnh viện đa khoa Tâm Anh theo địa chỉ:
+Hy vọng với những thông tin trên, quý phụ huynh đã hiểu rõ hơn về kỹ thuật bơm Surfactant trong điều trị suy hô hấp ở trẻ sơ sinh. Kỹ thuật thực hiện bởi đội ngũ chuyên gia, y bác sĩ được đào tạo chuyên sâu trong môi trường có sẵn các thiết bị đặt nội khí quản và hồi sức sơ sinh.

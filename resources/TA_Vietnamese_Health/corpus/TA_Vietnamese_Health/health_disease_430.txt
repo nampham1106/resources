@@ -1,0 +1,149 @@
+# doc_id = health_disease_430
+# url = https://tamanhhospital.vn/ung-thu-dai-trang-co-chua-duoc-khong/
+# date = 29/03/2024
+Bệnh ung thư đại tràng có chữa được không? Yếu tố nào ảnh hưởng?
+Theo số liệu từ Tổ chức Ung thư Toàn cầu Globocan 2022, ung thư đại tràng đứng thứ tư về tỷ lệ mắc, đứng thứ 5 về tỷ lệ tử vong tại Việt Nam. Vậy bệnh ung thư đại tràng có chữa được không? Yếu tố nào ảnh hưởng đến việc điều trị bệnh. Bài viết dưới đây, ThS.BS.Nguyễn Tiến Sỹ, Bệnh viện Đa khoa Tâm Anh TP.HCM sẽ giúp giải đáp thắc mắc về kết quả điều trị bệnh ung thư đại tràng và lưu ý một số yếu tố có thể gây ảnh hưởng đến kết quả điều trị.
+Mục lụcBệnh ung thư đại tràng có chữa được không?Các yếu tố ảnh hưởng đến khả năng điều trị của ung thư đại tràng1. Giai đoạn ung thư đại tràng2. Phác đồ điều trị ung thư đại tràng3. Đánh giá tình trạng mất biểu hiện protein sửa chữa bắt cặp sai (MisMatch Repair testing = MMR hoặc Microsatellite Instability =MSI)Các phương pháp điều trị ung thư đại tràng phổ biến1. Phẫu thuật2. Điều trị toàn thânLựa chọn phương pháp điều trị ung thư đại tràngBệnh ung thư đại tràng có chữa được không?
+Ung thư đại tràng có tỷ lệ chữa khỏi cao nếu phát hiện bệnh ở giai đoạn sớm. Người bệnh có thể vượt qua ung thư và sống khỏe mạnh như bình thường. Có 4 giai đoạn ung thư đại tràng từ 0-4. Trong đó, giai đoạn 0, ung thư nằm hoàn toàn bên trong niêm mạc đại tràng. Giai đoạn 4, ung thư tiến triển và di căn đến các cơ quan khác trong cơ thể. (1)
+Các yếu tố ảnh hưởng đến khả năng điều trị của ung thư đại tràng
+Khả năng điều trị ung thư đại tràng phụ thuộc vào nhiều yếu tố như giai đoạn phát hiện bệnh, sức khỏe người bệnh, mức độ đáp ứng với phương pháp điều trị,… Cụ thể:
+1. Giai đoạn ung thư đại tràng
+Giai đoạn ung thư đại tràng là yếu tố quan trọng ảnh hưởng đến kết quả điều trị và tiên lượng bệnh. Tiên lượng sống sau 5 năm theo từng giai đoạn bệnh ung thư đại tràng khác nhau.
+Ung thư đại tràng được phân giai đoạn dựa trên sự phát triển và di căn của tế bào ung thư. Tế bào ung thư có thể hình thành một hoặc nhiều khối u trong thành đại tràng và có thể phát triển xuyên qua thành đại tràng để xâm lấn cơ quan xung quanh. Đồng thời, tế bào ung thư cũng có khả năng di căn đến cơ quan khác để tạo thành khối u mới.
+Tại thời điểm chẩn đoán, tình trạng ung thư đại tràng của mỗi người bệnh có mức độ phát triển và di căn khác nhau. Hệ thống phân giai đoạn dựa trên sự phát triển và di căn của tế bào ung thư.
+Bác sĩ sử dụng phân loại giai đoạn ung thư cho nhiều mục đích như:
+Đánh giá tiên lượng bệnh.
+Xác định phương pháp điều trị cho từng người bệnh.
+Cá thể hóa việc lập kế hoạch điều trị.
+Nghiên cứu nhóm bệnh ung thư với những giai đoạn khác nhau.
+Thành đại tràng được tạo bởi nhiều lớp khác nhau. Ung thư bắt đầu xuất hiện từ lớp niêm mạc nằm ở trong cùng, nơi tiếp xúc với thức ăn. Sau đó, tế bào ung thư dần lây lan đến lớp dưới niêm mạc – bộ phận được tạo thành từ mô liên kết, chứa tuyến chất nhầy, mạch máu và bạch huyết, dây thần kinh. Dưới lớp này là lớp cơ trơn và bên ngoài có lớp thanh mạc.
+Tế bào ung thư phát triển xuyên qua, phá vỡ các lớp của thành đại tràng và xâm lấn đến cơ quan bên trong ổ bụng. Tế bào ung thư cũng có thể tách ra khỏi khối u ban đầu, di chuyển theo đường bạch huyết hoặc máu đến hạch gần đó hoặc cơ quan khác.
+Hệ thống khối u, hạch, di căn (TNM) của Ủy ban Ung thư Liên hợp Hoa Kỳ (AJCC) được sử dụng để phân giai đoạn ung thư đại tràng. Cụ thể:
+T: khối u phát triển đến lớp nào của thành đại tràng.
+N: số lượng hạch bạch huyết lân cận đã bị di căn ung thư.
+M: ung thư có di căn đến vùng hoặc cơ quan bên ngoài đại tràng hay không.
+Chỉ số số T, N và M được kết hợp để xếp loại ung thư vào một trong giai đoạn từ 0-4, bao gồm:
+Giai đoạn 0: tế bào bất thường trên lớp trong cùng của thành đại tràng. Những tế bào bất thường này có thể trở thành ung thư và xâm lấn vào lớp sâu hơn của thành đại tràng. Ung thư đại tràng giai đoạn 0 thường gọi ung thư biểu mô tại chỗ của đại tràng.
+Giai đoạn 1: ung thư đã phát triển vào lớp thứ hai hoặc thứ ba của thành đại tràng nhưng chưa di căn đến hạch bạch huyết gần đó và cơ quan bên ngoài đại tràng.
+Giai đoạn 2: ung thư đã phát triển đến hoặc vượt ra ngoài, lớp thứ tư của thành đại tràng. Không có ung thư ở hạch bạch huyết gần đó hoặc ở khu vực bên ngoài đại tràng.
+Giai đoạn 3: ung thư đã di căn từ đại tràng đến hạch bạch huyết gần đó hoặc khối u nhỏ trong mô mỡ xung quanh đại tràng.
+Giai đoạn 4: ung thư đã di căn đến khu vực bên ngoài đại tràng và hạch bạch huyết gần đó. Cơ quan ung thư đại tràng thường di căn đến gan và phổi.
+Xem thêm:
+Ung thư đại tràng giai đoạn 1
+Ung thư đại tràng giai đoạn 2
+Ung thư đại tràng giai đoạn 3
+Ung thư đại tràng giai đoạn 4
+2. Phác đồ điều trị ung thư đại tràng
+Bác sĩ lên phác đồ điều trị khác nhau tùy thuộc vào tình trạng của từng người bệnh, giai đoạn bệnh, thể trạng, khả năng đáp ứng điều trị, bệnh đi kèm và khả năng dung nạp với tác dụng phụ.
+Ung thư đại tràng giai đoạn 1-3 được điều trị bằng phẫu thuật. Trường hợp, ung thư tiến triển sang giai đoạn 3, ngoài phẫu thuật, người bệnh cần kết hợp với hóa trị để giảm nguy cơ tế bào ung thư di căn đến cơ quan khác.
+Với người bệnh ở giai đoạn cuối, liệu pháp toàn thân thường được áp dụng. Đồng thời, bác sĩ có thể phối hợp thêm liệu pháp tại chỗ để làm chậm diễn tiến của bệnh, kéo dài thời gian sống và giảm triệu chứng do bệnh gây ra.
+Người bệnh khi đã được lên phác đồ điều trị chi tiết cần tuân thủ hướng dẫn của bác sĩ nhằm tăng khả năng đáp ứng với điều trị. Nếu người bệnh do dự trong quá trình điều trị hoặc bỏ lỡ thời điểm quan trọng, tình trạng sức khỏe có thể trở nên nghiêm trọng hơn và giảm hiệu quả điều trị.
+3. Đánh giá tình trạng mất biểu hiện protein sửa chữa bắt cặp sai (MisMatch Repair testing = MMR hoặc Microsatellite Instability =MSI)
+Đây là dấu ấn sinh học được khuyến cáo thực hiện cho tất cả người bệnh ung thư đại tràng. Dấu ấn sinh học là những thay đổi đặc hiệu của tế bào ung thư và những thay đổi này có thể giúp định hướng trong việc lựa chọn phương pháp điều trị cụ thể cho những thay đổi này.
+Xét nghiệm này được thực hiện bằng cách phân tích mẫu lấy ra từ khối u đại tràng. Tùy thuộc vào phương pháp được sử dụng, kết quả bất thường được gọi là mất ổn định vi vệ tinh mức độ cao Microsatellite Instability-High (MSI-H) hoặc thiếu hụt protein sửa chữa bắt cặp sai MisMatch Repair deficient (dMMR). Khối u không có những thay đổi này được gọi là ổn định vi vệ tinh MicroSatellite Stable (MSS) hoặc không thiếu hụt protein sửa chữa bắt cặp sai MisMatch Repair proficient (pMMR). Nếu kết quả là dMMR/MSI-H, hướng dẫn điều trị hiện nay cũng khuyến cáo nên xét nghiệm người bệnh có mắc hội chứng Lynch di truyền hay không.
+Giai đoạn ung thư đại tràng thuộc yếu tố quan trọng ảnh hưởng đến kết quả điều trị và tiên lượng bệnh.
+Các phương pháp điều trị ung thư đại tràng phổ biến
+Một số phương pháp điều trị ung thư đại tràng phổ biến, bao gồm: (2)
+1. Phẫu thuật
+Cắt polyp: polyp là khối u nhỏ nhô lên từ lớp niêm mạc bên trong thành đại tràng. Trong đó, polyp tuyến phổ biến nhất và có thể tiến triển thành ung thư đại tràng xâm lấn trong nhiều năm. Ung thư bắt nguồn từ polyp tuyến thường gọi ung thư biểu mô tuyến. Có 2 dạng polyp chính:
+Polyp có cuống: hình dạng giống như nấm, mọc ra ngoài thành đại tràng. Polyp này có cuống và phần đầu tròn.
+Polyp phẳng: hình dạng phẳng hơn và không có cuống.
+Polyp bắt đầu chuyển sang ung thư được gọi polyp ác tính. Hầu hết, polyp có thể được loại bỏ trong quá trình nội soi đại tràng, bằng thủ thuật ngoại khoa nhỏ như cắt polyp và không cần điều trị thêm. Tuy nhiên, một vài trường hợp cần tiến hành phẫu thuật cắt bỏ một phần đại tràng. Điều này phụ thuộc vào:
+Kích thước và hình dạng của polyp (có cuống hoặc phẳng).
+Kết quả cắt polyp.
+Kết quả xét nghiệm polyp đã cắt.
+Nếu ung thư không phát hiện sớm để loại bỏ bằng cắt polyp, người bệnh cần phẫu thuật cắt đại tràng. Phương pháp này thường được chọn nếu khối u đại tràng có thể được cắt bỏ hoàn toàn.
+Cắt đại tràng: Loại phẫu thuật này cắt bỏ phần đại tràng chứa khối u, hai đầu lành của đoạn đại tràng còn lại sẽ được khâu nối với nhau. Ngoài ra, bác sĩ còn nạo ít nhất 12 hạch bạch huyết phân bố gần khối u để xét nghiệm. Phẫu thuật cắt đại tràng có thể thực hiện theo 2 cách sau:
+Phẫu thuật mở: phương pháp này nhằm loại bỏ khối u thông qua đường rạch lớn trên bụng.
+Phẫu thuật nội soi: phương pháp ít xâm lấn được thực hiện bằng cách tạo vài vết cắt nhỏ. Dụng cụ được đưa qua vết cắt để phẫu thuật viên có thể quan sát và cắt bỏ một phần đại tràng có chứa khối u.
+Bệnh phẩm được lấy ra trong quá trình phẫu thuật được gửi đến bác sĩ nhằm xác định ung thư đã xâm lấn đến lớp nào của thành đại tràng. Đồng thời, bác sĩ kiểm tra hạch bạch huyết có ung thư di căn không. Kết quả sẽ được sử dụng để phân loại giai đoạn ung thư và xác định người bệnh cần điều trị hỗ trợ sau phẫu thuật hay không.
+Phẫu thuật mở hậu môn nhân tạo
+Tại thời điểm cắt đại tràng, người bệnh có thể thực hiện thủ thuật mở hậu môn nhân tạo do không thể nối đoạn đại tràng còn lại an toàn. Trong phẫu thuật mở hậu môn, phần trên còn lại của đại tràng được nối với lỗ mở trên thành bụng. Phân thoát ra khỏi cơ thể qua lỗ mở này, vào túi hậu môn dán trên da bụng. Thủ thuật này được thực hiện trong thời gian ngắn. Hậu môn nhân tạo này có thể được đóng lại bằng ca phẫu thuật khác.
+Trường hợp khối u quá lớn gây tắc nghẽn dòng chảy của phân, bác sĩ dùng một số phương pháp để điều trị như cắt đại tràng nối ngay 1 thì, cắt đại tràng kết hợp mở hậu môn nhân tạo hoặc tạo hậu môn nhân tạo trước rồi phẫu thuật lần 2 cắt đoạn đại tràng chứa u.
+Đặt stent: bác sĩ có thể đặt ống lưới kim loại (stent) trước để giải quyết tạm thời tình trạng tắc nghẽn, sau đó phẫu thuật lần 2 để cắt bỏ đoạn đại tràng chứa u. Stent giúp đại tràng thông trở lại, cho phép khí và phân đi qua.
+Phẫu thuật cắt gan hoặc phổi: trường hợp ung thư đại tràng di căn gan hoặc phổi, bác sĩ có thể xem xét phẫu thuật cắt bỏ khối u ở cơ quan này. Ngoài ra, nếu không thể phẫu thuật cắt bỏ, thủ thuật can thiệp tại chỗ khác như đốt u có thể được thực hiện.
+2. Điều trị toàn thân
+Hoá trị sau phẫu thuật: phương pháp này sử dụng thuốc để tiêu diệt tế bào ung thư. Đây là liệu pháp điều trị toàn thân. Hoá trị thường được truyền tĩnh mạch hoặc bào chế dưới dạng thuốc uống qua đường miệng. Vì vậy, thuốc có thể di chuyển theo đường máu để đến khắp cơ thể. Hoá trị được thực hiện theo chu kỳ, xen kẽ giữa ngày điều trị và ngày nghỉ. Điều này cho phép cơ thể người bệnh có thể phục hồi giữa chu kỳ. Số ngày trong mỗi chu kỳ phụ thuộc vào loại thuốc được sử dụng.
+Chỉ định hoá trị theo giai đoạn bệnh: (3)
+Giai đoạn 1: không khuyến cáo hoá trị sau cắt đại tràng với ung thư giai đoạn 1.
+Giai đoạn 2:
+Không khuyến cáo hoá trị sau cắt đại tràng với ung thư dMMR/MSI-H giai đoạn 2A và 2B. Tuy nhiên, bác sĩ có thể thực hiện với trường hợp ung thư dMMR/MSI-H giai đoạn 2C.
+Khuyến cáo hoá trị sau cắt đại tràng với trường hợp ung thư pMMR/MSS giai đoạn 2. Hoá trị hiệu quả nhất khi ung thư có nguy cơ tái phát cao. Bác sĩ sẽ xem xét đặc điểm và yếu tố nguy cơ của bệnh ung thư để xác định khả năng tái phát.
+Nếu có kế hoạch hoá trị, phác đồ điều trị được khuyến cáo bao gồm capecitabine và 5-fluorouracil (5-FU)/leucovorin. Thuốc được dùng trong 6 tháng. FOLFOX và CAPEOX là những lựa chọn được khuyến cáo cho trường hợp ung thư nguy cơ cao. FOLFOX được dùng trong 6 tháng và CAPEOX trong 3 tháng.
+Người bệnh ung thư đại tràng giai đoạn 3 thường tiếp tục hóa trị sau khi phẫu thuật cắt đại tràng để ngừa bệnh tái phát.
+Giai đoạn 3
+Hoá trị được khuyến cáo sử dụng sau cắt đại tràng ở trường hợp ung thư đại tràng giai đoạn 3. Sau khi phẫu thuật cắt bỏ một phần đại tràng, hầu hết người bệnh ung thư đại tràng giai đoạn 3 sẽ tiếp tục hóa trị để tiêu diệt tế bào ung thư còn sót lại và giảm nguy cơ bệnh tái phát.
+Phác đồ điều trị được lựa chọn ưu tiên bao gồm CAPEOX và FOLFOX. Đây là phác đồ phối hợp thuốc hóa trị khác nhau thường được dùng để điều trị ung thư đại tràng. Ngoài ra, bác sĩ có thể dùng phác đồ khác như Capecitabine – thuốc hóa trị có thể được dùng dưới dạng viên nén và 5-FU – thuốc hóa trị khác thường được truyền qua đường tĩnh mạch.
+Hoá trị thường được thực hiện trong khoảng từ 3-6 tháng. Thời gian điều trị phụ thuộc vào phác đồ cụ thể và nguy cơ tái phát của từng người bệnh. Bác sĩ sẽ xem xét yếu tố như mức độ nghiêm trọng của bệnh, tình trạng di căn hạch bạch huyết gần đó và tình trạng sức khỏe tổng thể của từng người bệnh để xác định phác đồ hóa trị và thời gian điều trị tốt nhất.
+Giai đoạn 4
+Việc lựa chọn liệu pháp toàn thân hoá trị hay liệu pháp miễn dịch phụ thuộc vào tình trạng mất biểu hiện protein sửa chữa bắt cặp sai (MisMatch Repair testing MMR) hoặc MicroSatellite Instability MSI) của tế bào ung thư.
+Ung thư có tình trạng dMMR/MSI-H (thiếu hụt protein sửa chữa bắt cặp sai / mất ổn định vi vệ tinh mức độ cao): bác sĩ thường điều trị bằng liệu pháp miễn dịch thay vì hoá trị và đã được chứng minh hiệu quả qua nhiều thử nghiệm lâm sàng lớn.
+Ung thư có tình trạng pMMR/MSS (không thiếu hụt protein sửa chữa bắt cặp sai/ổn định vi vệ tinh): hoá trị thường được dùng để điều trị toàn thân chính. Phác đồ hoá trị cho giai đoạn này có thể là:
+FOLFIRI
+FOLFOX
+CAPEOX
+FOLFIRINOX
+Thuốc kháng sinh mạch Bevacizumab (Avastin) có thể được phối hợp sử dụng với phác đồ trên. Trường hợp ung thư pMMR/MSS, không có đột biến RAS (KRAS hoặc NRAS) hoặc BRAF có thể sử dụng phác đồ FOLFIRI hoặc FOLFOX kết hợp với liệu pháp nhắm đích – Panitumumab (Vectibix) hoặc Cetuximab (Erbitux).
+Đôi khi liệu pháp toàn thân có thể giúp thu nhỏ kích thước khối u, giảm giai đoạn bệnh giúp chuyển đổi từ không thể phẫu thuật thành có thể kết hợp phương pháp điều trị tại chỗ nhằm mục tiêu điều trị triệt để.
+Sau điều trị với phác đồ bước đầu, nếu không thể chuyển đổi mục tiêu sang điều trị triệt để, người bệnh sẽ tiếp tục điều trị toàn thân, mục tiêu lúc này là làm chậm sự phát triển và di căn của ung thư.
+Nếu bệnh tiến triển, người bệnh thường được lựa chọn phác đồ điều trị tiếp theo. Việc lựa chọn này phụ thuộc vào phác đồ trước đó đã điều trị, thể trạng người bệnh, khả năng chịu đựng tác dụng phụ có thể gặp phải,…
+Một điểm quan trọng là xác định dấu ấn sinh học của khối u. Ung thư mang dấu ấn sinh học đặc trưng giúp lựa chọn liệu pháp nhắm đích phù hợp. Phác đồ điều trị nhắm đích vào dấu ấn sinh học cụ thể được liệt kê trong bảng:
+Điều trị nhắm đích vào dấu ấn sinh học cụ thể cho ung thư pMMR/MSS
+BRAF V600E mutation
+Encorafenib và cetuximab hoặc panitumumab
+HER2 amplification
+Trastuzumab (Herceptin) và pertuzumab, lapatinib hoặc tucatinib
+Fam-trastuzumab deruxtecan-nxki (Enhertu)
+KRAS G12C mutation
+Sotorasib (Lumakras) và cetuximab hoặc panitumumab
+Adagrasib (Krasati) và cetuximab hoặc panitumumab
+NTRK gene fusion
+Entrectinib (Rozlytrek)
+Larotrectinib (Vitrakvi)
+RET gene fusion
+Selpercatinib (Retevmo)
+Nếu phác đồ điều trị trên đều không hiệu quả, lựa chọn sau đây có thể phù hợp:
+Liệu pháp nhắm mục tiêu với Fruquintinib (Fruzaqla). (4)
+Hoá trị với Trifluridine và Tipiracil (Lonsurf), có thể kết hợp với Bevacizumab (Avastin).
+Liệu pháp nhắm mục tiêu với Regorafenib (Stivarga).
+Tất cả thuốc này đều được dùng dưới dạng viên nang, thuận tiện cho việc điều trị theo đường uống.
+Hóa trị cũng có thể được sử dụng trước khi phẫu thuật để thu nhỏ khối ung thư giúp quá trình phẫu thuật sau đó dễ dàng hơn, hoặc giúp giảm giai đoạn bệnh từ không thể điều trị triệt để được thành có thể điều trị triệt để trong một số trường hợp di căn giới hạn.
+Liệu pháp miễn dịch: phương pháp điều trị tác động lên hệ thống miễn dịch của cơ thể nhằm chống lại ung thư bằng cách tăng cường hoặc thay đổi cách hệ thống miễn dịch hoạt động, khuếch đại khả năng phát hiện và tấn công tế bào ung thư. Trong ung thư đại tràng, liệu pháp này được sử dụng trong trường hợp bệnh tiến xa, di căn có tình trạng mất ổn định vi vệ tinh dMMR/MSI-H. Một số liệu pháp miễn dịch phổ biến trong ung thư đại tràng bao gồm:
+Nivolumab (Opdivo) phối hợp với Ipilimumab (Yervoy).
+Pembrolizumab (Keytruda).
+Dostarlimab-gly (Jemperli).
+Xạ trị: phương pháp này sử dụng tia X để điều trị ung thư. Tia xạ làm tổn thương tế bào ung thư, ngừng sinh sản và chết đi. Xạ trị không được áp dụng cho việc điều trị khối u đại tràng, nhưng có thể được sử dụng cho tổn thương di căn theo nhiều cách khác như di căn gan, phổi, não, xương, tuỷ sống…
+Lựa chọn phương pháp điều trị ung thư đại tràng
+Việc lựa chọn phương pháp điều trị ung thư đại tràng cần dựa vào giai đoạn ung thư, thể trạng của từng người bệnh, đặc điểm dấu ấn sinh học, điều kiện tài chính,…. Xét nghiệm chẩn đoán xác định bệnh ung thư đại tràng, bao gồm: (5)
+Khám sức khỏe tổng quát.
+Xét nghiệm máu huyền bí trong phân (FOBT).
+Nội soi đại tràng sigma.
+Nội soi đại trực tràng.
+Sinh thiết.
+Các xét nghiệm chẩn đoán giai đoạn ung thư đại tràng, gồm:
+Chụp CT.
+Chụp MRI.
+Chụp PET-CT.
+Chụp X-quang ngực, siêu âm bụng
+Xét nghiệm bệnh phẩm phẫu thuật và nạo vét hạch
+Xét nghiệm dấu ấn ung thư CEA, CA19-9,…
+Bác sĩ sẽ dùng xét nghiệm để xác định bệnh ung thư đại tràng và đưa ra phương pháp điều trị phù hợp với người bệnh.
+Khoa Ung bướu BVĐK Tâm Anh được đầu tư xây dựng theo tiêu chuẩn quốc tế, cung cấp dịch vụ chăm sóc sức khỏe hàng đầu, áp dụng mô hình điều trị đa mô thức và cá thể hóa trong điều trị ung thư.
+Để đáp ứng nhu cầu thực tế về điều trị toàn diện kết hợp dịch vụ chăm sóc người bệnh chuyên nghiệp, khoa Ung bướu BVĐK Tâm Anh định hướng trở thành một trong những trung tâm tư vấn và điều trị ung thư hàng đầu trên địa bàn thành phố, góp phần giải quyết gánh nặng về bệnh tật ung thư tại TP.HCM và khu vực lân cận, đồng thời giảm áp lực cho bệnh viện tuyến công lập.
+Khoa Ung bướu BVĐK Tâm Anh TP.HCM được đầu tư trang thiết bị hiện đại, có đội ngũ y bác sĩ chuyên môn cao luôn hỗ trợ chăm sóc chuyên biệt cho từng người bệnh, hỗ trợ tiếp cận với nhiều chuyên gia y tế hàng đầu ở nước ngoài, cập nhật nhanh phác đồ điều trị tương đương với tiêu chuẩn thế giới, góp phần nâng cao chất lượng dịch vụ khám chữa bệnh cho người bệnh ung thư trong khu vực và người bệnh trở về từ trung tâm y tế nước ngoài.
+Khoa Ung bướu BVĐK Tâm Anh TP.HCM đảm nhận chức năng, nhiệm vụ sau:
+Tư vấn, hướng dẫn tầm soát nhằm phát hiện và điều trị sớm bệnh ác tính trong cộng đồng.
+Từng bước triển khai dịch vụ khám chữa bệnh đa dạng, hợp lý để đáp ứng nhu cầu người bệnh.
+Khám và điều trị một số bệnh ung bướu (lành tính và ác tính).
+Tổ chức tiếp nhận, cấp cứu, khám, phát hiện, sàng lọc và điều trị, quản lý người bệnh ung thư từ bệnh viện, phòng khám, trung tâm y tế trong và ngoài nước chuyển đến.
+Phối hợp với khoa khác (Nội, Ngoại, Sản, Chẩn đoán hình ảnh…) để lập kế hoạch điều trị toàn diện, đa mô thức cho người bệnh ung thư; cập nhật và ứng dụng những tiến bộ về sinh học phân tử để xây dựng chiến lược cá thể hóa trong điều trị; cải thiện chất lượng sống cho người bệnh.
+Điều trị đau và chăm sóc giảm nhẹ triệu chứng cho người bệnh ung thư giai đoạn cuối vượt quá khả năng điều trị bằng phương pháp khác (phẫu thuật, hóa chất, xạ trị….).
+Thực hiện tiêm truyền hóa chất, sử dụng thuốc trúng đích, thuốc miễn dịch để điều trị bệnh ung thư.
+Tham gia nghiên cứu khoa học, triển khai ứng dụng những tiến bộ khoa học để phục vụ khám chữa bệnh, phòng bệnh, phục hồi chức năng trong phòng, chống ung thư.
+Trong tương lai, khoa Ung bướu BVĐK Tâm Anh hướng tới mục tiêu:
+Xây dựng và hoàn thiện quy trình điều trị.
+Hoàn thiện hệ thống hỗ trợ thông tin cho người bệnh.
+Từng bước triển khai dịch vụ khám chữa bệnh đa dạng, hợp lý để đáp ứng nhu cầu của người bệnh.
+Học hỏi, cập nhật và ứng dụng thông tin, kiến thức mới.
+Tiếp tục đào tạo cả trong và ngoài nước để đảm bảo chất lượng khám chữa bệnh ngày càng tăng, cam kết luôn tạo được lòng tin và duy trì sự hài lòng nơi người bệnh.
+Thông qua bài “Bệnh ung thư đại tràng có chữa được không? Yếu tố nào ảnh hưởng?”, nếu người bệnh thấy có dấu hiệu bất thường hãy đến gặp bác sĩ khoa Ung bướu, Bệnh viện Đa khoa Tâm Anh để được bác sĩ khám, chẩn đoán và lên kế hoạch điều trị chính xác và kịp thời.

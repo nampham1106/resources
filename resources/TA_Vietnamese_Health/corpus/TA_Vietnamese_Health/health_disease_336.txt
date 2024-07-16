@@ -1,0 +1,72 @@
+# doc_id = health_disease_336
+# url = https://tamanhhospital.vn/cam-mau-ong-tieu-hoa-bang-argon-plasma/
+# date = 22/02/2024
+Cầm máu ống tiêu hóa bằng Argon Plasma qua nội soi
+Cầm máu ống tiêu hóa bằng Argon Plasma là phương pháp cầm máu không tiếp xúc hiện đại, trở thành lựa chọn thay thế tối ưu cho các kỹ thuật truyền thống trước đó. Phương pháp này được đánh giá cao về độ an toàn, dễ thực hiện và điều trị tổn thương nhanh chóng. Ngoài ra, các biến chứng sau thủ thuật cũng rất hiếm, thường không đáng lo ngại.
+Mục lụcCầm máu ống tiêu hóa bằng Argon Plasma qua nội soi là gì?Cơ chế hoạt động và tiến hànhCác trường hợp chỉ định và chống chỉ định1. Chỉ định2. Chống chỉ địnhQuy trình cầm máu ống tiêu hóa bằng Argon Plasma1. Chuẩn bị2. Thực hiện3. Sau khi cầm máu ống tiêu hóaCác tai biến/rủi ro khi thực hiện cầm máu ống tiêu hóaCầm máu ống tiêu hóa bằng Argon Plasma qua nội soi là gì?
+Cầm máu ống tiêu hóa bằng Argon Plasma qua nội soi (APC) là phương pháp cầm máu không tiếp xúc bằng nhiệt. Đây là lựa chọn thay thế tối ưu cho phương pháp đốt nhiệt bằng đầu dò, đốt điện lưỡng cực và các công nghệ không tiếp xúc hiện có (chủ yếu là laser).
+Cầm máu ống tiêu hóa bằng Argon Plasma được đánh giá cao bởi ưu điểm dễ thực hiện, có khả năng phá hủy mô, loại bỏ các mô bất thường (bao gồm tiền ung thư và ung thư) hoặc đông cầm máu các tổn thương đang chảy máu… Thông qua phương pháp này, bác sĩ có thể điều trị nhanh chóng các tổn thương như trong trường hợp loạn sản mạch máu (angiodysplasia), giãn mạch máu (angioectasia) hoặc các tổn thương diện rộng khác (như diện cắt hay đáy polyp sau khi polyp đã được cắt bỏ hoặc cầm máu các khối u đang chảy máu….). Ngoài ra, cầm máu ống tiêu hóa bằng Argon Plasma còn có độ an toàn cao do giảm độ sâu xuyên thấu, chi phí đồng thời cũng thấp hơn so với cầm máu bằng laser thông thường.
+Cơ chế hoạt động và tiến hành
+Đầu tiên, ống nội soi và đầu dò hay dây đốt APC sẽ được đưa vào ống tiêu hóa. Trong đó, đầu dò được đặt ở khoảng cách xa nhất định không tiếp xúc so với tổn thương, đảm bảo cung cấp luồng khí Argon bị ion hóa hướng vào vị trí tổn thương hoặc khối u đang chảy máu. Khí Argon phát ra sẽ bị ion hóa bởi dòng điện sinh ra nhiệt lượng cao, làm đông tụ hoặc phá hủy các tổn thương hay khối u và giúp cầm máu.
+Công nghệ này sử dụng khí Argon để cung cấp và phân bố năng lượng nhiệt sau khi khí Argon bị ion hóa (plasma) đều khắp vùng mô quanh đầu dò APC. Khi khí Argon được phun ra từ đầu dò theo hướng mô đích, một tia điện áp cao lập tức được phóng ra ở đầu của đầu dò làm ion hóa khí Argon. Về bản chất, khí Argon không cháy, dễ nạp lại và dễ dàng bị ion hóa bởi năng lượng cực đại 6000 volt (được tạo ra từ dây vonfram ngay gần đầu dò). Khí Argon bị ion hóa (plasma) sau đó thâm nhập với độ sâu khoảng 2 – 3 mm vào mô gần nhất để cung cấp năng lượng nhiệt. Điều này sẽ làm cho huyết tương đông lại làm phá hủy mô hay giúp cầm máu các tổn thương. Đầu dò hay dây đốt APC có hay loại chính giúp luồng khí được phóng ra theo hướng tiếp tuyến hay vuông góc với các mô xung quanh. Bằng cách cung cấp năng lượng cho tất cả các mô, phương pháp APC là lựa chọn tối ưu trong điều trị các tổn thương quanh nếp gấp, không nhìn rõ hoặc vị trí không nằm trực tiếp trước ống nội soi.
+Ngoài đầu dò APC, hệ thống thiết bị còn có một máy đốt điện phẫu thuật đặt trên xe đẩy, máy đông cầm máu Argon Plasma, bàn đạp và bình khí Argon đi cùng. Thông qua màn hình điều khiển, bác sĩ có thể dễ dàng điều chỉnh tốc độ dòng khí Argon và công suất cung cấp trên mỗi xung. [1]
+Giãn mạch máu trực tràng xuất huyết sau xạ trị cổ tử cung (trái), cầm máu bằng Argon (giữa), sau cầm máu bằng APC (phải)
+Các trường hợp chỉ định và chống chỉ định
+Phương pháp cầm máu ống tiêu hóa bằng Argon Plasma được khuyến cáo sử dụng cho các trường hợp có chỉ định và không khuyến cáo sử dụng trong các trường hợp chống chỉ định như sau:
+1. Chỉ định
+Phương pháp cầm máu ống tiêu hóa bằng Argon Plasma chủ yếu được sử dụng cho các trường hợp dưới đây:
+Loạn sản mạch máu (angiodysplasia) ở bất cứ nơi nào trong đường tiêu hóa
+Giãn mạch máu ở hang vị dạ dày (Gastric Antral Vascular Ectasia – GAVE) hoặc bệnh dạ dày hình dưa hấu (Watermelon Stomach)
+Viêm trực tràng – đại tràng mạn tính do xạ trị hay giãn mạch máu trực tràng xuất huyết sau xạ trị (radiation proctitis)
+Các khối u đang chảy máu
+Đốt bổ sung diện cắt sau cắt polyp ống tiêu hóa
+Ung thư thực quản
+Điều trị Barrett’s thực quản
+2. Chống chỉ định
+Phương pháp cầm máu ống tiêu hóa bằng Argon Plasma có chống chỉ định tuyệt đối trong những người bệnh đang sử dụng máy điều hòa nhịp tim hoặc máy khử rung tim cấy ghép dễ bị nhiễm điện.[2]
+Loạn sản mạch máu (angiodysplasia) ở đại tràng (trái) được đốt đông cầm máu bằng Argon Plasma (phải)
+Quy trình cầm máu ống tiêu hóa bằng Argon Plasma
+Quy trình thực hiện cầm máu ống tiêu hóa bằng Argon Plasma được tiến hành như sau:
+1. Chuẩn bị
+Quá trình chuẩn bị trước khi cầm máu phụ thuộc vào từng trường hợp cụ thể tùy theo tổn thương nằm ở vị trí nào trên ống tiêu hóa như ở đường tiêu hóa trên, ở ruột non hay đường tiêu hóa dưới. Nhìn chung, người bệnh cần phải được chuẩn bị trước như một cuộc nội soi dạ dày, ruột non hay đại trực tràng. Cụ thể, với tổn thương ở đường tiêu hóa trên, cần nhịn ăn ít nhất 8 tiếng, và nhịn uống ít nhất 2 tiếng. Với tổn thương ở đường tiêu hóa dưới, cần phải chuẩn bị sạch đại tràng bằng uống thuốc xổ hay thụt tháo. Trong trường hợp tổn thương ở ruột non, nếu soi từ miệng xuống thì chỉ cần chuẩn bị giống như soi dạ dày, ngược lại, nếu soi từ hậu môn lên thì chuẩn bị giống như soi đại tràng. Người bệnh cũng cần tạm ngưng dùng một số loại thuốc như aspirin, thuốc chống đông, chống kết tập tiểu cầu… để đảm bảo thủ thuật được an toàn.
+2. Thực hiện
+Trước khi tiến hành cầm máu ống tiêu hóa bằng Argon Plasma, bác sĩ sẽ thực hiện gây mê qua đường truyền tĩnh mạch để tránh cảm giác đau cho người bệnh trong suốt quá trình nội soi. Quy trình tiếp theo như sau:
+Bước 1: Người bệnh nằm trên giường hoặc bàn điều trị.
+Bước 2: Bác sĩ đưa một ống nội soi mềm có gắn camera và nguồn sáng ở đầu vào cơ thể thông qua đường miệng (nếu cầm máu bằng APC ở đường tiêu hóa trên) hoặc qua hậu môn (nếu cầm máu bằng APC ở đường tiêu hóa dưới). Trường hợp chảy máu ở ruột non thì tùy vị trí của tổn thương ở ruột non mà ống soi sẽ được đưa vào qua đường miệng hay hậu môn.
+Bước 3: Bác sĩ đặt một miếng đệm tiếp đất gần cơ thể người bệnh để tránh dòng điện gây nguy hiểm.
+Bước 4: Đầu dò hay dây đốt APC sẽ được đưa qua kênh sinh thiết của ống nội soi và cố định ở vị trí thích hợp nơi tổn thương cần được đốt cầm máu bên trong cơ thể người bệnh.
+Bước 5: Khí Argon được bơm ra qua dây đốt và sau đó ion hóa khí này bằng dòng điện.
+Bước 6: Bác sỹ điều chỉnh vị trí dây đốt, mức khí Argon và dòng điện nếu cần thiết.
+Bước 7: Tháo ống soi, dây đốt APC và miếng đệm tiếp đất khi hoàn tất thủ thuật.
+Cả quá trình cầm máu ống tiêu hóa bằng Argon Plasma thường mất từ 15 – 60 phút.
+3. Sau khi cầm máu ống tiêu hóa
+Sau khi thực hiện thủ thuật cầm máu ống tiêu hóa bằng Argon Plasma, hầu hết người bệnh đều có thể trở về nhà ngay và hoạt động, sinh hoạt bình thường vào ngày hôm sau. Tuy nhiên, người bệnh cần thực hiện một số vấn đề quan trọng sau đây trong vòng từ vài giờ đến vài ngày để đảm bảo vết thương phục hồi tốt:
+Tránh uống rượu.
+Không lái xe hoặc vận hành máy móc hạng nặng do tác dụng của thuốc an thần/gây mê vẫn còn trong 24h.
+Sau khi thực hiện thủ thuật, cần có người khác đưa về nhà.
+Xây dựng chế độ ăn uống theo chỉ định của bác sĩ, có thể bắt đầu lại chế độ ăn uống thông thường một cách từ từ.
+Bác sĩ Phạm Hữu Tùng trong một ca cầm máu ống tiêu hóa bằng Argon Plasma tại Bệnh viện Đa khoa Tâm Anh
+Các tai biến/rủi ro khi thực hiện cầm máu ống tiêu hóa
+Sau thủ thuật cầm máu ống tiêu hóa bằng Argon Plasma, người bệnh sẽ được đưa vào phòng hồi tỉnh nghỉ ngơi và được theo dõi một thời gian ngắn. Người bệnh có thể gặp phải một số tác dụng phụ sau đây:
+Chướng bụng nhẹ
+Đầy hơi
+Chóng mặt thoáng qua
+Mệt mỏi ít
+Phương pháp cầm máu này được đánh giá cao về độ an toàn. Một số biến chứng hiếm gặp bao gồm:
+Chảy máu
+Biến chứng do gây mê: hạ huyết áp, ức chế hô hấp, các vấn đề về tim mạch như nhịp tim nhanh, rối loạn nhịp tim khác
+Hẹp ống tiêu hóa do tạo xơ sẹo
+Thủng ống tiêu hóa
+Biến chứng sau thủ thuật cầm máu ống tiêu hóa bằng Argon Plasma rất hiếm. Tuy nhiên, người bệnh nên liên hệ với bác sĩ để được điều trị kịp thời nếu nhận thấy các triệu chứng/ tình trạng đáng lo ngại như sau:
+Đau bụng dữ dội, không đỡ hơn sau khi đã xì hơi.
+Đau ngực tăng dần
+Chóng mặt
+Sốt hoặc ớn lạnh
+Khó nuốt hoặc đau họng trầm trọng theo thời gian
+Chảy máu trực tràng lượng nhiều, máu có màu đỏ tươi
+Nôn ra máu đỏ tươi
+Trung tâm Nội soi và Phẫu thuật nội soi tiêu hóa (BVĐK Tâm Anh TP.HCM) và Khoa Ngoại Tổng hợp (BVĐK Tâm Anh Hà Nội) thuộc Hệ thống BVĐK Tâm Anh là những trung tâm y tế chuyên khoa Tiêu hóa uy tín, cung cấp dịch vụ thăm khám và điều trị cao cấp, hiệu quả cho người bệnh gặp các vấn đề về đường tiêu hóa từ nhẹ đến nặng.
+Nơi đây quy tụ đội ngũ bác sĩ Nội soi tiêu hóa – Nội khoa và Ngoại khoa Tiêu hóa – Gan Mật Tụy – Hậu môn trực tràng chuyên môn cao, giàu kinh nghiệm. Đặc biệt, các phương pháp ngoại khoa tiên tiến được áp dụng trong các lĩnh vực Nội soi và Phẫu thuật nội soi ít xâm lấn, giúp bệnh nhân nhanh hồi phục, không để lại sẹo với các tên tuổi hàng đầu như TS.BS Đỗ Minh Hùng, TTƯT.TS.BS Phạm Hữu Tùng, BS.CKII Nguyễn Quốc Thái, TS.BS Trần Thanh Bình, ThS.BS.CKII Trần Hiếu Nhân, BS.CKII Hồ Thị Bích Thủy, BS.CKI Đặng Lê Bích Ngọc; điều trị Gan Mật Tụy kỹ thuật hiện đại với TS.BS Phạm Công Khánh, BS.CKII Võ Ngọc Bích; thăm khám và tư vấn bệnh lý nội tiêu hóa với ThS.BS.CKII Lê Thanh Quỳnh Ngân, BS.CKI Huỳnh Văn Trung, BS.CKI Hoàng Đình Thành, ThS.BS Nguyễn Thị Ngọc Bích, ThS.BS.CKI Đoàn Hoàng Long; phẫu thuật trong điều trị các bệnh lý hậu môn trực tràng như ThS.BS Nguyễn Văn Hậu, ThS.BS Ngô Hoàng Kiến Tâm, ThS.BS Nguyễn Thanh Biên…
+Các bác sĩ Khoa Ngoại Tổng hợp cũng dẫn đầu với các kỹ thuật hiện đại trong phẫu thuật nội soi ổ bụng với các tên tuổi chuyên gia như TTƯT.PGS.TS Triệu Triều Dương, ThS.BS.CKII Nguyễn Văn Trường, ThS.BS Lê Văn Lượng… Các chuyên gia thuộc lĩnh vực nội soi tiêu hóa tiêu biểu như TS.BS Vũ Trường Khanh, BSNT Đào Trần Tiến, BSNT Hoàng Nam, BS.CKII Bùi Quang Thạch… Ngoài ra, bệnh viện còn được trang bị hệ thống thiết bị y tế hiện đại, nhập khẩu từ nước ngoài, phục vụ tối đa nhu cầu thăm khám và điều trị của khách hàng.
+Để đặt lịch thăm khám và điều trị các bệnh lý đường tiêu hóa với các chuyên gia bác sĩ về Tiêu hóa của Hệ thống Bệnh viện Đa khoa Tâm Anh, xin vui lòng liên hệ:
+Trên đây là tổng hợp tất cả các thông tin liên quan đến phương pháp cầm máu ống tiêu hóa bằng Argon Plasma, quy trình thực hiện, biến chứng có thể gặp phải và các trường hợp chỉ định, chống chỉ định cụ thể. Hy vọng thông qua những chia sẻ này, người bệnh đã có thêm nhiều cập nhật hữu ích liên quan đến vấn đề điều trị và chăm sóc sức khỏe.

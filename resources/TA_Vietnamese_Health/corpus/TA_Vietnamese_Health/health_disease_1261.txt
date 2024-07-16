@@ -1,0 +1,90 @@
+# doc_id = health_disease_1261
+# url = https://tamanhhospital.vn/u-cot-song/
+# date = 10/11/2023
+U cột sống: Dấu hiệu, nguyên nhân và cách chẩn đoán bệnh
+U cột sống là bệnh lý nguy hiểm, có thể gây tử vong. Vậy dấu hiệu u cột sống như thế nào? Và khối u cột sống được điều trị ra sao?
+U cột sống có thể là u lành tính hoặc ác tính. Có nhiều loại u cột sống bao gồm các khối u cột sống cổ, u cột sống lưng, u trong màng cứng – ngoài tủy, u tủy sống, u ngoài màng cứng,… Khi có dấu hiệu u cột sống, người bệnh cần được thăm khám và điều trị kịp thời để tránh các biến chứng nguy hiểm có thể xảy ra.
+Mục lụcU cột sống là gì?1. Cấu trúc của cột sống2. Khi cột sống có khối uCác loại u cột sống1. Các loại u cột sống theo vị trí bệnh2. Các loại u cột sống theo cấu trúc tế bàoNguyên nhân và yếu tố nguy cơ gây u cột sốngDấu hiệu của u cột sốngChẩn đoán bệnh lý u cột sốngBiến chứng của u cột sốngLàm thế nào để điều trị u đốt sống?1. Điều trị không phẫu thuật u cột sống2. Điều trị phẫu thuật u cột sống3. Hồi phục sau mổChăm sóc người bệnh u cột sốngU cột sống là gì?
+1. Cấu trúc của cột sống
+Cột sống (Spine) được tạo nên bởi 33 đốt xương sống và đĩa đệm. Cấu trúc đặc biệt của cơ quan này gồm có phần thân sống ở phía trước để chịu sức nặng của cơ thể và phần ống sống (Spinal canal) ở phía sau để bảo vệ tủy sống.
+Tủy sống là cơ quan của hệ thần kinh trung ương. Phần tủy này nằm trọn trong một chiếc khung có hình ống được tạo bởi xương sống và dây chằng, gọi là ống sống. Tủy sống được che phủ bởi màng tủy gồm 3 lớp đi từ trong ra lần lượt là: màng nuôi (nuôi dưỡng tủy) màng nhện (chứa dịch tủy) và màng cứng.
+2. Khi cột sống có khối u
+U cột sống (spinal tumor) là tình trạng xuất hiện một khối mô bất thường ở cột sống, có thể trong tủy sống hoặc ống sống. Dựa trên mô học, u cột sống có thể là nguyên phát hoặc thứ phát, với khả năng lành tính và ác tính khác nhau. (1)
+Khối u nguyên phát là kết quả của quá trình phát triển không kiểm soát của các tế bào trong hệ thống các mô của cột sống (gồm u nội tủy, u ngoài tủy, u ngoài màng cứng). Sự phát triển, tăng trưởng và sinh sôi này có thể theo chiều hướng lành tính hoặc ác tính (ung thư).
+Khối u cột sống thứ phát là khối u bất thường có nguồn gốc từ một khối ung thư ở một cơ quan khác di căn đến cột sống.
+Các loại u cột sống
+Có rất nhiều cách phân nhóm các loại u cột sống, trong đó có 2 cách phân loại đơn giản bao gồm:
+1. Các loại u cột sống theo vị trí bệnh
+Đơn giản nhất là phân loại u dựa trên vị trí của khối u ở phần nào của cột sống. Theo cấu trúc giải phẫu cơ thể người, nhóm bệnh này bao gồm:
+U cột sống cổ
+U cột sống ngực
+U cột sống thắt lưng – cùng
+2. Các loại u cột sống theo cấu trúc tế bào
+Điều quan trọng nhất khi nhắc đến khối u là phải đề cập đến loại tế bào nào tạo nên khối u đó, điều này chi phối phần lớn các phương pháp điều trị. Lót bên trong của ống sống là một màng bảo vệ tủy, gọi là màng cứng (dura), dựa trên cấu trúc này mà bệnh u cột sống được phân loại thành:
+U trong màng cứng – ngoài tủy
+Trong phân loại này, khối u xuất phát từ màng nhện, một thành phần của màng não – tủy, là loại u có tỷ lệ mắc phải cao nhất. Nhóm các u này không có xâm lấn hay di căn nhưng có tỉ lệ tái phát cao vì khó có thể cắt hết hoàn toàn.
+U tủy sống – U nội tủy
+U nội tủy hay u tủy sống là những khối u có bản chất mô học là các tế bào của tủy sống. Các dạng phổ biến thường gặp có thể kể đến như: U tế bào sao (astrocytoma), u màng nội tủy (ependymoma). Hai loại u này thường là mô lành tính, thường xuất hiện ở vùng cột sống cổ. U mỡ nội tủy cũng được xếp vào nhóm u nội tủy.
+U ngoài màng cứng
+Các khối u trong nhóm này xuất phát từ các tế bào nằm bên ngoài màng cứng. Phần lớn các loại u trong nhóm này đều do di căn từ nơi khác đến, chỉ có một loại u nguyên phát ở vùng này gọi là u tế bào Schwann. Tế bào Schwann nằm dọc theo rễ thần kinh, với vai trò nuôi dưỡng và làm tăng tốc độ dẫn truyền của sợi thần kinh. Ngoài ra, nhóm u phân loại cũng bao gồm các khối u của xương đốt sống, cả lành tính và ác tính. (2)
+Khối u ngoài màng cứng có thể phát triển vào lòng ống sống gây ra hội chứng chèn ép tủy hoặc xâm lấn ra ngoài ống sống thông qua lỗ liên đốt sống (nơi các dây thần kinh từ tủy sống đi ra ngoài) và gây ra triệu chứng đặc trưng theo chức năng của rễ thần kinh bị chèn ép.
+Có nhiều dạng u cột sống khác nhau
+Nguyên nhân và yếu tố nguy cơ gây u cột sống
+Cho đến nay, các chuyên gia vẫn chưa khẳng định được chắc chắn các nguyên nhân \ trực tiếp gây ra khối u ở cột sống. Tuy vậy, các yếu tố nguy cơ kể sau có thể góp phần lớn vào quá trình hình thành khối u: (3)
+Tiếp xúc với các hóa chất có khả năng sinh ung thư: Các chất này có thể gây rối loạn bộ máy di truyền tế bào, tạo ra các sự mất ổn định và từ đó hình thành các khối u khác biệt với các mô xung quanh.
+Suy giảm miễn dịch bẩm sinh hoặc mắc phải: Trong số những bệnh nhân được chẩn đoán suy giảm miễn dịch, các chuyên gia ghi nhận tần suất mắc loại u lympho tủy sống cao hơn những nhóm u khác.
+Yếu tố di truyền: Một số loại u cột sống thường gặp ở một số cá thể có quan hệ huyết thống. Có thể kể ra như chứng đa u sợi thần kinh type 2 (u màng nhện hoặc u tế bào đệm thần kinh) hay bệnh Von Hippel-Lindau (loại u biểu hiện ở nhiều cơ quan, mạch máu, võng mạc, thận, tuyến thượng thận và cả cột sống).
+Dấu hiệu của u cột sống
+Biểu hiện thường gặp nhất khi cột sống có khối u là đau. Đau lưng là một than phiền thường gặp của cả khối u lành tính lẫn ác tính ở cột sống. Kiểu đau này không thay đổi khi vận động, và đôi khi trở nặng khi người bệnh nằm. Những cơn đau này thường không đáp ứng với các loại thuốc giảm đau không kê toa thông dụng. (4)
+Tùy theo vị trí và hướng phát triển mà có thể có thêm các triệu chứng định hướng hay nghi ngờ bệnh u cột sống như sau:
+Đau cứng cổ gáy.
+Rối loạn cảm giác xúc giác ở tay, chân, hoặc bàn tay, bàn chân.
+Đôi khi cảm giác đau sẽ chạy dọc từ lưng, mặt dưới mông, mặt sau của đùi, bắp chân tương tự như đau thần kinh tọa.
+Yếu cơ ở tay hoặc chân, khó khăn khi đi lại hoặc thậm chí là liệt.
+Rối loạn chức năng ruột, tiêu tiểu không tự chủ.
+Đau cứng cổ bất thường có thể là triệu chứng nghi ngờ khi cột sống có khối u
+Dấu hiệu của bệnh u cột sống tương tự như nhiều bệnh lý thần kinh khác. Vì thế, khi có những cơn đau lưng đột ngột, đau lưng, cổ mà dùng các thuốc giảm đau thông thường như acetaminophen không thuyên giảm trong 4 giờ đầu, hoặc những biểu hiện yếu tay chân, người bệnh cần đến cơ sở y tế gần nhất để thăm khám.
+Chẩn đoán bệnh lý u cột sống
+Khi bệnh nhân đến khám vì các triệu chứng nghi ngờ, đầu tiên bác sĩ sẽ thăm khám thần kinh lâm sàng. Sau đó bác sĩ sẽ chỉ định các phương tiện chẩn đoán hình ảnh nhằm hỗ trợ chẩn đoán bệnh chính xác: (5)
+X quang cột sống 2 tư thế: Kỹ thuật này sử dụng dòng tia X để tái hiện cấu trúc xương và viền ngoài của khớp xương sống. Thông qua phim xquang, có thể phát hiện các tình trạng giải thích cho cơn đau lưng của người bệnh như khối u, nhiễm trùng, gãy xương,… Tuy nhiên đây không phải là phương tiện hiệu quả nhất dùng để đánh giá khối u cột sống.
+Chụp cắt lớp vi tính cột sống (CT): Máy CT dùng một hệ thống tia X đặc biệt, chuyển động quanh 1 buồng hình ống, cho phép tạo ra hình dạng và kích thước của ống sống và các thành phần bên trong, giúp ích cho việc xác định các cấu trúc lạ như khối u, gãy xương…
+Chụp cộng hưởng từ cột sống (MRI): Sử dụng công nghệ từ trường để tạo ra hình ảnh liên quan. Chụp cộng hưởng từ giúp đánh giá rất tốt những loại mô mềm như mô não, mô tủy sống hay tạng trong vùng chậu. Kỹ thuật này cho phép bác sĩ tạo ảnh 3D để đánh giá tủy sống, các rễ thần kinh và vùng mô xung quanh.
+Xạ hình xương với Technetium-99: Đây là công cụ rất hiệu quả để xác định có khối u ở xương (u cột sống ngoài ống sống), nhiễm trùng và các bệnh lý chuyển hóa xương.
+Trong một số trường hợp có gợi ý đến khối u cột sống nguyên phát ác tính, bác sĩ có thể chỉ định sinh thiết thêm để tìm bản chất mô học của khối u này. Điều này quyết định các liệu trình điều trị tiếp theo. Ngoài ra, chẩn đoán mức độ di căn của ung thư cột sống đôi khi còn cần chỉ định khác kèm theo như chụp CT ngực bụng, Xquang ngực và PET-CT…
+Biến chứng của u cột sống
+Ống sống là một “căn nhà chật chội” của tủy sống, nếu có thêm sự xuất hiện của một cấu trúc khác, việc chèn ép mô tủy là điều không thể tránh khỏi. Khi bị chèn ép, mô tủy sẽ trở nên thiếu máu, mất khả năng hoạt động dẫn đến các hậu quả có liên quan đến hoạt động của cơ quan này: như liệt chi, mất cảm giác, đau mạn tính, rối loạn chức năng thực vật như tiêu tiểu không tự chủ, nặng hơn nữa là ảnh hưởng đến tim mạch và hô hấp.
+Đối với khối u cột sống ác tính, nếu không điều trị kịp thời, khối u xâm lấn và di căn có thể lan vào xương đốt sống gây ra các biến dạng xương, xẹp lún đốt sống, gãy xương,… Hậu quả là khiến thể trạng người bệnh suy kiệt hoặc thậm chí tử vong do bệnh lý ung thư.
+U cột sống có thể dẫn đến biến dạng xương, gãy xương
+Làm thế nào để điều trị u đốt sống?
+1. Điều trị không phẫu thuật u cột sống
+Với những khối u lành tính có triệu chứng nhẹ hoặc không triệu chứng, có dấu hiệu thoái triển sau các đợt điều trị, thì các liệu pháp không phẫu thuật thường sẽ được áp dụng. Các lựa chọn điều trị không mổ bao gồm: theo dõi sự thoái triển tự nhiên, điều trị với hóa chất và xạ trị. Người bệnh sẽ được theo dõi bằng chụp MRI (chụp cộng hưởng từ) cột sống trong những lần tái khám. Một số khối u cột sống có đáp ứng rất tốt với các phương pháp hóa xạ trị.
+2. Điều trị phẫu thuật u cột sống
+Việc điều trị phẫu thuật khối u ở cột sống hay cách mổ như thế nào sẽ được bác sĩ chỉ định tùy theo loại khối u, vị trí u cũng như giai đoạn u (nếu là khối u ác tính).
+Thông thường với các khối u di căn xương, liệu pháp điều trị chính là điều trị giảm nhẹ, phục hồi, bảo tồn chức năng thần kinh và giảm đau. Điều trị phẫu thuật nếu có thường là giảm nhẹ các khối mô ác tính tại xương. Trái lại những khối u lành tính có thể điều trị bằng phẫu thuật lấy trọn vẹn khối bướu lành, phối hợp với liệu pháp phục hồi hậu phẫu để điều trị dứt điểm bệnh.
+Một cách tổng quát, chỉ định phẫu thuật cắt u cột sống được cân nhắc trong một số bối cảnh như sau:
+Khối u cột sống đáp ứng kém hoặc ko đáp ứng với xạ trị hoặc hóa trị.
+Khối ở cột sống gây chèn ép tủy cần phải mổ để giải áp.
+Tình trạng cột sống mất vững do gãy xương bệnh lý (gãy xương ko do chấn thương).
+Khối u di căn trên người bệnh có tiên lượng sống còn từ 12 tuần hoặc hơn.
+Khi lựa chọn phẫu thuật, bệnh nhân sẽ được thực hiện trước thủ thuật thuyên tắc mạch. Đây là thủ thuật giúp thu nhỏ khối u, hỗ trợ việc cắt và lấy bỏ khối mô bất thường thuận lợi hơn. Người bệnh sẽ được luồn một ống dẫn từ động mạch vùng đùi ở vị trí gần nếp bẹn, khi di chuyển ống dẫn đến khối u, bác sĩ sẽ đưa một hỗn hợp chứa loại keo đặc biệt để làm tắc động mạch nuôi khối u. Sau khi thuyên tắc, máu sẽ ít hoặc không đến nuôi khối u, khiến u thu nhỏ và ít chảy máu trong phẫu thuật.
+Để tiếp cận với khối u, phẫu thuật viên có 2 cách chọn đường mổ, một là mổ từ phía lưng, hai là mổ cột sống theo ngả trước (phía ngực bụng). Trong một số trường hợp, để điều trị hiệu quả khối u cột sống, bác sĩ có thể phải phối hợp cả 2 đường mổ cùng lúc. Tuy nhiên đây không phải là một phẫu thuật thường xuyên được sử dụng.
+Phương pháp phẫu thuật có thể khó thực hiện nếu khối u cột sống xuất hiện ở vùng cột sống chịu lực chính như vùng ngực và thắt lưng.
+Xem thêm: Mổ u cột sống ở đâu tốt? Tiêu chí lựa chọn địa chỉ uy tín.
+3. Hồi phục sau mổ
+Bệnh nhân sau khi phẫu thuật u cột sống, bác sĩ thường sẽ yêu cầu nằm yên trong 1 ngày đầu, sau 48 giờ thì có thể cử động nhẹ nhàng, 5-7 ngày sau người bệnh có thể về nhà. Quá trình hồi phục tại nhà sau phẫu thuật cột sống thường như sau:
+Người bệnh được yêu cầu đi lại nhẹ nhàng, không chơi thể thao hay làm các việc cần bưng vác trong 6 tuần đầu.
+Sau 6-8 tuần, người bệnh có thể chơi các môn thể thao nhẹ.
+Sau 8-12 tuần, người bệnh có thể thực hiện các bài tập thể thao đối kháng theo mức độ từ nhẹ đến nặng theo chỉ định của bác sĩ phục hồi chức năng.
+Việc tái khám sẽ nhằm đánh giá chức năng cột sống sau mổ, tình trạng tái phát hay xuất hiện diễn biến bệnh mới tại vùng được phẫu thuật. Chụp MRI cột sống sẽ giúp đánh giá, theo dõi các vấn đề này.
+Chăm sóc người bệnh u cột sống
+Chăm sóc người bệnh u cột sống cần bắt đầu ngay từ bệnh viện, diễn ra xuyên suốt quá trình hồi phục của bệnh nhân. Ở bệnh viện, người bệnh không được vận động nhiều, do đó phần lớn quá trình sinh hoạt phụ thuộc vào người nhà và nhân viên y tế.
+Sau khi xuất viện, người bệnh cần được hỗ trợ, hướng dẫn tập luyện. chăm sóc:
+Sử dụng dụng cụ hỗ trợ: Người bệnh được hướng dẫn sử dụng các dụng cụ hỗ trợ như xe lăn, dụng cụ kích thích cơ bằng điện, các dụng cụ cơ học.
+Luyện tập vận động: Sự phối hợp giữa người bệnh và gia đình theo hướng dẫn của bác sĩ sẽ giúp sự phục hồi trở nên nhanh chóng hơn.
+Tập thở để không lệ thuộc vào các thiết bị hỗ trợ hô hấp.
+Dinh dưỡng khoa học: Mất phản xạ tự động cũng là một hậu quả của u cột sống chèn ép, người bệnh dễ bị táo bón, cần ăn thực phẩm giàu chất xơ, uống nhiều nước để phân mềm, dễ đi.
+Nếu người bệnh gặp các di chứng, biến chứng ở bàng quang thì cần đặt ống thông tiểu tại nhà, hoặc cách chăm sóc thông tiểu lưu. Việc hồi phục các chức năng thần kinh bị khiếm khuyết cần một khoảng thời gian, vì thế người bệnh cần nhiều sự động viên từ gia đình.
+Khoa Phẫu thuật Thần kinh, Trung tâm Khoa học Thần kinh, Hệ thống Bệnh viện Đa khoa Tâm Anh quy tụ các chuyên gia, bác sĩ giỏi chuyên môn, giàu kinh nghiệm trong lĩnh vực điều trị các bệnh lý thần kinh như u cột sống, u não, đột quỵ xuất huyết não… Bệnh viện Tâm Anh đầu tư các thiết bị máy móc tân tiến hàng đầu, hỗ trợ chẩn đoán và điều trị các bệnh lý thần kinh sọ não hiệu quả như Hệ thống chụp cắt lớp vi tính CT 768 lát cắt, Hệ thống chụp MRI 1,5 – 3 Tesla, Hệ thống Robot mổ não Modus V Synaptive ứng dụng AI hiện đại bậc nhất,…
+Người bệnh thăm khám và điều trị u cột sống tại Khoa Phẫu thuật Thần kinh, Trung tâm Khoa học Thần kinh, Hệ thống Bệnh viện Đa khoa Tâm Anh có thể yên tâm về phác đồ điều trị hiệu quả với chi phí hợp lý.
+Để đặt lịch thăm khám, tư vấn các vấn đề về sức khỏe tại Hệ thống Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+U cột sống là một bệnh lý nguy hiểm và đòi hỏi người bệnh phải được điều trị kịp thời. Khi phát hiện dấu hiệu nghi ngờ u cột sống, không nên chủ quan mà cần thực hiện thăm khám để chẩn đoán bệnh. Từ đó, bác sĩ có thể đưa ra phác đồ điều trị u cột sống phù hợp nhất với người bệnh.

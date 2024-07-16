@@ -1,0 +1,176 @@
+# doc_id = health_disease_1853
+# url = https://tamanhhospital.vn/he-thong-loc-nuoc-ro-chay-than-nhan-tao/
+# date = 06/07/2024
+Hệ thống lọc nước R.O chạy thận nhân tạo: Quy trình lắp đặt, cấu tạo
+Mỗi lần chạy thận nhân tạo, người bệnh suy thận cần dùng khoảng 120 lít nước để lọc máu. Nếu nguồn nước chạy thận không đủ tinh khiết, người bệnh có thể gặp nhiều biến chứng nguy hiểm. Trong bài viết này, hãy tìm hiểu vì sao hệ thống lọc nước R.O chạy thận nhân tạo có thể cung cấp nguồn nước siêu tinh khiết. Thông tin này được bác sĩ CKII Đinh Cẩm Tú, Trưởng Đơn vị Thận nhân tạo, khoa Nội thận – Lọc máu, Trung tâm Tiết niệu – Thận học – Nam khoa, Bệnh viện Đa khoa Tâm Anh TP.HCM chia sẻ cụ thể hơn qua bài viết sau.
+Mục lụcNước R.O trong chạy thận nhân tạo là gì?Tầm quan trọng của nước R.O trong chạy thận nhân tạoHệ thống lọc nước R.O chạy thận nhân tạo là gì?Cấu tạo của hệ thống lọc nước R.O trong chạy thận nhân tạoQuy trình xử lý nước của hệ thống lọc nước R.O chạy thận nhân tạo1. Giai đoạn tiền xử lý cấp nước2. Giai đoạn xử lý tạo nước siêu tinh khiết3. Giai đoạn phân phối nước chạy thận nhân tạoQuy trình vận hành của hệ thống lọc nước R.O chạy thậnTiêu chuẩn nước R.O chạy thận nhân tạo tại Việt NamMột số thông tin khácNước R.O trong chạy thận nhân tạo là gì?
+Nước R.O (reverse osmosis) là nước đã được lọc bằng phương pháp thẩm thấu ngược, giúp loại bỏ tạp chất ra khỏi nước ở cấp độ phân tử. Thẩm thấu ngược là phương pháp bơm áp suất đẩy nước qua màng lọc R.O từ nơi có nồng độ chất tan cao sang nơi có nồng độ chất tan thấp. Màng lọc sẽ loại bỏ tạp chất, vi khuẩn trong nước, tạo ra nước tinh khiết. (1)(2)
+Nước R.O thường được dùng cho những nhu cầu đặc biệt như sản xuất công nghiệp, thực phẩm, chăm sóc sức khỏe – y tế (đặc biệt cần thiết trong chạy thận nhân tạo).
+Thận của người bình thường tiếp nhận và đào thải khoảng 2 lít nước/ngày. Trong khi đó, người chạy thận nhân tạo phải tiếp nhận khoảng 120 lít nước mỗi lần lọc máu. Nếu nguồn nước không tinh khiết, người bệnh có thể gặp nguy hiểm do tạp chất, độc tố hay vi khuẩn trong nước gây ra. Thế nên, hệ thống lọc nước R.O trong chạy thận nhân tạo có tiêu chuẩn rất cao về độ sạch đầu ra của nước.
+Người bệnh suy thận mạn cần tiếp xúc với khoảng 120 lít nước cho mỗi lần lọc máu.
+Tầm quan trọng của nước R.O trong chạy thận nhân tạo
+Người bình thường uống khoảng 2 lít nước mỗi ngày và 14 lít nước mỗi tuần, thận sẽ thải các chất độc trong cơ thể qua lượng nước này. Khi uống nước, chất độc được hấp phụ qua dạ dày, không tiếp xúc trực tiếp với máu, giúp giảm nguy cơ nhiễm tạp chất, vi khuẩn do nguồn nước.
+Ở người mắc suy thận, việc lọc máu, thải độc phải dựa vào máy chạy thận nhân tạo. Lượng nước người chạy thận tiếp xúc mỗi tuần có thể lên đến 360 lít (lọc 3 lần mỗi tuần). Nếu nước không được lọc sạch, các chất ô nhiễm sẽ tiếp xúc trực tiếp với máu. Một số chất trong nước có thể gây ra nguy hiểm cho người chạy thận như:
+Nhôm: bệnh xương bất động, nhuyễn xương, thiếu máu, rối loạn chức năng thần kinh.
+Sắt: nhiễm hemosiderin do lắng đọng sắt trong cơ thể, có thể gây xuất huyết nội tạng.
+Calcium (canxi): tăng huyết áp, buồn nôn, sốt, rối loạn khoáng hóa xương, yếu cơ, viêm tụy.
+Đồng và kẽm: tán huyết, buồn nôn, sốt.
+Asen, chì, bạc: ung thư, bệnh về da, tổn thương thần kinh trung ương, não, thận.
+Chloramine (cloramin): thiếu máu, tán huyết.
+Fluoride (flo): gây cảm giác ngứa, buồn nôn, rối loạn nhịp tim, bệnh xương.
+Microcystins: rối loạn thị giác, suy gan, buồn nôn, sốt.
+Nitrate: tán huyết, tụt huyết áp, buồn nôn, sốt.
+Sulfate: nhiễm toan chuyển hóa (tăng axit), buồn nôn, sốt.
+Vi khuẩn và nội độc tố (do vi khuẩn tiết ra khi bị phá hủy): sốt, nhiễm trùng máu, thậm chí tử vong.
+Không chỉ vi khuẩn và nội độc tố gây tử vong, nhiễm độc nhôm, chì, microcystins… cũng có thể gây nguy hiểm cho sự sống.
+Có thể thấy, nguồn nước không sạch có thể gây ra rất nhiều bệnh cho người chạy thận, nhất là khi thận của người bệnh đã mất khả năng đào thải chất độc. Thế nên, nước R.O bắt buộc được dùng trong chạy thận nhân tạo để đảm bảo an toàn cho người bệnh.
+Hệ thống lọc nước R.O tại BVĐK Tâm Anh TP.HCM đạt tiêu chuẩn Đức cung cấp nguồn nước tinh khiết, bảo vệ sức khỏe cho người bệnh chạy thận nhân tạo.
+Hệ thống lọc nước R.O chạy thận nhân tạo là gì?
+Hệ thống lọc nước R.O chạy thận nhân tạo có nhiệm vụ lọc nước từ nguồn cấp, để loại bỏ tạp chất trong nước. Hệ thống lọc nước R.O chạy thận nhân tạo phải có tiêu chuẩn lọc cao (thường theo tiêu chuẩn AAMI), năng suất lọc lớn nên chi phí lắp đặt rất đắt đỏ.
+Hệ thống lọc nước còn phải được thiết kế để phù hợp với nguồn nước cung cấp, cụ thể:
+Nước bề mặt: có thể chứa nhiều vi sinh vật, vi khuẩn, chất thải công nghiệp, nước thải sinh hoạt.
+Nước ngầm: chứa ít chất hữu cơ, chất thải, nhưng lại có hàm lượng cao các chất vô cơ như sắt, calcium, sulfate…
+Cấu tạo của hệ thống lọc nước R.O trong chạy thận nhân tạo
+Cấu tạo của hệ thống lọc nước R.O chạy thận nhân tạo khá phức tạp, nhiều thành phần. Cấu tạo của hệ thống lọc tiêu chuẩn thường sẽ có các bộ phận sau:
+Nguồn cấp nước.
+Van 1 chiều chống trào ngược.
+Van điều chỉnh nhiệt.
+Bơm áp lực.
+Phin lọc cặn đa tầng.
+Cột than hoạt tính.
+Cột làm mềm nước.
+Hệ thống thẩm thấu ngược (R.O)
+Cột trao đổi ion.
+Hệ thống cấp nước R.O cho máy chạy thận nhân tạo.
+Phần tiếp sau đây sẽ giải thích chức năng cụ thể của từng bộ phận trong hệ thống lọc nước R.O chạy thận nhân tạo.
+Sơ đồ hệ thống lọc nước R.O chạy thận nhân tạo.
+Quy trình xử lý nước của hệ thống lọc nước R.O chạy thận nhân tạo
+Về nguồn cấp nước, nước có độ pH 6-8,5 và nhiệt độ 25 độ C được xem là tối ưu cho hệ thống lọc nước R.O chạy thận nhân tạo. Nước từ nguồn cấp sẽ đi một chiều qua van chỉnh nhiệt, sau đó được bơm vào hệ thống lọc.
+1. Giai đoạn tiền xử lý cấp nước
+1.1 Cột lọc đa tầng
+Trong cột lọc đa tầng (multimedia depth filter) có nhiều lớp cát lọc với kích cỡ hạt khác nhau. Những lớp cát này giữ lại những tạp chất, bụi bẩn có kích thước ≥ 10 micron (micromet). Chất bẩn kích thước lớn có thể gây bít tắc cột than hoạt tính hay cột làm mềm nước (softener). Cột lọc đa tầng nên được rửa ngược hằng ngày, hoặc ít nhất 3 lần/tuần và thay mới mỗi 18-24 tháng.
+Rửa ngược (backwash) là quá trình làm sạch bộ lọc bằng cách bơm ngược dòng nước để loại bỏ các chất gây ô nhiễm lắng đọng bên trong bộ lọc.
+1.2 Cột lọc than hoạt tính
+Cột than hoạt tính (carbon filter) có chức năng hấp thụ nhiều hóa chất độc hại (như fluoride, thuốc trừ sâu) trong nước. Ngoài ra, chlorine và chloramine (thường dùng để diệt khuẩn nước sinh hoạt) cũng bị loại bỏ ở giai đoạn này. Để lọc nước hiệu quả, cột than hoạt tính cần thỏa mãn một số yêu cầu như:
+Thời gian than hoạt tính tiếp xúc với nước ít nhất 10 phút.
+Dùng than có chỉ số iodine > 900. Chỉ số iodine biểu thị khối lượng iodine có thể được hấp phụ bởi một đơn vị khối lượng than. Hiểu đơn giản, chỉ số này càng lớn, mức độ hoạt hóa (hoạt động hóa học) của than càng cao.
+Rửa cột lọc than hoạt tính mỗi ngày hoặc 3 lần/tuần, thay mới than mỗi 6 tháng.
+1.3 Cột làm mềm
+Cột làm mềm (softener) giúp lọc calcium, magnesium (magie) và manganese (mangan) trong nước. Nước có chứa các chất trên được gọi là nước cứng. Ngoài gây nguy hiểm khi lọc máu, nước cứng gây ra lắng cặn trong màng lọc R.O, làm giảm công năng lọc của hệ thống. Thế nên, cần loại bỏ các chất này khỏi nước trước khi đi đến giai đoạn thẩm thấu ngược.
+Trong cột làm mềm có các hạt nhựa resin trao đổi ion (cation) có khả năng loại bỏ calcium, magnesium, mangan ra khỏi nước. Cột làm mềm được kết nối với một bồn muối giúp tái tạo khả năng trao đổi ion của hạt các resin trong cột làm mềm.
+Nước được xử lý, làm sạch trước khi đến giai đoạn tạo nước tinh khiết bằng màng lọc R.O.
+2. Giai đoạn xử lý tạo nước siêu tinh khiết
+2.1 Hệ thống xử lý nước R.O
+Hệ thống xử lý nước R.O giúp loại bỏ các kim loại nặng, vi khuẩn, nội độc tố để tạo ra nước tinh khiết. Trước khi vào hệ thống xử lý R.O, nước sẽ đi qua màng lọc trước thẩm thấu ngược (R.O pre-filter) có lỗ lọc 3-5 micron. Màng lọc giữ lại các mảnh than hoạt tính, nhựa cation, tạp chất tồn tại trong nước có thể gây hại cho màng R.O.
+Nước sau khi lọc ở màng R.O pre-filter sẽ được bơm áp suất để chảy qua màng R.O (màng thẩm thấu ngược). Các loại muối/khoáng còn sót lại trong nước sẽ được giữ lại ở màng R.O, nước thấm qua màng R.O là nước tinh khiết. Màng R.O là thành phần quan trọng nhất trong hệ thống xử lý nước và cần được thay mới sau 18-24 tháng sử dụng.
+2.2 Hệ thống khử ion (DI)
+Hệ thống khử ion có tác dụng loại bỏ các tạp chất gây ô nhiễm nước như sodium, calcium, nhôm bằng phương pháp trao đổi ion bằng các hạt resin (cation).
+Hệ thống khử ion không thể khử các chất gây ô nhiễm hữu cơ như vi khuẩn và nội độc tố. Đây được xem như quá trình lọc bổ sung để giúp nước sạch hơn, đặc biệt khi màng R.O gặp sự cố. Hệ thống khử ion cần được vệ sinh ít nhất 3 lần/tuần.
+2.3 Bộ siêu lọc
+Sau khi lọc ion, nước sẽ được chứa trong bồn nước R.O trước khi đi qua màng siêu lọc. Màng siêu lọc là bước lọc cuối cùng trước khi nước R.O được chuyển đến hệ thống máy chạy thận. Máy bơm sẽ bơm nước từ bồn chứa nước R.O qua màng lọc vi khuẩn 0,2 micron để tạo ra nước siêu tinh khiết.
+Hệ thống lọc R.O sản xuất nước tinh khiết bằng phương pháp thẩm thấu ngược.
+3. Giai đoạn phân phối nước chạy thận nhân tạo
+Sau khi lọc ion, nước sẽ được chứa trong bồn, được bơm đến hệ thống chạy thận khi cần thiết. Bồn được làm bằng inox 316 hoặc nhựa HDPE, có đáy chóp nón và van xả đáy để đảm bảo xả được hết nước hoàn toàn khi cần thiết. Bên trong bồn phải kín, có lỗ thông hơi với màng lọc không khí để đảm bảo độ sạch của nước. Máy bơm sẽ bơm nước qua màng siêu lọc và hệ thống ánh sáng UV để diệt khuẩn tối đa trước khi phân phối đến máy chạy thận.
+Hệ thống lọc nước R.O chạy thận nhân tạo có hai loại nguồn cấp là trực tiếp và gián tiếp:
+Cấp nước R.O trực tiếp: nước R.O được bơm trực tiếp từ hệ thống lọc R.O đến máy chạy thận. Ưu điểm là giảm nguy cơ ô nhiễm, phù hợp với số lượng máy ít, cùng trong một khu vực.
+Cấp nước R.O gián tiếp: nước R.O được trữ trong bồn chứa, khi cần sẽ được bơm đến máy chạy thận. Phần nước R.O không được dùng hết sẽ quay trở lại buồng chứa. Ưu điểm là dùng cho hệ thống có nhiều máy chạy thận, đường dẫn nước dài, tuy nhiên nước có nguy cơ ô nhiễm cao hơn.
+Bồn chứa nước R.O trước khi được bơm đến hệ hệ thống máy chạy thận nhân tạo.
+Quy trình vận hành của hệ thống lọc nước R.O chạy thận
+Quy trình vận hành của hệ thống lọc nước R.O chạy thận nhân tạo gồm 6 bước:
+Bước 1: Khởi động hệ thống lọc R.O.
+Bước 2: Quan sát chỉ số của đồng hồ áp lực màng R.O (bình thường ở 12 atm), chỉ số TDS (chỉ số chất rắn hòa tan trong nước, <200 ppm khi ở trạng thái bình thường).
+Bước 3: Kiểm tra bình muối của cột làm mềm. Luôn giữ muối ở mức 2/3 bình trở lên.
+Bước 4: Vào cuối ngày, kiểm tra cột làm mềm và độ cứng của nước, dưới <40 ppm ở trạng thái bình thường.
+Bước 5: Kiểm tra áp suất cột lọc đa tầng, 1-1,5 atm ở trạng thái bình thường.
+Bước 6: Kiểm tra cột than hoạt và clo dư vào buổi sáng.
+Tiêu chuẩn nước R.O chạy thận nhân tạo tại Việt Nam
+Dưới đây là bảng tiêu chuẩn nước R.O dùng trong chạy thận nhân tạo của AAMI (Association for the Advancement of Medical Instrumentation -Hiệp hội vì sự tiến bộ của thiết bị y tế). Tiêu chuẩn AAMI cũng là tiêu chuẩn đánh giá nước R.O được dùng để tham chiếu phổ biến nhất ở Việt Nam hiện nay.
+STT
+Chất ô nhiễm
+Nồng độ tối đa cho phép (mg/l)
+1
+Aluminum(Al)
+0.01
+2
+Antimony(Sb)
+0.006
+3
+Arsenic(As)
+0.005
+4
+Barium(Ba)
+0.1
+5
+Beryllium(Be)
+0.0004
+6
+Cadmium(Cd)
+0.001
+7
+Calcium(Ca)
+2.0
+8
+Chlorine(Cl+)
+0.5
+9
+Chloramines(Cl–)
+0.1
+10
+Chromium(Cr)
+0.014
+11
+Copper(Cu)
+0.1
+12
+Fluorides(F–)
+0.2
+13
+Lead(Pb)
+0.005
+14
+Magnesium(Mg)
+4.0
+15
+Thủy ngân(Hg)
+0.0002
+16
+Nitrates(NO–3)
+2.0
+17
+Potassium(K)
+8.0
+18
+Selenium(Se)
+0.09
+19
+Silver(Ag)
+0.005
+20
+Sodium(Na)
+70.0
+21
+Sulfate(SO2-4)
+100.0
+22
+Thallium( Tl)
+0.002
+23
+Kẽm(Zn)
+0.1
+24
+Vi khuẩn hiếu khí
+100 (CPU/ml)
+25
+Nội độc tố (endotoxin)
+0,25 (EU/ml)
+Một số thông tin khác
+Ngoài tiêu chuẩn AAMI vẫn còn có các tiêu chuẩn dành cho nước R.O khác như của Viện Tiêu chuẩn Quốc gia Hoa Kỳ (ANSI) hay Tổ chức Tiêu chuẩn Quốc tế (ISO).
+Tuy nhiên, tại Việt Nam, tiêu chuẩn AAMI đang được dùng nhiều nhất để đánh giá chất lượng nước R.O tại các cơ sở y tế. Ngoài ra, nguồn nước được dùng cho hệ thống lọc nước R.O chạy thận nhân tạo phải đạt tiêu chuẩn nước sinh hoạt QCVN 02:2009/BYT do Bộ Y tế ban hành.
+Các cơ sở y tế tại Việt Nam vẫn còn gặp một số khó khăn trong việc duy trì chất lượng nước R.O cho hệ thống chạy thận nhân tạo như:
+Chất lượng nước đầu vào chưa tốt.
+Chưa có bộ tiêu chuẩn riêng dành cho nước R.O tại Việt Nam.
+Đội ngũ nhân viên vận hành hệ thống nước R.O tại Việt Nam thường chưa được đào tạo chuyên sâu.
+Đơn vị Thận nhân tạo, khoa Nội Thận – Lọc máu, BVĐK Tâm Anh TP.HCM là một trong những trung tâm chạy thận lớn nhất khu vực phía nam, với hệ thống lọc nước R.O chạy thận nhân tạo đạt chuẩn AAMI do đối tác từ Đức thi công. Trước đó, bệnh viện đã gửi cho đối tác thi công mẫu nước ngầm bệnh viện đang dùng, để thiết kế hệ thống lọc nước R.O tối ưu, chuyên biệt phù hợp với nguồn nước, địa chất và khí hậu Việt Nam. Từ đó, hệ thống lọc cho ra nguồn nước siêu tinh khiết, đảm bảo an toàn cho người chạy thận.
+BVĐK Tâm Anh TP.HCM được nhiều người bệnh tin cậy vì nguồn nước R.O trong chạy thận nhân tạo siêu tinh khiết, phù hợp cơ địa người Việt Nam nhất.
+Ngoài ra, những chuyên viên vận hành hệ thống lọc nước R.O tại bệnh viện có những chứng chỉ chuyên môn về quản lý, giám sát, vận hành hệ thống lọc nước R.O.
+Hệ thống lọc nước R.O chạy thận nhân tạo đóng vai trò rất quan trọng trong việc bảo vệ sức khỏe của người chạy thận. Nếu nguồn nước dùng trong chạy thận không đảm bảo vệ sinh sẽ gây ra nhiều bệnh và biến chứng nguy hiểm cho người bệnh. BVĐK Tâm Anh tự hào khi có hệ thống lọc nước đạt chuẩn AAMI, đảm bảo chất lượng nguồn nước tốt nhất được dùng cho người chạy thận.

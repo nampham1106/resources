@@ -1,0 +1,31 @@
+# doc_id = health_disease_076
+# url = https://tamanhhospital.vn/giai-doan-ung-thu/
+# date = 28/02/2022
+Hiểu về cách xác định các giai đoạn của bệnh ung thư
+Dựa vào kích thước u, mức độ xâm lấn đến các cơ quan/vùng kế cận, mức độ di căn của bệnh đến hạch/ các cơ quan/ vùng khác trong cơ thể, bệnh ung thư được chia thành các giai đoạn tương ứng.
+Theo bác sĩ Trần Vương Thảo Nghi – Trưởng khoa Ung bướu BVĐK Tâm Anh TP.HCM, xác định giai đoạn bệnh ung thư nhằm góp thêm thông tin vào việc thiết lập kế hoạch điều trị, dự đoán các dữ liệu về khả năng tái phát – di căn của bệnh, dự đoán về tiên lượng bệnh (bao gồm khả năng chữa khỏi, tiên lượng sống của bệnh nhân).
+Tuy nhiên, cần lưu ý rằng, giai đoạn bệnh ung thư không phải là yếu tố duy nhất giúp dự đoán các dữ liệu nêu trên, mà còn tùy thuộc vào nhiều yếu tố khác (như loại tế bào ung thư, các đột biến gen, mức độ đáp ứng với điều trị…). Điều này lý giải vì sao có bệnh nhân được chẩn đoán ở giai đoạn muộn, nhưng đáp ứng tốt với điều trị, thì vẫn có thể đạt được thời gian sống kéo dài. Nhưng nhìn chung, đa phần các trường hợp bệnh ung thư được điều trị ở giai đoạn càng sớm thì khả năng chữa khỏi càng cao.
+Bác sĩ kết hợp giữa việc thăm khám lâm sàng với việc thực hiện một số xét nghiệm cần thiết như xét nghiệm máu, xét nghiệm về chẩn đoán hình ảnh (X-quang, siêu âm, nội soi, MRI, CT, PET-CT, sinh thiết, phẫu thuật…) để xác định giai đoạn ung thư.
+Việc xác định giai đoạn của bệnh ung thư dựa vào các yếu tố như kích thước u, mức độ xâm lấn đến các cơ quan/vùng kế cận, mức độ di căn của bệnh đến hạch/các cơ quan/vùng khác trong cơ thể. Trong phần lớn các trường hợp, giai đoạn bệnh ung thư sẽ được đánh giá trước mổ và sau mổ.
+Bác sĩ Thảo Nghi cho biết, hệ thống phân giai đoạn chính thường được sử dụng cho các loại ung thư khác nhau là phân loại dựa vào hệ thống TNM. Ngoài ra, có thể có thêm một vài hệ thống phân giai đoạn khác.
+Hình ảnh mô tả 4 giai đoạn ung thư buồng trứng
+Mục lụcPhân loại dựa vào hệ thống TNMKhối u nguyên phát (T)Hạch lympho vùng (N)Di căn xa (M)Phân loại dựa vào hệ thống TNM
+Đối với phần lớn các loại ung thư, bác sĩ thường sử dụng hệ thống TNM của Ủy ban Ung thư Mỹ (AJCC) để mô tả giai đoạn ung thư. Hệ thống TNM sử dụng các chữ cái và số để mô tả.
+T (tumor): mô tả kích thước và sự xâm lấn đến cơ quan/vùng kế cận của khối u với các số từ 1 đến 4.
+N (node): mô tả mức độ di căn của bệnh đến hệ thống hạch bạch huyết kế cận/vùng khác trong cơ thể, với các số từ 0 đến 3.
+M (metastasis): mô tả tình trạng bệnh ung thư đã di căn đến một/hoặc các cơ quan khác của cơ thể hay chưa với các số 0 hoặc 1.
+Hình ảnh mô tả tế bào ung thư thận
+Khối u nguyên phát (T)
+TX: Không đo lường được khối u nguyên phát.
+T0: Không tìm thấy khối u nguyên phát.
+T1, T2, T3, T4: Kích thước và/hoặc phạm vi của khối u nguyên phát. Số càng cao có nghĩa là khối u càng to hoặc càng xâm lấn lan rộng hơn đến các cơ quan/ vùng kế cận.
+Hạch lympho vùng (N)
+NX: Không đo lường được.
+N0: Không có ung thư trong hạch lympho kế cận.
+N1, N2, N3: Số lượng và vị trí hạch lympho có tế bào ung thư. Số càng cao nghĩa là càng nhiều hạch bị di căn bởi bệnh ung thư.
+Di căn xa (M)
+MX: Không đo lường được.
+M0: Ung thư chưa di căn.
+M1: Ung thư đã di căn xa.
+Bác sĩ Trần Vương Thảo Nghi đang tư vấn cho người nhà bệnh nhân tại Bệnh viện Đa khoa Tâm Anh
+Bác sĩ Thảo Nghi chia sẻ thêm, tại Bệnh viện Đa khoa Tâm Anh, sau khi xác định giai đoạn của bệnh, bác sĩ sẽ lên kế hoạch điều trị với những phương pháp phù hợp, có thể kết hợp nhiều phương pháp để cho hiệu quả tốt nhất. Bệnh nhân và thân nhân sẽ được giải thích, trao đổi và thảo luận chi tiết về những vấn đề liên quan đến điều trị (bao gồm kế hoạch điều trị, về các tác dụng phụ có thể gặp, về cách chăm sóc cũng như về phương pháp hỗ trợ tâm lý – tinh thần – dinh dưỡng cho bệnh nhân và trong một vài trường hợp là cho cả thân nhân), nhằm hỗ trợ cho bệnh nhân và thân nhân, giúp cho giai đoạn điều trị đạt hiệu quả tốt nhất.

@@ -1,0 +1,42 @@
+# doc_id = health_disease_2845
+# url = https://tamanhhospital.vn/test-nhanh-covid-khong-dau/
+# date = 11/09/2021
+Test nhanh không đau, cho kết quả Covid-19 chính xác 98%
+Test nhanh là phương pháp xét nghiệm phát hiện sự hiện diện protein đặc hiệu của virus (hay còn gọi là kháng nguyên) Covid-19 có trong mẫu dịch đường hô hấp của người bệnh (dịch tỵ hầu, dịch tiết mũi, họng). Hiện có nhiều loại test nhanh Covid-19 được phát triển góp phần đa dạng hóa các kỹ thuật xét nghiệm phát hiện sớm SARS-CoV-2.
+Hầu hết các cơ sở y tế tại Việt Nam đang sử dụng phương pháp lấy dịch ở vùng tỵ hầu (test NP). Theo bác sĩ CKII Trần Thị Thanh Nga – Giám đốc Trung tâm Xét nghiệm, Bệnh viện Đa khoa Tâm Anh TP.HCM, với kỹ thuật này, kỹ thuật viên khi lấy mẫu phải đưa que tăm bông qua lỗ mũi, song song với vòm miệng cho đến khi gặp lực cản hoặc tăm bông phải đạt độ sâu tương đương bằng khoảng cách từ lỗ mũi đến lỗ ngoài của tai (tương đương 8-10cm).
+Chính việc lấy mẫu xét nghiệm sâu vào vùng tỵ hầu nên khách hàng sẽ cảm giác đau, thốn. Trước đây, để giảm tình trạng đau, thốn khi lấy mẫu xét nghiệm vùng tỵ hầu; Bệnh viện Đa khoa Tâm Anh sử dụng loại que lấy mẫu chuyên dụng của hãng Abbott của Mỹ với kích thước nhỏ hơn, bông mềm, độ bắt dính tốt.
+Và giờ đây, để khắc phục hoàn toàn tình trạng đau, thốn này; Bệnh viện Đa khoa Tâm Anh chính thức nhập khẩu loại que lấy mẫu vùng mũi (test Nasal) cũng của Abbott (Mỹ).
+Dịch vụ xét nghiệm Covid-19 ở BVĐK Tâm Anh có giá rất rẻ, độ chính xác cao, thời gian chờ đợi rút ngắn nhờ hàng loạt máy móc hiện đại
+Mục lụcLấy dịch ở mũi ưu điểm gì so với lấy ở tỵ hầu?Xét nghiệm nhanh bằng ngoáy mũi được thực hiện ra sao?Ai nên đi làm test nhanh?Lấy dịch ở mũi ưu điểm gì so với lấy ở tỵ hầu?
+Chỉ đưa vào mũi 2cm nên không đau, không thốn: Điểm đặc biệt của loại que này là kỹ thuật viên chỉ cần đưa tăm bông vào bên trong màng mũi 2cm, xoay tăm bông, giữ nguyên vị trí này trong 10 – 15 giây. Sau đó, dùng đầu tăm bông còn lại để lấy mẫu tương tự như bên lỗ mũi còn lại. Nhờ đó khách hàng không đau, không thốn và không còn sợ lấy mẫu xét nghiệm.
+Hạn chế nhiễm chéo Covid-19 khi lấy mẫu: Que lấy dịch mũi chỉ 2cm nên không đưa vào sâu như que của phương pháp lấy mẫu vùng tỵ hầu, giúp khắc phục nguy cơ ho, hắt hơi của khách hàng. Bởi với que lấy mẫu ở tỵ hầu, tăm bông được đưa vào sâu nên một số người xuất hiện các phản ứng tự nhiên như: chảy nước mắt, ho, hắt hơi. Nếu chẳng may, người đang được lấy mẫu mắc Covid-19 ho hắt hơi thì SARS-CoV-2 sẽ lan ra môi trường xung quanh, nguy hiểm cho người lấy mẫu và những người đang chờ lấy mẫu, đặc biệt là biến chủng Delta hiện đang chiếm ưu thế lây nhanh.
+Độ nhạy và độ đặc hiệu cao: Phương pháp ngoáy mũi (test Nasal) thì độ nhạy là 98.1% và độ đặc hiệu 99.8%
+Giá xét nghiệm không đổi: Tại Bệnh viện Đa khoa Tâm Anh, việc test nhanh bằng cách lấy dịch mũi hay dịch tỵ hầu đều dùng bộ kit test nhanh của Mỹ – Panbio Covid-19 Ag Rapid test device. Dù loại tăm bông lấy mẫu và bộ kit test nhanh vùng mũi (test Nasal) được nhập về đắt tiền hơn so với test nhanh vùng tỵ hầu nhưng để chia sẻ trách nhiệm cùng cộng đồng và hỗ trợ khách hàng trong mùa dịch, Bệnh viện Tâm Anh vẫn thu phí dịch vụ xét nghiệm nhanh bằng phương pháp lấy mẫu ở mũi hay ở tỵ hầu đều 250.000 đồng.
+Xét nghiệm nhanh bằng phương pháp ngoáy mũi ở BVĐK Tâm Anh giúp khách hàng không đau
+Xét nghiệm nhanh bằng ngoáy mũi được thực hiện ra sao?
+Tất cả que lấy mẫu ở Bệnh viện Tâm Anh dù bằng test Nasal hay test NP đều sử dụng tăm bông sợi tổng hợp có trục bằng nhựa hoặc dây; chứ không sử dụng gạc hoặc gạc có chứa canxi alginat có trục bằng gỗ, vì chúng có thể chứa các chất làm bất hoạt một số vi rút và ức chế xét nghiệm PCR, làm ảnh hưởng đến độ chính xác của kết quả xét nghiệm.
+Khi chuẩn bị lấy mẫu, khách hàng tự kéo khẩu trang xuống dưới mũi, che miệng.
+Khách hàng để đầu nghiêng 70 độ.
+Kỹ thuật viên đưa que lấy mẫu vào mũi hướng theo sóng mũi cho đến khi không thấy đầu bông vào khoảng 2cm.
+Di chuyển đầu bông vào mũi 1 để lau toàn bộ thành bên trong và cuối khoang mũi 5 lần.
+Chuyển đầu bông sang lỗ mũi thứ 2 và thực hiện như lỗ mũi số 1.
+Kỹ thuật viên rút que khỏi mũi, khách hàng tự kéo lại khẩu trang lên mũi.
+Kỹ thuật viên cho que vào ống môi trường xoay tròn que 5 lần, vắt que vào thành ống môi trường, kéo que lên và bẻ ngang khất của que, vặn chặt nắp đưa vào phòng xét nghiệm.
+Sau 15 – 30 phút, khách hàng sẽ có kết quả xét nghiệm nhanh. Các kháng nguyên được phát hiện khi virus SARS-CoV-2 đang nhân lên với số lượng nhất định.
+BVĐK Tâm Anh phân luồng cho khách đến sàng lọc, xét nghiệm Covid-19… để đảm bảo an toàn khi đến bệnh viện tiêm vắc xin
+Ai nên đi làm test nhanh?
+Test nhanh có thể phát hiện người mắc Covid-19 ngay giai đoạn mới nhiễm thay vì phải chờ phơi nhiễm 7-10 ngày như xét nghiệm phát hiện kháng thể.
+Những người cần thực hiện xét nghiệm nhanh Covid-19 là những đối tượng có ít nhất một trong số các triệu chứng của bệnh viêm đường hô hấp cấp do virus SARS-CoV-2 gây ra như: sốt, ho, khó thở, đau họng, viêm phổi và có một trong số các yếu tố dịch tễ sau:
+Có tiếp xúc gần (trong phạm vi 2 mét) với người nhiễm Covid-19 hoặc người nghi ngờ nhiễm Covid-19, bao gồm: người sống cùng nhà, cùng phòng làm việc, du lịch, làm việc, ngồi cùng hàng và trước sau 2 hàng ghế trên phương tiện giao thông,…
+Trở về từ các “vùng dịch” được WHO ghi nhận có ca mắc Covid-19 trong vòng 21 ngày kể từ khi nhập cảnh (cách ly tập trung).
+Trở về từ các vùng dịch đang xảy ra tại Việt Nam trong vòng 21 ngày trước khi xuất hiện các triệu chứng.
+Bệnh nhân Covid-19 trong quá trình điều trị.
+Theo chỉ định của bác sĩ/ cán bộ điều tra/ cơ quan y tế hoặc đi sàng lọc trước khi tiêm vắc xin…
+HỆ THỐNG BỆNH VIỆN ĐA KHOA TÂM ANH
+Tại Hà Nội
+108 Hoàng Như Tiếp, phường Bồ Đề, quận Long Biên, Hà Nội.
+Hotline: 024 3872 3872 – 024 7106 6858
+Tại TP.HCM
+2B Phổ Quang, phường 2, quận Tân Bình, TP HCM.
+Hotline: 0287 102 6789 – 093 180 6858
+Fanpage: https://www.facebook.com/benhvientamanh

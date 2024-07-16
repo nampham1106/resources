@@ -1,0 +1,53 @@
+# doc_id = health_disease_314
+# url = https://tamanhhospital.vn/purin/
+# date = 15/02/2023
+Purine là gì? Mối liên hệ với bệnh gút và cách kiểm soát
+Purine có mối liên quan trực tiếp đến tình trạng bệnh gút thường gặp, xảy ra do quá trình rối loạn chuyển hóa bên trong cơ thể. Vì vậy, việc kiểm soát hàm lượng purin đưa vào cơ thể là thực sự cần thiết. Giải pháp đơn giản là điều chỉnh chế độ dinh dưỡng hàng ngày đê tránh nguy cơ mắc các bệnh nghiêm trọng.
+Mục lụcPurin là gì?Phân loại purin1. Purin nội sinh2. Purin ngoại sinhVai trò của purinMối liên hệ giữa purin với bệnh gútCách kiểm soát purin cho bệnh nhân gútPurin là gì?
+Purin hay purine là hợp chất hóa học phổ biến, được tìm thấy trong nhiều loại thực phẩm và đồ uống hàng ngày, sau khi cơ thể hấp thụ sẽ chuyển hóa thành axit uric. Tiếp theo đó, axit uric được thận lọc, đào thải khỏi cơ thể. Trường hợp thành phần này tích tụ quá nhiều, dẫn đến dư thừa, có thể sẽ gây nên sự hình thành các tinh thể có hại ở một hoặc nhiều khớp. Đây là một trong những nguyên nhân góp phần làm xuất hiện bệnh gút.
+Về cơ bản, cấu trúc purin gồm có 9 nguyên tử, với 2 vòng là: pyrimidine 6 cạnh và imidazole 5 cạnh hợp nhất với nhau. Bốn nguyên tử nitơ có mặt ở các vị trí 1, 3, 7 và 9. Việc đánh số purin bắt đầu với nitơ đầu tiên của vòng 6 cạnh và sau đó tiếp tục theo hướng ngược chiều kim đồng hồ, vòng imidazole thì ngược lại. (1)
+Ngoài ra, các purine quan trọng khác bao gồm: hypoxanthine, xanthine, theobromine, caffeine, axit uric và isoguanine. Các bazơ purine kết nối với carbon-1′ của pentose thông qua nguyên tử nitơ thứ 9 để tạo thành nucleoside.
+Phân loại purin
+Purin là những phân tử được tạo thành từ các nguyên tử cacbon và nitơ, được tìm thấy trong DNA và RNA của tế bào. Theo đó, purin trong cơ thể con người gồm 2 phân loại chính như sau: (2)
+1. Purin nội sinh
+Khoảng 2/3 purin trong cơ thể là nội sinh. Đây là loại được sản xuất bởi chính cơ thể con người và thường tìm thấy bên trong tế bào.
+2. Purin ngoại sinh
+Purin ngoại sinh là loại đi vào cơ thể thông qua đường thức ăn, được chuyển hóa như một phần của quá trình tiêu hóa. Khi cả purin nội sinh và ngoại sinh được xử lý, sản phẩm phụ tạo ra được gọi là axit uric, trong đó chỉ khoảng 10% bài tiết ra ngoài, 90% còn lại sẽ được tái hấp thu.
+Vai trò của purin
+Một purin là một dị vòng thơm bao gồm carbon và nitơ. Theo đó, các bazơ purin là adenine và guanine có vai trò tham gia vào quá trình hình thành DNA và RNA. Bên cạnh đó, hợp chất này cũng là thành phần của các phân tử sinh học quan trọng khác, chẳng hạn như: ATP, GTP, AMP vòng, NADH và coenzym A. Đây có một nhóm NH2 và các nhóm oxo thể hiện phản ứng đồng phân keto-enol và amin-imine, mặc dù các dạng amin và oxo chiếm ưu thế hơn trong điều kiện sinh lý. Ngoài ra, hợp chất này còn đóng nhiều vai trò quan trọng đối với hoạt động của cơ thể, bao gồm:
+Purin đóng vai trò là tín hiệu trao đổi chất, cung cấp năng lượng, kiểm soát sự phát triển của tế bào.
+Purin là một phần của coenzym thiết yếu, tham gia vào quá trình vận chuyển đường và hỗ trợ phản ứng phosphoryl hóa xảy ra thuận lợi.
+Trong hệ thống thần kinh trung ương (CNS), một số purin đóng vai trò chuyên biệt hơn, không chỉ trong tế bào thần kinh mà còn trong các tế bào thần kinh đệm.
+Mối liên hệ giữa purin với bệnh gút
+Cơ thể chuyển hóa purin, tạo ra axit uric trong máu. Thực tế, hợp chất này không hoàn toàn có hại, trong một số môi trường nhất định vẫn hoạt động tương tự như chất chống oxy hóa. Hầu hết axit uric đều được xử lý bởi thận vào đào thải ra ngoài thông qua đường phân hoặc nước tiểu. (3)
+Tuy nhiên, khi nồng độ hợp chất trong máu quá cao (hay còn gọi là tăng axit uric trong máu) có thể dẫn đến hình thành bệnh gút. Cụ thể, lượng axit uric dư thừa có nguy cơ lắng đọng lại ở các khớp, từ đó tiến triển thành tinh thể urat. Điều này gây kích ứng khớp đồng thời thúc đẩy phản ứng của hệ thống miễn dịch gây viêm. Một số triệu chứng điển hình là sưng đỏ, đau, nóng khớp, hay còn gọi là cơn gút cấp, gút bùng phát… Những nguyên nhân chủ yếu khiến quá trình rối loạn chuyển hóa purin khiến nồng độ axit uric tăng cao gồm:
+Chức năng lọc của thận gặp vấn đề, có giảm quá trình đào thải axit uric ra khỏi máu.
+Cơ thể tiêu thụ nhiều thực phẩm có hàm lượng purin cao.
+Cơ thể sản xuất quá nhiều axit uric.
+Các chuyên gia cũng ước tính có khoảng 4% trong tổng số 21% trường hợp bị tăng axit uric trong máu được kết luận mắc bệnh gút. Điều này cho thấy, purin có thể chỉ là một yếu tố góp phần vào sự phát triển bệnh gút. Theo đó, để đưa ra kết luận chính xác về tình trạng đang gặp phải, bác sĩ thường chỉ định đo hàm lượng axit uric trong máu và nước tiểu. Phép đo được biểu thị bằng miligam axit uric trên mỗi delicit máu (mg/dL). Kết quả vượt khỏi chỉ số dưới đây đồng nghĩa với việc mắc bệnh gút:
+Nam giới: 7,0 mg/dL.
+Nữ giới: 6,0 mg/dL.
+Các triệu chứng bệnh gút thường xuất hiện chủ yếu vào ban đêm. Nguyên nhân bởi cơ thể tiết ra chất chống viêm cortisol ít hơn, trong khi lượng melatonin và prolactin – hai chất gây gia tăng các cytokine gây viêm cao hơn vào thời điểm này.
+Cách kiểm soát purin cho bệnh nhân gút
+Hầu hết các trường hợp bị gút do dư thừa purin (tăng axit uric trong máu) đều cần đến điều trị y tế để kiểm soát kịp thời các triệu chứng đau đớn khó chịu. Theo đó, bác sĩ có thể chỉ định sử dụng một số loại thuốc sau:
+Thuốc kháng viêm: Ibuprofen, naproxen và các loại thuốc chống viêm không steroid khác (NSAID) có thể làm giảm cơn đau do bệnh gút gây ra. Tuy nhiên, việc lạm dụng có thể gây ảnh hưởng đến thận, khả năng lọc axit uric cũng hoạt động của hệ tiêu hóa.
+Colchicin thường được kê đơn cho các trường hợp bị gút, có tác dụng làm giảm viêm và sưng đau nhanh chóng. Tuy nhiên, tác dụng phụ thường gặp là nôn mửa, tiêu chảy.
+Ngoài ra, chế độ ăn uống hàng ngày cũng ảnh hưởng đến khả năng kiểm soát purin ở người bệnh gút. Hầu hết các loại thực phẩm từ thực vật và thịt đều chứa hợp chất này nhưng một số trong đó có nồng độ cao hơn. Ngoài ra, nhiều loại thức ăn còn gây ảnh hưởng nghiêm trọng đến quá trình sản xuất cũng như chuyển hóa purin trong cơ thể. Các nhóm thực phẩm nên tránh gồm: (
+Wikipedia contributors. (2024, February 6). Purine. Wikipedia. https://en.wikipedia.org/wiki/Purine
+)
+Thực phẩm, đồ uống có hàm lượng đường cao: siro, nước ngọt có gas.
+Hải sản: sò điệp, cá cơm, cá trích…
+Thịt: nội tạng, gan động vật, thịt thú rừng…
+Đồ uống có cồn (rượu bia làm tăng nồng độ axit uric, gây ức chế khả năng chuyển hóa purin, xử lý và loại bỏ axit uric ra khỏi cơ thể).
+Tham khảo: Chế độ ăn cho người bị gút
+Ngoài ra, những người được chẩn đoán tăng axit uric máu nên tuân theo chế độ ăn uống lành mạnh để kiểm soát tốt hàm lượng purin trong cơ thể. Một số giải pháp hữu ích có thể tham khảo như:
+Tiêu thụ vừa phải các loại rau chứa nhiều purin, chẳng hạn như: đậu Hà Lan, măng tây, bột yến mạch…
+Bổ sung các sản phẩm từ sữa ít béo, trái cây, ngũ cốc nguyên hạt… vào chế độ ăn hàng ngày bởi nhóm này có hàm lượng purin thấp và có khả năng làm giảm axit uric trong máu.
+Uống nhiều nước để hỗ trợ tiêu hóa và làm giảm nồng độ axit uric trong máu.
+Tiêu thụ cà phê và trà ở mức vừa phải, hai loại đồ uống này không làm tăng nồng độ axit uric, ngược lại còn đem đến hiệu quả tích cực.
+Ưu tiên thực đơn thiên về thực vật để làm giảm tình trạng viêm nhiễm trong cơ thể, bao gồm cả viêm khớp.
+Trung tâm Chấn thương chỉnh hình, Hệ thống BVĐK Tâm Anh, là nơi quy tụ đội ngũ chuyên gia đầu ngành, bác sĩ ngoại khoa giàu kinh nghiệm, tận tâm, nhiệt tình như: TTND.GS.TS.BS Nguyễn Việt Tiến; PGS.TS.BS Đặng Hồng Hoa; TS.BS Tăng Hà Nam Anh; ThS.BS.CKII Trần Anh Vũ; BS.CKI Trần Xuân Anh, ThS.BS.CKI Lê Đình Khoa, TS.BS Đỗ Tiến Dũng; TS.BS.CKII Vũ Hữu Dũng… Đây cũng là một trong những đơn vị tiên phong trong việc chẩn đoán và điều trị các bệnh về cơ xương khớp với kỹ thuật hiện đại theo phác đồ cập nhật quốc tế.
+Bệnh viện còn được trang bị hệ thống máy móc, trang thiết bị chẩn đoán hình ảnh hiện đại như: máy chụp CT 768 lát cắt Somatom Drive, máy cộng hưởng từ thế hệ mới Magnetom Amira BioMatrix, robot Artis Pheno, máy đo mật độ xương, máy siêu âm…; hệ thống kính vi phẫu thuật Opmi Vario 700 Zeiss, bàn mổ Meera-Maquet… để có thể phát hiện sớm các tổn thương và điều trị hiệu quả các bệnh lý về cơ xương khớp…
+BVĐK Tâm Anh còn sở hữu hệ thống phòng khám khang trang, khu nội trú cao cấp; khu vực phục hồi chức năng hiện đại; quy trình chăm sóc hậu phẫu toàn diện giúp bệnh nhân nhanh chóng hồi phục và ổn định sức khỏe sau phẫu thuật.
+Để đặt lịch khám và điều trị với các chuyên gia đầu ngành tại Trung tâm Chấn thương chỉnh hình, Bệnh viện Đa khoa Tâm Anh, Quý khách vui lòng liên hệ:
+Trên đây là tổng hợp các thông tin chi tiết về purin trong cơ thể cũng như mối liên hệ đối với tình trạng bệnh gút thường gặp. Hy vọng với những chia sẻ này, người bệnh đã có thể nhiều cập nhật hữu ích để chủ động kiểm soát nồng độ urin ở mức hợp lý.

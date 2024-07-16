@@ -1,0 +1,136 @@
+# doc_id = health_disease_2055
+# url = https://tamanhhospital.vn/ung-thu-thanh-quan-giai-doan-3/
+# date = 11/08/2023
+Ung thư thanh quản giai đoạn III: Triệu chứng, chẩn đoán và điều trị
+Mỗi năm có hơn 180.000 ca mắc mới ung thư thanh quản trên toàn cầu, trong đó gần 100.000 ca tử vong. Ung thư thanh quản giai đoạn III được xem là giai đoạn muộn, tiên lượng điều trị kém hơn các giai đoạn trước.
+Mục lụcUng thư thanh quản giai đoạn III là gì?Giải mã phân đoạn T, N, M trong giai đoạn III ung thư thanh quảnKhối u nguyên phát (T)Hạch vùng (N)Di căn xa (M)Ung thư thanh quản giai đoạn III (T1-2,N1,M0 hoặc T3,N0-1,M0)Triệu chứng ung thư thanh quản giai đoạn IIITiên lượng tỷ lệ sống sau 5 năm của ung thư thanh quản giai đoạn IIICách chẩn đoán ung thư thanh quản giai đoạn IIINội soi thanh quảnSinh thiếtNội soi tai mũi họngCác xét nghiệm chẩn đoán hình ảnhSinh thiết hạch di cănCách điều trị ung thư thanh quản giai đoạn IIIĐiều trị ung thư thanh quản thượng thanh môn giai đoạn IIIĐiều trị ung thư thanh quản thanh môn giai đoạn IIIĐiều trị ung thư thanh quản hạ thanh môn giai đoạn IIISống chung với bệnh ung thư thanh quản giai đoạn IIIUng thư thanh quản giai đoạn III là gì?
+Thanh quản được chia thành III vùng tương ứng với 3 tên gọi là thượng thanh môn, thanh môn và hạ thanh môn. Tỷ lệ ung thư thanh quản theo vị trí 3 vùng như sau: 30-35% ở thượng thanh môn, 60-65% ở vùng thanh môn và 5% ở vùng hạ thanh môn.
+Ung thư thanh quản giai đoạn III là ung thư tiến triển tại vùng, các tế bào ung thư đã xâm lấn ra khu vực lân cận, dây thanh có thể đã bất động hoặc đã di căn hạch bạch huyết vùng cổ; ở giai đoạn này thường các triệu chứng đã rõ ràng với mức độ nghiêm trọng. Ung thư thanh quản giai đoạn 3 có tiên lượng tương đối kém khả quan. (1)
+Ung thư thanh quản giai đoạn III được xem là giai đoạn muộn. Phát hiện bệnh thời điểm này thường do các triệu chứng ung thư đã rầm rộ với mức độ nghiêm trọng, người bệnh cảm thấy sức khỏe sa sút và tiên lượng điều trị không tốt như phát hiện vào giai đoạn sớm.
+Giải mã phân đoạn T, N, M trong giai đoạn III ung thư thanh quản
+Phân giai đoạn ung thư thanh quản dựa theo hướng dẫn của Ủy ban Liên hợp về Ung thư Hoa Kỳ (AJCC – American Joint Committee on Cancer), với phiên bản 8 là phiên bản cập nhật mới nhất vào năm 2017. (2)
+Khối u nguyên phát (T)
+Tx: Khối u nguyên phát không thể đánh giá được
+Tis: Ung thư biểu mô tại chỗ
+Thượng thanh môn
+T1: Khối u giới hạn ở một phần thượng thanh môn, dây thanh âm hoạt động bình thường.
+T2: Khối u xâm lấn niêm mạc của vùng lân cận thượng thanh môn hoặc thanh môn hoặc một phần ngoài thượng thanh môn, tuy nhiên không cố định thanh quản.
+T3: Khối u giới hạn ở thanh quản, có sự hạn chế dây thanh và/hoặc xâm lấn bất kỳ vị trí sau: khoang trước nắp thanh môn, vùng sau sụn thanh quản, khoang cạnh thanh môn và/hoặc vỏ bên trong sụn của tuyến giáp.
+T4: Khối u tiến triển mức độ vừa phải hoặc rất tiến triển, bao gồm T4a và T4b.
+T4a: Bệnh tại chỗ, tiến triển vừa phải, khối u xâm lấn qua vỏ ngoài sụn tuyến giáp và/hoặc xâm lấn các mô ngoài thanh quản (khí quản, mô mềm vùng cổ như các cơ sâu ngoài lưỡi (cơ trầm lưỡi, cơ hầu lưỡi, cơ móng lưỡi), cơ ức móng, cơ vai móng, tuyến giáp hay thực quản).
+T4b: Khối u xâm lấn không gian phía trước cột sống, bao quanh động mạch cảnh hoặc cấu trúc trung thất.
+Thanh môn
+T1: Khối giới hạn ở 1 hoặc 2 dây thanh, dây thanh di động bình thường.
+T1a: Khối u giới hạn ở 1 dây thanh âm.
+T1b: Khối u liên quan cả 2 dây thanh âm.
+T2: Khối u lan đến thượng thanh môn và/hoặc hạ thanh môn, và/hoặc làm hạn chế dây thanh vận động.
+T3: Khối u giới hạn ở thanh quản, dây thanh bất động và/hoặc xâm lấn khoang cận thanh môn và/hoặc vỏ bên trong sụn giáp.
+T4: Khối u tiến triển vừa phải hoặc rất tiến triển, bao gồm T4a và T4b.
+T4a: Khối u xâm lấn ra vỏ ngoài sụn tuyến giáp và/hoặc xâm lấn các mô ngoài thanh quản (khí quản, mô mềm vùng cổ như các cơ sâu ngoài lưỡi (cơ trầm lưỡi, cơ hầu lưỡi, cơ móng lưỡi), cơ ức móng, cơ vai móng, tuyến giáp hay thực quản).
+T4b: Khối u xâm lấn không gian phía trước cột sống, bao quanh động mạch cảnh hoặc cấu trúc trung thất.
+Hạ thanh môn
+T1: Khối u giới hạn ở hạ thanh môn.
+T2: Khối u lan đến 1 hoặc 2 dây thanh với dây thanh cử động bình thường hoặc suy giảm (không cố định dây thanh).
+T3: Khối u giới hạn ở thanh quản với dây thanh bất động và/hoặc xâm lấn vỏ bên trong của sụn giáp.
+T4: Khối u tiến triển vừa phải hoặc rất tiến triển, bao gồm T4a và T4b.
+T4a: Khối u xâm lấn sụn nhẫn hoặc sụn giáp và/hoặc xâm lấn các mô ngoài thanh quản (khí quản, mô mềm vùng cổ như các cơ sâu ngoài lưỡi (cơ trâm lưỡi, cơ hầu lưỡi, cơ móng lưỡi), cơ ức móng, cơ vai móng, tuyến giáp hay thực quản).
+T4b: Khối u xâm lấn không gian trước cột sống, bao động mạch cảnh hoặc cấu trúc trung thất.
+Hạch vùng (N)
+Nx: Không đánh giá được hạch bạch huyết vùng.
+N0: Không có hạch bạch huyết di căn.
+N1: Di căn 1 hạch bạch huyết cùng bên với kích thước ≤ 3cm và chưa phá vỡ vỏ hạch.
+N2: Di căn một hạch cùng bên có kích thước > 3cm và ≤ 6cm, chưa phá vỡ vỏ hạch hoặc di căn nhiều hạch vùng cùng bên với kích thước tối đa ≤ 6cm chưa phá vỡ vỏ hạch hoặc di căn hạch bạch huyết 2 bên hoặc đối bên kích thước lớn nhất ≤ 6cm và chưa phá vỡ vỏ hạch.
+N2a: Di căn một hạch có kích thước > 3cm và ≤ 6cm và chưa phá vỡ vỏ hạch.
+N2b: Di căn nhiều hạch vùng cùng bên với kích thước lớn nhất ≤ 6cm và chưa phá vỡ vỏ hạch.
+N2c: Di căn hạch bạch huyết hai bên hoặc đối bên kích thước tối đa ≤ 6cm và chưa phá vỡ vỏ hạch.
+N3: Di căn hạch kích thước > 6cm và chưa phá vỡ vỏ hạch hoặc di căn đến bất kỳ hạch nào với lâm sàng đã phá vỡ vỏ hạch.
+N3a: Di căn hạch kích thước tối đa > 6cm và chưa phá vỡ vỏ hạch.
+N3b: Di căn đến bất kỳ hạch bạch huyết nào với lâm sàng đã phá vỡ vỏ hạch.
+Di căn xa (M)
+M0: Không có bằng chứng tế bào ung thư di căn.
+M1: Ung thư di căn xa.
+Ung thư thanh quản giai đoạn III (T1-2,N1,M0 hoặc T3,N0-1,M0)
+Thượng thanh môn, nếu khối u có 1 trong 2 điều kiện sau: (3)
+Khối u giới hạn bên trong thanh quản, dây thanh âm bất động và/hoặc xâm lấn vỏ bên trong của sụn giáp.
+Di căn 1 hạch bạch huyết vùng cổ cùng bên với khối u và hạch này ≤ 3cm, chưa phá vỡ vỏ bao hạch.
+Thanh môn, nếu khối u có 1 trong 2 điều kiện sau:
+Khối u giới hạn trong thanh quản, dây thanh âm bị bất động và/hoặc xâm lấn vỏ bên trong sụn giáp. Hoặc khối u xâm lấn các mô xung quanh thanh môn với dây thanh có thể di động hoặc không.
+Di căn 1 hạch bạch huyết vùng cổ cùng bên với u và kích thước hạch ≤ 3cm, chưa phá vỡ vỏ bao hạch.
+Hạ thanh môn, nếu khối u có 1 trong 2 điều kiện sau:
+Khối u giới hạn bên trong thanh quản với dây thanh âm bị bất động.
+Di căn 1 hạch bạch huyết vùng cổ cùng bên với u và kích thước hạch ≤ 3cm, chưa phá vỡ vỏ bao hạch.
+Xem thêm:
+Ung thư thanh quản giai đoạn 0
+Ung thư thanh quản giai đoạn 1
+Ung thư thanh quản giai đoạn 2
+Ung thư thanh quản giai đoạn 4
+Triệu chứng ung thư thanh quản giai đoạn III
+Khàn tiếng kéo dài là triệu chứng thường gặp của ung thư thanh quản vùng thanh môn, ung thư thanh quản vùng này cũng thường được chẩn đoán ở giai đoạn sớm do khàn tiếng hay thay đổi giọng nói thường xuất hiện sớm. Ung thư thanh quản vùng hạ thanh môn và thượng thanh môn thường được phát hiện ở giai đoạn bệnh đã tiến triển do ít biểu hiện triệu chứng ở giai đoạn sớm; khi chẩn đoán, bệnh thường đã lan rộng tại chỗ, tại vùng và di căn hạch bạch huyết lân cận. (4)
+Các triệu chứng khác có thể gặp trong bệnh ung thư thanh quản giai đoạn 3 bao gồm:
+Ho khan: Ho kéo dài lâu năm do hút thuốc, ho ra máu.
+Khó nuốt: Cảm giác khó chịu khi nuốt nước bọt hoặc thức ăn, cảm giác cổ họng bị tắc nghẽn – vướng víu như có dị vật, nuốt đau.
+Các bất thường vùng cổ họng – thay đổi giọng nói kéo dài và không đáp ứng với điều trị nội khoa thông thường: đau rát họng, sưng vùng cổ họng, khàn giọng, nói không ra hơi – không ra tiếng, giọng nói yếu.
+Rối loạn hô hấp: Thở khò khè, hụt hơi, thở khó như vướng vật gì ở cổ hoặc thở ồn ào, thở gấp, thở rít, khó thở kéo dài.
+Triệu chứng ung thư thanh quản giai đoạn III rõ ràng hơn, mức độ nghiêm trọng cao và kéo dài.
+Tiên lượng tỷ lệ sống sau 5 năm của ung thư thanh quản giai đoạn III
+Theo Văn phòng Thống kê Quốc gia Anh (ONS – Office for National Statistics), khoảng 40-50% bệnh nhân ung thư thanh quản giai đoạn III có thể sống sau 5 năm kể từ thời điểm chẩn đoán bệnh.
+Thực tế tiên lượng sống bệnh nhân ung thư chỉ mang tính chất tham khảo. Tiên lượng sống của ung thư thanh quản phụ thuộc chủ yếu vào yếu tố giai đoạn bệnh tại thời điểm chẩn đoán (có nghĩa là dựa vào mức độ xâm lấn và lan rộng của khối u, tình trạng tế bào ung thư di căn hạch và di căn xa). Ngoài ra, tiên lượng sống đối với bệnh nhân ung thư thanh quản còn phụ thuộc vào các yếu tố như:
+Loại tế bào ung thư và độ mô học tế bào ung thư:Độ mô học mô tả mức độ bất thường của các tế bào khi quan sát dưới kính hiển vi, cấu trúc tế bào càng bất thường thì độ mô học càng cao, và tiên lượng bệnh sẽ xấu hơn.
+Vị trí của khối u: Khối u ở vùng thanh môn thường sẽ có tiên lượng điều trị và phục hồi tốt hơn vùng thượng hay hạ thanh môn.
+Sức khỏe và thể trạng của người bệnh: Người bệnh càng khỏe mạnh thì càng có nhiều khả năng tham gia đầy đủ và đáp ứng tốt phác đồ điều trị, tiên lượng bệnh có thể sẽ tốt hơn những bệnh nhân có nhiều bệnh nền/hoặc thể trạng không cho phép tham gia đầy đủ các phương pháp điều trị cần thiết.
+Nếu bệnh nhân vẫn giữ thói quen hút thuốc lá sau khi đã có chẩn đoán ung thư thanh quản: Trường hợp này khả năng cao bệnh nhân có thể mắc ung thư thứ hai, từ đó tiên lượng bệnh cũng xấu đi.
+Cách chẩn đoán ung thư thanh quản giai đoạn III
+Để chẩn đoán xác định ung thư thanh quản giai đoạn III, bác sĩ có thể chỉ định một số phương pháp như:
+Nội soi thanh quản
+Bác sĩ sử dụng ống soi nhỏ, có đèn và camera ở phần đầu ống nội soi có thể đưa từ mũi hoặc từ họng để khảo sát vùng thanh quản. Hình ảnh thu nhận được sẽ hiển thị trực tiếp trên màn hình. Bác sĩ có thể gây tê cục bộ vùng mũi – họng giúp bệnh nhân giảm bớt cảm giác khó chịu và bớt đau.
+Trước khi nội soi, bác sĩ sẽ khai thác bệnh sử của người bệnh, có thể cần xét nghiệm máu (công thức máu, chức năng đông máu…), chụp X-quang ngực, chụp CT cắt lớp… Có thể được yêu cầu ngừng dùng một số loại thuốc nhất định như thuốc làm loãng máu (bao gồm cả aspirin), hoặc một số loại thuốc khác trong vài ngày trước khi nội soi trong trường hợp có sinh thiết. Người bệnh cần nhịn ăn ít nhất 4 tiếng trước khi nội soi.
+Nội soi thanh quản giúp quan sát các mô bất thường trong thanh quản.
+Sinh thiết
+Sinh thiết mô tế bào học được thực hiện đồng thời trong quá trình nội soi. Một công cụ từ ống nội soi tách một phần mô bất thường để gửi phòng xét nghiệm làm giải phẫu bệnh giúp xác định loại tế bào lành hay ác tính. Sinh thiết có thể được thực hiện khi nội soi thanh quản. Nếu cần thiết, nội soi thanh quản được thực hiện trong điều kiện bệnh nhân được gây mê toàn thân ở phòng mổ. bệnh nhân thường xuất viện trong ngày.
+Nội soi tai mũi họng
+Có thể được dùng để đánh giá toàn bộ vùng tai mũi họng trước và sau điều trị.
+Các xét nghiệm chẩn đoán hình ảnh
+Thường được sử dụng để đánh giá giai đoạn của bệnh. Một số xét nghiệm thường được chỉ định gồm:
+Chụp cắt lớp vi tính (CT): Phương pháp này sử dụng tia X và máy tính tạo ra hình ảnh ba chiều của thanh quản và các mô xung quanh. Chụp cắt lớp vi tính CT vùng đầu cổ giúp xác định mức độ ảnh hưởng của khối u thanh quản, gồm kích thước và mức độ xâm lấn của khối u, tình trạng di căn hạch bạch huyết vùng và có thể giúp lập kế hoạch xạ trị.
+Cộng hưởng từ (MRI): Chụp cộng hưởng từ hay còn gọi là chụp MRI (tên tiếng anh là Magnetic Resonance Imaging) là phương pháp sử dụng từ trường mạnh, sóng vô tuyến và máy tính để phác họa hình ảnh chi tiết bên trong cơ thể con người; đặc biệt hữu ích trong việc phác họa hình ảnh các mô mềm và hệ thần kinh. MRI vùng đầu cổ giúp đánh giá chuẩn xác và khách quan về vị trí khối u, mức độ xâm lấn của khối u vào mô mềm xung quanh cũng như xâm lấn thần kinh, mạch máu; ngoài ra MRI cũng giúp đánh giá chi tiết hạch di căn vùng cổ và gợi ý các bất thường khác.
+Siêu âm: Siêu âm hạch vùng cổ là phương pháp sử dụng sóng siêu âm tần số cao để thu lại hình ảnh của cấu trúc bên trong hạch cổ. Sau khi xem xét hình ảnh siêu âm, bác sĩ có thể nhận biết những biểu hiện bất thường (hạch mất cấu trúc, vỡ vỏ bao hoặc xâm lấn cấu trúc xung quanh…) và đưa ra chẩn đoán.
+Hệ thống máy chụp CT 768 lát cắt hiện đại tại Bệnh viện Đa khoa Tâm Anh giúp chẩn đoán ung thư thanh quản.
+Sinh thiết hạch di căn
+Trong trường hợp hạch di căn khó xác định bản chất (lành hay ác tính) trên các xét nghiệm hình ảnh (CT scan, MRI, PET-CT, siêu âm), hoặc hạch không phải hạch vùng, hoặc nghi ngờ có hai ung thư nguyên phát, có thể cần phải sinh thiết hạch di căn. Phương pháp sinh thiết có thể là chọc hút tế bào bằng kim nhỏ (FNA – Fine Neddle Aspiration), hoặc sinh thiết lõi, hoặc sinh thiết trọn hạch.
+Cách điều trị ung thư thanh quản giai đoạn III
+Việc lựa chọn phương pháp điều trị ung thư thanh quản giai đoạn III phụ thuộc nhiều vào vị trí khối u trong thanh quản.
+Việc điều trị ung thư thanh quản ở giai đoạn tiến triển như giai đoạn III cần được thực hiện ở cơ sở y tế có nhiều kinh nghiệm và cần được phối hợp nhiều chuyên khoa. Phương pháp điều trị cần phải được thảo luận kỹ càng với bệnh nhân và người nhà. (5)
+Ngoài yếu tố vị trí khối u, việc lựa chọn phương pháp điều trị cần phải dựa vào mức độ lan rộng và xâm lấn của khối bướu, các đặc điểm riêng biệt của từng người bệnh (tuổi, thể trạng, bệnh tật đi kèm, hỗ trợ tâm lý xã hội…), các độc tính của điều trị (phẫu thuật hay hóa-xạ trị), khả năng tham gia tích cực vào quá trình phục hồi chức năng nói – nuốt của bệnh nhân sau điều trị…
+Hóa trị là một trong những phương pháp điều trị ung thư thanh quản giai đoạn III
+Việc bảo tồn chức năng thanh quản là vấn đề đang được quan tâm đặc biệt và khuyến cáo rộng rãi; vì thế vai trò của hóa-xạ trị là rất quan trọng đối với ung thư thanh quản giai đoạn tiến triển như giai đoạn III. Bên cạnh việc điều trị thì việc đánh giá đáp ứng sau điều trị cũng là một bước rất quan trọng để bác sĩ lựa chọn phương pháp can thiệp tiếp theo cho người bệnh. Vì vậy, người bệnh mắc ung thư thanh quản giai đoạn III nên được điều trị tại bệnh viện có đầy đủ phương tiện chẩn đoán và điều trị bao gồm hóa – xạ – phẫu trị. (6)
+Điều trị ung thư thanh quản thượng thanh môn giai đoạn III
+Nếu khối u ở thượng thanh môn, điều trị có thể bao gồm những phương pháp sau đây:
+Hóa trị dẫn đầu sau đó tùy vào mức độ đáp ứng của bệnh sẽ lựa chọn xạ trị hay hóa trị hay phẫu thuật.
+Hóa trị và xạ trị đồng thời, sau đó tùy vào mức độ đáp ứng của bệnh sẽ lựa chọn phẫu thuật hay theo dõi.
+Xạ trị đơn thuần (áp dụng cho bệnh nhân không thể điều trị hóa trị và phẫu thuật).
+Phẫu thuật cắt một phần hoặc toàn bộ thanh quản kèm cắt tuyến giáp, nạo hạch cổ bên, hạch cổ trung tâm và cạnh khí quản. Tùy vào kết quả giải phẫu bệnh sau mổ sẽ lựa chọn phương pháp điều trị tiếp theo là xạ trị hoặc hóa trị đơn thuần hay hóa-xạ trị đồng thời.
+Điều trị ung thư thanh quản thanh môn giai đoạn III
+Nếu ung thư ở thanh môn, điều trị có thể bao gồm những phương pháp sau đây:
+Hóa trị và xạ trị đồng thời, sau đó tùy vào đáp ứng của bệnh sẽ lựa chọn phương pháp điều trị tiếp theo là phẫu thuật hay theo dõi.
+Xạ trị đơn thuần (đối với người bệnh không thích hợp để hóa trị)
+Phẫu thuật (cắt thanh quản kèm cắt tuyến giáp (nếu có chỉ định) và nạo hạch cổ cùng bên hoặc hai bên kết hợp nạo hạch trước và cạnh khí quản cùng bên. Tùy vào kết quả giải phẫu bệnh sau mổ sẽ lựa chọn phương pháp điều trị tiếp theo sẽ là hóa/xạ trị đơn thuần hoặc hóa-xạ trị đồng thời.
+Hóa trị dẫn đầu sau đó tùy vào mức độ đáp ứng của bệnh sẽ lựa chọn xạ trị hay hóa trị hay phẫu thuật.
+Liệu pháp nhắm trúng đích (cetuximab), liệu pháp miễn dịch (pembrolizumab hay nivolumab) có thể giúp ích trong một số trường hợp.
+Điều trị ung thư thanh quản hạ thanh môn giai đoạn III
+Xạ trị.
+Xạ trị kết hợp với phẫu thuật.
+Hóa xạ trị đồng thời.
+Mỗi bệnh nhân ung thư thanh quản là một cá thể riêng biệt, không ai giống ai, việc lựa chọn phương pháp điều trị sẽ phụ thuộc vào rất nhiều yếu tố; vậy nên bệnh nhân và gia đình cần chủ động trao đổi với bác sĩ để có được các hướng dẫn điều trị phù hợp nhất.
+Sống chung với bệnh ung thư thanh quản giai đoạn III
+Chế độ dinh dưỡng và điều chỉnh lối sống lành mạnh góp phần cải thiện kết quả điều trị cuối cùng của người bệnh ung thư, đặc biệt là ung thư thanh quản.
+Người bệnh ung thư thanh quản giai đoạn III nên ăn thực phẩm xay nhuyễn, mềm, dễ nuốt
+Bệnh nhân cần lưu ý một vài điểm sau:
+Trong quá trình điều trị, người bệnh nên ăn các thực phẩm mềm, xay nhuyễn hoặc nấu dạng sệt để dễ nhai nuốt. Sau khi đã hoàn tất phác đồ điều trị, người bệnh nên đa dạng thực đơn hàng ngày, bổ sung các món ăn mà bệnh nhân yêu thích, đảm bảo dinh dưỡng đầy đủ.
+Tránh các loại nước ép, trái cây có tính axit cao hoặc đồ ăn cay nóng.
+Tăng cường rau xanh, trái cây tươi vào thực đơn hàng ngày.
+Người bệnh nên dừng hẳn việc hút thuốc, hạn chế sử dụng rượu bia.
+Duy trì hoạt động thể dục, thể thao nhẹ như chạy bộ, tập dưỡng sinh…
+Tái khám theo đúng lịch hẹn.
+Khoa Ung bướu, BVĐK Tâm Anh được đầu tư trang thiết bị hiện đại, quy tụ đội ngũ y bác sĩ chuyên môn cao, áp dụng phác đồ điều trị cá thể hóa theo tiêu chuẩn quốc tế. Không chỉ chăm sóc chuyên biệt, hỗ trợ tiếp cận với các chuyên gia y tế hàng đầu ở nước ngoài, các bác sĩ khoa Ung bướu còn phối hợp cùng bác sĩ khoa Dinh dưỡng thiết lập chế độ ăn uống trước – trong và sau điều trị nhằm nâng cao tổng trạng cho từng bệnh nhân. Bên cạnh đó, bác sĩ cũng hỗ trợ tư vấn tâm lý cho bệnh nhân và người thân, giúp bệnh nhân vững tâm và lạc quan, tăng hiệu quả điều trị.
+Để đăng ký khám tầm soát và điều trị ung thư thanh quản, bạn có thể liên hệ theo thông tin:
+Ung thư thanh quản giai đoạn III được biết đến là giai đoạn ung thư tiến triển với tiên lượng tương đối kém khả quan. Tuy nhiên việc tuân thủ phác đồ điều trị và xây dựng lối sống lành mạnh được xem là yếu tố quan trọng giúp chống chọi bệnh tật.

@@ -1,0 +1,117 @@
+# doc_id = health_disease_515
+# url = https://tamanhhospital.vn/dich-vu-test-nhanh-covid-19/
+# date = 13/07/2021
+Dịch vụ test nhanh Covid-19: Quy trình, bao nhiêu tiền và ở đâu?
+Hiện nay nhiều loại dịch vụ test nhanh Covid-19 (xét nghiệm nhanh Covid-19) được phát triển góp phần đa dạng hóa các kỹ thuật xét nghiệm phát hiện virus SARS-CoV-2. Với ưu điểm thuận tiện khi sử dụng, cho kết quả nhanh trong vòng 30 phút, test nhanh Covid-19 đang được sử dụng để đẩy mạnh sàng lọc ca nhiễm, ngăn chặn dịch lây lan trong cộng đồng. Sau đây, bài viết sẽ cung cấp cho đọc giả hiểu rõ dịch vụ lấy mẫu test nhanh Covid-19 theo yêu cầu về quy trình thực hiện, giá tiền, và thực hiện ở đâu tốt?
+Mục lụcTest nhanh Covid-19 là gì?1. Xét nghiệm kháng nguyên là gì?2. Xét nghiệm kháng thể là gì?Test nhanh Covid-19 ở đâu?Test nhanh kháng nguyên Covid-19 lấy mẫu như thế nào?Test nhanh Covid-19 giá bao nhiêu tiền?Quy trình làm test nhanh Covid-19Bước 1: Chuẩn bịBước 2: Thu thập mẫuBước 3: Tách chiết mẫuBước 4: Thực hiện xét nghiệmBước 5: Đọc kết quảƯu – nhược điểm của test nhanh kháng nguyên Sars-Cov-21. Ưu điểm2. Nhược điểmCác thắc mắc về xét nghiệm nhanh Covid-19 theo yêu cầu1. Test nhanh Covid-19 khi nào có kết quả?2. Test nhanh Covid-19 có phải lấy máu không?3. Test nhanh Covid-19 có phải nhịn ăn không?Test nhanh kháng nguyên Covid-19 khác gì với xét nghiệm RT-PCR?4. Xét nghiệm nhanh virus Corona có đau không?Test nhanh Covid-19 là gì?
+Test nhanh Covid-19 là phương pháp xét nghiệm phát hiện các protein trên bề mặt của virus SARS-CoV-2 (xét nghiệm kháng nguyên) hoặc phát hiện các kháng thể được tạo ra do hệ thống miễn dịch của cơ thể phản ứng với việc lây nhiễm Covid-19 (xét nghiệm kháng thể).
+Trong đó, phương pháp xét nghiệm kháng nguyên được sử dụng phổ biến hiện nay để sàng lọc người nhiễm Covid-19 trong cộng đồng. Còn xét nghiệm kháng thể được áp dụng sàng lọc cho các trường hợp cá nhân đó có đáp ứng miễn dịch với loại virus này chưa và nếu họ có kháng thể trung hòa đặc hiệu thì cơ thể sẽ ghi nhớ miễn dịch giống như tiêm vắc-xin.
+1. Xét nghiệm kháng nguyên là gì?
+Test nhanh kháng nguyên Covid-19 là một xét nghiệm chẩn đoán nhanh RDT (Rapid Diagnostic Test) để phát hiện sự có mặt của protein đặc hiệu virus SARS-CoV-2 có trong một mẫu dịch tiết từ đường hô hấp (dịch tỵ hầu) của người cần kiểm tra. Các kháng nguyên chỉ được phát hiện khi virus đang trong các chu trình nhân lên một cách nhanh chóng. Xét nghiệm nhanh kháng nguyên được sử dụng tốt nhất để sàng lọc, chẩn đoán sớm tình trạng nhiễm virus cấp tính.
+Test nhanh có thể phát hiện người mắc Covid-19 ngay giai đoạn mới nhiễm thay vì phải chờ phơi nhiễm 7-10 ngày như xét nghiệm phát hiện kháng thể. Hiện tại, phương pháp này được dùng như 1 xét nghiệm sàng lọc Covid-19 đại trà được sử dụng trên toàn quốc nhờ lợi thế dễ thao tác, xét nghiệm lưu động, rút ngắn thời gian test, trả kết quả trong vòng 15- 30 phút.
+Test nhanh kháng nguyên được các chuyên gia đánh giá có độ nhạy thấp hơn phương pháp Realtime RT-PCR. Tuy nhiên, cùng với sự phát triển nghiên cứu, nhiều nhà sản xuất đã cho ra đời nhiều bộ kit test nhanh kháng nguyên có độ chính xác cao. Điển hình, bộ kit test nhanh của Mỹ có thể cho kết quả chính xác 95%.
+Kỹ thuật viên xét nghiệm thực hiện test nhanh kháng nguyên tại BVĐK Tâm Anh.
+2. Xét nghiệm kháng thể là gì?
+Xét nghiệm kháng thể là xét nghiệm tìm kháng thể IgM và IgG chống lại virus gây dịch bệnh Covid-19 trong huyết thanh bệnh nhân, còn được biết đến với tên gọi khác là xét nghiệm huyết thanh học. Kỹ thuật xét nghiệm này lấy mẫu máu (máu đầu ngón tay), sau đó tách huyết thanh để tiến hành xét nghiệm cần thiết.
+Phương pháp xét nghiệm này sẽ ghi nhận một người đang hoặc từng mắc Covid-19 hoặc có kháng thể chống lại SARS-CoV-2 do được chích vaccine phòng bệnh. Xét nghiệm kháng thể nếu kết hợp với xét nghiệm PCR sẽ hỗ trợ cho bác sĩ biết sự tiến triển qua các giai đoạn của bệnh Covid-19 một cách cụ thể hơn. Xét nghiệm được thực hiện tại cơ sở y tế thông thường và cho kết quả nhanh trong vòng 30 phút-1 giờ.
+Test nhanh Covid-19 kháng thể bằng cách lấy mẫu máu ở ngón tay.
+Đối tượng nào cần test nhanh Covid-19 kháng nguyên:
+Người có yếu tố dịch tễ, lưu trú tại các khu vực có ghi nhận ca bệnh Covid-19 trong vòng 28 ngày.
+Các đối tượng tiếp xúc trực tiếp ca nhiễm Covid-19, nhưng chưa thể triển khai xét nghiệm Realtime RT-PCR trong thời gian ngắn.
+Người đến khám bệnh, bệnh nhân cần xử lý cấp cứu, phẫu thuật tại khoa cấp cứu của các bệnh viện.
+Người thường xuyên di chuyển liên tỉnh như tài xế, giao hàng, lao động cần giấy thông hành về quê.
+Người lao động tại các môi trường đông đúc, kín gió.
+Áp dụng cho các cơ sở y tế chưa đủ điều kiện xét nghiệm sàng lọc Covid-19 bằng phương pháp RT-PCR cho nhân viên y tế.
+Test nhanh Covid-19 ở đâu?
+Phương pháp test nhanh Covid-19 bằng xét nghiệm kháng nguyên có thể thực hiện ở ngoài phòng thí nghiệm. Do đó, chúng ta có thể tiến hành lấy mẫu test nhanh chủ động tại bệnh viện hoặc đăng ký test nhanh tại các chốt chặn kiểm dịch lưu động. Tuy nhiên, việc triển khai test nhanh lưu động sẽ có ít nhiều nguy cơ không đủ độ an toàn sinh học. Do đó, hiện nay người dân vẫn được khuyến nghị nên tiến hành xét nghiệm nhanh Covid-19 tại bệnh viện để có quy trình an toàn, kết quả chính xác nhất.
+﻿
+Hiện nay, dịch vụ test nhanh truy tìm ca nhiễm trong cộng đồng được triển khai rộng rãi tại TP.HCM. Tuy nhiên, người dân thường lo lắng không biết lựa chọn dịch vụ test nhanh Covid-19 ở đâu tại TP. HCM với chi phí tốt, quy trình an toàn, tiện lợi. Để đáp ứng nhu cầu khách hàng BVĐK Tâm Anh đã triển khai dịch vụ test Covid-19 tại Bệnh viện, tại nhà/ tại chỗ cho khách hàng, cơ quan, xí nghiệp. Bệnh viện sử dụng bộ kit test nhanh của Mỹ – Panbio Covid-19 Ag Rapid test device – cho kết quả chính xác 95%. Khách hàng có nhu cầu có thể đăng ký ngay TẠI ĐÂY.
+Test nhanh của Mỹ – Panbio Covid-19 Ag Rapid test device được sử dụng tại BVĐK Tâm Anh.
+Test nhanh kháng nguyên Covid-19 lấy mẫu như thế nào?
+Test nhanh kháng nguyên Covid-19 lấy dịch tỵ hầu làm mẫu xét nghiệm. Mẫu test nhanh được sử dụng trực tiếp tại các chốt xét nghiệm lưu động hoặc tại các bệnh viện và có kết quả xét nghiệm sau 15-30 phút. Trong trường hợp nhân viên y tế không thể tiến hành test tại chỗ sẽ đưa mẫu bệnh phẩm về phòng xét nghiệm bệnh viện để tiến hành thực hiện xét nghiệm.
+Khi đó, mẫu sẽ được bảo quản trong ống kín không chứa môi trường bảo quản ở 2-8oC và sử dụng trong vòng 12 giờ. Trong trường hợp cần bảo quản lâu hơn, nhân viên y tế sẽ cấp đông mẫu dưới -70oC và phải rã đông hoàn toàn trước khi tiến hành xét nghiệm.
+Test nhanh Covid-19 giá bao nhiêu tiền?
+Hiện nay, giá xét nghiệm test nhanh kháng nguyên Covid-19 theo yêu cầu có giá từ 350.000 đồng/mẫu. Mức giá có sự chênh lệch do nguồn gốc, nhà sản xuất bộ kit test nhanh khác nhau. Hiện trên thị trường có các bộ kit test ngoại nhập như: Panbio – COVID-19 – Ag Rapid test Device (Nasopharyngeal); Safecare COVID-19 Ag Rapid Test Kit (Swab), SARS-CoV-2 Rapid Antigen Test… Ngoài ra, Việt Nam cũng có đơn vị đã sản xuất được kit test Covid-19 và được Bộ Y tế cho phép sử dụng.
+Quy trình làm test nhanh Covid-19
+Do có nhiều bộ kit test nhanh kháng nguyên khác nhau nên quy trình test nhanh Covid-19 cũng sẽ có 1 số điểm khác nhau. Tuy nhiên, các dụng cụ test nhanh kháng nguyên đều có điểm chung gồm một que thử đặt cố định trong khay nhựa. Que thử thường có cấu tạo gồm ba phần chính: lớp nhận mẫu, lớp cộng hợp và lớp màng phản ứng.
+Bước 1: Chuẩn bị
+Nhân viên y tế mặc đồ bảo hộ chống bệnh truyền nhiễm theo quy định.
+Để tất cả các thành phần của bộ xét nghiệm cân bằng với nhiệt độ phòng (15-30oC) trước khi xét nghiệm khoảng 30 phút.
+Lấy khay thử ra khỏi túi và sử dụng ngay trong vòng 1 giờ.
+Ghi mã người lấy mẫu lên khay thử trên mặt phẳng sạch nằm ngang.
+Bước 2: Thu thập mẫu
+Để người lấy mẫu ngồi hoặc nằm đầu nghiêng về phía sau một góc 70 độ.
+Nhân viên lấy mẫu nhẹ nhàng đưa đầu que lấy mẫu qua lỗ mũi, đẩy dọc sàn mũi tới khoang mũi hầu cho đến khi thấy có lực cản (sâu khoảng ½ khoảng cách từ đầu mũi đến dái tai). Xoay que ba lần và giữ yên 10 giây cho đầu que hấp thụ tối đa mẫu phẩm.
+Nhẹ nhàng xoay và rút que mẫu khỏi mũi bệnh nhân.
+Bước 3: Tách chiết mẫu
+Cho 10 giọt (300 µl) đệm chiết vào ống chiết rồi đặt lên giá đỡ.
+Nhúng đầu que mẫu vào ống chiết. Xoay và miết đầu que vào thành và đáy ống 10 lần. Để đầu que ngâm trong dung dịch 1 phút.
+Bóp cho hai thành ống ép vào đầu que, từ từ xoay que và ép đầu que khi rút que. khỏi ống để thu được dung dịch càng nhiều càng tốt. Hủy que mẫu đã sử dụng theo quy định đối với chất thải lây nhiễm sinh học.
+Đậy chặt ống bằng nắp nhỏ giọt.
+Lắc mạnh ống theo chiều ngang 10 lần để trộn đều mẫu. Tránh để dung dịch chạm tới đầu lọc trong nắp nhỏ giọt.
+Bước 4: Thực hiện xét nghiệm
+Nhỏ 3 giọt (100 µl) mẫu chiết từ ống vào ô nhận mẫu (S) của khay thử và bắt đầu dùng đồng hồ đếm thời gian.
+Đọc kết quả tại thời điểm 15 phút, không đọc sau 20 phút.
+Bước 5: Đọc kết quả
+Dương tính: Xuất hiện hai vạch màu: một là vạch chứng C và một vạch là vạch kết quả T. Kết quả cho thấy mẫu phẩm có kháng nguyên SARS-CoV-2.
+Âm tính: Chỉ xuất hiện vạch chứng C và không có vạch nào trong vùng kết quả T. Kết quả cho thấy mẫu phẩm không có hoặc nồng độ kháng nguyên SARS-CoV-2 dưới ngưỡng phát hiện của xét nghiệm.
+Không hợp lệ: Không xuất hiện vạch chứng C. Nguyên nhân do lượng mẫu không đủ hoặc thực hiện sai quy trình.
+Mẫu kết quả xét nghiệm test nhanh kháng nguyên dương tính với virus SARS CoV-2.
+Ưu – nhược điểm của test nhanh kháng nguyên Sars-Cov-2
+1. Ưu điểm
+Thời gian trả kết quả nhanh chóng chỉ mất 15-30 phút.
+Có thể thực hiện ngoài phòng thí nghiệm.
+Chi phí thấp.
+Dễ dàng thực hiện.
+Kỹ thuật viên xét nghiệm không phải đào tạo chuyên môn cao.
+Có thể sản xuất hàng loạt kit test để đảm bảo đáp ứng nhu cầu xét nghiệm mở rộng.
+Phù hợp sử dụng đầu tiên để khoanh vùng, dập dịch trên diện rộng.
+2. Nhược điểm
+Độ ẩm và nhiệt độ nơi xét nghiệm có thể làm ảnh hưởng đến kết quả.
+Nếu mẫu bị lẫn máu sẽ ảnh hưởng kết quả xét nghiệm.
+Độ chính xác thấp hơn xét nghiệm RT-PCR, nên test nhanh có thể có tỷ lệ dương tính giả, âm tính giả.
+Các thắc mắc về xét nghiệm nhanh Covid-19 theo yêu cầu
+1. Test nhanh Covid-19 khi nào có kết quả?
+Dịch vụ test nhanh Covid-19 thường trả kết quả trong vòng 15-30 phút đối với xét nghiệm tại chỗ. Tuy nhiên, độ ẩm và nhiệt độ nơi tiến hành lấy mẫu xét nghiệm có thể làm ảnh hưởng đến kết quả xét nghiệm, do đó mẫu test nhanh Covid-19 có thể sẽ được đóng gói về thực hiện xét nghiệm trong phòng thí nghiệm. Nhân viên y tế sẽ bảo quản mẫu trong ống kín không môi trường bảo quản ở 2-8oC và sử dụng trong vòng 12 giờ. Việc triển khai xét nghiệm trong phòng thí nghiệm sẽ đảm bảo an toàn sinh học hơn xét nghiệm tại chỗ.
+2. Test nhanh Covid-19 có phải lấy máu không?
+Dịch vụ xét nghiệm Covid-19 bằng phương pháp xét nghiệm kháng nguyên sẽ lấy mẫu dịch tỵ hầu. Còn test nhanh Covid-19 bằng xét nghiệm kháng thể sẽ lấy mẫu máu.
+3. Test nhanh Covid-19 có phải nhịn ăn không?
+Nếu dịch vụ xét nghiệm nhanh Covid-19 bằng phương pháp kháng nguyên sẽ lấy mẫu dịch tỵ hầu, bạn không cần phải nhịn ăn. Ngược lại, nếu bạn được yêu cầu xét nghiệm nhanh Covid-19 bằng loại xét nghiệm kháng thể sẽ lấy mẫu máu, do đó bạn sẽ được hướng dẫn nhịn ăn để kết quả chính xác nhất. Nếu ăn uống trước khi lấy máu xét nghiệm có thể thay đổi chỉ số lượng mỡ trong máu hoặc lượng đường cơ thể tăng cao, ảnh hưởng độ chính xác của kết quả xét nghiệm.
+Test nhanh kháng nguyên Covid-19 khác gì với xét nghiệm RT-PCR?
+So sánh
+Test nhanh kháng nguyên Covid-19
+Realtime RT-PCR
+Giúp phát hiện thành phần nào?
+Phát hiện Protein của virus có trong dịch tỵ hầu hoặc dịch tiết hô hấp.
+Sẽ phát hiện ra Acid Nucleic của virus có trong dịch tỵ hầu, dịch tiết hô hấp.
+Mức độ phức tạp của xét nghiệm
+Rất đơn giản, dễ dàng thực hiện, có thể thực hiện lưu động.
+Phức tạp, khó thực hiện, chỉ thực hiện trong phòng Lab.
+Độ đặc hiệu của xét nghiệm
+Độ đặc hiệu cao trên 90%, giúp hỗ trợ sàng lọc Covid-19 trong cộng đồng.
+Độ đặc hiệu cao hơn, có thể đạt 99-100%, giúp khẳng định người nhiễm Covid-19.
+Độ nhạy của xét nghiệm
+Tùy vào thời gian lây nhiễm, nhưng thường là thời điểm trung bình hoặc cao, tải lượng virus cao.
+Độ nhạy cao, có thể phát hiện virus vào giai đoạn sau 1-2 ngày nhiễm bệnh.
+Thời gian thực hiện
+Xét nghiệm nhanh chóng trong vòng 15-30 phút.
+Xét nghiệm tốn khoảng 3-5 giờ mới trả kết quả.
+Chi phí thanh toán
+Giá thấp nên được triển khai xét nghiệm rộng rãi.
+Giá cao hơn test nhanh gấp 3-5 lần
+Giá trị kết quả
+Test nhanh dương tính vẫn phải xét nghiệm khẳng định lại bằng xét nghiệm RT-PCR
+Xét nghiệm RT-PCR được xem là tiêu chuẩn vàng giúp chẩn đoán người nhiễm Covid-19.
+4. Xét nghiệm nhanh virus Corona có đau không?
+Test nhanh kháng nguyên Covid-19 là xét nghiệm lấy mẫu bằng cách dùng tăm bông chuyên dụng để đưa vào mũi người cần xét nghiệm với độ sâu nhất định và ngoáy để lấy dịch tiết xét nghiệm. Quá trình lấy mẫu có thể sẽ đau một chút đối với người lấy mẫu do ngồi sai tư thế.
+Riêng đối với trẻ em, đặc biệt trẻ nhỏ khi lấy mẫu sẽ gặp khó khăn nhất định, do trẻ không chịu ngồi yên, cựa quậy nên có thể sẽ đau. Để khắc phục vấn đề khách hàng bị đau khi lấy mẫu, dẫn đến tâm lý lo sợ, ít khi chủ động đăng ký đi xét nghiệm, Bệnh viện Đa khoa Tâm Anh đã tập huấn cho đội ngũ lấy mẫu có tay nghề chuyên môn giỏi, lấy mẫu không đau nhờ sử dụng loại que lấy mẫu nhập khẩu từ hãng Abbott của Mỹ.
+Que lấy mẫu có ưu điểm có kích thước rất nhỏ, bông mềm mại, bắt dính tốt nên cho 100% mẫu đạt, chính xác, không đau. Bạn có thể đăng ký dịch vụ test nhanh Covid-19 lấy mẫu không đau TẠI ĐÂY hoặc liên hệ trực tiếp Hệ thống Bệnh viện Đa khoa Tâm Anh:
+Tại TP.HCM
+2B Phổ Quang, phường 2, quận Tân Bình, TP HCM.
+Hotline: 0287 102 6789 – 093 180 6858
+Tại Hà Nội
+108 Hoàng Như Tiếp, phường Bồ Đề, quận Long Biên, Hà Nội.
+Hotline: 024 3872 3872 – 024 7106 6858
+Fanpage
+https://www.facebook.com/benhvientamanh
+Dịch vụ test nhanh Covid-19 với ưu điểm trả kết quả nhanh chóng, độ chính xác khá cao đã và đang kịp thời hỗ trợ đặc biệt trong việc truy tìm ca nhiễm trong cộng đồng khi dịch bùng phát tại nước ta. Nhờ chi phí thấp, có thể xét nghiệm lưu động bên ngoài phòng Lab nên test nhanh đang được sử dụng tại nhiều cơ sở y tế trên toàn quốc để hỗ trợ sàng lọc, dập dịch Covid-19 một cách hiệu quả, tiết kiệm.

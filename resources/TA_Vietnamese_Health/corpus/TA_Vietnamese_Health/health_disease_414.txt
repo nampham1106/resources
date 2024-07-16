@@ -1,0 +1,50 @@
+# doc_id = health_disease_414
+# url = https://tamanhhospital.vn/chi-so-spo2-bao-nhieu-la-nguy-hiem/
+# date = 01/06/2024
+Chỉ số SpO2 bao nhiêu là nguy hiểm? Đối tượng nào cần đo?
+Nhiều người thắc mắc chỉ số SpO2 bao nhiêu là nguy hiểm, đặc biệt đối với những người mắc các bệnh về hô hấp. Vậy, chỉ số SpO2 có ý nghĩa gì đối với sức khỏe? Đo lường chỉ số này bằng cách nào?
+Mục lụcChỉ số SpO2 là gì?Chỉ số SpO2 bao nhiêu là nguy hiểm?Đối tượng nào cần đo SpO2?Yếu tố ảnh hưởng đến độ chính xác khi đo SpO2Làm thế nào để giảm thiểu tình trạng suy hô hấp?Một số lưu ý khi đo SpO2Chỉ số SpO2 là gì?
+Chỉ số SpO2 (Saturation Pulse Oxygen) là chỉ số đo độ bão hòa oxy trong máu có thể được xem là một trong các chỉ số dấu hiệu sinh tồn. Đây là một kỹ thuật theo dõi nhanh chóng và không xâm lấn. (1)
+Chỉ số SpO2 được đo bằng thiết bị chuyên dụng với nguyên lý hoạt động:
+Chiếu ánh sáng ở các bước sóng cụ thể xuyên qua mô có dòng máu đang chảy, phổ biến nhất là đầu ngón tay hoặc đầu ngón chân.
+Hemoglobin khử oxy và oxy hóa hấp thụ ánh sáng ở các bước sóng khác nhau, lần lượt là 660nm và 940nm.
+Ánh sáng hấp thụ được xử lý bằng thuật toán trong máy đo để hiển thị giá trị bão hòa.
+Ở hầu hết các nước phát triển, chỉ số SpO2 được dùng là tiêu chuẩn chăm sóc theo dõi cho bệnh nhân gây mê.
+Đo chỉ số SpO2 là kỹ thuật đơn giản, hoàn toàn không xâm lấn.
+Chỉ số SpO2 bao nhiêu là nguy hiểm?
+Chỉ số SpO2 bao nhiêu là nguy hiểm? Chỉ số SpO2 bình thường là từ 96% – 100% ở điều kiện ngang mực nước biển. Những người khỏe mạnh sống ở độ cao cao hơn có thể có mức độ bão hòa oxy thấp hơn. Thiếu oxy máu là khi độ bão hòa oxy – chỉ số SpO2 dưới 90%.
+Cần lưu ý là máy đo SpO2 không phải lúc nào cũng chính xác. Mức bão hòa oxy trong máu thực tế của bạn có thể cao hơn hoặc thấp hơn từ 2% đến 4% so với mức mà máy đo oxy đọc được. Ngoài ra có một số yếu tố có thể ảnh hưởng đến kết quả đo.
+Do vậy, luôn cần quan tâm đến sự nhất quán giữa chỉ số SpO2 với các biểu hiện lâm sàng của người được đo. Ví dụ, thông thường đi kèm với chỉ số SpO2 thấp, người bệnh có biểu hiện tím tái môi, đầu chi, thở nhanh nông hoặc thở chậm, tinh thần kích thích vật vã,…
+Đối tượng nào cần đo SpO2?
+Đo độ bão hòa oxy trong máu là một phương pháp không xâm lấn được thực hiện nhanh chóng và chính xác, không giới hạn bởi độ tuổi. SpO2 được sử dụng theo dõi cho người bệnh đang được chăm sóc tích cực, người bệnh đang được gây mê, được Hiệp hội bác sĩ gây mê Hoa Kỳ khuyến nghị.
+Đo SpO2 cho những bệnh nhân nhập viện nghi ngờ có dùng thuốc làm suy giảm hô hấp, như thuốc an thần gây nghiện,…Người bệnh đang trong quá trình phẫu thuật. Tất cả bệnh nhân mắc bệnh hô hấp cấp tính nên được theo dõi bằng phương pháp đo độ bão hòa oxy trong máu: tràn dịch màng phổi, viêm phổi, bệnh phổi tắc nghẽn mạn tính, hen phế quản….
+SpO2 được sử dụng để chẩn đoán tình trạng thiếu oxy nhanh chóng và điều chỉnh việc bổ sung oxy bằng các liệu pháp thích hợp: thở oxy kính mũi, thở oxy qua mask, thở máy,… Tăng oxy máu cũng có thể dẫn đến tăng các biến chứng và tử vong. Trong bệnh phổi tắc nghẽn mạn tính, các biện pháp điều trị nhằm duy trì SpO2 chỉ ở mức từ 88% – 92%.
+Kiểm tra chỉ số SpO2 có ý nghĩa quan trọng đối với sức khỏe.
+Yếu tố ảnh hưởng đến độ chính xác khi đo SpO2
+Một số yếu tố có thể ảnh hưởng đến độ chính xác của kết quả đo lường chỉ số SpO2, bao gồm:
+Người bệnh cử động nhiều trong khi đo.
+Người bệnh sơn móng tay, sử dụng móng tay giả.
+Người bệnh bị co thắt mạch đầu chi hội chứng Raynaud) hoặc do sử dụng một số loại thuốc.
+Người bệnh bị hạ thân nhiệt, hạ huyết áp.
+Rối loạn huyết sắc tố: carboxyhemoglobin, methemoglobin t, và các bệnh khác, thay đổi nồng độ hemoglobin trong máu,…
+Một số thuốc tiêm tĩnh mạch như xanh methylene hoặc indocyanine, sử dụng cho phẫu thuật hoặc chẩn đoán, sẽ tạo màu cho huyết thanh trong máu và có thể cản trở phổ hấp thụ ánh sáng, dẫn đến chỉ số SpO2 sai lệch.
+Làm thế nào để giảm thiểu tình trạng suy hô hấp?
+Theo các chuyên gia, tình trạng giảm chỉ số SpO2 do suy hô hấp có thể do bệnh lý hoặc thể lực suy yếu. Một số biện pháp giúp tăng độ bão hòa oxy trong máu, ngăn chặn nguy cơ suy hô hấp bao gồm:
+Kiểm soát bệnh nền: Người bệnh cần được quản lý và kiểm soát tốt các bệnh lý nền, tránh đợt cấp mất bù, đặc biệt là bệnh lý cơ quan hô hấp. Trong bệnh phổi tắc nghẽn mạn tính các biện pháp điều trị nhằm duy trì chỉ số SpO2 chỉ ở mức 88% – 92%.
+Duy trì lối sống khoa học:
+Cân đối chế độ dinh dưỡng: Xây dựng chế độ dinh dưỡng khoa học, uống đủ nước, ưu tiên ăn nhiều trái cây tươi, cá, rau xanh, các loại đậu, hạt… và hạn chế bia, rượu, thức ăn nhanh, đồ hộp, nước ngọt, bánh kẹo… sẽ góp phần làm tăng nồng độ oxy trong máu, hỗ trợ quá trình trao đổi chất và tuần hoàn máu trong cơ thể. Nhờ vậy, mức độ bão hòa oxy trong máu được cải thiện tối ưu, ngăn chặn nguy cơ suy hô hấp.
+Rèn luyện thể chất đều đặn: Mỗi người cần duy trì rèn luyện thể chất bằng cách thường xuyên tập luyện thể dục thể thao (mỗi lần từ 30 phút với tần suất ít nhất 3 lần / tuần) để nâng cao sức khỏe tổng thể, hỗ trợ quá trình trao đổi chất diễn ra dễ dàng, từ đó giúp cải thiện chỉ số SpO2 hiệu quả. Một số bộ môn giúp rèn luyện thể chất chẳng hạn như bơi lội, đạp xe, chạy bộ, tập yoga….
+Kiểm tra sức khỏe định kỳ: Mọi người, đặc biệt là người mắc các bệnh về đường hô hấp cần thăm khám sức khỏe tổng quát định kỳ ít nhất 6 tháng một lần. Theo các chuyên gia, thăm khám sức khỏe định kỳ là biện pháp giúp bảo vệ sức khỏe, phòng tránh nguy cơ mắc phải các bệnh lý tiềm ẩn, trong đó có suy hô hấp.
+Luyện tập hít thở: Hít thở sâu đúng cách có thể giúp phổi tiếp nhận nhiều oxy hơn, từ đó hỗ trợ làm tăng chỉ số SpO2 trong máu cũng như đảm bảo luôn cung cấp đủ lượng oxy cần thiết cho các cơ quan trong cơ thể. Mỗi người nên tham khảo ý kiến bác sĩ để được hướng dẫn hít thở sâu đúng cách giúp cải thiện sức khỏe hô hấp an toàn và hiệu quả.
+Một số điều cần lưu ý khác:
+Tránh thay đổi tư thế khi nằm, đứng, ngồi một cách đột ngột.
+Giữ gìn không gian sống sạch sẽ, thoáng khí.
+Tránh tiếp xúc trực tiếp với hóa chất, bụi bẩn, không khí ô nhiễm.
+Nâng cao sức khỏe tổng thể góp phần tránh nguy cơ giảm độ bão hòa oxy trong máu.
+>>>Tham khảo thêm: Suy hô hấp có nguy hiểm không?
+Một số lưu ý khi đo SpO2
+Kết quả đo SpO2 có thể không chính xác vì nhiều nguyên nhân. Dưới đây là một số lưu ý để kết quả đo chỉ số SpO2 đảm bảo chính xác:
+Rửa sạch và lau khô vị trí tiếp xúc trực tiếp với thiết bị đo.
+Tẩy sạch lớp sơn móng tay hoặc tháo bỏ móng tay giả (nếu có).
+Trước khi thực hiện đo SpO2, người bệnh nên thư giãn cơ thể, giải tỏa bớt căng thẳng.
+Trên phương diện người bệnh, việc hiểu rõ chỉ số SpO2 bao nhiêu là nguy hiểm đóng vai trò quan trọng giúp mỗi người có thể nhận biết được tình trạng sức khỏe của mình, dự phòng được nguy cơ bị suy hô hấp. Nếu nhận thấy chỉ số SpO2 bất thường và sức khỏe có vấn đề, người bệnh nên đến ngay cơ sở y tế gần nhất để được thăm khám.

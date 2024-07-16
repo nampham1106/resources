@@ -1,0 +1,110 @@
+# doc_id = health_disease_941
+# url = https://tamanhhospital.vn/giai-doan-ung-thu-dai-trang/
+# date = 14/09/2022
+5 giai đoạn ung thư đại tràng: Cách đánh giá và chẩn đoán chi tiết
+Có 5 giai đoạn ung thư đại tràng, xếp từ 0 đến 4. Các giai đoạn thường được viết bằng các chữ số La Mã là I, II, III và IV. Con số càng thấp, ung thư càng ít di căn.
+Theo TS.BS Vũ Hữu Khiêm – Trưởng khoa Ung bướu, BVĐK Tâm Anh Hà Nội, các giai đoạn ung thư đại tràng khác nhau thì tiên lượng sống thêm 5 năm khác nhau. Vì vậy, việc chẩn đoán giai đoạn ung thư đại tràng có thể giúp bác sĩ xác định phương pháp điều trị phù hợp với thể trạng của bệnh nhân nhằm mang đến chất lượng sống tốt hơn cũng như triển vọng sống tốt hơn cho bệnh nhân.
+Mục lụcUng thư đại tràng là gì?Đánh giá giai đoạn ung thư đại tràng thông qua phân loại theo T, N, MHệ thống phân loại TNMKhối u (T)Khối u (N)Di căn (M)Độ mô học (G)Các nhóm giai đoạn ung thư đại tràngGiai đoạn 0Giai đoạn IGiai đoạn IIGiai đoạn IIIGiai đoạn IVUng thư tái phátTỷ lệ sống thêm sau 5 năm ung thư đại tràngKhám tầm soát phát hiện ung thư đại tràng giai đoạn sớmUng thư đại tràng là gì?
+Ung thư đại tràng hay còn gọi là ung thư ruột kết xuất phát từ ruột già (ruột kết) nhưng cũng có thể xuất phát từ trực tràng. Các loại ung thư khác có thể ảnh hưởng đến đại tràng như ung thư hạch bạch huyết, u carcinoid, u hắc tố ác tính và sarcoma. Nhưng các loại này không được xem là ung thư đại tràng.
+Đại tràng là một ống dài hình chữ U ngược thuộc đoạn cuối của đường tiêu hóa, đóng vai trò chủ yếu loại bỏ chất thải trong cơ thể.
+Cho đến thời điểm hiện nay, nguyên nhân gây ra ung thư đại tràng vẫn chưa được biết rõ. Gần như tất cả các bệnh nhân ung thư đại tràng đều xuất phát từ các polyp lành tính, qua thời gian phát triển thành ung thư.
+Ung thư đại tràng thường xảy ra từ độ tuổi 50. Tuy nhiên, những năm gần đây, bệnh ngày càng trẻ hóa với tỷ lệ giới trẻ phát hiện ung thư đại trực tràng tăng nhanh đột biến. Thống kê của Globocan 2020 ghi nhận gần 16.000 ca mắc mới và hơn 8.200 ca tử vong vì căn bệnh này ở Việt Nam. (1)
+Các yếu tố nguy cơ của bệnh bao gồm tiền sử gia đình bị ung thư đại tràng, bệnh viêm ruột, tiểu đường hoặc béo phì. Hút thuốc lá và uống rượu, chế độ ăn nhiều thịt đỏ hoặc thịt chế biến sẵn, nhiều chất béo, ít chất xơ đều làm gia tăng nguy cơ ung thư đại tràng.
+Ung thư đại tràng giai đoạn đầu thường diễn biến âm thầm, hầu như không bộc lộ triệu chứng. Trong giai đoạn tiến triển, người bệnh có thể gặp phải các triệu chứng bao gồm đau bụng, có máu trong phân, giảm cân không rõ nguyên nhân, rối loạn tiêu hóa, đầy hơi hoặc tiêu chảy.
+Ung thư đại tràng và ung thư trực tràng là nguyên nhân gây tử vong thứ hai trên thế giới do ung thư.
+Đánh giá giai đoạn ung thư đại tràng thông qua phân loại theo T, N, M
+Giai đoạn là một cách mô tả kích thước, sự xâm lấn, tình trạng di căn của ung thư và liệu có ảnh hưởng đến các bộ phận khác của cơ thể hay không.
+Bác sĩ sử dụng các xét nghiệm chẩn đoán để tìm ra giai đoạn ung thư. Do đó việc phân giai đoạn có thể không hoàn tất cho đến khi tất cả các xét nghiệm kết thúc. Biết được giai đoạn ung thư có thể giúp bác sĩ lựa chọn phương pháp điều trị tốt nhất cũng như dự đoán tiên lượng của bệnh nhân. Mô tả giai đoạn ung thư đại tràng khác nhau cho các loại ung thư khác nhau.
+Thông tin chi tiết về hệ thống được sử dụng để mô tả các giai đoạn ung thư đại tràng và các nhóm giai đoạn ung thư đại tràng.
+Hệ thống phân loại TNM
+Một công cụ được sử dụng để mô tả giai đoạn là hệ thống TNM. Sử dụng kết quả từ các xét nghiệm chẩn đoán và chụp chiếu để trả lời những câu hỏi sau: (2)
+Khối u (T): Khối u đã phát triển vào thành đại tràng hoặc trực tràng chưa? Có bao nhiêu mức xâm lấn?
+Hạch (N): Khối u đã di căn đến các hạch bạch huyết chưa? Vị trí và số lượng?
+Di căn (M): Ung thư có di căn đến các bộ phận khác của cơ thể không? Vị trí và số lượng?
+Kết quả được kết hợp để xác định giai đoạn ung thư.
+Có 5 giai đoạn: Giai đoạn 0 (không) và giai đoạn I đến IV (1 đến 4). Giai đoạn cung cấp một cách phổ biến để mô tả bệnh ung thư, vì vậy các bác sĩ có thể phối hợp cùng nhau để lập kế hoạch điều trị tốt nhất.
+Dưới đây là chi tiết về từng phần của hệ thống TNM cho bệnh ung thư đại tràng:
+Khối u (T)
+Sử dụng hệ thống TNM, “T” cộng với một chữ cái hoặc số (0 đến 4) được sử dụng để mô tả mức độ xâm lấn của khối u nguyên phát vào thành ruột. Giai đoạn cũng có thể được chia thành các nhóm nhỏ hơn giúp mô tả khối u chi tiết hơn. Thông tin cụ thể về khối u được liệt kê dưới đây.
+TX: Không thể đánh giá được khối u nguyên phát.
+T0: Không có bằng chứng về ung thư ở đại tràng hoặc trực tràng.
+Tis: Ung thư biểu mô tại chỗ (còn gọi là ung thư tại chỗ). Tế bào ung thư chỉ được tìm thấy ở niêm mạc hoặc mô đệm, là những lớp trên cùng lót bên trong đại tràng hoặc trực tràng.
+T1: Khối u xâm lấn vào lớp dưới niêm mạc, là lớp mô bên dưới niêm mạc hoặc lớp lót của đại tràng.
+T2: Khối u xâm lấn lớp cơ niêm, là lớp cơ dày hơn, sâu hơn, co lại để tạo lực dọc theo các chất chứa trong ruột.
+T3: Khối u xâm lấn qua lớp đệm và vào lớp thanh mạc, là một lớp mô liên kết mỏng bên dưới lớp ngoài của một số phần của đại tràng, hoặc đã phát triển thành các mô xung quanh đại tràng hoặc trực tràng.
+T4a: Khối u xâm lấn vào bề mặt của phúc mạc tạng, có nghĩa là xâm lấn qua tất cả các lớp của đại tràng.
+T4b: Khối u xâm lấn các cơ quan hoặc cấu trúc khác.
+Khối u (N)
+Chữ “N” trong hệ thống TNM là viết tắt của hạch bạch huyết. Hạch bạch huyết là những cơ quan nhỏ hình hạt đậu ở khắp cơ thể. Các hạch bạch huyết giúp cơ thể chống lại nhiễm trùng như một phần của hệ thống miễn dịch. Hạch bạch huyết gần đại tràng và trực tràng được gọi là hạch bạch huyết khu vực. Hạch bạch huyết vị trí xa ở các bộ phận khác của cơ thể được gọi là hạch xa.
+NX: Không đánh giá được hạch vùng.
+N0: Không di căn đến các hạch bạch huyết khu vực.
+N1a: Có tế bào khối u được tìm thấy ở 1 vùng hạch bạch huyết.
+N1b: Có tế bào khối u được tìm thấy ở 2 hoặc 3 vùng hạch bạch huyết.
+N1c: Có các khối được tạo thành từ các tế bào khối u được tìm thấy trong các cấu trúc gần đại tràng mà dường như không phải là hạch bạch huyết.
+N2a: Có tế bào khối u được tìm thấy trong 4 đến 6 hạch bạch huyết khu vực.
+N2b: Có tế bào khối u được tìm thấy trong 7 hạch bạch huyết khu vực trở lên.
+Di căn (M)
+Chữ “M” trong hệ thống TNM mô tả ung thư đã di căn đến các bộ phận khác của cơ thể, chẳng hạn như gan hoặc phổi. Đây được gọi là di căn.
+M0: Bệnh chưa di căn đến các bộ phận xa của cơ thể.
+M1a: Ung thư đã di căn đến 1 bộ phận khác của cơ thể ngoài đại tràng hoặc trực tràng.
+M1b: Ung thư đã di căn đến hơn 1 bộ phận của cơ thể ngoài đại tràng hoặc trực tràng.
+M1c: Ung thư đã lan đến bề mặt phúc mạc.
+Độ mô học (G)
+Mô tả ung thư đại trực tràng theo cấp độ mô học (G). Độ mô học mô tả mức độ tế bào ung thư trông giống như tế bào khỏe mạnh khi nhìn dưới kính hiển vi.
+So sánh mô ung thư với mô khỏe mạnh. Mô khỏe mạnh thường chứa nhiều loại tế bào khác nhau được nhóm lại với nhau. Nếu ung thư trông giống với mô khỏe mạnh và có các nhóm tế bào khác nhau. Được gọi là “khối u biệt hóa” hoặc “khối u độ thấp”.
+Nếu mô ung thư trông rất khác với mô khỏe mạnh, được gọi là “kém biệt hóa” hoặc “khối u độ cao”. Độ mô học có thể giúp dự đoán ung thư sẽ lan tràn nhanh như thế nào. Nói chung, độ mô khọc khối u càng thấp thì tiên lượng càng tốt.
+GX: Không xác định được loại khối u.
+G1: Các tế bào giống tế bào khỏe mạnh, được gọi là biệt hóa cao.
+G2: Các tế bào hơi giống tế bào khỏe mạnh, được gọi là biệt hóa vừa.
+G3: Các tế bào ít giống tế bào khỏe mạnh, được gọi là biệt hóa kém.
+G4: Các tế bào hầu như không giống tế bào khỏe mạnh, được gọi là không biệt hóa.
+Các nhóm giai đoạn ung thư đại tràng
+Ung thư đại tràng có mấy giai đoạn? Kết hợp thông tin T, N và M để cho biết ung thư đang ở giai đoạn nào.
+Giai đoạn 0
+Đây được gọi là ung thư tại chỗ. Các tế bào ung thư chỉ có trong niêm mạc, hoặc lớp lót bên trong của đại tràng hoặc trực tràng. (3)
+Xem thêm: Ung thư đại tràng giai đoạn 0: Giai đoạn tiền bệnh đừng chủ quan.
+Giai đoạn I
+Ung thư đã xâm lấn xuyên qua niêm mạc và xâm lấn vào lớp cơ của đại tràng. Chưa xâm lấn vào mô hoặc hạch bạch huyết lân cận (T1 hoặc T2, N0, M0).
+Xem thêm: Ung thư đại tràng giai đoạn 1: Dấu hiệu, chẩn đoán và điều trị.
+Giai đoạn II
+Giai đoạn IIA: Ung thư đã xâm lấn xuyên qua thành đại tràng hoặc trực tràng nhưng chưa lan đến mô lân cận hoặc đến các hạch bạch huyết gần đó (T3, N0, M0).
+Giai đoạn IIB: Ung thư xâm lấn qua các lớp cơ đến niêm mạc bụng, được gọi là phúc mạc tạng. Chưa lan đến các hạch bạch huyết lân cận hoặc nơi khác (T4a, N0, M0).
+Giai đoạn IIC: Khối u xâm lấn qua thành đại tràng hoặc trực tràng và phát triển thành các cấu trúc lân cận. Chưa lan đến các hạch bạch huyết lân cận hoặc nơi khác (T4b, N0, M0).
+Xem thêm: Ung thư đại tràng giai đoạn 2: Dấu hiệu, chẩn đoán và điều trị.
+Giai đoạn III
+Giai đoạn IIIA: Ung thư xâm lấn qua lớp niêm mạc bên trong hoặc vào các lớp cơ của ruột. Di căn 1-3 hạch bạch huyết hoặc một khối tế bào khối u trong các mô xung quanh đại tràng mà không có vẻ là hạch bạch huyết nhưng chưa lan đến các bộ phận khác của cơ thể (T1 hoặc T2, N1 hoặc N1c, M0; hoặc T1, N2a, M0).
+Giai đoạn IIIB: Ung thư xâm lấn xuyên qua thành ruột hoặc đến các cơ quan xung quanh và 1 đến 3 hạch bạch huyết hoặc đến một khối u trong các mô xung quanh đại tràng mà không có vẻ là hạch bạch huyết. Chưa di căn sang các bộ phận khác của cơ thể (T3 hoặc T4a, N1 hoặc N1c, M0; T2 hoặc T3, N2a, M0; hoặc T1 hoặc T2, N2b, M0).
+Giai đoạn IIIC: Ung thư đại tràng, bất kể xâm lấn sâu đến mức nào, đã di căn đến 4 hạch bạch huyết trở lên nhưng chưa di căn đến các bộ phận xa khác của cơ thể (T4a, N2a, M0; T3 hoặc T4a, N2b, M0; hoặc T4b, N1 hoặc N2, M0).
+Xem thêm: Ung thư đại tràng giai đoạn 3: Dấu hiệu chẩn đoán và điều trị.
+Giai đoạn IV
+Giai đoạn IVA: Ung thư di căn đến một phần xa của cơ thể, chẳng hạn như gan hoặc phổi (bất kỳ T, bất kỳ N, M1a).
+Giai đoạn IVB: Ung thư di căn đến hơn một phần của cơ thể (bất kỳ T, bất kỳ N, M1b).
+Giai đoạn IVC: Ung thư di căn đến phúc mạc. Có thể di căn sang các vị trí hoặc cơ quan khác (bất kỳ T, bất kỳ N, M1c nào).
+Xem thêm:
+Ung thư đại tràng giai đoạn 4: Dấu hiệu và cách điều trị.
+Ung thư đại tràng di căn: Dấu hiệu, chẩn đoán và điều trị.
+Các khối u ác tính qua từng giai đoạn ung thư đại tràng
+Ung thư tái phát
+Ung thư tái phát là ung thư quay trở lại sau khi điều trị. Bệnh có thể gặp ở đại tràng, trực tràng hoặc ở một bộ phận khác của cơ thể. Nếu ung thư đại tràng tái phát, sẽ có một đợt xét nghiệm khác để tìm hiểu về mức độ tái phát. Những xét nghiệm và chụp chiếu thường tương tự như những xét nghiệm được thực hiện tại thời điểm chẩn đoán ban đầu.
+Tỷ lệ sống thêm sau 5 năm ung thư đại tràng
+Tỷ lệ sống sót sau 5 năm cho biết phần trăm số người sống ít nhất 5 năm sau khi phát hiện ung thư. Tỷ lệ phần trăm có nghĩa là bao nhiêu trong số 100.
+Theo Hiệp hội Ung thư Lâm sàng Hoa Kỳ (ASCO), đối với ung thư đại tràng, tỷ lệ sống thêm toàn bộ sau 5 năm là 64%. (4)
+Nếu ung thư được chẩn đoán ở giai đoạn khu trú, tỷ lệ sống thêm sau 5 năm là 91%.
+Nếu ung thư di căn đến các mô hoặc cơ quan xung quanh và/hoặc các hạch bạch huyết trong khu vực, tỷ lệ sống thêm sau 5 năm là 72%.
+Nếu ung thư đại tràng di căn đến các bộ phận xa của cơ thể, tỷ lệ sống thêm sau 5 năm là 14%.
+Những con số này chỉ áp dụng cho giai đoạn ung thư khi được chẩn đoán lần đầu tiên; Không được áp dụng nếu ung thư tiến triển, lan rộng hoặc tái phát sau khi điều trị.
+Những con số này không áp dụng cho tất cả. Tỷ lệ sống thêm được phân nhóm dựa trên mức độ di căn của ung thư nhưng tuổi, sức khỏe tổng thể, mức độ phản ứng của ung thư với điều trị, cho dù ung thư bắt đầu ở bên trái hay bên phải của đại tràng và các yếu tố khác cũng có thể ảnh hưởng đến tiên lượng sống thêm.
+Những người hiện đang được chẩn đoán mắc bệnh ung thư đại tràng hoặc trực tràng có thể có tiên lượng sống tốt hơn những con số này. Các phương pháp điều trị được cải thiện theo thời gian và những con số này dựa trên những người đã được chẩn đoán và điều trị ít nhất 5 năm trước đó.
+Các biến chứng sau điều trị có thể xảy ra bao gồm tắc đại tràng, gây tắc ruột, ung thư đại tràng tái phát; ung thư lan đến các cơ quan hoặc mô khác (di căn); phát triển ung thư đại trực tràng nguyên phát thứ hai.
+Xem thêm: Ung thư đại tràng sống được bao lâu? Tiên lượng từng giai đoạn
+Khám tầm soát phát hiện ung thư đại tràng giai đoạn sớm
+Ung thư đại tràng có thể phát hiện bằng phương pháp nội soi trong giai đoạn sớm nhất và có thể chữa khỏi được.
+Nếu ung thư đại tràng không tái phát trong vòng 5 năm thì được xem là đã chữa khỏi. Thông thường, ung thư giai đoạn I, II và III có thể chữa khỏi. Nhưng trong hầu hết các trường hợp, ung thư giai đoạn IV không chữa khỏi được, mặc dù vẫn có những trường hợp ngoại lệ.
+Bác sĩ Khiêm khuyến nghị, tất cả người lớn từ 45 tuổi trở lên nên khám ung thư đại tràng. Tần suất sàng lọc tùy thuộc vào xét nghiệm được sử dụng. Tầm soát ung thư đại tràng thường phát hiện các polyp trước khi trở thành ung thư. Loại bỏ các polyp có thể ngăn ngừa ung thư đại tràng.
+Những người có một số yếu tố nguy cơ mắc bệnh ung thư đại tràng có thể cần xét nghiệm sớm hơn (trước 45 tuổi) hoặc thường xuyên hơn.
+Xem thêm: Ung thư đại tràng giai đoạn cuối: Triệu chứng và cách điều trị.
+Nội soi đại trực tràng ống mềm tại BVĐK Tâm Anh giúp quan sát được tổn thương kích thước siêu nhỏ, phát hiện sớm ung thư đại trực tràng để điều trị kịp thời.
+Ngoài ra, thay đổi chế độ ăn uống và lối sống rất quan trọng trong việc phòng ngừa ung thư đại tràng. Nghiên cứu y học cho thấy rằng chế độ ăn ít chất béo và nhiều chất xơ có thể giúp giảm nguy cơ mắc ung thư đại tràng.
+Để đặt lịch khám với các bác sĩ khoa Ung bướu BVĐK Tâm Anh, quý khách vui lòng liên hệ:
+Ung thư đại trực tràng là nguyên nhân thứ hai gây tử vong do ung thư. Đại trực tràng bao gồm đại tràng và trực tràng. Năm 2020, ước tính có khoảng 915.880 người tử vong vì ung thư đại trực tràng trên thế giới, trong đó có 576.858 người bị ung thư đại tràng và 339.022 người bị ung thư trực tràng. Tại Hoa Kỳ, năm 2022 có 106.180 trường hợp mới mắc ung thư đại tràng, trong đó 54.040 nam và 52.140 nữ.
+Theo bác sĩ Khiêm, việc chủ động kiểm tra định kỳ hoặc tầm soát giai đoạn ung thư đại tràng sớm có ý nghĩa quan trọng trong việc chẩn đoán ung thư đại tràng, phát hiện bệnh giai đoạn sớm, điều trị kịp thời, giúp bệnh nhân có tiên lượng tốt sau 5 năm.

@@ -1,0 +1,98 @@
+# doc_id = health_disease_101
+# url = https://tamanhhospital.vn/viem-tieu-phe-quan-cap-o-tre-em/
+# date = 01/12/2022
+Viêm tiểu phế quản cấp ở trẻ em: Chẩn đoán và phác đồ điều trị
+Viêm tiểu phế quản cấp ở trẻ em là bệnh nhiễm khuẩn đường hô hấp dưới cấp tính thường xuất hiện ở trẻ dưới 2 tuổi. Bệnh có diễn biến nhanh chóng dễ bùng phát thành dịch vào mùa đông với các triệu chứng ban đầu tương tự với cảm cúm thông thường.
+Mục lụcViêm tiểu phế quản cấp ở trẻ em là gì?Nguyên nhân trẻ bị viêm tiểu phế quản cấpTriệu chứng viêm tiểu phế quản cấp ở trẻPhương pháp chẩn đoán viêm tiểu phế quản cấp ở trẻNguyên tắc điều trị trẻ nhỏ viêm tiểu phế quản cấpCách điều trị viêm tiểu phế quản cấp ở trẻ em chi tiết1. Điều trị ngoại trú2. Điều trị nội trúCách phòng tránh bệnh viêm tiểu phế quản cấp ở trẻ emViêm tiểu phế quản cấp ở trẻ em là gì?
+Viêm tiểu phế quản cấp là tình trạng các phế quản có kích thước dưới 2mm (tiểu phế quản) bị viêm nhiễm cấp tính. Bệnh xảy ra nhiều nhất ở trẻ dưới 2 tuổi, nhất là các trẻ từ 3-6 tháng tuổi. Trẻ có thể mắc bệnh ở nhiều mức độ khác nhau có thể chỉ thoáng qua hoặc nghiêm trọng. (1)
+Viêm tiểu phế quản cấp ở trẻ em do virus gây ra, được phát tán trong không khí, lây truyền cho người khác thông qua giọt bắn có chứa virus khi bệnh nhân ho, hắt hơi hay nói chuyện. Sau khi xâm nhập vào cơ thể, virus tấn công lớp tế bào biểu mô niêm mạc phế quản dẫn đến tình trạng phù nề, thoái hóa và hoại tử. Đồng thời, tăng tiết dịch và độ nhầy trong các tiểu phế quản gây tắc nghẽn ống thở khiến không khí không thể lưu thông, trẻ cảm thấy khó thở.
+Bệnh có thể khiến một số vùng phế quản tổn thương sâu, tạo các cơn co thắt – tắc nghẽn và co thắt ở các tiểu phế quản, gây xẹp phổi hoặc ứ khí phế nang, khiến trẻ tử vong. Do đó bệnh cần được phát hiện và điều trị sớm.
+Bệnh viêm tiểu phế quản thường bùng phát vào mùa đông
+Nguyên nhân trẻ bị viêm tiểu phế quản cấp
+Bệnh viêm tiểu phế quản cấp ở trẻ em có thể được gây ra bởi nhiều chủng virus khác nhau, bao gồm:
+Virus hợp bào hô hấp (Respiratory Syncytial Virus – RSV): Đa số trẻ bị viêm tiểu phế quản cấp do sự xâm nhập của RVS, chiếm khoảng từ 30-50% . Chủng virus này phát triển mạnh trong môi trường lạnh, ẩm và dễ tạo thành dịch bệnh.
+Virus Adeno: Trẻ bị viêm tiểu phế quản cấp do chủng virus này gây ra thường sẽ mắc bệnh nặng hơn, bệnh khó điều trị và kéo dài hơn. Ngoài ra, bệnh còn có khả năng chuyển biến thành viêm tiểu phế quản tắc nghẽn (type 3,7,21).
+Virus cúm và á cúm: Đây là cũng là một nguyên nhân phổ biến gây viêm tiểu phế quản cấp ở trẻ, chiếm khoảng 25% tổng số trẻ bị bệnh.
+Một số chủng virus khác: Parainfluenza virus, Rhinovirus, Human Metapneumovirus, Enterovirus,...
+Ngoài ra, trẻ nằm trong các trường hợp dưới đây khi mắc bệnh viêm tiểu phế quản cấp, các triệu chứng sẽ nghiêm trọng hơn:
+Trẻ sinh non (sinh sớm hơn 36 tuần tuổi, đặc biệt trước 32 tuần tuổi);
+Trẻ nhẹ cân (cân nặng khi mới chào đời của trẻ dưới 2.5kg);
+Trẻ bị suy hô hấp sơ sinh;
+Trẻ sơ sinh và trẻ nhỏ dưới 3 tháng tuổi;
+Trẻ mắc các bệnh bẩm sinh như: bệnh tim (khuyết tật tim, bệnh tim bẩm sinh làm tăng áp lực động mạch phổi), bệnh phổi (dị tật đường hô hấp, xơ nang, loạn sản phế quản phổi,…);
+Trẻ gặp một số vấn đề về cơ, thần kinh (Hội chứng Down, Hội chứng Werdnig – Hoffman);
+Trẻ bị suy dinh dưỡng nặng;
+Trẻ bị suy giảm miễn dịch;
+Trẻ sống trong khu vực đang bùng phát dịch bệnh viêm tiểu phế quản cấp, đặc biệt là bệnh do virus RSV gây ra;
+Trẻ mắc các bệnh gan, mật mạn tính (da vàng, ứ mật bẩm sinh);
+Trẻ có tiền sử mắc bệnh do virus gây ra (viêm mũi họng, amidan, viêm VA,…)
+Triệu chứng viêm tiểu phế quản cấp ở trẻ
+Viêm tiểu phế quản cấp ở trẻ em dễ bị nhầm lẫn với cảm lạnh thông thường bởi các triệu chứng ban đầu của bệnh tương tự nhau. Khi trẻ bắt đầu phát bệnh, trẻ sẽ xuất hiện triệu chứng nghẹt mũi, ho và sốt nhẹ (trẻ có thể sốt hoặc không sốt). Sau khi trẻ có biểu hiện tương tự cảm lạnh được khoảng 1-2 ngày hoặc hơn, trẻ bắt đầu gặp khó khăn khi hô hấp, thở khò khè. Bên cạnh đó, một số trẻ có thể bị viêm tai giữa và gặp khó khăn khi ăn uống. (2)
+Đối với trẻ nằm trong nhóm nguy hiểm (dưới 3 tháng tuổi, có các bệnh lý bẩm sinh, sinh non, hệ miễn dịch kém,…), khi trẻ mắc bệnh viêm tiểu phế quản cấp, bố mẹ cần đưa trẻ đến bệnh viện để được bác sĩ kiểm tra và hỗ trợ điều trị kịp thời. Đặc biệt, khi trẻ xuất hiện các triệu chứng sau, bố mẹ cần đưa trẻ đến bệnh viện để khẩn cấp:
+Nhịp thở tăng nhanh và nông (trên 60 nhịp/phút);
+Co lõm ngực khi trẻ hít vào;
+Ngủ li bì, khó đánh thức, hôn mê;
+Từ chối uống nước, có biểu hiện mất nước;
+Da, môi và móng tay tím tái;
+Hơn nữa, trẻ sẽ gặp khó khăn khi ăn uống, nhịp thở tăng nhanh…
+Trẻ bị khó thở do viêm tiểu phế quản cấp
+Phương pháp chẩn đoán viêm tiểu phế quản cấp ở trẻ
+Để chẩn đoán bệnh viêm tiểu phế quản cấp ở trẻ, bác sĩ sẽ hỏi mẹ về tiền sử bệnh của trẻ, bao gồm:
+Trẻ đã xuất hiện những triệu chứng gì? Trẻ có sốt không? Trẻ bắt đầu ho, sổ mũi từ khi nào?…
+Trẻ có thường xuyên hít phải khói thuốc lá không?
+Trong gia đình hay những người thường xuyên tiếp xúc với trẻ có ai đang mắc bệnh viêm tiểu phế quản không?
+Trẻ có mắc các bệnh lý bẩm sinh hay nằm trong nhóm trẻ có nguy cơ mắc bệnh viêm tiểu phế quản nặng không?
+Sau đó, bác sĩ sẽ tiến hành khám lâm sàng cho trẻ nhằm xác định tình trạng bệnh của trẻ và phân biệt bệnh với các bệnh lý khác như viêm phổi, hen suyễn, ho gà, suy tim trào ngược dạ dày thực quản,… (3)
+Trẻ bị viêm tiểu phế quản cấp sẽ có các dấu hiệu sau:
+Thở khò khè, thở ra nhiều, cánh mũi phập phồng khi thở, lõm ngực và bụng khi hít vào, da tím tái, thở rên;
+Phổi có ran ngáy, ran rít hoặc không nghe được ran phổi khi trẻ hít thở…
+Bên cạnh đó bác sĩ có thể thực hiện một số kỹ thuật cận lâm sàng sau để chẩn đoán và xác định mức độ viêm tiểu phế quản ở trẻ, bao gồm:
+Chụp X-quang phổi;
+Xét nghiệm máu;
+Xét nghiệm PCR;
+Xét nghiệm CRP;
+Xét nghiệm khí máu động mạch…
+Ths.BS Lê Thị Ngọc khám bệnh cho trẻ bị viêm tiểu phế quản cấp.
+Nguyên tắc điều trị trẻ nhỏ viêm tiểu phế quản cấp
+Bệnh viêm tiểu phế quản cấp ở trẻ em vẫn chưa có thuốc đặc trị. Các phương pháp điều trị hiện tại đều dựa vào các nguyên tắc sau:
+Điều trị các triệu chứng đã xuất hiện ở trẻ;
+Ngăn chặn các nguy cơ xuất hiện biến chứng;
+Bù nước và lượng điện giải đã mất do bệnh gây ra;
+Cung cấp oxy, hỗ trợ việc hô hấp…
+Việc điều trị bệnh viêm tiểu phế quản cấp nếu không bội nhiễm vi khuẩn thường không dùng đến thuốc kháng sinh. Thay vào đó, việc điều trị cần kết hợp thực hiện nhiều biện pháp điều trị các bệnh lý khác nhau. Hơn nữa, khi trẻ mắc bệnh, mẹ không được tự ý cho trẻ uống thuốc nếu không có chỉ định của bác sĩ.
+Cách điều trị viêm tiểu phế quản cấp ở trẻ em chi tiết
+Tùy vào tình trạng sức khỏe và mức độ nghiêm trọng của bệnh, trẻ có thể được điều trị tại nhà hoặc cần phải nhập viện để được điều trị tích cực.
+1. Điều trị ngoại trú
+Trẻ mắc bệnh viêm tiểu phế quản cấp ở mức độ nhẹ, bác sĩ kiểm tra và hướng dẫn mẹ cách điều trị, chăm sóc tại nhà cho trẻ:
+Cho trẻ uống thuốc hạ sốt, giảm ho theo chỉ định của bác sĩ;
+Vệ sinh mũi, miệng bằng nước muối sinh lý;
+Duy trì chế độ dinh dưỡng và cho trẻ bú như bình thường;
+Cho trẻ uống đủ nước;
+Tái khám định kỳ có trẻ, lưu ý, đưa trẻ đến bệnh viện ngay khi bệnh trở nên nghiêm trọng hơn.
+2. Điều trị nội trú
+Nếu các triệu chứng của bệnh trở nên tồi tệ hơn, hoặc trẻ mắc bệnh nằm trong nhóm trẻ nguy hiểm khi mắc bệnh, trẻ cần phải nhập viện để điều trị. Các biện pháp điều trị viêm tiểu phế quản cấp được thực hiện bao gồm:
+2.1. Điều trị hỗ trợ:
+Vấn đề hô hấp:
+Bác sĩ hút đờm để giúp đường thở của trẻ được thông thoáng;
+Bác sĩ sẽ chỉ định cho trẻ thở oxy, CPAP (thở áp lực dương liên tục), thở máy tùy vào mức độ nghiêm trọng của từng trẻ;
+Bác sĩ có thể cho trẻ dùng thuốc giãn phế quản trong một số trường hợp cần thiết.
+Vấn đề dinh dưỡng, nước và điện giải:
+Đối với các trẻ còn đang bú mẹ hoàn toàn: tăng cữ bú cho trẻ và giảm lượng sữa mỗi lần bú. Lưu ý, cho trẻ bú cẩn thận nhất là khi trẻ thở nhanh, trên 60 nhịp/phút vì lúc này, trẻ dễ bị sặc.
+Bác sĩ có thể chỉ định đặt ống thông dạ dày, gavage sữa chậm hoặc dinh dưỡng tĩnh mạch một phần nếu trẻ không thể tự cung cấp đủ dưỡng chất cho cơ thể
+Chỉ định nuôi ăn qua sonde dạ dày nếu trẻ nôn ói liên tục, nhịp thở tăng cao 70-80 lần/phút, SpO2 dưới 90% ngay cả khi được thở oxy, khả năng kết hợp các cử động mút-nuốt-thở giảm.
+Chỉ định nuôi ăn qua đường tĩnh mạch nếu trẻ mất nước, suy hô hấp nghiêm trọng hoặc không thể cung cấp đủ dưỡng chất bằng biện pháp nuôi ăn qua đường tiêu hóa.
+2.2. Điều trị biến chứng:
+Dùng thuốc kháng sinh nếu trẻ bị nhiễm trùng hoặc có dấu hiệu bị nhiễm trùng.
+2.3. Theo dõi trong thời gian điều trị:
+Bác sĩ sẽ theo dõi chặt chẽ các dấu hiệu sinh niệu (nhịp thở, thân nhiệt, mạch,…) và SpO2 để phát hiện sớm các biến chứng có thể xảy ra.
+Trẻ gối cao đầu trong tư thế nằm với sự hỗ trợ của máy thở
+Cách phòng tránh bệnh viêm tiểu phế quản cấp ở trẻ em
+Để phòng tránh bệnh viêm tiểu phế quản cấp ở trẻ em, mẹ có thể thực hiện các biện pháp sau:
+Giữ không gian sống và vui chơi của trẻ luôn sạch sẽ, thoáng mát;
+Tránh cho trẻ tiếp xúc với môi trường nhiều khói bụi, khói thuốc lá;
+Tránh cho trẻ tiếp xúc với những người đang mắc bệnh hoặc có dấu hiệu mắc bệnh về đường hô hấp;
+Tập cho trẻ thói quen vệ sinh tay bằng xà phòng, nhất là trước khi ăn và sau khi đi vệ sinh;
+Tiêm phòng vacxin đầy đủ và đúng lịch cho trẻ;
+Cho trẻ bú sữa mẹ hoàn toàn trong 6 tháng đầu sau sinh…
+Đối với bệnh viêm tiểu phế quản cấp ở trẻ em, tùy thuộc vào từng trường hợp cụ thể, bác sĩ sẽ đưa ra phác đồ điều trị khác nhau. Do đó, khi nghi ngờ hoặc phát hiện trẻ mắc bệnh, bố mẹ cần đưa trẻ đến bác sĩ để được chẩn đoán sớm và điều trị đúng cách sẽ giúp trẻ nhanh khỏi bệnh, giảm nguy cơ xuất hiện các biến chứng nguy hiểm.
+Giản Đơn

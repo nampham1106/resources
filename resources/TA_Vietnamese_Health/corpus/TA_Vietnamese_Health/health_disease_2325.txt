@@ -1,0 +1,85 @@
+# doc_id = health_disease_2325
+# url = https://tamanhhospital.vn/ung-thu-thuc-quan-giai-doan-2/
+# date = 22/09/2023
+Ung thư thực quản giai đoạn II (2): Dấu hiệu, chẩn đoán và điều trị
+Ung thư thực quản giai đoạn II (2) thường có triệu chứng như nuốt nghẹn, nuốt khó, đau tức vùng ngực, nôn, sụt cân… với tần suất nhiều hơn, rõ ràng hơn giai đoạn 1. Tiên lượng điều trị phụ thuộc vào tuổi tác, tổng trạng, tinh thần, cũng như khả năng đáp ứng phương pháp điều trị… của bệnh nhân.
+Theo thống kê của GLOBOCAN năm 2020, trên thế giới có khoảng 604.100 ca mới mắc và 544.076 ca tử vong do ung thư thực quản. Tại Việt Nam, ung thư thực quản đứng thứ 14 trong những loại ung thư thường gặp với 3.281 ca mắc mới, 3.080 ca tử vong mỗi năm và tỷ lệ mắc là 3,57/100.000 dân. Độ tuổi mắc bệnh thường gặp nhất là khoảng 50 đến 60 tuổi. Yếu tố nguy cơ hàng đầu của ung thư thực quản là lạm dụng rượu bia, hút thuốc lá và thói quen ăn uống thực phẩm được chế biến quá nóng (trên 60 độ C).
+Mục lụcUng thư thực quản giai đoạn II (2) là gì?Giải mã phân giai đoạn theo T, N, M trong giai đoạn II (2) ung thư thực quảnDấu hiệu ung thư thực quản giai đoạn II (2)Ung thư thực quản giai đoạn II (2) sống được bao lâu?Cách chẩn đoán ung thư thực quản giai đoạn 2Cách điều trị ung thư thực quản giai đoạn II (2)1. Phẫu thuật2. Hóa xạ đồng thời (hóa trị kết hợp xạ trị)3. Hóa trị4. Xạ trịChăm sóc bệnh nhân ung thư thực quản giai đoạn II (2)Ung thư thực quản giai đoạn II (2) là gì?
+Ung thư thực quản giai đoạn II (2) là tình trạng tế bào ung thư lan rộng đến lớp cơ hoặc lớp ngoài cùng của thực quản (gọi là lớp áo ngoài) nhưng chưa di căn hạch bạch huyết. Bên cạnh đó, trường hợp tế bào ác tính chỉ xâm lấn đến lớp cơ của thực quản nhưng có kèm di căn đến từ 1 đến 2 hạch bạch huyết, và chưa di căn các cơ quan khác trong cơ thể; cũng được xếp vào giai đoạn II. (1)
+Ung thư thực quản giai đoạn II còn được gọi là giai đoạn ung thư tiến triển tại chỗ.
+Giải mã phân giai đoạn theo T, N, M trong giai đoạn II (2) ung thư thực quản
+Theo Ủy ban Liên hợp Ung thư Hoa Kỳ (AJCC: the American Joint Committee on Cancer), hệ thống phân giai đoạn TNM gồm 3 yếu tố: (2)
+T (Tumor – Khối u): mô tả mức độ xâm lấn của khối u. T được đánh số từ 0-4, số càng lớn, mức độ xâm lấn càng nhiều, cụ thể như sau:
+T0: không có bằng chứng, dấu hiệu khối u nguyên phát.
+Tis: tế bào ung thư còn khu trú trong biểu mô, chưa xâm lấn đến lớp màng đáy.
+T1: u xâm lấn đến lớp màng đáy, cơ niêm, hoặc lớp dưới niêm mạc của thực quản
+T2: u xâm lấn đến lớp cơ.
+T3: u xâm lấn đến lớp áo ngoài.
+T4: khối u xâm lấn các cấu trúc xung quanh. T4 được phân làm 2 nhóm T4a và T4b, được mô tả như sau:
+T4a: u xâm lấn màng phổi, màng tim, tĩnh mạch nền, cơ hoành, phúc mạc.
+T4b: u xâm lấn các cấu trúc lân cận khác (động mạch chủ, cột sống, đường thở…).
+N (Node – Hạch bạch huyết): mô tả tình trạng di căn hạch vùng. N được đánh số từ 0-3, số càng lớn, số lượng hạch di căn càng nhiều, cụ thể như sau:
+N0: không di căn hạch vùng.
+N1: Di căn 1-2 hạch vùng.
+N2: Di căn 3-6 hạch vùng.
+N3: Di căn ≥ 7 hạch vùng.
+M (Metastasis – Di căn): Tình trạng di căn xa tới các cơ quan khác (phổi, gan, xương…) hoặc di căn đến các hạch không phải hạch vùng.
+Dựa vào hệ thống phân giai đoạn theo TNM và loại tế bào ung thư, ung thư thực quản giai đoạn 2 bao gồm các trường hợp sau: (3)
+Ung thư biểu mô tế bào gai: T2-3N0M0 (giai đoạn IIA), hoặc T2N1M0 (giai đoạn IIB).
+Ung thư biểu mô tế bào tuyến: T1N1M0 (giai đoạn IIA) hoặc T2N0M0 (giai đoạn IIB).
+Xem thêm:
+Ung thư thực quản giai đoạn 0
+Ung thư thực quản giai đoạn 1
+Ung thư thực quản giai đoạn 3
+Ung thư thực quản giai đoạn 4
+Dấu hiệu ung thư thực quản giai đoạn II (2)
+Các dấu hiệu ung thư thực quản giai đoạn II (2) có thể xuất hiện tần suất nhiều hơn, rõ ràng hơn so với giai đoạn I (1). Triệu chứng ung thư thực quản khác nhau về mức độ nghiêm trọng và không phải mọi trường hợp người bệnh đều có dấu hiệu.
+Tức ngực, ợ nóng, nuốt nghẹn có thể là những dấu hiệu ung thư thực quản.
+Các triệu chứng ung thư thực quản giai đoạn II (2) phổ biến ở các trường hợp bệnh bao gồm:
+Nuốt nghẹn, nuốt khó: Triệu chứng ung thư thực quản phổ biến nhất, xuất hiện ở 95% trường hợp bệnh nhân mắc K thực quản. Người bệnh gặp khó khăn khi nuốt thức ăn, cảm thấy vướng, nghẹn ở thực quản. Ban đầu, người bệnh có thể cảm thấy ứ, bị nghẹn bởi thức ăn dạng đặc như thịt, cá, cơm, nhưng lâu dần cảm giác nghẹn có thể xảy ra ngay cả khi người bệnh dùng thức ăn dạng mềm, lỏng như canh, súp, cháo, thậm chí người bệnh không uống được nước, sữa.
+Sụt cân: Xuất hiện trên 40-50% trường hợp người bệnh mắc ung thư thực quản. Sụt cân thường đi kèm với triệu chứng nuốt khó, tình trạng có thể được cải thiện nếu giải quyết được vấn đề ăn uống, dinh dưỡng đầy đủ cho người bệnh.
+Đau tức vùng ngực sau xương ức khi nuốt: Xuất hiện trên khoảng 20% trường hợp bệnh nhân mắc ung thư thực quản, xảy ra khi người bệnh ăn thức ăn đặc, thậm chí uống nước nếu bệnh ở giai đoạn tiến triển.
+Nôn: Người bệnh sẽ có biểu hiện nôn thường xuyên khi có tình trạng nuốt nghẹn rõ rệt. Nôn có thể xảy ra trong bữa ăn, hoặc ngay sau ăn. Chất nôn là phần thức ăn vừa mới ăn vào không lẫn dịch vị (dịch tiêu hóa của dạ dày), có thể lẫn ít máu trong chất nôn.
+Tăng tiết nước bọt: Do nuốt nghẹn dẫn đến nước bọt không thể theo thức ăn xuống dạ dày, người bệnh sẽ xuất hiện cảm giác có nhiều nước bọt trong họng và phải nhổ nước bọt thường xuyên hơn.
+Ung thư thực quản giai đoạn II (2) sống được bao lâu?
+Thống kê từ chương trình SEER (Surveillance, Epidemiology, and End Results: Chương trình Giám sát, Dịch tễ học và Kết quả cuối cùng của Viện Nghiên cứu Ung thư Hoa Kỳ) thu thập các dữ liệu từ các loại ung thư cho biết giai đoạn ung thư thực quản được chia thành 3 thời kỳ:
+Tại chỗ: khối u nằm ở lớp trên cùng của thành thực quản.
+Tại vùng: khối u xâm lấn lớp sâu hơn của lòng thực quản hoặc di căn hạch bạch huyết vùng.
+Di căn xa: khối u xâm lấn các cấu trúc lân cận; hoặc di căn xa đến các hạch không phải hạch vùng, hoặc đến các cơ quan khác như phổi, gan, não, xương…
+Theo thống kê, tỷ lệ sống còn sau 5 năm đối với bệnh nhân ung thư thực quản phân theo giai đoạn được đánh giá như sau (theo SEER 2013-2019):
+Ung thư thực quản giai đoạn tại chỗ: 48,8%.
+Ung thư thực quản giai đoạn tiến triển tại chỗ – tại vùng: 27,7%.
+Ung thư thực quản giai đoạn di căn: 5,6%.
+Tiên lượng sống của bệnh nhân ung thư thực quản giai đoạn 2 còn phụ thuộc vào nhiều yếu tố khác như tuổi tác, tình trạng sức khỏe, tinh thần, khả năng đáp ứng phương pháp điều trị…
+Cách chẩn đoán ung thư thực quản giai đoạn 2
+Các phương pháp cận lâm sàng có thể được thực hiện trong quá trình chẩn đoán ung thư thực quản nhằm tìm kiếm dấu hiệu bệnh bao gồm:
+Nội soi thực quản:
+Nội soi tiêu hóa trên (bao gồm nội soi thực quản, dạ dày, tá tràng) thường được chỉ định trong trường hợp người bệnh có những dấu hiệu nuốt khó, nuốt đau, hoặc khi phát hiện xuất hiện những tổn thương nghi ngờ di căn mà chưa xác định nguồn gốc ung thư bằng các xét nghiệm chẩn đoán hình ảnh khác (như CT-scan, MRI…). Nội soi giúp xác định vị trí khối u, mức độ hẹp lòng thực quản, tình trạng vết loét hoặc sùi trên bề mặt khối u. Đồng thời, trong quá trình nội soi thực quản, bác sĩ có thể tiến hành sinh thiết các tổn thương hoặc khối u nghi ngờ ác tính, từ đó có thể chẩn đoán xác định bản chất tổn thương bằng kết quả giải phẫu mô bệnh.
+Nội soi thực quản có thể được kết hợp với siêu âm qua đầu dò nội soi (nội soi EUS: Endoscopic UltraSonography). Đây là phương tiện có độ chính xác cao nhằm đánh giá mức độ lan rộng, xâm lấn của khối u thực quản (còn gọi là T). Ngoài ra, bác sĩ có thể kết hợp nội soi EUS với sinh thiết bằng kim nhỏ (FNA: Fine Needle Aspiration) để sinh thiết các tổn thương hoặc hạch cạnh thực quản.
+Chụp cắt lớp vi tính (CT-scan): Đây là phương pháp thường được sử dụng phổ biến tại Việt Nam nhằm đánh giá giai đoạn ung thư thực quản, nhờ khả năng phát hiện các tổn thương di căn hạch bạch huyết hoặc di căn xa đến các cơ quan khác của cơ thể. Mặc dù vậy, CT-scan lại có sự hạn chế nhất định trong việc đánh giá mức độ xâm lấn tại chỗ của khối u thực quản (còn gọi là xếp giai đoạn theo T: Tumor). Tại Bệnh viện Đa khoa Tâm Anh, hệ thống chụp cắt lớp vi tính (CT) hai đầu bóng có khả năng tái tạo lên đến 768 lát cắt, cho hình ảnh chi tiết, đa diện. Nhờ hỗ trợ máy móc hiện đại, bác sĩ có thể đánh giá được những tổn thương nhỏ nhất mà máy chụp CT thông thường không thể phát hiện được.
+Chụp cộng hưởng từ, xạ hình xương: Trong một số tình huống cụ thể, bác sĩ có thể chỉ định các xét nghiệm khác như MRI não (nghi ngờ ung thư thực quản di căn não), xạ hình xương (nghi ngờ ung thư thực quản di căn xương), PET/CT, nội soi ổ bụng, nội soi lồng ngực…
+Dấu ấn sinh học ung thư: Xét nghiệm máu có thể phát hiện chỉ số CEA, CA 19-9 tăng cao. Tuy nhiên, các dấu ấn sinh học không có vai trò quan trọng trong chẩn đoán ung thư thực quản, do các chỉ số này cũng có thể tăng đối với các bệnh lý khác. Vì vậy, dấu ấn sinh học ung thư thường chỉ được dùng nhằm theo dõi sau điều trị.
+Cách điều trị ung thư thực quản giai đoạn II (2)
+Điều trị đa mô thức thường được chỉ định đối với bệnh nhân ung thư thực quản giai đoạn II (2). Các phương pháp điều trị ung thư phụ thuộc vào rất nhiều yếu tố khác nhau, bao gồm: thể trạng người bệnh, bệnh lý đi kèm, tình trạng dinh dưỡng, tinh thần và nguyện vọng của bệnh nhân. Hiện nay, các hướng dẫn điều trị ung thư từ Bộ Y tế và các hiệp hội ung thư thế giới đều nhấn mạnh vai trò của việc phối hợp nhiều phương pháp điều trị như phẫu thuật, xạ trị, hóa trị… (điều trị đa mô thức), nhằm tối ưu hóa hiệu quả điều trị, cải thiện tình trạng sức khỏe và nâng cao khả năng hồi phục. Đồng thời, việc đưa ra kế hoạch điều trị bệnh còn tùy thuộc từng trường hợp bệnh nhân cụ thể (cá thể hóa). Do đó bệnh nhân nên tham vấn bác sĩ điều trị trực tiếp để nhận được thông tin cụ thể với trường hợp bệnh của mình. (4)
+1. Phẫu thuật
+Đối với ung thư thực quản giai đoạn IIA (T2N0M0), mục tiêu điều trị triệt căn khối u được đặt ra đối với hầu hết bệnh nhân. Phẫu thuật triệt để bao gồm việc cắt bỏ một phần thực quản chứa khối u và nạo vét các hạch bạch huyết xung quanh. Sau đó, phần còn lại của thực quản sẽ được nối lại với dạ dày để đảm bảo cho quá trình tiêu hóa thức ăn diễn ra bình thường. Nếu cần, bác sĩ có thể sẽ dùng một phần ruột để thay thế phần thực quản, được nối lại trực tiếp với dạ dày. (5)
+Sau phẫu thuật triệt căn khối u, tùy thuộc vào kết quả giải phẫu tế bào học, bác sĩ có thể chỉ định điều trị phương pháp hỗ trợ để đạt hiệu quả điều trị tốt nhất.
+2. Hóa xạ đồng thời (hóa trị kết hợp xạ trị)
+Đối với ung thư thực quản giai đoạn II, khi tế bào ung thư đã xâm lấn đến lớp ngoài cùng của thực quản (T3) và/hoặc di căn đến 1 hoặc 2 hạch bạch huyết (N1), hóa xạ đồng thời được chỉ định nhằm điều trị bệnh triệt để hoặc được thực hiện trước phẫu thuật cắt thực quản.
+Ở trường hợp bệnh nhân ung thư thực quản giai đoạn IIA (T2N0M0) không thể phẫu thuật cắt thực quản, chỉ định hóa xạ đồng thời nhằm điều trị triệt để thường được đặt ra.
+3. Hóa trị
+Hóa trị là phương pháp sử dụng thuốc để tiêu diệt tế bào ung thư và ngăn chặn tế bào ung thư phát triển, hạn chế sự tăng sinh các tế bào ung thư trong cơ thể. Thuốc hóa trị có thể được sử dụng qua đường truyền tĩnh mạch, đường uống, hoặc kết hợp cả 2 đường dùng. Trong ung thư thực quản giai đoạn II, hóa trị chủ yếu có vai trò điều trị hỗ trợ sau phẫu thuật.
+4. Xạ trị
+Xạ trị là phương pháp sử dụng tia X năng lượng cao hoặc các tia bức xạ để tiêu diệt tế bào ung thư hoặc ức chế khả năng tăng sinh của tế bào ung thư. Xạ trị đơn thuần được chỉ định trong ung thư thực quản giai đoạn II đối với những bệnh nhân không thể hóa xạ đồng thời, nhằm giảm nhẹ các triệu chứng.
+Chăm sóc bệnh nhân ung thư thực quản giai đoạn II (2)
+Chăm sóc bệnh nhân ung thư thực quản giai đoạn II (2) giúp bệnh nhân cảm thấy thoải mái, nhẹ nhàng hơn. Gia đình có thể hỗ trợ bệnh nhân ung thư bằng một số phương pháp sau:
+Quan tâm, động viên, trấn an tinh thần, giúp đỡ và thực hiện các nguyện vọng của bệnh nhân.
+Giúp bệnh nhân thay đổi tư thế thường xuyên, dùng đệm nước hoặc ghế tựa để người bệnh cảm thấy thoải mái hơn, hạn chế nguy cơ loét tỳ đè.
+Thường xuyên thay drap giường, dọn dẹp khu vực sinh hoạt của bệnh nhân, giữ vệ sinh, phòng ốc thông thoáng.
+Massage tay chân nhẹ nhàng, giúp bệnh nhân dễ chịu, thoải mái, giảm tê bì tay chân và cải thiện lưu thông máu.
+Cố gắng đảm bảo đầy đủ các nhóm thực phẩm đủ dưỡng chất, chế biến theo nhiều cách khác nhau để kích thích cảm giác thèm ăn của bệnh nhân. Sử dụng các loại thực phẩm bổ sung dinh dưỡng theo tư vấn của bác sĩ điều trị.
+Trong bữa ăn có thể uống thêm nước để làm mềm thức ăn, giúp việc nuốt đồ ăn dễ dàng hơn.
+Khuyến khích bệnh nhân thường xuyên ra ngoài, tập luyện thể dục thể thao nhẹ ở mức độ vừa phải. Hoạt động thể chất đều đặn mỗi ngày sẽ giúp cải thiện chất lượng cuộc sống của người bệnh ung thư thực quản.
+Điều trị can thiệp kết hợp chế độ dinh dưỡng lành mạnh là biện pháp điều trị ung thư thực quản tối ưu.
+Phát hiện ung thư thực quản càng sớm, điều trị càng hiệu quả. Để đăng ký khám tầm soát và điều trị ung thư thực quản tại BVĐK Tâm Anh, bạn có thể liên hệ theo thông tin sau:
+Ung thư thực quản giai đoạn II (2) thường được điều trị theo phác đồ đa mô thức, có thể phối hợp nhiều phương pháp gồm phẫu thuật, xạ trị, hóa trị… Tuy nhiên, mỗi bệnh nhân là một cá thể riêng biệt nên việc lựa chọn phương pháp điều trị sẽ phụ thuộc vào rất nhiều yếu tố. Do đó, bệnh nhân và gia đình nên tham khảo thông tin và chủ động trao đổi với bác sĩ để có được các hướng dẫn điều trị phù hợp, tối ưu.
