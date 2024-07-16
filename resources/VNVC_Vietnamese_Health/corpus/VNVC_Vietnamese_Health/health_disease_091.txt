@@ -1,0 +1,66 @@
+# doc_id = health_disease_091
+# url = https://vnvc.vn/cach-phan-biet-cam-lanh-cam-cum-va-viem-phoi-do-rirus-corona/
+# date = 18/02/2020
+Cách phân biệt cảm lạnh, cảm cúm và viêm phổi do virus Corona
+Virus corona chủng mới đã gây ra hàng chục triệu ca lây nhiễm với con số tử vong tăng chóng mặt, bên cạnh đó, thế giới cũng đang phải đối mặt vớidịch bệnh khác mang tên Cúm mùa. Với những triệu chứng khởi phát tương tự nhau, cúm và Covid-19 khiến nhiều ngườilo lắngtrong việc xác định bệnh.
+Làm thế nào để phân biệt dấu hiệu cảm, cúm và Covid-19? Khi nào thì nên thông báo với cơ quan y tế nếu bạn nghĩ rằng mình có khả năng mắc bệnh? Tất cả sẽ được giải đáp trong nội dung dưới đây.
+Mục lụcTriệu chứng và mức độ nghiêm trọng của cúm mùa và viêm phổi cấp do Covid-19Tỷ lệ tử vong và khả năng lây nhiễmBệnh cảm lạnhPhòng ngừa và điều trị:Bệnh cúmPhòng ngừa và điều trị:Ngăn ngừa bệnh cúmViêm phổi cấp do coronavirusPhòng ngừa và điều trị:
+Cho đến nay, chủng coronavirus mới, được Tổ chức Y tế Thế giới (WHO) đặt tên chính thức là Covid-19 đã lây nhiễm cho hơn 64.948.832người;1.501.535người tử vong.
+Tuy nhiên, không chỉ Covid-19, một căn bệnh cũng đang gieo rắc nỗi kinh hoàng cho toàn cầu đó chính là cúm mùa. Cúm đã gây ra khoảng 19 triệu ca bệnh, 180.000 người phải nhập viện và 10.000 ca tử vong trong mùa này, theo số liệu cung cấp từ Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC).
+Điều đáng nói, các nhà khoa học đã nghiên cứu cúm theo mùa trong nhiều thập kỷ và chúng ta đã biết nhiều về virus gây cúm mùa cũng như đoán được phần nào tổn thất do cúm gây ra. Còn đối với Covid-19, lý do cực lo ngại đó là:virus quá mới, chưa ai biết quá rõ về bệnh, và điều đáng sợ là chưa thể dự đoán được mức độ lây lan và khả năng gây chết người của chủng virus này sẽ gây ra.
+Triệu chứng và mức độ nghiêm trọng của cúm mùa và viêm phổi cấp do Covid-19
+Cúm là bệnh rất thường gặp ở Việt Nam, đặc biệt mỗi khi thời tiết giao mùa. Đây là bệnh truyền nhiễm cấp tính với biểu hiện: sốt, đau đầu, đau cơ, mệt mỏi, sổ mũi, đau họng và ho. Tác nhân gây bệnh chủ yếu do các chủng vi rút cúm A(H3N2), cúm A(H1N1), cúm B và cúm C. Bệnh có khả năng lây nhiễm rất cao, lây nhanh qua đường hô hấp thông qua các giọt nhỏ nước bọt hay dịch tiết mũi họng do hắt hơi, ho khạc.
+Cúm vẫn là một trong những thách thức sức khỏe lớn nhất với cộng đồng. Mỗi năm trên toàn cầu, ước tính có khoảng 1 tỷ trường hợp mắc cúm, trong đó có 3 đến 5 triệu trường hợp nặng, khoảng 290.000 đến 650.000 người tử vong do các bệnh hô hấp liên quan đến cúm mỗi năm.
+Tại Việt Nam, 11 tháng năm 2019 ghi nhận 408.907 trường hợp mắc cúm, 10 trường hợp tử vong (giảm 10,4% số mắc và giảm 02 trường hợp tử vong so với cùng kỳ 11 tháng năm 2018).
+Với viêm phổi cấp do Covid-19, các bác sĩ vẫn đang cố gắng tìm hiểu bức tranh đầy đủ về các triệu chứng và mức độ nghiêm trọng của bệnh. Trong một nghiên cứu gần đây về khoảng 100 người bị nhiễm virus, được công bố vào ngày 30 tháng 1 trên tạp chí The Lancet , các triệu chứng phổ biến nhất là sốt, ho và khó thở. Chỉ có khoảng 5% bệnh nhân trong nghiên cứu đó báo cáo đau họng và chảy nước mũi, và chỉ 1-2% báo cáo tiêu chảy, buồn nôn và nôn.
+Điều quan trọng cần lưu ý là, vì các virus gây nên bệnh đường hô hấp thường có các triệu chứng tương tự, nên có thể khó phân biệt các virus đường hô hấp khác nhau chỉ dựa trên các triệu chứng.
+Tỷ lệ tử vong và khả năng lây nhiễm
+Hiện nay, tỷ lệ tử vong do chủng viruscorona Covid-19 vẫn chưa rõ ràng và dường như cao hơn so với tỷ lệ tử vong do cúm mùa gây ra. Theo CDC, tỷ lệ tử vong do cúm mùa nằm trong khoảng 0,07% thì con số này lên đến 2,26% ở bệnh viêm phổi cấp do Covid-19 gây ra.
+Cách thức các nhà khoa học dùng để xác định mức độ dễ lây lan của virus được dựa trên “hệ số lây nhiễm cơ bản” R0 (phát âm là R-naught). Đây là cách ước tính số người trung bình nhiễm virus từ một ca nhiễm virus. Ví dụ một virus có R0 bằng 5 tức một người nhiễm có thể lây cho 5 người. Hiện nay theo New York Times, R0 của cúm mùa là khoảng 1,3.
+Các nhà nghiên cứu tới nay vẫn tìm cách xác định R0 cho virus chủng corona mới. Hôm 29-1, một nghiên cứu công bố trên tạp chí y học New England (NEJM) ước tính hệ số R0 của Covid-19 là 2,2, tức cứ một người nhiễm thì hơn 2 người khác sẽ bị lây.
+Tuy nhiên, R0 không nhất thiết là chỉ số bất biến. Ước tính R0 có thể thay đổi theo vị trí địa lý, phụ thuộc vào các yếu tố khác như tần suất người bị nhiễm tiếp xúc với người khác, nỗ lực giảm sự lây lan của virus.
+Theo ThS. BS Bùi Ngọc An Pha – Giám đốc Y khoa Hệ thống Trung tâm Tiêm chủng VNVC chia sẻ trong chương trình tư vấn Thông Tin Về Virus Corona & Các Bệnh Hô Hấp: “Các bệnh lý hô hấp có triệu chứng gần như nhau, ví dụ triệu chứng của bệnh cảnh viêm phổi là giống nhau; tuy nhiên nguyên nhân gây viêm phổi sẽ là khác nhau.
+Với bệnh cảnh sốt, ho, khó thở… để xác định là do Covid-19 hay do vi khuẩn, virus gây bệnh hô hấp thông thường thì phải cần đến dịch tễ học, tức là phải xác định người này có đi đến vùng dịch hay không? Thứ 2 là có tiếp cận với người đã được chẩn đoán hay xác nhận là nhiễm Covid-19 hay không? Thứ 3 là người này có tiếp cận với người đi từ vùng dịch về hay không? Còn nếu chỉ sốt, ho, khó thở thôi thì chưa khẳng định được điều gì”.
+Do đó, yếu tố quan trọng ở đây là dịch tễ học chứ không phải là triệu chứng, vì các triệu chứng ban đầu của Covid-19 và các bệnh lý hô hấp là gần như nhau. Cảm lạnh, bệnh cúm và viêm phổi do corona là những bệnh về đường hô hấp cực phổ biến hiện nay. Với những triệu chứng khởi phát gần giống nhau, vì thế không ít người nhầm lẫn khi xác định các bệnh về đường hô hấp, tự ý điều trị tại nhà vô tình làm cho bệnh thêm nặng gây khó khăn trong công tác điều trị.
+Bệnh cảm lạnh
+Bệnh có các triệu chứng điển hình là ho, sổ mũi, kém ăn và đau họng. Đây là một nhóm các triệu chứng ở đường hô hấp trên do hơn 200 loại virus gây ra. Virus lây truyền chủ yếu qua đường hô hấp, dịch tiết mũi họng từ người sang người hoặc lây qua đường tiếp xúc với vật bị nhiễm bệnh. Các triệu chứng của cảm lạnh thông thường kéo dài khoảng một tuần và virus này dễ lây lan trong thời gian nhiễm bệnh.
+Phòng ngừa và điều trị:
+Vệ sinh mũi họng cho trẻ bằng nước muối sinh lý (chú ý làm ấm khi trời lạnh) có thể kết hợp để vệ sinh miệng cho bé;
+Vệ sinh sạch sẽ cho bé để tránh các vấn đề về da khi da tiếp xúc với dịch nhầy ở mũi
+Cho bé ăn thức ăn mềm, lỏng, đủ dinh dưỡng, chia nhỏ thành nhiều bữa;
+Uống nước hoa quả, nước ấm theo nhu cầu của trẻ;
+Dùng các biện pháp dân gian giúp trẻ giảm ho, long đờm: quất hấp mật ong, húng chanh hấp đường phèn, ngâm chân với nước gừng ấm…
+Cho bé khám và tham vấn với bác sĩ trước khi sử dụng bất kỳ loại thuốc cảm nào…
+“Đôi khi, cảm lạnh thông thường có thể tăng nặng và để lại nhiều biến chứng nguy hiểm. Do đó, nếu con bạn bị đau tai, phát ban, sốt trên 38,5 độ, thở nhanh, ho dai dẳng, buồn ngủ hoặc quấy khóc, bố mẹ hãy đưa trẻ đi gặp bác sĩ để điều trị”, bác sĩ Bùi Ngọc An Pha cho biết..
+Bệnh cúm
+Trước đây, người ta đã ghi nhận những trường hợp cảm cúm nặng, xảy ra theo mùa lạnh ở các nước vùng ôn đới, hay lai rai quanh năm ở các xứ nhiệt đới như Việt Nam. Đã có nhiều đại dịch lớn gây ra bởi bệnh cúm trong suốt lịch sử. Ví dụ, đại dịch 1918 đến 1919, được gọi là Đại dịch cúm của nhân loại, đã lây nhiễm từ 20 đến 40% dân số trên toàn thế giới và ước tính 50 triệu người đã chết vì cúm.
+Cho đến năm 1933, 3 khoa học gia người Anh mới tìm ra virus gây ra bệnh cúm là influenza. Từ đó tạo tiền đề cho việc điều chế vắc xin cúm giúp phòng ngừa và đẩy lùi dịch cúm mỗi năm trên thế giới.
+Bệnh cúm có triệu chứng sốt, ớn lạnh, mệt mỏi và đau nhức cơ bắp. Trẻ nhỏ khi bị cúm dễ quấy khóc, khó chịu, bỏ ăn, một số trẻ đau bụng, tiêu chảy và thường kèm theo hội chứng viêm long đường hô hấp như hắt hơi, chảy nước mũi trong, ngạt mũi, ho… Cúm được gây ra bởi virus influenza lây truyền từ người sang người.
+Phòng ngừa và điều trị:
+Rửa tay bằng xà phòng hoặc vệ sinh tay thường xuyên để ngăn cản sự lây truyền của vi khuẩn;
+Sử dụng máy hút mũi để làm sạch mũi dịch nhầy ở mũi. Sử dụng nước ấm hoặc nước muối sinh lý để vệ sinh giúp thông thoáng đường thở của trẻ;
+Khi bé bị ho và đau họng, hãy hỏi bác sĩ hoặc dược sĩ trước khi dùng bất kỳ loại thuốc nào…
+Nếu trẻ bị sốt trên 38,5 độ, hãy cho trẻ uống acetaminophen theo chỉ dẫn trên bao bì;
+Đưa trẻ đến ngay bác sĩ nếu sốt kéo dài không hạ.
+Ngăn ngừa bệnh cúm
+Theo Trung tâm kiểm soát và phòng ngừa dịch bệnh tại Hoa Kỳ, tất cả trẻ em từ 6 đến 24 tháng tuổi đều dễ có nguy cơ bị các biến chứng do cúm, do đó tiêm vắc xin phòng bệnh cúm mỗi năm là phương pháp hiệu quả để giúp phòng tránh bệnh. Đặc biệt, trẻ trên 6 tháng tuổi bị bệnh tim hoặc phổi mãn tính (bao gồm cả hen suyễn) và những người mắc các bệnh chuyển hóa như tiểu đường, người mắc bệnh thận mãn tính, hệ thống miễn dịch yếu càng nên tiêm phòng bệnh cúm.
+Hiện nay, Việt Nam đang lưu hành 5 loại vắc xin phòng cúm mùa: Vaxigrip 0.25ml (Pháp), Influvac 0.5ml (Hà Lan), GC Flu 0,5ml (Hàn Quốc), Vaxigrip 0.5ml (Pháp) và Ivacflu-S 0,5ml (Việt Nam).
+VNVC là đơn vị tiêm chủng có đầy đủ các loại vắc xin phòng cúm, sẵn sàng cung cấp cho người dân bảo vệ sức khỏe. Tùy mỗi loại vắc xin sẽ có những phác đồ khác nhau:
+Cho trẻ em dưới 3 tuổi: vắc xin Vaxigrip 0.25ml (Pháp),
+Cho trẻ em 3 tuổi trở lên và người lớn: vắc xin Influvac 0.5ml (Hà Lan), GC Flu 0,5ml (Hàn Quốc), Vaxigrip 0.5ml (Pháp),
+Cho người lớn trên 18 tuổi: vắc xin Ivacflu-S 0,5ml (Việt Nam).
+Viêm phổi cấp do coronavirus
+Coronavirus là một loài của virus thuộc phân họ Coronavirinae trong gia đình Coronaviridae. Cái tên Coronavirus có nguồn gốc từ tiếng Latin, có nghĩa là vương miện, vì hình dạng của virus này khi soi dưới kính hiển vi giống như vương miện hoặc vành nhật hoa (Corona) vậy.
+Virus corona có thể lây truyền giữa người với người qua các giọt hô hấp mà người nhiễm bệnh phát tán khi họ thở, ho hoặc hắt hơi. Biện pháp đơn giản và tối ưu như rửa tay, khử trùng các bề mặt và đồ vật thường xuyên chạm vào, và tránh chạm vào mặt, mắt và miệng, đeo khẩu trang có thể làm giảm đáng kể nguy cơ nhiễm trùng virus.
+Trong giai đoạn đầu của bệnh viêm phổi do Covid-19, các triệu chứng nhiễm trùng hô hấp cấp tính nghiêm trọng đã xảy ra, ở một số bệnh nhân nhanh chóng phát triển hội chứng suy hô hấp cấp tính (ARDS) và các biến chứng nghiêm trọng khác như viêm phổi, phù phổi, suy đa tạng và tử vong.
+Phòng ngừa và điều trị:
+Tránh đi lại, du lịch nếu đang có sốt, ho hoặc khó thở. Đến ngay cơ sở y tế khi có triệu chứng nghi ngờ. Đồng thời, chia sẻ lịch trình di chuyển với nhân viên y tế.
+Tránh tiếp xúc với người bị sốt, ho. Thường xuyên rửa tay bằng xà phòng, tránh chạm vào mắt, mũi, miệng.
+Khi ho, hắt hơi, hãy che kín miệng và mũi bằng khăn giấy hoặc tay áo. Bỏ khăn giấy vào thùng rác sau khi sử dụng rồi rửa tay.
+Nếu thấy có dấu hiệu ốm khi đi lại, du lịch, thông báo ngay cho nhân viên hàng không, đường sắt, ô tô và đến ngay cơ sở y tế càng sớm càng tốt.
+Chỉ sử dụng các loại thực phẩm nấu chín.
+Không khạc nhổ bừa bãi nơi công cộng. Tránh tiếp xúc gần với các loài động vật nuôi hoặc hoang dã.
+Đeo khẩu trang khi đi tới chỗ đông người hoặc khi tiếp xúc với người có triệu chứng bệnh.
+Hiện nay chưa có thuốc đặc trị và vắc xin phòng bệnh do Covid-19 gây ra, các chuyên gia Y tế khuyên người dân nên chủ động phòng ngừa, nâng cao sức khỏe bằng việc thực hiện chế độ dinh dưỡng khoa học, rèn luyện thể lực và tiêm phòng đầy đủ. Việc tiêm phòng đầy đủ giúp người dân không bị nhiễm các bệnh khác (ngoài virus Corona) để không nhầm lẫn giữa các triệu chứng và không gây lo lắng cho cộng đồng và tiêm vắc xin sẽ phòng đúng bệnh, tránh trường hợp không may bị nhiễm cả 2 bệnh cùng lúc sẽ rất nguy hiểm và khó điều trị.
+VNVC luôn nỗ lực hết sức để mang đến cho khách hàng dịch vụ tiêm chủng an toàn, chất lượng và cao cấp với giá thành hợp lý.
+Để được tư vấn và đặt lịch tiêm vắc xin cúm cùng nhiều loại vắc xin khác, Quý Khách có thể đăng ký tại đây hoặc gọi vào hotline 028.7102.6595, nhắn tin cho Fanpage VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn hoặc liên hệ trực tiếp hệ thống các trung tâm tiêm chủng VNVC trên cả nước.

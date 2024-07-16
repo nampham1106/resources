@@ -1,0 +1,92 @@
+# url = https://vnvc.vn/vac-xin-tai-to-hop/
+# date = 13/04/2024
+Vắc xin tái tổ hợp là gì? Có những loại nào đang lưu hành?
+Nhiều bệnh lý nguy hiểm như HPV, viêm gan B, Covid-19,… có thể phòng ngừa bằng vắc xin tái tổ hợp. Nhờ sự tiến bộ trong lĩnh vực sinh học phân tử, kỹ thuật di truyền, các nhà khoa học đã tạo ra vắc xin tái tổ hợp có độ tinh khiết cao kích thích hệ thống miễn dịch trong cơ thể chống lại tác nhân gây bệnh. Vậy vắc xin tái tổ hợp là gì? Có những loại nào đang lưu hành?
+
+
+
+BS Nguyễn Văn Quảng – Quản lý Y khoa vùng 4 khu vực phía Bắc, Hệ thống tiêm chủng VNVC chia sẻ: “Vắc xin tái tổ hợp mang lại khả năng bảo vệ cao, phạm vi bao phủ rộng giúp chống lại các loại vi khuẩn, virus khác nhau. Hầu hết các loại vắc xin đang được nghiên cứu hiện nay đều dựa trên Protein tái tổ hợp, được kiểm chứng về tính an toàn và hiệu quả phòng bệnh.”
+
+
+
+
+Mục lụcVắc xin tái tổ hợp là gì?Vắc xin tái tổ hợp hoạt động như thế nào?So sánh vaccine tái tổ hợp với các công nghệ vắc xin khácVắc xin tái tổ hợp thích hợp với ai? Ai không nên tiêm?Vắc xin tái tổ hợp có bao nhiêu loại?1. Vắc xin protein tái tổ hợp2. Vắc-xin tái tổ hợp sống sử dụng vectơ vi khuẩn hoặc virus3. Vắc xin ADNNhững tác dụng phụ thường gặp của vắc xin tái tổ hợp và cách xử lýTiêm các vaccine tái tổ hợp ở đâu?Tìm hiểu quy trình sản xuất của vắc xin tái tổ hợp1. Chọn nguyên liệu2. Cắt enzyme3. Nối enzymeKết luậnVắc xin tái tổ hợp là gì?
+Vắc xin tái tổ hợp là loại vắc xin được tạo ra bằng công nghệ DNA tái tổ hợp. Một mã DNA mã hóa một kháng nguyên (như Protein) được chèn vào đoạn gen để kích thích phản ứng miễn dịch của tế bào vi khuẩn vô hại hoặc giảm độc lực. Vật chất di truyền được chèn vào sẽ khiến vi khuẩn bị vô hại hoặc giảm độc lực biểu lộ kháng nguyên của vi sinh vật khác, bắt chước vi sinh vật này gây hại để kích thích cơ thể sinh phản ứng miễn dịch. [1]
+Vắc xin tái tổ hợp là loại vắc xin được tạo ra bằng công nghệ DNA tái tổ hợp
+Vắc xin tái tổ hợp hoạt động như thế nào?
+Trong tự nhiên, virus bám vào tế bào, bơm vật chất di truyền vào tế bào. Trong môi trường phòng thí nghiệm, các nhà khoa học đã lợi dụng quá trình này của virus để tạo ra vắc xin tái tổ hợp. Các nhà khoa học đã làm giảm độc lực hoặc dùng đoạn gen của virus vô hại để chèn thêm một đoạn vật chất di truyền của sinh vật khác. [2]
+Virus vô hại được dùng phổ biến làm vector, đóng vai trò vận chuyển DNA đến tế bào. Sau được đưa vào trong cơ thể, vắc xin tái tổ hợp bắt chước nhiễm trùng tự nhiên,làm tốt công việc kích thích hệ miễn dịch một cách tự nhiên.
+Vi khuẩn giảm độc lực cũng có thể được sử dụng để làm vector nhưng không phổ biến bằng cách sử dụng virus vô hại. Trường hợp này, vật chất di truyền sẽ chèn vào làm vi khuẩn biểu lộ kháng nguyên của vi sinh vật khác trên bề mặt. Nhờ đó, vi khuẩn giảm độc lực sẽ bắt chước vi sinh vật gây hại để kích thích đáp ứng miễn dịch trong cơ thể.
+So sánh vaccine tái tổ hợp với các công nghệ vắc xin khác
+
+
+
+
+Ưu điểm
+Nhược điểm
+
+
+Vắc xin tái tổ hợp
+Chế phẩm sinh học chứa vi sinh vật, vi khuẩn đã được vô hại hoặc giảm độc lực, không còn khả năng lây bệnh cho đối tượng nhận vắc xin.
+Có thể đưa vào trong cơ thể bằng các phương pháp khác nhau như tiêm, uống. Cơ thể chịu sự kích thích của kháng nguyên, từ đó xuất hiện đáp ứng miễn dịch sản xuất protein mới với chức năng bảo vệ cơ thể, hay còn gọi là kháng thể.
+Giá thành cao, yêu cầu điều kiện bảo quản và vận chuyển nghiêm ngặt.
+Do sử dụng virus, vi khuẩn là vật trung gian nên nếu người được tiêm vắc xin đã tiếp xúc nhiều lần với virus trung gian có miễn dịch với nó, làm cho vắc xin kém hiệu quả hơn.
+
+
+Vắc xin giảm độc lực
+Được sản xuất từ tác nhân gây bệnh đã được làm suy yếu, giảm độc lực nên không có khả năng gây bệnh cho người được tiêm.
+Đáp ứng miễn dịch đạt được gần giống hoàn toàn với mắc bệnh tự nhiên, nhanh chóng, tạo ra kháng thể mạnh, lâu dài.
+Các tác nhân từ bên ngoài như ánh sáng, nhiệt độ, độ ẩm,…có thể làm ảnh hưởng đến chất lượng vắc xin, khiến vắc xin giảm hoặc mất hiệu quả.
+
+
+Vắc xin bất hoạt
+Vắc xin bất hoạt gồm các mầm bệnh được triệt tiêu nhưng vẫn mang đặc điểm như mầm bệnh thông thường. Khi đưa vào cơ thể, hệ miễn dịch sẽ nhận biết và chống lại, xử lý mầm bệnh đã chết như bệnh thực sự.
+Do mầm bệnh đã được triệt tiêu nên an toàn, phù hợp với mọi lứa tuổi, cả ở những người có hệ miễn dịch suy giảm.
+Vắc xin bất hoạt chỉ kích thích phản ứng qua trung gian kháng thể. Các phản ứng này yếu và thời gian tồn tại ngắn. Để khắc phục, Vắc xin bất hoạt thường được tiêm cùng chất bổ trợ và dùng liều nhắc lại.
+
+
+Vắc xin giải độc tố
+Vắc xin giải độc tố được tạo ra từ độc tố của vi khuẩn. Loại vắc xin này an toàn cho người dùng, độ ổn định cao và ít khi bị ảnh hưởng bởi sự thay đổi nhiệt độ, độ ẩm và ánh sáng.
+Quy trình sản xuất vắc xin phải được kiểm soát chặt chẽ để đảm bảo hiệu quả tốt nhất mà không làm thay đổi quá mức cấu trúc epitope kháng nguyên, dẫn đến chi phí sản xuất cao.
+
+
+
+Vắc xin tái tổ hợp thích hợp với ai? Ai không nên tiêm?
+Vắc xin tái tổ hợp có chứa vi sinh vật, vi khuẩn đã được vô hại hoặc giảm độc lực. Chúng không có khả năng gây bệnh cho người tiêm. Vì thế, vắc xin tái tổ hợp có thể sử dụng cho mọi đối tượng, kể cả trẻ em, những người có hệ miễn dịch yếu, người cao tuổi.
+Tuy nhiên, đối với những người đã từng tiếp xúc nhiều lần với vi khuẩn, virus trung gian có trong vắc xin, việc tiêm vắc xin tái tổ hợp sẽ trở nên kém hiệu quả, những trường hợp này cần được chỉ định của bác sĩ trước khi tiêm.
+Vắc xin tái tổ hợp có bao nhiêu loại?
+Có 3 loại vaccine tái tổ hợp phổ biến, bao gồm: Vắc xin protein, vắc xin tái tổ hợp sống sử dụng vector là vi khuẩn hoặc virus, vắc xin ADN.
+1. Vắc xin protein tái tổ hợp
+Hầu hết các loại vắc xin đang được nghiên cứu hiện nay đều dựa trên Protein tái tổ hợp. Công nghệ này giúp tạo ra vắc xin có độ tinh khiết cao. Trong đó, vắc xin protein tái tổ hợp được sử dụng phổ biến ở người là vắc xin phòng viêm gan B (HBV) và vắc xin phòng các bệnh gây ra do HPV. [3]
+Một ví dụ về vắc xin Protein tái tổ hợp được phát triển gần đây hơn là vắc xin phòng HPV. HPV là bệnh lây truyền qua đường tình dục phổ biến gây các bệnh nguy hiểm như ung thư cổ tử cung, âm đạo, âm hộ, mụn cóc sinh dục,… Hiện có 2 loại vắc xin phòng HPV, cả 2 đều được phát triển dựa trên VLP có nguồn gốc từ nhóm HPV-6, -11, -16, -18, sử dụng protein tái tổ hợp L1 của từng phân nhóm được sản xuất trong nấm men, hệ thống tế bào côn trùng.
+HPV là loại vắc xin Protein tái tổ hợp điển hình được tiêm chủng rộng rãi tại nhiều quốc gia
+2. Vắc-xin tái tổ hợp sống sử dụng vectơ vi khuẩn hoặc virus
+Nhờ những tiến bộ trong lĩnh vực sinh học phân tử, kỹ thuật di truyền, các nhà khoa học có thể tạo ra vectơ tái tổ hợp sống có khả năng cung cấp kháng nguyên bằng cách đưa các đoạn gen mã hóa kháng nguyên vào. Theo đó, vắc xin tái tổ hợp sống lợi dụng khả năng lây nhiễm, đặc tính miễn dịch của vectơ sống để tạo ra phản ứng miễn dịch.
+Các vectơ vi khuẩn có nhiều ưu điểm, khiến chúng trở thành hệ thống hấp dẫn để trình diện kháng nguyên khác loài. Chúng tạo ra phản ứng miễn dịch và có thể được sử dụng bằng đường uống, từ đó tạo khả năng miễn dịch niêm mạc.
+3. Vắc xin ADN
+Vắc xin DNA kháng nguyên biểu hiện trực tiếp bởi tế bào của vật chủ tương tự cách xảy ra trong quá trình nhiễm virus. Kết quả là các kháng nguyên này có thể được xử lý dưới dạng Protein tổng hợp tế bào chất, các mảnh peptide phân mảnh được đưa vào hệ thống miễn dịch bởi phân tử MHC lớp I. Bên cạnh đó, nếu Protein được tiết ra được xử lý bởi phân tử MHC lớp II sẽ tạo ra phản ứng kháng thể.
+Vắc xin DNA có đặc tính mang lại lợi ích cho quy trình tiêm chủng: Không có nguy cơ nhiễm trùng, tạo ra khả năng miễn dịch dịch thể và miễn dịch qua trung gian tế bào, có khả năng tạo ra phản ứng miễn dịch kéo dài.
+⇒ Tìm hiểu thêm: Các loại vắc xin hiện nay: Lợi ích và hạn chế của chúng.
+Những tác dụng phụ thường gặp của vắc xin tái tổ hợp và cách xử lý
+Giống như các loại thuốc, bất cứ loại vắc xin nào cũng có khả năng gây phản ứng phụ sau tiêm. Tác dụng phụ thường gặp sau tiêm vắc xin tái tổ hợp là dấu hiệu bình thường cho thấy hệ thống miễn dịch đã được kích hoạt để bảo vệ cơ thể.
+Theo thông tư 34/2018/TT-BYT hướng dẫn Nghị định 104/2016/NĐ-CP, người tiêm chủng có thể gặp các tác dụng phụ phổ biến: sốt dưới 38 độ, đau nhức tại vị trí tiêm, mệt mỏi, chán ăn, tiêu chảy. Các tác dụng phụ sau tiêm này có thể khiến người tiêm khó chịu nhưng chỉ sau 24-48 giờ, triệu chứng dần thuyên giảm mà không cần can thiệp điều trị. Tuy nhiên nếu phát hiện dấu hiệu bất thường hoặc kéo dài, người được tiêm chủng cần đến các cơ quan y tế để được kiểm tra theo dõi.
+Nên theo dõi tại trung tâm tiêm chủng ít nhất 30 phút sau tiêm, đồng thời tiếp tục theo dõi tại nhà 24-48 giờ theo tư vấn của bác sĩ
+Tiêm các vaccine tái tổ hợp ở đâu?
+Tại Việt Nam, hệ thống Trung tâm Tiêm chủng Trẻ em và Người lớn VNVC là đơn vị tiêm chủng vắc xin dẫn đầu về chất lượng và uy tín, là địa chỉ tiêm vắc xin đáng tin cậy của hàng triệu gia đình Việt.
+Với hệ thống gần 200 trung tâm trải dài từ Bắc vào Nam, VNVC là đơn vị đầu tiên tại Việt Nam đầu tư hàng trăm kho lạnh bảo quản vắc xin đạt tiêu chuẩn GSP, bảo quản vắc xin theo nhiệt độ chuẩn từ 2-8 độ C, từ đó đảm bảo cho tất cả vắc xin luôn trong tình trạng tốt nhất trước khi được sử dụng trong tiêm chủng cho khách hàng. Bên cạnh đó, VNVC cũng triển khai cung cấp nhiều dịch vụ tiêm chủng, nhiều gói tiêm theo độ tuổi giúp khách hàng có nhiều sự lựa chọn hơn.
+Khi tiêm chủng tại VNVC, khách hàng có thể hoàn toàn yên tâm về chất lượng bởi toàn bộ khách hàng được bác sĩ thăm khám sức khỏe miễn phí trước khi tiêm. Tất cả bác sĩ, điều dưỡng của VNVC đều được đào tạo thường xuyên với các đội ngũ chuyên gia cao cấp trong và ngoài nước, thực hành tiêm chủng an toàn nghiêm ngặt, 100% bác sĩ và điều dưỡng có, chứng chỉ tiêm an toàn, đảm bảo tiêm chuẩn kỹ thuật, ít đau.
+100% khách hàng được thăm khám sàng lọc miễn phí khi tiêm chủng tại VNVC
+Đặc biệt VNVC luôn cam kết bình ổn giá trong mọi thời điểm, niêm yết thông tin giá công khai giúp khách hàng dễ dàng theo dõi trên toàn hệ thống. VNVC còn triển khai chính sách mua vắc xin trả gói lãi suất 0% trong 6 tháng để chia sẻ gánh nặng tài chính với khách hàng hoặc hỗ trợ khách hàng chia nhỏ chi phí thanh toán trong nhiều lần, giúp khách hàng tiếp cận kịp thời với vắc xin an toàn và tiêm chủng chất lượng cao, bảo vệ sức khỏe bản thân và gia đình.
+Tìm hiểu quy trình sản xuất của vắc xin tái tổ hợp
+Quy trình sản xuất vắc xin tái tổ hợp rất hiện đại, nhà sản xuất trải qua nhiều công đoạn để tạo ra vắc xin thành phẩm nhưng về cơ bản, quy trình cốt lõi nhất là cắt đoạn gen tổng hợp trên vi sinh vật gây bệnh, ghép gen này vào vi khuẩn hoặc tế bào nuôi cấy để tạo protein đặc hiệu cho mầm bệnh. Sau đó, protein này được dùng để tiêm chủng tạo ra miễn dịch đặc hiệu. Nhờ đó, vắc xin tái tổ hợp hiếm khi gây ra tác dụng phụ, khả năng miễn dịch cao.
+Cụ thể, các bước trong quy trình sản xuất vaccine tái tổ hợp có thể diễn ra như sau:
+1. Chọn nguyên liệu
+Plasmid hoặc Phage là DNA được sử dụng làm phương tiện vận chuyển gen phổ biến nhất. DNA này được thu nhận từ tế bào của vi sinh vật, sau đó tách ra và làm sạch bằng phương pháp chiết tách.
+2. Cắt enzyme
+Quá trình cắt Enzyme RE kiểu II được thực hiện tại vị trí đã được xác định từ trước. Hiệu quả của quá trình này phụ thuộc vào nhiều yếu tố: hàm lượng enzyme, nhiệt độ, ion kim loại, môi trường, độ tinh khiết của DNA.
+3. Nối enzyme
+Bước tiếp theo là nối các đoạn DNA vào vector để tạo thành plasmid có mang DNA lạ. Dưới tác dụng của enzyme ligase, liên kết phosphodiester được hình thành và hai nucleotide được nối lại với nhau.
+Đây là ví dụ về quy trình sản xuất vắc xin viêm gan B tái tổ hợp, mang đến cái nhìn tổng quan hơn về quá trình sản xuất ra một loại vaccine tái tổ hợp:
+Đối với vắc xin viêm gan B, các nhà nghiên cứu ứng dụng công nghệ gen, cài đặt đoạn mã ADN mã hóa sinh tổng hợp HBsAg vào vectơ (Plasmid), sau đó chuyển nạp vào tế bào nấm men Pichia Pastoris. Sau đó, tế bào được nhân lên trong nồi lên men. Có thể nhân lên với số lượng tùy ý để chủ động nguồn nguyên liệu. Sau đó, khâu tách kháng nguyên ra khỏi tế bào nấm men được thực hiện, cho ra tinh khiết, bất hoạt, ly tâm… để có kháng nguyên tinh khiết sản xuất vắc xin.
+Kết luận
+Vắc xin tái tổ hợp được sử dụng phổ biến trong lĩnh vực tiêm chủng, mang đến hiệu quả bảo vệ cao. Để được tư vấn thêm thông tin về các loại vắc xin phòng bệnh, vui lòng liên hệ qua Hotline VNVC: 028 7102 6595 hoặc Fanpage VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn.

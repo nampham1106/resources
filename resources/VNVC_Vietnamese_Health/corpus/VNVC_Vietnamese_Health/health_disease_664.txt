@@ -1,0 +1,134 @@
+# doc_id = health_disease_664
+# url = https://vnvc.vn/ung-thu-am-ho/
+# date = 21/04/2023
+Ung thư âm hộ: Nguyên nhân và cách phòng ngừa
+Ung thư âm hộ là một trong những loại ung thư đáng sợ nhất, thường không có triệu chứng ban đầu, khiến cho việc chẩn đoán bệnh trở nên khó khăn. Nếu không được phát hiện sớm, ung thư âm hộ có thể lan rộng sang các cơ quan lân cận và tạo ra các khối u thứ phát, vô cùng khó điều trị dứt điểm, đe dọa nghiêm trọng đến sức khỏe và tính mạng của nữ giới. Vậy nguyên là do đâu? Những đối tượng nào có nguy cơ cao mắc ung thư âm hộ? Các phương pháp chẩn đoán là gì? Cách phòng ngừa ra sao?
+Mục lục1. Ung thư âm hộ là gì?2. 5 loại ung thư âm hộ2.1. Ung thư biểu mô tế bào vảy âm hộ2.2. Khối u ác tính âm hộ2.3. Sarcoma2.4. Ung thư biểu mô tuyến2.5. Ung thư biểu mô tế bào Basel (BCC)3. Virus HPV – Nguyên nhân gây ung thư âm hộ phổ biến nhất4. Ai có nguy cơ mắc ung thư âm hộ cao hơn?5. Các dấu hiệu nhận biết ung thư âm hộ6. Có thể phòng ngừa ung thư âm hộ bằng cách nào?6.1. Tiêm ngừa vắc xin Gardasil và Gardasil 9 để ngăn ngừa virus HPV6.2. Kiểm tra sức khỏe định kỳ6.3. Sinh hoạt tình dục lành mạnh6.4. Bỏ ngay các thói quen xấu7. Chẩn đoán ung thư âm hộ như thế nào?8. Các phương pháp điều trị ung thư âm hộ8.1. Phẫu thuật8.2. Xạ trị8.3. Hóa trị9. Các câu hỏi thường gặp về ung thư âm hộ1. Ung thư âm hộ là gì?
+Ung thư âm hộ là bệnh ung thư xảy ra ở bất kỳ bộ phận nào của bộ phận sinh dục ngoài của nữ giới nhưng thường ảnh hưởng đến vị trí mô lớn (môi ngoài), môi bé (môi trong) và đáy chậu (vùng da giữa âm đạo và hậu môn) bằng cách hình thành cục u hoặc vết loét trên âm hộ thường gây ngứa.
+Ung thư âm hộ là một căn bệnh hiếm gặp, chiếm khoảng 0.6% tổng số ca ung thư ở phụ nữ. Ung thư âm hộ tương tự như ung thư cổ tử cung, thời gian ủ bệnh thường rất lâu, có thể sau 10-15 năm mới phát bệnh, thời điểm phát bệnh thường là giai đoạn cuối, khả năng cứu chữa rất thấp.
+Ung thư âm hộ không phổ biến, thường ảnh hưởng đến phụ nữ đã trải qua thời kỳ mãn kinh, tuy nhiên ung thư âm hộ cũng có thể xảy ra ở phụ nữ trẻ nhưng trường hợp này rất hiếm gặp. Ước tính có hơn 400 người được chẩn đoán mắc bệnh ung thư âm hộ vào năm 2022. Độ tuổi trung bình khi được chẩn đoán là 69 tuổi. [1]
+Âm hộ là vùng da bao quanh niệu đạo và âm đạo, bao gồm cả âm vật và môi âm hộ, bao gồm:
+Môi lớn (môi âm hộ): gồm hai môi lớn, nhiều thịt, hoặc nếp gấp của da xung quanh cửa âm đạo. Bộ phận này bắt đầu ở âm vật và kết thúc dưới lỗ âm đạo.
+Môi bé: môi nhỏ nằm ngay bên trong môi lớn bao quanh lỗ niệu đạo và âm đạo.
+Tiền đình: không gian nơi âm đạo mở ra
+Quy đầu: một nếp da được hình thành bởi môi bé bao phủ âm vật, nằm ở đầu âm hộ.
+Âm vật: một phần nhô ra của mô thần kinh nhạy cảm với kích thích.
+Fourchette: khu vực bên dưới cửa âm đạo nơi gặp nhau của môi bé.
+Tầng sinh môn: khu vực giữa âm đạo và hậu môn.
+Hậu môn: mở ở cuối ống hậu môn.
+Niệu đạo: ống nối với bàng quang, lỗ niệu đạo là lỗ nhỏ đường tiểu, nằm ngay bên dưới âm vật.
+Cửa âm đạo: nằm ngay dưới lỗ niệu đạo, là nơi máu kinh nguyệt rời khỏi cơ thể và thai nhi được sinh ra qua cửa âm đạo.
+Ung thư âm hộ chiếm khoảng 6% các ca ung thư được chẩn đoán ở cơ quan sinh sản nữ và dưới 1% các ca ung thư ở phụ nữ
+Hiện nay, nhiều người vẫn lầm lẫn giữa âm đạo và âm hộ, hoặc xem chúng là một. Tuy nhiên, âm hộ là một phần của bộ phận sinh dục của ở bên ngoài cơ thể . Nó bao gồm môi âm hộ, âm vật, lỗ âm đạo và lỗ niệu đạo (lỗ đường tiểu). Nhiều người vẫn lầm tưởng khu vực này là âm đạo, nhưng thực ra đây là âm hộ. Âm đạo thực sự chỉ là một phần của âm hộ và âm hộ có nhiều chức năng và hoạt động diễn ra hơn âm đạo.
+Mặc dù thường không phổ biến, thậm chí rất hiếm gặp, nhưng lại là một bệnh lý ung thư nguy hiểm. Trên toàn thế giới, ước tính có khoảng 45.240 người được chẩn đoán mắc bệnh ung thư âm hộ vào năm 2020, trong đó có khoảng 17.427 người trên toàn thế giới chết vì ung thư âm hộ.
+Theo kết quả thống kê của Viện Ung thư Quốc gia Hoa Kỳ (SEER Hoa Kỳ), tỷ lệ sống sót sau 5 năm đối với ung thư âm hộ chưa lan ra ngoài âm hộ là gần 87%, ước tính có khoảng 60% ung thư âm hộ được chẩn đoán ở giai đoạn cục bộ này.
+Đối với ung thư đã lan đến các mô hoặc cơ quan xung quanh và/hoặc đến các hạch bạch huyết khu vực, tỷ lệ sống sót sau 5 năm là 49%. Tỷ lệ sống sót là gần 22% nếu ung thư đã di căn đến các bộ phận khác của cơ thể. [2]
+Có thể thấy, ung thư âm hộ tuy rất hiếm gặp nhưng rất nguy hiểm, tỷ lệ cứu sống rất thấp nếu không được phát hiện và cứu chữa kịp thời vào giai đoạn sớm.
+2. 5 loại ung thư âm hộ
+2.1. Ung thư biểu mô tế bào vảy âm hộ
+Ung thư biểu mô tế bào vảy là một loại ung thư da phổ biến nhất, chiếm khoảng 90% các ca ung thư âm hộ, hầu hết được tìm thấy ở môi âm hộ, bắt đầu trong các tế bào mỏng, phẳng (vảy) của bao phủ âm hộ. Trong nhiều trường hợp hiếm gặp hơn, nó có thể bắt đầu ở âm vật và tuyến Bartholin.
+2.2. Khối u ác tính âm hộ
+Khối u ác tính ở niêm mạc âm hộ chiếm từ 2% đến 4% các trường hợp ung thư âm hộ. Nó phát triển trong lớp lót của âm hộ và trong các tế bào gọi là melanocytes – những tế bào sản xuất sắc tố được tìm thấy chủ yếu ở da (tế bào hắc tố). Dù không phổ biến nhưng khối u ác tính âm hộ có thể phát triển thông qua tiếp xúc với bức xạ UV từ mặt trời.
+Đây là loại ung thư âm hộ phổ biến thứ 2 sau ung thư biểu mô tế bào vảy âm hộ. Nó thường được tìm thấy ở những phụ nữ không còn kinh nguyệt sau thời kỳ mãn kinh. Khối u ác tính có thể bắt đầu ở bất cứ đâu trên âm hộ nhưng nơi phổ biến nhất để nó bắt đầu là môi trong (môi âm hộ) và âm vật.
+Vì khối u ác tính có liên quan đến các tế bào hắc sắc tố và bức xạ UV từ mặt trời nên phụ nữ da trắng có nguy cơ mắc u ác tính âm hộ cao hơn phụ nữ da đen.
+2.3. Sarcoma
+Sarcoma là một loại ung thư âm hộ hiếm gặp, phát triển từ mô mềm, chẳng hạn như mỡ, cơ, dây thần kinh và các mô dưới da khác,…
+2.4. Ung thư biểu mô tuyến
+Ung thư biểu mô tuyến là một dạng ung thư âm hộ hiếm gặp khác phát triển từ các tế bào tuyến Bartholin sản xuất chất nhầy trong các tuyến âm hộ hoặc tuyến mồ hôi âm đạo. Ung thư biểu mô tuyến thường được tìm thấy ở 2 bên của cửa âm đạo.
+2.5. Ung thư biểu mô tế bào Basel (BCC)
+Ung thư biểu mô tế bào Basel hay còn gọi là ung thư biểu mô tế bào đáy, là một loại ung thư âm hộ thường nằm trong các tế bào ở lớp dưới đáy của da – một loại tế bào trong da tạo ra các tế bào da mới khi các tế bào cũ chết đi.
+Ung thư biểu mô tế bào Basel thường xuất hiện dưới dạng vết sưng hơi trong suốt trên da, mặc dù nó có thể ở các dạng khác. Ung thư biểu mô tế bào đáy xảy ra thường xuyên nhất trên các vùng da tiếp xúc với ánh nắng mặt trời, chẳng hạn như đầu và cổ nên ung thư biểu mô tế bào Basel ở âm hộ thường rất hiếm gặp.
+3. Virus HPV – Nguyên nhân gây ung thư âm hộ phổ biến nhất
+Nghiên cứu chỉ ra rằng nhiễm vi-rút HPV là một yếu tố nguy cơ gây ung thư âm hộ. HPV có thể là nguyên nhân của khoảng ⅓ đến ⅔ các trường hợp mắc ung thư âm hộ. Virus gây u nhú ở người (HPV) có thể lây nhiễm sang da ở các bộ phận khác nhau của cơ thể, bao gồm cả âm hộ. HPV có thể truyền từ người này sang người khác khi tiếp xúc da với da, thường là trong hoạt động tình dục bao gồm cả quan hệ tình dục bằng miệng. Quan hệ tình dục với người bị nhiễm HPV là đường lây nhiễm phổ biến nhất khiến bản thân bị nhiễm virus.
+Có nhiều chủng HPV khác nhau và một số loại có nhiều khả năng gây ung thư âm hộ hơn những loại khác. Các loại HPV phổ biến nhất liên quan đến ung thư âm hộ là: HPV type 16, 33 và 18.
+Ngoài ra, một số ít trường hợp được chẩn đoán mắc ung thư âm hộ do: hút thuốc, tuổi tác, suy yếu hệ thống miễn dịch, địa y cơ xương, các điều kiện tiền ung thư và chọn ung thư nguyên phát khác,…
+4. Ai có nguy cơ mắc ung thư âm hộ cao hơn?
+Bị nhiễm virus HPV
+Virus HPV, nhất là các chủng HPV thuộc phân nhóm các type HPV nguy cơ gây ung thư cao là các tác nhân hàng đầu gây ra ung thư âm hộ, điển hình là virus HPV type 16, 18 và 33.
+Bị HIV
+Các đối tượng bị mắc HIV khiến cho cơ thể bị suy giảm miễn dịch nghiêm trọng, làm cho các tác nhân gây ung thư âm hỗ dễ dàng xâm nhập và tấn công vào cơ thể hơn, điển hình là virus gây u nhú ở người (HPV).
+Hệ miễn dịch suy yếu
+Những người có hệ thống miễn dịch suy giảm có nguy cơ phát triển ung thư âm hộ cao hơn. Hệ thống miễn dịch suy giảm có thể do ức chế miễn dịch từ thuốc corticosteroid, cấy ghép nội tạng, điều trị các loại ung thư khác hoặc virus gây suy giảm miễn dịch ở người (HIV), virus gây ra hội chứng suy giảm miễn dịch mắc phải (AIDS). Khi một người có hệ thống miễn dịch suy giảm, cơ thể của họ có nhiều khả năng bị nhiễm trùng, bao gồm cả nhiễm trùng HPV.
+Độ tuổi trên 60
+Hầu hết những người được chẩn đoán mắc bệnh ung thư âm hộ đều trên 50 tuổi. Chỉ một tỷ lệ nhỏ ung thư âm hộ xâm lấn xảy ra ở những người dưới 40 tuổi.
+Tuy ung thư âm hộ cũng có thể xảy ra ở phụ nữ trẻ nhưng trường hợp này rất hiếm, trung bình mỗi năm có hơn 40% ca mắc mới là phụ nữ từ 75 tuổi trở lên.
+Đã được chẩn đoán mắc bệnh tân sinh biểu mô âm hộ (VIN)
+Tân sinh nội biểu mô âm hộ là một tình trạng tiền ung thư, có nghĩa là đang có những thay đổi đối với một số tế bào trong âm hộ không phải ung thư, nhưng có khả năng phát triển thành ung thư. Đây là một quá trình chậm rãi, phát triển từ từ và có thể mất đến hơn 10 năm và hầu hết sẽ không phát triển thành ung thư nhưng một số ít trường hợp sẽ phát triển thành ung thư âm hộ xâm lấn.
+Các triệu chứng của tân sinh biểu mô âm hộ tương tự như các triệu chứng của ung thư âm hộ và bao gồm ngứa âm hộ dai dẳng cùng các mảng đổi màu nổi lên. Có 2 loại VIN, lần lượt là:
+– VIN thông thường hoặc không phân biệt: thường ảnh hưởng đến phụ nữ dưới 50 tuổi và được cho là do nhiễm trùng HPV gây ra
+– VIN khác biệt (dVIN ): loại hiếm gặp hơn, thường ảnh hưởng đến phụ nữ trên 60 tuổi, liên quan đến tình trạng da ảnh hưởng đến âm hộ
+Tình trạng da như xơ cứng địa y âm hộ và lichen planus âm hộ
+Cả hai tình trạng lichen xơ cứng và lichen phẳng này đều khiến âm hộ bị ngứa, đau và đổi màu và có thể làm tăng cao khả năng ung thư âm hộ.
+Theo thống kê của Dịch vụ y tế quốc gia Hoa Kỳ (NHS Hoa Kỳ), ước tính rằng ít hơn 5% phụ nữ mắc một trong những tình trạng này sẽ phát triển thành ung thư âm hộ. Tuy nhiên, không rõ liệu việc điều trị các tình trạng này có làm giảm nguy cơ này hay không.
+Đã từng cắt bỏ tử cung đối với các khối u lành tính (không phải ung thư) hoặc ung thư.
+Theo kết quả nghiên cứu của Viện Y tế Quốc gia Hoa Kỳ (NIH Hoa Kỳ), các đối tượng đã từ cắt bỏ tử cung thường có nguy cơ lây nhiễm và phát triển virus HPV cao hơn so với những người bình thường, điển hình là virus HPV type 16. [3]
+Hút thuốc lá
+Tương tự như hầu hết các loại ung thư khác, hút thuốc lá có thể làm tăng nguy cơ phát triển ung thư âm hộ của một người. Bởi, khói thuốc lá giải phóng hơn 5.000 chất hóa học khác nhau và nhiều chất trong số này gây hại đến sức khỏe, trong đó có ít nhất 70 chất có thể gây ung thư.
+Các hóa chất độc hại này xâm nhập vào phổi, sau đó lan ra toàn bộ cơ thể theo đường hô hấp, những hóa chất này làm tổn thương DNA của các tế bào, khiến các DNA hoạt động bất thường. Các tế bào bất thường này phát triển và lây lan nhanh chóng, dần dần tích tụ thành khối u theo thời gian và gây ung thư âm hộ.
+Uống rượu
+Uống rượu làm cho hệ thống miễn dịch hoạt động kém hiệu quả hơn, ít có khả năng loại bỏ virus HPV khỏi cơ thể và dễ bị virus HPV gây hại hơn, nhất là những type HPV nguy cơ cao.
+5. Các dấu hiệu nhận biết ung thư âm hộ
+Ngứa, rát, đau hoặc chảy máu hoặc dịch mủ âm hộ bất thường, liên tục trong một khoảng thời gian dài;
+Màu da của âm hộ bị thay đổi, có thể đỏ. nâu sẫm hoặc trắng hơn và các mảng da âm hộ dày hơn trạng thái bình thường;
+Một khu vực trên âm hộ trông khác với bình thường – nó có thể sáng hơn hoặc sẫm màu hơn vùng da bình thường xung quanh, hoặc trông có màu đỏ hoặc hồng;
+Âm hộ xuất hiện các nốt phát ban, mụn cóc, vết loét, khối u sưng, đau;
+Đau nhức vùng xương chậu, nhất là khi đi tiểu hoặc quan hệ tình dục;
+Vùng bẹn gần âm hộ xuất hiện các hạch cứng, sưng đau;
+Nếu có mụn ruồi trên âm hộ, hình dạng hoặc màu sắc của chúng sẽ bị thay đổi.
+6. Có thể phòng ngừa ung thư âm hộ bằng cách nào?
+6.1. Tiêm ngừa vắc xin Gardasil và Gardasil 9 để ngăn ngừa virus HPV
+Tiêm ngừa vắc xin dự phòng HPV là phương pháp hiệu quả nhất hiện nay trong việc phòng ngừa nguy cơ lây nhiễm của các type HPV nguy cơ cao. Tiêm ngừa vắc xin phòng HPV giúp cơ thể tạo ra các kháng thể có khả năng ngăn chặn sự xâm nhập và gây hại của các chủng HPV nguy hiểm.
+Hệ thống Trung tâm tiêm chủng VNVC hiện đang có đầy đủ 2 loại vắc xin tiêm ngừa HPV với hiệu quả bảo vệ cao tại hơn 100 trung tâm trên toàn quốc, bao gồm vắc xin Gardasil và Gardasil 9. Gardasil là vắc xin tứ giá, với khả năng bảo vệ cơ thể khỏi 4 type HPV là HPV type 6, 11, 16 và 18. Vắc xin Gardasil được áp dụng tiêm cho trẻ em gái và phụ nữ từ 9 đến 26 tuổi.
+Vắc xin Gardasil 9 là vắc xin 9 giá, có khả năng vượt trội hơn với khả năng bảo vệ cơ thể khỏi 9 chủng virus HPV phổ biến và nguy hiểm nhất là HPV type 6, 11, 16, 18, 31, 33, 45, 52 và 58. Đây là những chủng HPV có nguy cơ gây ung thư cổ tử cung, ung thư vòm họng, ung thư hậu môn, ung thư trực tràng, mụn cóc sinh dục, các tổn thương tiền ung thư, loạn sản, các bệnh lý do nhiễm virus HPV và các biến chứng vô cùng nguy hiểm khác. Gardasil 9 là vắc xin bình đẳng giới, với phạm vi áp dụng tiêm chủng được mở rộng hơn so với Gardasil, gồm có trẻ em gái, trẻ em trai, thanh niên nam nữ, cộng đồng LGBT, MSM,… trong độ tuổi từ 9 đến 45 với hiệu quả bảo vệ hơn 90%.
+Khách hàng nữ tiêm vắc xin Gardasil 9 tại Hệ thống Trung tâm tiêm chủng VNVC phòng ung thư cổ tử cung, ung thư âm hộ, ung thư hậu môn, ung thư vòm họng,…
+6.2. Kiểm tra sức khỏe định kỳ
+Kiểm tra sức khỏe định kỳ có thể giúp bản thân kiểm soát được diễn biến tình trạng sức khỏe của mình và kịp thời, chủ động tiếp nhận sự tư vấn, chăm sóc và điều trị của các bác sĩ trong giai đoạn tiền ung thư âm hộ. Từ đó, có thể cản trở sự phát triển thành ung thư, giảm thiểu tối đa mức độ ảnh hưởng của các triệu chứng và biến chứng nguy hiểm do ung thư âm hộ gây ra. Nên thực hiện kiểm tra sức khỏe định kỳ 6 tháng 1 lần, bởi theo chu kỳ trung bình 6 tháng, cơ thể người lại có những thay đổi đáng kể.
+6.3. Sinh hoạt tình dục lành mạnh
+Virus HPV là nguyên nhân hàng đầu dẫn đến ung thư âm hộ và đường tình dục là con đường lây nhiễm virus HPV phổ biến nhất. Vì thể, cần phải phòng tránh sự lây truyền virus HPV trong quá trình quan hệ tình dục bằng cách duy trì thực hiện sinh hoạt tình dục lành mạnh.
+Duy trì mối quan hệ hôn nhân chung thủy 1 vợ – 1 chồng;
+Không quan hệ tình dục với nhiều bạn tình;
+Không quan hệ tình dục với các đối tượng mà bản thân chưa biết rõ tình trạng sức khỏe;
+Sử dụng các biện pháp an toàn như bao cao su, màng chắn miệng, không tiếp xúc với cơ quan sinh dục và các cơ quan dịch tiết chứa dịch thể của đối phương trong trường hợp quan hệ tình dục phát sinh ngoài ý muốn.
+6.4. Bỏ ngay các thói quen xấu
+Các thói quen xấu như hút thuốc lá, lạm dụng đồ uống chứa chất kích thích (rượu, bia),… cần được loại bỏ bằng cách cai thuốc, cai rượu bia, nhậu nhẹt,… Vì các thói quen này ảnh hưởng xấu đến sức khỏe hệ miễn dịch và khả năng hoạt động của các “chiến binh” kháng thể, khiến cơ thể không có khả năng chống lại sự xâm nhập và tấn công của các tác nhân gây ung thư. Thay vào đó, nên khởi lập cho bản một một thói quen sống và chế độ dinh dưỡng lành mạnh, tạo điều kiện cho hệ miễn dịch phát triển toàn diện hơn.
+7. Chẩn đoán ung thư âm hộ như thế nào?
+Khám sức khỏe và hỏi thăm tiền sử bệnh
+Đó là thông lệ tiêu chuẩn để bác sĩ kiểm tra vùng háng và vùng chậu của bạn, bao gồm cả bộ phận sinh dục. Một y tá có thể có mặt trong quá trình kiểm tra và bạn có thể yêu cầu một thành viên gia đình ở trong phòng.
+Bác sĩ cũng có thể khám bên trong cùng lúc để kiểm tra âm đạo và cổ tử cung của bạn. Thủ tục này liên quan đến việc bác sĩ đưa một dụng cụ được gọi là mỏ vịt vào âm đạo của bạn để cho phép bác sĩ kiểm tra âm đạo và cổ tử cung của bạn.
+Kiểm tra vùng chậu
+Kiểm tra vùng xương chậu bằng phương pháp quan sát, bác sĩ và các chuyên gia có thể phát hiện tình trạng ung thư lan rộng sang hậu môn (ung thư hậu môn).
+Soi cổ tử cung
+Bác sĩ có thể sử dụng một dụng cụ phóng đại gọi là máy soi cổ tử cung để kiểm tra chi tiết âm hộ và âm đạo của bạn. Máy soi cổ tử cung không đi vào âm đạo của bạn; bác sĩ của bạn nhìn qua nó từ bên ngoài. Bác sĩ bôi một chất lỏng lên âm hộ và âm đạo của bạn, giúp bạn dễ dàng nhìn thấy các tế bào bất thường qua ống soi cổ tử cung. Điều này có thể gây châm chích hoặc bỏng rát và bạn có thể bị tiết dịch màu nâu sau đó.
+Sinh thiết
+Sinh thiết là phương pháp lấy một mẫu mô tế bào nhỏ của âm hộ để kiểm tra dưới kính hiển vi để xem các tế bào có phải là ung thư hay không. Sau khi thực hiện lấy tế bào âm hộ, bác sĩ có thể khâu một vài mũi ở khu vực lấy sinh thiết và có thể bị chảy máu nhẹ, đau nhức trong vài ngày sau đó. Kết quả sinh thiết thường sẽ có sau từ 7 đến 10 ngày sau đó.
+Xét nghiệm sinh thiết âm hộ có thể xác định tình trạng ung thư của các tế bào âm hộ
+Một số chẩn đoán khác (chẩn đoán hình ảnh…)
+Hình ảnh ngực hoặc bụng có thể quét để kiểm tra các dấu hiệu ung thư trong các hạch bạch huyết hoặc các cơ quan khác, xác định xem các tế bào ung thư đã lan đến những khu vực đó hay chưa. Các xét nghiệm hình ảnh có thể bao gồm chụp X-quang, chụp cắt lớp vi tính (CT), chụp cộng hưởng từ (MRI) và chụp cắt lớp phát xạ positron (PET).
+8. Các phương pháp điều trị ung thư âm hộ
+8.1. Phẫu thuật
+Laser
+Quy trình này sử dụng một chùm ánh sáng tập trung làm bốc hơi một tổn thương da tiền ung thư. Nó không thể được sử dụng để điều trị một khối u xâm lấn.
+Cắt bỏ tế bào ung thư
+Phương pháp này sẽ loại bỏ các hạch bạch huyết ở bẹn đùi và cố gắng tìm xem ung thư có lan đến các hạch bạch huyết hay không.
+Cắt bỏ âm hộ
+Phẫu thuật cắt bỏ âm hộ là phương pháp cắt bỏ một phần hoặc toàn bộ âm hộ, tùy thuộc vào kích thước và sự lan rộng của khối u nguyên phát. Các phương pháp phẫu thuật cắt bỏ âm hộ khác nhau để điều trị ung thư âm hộ xâm lấn bao gồm:
+– Cắt bỏ triệt để cục bộ của âm hộ: Phẫu thuật này được thực hiện để loại bỏ khối u và một lượng lớn mô xung quanh, được gọi là rìa. Nó thường được sử dụng khi khối u có đường kính nhỏ hơn 4cm và là bệnh ở giai đoạn I hoặc giai đoạn II.
+– Phẫu thuật cắt âm hộ triệt để sửa đổi: Đây là một quy trình phẫu thuật cắt bỏ một phần của âm hộ, chẳng hạn như cắt bán phần triệt để, chỉ có 1 bên âm hộ được cắt bỏ.
+– Cắt âm hộ triệt để: Phẫu thuật này loại bỏ một phần hoặc toàn bộ âm hộ, cùng với các mô sâu bên dưới. Đây là một hoạt động rất hiếm gặp vì hầu hết các thủ thuật cắt bỏ âm hộ đều được sửa đổi theo một cách nào đó và các khối u rất lớn thường được điều trị bằng hóa trị.
+Các phản ứng phụ có thể xảy ra sau khi thực hiện phương pháp cắt bỏ âm hộ bao gồm: Viêm nhiễm, chảy máu đường tiết niệu, hình thành huyết khối; phù bạch huyết; hình dáng âm hộ bị thay đổi; lộ âm đạo bị hẹp; đau khi quan hệ tình dục; mệt mỏi, khó chịu; nước tiểu đổi màu;… Những tác dụng phụ này thường biến mất trong một khoảng thời gian nhất định, có thể sau vài tuần hoặc thậm chí là vài tháng.
+8.2. Xạ trị
+Xạ trị là phương pháp điều trị phổ biến đối với ung thư âm hộ, bằng cách sử dụng tia X năng lượng cao hoặc các hạt khác để tiêu diệt tế bào ung thư. Xạ trị có thể được sử dụng trước phẫu thuật để thu nhỏ kích thước khối u hoặc sau phẫu thuật để tiêu diệt bất kỳ tế bào ung thư nào còn sót lại trong hạch bạch huyết.
+Các tác dụng phụ chung của xạ trị có thể bao gồm mệt mỏi, các phản ứng da khác nhau từ nhẹ đến nặng, đau bụng và đi phân lỏng, tổn thương mô âm đạo khỏe mạnh hoặc thu hẹp âm đạo. Hầu hết các tác dụng phụ này sẽ biến mất ngay sau khi kết thúc điều trị. Tuy nhiên, âm đạo có thể bị giảm độ co giãn và thu hẹp đến mức không thể quan hệ tình dục.
+8.3. Hóa trị
+Hóa trị là quá trình sử dụng thuốc chống ung thư để tiêu diệt tế bào ung thư. Hóa trị có thể sử dụng thuốc diệt ung thư lưu thông trong dòng máu khắp cơ thể người bệnh và giết chết các tế bào đang trong quá trình phân tách thành 2 tế bào mới, ngăn chặn tế bào ung thư phát triển. Hoặc thuốc diệt ung thư cũng có thể được dùng tại chỗ, bôi trực tiếp vào khối ung thư hoặc được giữ trong một bộ phận của cơ thể.
+Hầu hết các tác dụng phụ của hóa trị là tạm thời và biến mất sau khi quá trình điều trị kết thúc. Đối với một số người, hóa trị liệu có thể gây ra những thay đổi lâu dài trong cơ thể hàng tháng hoặc hàng năm sau khi điều trị như rụng tóc, thiếu máu, làn da sạm đi, hệ tiêu hóa bị ảnh hưởng. Nhiều người cảm thấy mệt mỏi hơn bình thường trong một thời gian dài sau khi điều trị hóa trị, thậm chí bệnh nhân còn có thể bị suy giảm sức đề kháng trong một khoảng thời gian khá gian, có thể lên đến vài tháng.
+⇒ Xem thêm về: Ung thư âm đạo
+9. Các câu hỏi thường gặp về ung thư âm hộ
+Bị ung thư âm hộ có chết không?
+CÓ THỂ. Nếu ung thư âm hộ không được phát hiện và điều trị kịp thời, nguy cơ tử vong rất cao. Như trên đã đề cập, ước tính có khoảng 17.427 người trên toàn thế giới tử vong vì ung thư âm hộ vào năm 2020 và tỷ lệ sống sót chỉ khoảng 22% nếu ung thư đã lan đến một phần xa của cơ thể. Vì thế, cần thực hiện các phương pháp chẩn đoán và thăm khám sức khỏe định kỳ nhằm phát hiện mầm mống gây ung thư từ sớm để kịp thời điều trị, giảm thiểu mức độ gây hại đến sức khỏe người bệnh.
+Ung thư âm hộ có tái phát sau điều trị không?
+CÓ. Ung thư âm hộ có thể tái phát ở cùng một nơi (được gọi là tái phát cục bộ) hoặc tái phát gần đó (tái phát khu vực) hoặc tái phát ở một nơi khác (tái phát xa). Ung thư âm hộ tái phát xảy ra ở trung bình 24% trường hợp sau khi điều trị ban đầu.
+Khi ung thư âm hộ tái phát sau điều trị, vẫn có thể sử dụng các phương pháp trên để tiếp tục điều trị tái phát. Phương thức điều trị được sử dụng phụ thuộc vào vị trí và mức độ tái phát. Hầu hết các đợt tái phát xảy ra tại chỗ gần bờ cắt bỏ ban đầu hoặc tại các hạch bạch huyết vùng bẹn hoặc vùng chậu cùng bên. Tái phát âm hộ cục bộ được điều trị bằng phẫu thuật cắt bỏ triệt để cục bộ và hạch bẹn mang lại tỷ lệ chữa khỏi tuyệt vời là 70%. Với tái phát vùng chậu trung tâm với xạ trị trước đó liên quan đến niệu đạo, âm đạo trên và trực tràng, cắt bỏ toàn bộ vùng chậu. Sự tái phát khu vực của các hạch bạch huyết vùng bẹn và vùng chậu đã được chứng minh là có tiên lượng xấu với tỷ lệ tử vong cao.
+Bị ung thư âm hộ có quan hệ được không?
+KHÔNG. Quan hệ tình dục khi đang bị ung thư âm hộ có thể sẽ gia tăng nguy cơ lây truyền tác nhân gây bệnh nguy hiểm – virus u nhú ở người (HPV) cho bạn tình. Đồng thời, khi quan hệ tình dục vào thời điểm bị ung thư âm hộ, người bệnh rất có thể sẽ bị tổn thương âm đạo trầm trọng, khiến các triệu chứng trở nên nghiêm trọng và nặng nề hơn, khiến cho hiệu quả điều trị tụt giảm.
+Ung thư âm hộ là một loại ung thư hiếm gặp, thường xuất hiện ở những đối tượng lớn tuổi và những người có tiền sử bệnh lý ở vùng tiểu nhưng đây là bệnh lý thường không hiển thị rõ ràng về triệu chứng ban đầu, nếu không được phát hiện và điều trị kịp thời, bệnh có thể di căn sang các bộ phận khác trong cơ thể và đe dọa tính mạng của người bệnh.

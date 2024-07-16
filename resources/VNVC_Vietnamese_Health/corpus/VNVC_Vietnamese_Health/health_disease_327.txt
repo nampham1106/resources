@@ -1,0 +1,76 @@
+# doc_id = health_disease_327
+# url = https://vnvc.vn/khang-the/
+# date = 17/05/2024
+Kháng thể là gì? 5 loại kháng thể và chức năng của nó
+Kháng thể giúp cơ thể chống lại các mầm bệnh đến từ môi trường bên ngoài như virus, vi khuẩn, nấm,… Hệ thống miễn dịch tạo ra năm loại kháng thể, mỗi loại có những phương pháp riêng biệt để bảo vệ cơ thể bạn chống lại bệnh tật và nhiễm trùng. Tuy nhiên không phải ai cũng hiểu rõ về các loại kháng thể và chức năng của từng loại.
+BS Phạm Hồng Thuyết – Quản lý Y khoa vùng 1 Mekong, Hệ thống Trung tâm tiêm chủng VNVC cho biết: “Kháng thể (antibody) là globulin miễn dịch – một protein lớn hình chữ Y được sản xuất bởi tế bào B và được hệ thống miễn dịch sử dụng để xác định và vô hiệu hóa mầm bệnh. Kháng thể được phân loại thành năm loại theo vị trí của chúng. Mỗi loại được dán nhãn bằng một chữ cái, kèm theo chữ viết tắt của thuật ngữ “immunoglobulin” (Ig). Năm lại kháng thể lần lượt là: IgG, IgA, IgM, IgE, IgD”.
+Mục lụcKháng thể là gì?1. Đặc điểm của kháng thể2. Bản chất của kháng thể là gì?3. Tế bào sản xuất kháng thể là tế bào nào?Sự hình thành của kháng thể5 loại kháng thể và chức năng của chúngVai trò, chức năng của kháng thể1. Liên kết kháng nguyên2. Kích hoạt hệ thống bổ thể3. Huy động tế bào miễn dịchTạo kháng thể phòng bệnh với vắc xinSẽ như thế nào nếu thiếu hụt kháng thể?Hướng dẫn tăng cường hệ miễn dịch1. Ngủ đủ giấc2. Thực đơn dinh dưỡng3. Tập thể dục hằng ngày4. Tiêm vắc xin đầy đủNhững ứng dụng y học của kháng thểKháng thể là gì?
+Kháng thể là vũ khí quan trọng của hệ miễn dịch, giúp cơ thể chống lại bệnh tật bằng cách phát hiện virus, vi khuẩn và các mầm bệnh khác (vi sinh vật gây bệnh) và tìm cách tiêu diệt chúng. Mỗi kháng thể do hệ thống miễn dịch tạo ra sẽ liên kết với một kháng nguyên cụ thể, có hình dạng phân tử phù hợp và sau đó tiêu diệt mầm bệnh hoặc đánh dấu chúng để các tế bào miễn dịch khác nhận ra. [1]
+1. Đặc điểm của kháng thể
+Mỗi kháng thể thường được tạo thành từ 2 chuỗi H (chuỗi nặng: trọng lượng phân tử nặng) và 2 chuỗi L (chuỗi nhẹ: trọng lượng phân tử nhẹ) nối với nhau tạo thành phân tử hình chữ Y. Hầu hết các kháng thể tồn tại dưới dạng monome, trong đó chúng có một tiểu đơn vị hình chữ “Y”, nhưng một số có thể tồn tại dưới dạng dimer (hai tiểu đơn vị) hoặc pentamer (năm tiểu đơn vị).
+Mỗi đầu chữ “Y” của kháng thể chứa một paratope (cấu trúc tương tự như ổ khóa) dành riêng cho một epitope cụ thể (tương tự như chìa khóa) trên kháng nguyên, cho phép hai cấu trúc này liên kết với nhau một cách chính xác. Mặc dù cấu trúc chung của các kháng thể rất giống nhau, nhưng một vùng nhỏ ở đầu protein cực kỳ khác nhau, cho phép tồn tại hàng triệu kháng thể với các vị trí liên kết kháng nguyên khác nhau. Vùng này được gọi là vùng siêu biến.
+2. Bản chất của kháng thể là gì?
+Bản chất của kháng thể là globulin miễn dịch – một protein lớn hình chữ Y được sản xuất bởi tế bào B và được hệ thống miễn dịch sử dụng để xác định và vô hiệu hóa mầm bệnh.
+Bản chất của kháng thể là được hệ thống miễn dịch sử dụng để xác định và vô hiệu hóa mầm bệnh.
+3. Tế bào sản xuất kháng thể là tế bào nào?
+Kháng thể được sản xuất bởi các tế bào B (tế bào bạch cầu chuyên biệt). Khi một kháng nguyên tiếp xúc với tế bào B sẽ khiến tế bào B phân chia và nhân bản. Những tế bào B nhân bản (hay tế bào plasma) sẽ giải phóng hàng triệu kháng thể vào hệ thống máu và bạch huyết.
+Các kháng thể có ở nhiều vùng khác nhau trên cơ thể, bao gồm da, phổi, nước mắt, nước bọt và thậm chí cả sữa mẹ. Trên thực tế, lượng kháng thể cao có trong sữa non (một chất lỏng đặc do vú tiết ra trong vài ngày sau khi sinh). Đó là lý do tại sao việc nuôi con bằng sữa mẹ (cho con bú) có thể tăng cường hệ thống miễn dịch của bé.
+Sự hình thành của kháng thể
+Quá trình hình thành kháng thể đi qua 3 giai đoạn chính như sau:
+Giai đoạn 1 – Cân bằng: Trong giai đoạn này, kháng nguyên cần phải được phân phối đều giữa mạch máu và ngoài mạch máu để kích thích phản ứng miễn dịch. Quá trình này xảy ra nhanh chóng.
+Giai đoạn 2 – Chuyển hoá và phân rã: Ở giai đoạn này, các tế bào và enzym trong cơ thể tham gia vào việc chuyển hoá kháng nguyên. Kháng nguyên bị tế bào và đại thực bào bắt giữ. Thời gian kéo dài của giai đoạn này phụ thuộc vào hệ thống miễn dịch và sức khỏe của cơ thể.
+Giai đoạn 3 – Loại bỏ miễn dịch: Khi kháng thể được tổng hợp, chúng sẽ kết hợp với kháng nguyên tạo thành phức hợp kháng nguyên – kháng thể. Sau đó, chúng sẽ bị tiêu diệt và kháng thể sẽ tiếp tục tồn tại trong máu để đợi phản ứng miễn dịch tiếp theo.
+5 loại kháng thể và chức năng của chúng
+Kháng thể được phân loại thành năm loại theo vị trí của chúng. Mỗi loại được dán nhãn bằng một chữ cái, kèm theo chữ viết tắt của thuật ngữ “immunoglobulin” (Ig). [2]
+LOẠI KHÁNG THỂ
+CHỨC NĂNG
+Kháng thể IgG
+(Immunoglobulin G)
+IgG là kháng thể chính trong máu, có khả năng liên kết mạnh mẽ với vi khuẩn và độc tố, đồng thời đảm nhận vai trò quan trọng trong hệ thống phòng vệ sinh học. Đây là loại kháng thể duy nhất có thể đi qua nhau thai và IgG được truyền từ cơ thể người mẹ để bảo vệ trẻ sơ sinh. Hầu hết các kháng thể được phê duyệt làm phương pháp điều trị đều có nguồn gốc từ IgG hoặc các biến thể của IgG.
+Kháng thể IgA
+(Immunoglobulin A)
+Trong máu, IgA chủ yếu hiện diện dưới dạng đơn phân (hình chữ Y), nhưng nó tạo thành chất nhị trùng (sự kết hợp của 2 Y) trong các chất tiết như dịch ruột, nước mũi và nước bọt, để ngăn chặn sự xâm nhập của vi khuẩn từ chất nhầy. Nó cũng có trong sữa mẹ và bảo vệ đường tiêu hóa của trẻ sơ sinh khỏi bị nhiễm vi khuẩn và virus.
+Kháng thể IgM
+(Immunoglobulin M)
+IgM được cấu tạo từ năm đơn vị cấu trúc cơ bản hình chữ Y và được phân bố chủ yếu vào máu. Kháng thể IgM hoạt động như tuyến phòng thủ đầu tiên chống lại nhiễm trùng. Chúng cũng đóng một vai trò lớn trong việc điều hòa miễn dịch.
+Kháng thể IgE
+(Immunoglobulin E)
+Người ta tin rằng IgE ban đầu có liên quan đến phản ứng miễn dịch đối với ký sinh trùng. Được tìm thấy chủ yếu ở da, phổi và màng nhầy, kháng thể IgE liên kết với tế bào mast (một loại tế bào bạch cầu) giải phóng histamine và các hóa chất khác vào máu. IgE được cho là có liên quan đến dị ứng
+Kháng thể IgD
+(Immunoglobulin D)
+IgD hiện diện trên bề mặt tế bào B và được cho là có vai trò trong việc kích thích sản xuất kháng thể và ngăn ngừa nhiễm trùng đường hô hấp.
+Vai trò, chức năng của kháng thể
+Trong phản ứng miễn dịch, kháng thể đảm nhận 3 vai trò quan trọng, bao gồm:
+1. Liên kết kháng nguyên
+Các kháng thể có chức năng nhận diện và đánh dấu các vật thể lạ đi vào cơ thể với một protein đặc hiệu. Trong phản ứng miễn dịch, kháng thể được gắn vào kháng nguyên để trung hòa và ngăn sự bám dính của độc tế lên bề mặt của tế bào.
+Từ đó, các tế bào tránh được tình trạng rối loạn do độc tố gây ra, đồng thời hạn chế được mầm bệnh. Tùy từng tác nhân gây bệnh mà hệ thống miễn dịch sẽ điều phối các kháng thể đặc hiệu khác nhau.
+Ví dụ, virus sử dụng protein trên vỏ ngoài để bám vào tế bào trong cơ thể. Khi đó hệ thống miễn dịch sẽ điều phối các kháng thể kháng protein capsid để ngăn chặn virus gắn vào tế bào đích.
+2. Kích hoạt hệ thống bổ thể
+Hoạt hóa bổ thể là một trong các cơ chế quan trọng giúp kháng thể bảo vệ cơ thể. Bổ thể có thể hiểu đơn giản là một tập hợp của các protein huyết tương. Khi được hoạt hóa bởi kháng thể, bổ thể sẽ có khả năng tiêu diệt các tác nhân gây bệnh xâm nhập cơ thể.
+3. Huy động tế bào miễn dịch
+Sau khi gắn vào kháng nguyên ở đầu biến đổi, các kháng thể liên kết với tế bào miễn dịch ở đầu định hằng. Khi đó, kháng thể có khả năng gắn với 1 vi khuẩn và 1 đại thực bào hay 1 tế bào bạch cầu để kích hoạt quá trình thực bào. Thực bào diễn ra với mục đích phá hủy hoặc vô hiệu hóa độc tố vi khuẩn hay tế bào ung thư gắn với kháng nguyên đó.
+Tạo kháng thể phòng bệnh với vắc xin
+Tiêm vắc xin được xem là cách phòng bệnh chủ động, bằng cách bắt chước quá trình gây bệnh tự nhiên của các tác nhân gây bệnh (như vi khuẩn, virus, nấm…) để cơ thể chống lại sự tấn công của các mầm bệnh tương tự trong tương lai. Cụ thể, khi đưa vắc xin vào cơ thể sẽ kích thích hệ thống miễn dịch sản xuất kháng thể để chủ động tấn công, tiêu diệt mầm bệnh.
+Sẽ như thế nào nếu thiếu hụt kháng thể?
+Thiếu hụt kháng thể có thể làm suy yếu miễn dịch, khiến hệ miễn dịch không đủ “vũ khí” để chống lại khi các tác nhân gây bệnh xâm nhập. Hệ miễn dịch suy yếu cũng đồng nghĩa với việc hàng rào bảo vệ cơ thể bị chọc thủng, khiến cơ thể dễ mắc bệnh hơn, biến các bệnh thông thường trở nên nghiêm trọng, quá trình điều trị kéo dài hơn.
+Đặc biệt ở đối tượng trẻ nhỏ, nếu hệ miễn dịch kém sẽ dễ mắc bệnh tiêu chảy, bệnh hô hấp và nhiều bệnh truyền nhiễm nguy hiểm khác. Người cao tuổi cũng dễ bị viêm nhiễm, thời gian mắc bệnh lâu và khó phục hồi. Phụ nữ mang thai nếu mắc bệnh có thể đe dọa sức khỏe, tính mạng của cả mẹ lẫn con, con sinh ra có nguy cơ mắc dị tật bẩm sinh.
+Thiếu hụt kháng thể có thể làm suy yếu miễn dịch, khiến cơ thể dễ mắc bệnh hơn, biến các bệnh thông thường trở nên nghiêm trọng, quá trình điều trị kéo dài hơn.
+Hướng dẫn tăng cường hệ miễn dịch
+Để tăng cường hệ miễn dịch, chúng ta có thể thực hiện một số biện pháp đơn giản như bổ sung dinh dưỡng đầy đủ hay cải thiện thói quen sống hằng ngày.
+1. Ngủ đủ giấc
+Giúp cơ thể phục hồi và tăng cường miễn dịch tự nhiên, ngược lại thiếu ngủ sẽ khiến sức khỏe giảm sút đồng thời tăng nguy cơ mắc bệnh. Trẻ sơ sinh và trẻ nhỏ cần ngủ từ 10-14 giờ mỗi ngày, thanh thiếu niên cần 8-10h và người lớn cần ngủ 7 giờ trở lên. Để có một giấc ngủ ngon, bạn nên hạn chế uống trà, cà phê trước khi đi ngủ. Tập thói quen ngủ đúng giờ và tránh sử dụng các thiết bị điện tử trước giờ ngủ.
+2. Thực đơn dinh dưỡng
+Trái cây, rau, các loại hạt, cây họ đậu là những thực phẩm giàu chất xơ và chất chống oxy hóa có khả năng kháng viêm và hỗ trợ cơ thể chống lại các mầm bệnh. Chất xơ trong thực phẩm còn giúp nuôi dưỡng đường ruột khỏe mạnh, cải thiện khả năng miễn dịch, ngăn chặn mầm bệnh có hại vào cơ thể qua đường tiêu hóa.
+Các trái cây thuộc họ cam, quýt, ớt chuông đỏ giúp tăng cường đề kháng, và giảm thời gian mắc bệnh. Ngoài ra, các chất béo tốt có trong dầu ô liu, cá hồi giúp kháng viêm, giảm nguy cơ mắc bệnh mạn tính như tim mạch, tiểu đường.
+Thực đơn dinh dưỡng giúp cải thiện khả năng miễn dịch của cơ thể.
+3. Tập thể dục hằng ngày
+Không chỉ bổ sung dinh dưỡng đầy đủ, tập thể dục thường xuyên còn giúp hệ miễn dịch hoạt động tốt hơn, tăng tính dẻo dai, cho bạn một cơ thể khỏe mạnh. Không cần phải tập các bài thể dục khó, cường độ cao để mang lại hiệu quả. Các bài thể dục đơn giản như đi bộ, yoga, đạp xe hay bơi lội cũng mang lại hiệu quả tuyệt vời cho sức khỏe.
+4. Tiêm vắc xin đầy đủ
+Khi nhiễm virus hoặc vi khuẩn có khả năng gây bệnh, cơ thể chúng ta phải mất một thời gian dài để vượt qua quá trình nhiễm bệnh. Trong quá trình đó, bệnh có thể gây những biến chứng nghiêm trọng thậm chí đe dọa mạng sống người bệnh. Nếu chủ động phòng bệnh bằng vắc xin, chỉ một thời gian ngắn sau tiêm, vắc xin sẽ kích thích hệ miễn dịch sản sinh kháng thể cần thiết chống lại mầm bệnh. Từ đó, giảm thiểu nguy cơ mắc các bệnh tương tự, biến chứng và tử vong trong tương lai.
+Để được tư vấn các loại vắc xin cần thiết cho trẻ em, người lớn theo độ tuổi, bạn nên đến trực tiếp các trung tâm tiêm chủng uy tín như VNVC để được các bác sĩ giàu kinh nghiệm khám sàng lọc và chỉ định tiêm chủng phù hợp.
+⇒ Xem thêm: 12 cách tăng cường hệ miễn dịch cho cơ thể hiệu quả
+Quy trình tiêm chủng khép kín 8 bước, vắc xin được bảo quản trong kho lạnh chuẩn GSP, giá vắc xin bình ổn nhiều ưu đãi và quà tặng giúp nâng cao trải nghiệm tiêm chủng cả quý Khách hàng. Để đặt lịch tiêm hoặc cần tư vấn thêm về dịch vụ tiêm chủng tại VNVC, quý Khách vui lòng liên hệ hotline 028 7102 6595 hoặc qua fanpage trungtamtiemchungvnvc.
+Tiêm vắc xin giúp cơ thể tạo ra nguồn kháng thể cần thiết chống lại mầm bệnh.
+Những ứng dụng y học của kháng thể
+Không chỉ bảo vệ cơ thể trước các tác nhân gây bệnh truyền nhiễm, kháng thể còn có nhiều ứng dụng trong lĩnh vực y học, bao gồm: điều trị bệnh tự miễn như viêm khớp dạng thấp hoặc lupus, chống ung thư với kháng thể đơn dòng. Kháng thể đơn dòng còn được sử dụng để chẩn đoán (như thử thai, ELISA). Đôi khi các kháng thể dùng để chống lại bệnh truyền nhiễm do virus như Coronavirus… Các kháng thể được ứng dụng trong điều trị là IgG hoặc globulin miễn dịch loại G.
+Kháng thể được chia thành 5 loại, mỗi loại có chức năng khác nhau trong việc bảo vệ cơ thể chống lại mầm bệnh. Để nói không với bệnh tật cần tập thói quen ngủ đủ giấc, ăn đầy đủ dinh dưỡng, tập thể dục điều đặn và quan trọng nhất là chủ động phòng bệnh bằng vắc xin.

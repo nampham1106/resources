@@ -1,0 +1,33 @@
+# doc_id = health_disease_706
+# url = https://vnvc.vn/tiem-phong-dai-khong-dung-lich/
+# date = 07/04/2023
+Tiêm phòng dại không đúng lịch có sao không? Tiêm muộn thế nào?
+Dại là căn bệnh có tỷ lệ tử vong gần như 100% khi phát bệnh. Vậy tiêm phòng dại không đúng lịch sẽ dẫn đến những hiểm họa nghiêm trọng như thế nào?
+Mục lụcCó cần thiết tiêm phòng dại sau khi bị động vật cắn?Lịch tiêm phòng dạiTiêm phòng dại không đúng lịch có sao không?Tiêm phòng dại không đúng lịch có làm giảm tác dụng của vắc xin?Có cần tiêm lại từ đầu nếu tiêm phòng dại sai lịch không?Có cần thiết tiêm phòng dại sau khi bị động vật cắn?
+Theo hướng dẫn của Tổ chức Y tế Thế giới và Bộ Y tế, virus dại có khả năng xâm nhập vào cơ thể con người thông qua vết cào, vết cắn, vết liếm từ động vật bị dại. Tuy nhiên, phần lớn người dân thường có tâm lý chủ quan với chó, mèo, động vật nuôi và cho là không nguy hiểm. Vật nuôi đã được tiêm phòng dại nên nếu bị cắn, cào thì cũng không sao, không cần thiết phải tiêm phòng dại sau phơi nhiễm.
+Thực tế, nguy cơ mắc dại là như nhau. Nếu động vật nuôi đã được tiêm ngừa dại, nguy cơ mắc bệnh dại sẽ thấp hơn nhưng thấp không có nghĩa là không có khả năng mắc bệnh. Hiệu quả phòng bệnh dại sau khi vật nuôi tiêm phòng có thể không đạt 100%; nhưng khi phát bệnh dại, tỷ lệ tử vong của người và động vật gần như 100%.
+Virus dại có khả năng xâm nhập vào cơ thể con người thông qua vết cào, vết cắn
+Lịch tiêm phòng dại
+Phác đồ, lịch tiêm phòng dại áp dụng cho các đối tượng có nguy cơ cao tiếp xúc với virus dại như nhân viên phòng thí nghiệm, cán bộ thú y, người làm nghề giết mổ, người thường xuyên du lịch hoặc sinh sống tại nơi có bệnh dại lưu hành.
+Lịch tiêm vắc xin dại dự phòng trước phơi nhiễm gồm 3 mũi:
+Tiêm vào các ngày 0-7-21 hoặc ngày thứ 28.
+Tiêm nhắc lại: Chỉ tiêm nhắc lại 1 liều khi xét nghiệm chuẩn độ kháng thể dại ở mức dưới 0,5UI/ml.
+Phác đồ điều trị dự phòng sau phơi nhiễm cho người chưa tiêm phòng dại
+Người chưa tiêm dự phòng:
+Tiêm 4 mũi: N0 – N3 – N7 – N28
+Tiêm 5 mũi: N0 – N3 – N7- N14 – N28
+Tiêm 4 hoặc 5 mũi tùy thuộc vào con vật sau 10 ngày theo dõi có chết, bệnh hay không theo dõi được hay không.
+Người đã được tiêm dự phòng trước phơi nhiễm, hoặc sau phơi nhiễm ít nhất 3 mũi vắc xin dại có thể: Tiêm 2 mũi vào các ngày 0-3.
+Vắc xin phòng dại được chỉ định tiêm dự phòng trước phơi nhiễm cho nhóm nguy cơ cao và sử dụng điều trị dự phòng sau phơi nhiễm
+Tiêm phòng dại không đúng lịch có sao không?
+Tiêm phòng dại không đúng lịch thì hiệu quả phòng bệnh sẽ không cao, thậm chí rất nguy hiểm.
+Nếu trong trường hợp tiêm vắc xin dự phòng trước phơi nhiễm (khi chưa bị động vật cào/ cắn), bạn nên cố gắng tiêm phòng sau thời gian hẹn càng sớm càng tốt để đảm bảo hiệu quả bảo vệ của vắc xin.
+Nếu trong trường hợp tiêm vắc xin sau phơi nhiễm (sau khi bị động vật cào/ cắn), tiêm phòng dại không đúng lịch có thể ẩn chứa hiểm họa khôn lường. Vì bệnh dại thường diễn biến rất nhanh, thông thường chỉ kéo dài từ 2- 6 ngày, đôi khi lâu hơn và tỷ lệ bệnh nhân tử vong khi phát dại là 100%; nếu không được tiêm phòng kịp thời, khả năng tử vong do dại là không thể tránh khỏi. (1)
+Tiêm phòng dại không đúng lịch có làm giảm tác dụng của vắc xin?
+Trong quá trình tiêm phòng vắc xin, trẻ em và người lớn có thể mắc các bệnh cấp tính, bị sốt, không đảm bảo điều kiện tiêm chủng khám sàng lọc trước tiêm hoặc vì một nguyên nhân nào khác như đi du lịch không thể tiêm phòng theo đúng lịch hẹn.
+Một số loại vắc xin có nhiều hơn 2 liều tiêm cơ bản và thường khoảng cách tối thiểu giữa 2 liều vắc xin cùng loại là 4 tuần, không có khoảng cách tối đa; do đó nếu tiêm phòng vắc xin trễ lịch thì vẫn có thể tiếp tục tiêm càng sớm càng tốt sau thời gian trong lịch hẹn hoặc khi sức khỏe đã hồi phục.
+Tiêm vắc xin dại muộn vẫn sẽ có hiệu quả bảo vệ sau tiêm và không mất hiệu lực của những liều tiêm trước, tuy nhiên tiêm phòng vắc xin dại theo đúng phác đồ chỉ định luôn được khuyến cáo để mang lại hiệu quả bảo vệ tối ưu.
+Tiêm phòng vắc xin dại theo đúng phác đồ chỉ định luôn được khuyến cáo để mang lại hiệu quả bảo vệ tối ưu
+Có cần tiêm lại từ đầu nếu tiêm phòng dại sai lịch không?
+Hiện nay, nếu tiêm phòng dại không đúng lịch cũng không phải tiêm lại từ đầu phác đồ tiêm vắc xin, tuy nhiên cần duy trì tiêm vắc xin đúng lịch. Trẻ em và người lớn nên cố gắng đảm bảo khoảng cách giữa các mũi tiêm phòng dại đúng lịch. Nếu vì một lý do nào đó khiến việc tiêm phòng bị trì hoãn, cũng sẽ không làm giảm nồng độ kháng thể sau khi hoàn thành các mũi tiêm, dù hiệu lực bảo vệ có thể không đạt được cho đến khi đủ số liều tiêm theo quy định. Trừ vắc xin thương hàn dạng uống, bất kỳ sự gián đoạn lịch tiêm nào cũng không đòi hỏi phải tiêm lại từ đầu hoặc tiêm bổ sung một liều tiêm khác.
+Tiêm phòng dại không đúng lịch có sao không là trăn trở của rất nhiều người dân. Như bài viết đã phân tích, tiêm phòng đúng lịch bao giờ cũng sẽ phát huy hiệu quả bảo vệ bệnh tối ưu, tránh được nguy cơ tử vong gần như 100% khi phát dại. Liên hệ hotline 028 7102 6595 hoặc fanpage https://www.facebook.com/trungtamtiemchungvnvc để được tư vấn và đặt lịch tiêm vắc xin phòng dại.

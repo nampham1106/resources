@@ -1,0 +1,76 @@
+# doc_id = health_disease_346
+# url = https://vnvc.vn/benh-ly-truc-trung-nguyen-nhan-trieu-chung-dieu-tri-va-cach-phong-ngua/
+# date = 13/08/2020
+Bệnh lỵ trực trùng: nguyên nhân, triệu chứng, điều trị và cách phòng ngừa
+Bệnh lỵ trực trùng là bệnh truyền nhiễm lây qua đường tiêu hóa do trực khuẩn lỵ gây nên. Bệnh thường có diễn biến lành tính, nhưng nếu không được điều trị kịp thời sẽ dẫn đến những biến chứng phức tạp hoặc thậm chí là tử vong. Vì vậy, bạn cần nắm rõ phương pháp phòng ngừa và triệu chứng của bệnh lỵ trực trùng để có thể chủ động phòng bệnh và điều trị kịp thời, giảm thiểu tối đa nguy cơ biến chứng.
+Bài viết được tư vấn chuyên môn Bác sĩ Trương Hữu Khanh, Trưởng khoa Nhiễm – Thần kinh, BV Nhi Đồng 1, TP. HCM, Cố vấn chuyên môn Trung tâm Tiêm chủng cho Trẻ em và Người lớn VNVC.
+Mục lụcBệnh lỵ trực trùng là gì?Những dấu hiệu và triệu chứng lỵ trực trùngNguyên nhân gây lỵ trực trùng và những yếu tố nguy cơBệnh lỵ trực trùng lây lan như thế nào?Bệnh lây trực tiếp từ người sang người qua đường ăn uốngBệnh lỵ trực trùng lây gián tiếp qua đường tiêu hóaCác giai đoạn phát triển của bệnh lỵ trực trùngBệnh lỵ trực trùng được chẩn đoán, xét nghiệm như thế nào?Bệnh trực trùng được điều trị như thế nào?Biến chứng của bệnh lỵ trực trùngPhòng chống lỵ trực trùng như thế nào?Bệnh lỵ trực trùng là gì?
+Lỵ trực trùng là bệnh nhiễm khuẩn đường ruột cấp tính do trực khuẩn Shigella gây ra. Bệnh dễ phát thành dịch, diễn biến thường lành tính, ít có nguy cơ tử vong. Tổ chức Y tế thế giới (WHO) từng đưa ra cảnh báo về số trường hợp mắc lỵ trực trùng trên toàn thế giới. Theo đó, bệnh thường xuất hiện nhiều nhất ở các nước có khí hậu nhiệt đới và các nước kém phát triển. Trung bình hàng năm có khoảng 140 triệu người mắc, 600.000 người tử vong do bệnh lỵ trực trùng. Việt Nam là nước có tỷ lệ mắc bệnh cao với những chủng gây bệnh thường gặp nhất hiện nay là S. flexneri và S. sonnei.
+Theo Bác sĩ Trương Hữu Khanh, Trưởng khoa Nhiễm – Thần kinh, BV Nhi Đồng 1, TP. HCM, Cố vấn chuyên môn Trung tâm Tiêm chủng cho Trẻ em và Người lớn VNVC cho biết: “Bệnh lỵ trực trùng rất dễ gia tăng và bùng phát trong mùa hè, khi thời tiết nắng nóng, cùng với bão lũ, bệnh chủ yếu lây lan thông qua môi trường, ăn uống và tiếp xúc. Hiện tại vẫn chưa có thuốc điều trị đặc hiệu và vắc xin phòng ngừa bệnh lỵ trực trùng, nên người dân cần chủ động phòng bệnh và đến ngay các cơ sở y tế để được theo dõi và điều trị khi xuất hiện các triệu chứng bệnh”.
+Trực khuẩn Shigella là nguyên nhân gây ra bệnh lỵ trực trùng
+Những dấu hiệu và triệu chứng lỵ trực trùng
+Bệnh lỵ trực trùng thường có diễn biến bệnh nhanh và xuất hiện triệu chứng từ 1 đến 3 ngày sau khi trực khuẩn lỵ xâm nhập cơ thể. Ở một số trường hợp, các triệu chứng có thể xuất hiện lâu hơn, thậm chí không có dấu hiệu của bệnh lý.
+Thông thường, người bệnh lỵ trực trùng có những dấu hiệu rất dễ nhận biết như:
+Sốt với nhiệt độ dao động từ 37,5 đến 39 độ C;
+Đau co thắt theo từng cơn ở vùng bụng;
+Tiêu chảy nhiều nước;
+Buồn nôn hoặc nôn mửa;
+Đau cơ, mỏi cơ;
+Có máu hoặc chất nhầy trong phân.
+Một số trường hợp không có triệu chứng sau khi trực khuẩn lỵ xâm nhập cơ thể, nhưng phân của họ vẫn có thể là nguồn lây cho đến vài tuần sau.
+Sốt, đau bụng, có máu hoặc chất nhầy trong phân là triệu chứng thường gặp của bệnh lỵ trực trùng
+Nguyên nhân gây lỵ trực trùng và những yếu tố nguy cơ
+Có nhiều nguyên nhân dẫn đến bệnh lỵ trực trùng, trong đó có 3 yếu tố chính:
+Ô nhiễm nguồn nước: thời tiết bất thường vào mùa hè, nắng nóng gay gắt, cùng với nhiều đợt mưa bão lớn trên khắp cả nước khiến môi trường bị ô nhiễm nặng nề. Vô số các loại sinh vật từ đất, bụi, rác thải hòa vào dòng nước, tràn ra nhiều nơi. Những dòng nước bẩn này mang theo hàng tỷ trực khuẩn Shigella “trộn” vào các bể nước ăn, bể tắm, nhà cửa, khu vực công cộng… gây bệnh lỵ trực trùng cho con người.
+Tiếp xúc trực tiếp với trực khuẩn Shigella: nếu không sát khuẩn tay với xà phòng sau khi thay tã lót cho em bé bị nhiễm khuẩn Shigella, người chăm sóc bé có thể bị nhiễm bệnh lỵ trực khuẩn.
+Ăn thực phẩm bị nhiễm khuẩn: bệnh có thể lấy truyền thông qua thực phẩm bị nhiễm khuẩn. Chẳng hạn như người chế biến thực phẩm mắc bệnh lỵ trực trùng có thể truyền vi khuẩn cho những người ăn thực phẩm hoặc do khu chế biến thực phẩm ở gần nơi chứa nước thải bị ô nhiễm.
+Bệnh lỵ trực trùng phần lớn xảy ra ở trẻ em trong độ tuổi từ 2 đến 4 tuổi, do hệ miễn dịch của trẻ còn non nớt và ý thức giữ gìn vệ sinh chưa tốt. Bệnh thường dễ lây lan nhất ở những khu vực đông người như các trường mầm non, trường tiểu học và các nơi giữ trẻ tư nhân không đảm bảo vệ sinh. Ngoài ra, nếu trong gia đình có trẻ bị lỵ trực trùng, những người thân đều có nguy cơ mắc bệnh cao. Ở những quốc gia kém phát triển, nơi không cung cấp đủ nước sạch, người dân thường bị lỵ trực trùng nặng và khó chữa.
+Côn trùng chính là tác nhân truyền bệnh lỵ trực trùng gián tiếp
+Bệnh lỵ trực trùng lây lan như thế nào?
+Bệnh lỵ trực trùng chủ yếu lây qua đường phân – miệng, gián tiếp hay trực tiếp.
+Bệnh lây trực tiếp từ người sang người qua đường ăn uống
+Các nghiên cứu cho thấy, người mang vi khuẩn là nguồn lây bệnh chính gồm: người mắc bệnh lỵ cấp tính, người có bệnh lỵ mạn tính và người lành mang vi khuẩn. Trong đó, bệnh nhân bị lỵ cấp tính là nguồn lây bệnh nguy hiểm nhất, vì trong thời gian bị bệnh, họ thải ra một khối lượng lớn vi khuẩn qua phân ra ngoài.
+Người lành mang vi khuẩn gây bệnh là những người trước đây đã tiếp xúc với bệnh nhân, bàn tay họ đã bị nhiễm khuẩn, nhưng chưa phát thành bệnh, họ cũng là nguồn thải ra vi khuẩn và gây bệnh cho người khác.
+Bệnh lỵ trực trùng lây gián tiếp qua đường tiêu hóa
+Ngoài lây truyền trực tiếp từ người sang người qua đường ăn uống, bệnh lỵ trực trùng có có thể lây truyền gián tiếp qua đường tiêu hóa. Cụ thể, vi khuẩn lỵ nhiễm vào thức ăn, nước uống, khi người lành bị nhiễm bệnh khi ăn phải những thức ăn này. Ngoài ra, ruồi nhặng, gián, kiến, thạch sùng… được xem là những loài động vật trung gian lây truyền bệnh lỵ trực trùng. Quan hệ tình dục cũng có thể lây truyền bệnh do sự tiếp xúc trực tiếp hoặc không trực tiếp giữa miệng và hậu môn.
+Các giai đoạn phát triển của bệnh lỵ trực trùng
+Khi nhiễm trực khuẩn Shigella thì thời gian ủ bệnh trung bình là từ 1-5 ngày và phát bệnh một cách đột ngột với 2 hội chứng: Nhiễm khuẩn và hội chứng lỵ.
+Hội chứng nhiễm khuẩn: Sốt cao 38-39 độ C, rét run, nhức đầu, mệt mỏi, đau lưng, đau khớp. Ở trẻ em có thể có cơn co giật, chán ăn, khát nước, đắng miệng, buồn nôn hoặc nôn.
+Hội chứng lỵ gồm: Đau bụng, ban đầu đau âm ỉ quanh rốn, sau đau lan ra khắp bụng, cuối cùng là những cơn đau quặn bụng ở hố chậu trái. Các cơn đau quặn bụng làm người bệnh mót rặn muốn đi đại tiện ngay.
+Đến giai đoạn toàn phát, người bệnh sẽ đi đại tiện nhiều hơn, lúc đầu phân sệt, sau loãng, rất hôi, lẫn với chất nhầy và máu. Phân nhầy nhiều, thường đục nhờ nhờ, có khi phân vàng đục như mủ, máu sẫm như máu cá, nhầy và máu hoà loãng với nhau không có độ bám dính. Hội chứng lỵ trực trùng có thể diễn ra từ 5-10 ngày hoặc hơn. Người mắc lỵ trực trùng nếu được điều trị đúng sẽ khỏi bệnh sau 7 – 14 ngày. Không điều trị hoặc điều trị không đúng, bệnh chuyển nặng hoặc trở thành mạn tính.
+Trường hợp bệnh chuyển nặng thường xảy ra ở trẻ em, người trên 65 tuổi, người suy giảm miễn dịch hoặc mắc sẵn các bệnh nền mạn tính. Biểu hiện của bệnh thường sốt cao 39 – 40 độ C, đau đầu liên tục, rất mệt mỏi, nét mặt phờ phạc. Người bệnh có cảm giác lơ mơ, có khi lú lẫn, thậm chí hôn mê, rối loạn nước điện giải, suy tuần hoàn… Nếu điều trị kịp thời, bệnh nhân sẽ khỏi nhưng thời gian điều trị thường kéo dài và các biến chứng có thể xảy đến bất cứ lúc nào. Ngoài ra, khả năng bệnh để lại di chứng là vô cùng cao. Nếu không điều trị, hoặc điều trị không đúng người bệnh sẽ tử vong.
+Bệnh lỵ trực trùng được chẩn đoán, xét nghiệm như thế nào?
+Tiêu chảy hay tiêu chảy phân nhầy máu có thể là triệu chứng của nhiều bệnh lý khác nhau. Do đó để xác định chính xác bản thân có mắc bệnh lỵ trực trùng hay không, người bệnh cần đến các cơ sở y tế để được chẩn đoán, theo dõi và điều trị.
+Thông thường, phương pháp chẩn đoán bệnh lỵ trực trùng thường là lấy mẫu phân hoặc phết trực tràng để tiến hành xét nghiệm cấy phân, nuôi cấy định danh vi khuẩn và ngưng kết kháng huyết thanh. Nếu sử dụng phương pháp phết trực tràng, mẫu vật cần được giữ trong môi trường chuyên chở Cary Blair trong quá trình vận chuyển đến phòng xét nghiệm.
+Ngoài ra, một số phương pháp khác thường được dùng để chẩn đoán bệnh lỵ trực trùng là: soi trực tràng, huyết thanh chẩn đoán, phương pháp miễn dịch huỳnh quang trực tiếp và xét nghiệm công thức máu.
+Bệnh trực trùng được điều trị như thế nào?
+Hầu hết những trường hợp mắc bệnh lỵ trực trùng có diễn biến lành tính và khỏi trong vòng 1 tuần. Tuy nhiên, không phải vì thế mà người bệnh chủ quan không điều trị hoặc tự ý sử dụng thuốc, mà phải đến các cơ sở y tế để được các bác sĩ theo dõi và điều trị.
+Đối với Trẻ em và người cao tuổi, các bác sĩ sẽ hỗ trợ bằng cách cho uống dung dịch Oresol bổ sung để “bù nước” khi bị tiêu chảy. Ngoài ra, các bác sĩ cũng có thể chỉ định bệnh nhân sử dụng thuốc kháng sinh để rút ngắn thời gian mắc bệnh và ngăn ngừa bệnh lây lan cho người khác.Một số loại thuốc kháng sinh thường được sử dụng để điều trị bệnh lỵ trực trùng có thể kể đến như Ampicilline, Trimethoprim- sulfamethoxazole. Người bệnh cần đặc biệt lưu ý không được tự ý dùng thuốc cầm tiêu chảy, phần lớn thuốc này có thể làm cho lỵ trực trùng nặng hơn.
+Sau một tuần nếu bệnh không có dấu hiệu thuyên giảm, có triệu chứng chuột rút, hoặc trước khi bị bệnh bạn đã đi du lịch ở một nơi nào đó đang có dịch bệnh bùng phát. Lúc này hãy quay lại trung tâm y tế hoặc bệnh viện để được điều trị kịp thời, tránh biến chứng đáng tiếc xảy ra.
+Biến chứng của bệnh lỵ trực trùng
+Tuy hầu hết những trường hợp mắc bệnh lỵ trực trùng có diễn biến lành tính, nhưng hàng năm vẫn có rất nhiều trường hợp trên thế giới mất mạng bởi những biến chứng nguy hiểm của bệnh như:
+Tại ruột: Gây chảy máu, hoại tử ruột, viêm phúc mạc, lồng ruột, sa trực tràng.
+Toàn thân: Gây co giật do sốt cao, nhiễm độc thần kinh, trụy tim mạch, viêm tắc động tĩnh mạch.
+Bội nhiễm: Viêm túi mật, viêm đường tiết niệu, nhiễm khuẩn huyết, viêm phổi, nhiễm nấm candida ruột.
+Hội chứng tan máu, giảm tiểu cầu, rối loạn đông máu, suy thận. Bệnh nhân thường có nguy cơ thể vong.
+Sốc nhiễm khuẩn, nhiễm độc, người bệnh thường tử vong sau 24-48 giờ
+Người bệnh cũng có thể chết do hôn mê sâu
+Rối loạn và suy sụp chức năng đa phủ tạng
+Phòng chống lỵ trực trùng như thế nào?
+Lỵ trực trùng là căn bệnh truyền nhiễm hoàn toàn có thể phòng ngừa được, nếu như người dân chủ động thực hiện các biện pháp sau:
+Thực hiện nghiêm túc việc vệ sinh ăn uống, nên ăn chín, uống sôi.
+Thực hiện tốt vệ sinh cá nhân, rửa tay bằng xà phòng trước khi ăn uống, sau khi đi vệ sinh.
+Sử dụng nước sạch, giữ gìn vệ sinh nguồn nước công cộng.
+Sử dụng nhà vệ sinh phù hợp, không phóng uế bừa bãi, xử lý phân, tuyệt đối không dùng phân tươi bón rau.
+Khi có dấu hiệu nhiễm bệnh cần đến ngay cơ sở y tế để được khám và điều trị kịp thời.
+Trường hợp trong gia đình có người mắc bệnh lỵ trực trùng, bạn nên:
+Khử khuẩn các chất thải bằng vôi sống 20%, nước vôi 10%.
+Triệt khuẩn các vật dụng, quần áo của bệnh nhân bằng cách đun nước sôi ngâm quần áo, hoặc dùng dung dịch cloramin 2% để ngâm quần áo bệnh nhân.
+Người trực tiếp chăm sóc bệnh nhân cần được theo dõi 7 ngày. Rửa tay bằng xà phòng trước khi ăn uống, sau khi đi vệ sinh, sau khi tiếp xúc chăm sóc bệnh nhân.
+Ăn chín uống sôi là giải pháp phòng lỵ trực trùng hiệu quả nhất
+Lỵ trực trùng là căn bệnh rất dễ lây và bùng phát thành dịch, với tỷ lệ tử vong cao ở trẻ em, do đó, người dân cần nâng cao ý thức phòng chống bệnh, không tự ý sử dụng thuốc mà hãy đến các cơ sở y tế để được các bác sĩ thăm khám và điều trị.
+Ngoài ra, người dân cần thực hiện chủ động phòng tránh bệnh bằng cách tiêm chủng sớm, đủ mũi, đúng lịch để được bảo vệ khỏi các bệnh truyền nhiễm nguy hiểm khác.
+Hệ thống Trung tâm tiêm chủng cho Trẻ em và Người lớn VNVC có gần 50 loại vắc xin phòng hơn 40 bệnh truyền nhiễm, nguồn gốc vắc xin chất lượng và bảo quản theo đúng tiêu chuẩn, có kiểm tra sức khỏe sàng lọc trước tiêm, có khu vực theo dõi sau tiêm thoáng mát, theo dõi trong vòng 30 phút sau tiêm để xem bé có phản ứng nào bất thường không, từ đó có biện pháp xử trí phù hợp.
+Tiêm phòng tại Trung tâm tiêm chủng VNVC, khách hàng sẽ được miễn phí khám và tư vấn trước tiêm, theo dõi sức khỏe sau tiêm, hỗ trợ giữ vắc xin theo lịch tiêm chủng từng người, nhắc lịch tiêm tự động…
+Để đặt lịch tiêm phòng các bệnh truyền nhiễm, khách hàng có thể điền thông tin tại đây hoặc gọi đến hotline: 028.7102.6595 để được tư vấn và hỗ trợ đặt lịch tiêm.
+Hệ thống trung tâm tiêm chủng VNVC: https://vnvc.vn/he-thong-trung-tam-tiem-chung/

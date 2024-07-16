@@ -1,0 +1,65 @@
+# url = https://vnvc.vn/khang-the-don-dong/
+# date = 13/01/2022
+Kháng thể đơn dòng là gì? Quy trình sản xuất, tác dụng, tác hại
+Kháng thể đơn dòng được xem là loại “vắc xin tức thì” đưa kháng thể được tạo sẵn vào cơ thể và sản sinh kháng thể chỉ ngay sau vài giờ. Kháng thể đơn dòng của AstraZeneca được kỳ vọng là niềm hy vọng mới trong dự phòng và điều trị Covid-19 tại Việt Nam. Vậy kháng thể đơn dòng là gì, sản xuất ra sao, tác dụng, tác hại của liệu pháp này?
+
+Mục lụcKháng thể đơn dòng là gì?Các loại thuốc kháng thể đơn dòng hỗ trợ điều trị ung thư1. Kháng thể đơn dòng trần (Naked mAbs)2. Thuốc kháng thể đơn dòng liên hợp (Conjugated mAbs)3. Kháng thể đơn dòng đặc hiệu képCác loại thuốc kháng thể đơn dòng hỗ trợ điều trị Covid-19Cocktail kháng thể EvusheldQuy trình sản xuất kháng thể đơn dòng như thế nào?Kháng thể đơn dòng có tác dụng gì không?Kháng thể đơn dòng có gây ra các tác dụng phụ gì không?Kháng thể đơn dòng là gì?
+Kháng thể đơn dòng là các kháng thể được tạo ra trong phòng thí nghiệm, có nguồn gốc từ một dòng tế bào B duy nhất và có ái lực cao với một yếu tố quyết định kháng nguyên (epitope) của tác nhân gây bệnh. Kháng thể đơn dòng có chức năng tác động tương tự như kháng thể tự nhiên trong cơ thể:
+
+Trung hòa các tác nhân gây bệnh, ngăn chúng xâm nhập vào tế bào khỏe mạnh.
+Opsonin hóa kháng nguyên để hỗ trợ thực bào.
+Hỗ trợ cho quá trình gây độc tế bào phụ thuộc kháng thể.
+Kích hoạt bổ thể.
+Ngoài ra, kháng thể đơn dòng cũng được sử dụng trong các xét nghiệm chẩn đoán như western blot hay hóa mô miễn dịch. (3)
+
+Kháng thể đơn dòng được sử dụng chủ yếu trong các lĩnh vực ung thư, khớp học, huyết học và mới nhất là phòng ngừa và điều trị Covid-19
+Các loại thuốc kháng thể đơn dòng hỗ trợ điều trị ung thư
+Một số loại thuốc kháng thể đơn dòng được sử dụng trong hỗ trợ điều trị một số dạng ung thư nhất định có thể kể đến như: (4)
+
+Kháng thể đơn dòng trần (Naked mAbs);
+Thuốc kháng thể đơn dòng liên hợp (Conjugated mAbs);
+Kháng thể đơn dòng đặc hiệu kép.
+
+1. Kháng thể đơn dòng trần (Naked mAbs)
+Kháng thể không gắn thuốc hoặc các chất phóng xạ, mà thay vào đó tự hoạt động được gọi là kháng thể đơn dòng trần. Hầu hết kháng thể đơn dòng trần liên kết với kháng nguyên trên tế bào ung thư, tuy nhiên một số liên kết với kháng nguyên trên các tế bào không phải ung thư hoặc là các protein trôi nổi tự do. Kháng thể đơn dòng trần có thể hoạt động theo nhiều cách khác nhau, gồm:
+Một số kháng thể đơn dòng trần tăng cường phản ứng miễn dịch của cơ thể chống lại tế bào ung thư bằng cách gắn vào chúng, đồng thời hoạt động như dấu hiệu giúp hệ thống miễn dịch triệt tiêu các tế bào ung thư. Ví dụ, kháng thể đơn dòng alemtuzumab thường được sử dụng trong điều trị cho một số bệnh nhân mắc bệnh bạch cầu lymphocytic mãn tính hoạt động bằng cách liên kết với kháng nguyên CD52 (tìm thấy trên các tế bào lympho), sau đó kháng thể thu hút các tế bào miễn dịch tiêu diệt các tế bào lympho này. Một số kháng thể đơn dòng trần tăng cường phản ứng miễn dịch cơ thể con người bằng cách tập trung vào các điểm trọng yếu của hệ thống miễn dịch.
+Một số kháng thể đơn dòng trần khác hoạt động bằng cách gắn vào và ngăn chặn các kháng nguyên trên tế bào ung thư hoặc tế bào lân cận. Ví dụ, kháng thể trastuzumab có khả năng chống lại protein HER2 tìm thấy trên bề mặt của tế bào ung thư vú hoặc dạ dày. Khi protein HER2 được kích hoạt sẽ giúp những tế bào ung thư phát triển. Sử dụng kháng thể đơn dòng Trastuzumab sẽ liên kết với các protein HER2 và ngăn chúng hoạt động.
+2. Thuốc kháng thể đơn dòng liên hợp (Conjugated mAbs)
+Kháng thể đơn dòng liên hợp sử dụng kết hợp cùng các hóa chất trị liệu hoặc hợp chất phóng xạ để đưa những chất này đến tế bào ung thư. Kháng thể đơn dòng sẽ lưu thông khắp cơ thể cho đến khi tìm được và bám vào kháng nguyên đích. Sau đó đưa các hoạt chất trị liệu đến nơi cần thiết. Liệu pháp này nhằm giảm bớt ảnh hưởng xấu của các liệu pháp điều trị ung thư đến các tế bào bình thường khác trong cơ thể. Cụ thể:
+
+Các kháng thể được đánh dấu bằng đồng vị phóng xạ: Là kháng thể được gắn với các hạt phóng xạ nhỏ, như Ibritumomab tiuxetan (Zevalin) – một loại kháng thể có khả năng chống lại kháng nguyên CD20 trên các tế bào lympho B. Kháng thể sẽ mang hạt phóng xạ đến các tế bào ung thư.
+Các kháng thể được gắn nhãn hóa học: Các kháng thể đơn dòng liên hợp này được gắn với những loại thuốc hoá trị liều mạnh, như Brentuximab vedotin (Adcetris). Một kháng thể nhắm vào kháng nguyên CD30 trên tế bào lympho sẽ được gắn vào thuốc hoá trị MMAE. Hoặc Ado-trastuzumab emtansine, là một kháng thể nhắm vào protein HER2, được gắn với thuốc hoá trị DM1.
+
+3. Kháng thể đơn dòng đặc hiệu kép
+Kháng thể đơn dòng đặc hiệu kép tạo thành từ các phần của 2 kháng thể đơn dòng khác nhau và có thể gắn cùng lúc vào 2 protein khác nhau. Ví dụ, kháng thể đơn dòng được sử dụng điều trị một số bệnh bạch cầu – Blinatumomab. Một phần của kháng thể đơn dòng này sẽ gắn vào protein CD19 thường được tìm thấy trên một số tế bào ung thư hạch và ung thư bạch hầu. Một phần còn lại gắn với protein CD3 thường được tìm thấy trên các tế bào T. Bằng cách liên kết 2 loại protein CD19 và CD3, Blinatumomab mang các tế bào miễn dịch và tế bào ung thư lại với nhau giúp hệ miễn dịch tiêu diệt các tế bào ung thư.
+Các loại thuốc kháng thể đơn dòng hỗ trợ điều trị Covid-19
+Cơ thể của những người hồi phục sau khi mắc Covid-19 tạo ra kháng thể chống lại virus SARS-CoV-2 và có khả năng tồn tại từ 5-7 tháng sau nhiễm bệnh. Tuy nhiên, các nhà khoa học cũng có thể tạo ra kháng thể này trong phòng thí nghiệm và truyền vào cơ thể.
+Cụ thể, bộ gen của virus SARS-CoV-2 mã hóa 4 protein cấu trúc chính là: protein gai (S), protein màng (M), protein vỏ (E), nucleocapsid (N) và các protein phụ, protein phi cấu trúc. Protein gai S lại có 2 tiểu đơn vị là S1 và S2, trung gian giúp virus gắn kết vào màng, xâm nhập vào tế bào vật chủ qua thụ thể ACE2. Các kháng thể đơn dòng gắn vào protein S dùng để điều trị Covid-19. Theo kết quả của các cuộc nghiên cứu, kháng thể đơn dòng có vai trò ngăn ngừa lây nhiễm SARS-CoV-2.
+Cocktail kháng thể Evusheld
+Cocktail kháng thể Evusheld là sự kết hợp của của 2 kháng thể đơn dòng tác dụng kéo dài tixagevimab (AZD8895) và cilgavimab (AZD1061). So với kháng thể truyền thống, Evusheld được tối ưu hóa bằng công nghệ độc quyền của AstraZeneca, giúp kéo dài thời gian bán hủy hơn gấp 3 lần và có khả năng bảo vệ lên tới 12 tháng chỉ sau 1 lần tiêm bắp. Đồng thời, sự chỉnh sửa này cũng giúp Evusheld tập trung với nồng độ cao ở niêm mạc vùng mũi hầu và giảm nguy cơ các bệnh lý liên quan đến miễn dịch như hiện tượng tăng cường bệnh tật phụ thuộc kháng thể (antibody-dependent enhancement of disease).
+Kháng thể đơn dòng Evusheld làm giảm nguy cơ phát triển từ bệnh Covid-19 ở mức độ nhẹ – trung bình thành bệnh nặng hoặc tử vong
+Kết quả từ thử nghiệm điều trị ngoại trú TACKLE giai đoạn III (n=903) đã chứng minh kháng thể đơn dòng Evusheld làm giảm nguy cơ phát triển từ bệnh Covid-19 ở mức độ nhẹ – trung bình thành bệnh nặng hoặc tử vong (bất kể nguyên nhân nào) so với giả dược. Theo kết quả thử nghiệm lâm sàng pha 3, Evusheld giúp giảm 83% nguy cơ mắc Covid-19 có triệu chứng và giảm 88% nguy cơ trên nếu bệnh nhân dùng trong vòng 3 ngày kể từ khi khởi phát triệu chứng khởi phát. Dữ liệu tiền lâm sàng mới nhất cho thấy bộ đôi kháng thể tixagevimab (AZD8895) và cilgavimab (AZD1061) duy trì được hiệu quả trung hòa chống lại biến thể Omicron đang gây lo ngại trên toàn thế giới.
+Hiện FDA đã phê duyệt sử dụng khẩn cấp thuốc kháng thể đơn dòng Evusheld cho chỉ định dự phòng trước phơi nhiễm. Hãng dược phẩm AstraZeneca đang nộp hồ sơ lên FDA cho chỉ định điều trị ngoại trú COVID-19. (2)
+Quy trình sản xuất kháng thể đơn dòng như thế nào?
+Khác biệt với các kháng thể đa dòng được tạo ra bởi một số dòng tế bào máu, có khả năng liên kết với nhiều phần kháng nguyên (epitope) khác nhau; các kháng thể đơn dòng chỉ có ái lực đơn dòng liên kết cùng với cùng một epitope được nó nhận diện.
+Quy trình sản xuất kháng thể đơn dòng cơ bản như sau:
+
+Các nhà khoa học sẽ tiến hành thí nghiệm bằng việc tiêm kháng nguyên vào chuột, sau đó phân lập các tế bào lách có khả năng sản xuất kháng thể chống lại kháng nguyên này.
+Bằng cách kết hợp các tế bào lách này với các tế bào myeloma bất tử để sinh ra tế bào lai có khả năng sản xuất kháng thể và nhân đôi không giới hạn.
+Sau đó, các dòng tế bào (clone) sẽ được sàng lọc và lựa chọn tùy vào tính đặc hiệu kháng nguyên và phân lớp kháng thể.
+Dòng tế bào được chọn sẽ được nuôi cấy, sản xuất số lượng lớn và chiết tách kháng thể.
+
+Kháng thể đơn dòng được sản xuất bằng việc tiêm kháng nguyên vào chuột, sau đó phân lập các tế bào lách có khả năng sản xuất kháng thể chống lại kháng nguyên này
+Kháng thể đơn dòng có tác dụng gì không?
+Bản thân các phương pháp điều trị bằng kháng thể không phải là mới, các kháng thể đơn dòng đã được sử dụng trong điều trị:
+
+Ung thư: Các kháng thể đơn dòng liên kết đặc hiệu với các kháng nguyên của tế bào ung thư, tạo phản ứng miễn dịch chống lại tế bào ung thư đích.
+Bệnh tự miễn: Một số kháng thể đơn dòng được sử dụng cho các bệnh tự miễn gồm: Infliximab và adalimumab trong bệnh viêm khớp dạng thấp, viêm ruột xuyên thành mạn tính, viêm cột sống dính khớp, viêm loét đại tràng nhờ vào khả năng liên kết và ức chế TNF-α. Basiliximab và daclizumab ức chế IL-2 trên tế bào T được hoạt hóa, do đó chúng giúp ngăn ngừa thải ghép cấp tính trong ghép thận. Omalizumab ức chế immunoglobulin E (IgE) ở người và cực kỳ hữu ích trong điều trị hen suyễn dị ứng từ trung bình đến nặng.
+Nhiễm virus: bao gồm một số kháng thể đơn dòng như: bavituximab, casivimab, palivizumab, imdevimab…
+Ứng dụng trong điều trị Covid-19: Cơ thể của phần lớn những người hồi phục sau Covid-19 tạo ra kháng thể chống lại virus SARS-CoV-2. Theo các nhà khoa học, các kháng thể này tồn tại ít nhất 5 đến 7 tháng sau khi nhiễm bệnh.
+
+Kháng thể đơn dòng có gây ra các tác dụng phụ gì không?
+Kháng thể đã được sử dụng từ lâu trong y học. Tính đến năm 2019, FDA đã cấp phép cho hơn 80 kháng thể đơn dòng, sử dụng chủ yếu trong các lĩnh vực ung thư, khớp học, huyết học. Các tác dụng phụ có thể gặp của kháng thể đơn dòng như: sốt, ớn lạnh, đau đầu, nôn ói, phát ban… (1)
+Đối với kháng thể đơn dòng Evusheld, hồ sơ an toàn đã được kiểm nghiệm trên hơn 7000 người, qua 3 thử nghiệm pha 3: PROVENT (5197 người), STORM CHASER (1129 người) và TACKLE (903 người).
+Trong thử nghiệm về dự phòng trước phơi nhiễm PROVENT, biến cố ngoại ý gần như tương đương nhau ở 2 nhóm với tỷ lệ là 35.3% ở nhóm dùng Evusheld và 34.2% ở nhóm giả dược. Chỉ có 1/3461 người có phản ứng phản vệ. Chỉ có 1 trường hợp có biến cố ngoại ý dẫn đến việc ngừng dùng thuốc ở nhánh AZD7442 và không liên quan đến thuốc.
+Trong bối cảnh Covid-19 vẫn còn đe dọa cuộc sống của hàng triệu người trên thế giới, các nhà khoa học đã và đang tốn không ít công sức, tiền bạc dành tâm huyết nghiên cứu những phương cách mới nhất, hiệu quả nhất nhằm phòng ngừa và điều trị Covid-19. Trong số những phương pháp mới, kháng thể đơn dòng Evusheld được xem như một niềm hy vọng để đặt dấu chấm hết cho đại dịch.

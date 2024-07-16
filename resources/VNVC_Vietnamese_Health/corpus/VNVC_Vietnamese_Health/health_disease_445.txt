@@ -1,0 +1,162 @@
+# doc_id = health_disease_445
+# url = https://vnvc.vn/cac-loai-vac-xin/
+# date = 28/03/2024
+Các loại vắc xin hiện nay: Lợi ích và hạn chế của chúng
+Hiện nay, thế giới đã phát triển thành công và cấp phép lưu hành rất nhiều loại vắc xin, phòng ngừa được rất nhiều căn bệnh truyền nhiễm nguy hiểm, nhiều căn bệnh đã được kiểm soát tốt, thậm chí loại trừ và thanh toán là nhờ có vắc xin. Mỗi loại vắc xin được nghiên cứu, phát triển và sản xuất theo những cơ chế và công nghệ khác nhau nhằm đối phó với từng tác nhân gây bệnh. Vậy, đó là các loại vắc xin nào? Chúng có lợi ích và hạn chế gì? Nên tiêm vắc xin nào an toàn, hiệu quả?
+BS Phan Nguyễn Trường Giang – Quản lý Y khoa vùng Mekong, Hệ thống Trung tâm tiêm chủng VNVC cho biết: “VNVC – Hệ thống tiêm chủng An toàn – Uy tín – Chất lượng hàng đầu Việt Nam đang sở hữu danh mục hơn 40 loại vắc xin với khả năng phòng ngừa gần 50 căn bệnh truyền nhiễm khác nhau, bao gồm cả các vắc xin thế hệ mới, vắc xin thường xuyên khan hiếm, sẵn sàng cung cấp đầy đủ với số lượng lớn cho người dân tại hàng trăm trung tâm trên cả nước. Tất cả các loại vắc xin đều được bảo quản trong cùng điều kiện nhiệt độ tiêu chuẩn trong Hệ thống dây chuyền lạnh (Cold Chain) cùng hệ thống kho lạnh hiện đại, đạt chuẩn Quốc tế, nhằm luôn đảm bảo chất lượng cao, an toàn và hiệu quả cho người tiêm.”
+Mục lụcLược sử hình thành và phát triển của vắc xinCác loại vắc xin hiện nay phân theo công nghệ sản xuất1. Vắc xin sống giảm độc lực2. Vacxin bất hoạt3. Vaccine tiểu đơn vị4. Vắc xin giải độc tố5. Vaccine vector virus6. Vắc xin mRNACó mấy loại vacxin phân theo nhóm bệnh?1. Vắc xin phòng bệnh truyền nhiễm ở trẻ em2. Vắc xin phòng bệnh cho người lớn3. Vắc xin phòng bệnh khi đi du lịchLàm gì để nâng cao hiệu quả phòng bệnh của các loại vắc xin?1. Nắm rõ và tiêm ngừa đúng lịch, đúng loại vắc xin.2. Đảm bảo các yếu tố an toàn trong tiêm chủng3. Hiểu và biết cách xử lý các phản ứng sau tiêm4. Các trường hợp không nên tiêm vắc xinMột số câu hỏi thường gặp về các loại vacxin1. Tiêm cùng lúc nhiều vắc xin có công nghệ sản xuất khác nhau có sao không?2. Vì sao có người khuyên không nên tiêm bất cứ loại vắc xin nào?Kết luậnLược sử hình thành và phát triển của vắc xin
+Từ thế kỷ 15 đến thế kỷ thứ 17, người dân ở nhiều nơi trên thế giới đã cố gắng ngăn ngừa bệnh tật bằng cách cố tình để những người khỏe mạnh tiếp xúc từ sớm với bệnh đậu mùa – một hình thức chủ động tạo ra kháng thể đặc hiệu với bệnh đậu mùa sau khi khỏi bệnh. Năm 1774, Benjamin Jesty (một nông dân ở Anh) đã khám phá ra việc cho người nhiễm một loại virus ở bò có thể chống lại được bệnh đậu mùa. [1]
+Vào tháng 5 năm 1796, bác sĩ/nhà khoa học người Anh Edward Jenner đã mở rộng khám phá này và phát minh ra vắc xin đầu tiên phòng bệnh đậu mùa, trở thành một thành tựu y học vĩ đại của nhân loại. Kể từ khi vắc xin ra đời, loài người đã thực sự có được một loại vũ khí sắc bén nhất, hữu hiệu nhất để chủ động phòng chống, loại trừ và thanh toán nhiều bệnh truyền nhiễm nguy hiểm, góp phần giảm tỷ lệ tử vong, nâng cao sức khỏe và chất lượng cuộc sống, không chỉ cho trẻ em mà còn cho cả người lớn.
+Đến nay đã có hơn 30 bệnh truyền nhiễm đã có vắc xin phòng bệnh và khoảng 190 quốc gia, vùng lãnh thổ đã đưa vắc xin vào sử dụng phổ cập cho người dân. Hơn hết, trong bối cảnh dịch bệnh có nhiều diễn biến phức tạp, tiêm chủng vắc xin đóng vai trò vô cùng quan trọng trong việc bảo vệ sức khỏe cá nhân và cộng đồng.
+Hãy nhìn lại cột mốc các loại vắc xin quan trọng ra đời:
+Năm 1872, Louis Pasteur đã tạo ra loại vắc xin đầu tiên được sản xuất trong phòng thí nghiệm: vắc xin phòng bệnh tả gà ở gà.
+Năm 1885, Louis Pasteur đã ngăn ngừa thành công bệnh dại bằng cách tiêm phòng sau phơi nhiễm.
+Năm 1918, Trường Y Quân đội Hoa Kỳ thử nghiệm 2 triệu liều vắc xin cúm đầu tiên cho binh sĩ Hoa Kỳ để đối phó lại Đại dịch Cúm Tây Ban Nha – tác nhân giết chết khoảng 20 – 50 triệu người trên toàn thế giới.
+Năm 1937 Max Theiler, Hugh Smith và Eugen Haagen phát triển thành công vắc xin 17D chống bệnh sốt vàng da.
+Năm 1939, các nhà vi khuẩn học Pearl Kendrick và Grace Eldering phát triển thành công và chứng minh tính hiệu quả của vắc xin ho gà, giúp làm giảm tỷ lệ trẻ em mắc bệnh từ 15,1/100 trẻ xuống còn 2,3/100 trẻ.
+Năm 1945, nhờ có bác sĩ Thomas Francis Jr và Jonas Salk, vắc xin cúm đầu tiên được cấp phép sử dụng cho quân đội, tiếp theo là vào năm 1946 được cấp phép sử dụng cho mục đích dân sự.
+Năm 1952 – 1955, vắc xin bại liệt hiệu quả đầu tiên được phát triển bởi Jonas Salk.
+Năm 1960, Albert Sabin phát triển loại vắc xin bại liệt thứ hai và cũng đã được cấp phép sử dụng. Đây là vắc xin sống giảm độc lực (sử dụng vi rút ở dạng yếu) và có thể dùng bằng đường uống, dưới dạng giọt hoặc dạng viên đường.
+Năm 1963, vắc xin sởi ra đời.
+Năm 1967, vắc xin quai bị ra đời.
+Năm 1969, phát triển vắc xin phòng bệnh rubella và vắc xin viêm gan B đầu tiên sử dụng vắc xin virus bất hoạt bằng cách xử lý nhiệt.
+Năm 1970, vắc xin ngừa viêm màng não mô cầu đầu tiên được phát triển và nằm trong Danh sách các loại thuốc thiết yếu của Tổ chức Y tế Thế giới (WHO).
+Năm 1971, vắc xin phối hợp sởi – quai bị – rubella (MMR) được phát triển thành công bởi tiến sĩ Maurice Hilleman.
+Năm 1978, vắc xin polysaccharide phòng ngừa 14 chủng phế cầu khuẩn đã được cấp phép.
+Năm 1983, vắc xin phế cầu 23 chủng được phát triển.
+Năm 1980, Hội đồng Y tế Thế giới, dựa trên khuyến nghị của Ủy ban Toàn cầu về Chứng nhận Loại trừ Bệnh đậu mùa của Tổ chức Y tế thế giới (WHO), tuyên bố đã loại trừ bệnh đậu mùa.
+Năm 1985, vắc xin đầu tiên chống lại các bệnh do Haemophilusenzae nhóm b (Hib) gây ra được cấp phép sau 17 năm nghiên cứu (từ năm 1968).
+Năm 1995, Anne Szarewski các nhà nghiên cứu bắt đầu nghiên cứu vắc xin ngừa HPV.
+Năm 1999, vắc xin đầu tiên ngừa bệnh tiêu chảy cấp do rotavirus ra mắt.
+Năm 2006, vắc xin phòng bệnh tiêu chảy cấp rotavirus thế hệ mới với tính an toàn cao hơn được phát triển và cấp phép lưu hành. Đến năm 2019, vắc xin này đã được sử dụng ở hơn 100 quốc gia.
+Năm 2006, vắc xin đầu tiên phòng ngừa virus gây u nhú ở người (HPV) đã được phê duyệt, trở thành một trong những “vũ khí hạng nặng” hỗ trợ nhân loại tiến tới loại bỏ ung thư cổ tử cung và phòng nhiều loại ung thư nguy hiểm khác như ung thư hầu họng, hậu môn, dương vật…
+Năm 2019, vắc xin sốt rét được triển khai thí điểm ở Ghana, Malawi và Kenya.
+Vào tháng 12/2020, chỉ 1 năm sau khi phát hiện trường hợp nhiễm COVID-19 đầu tiên, những liều vắc xin ngừa COVID-19 đầu tiên đã được tiêm.
+Năm 2021, kho dự trữ vắc xin toàn cầu được thành lập để đảm bảo ứng phó với dịch bệnh.
+Trải qua hơn 2 thế kỷ, con người đã đối diện và gánh chịu nhiều hậu quả nghiêm trọng của rất nhiều căn bệnh chết người. Nhờ có vắc xin, nhân loại đang dần hướng đến mục tiêu thanh toán các loại bệnh truyền nhiễm nguy hiểm trong tương lai.
+Các loại vắc xin hiện nay phân theo công nghệ sản xuất
+Vắc xin là phát minh vĩ đại của nhân loại, góp phần quan trọng trong việc kiểm soát, loại trừ và thanh toán nhiều bệnh dịch nguy hiểm, bảo vệ sức khỏe con người, cải thiện chất lượng sống của cộng đồng, góp phần đảm bảo sự phát triển bền vững mọi lĩnh vực của xã hội.
+Hiện nay, các nhà khoa học đã tìm ra rất nhiều tác nhân gây bệnh khác nhau với đa dạng cách thức lây nhiễm và cơ chế gây bệnh. Chính vì thế, để tối ưu hóa hiệu quả hoạt động của các loại vắc xin, đảm bảo hiệu quả phòng bệnh sau khi tiêm, vắc xin phòng bệnh được nghiên cứu, bào chế và phát triển dựa trên nhiều công nghệ khác nhau, tương thích với cơ chế gây bệnh của tác nhân đó, bao gồm:
+1. Vắc xin sống giảm độc lực
+Vắc xin sống giảm độc lực là vắc xin được bào chế từ tác nhân gây bệnh (virus, vi khuẩn…) còn sống. Tuy nhiên, các tác nhân này đã bị giảm độc lực hoặc làm suy yếu cho đến khi không còn khả năng gây bệnh cho cơ thể con người khi được tiêm vào cơ thể nhưng vẫn đảm bảo tính kháng nguyên của tác nhân gây bệnh nhằm kích thích hệ thống miễn dịch hoạt động, sản sinh kháng thể đặc hiệu, chủ động với tác nhân gây bệnh có trong vắc xin.
+Kháng thể này sẽ bảo vệ cơ thể người tiêm khỏi sự xâm nhập, tấn công và gây bệnh của các tác nhân gây bệnh đó trong tương lai nếu phát hiện cơ thể có tiếp xúc với kháng nguyên của tác nhân gây bệnh đó.
+Lợi ích: Vắc xin sống giảm độc lực có chứa tác nhân gây bệnh còn sống nên gây miễn dịch gần giống với quá trình nhiễm trùng tự nhiên của cơ thể, giúp hệ thống miễn dịch phản ứng tốt, tính sinh miễn dịch cao, nồng độ kháng thể sản sinh sau khi tiêm vắc xin cao hơn so với các loại vắc xin khác.
+Đồng thời, khả năng trí nhớ miễn dịch được ghi lại sau khi quá trình hình thành kháng thể kết thúc cũng tốt hơn. Vì vậy, người tiêm vắc xin sống giảm độc lực thường có khả năng miễn dịch lâu dài, ít cần phải bổ sung thêm các liều tiêm nhắc lại ngoài các mũi tiêm cơ bản.
+Hạn chế: Vắc xin sống giảm độc lực có thể gây ra các phản ứng mạnh hơn sau tiêm, thường không khuyến cáo tiêm chủng cho các đối tượng có hệ miễn dịch yếu như người bị suy giảm hệ miễn dịch, phụ nữ mang thai, người mắc HIV/AIDS, người đang trải qua quá trình tiếp nhận các liệu pháp điều trị ức chế miễn dịch như hóa trị, xạ trị…
+Các loại vắc xin sống giảm độc lực: vắc xin bại liệt bOPV (Việt Nam); vắc xin lao BCG (Việt Nam); vắc xin phối hợp sởi – quai bị – rubella 3 trong 1 MMR (Ấn Độ), MMR-II (Mỹ), Priorix (Bỉ); vắc xin sốt vàng Stamaril (Pháp); vắc xin thủy đậu Varivax (Mỹ), Varicella (Hàn Quốc), Varilrix (Bỉ); vắc xin sởi đơn MVVac (Việt Nam), vắc xin ngừa tiêu chảy cấp do Rotavirus Rotateq (Mỹ), Rotarix (Bỉ), Rotavin (Việt Nam); vắc xin viêm não Nhật Bản Imojev (Thái Lan)…
+Vắc xin sống giảm độc lực chứa tác nhân còn sống nhưng đã được khử độc tính, đảm bảo an toàn khi sử dụng cho con người.
+2. Vacxin bất hoạt
+Vắc xin bất hoạt là vắc xin được sản xuất từ tác nhân gây bệnh đã bị giết chết hoặc bị làm cho bất hoạt, không còn khả năng hoạt động và gây bệnh nhưng vẫn đảm bảo tính kháng nguyên, mang đến khả năng gây miễn dịch, tạo ra kháng thể đặc hiệu chủ động bảo vệ cơ thể người tiêm khỏi sự tấn công, lây nhiễm và gây bệnh của tác nhân gây bệnh trong tương lai. [2]
+Lợi ích: Vắc xin bất hoạt chứa tác nhân gây bệnh đã chết hoặc bất hoạt nên có tính an toàn cao, có thể áp dụng tiêm ngừa cho nhiều đối tượng, bao gồm cả những người có hệ thống miễn dịch bị suy giảm, người mắc bệnh tự miễn, phụ nữ mang thai, người già và trẻ sơ sinh. Vắc xin bất hoạt ổn định, ít nhạy cảm với sự thay đổi nhiệt độ và ít có khả năng đột biến hơn vắc xin sống.
+Hạn chế: Mặc dù an toàn nhưng khả năng sinh miễn dịch của vắc xin bất hoạt không lâu dài bằng vắc xin sống, phác đồ tiêm chủng vắc xin bất hoạt luôn cần sử dụng thêm liều bổ sung hoặc liều nhắc để thiết lập và củng cố khả năng đáp ứng miễn dịch cần thiết.
+Các loại vắc xin bất hoạt: Vắc xin phòng bệnh bại liệt Imovax Polio (IPV – Pháp); vắc xin phòng cúm tứ giá Vaxigrip Tetra (Pháp), GCFlu Quadrivalent (Hàn Quốc), vắc xin phòng cúm tam giá Ivacflu-S (Việt Nam); vắc xin dại thế hệ mới Verorab (Pháp) và Abhayrab (Ấn Độ); vắc xin ngừa tả mORCVAX (Việt Nam); vắc xin ngừa bệnh viêm gan B Heberbiovac HB (Cuba), Gene HBvax (Việt Nam), Engerix B (Bỉ), Euvax B (Hàn Quốc); vắc xin viêm não Nhật Bản Jevax (Việt Nam), JEEV (Ấn Độ); vắc xin ngừa các bệnh do phế cầu khuẩn Prevenar (Bỉ), Synflorix (Bỉ); vắc xin COVID-19 Vero Cell (Trung Quốc), Covaxin (Ấn Độ), Hayat-vax (UAE)…
+Vắc xin bất hoạt mang đến tính an toàn cao hơn nhưng tính sinh miễn dịch không cao bằng vắc xin sống giảm độc lực, thường cần tiêm nhiều liều trong phác đồ và cần bổ sung thêm liều nhắc.
+3. Vaccine tiểu đơn vị
+Vắc xin tiểu đơn vị là vắc xin được bào chế từ một số bộ phận nhất định của tác nhân gây bệnh, chỉ tách lấy những thành phần có tính kháng nguyên, những thành phần không có tính kháng nguyên của tác nhân gây bệnh sẽ được loại bỏ.
+Lợi ích: Nhờ việc loại bỏ các thành phần không cần thiết khác của tác nhân gây bệnh, vắc xin tiểu đơn vị sẽ giúp giảm thiểu tối đa các tác dụng phụ không mong muốn xảy ra so với vắc xin toàn bào hoặc vắc xin sống giảm độc lực. Chính vì thế, vắc xin tiểu đơn vị thường có tính an toàn cao, hiếm khi xảy ra các tình trạng phản ứng phụ nghiêm trọng sau tiêm, được áp dụng tiêm chủng cho nhiều đối tượng khác nhau.
+Hạn chế: Vắc xin tiểu đơn vị thường có ít thành phần miễn dịch được kích hoạt hơn, tính sinh miễn dịch kém bền vững, cần phải tiêm nhắc lại nhiều lần để cơ thể có thể đạt nồng độ kháng thể cần thiết.
+Các loại vắc xin tiểu đơn vị: một số vắc xin viêm gan B, vắc xin ngừa viêm màng não mô cầu nhóm B,C VA-Mengoc-BC (Cuba), vắc xin ngừa viêm màng não mô cầu nhóm B Besxero (Ý), vắc xin ngừa viêm màng não mô cầu nhóm A, C, Y, W-135 Menactra (Mỹ), vắc xin thương hàn Typhim Vi (Pháp), Typhoid Vi (Việt Nam), vắc xin ngừa HPV Gardasil (Mỹ), Gardasil 9 (Mỹ), vắc xin ngừa bệnh zona thần kinh Shingrix (GSK), vắc xin cúm tứ giá Influvac Tetra (Hà Lan), …
+Thay vì lấy toàn bộ vi sinh vật gây bệnh, vắc xin tiểu đơn vị chỉ lấy những thành phần có tính kháng nguyên của vi sinh vật để bào chế vắc xin.
+4. Vắc xin giải độc tố
+Vaccine giải độc tố là vắc xin có chứa thành phần chính là độc tố của tác nhân gây bệnh (thường là vi khuẩn). Độc tố của vi khuẩn tiết ra đã được trải qua quá trình bất hoạt, khử độc tính nhằm đảm bảo tính an toàn khi tiêm cho người những vẫn giữ được tính kháng nguyên cùng khả năng sinh kháng thể, bảo vệ cơ thể người tiêm khỏi nguy cơ mắc bệnh nếu chẳng may phơi nhiễm với độc tố của vi khuẩn trong tương lai.
+Lợi ích: Vắc xin giải độc tố thường mang lại hiệu quả phòng bệnh cao, thay vì nhắm vào toàn bộ vi khuẩn, vắc xin giải độc tố chỉ nhắm vào độc tố được vi khuẩn tiết ra – tác nhân gây bệnh trực tiếp, nhờ đó mang đến khả năng sinh miễn dịch tốt và lâu dài.
+Chính vì thế, vắc xin giải độc tố thường chỉ được khuyến cáo sử dụng liều tiêm nhắc hoặc bổ sung sau 5 – 10 năm hoặc lâu hơn, nhờ đó tiết kiệm được đáng kể chi phí phục vụ tiêm ngừa. Đồng thời, vắc xin giải độc tố cũng thường ổn định hơn, ít bị nhạy cảm trước sự thay đổi của nhiệt độ, ánh sáng và độ ẩm.
+Hạn chế: Vắc xin giải độc tố cần sử dụng liều lượng lớn vắc xin mới có thể tạo ra phản ứng miễn dịch cần thiết, có thể xảy ra hiện tượng dung nạp kháng nguyên – là hiện tượng đáp ứng miễn dịch không diễn ra, tế bào miễn dịch không sản sinh kháng thể bảo vệ người tiêm. Do đó, các loại vắc xin giải độc tố thường cần thêm chất bổ trợ và những liều tiêm tăng cường để hầu như luôn cần có chất bổ trợ và liều tăng cường.
+Các loại vắc xin giải độc tố: Vắc xin giải độc tố bạch hầu, vắc xin giải độc tố uốn ván
+Vắc xin giải độc tố “hướng dẫn” hệ thống miễn dịch nhận biết và tấn công “trúng đích”, chỉ tạo kháng thể đặc hiệu với độc tố vi khuẩn thay vì kháng thể với toàn bộ vi khuẩn.
+5. Vaccine vector virus
+Vắc xin vector virus là vắc xin được bào chế bằng cách đưa mã di truyền kháng nguyên của virus gây bệnh vào một virus vô hại khác. Khi được tiêm vào cơ thể, vắc xin vector virus cung cấp cho tế bào người tiêm khả năng tổng hợp protein kháng nguyên của virus gây bệnh, từ đó kích thích hệ thống miễn dịch sinh kháng thể đặc hiệu chủ động, giúp cơ thể được bảo vệ khỏi các virus gây bệnh.
+Lợi ích: Vắc xin vector virus có khả năng kích thích hệ miễn dịch tạo ra các phản ứng miễn dịch mạnh mẽ, hiệu quả cao, số lượng mũi tiêm trong phác đồ cơ bản ít (thường là 1 – 2 mũi).
+Hạn chế: Vắc xin vector virus là công nghệ sản xuất vắc xin liên quan đến di truyền tế bào nên quy trình sản xuất và bảo quản phức tạp, kéo theo chi phí sản xuất và bảo quản tăng cao, chi phí tiêm chủng cũng sẽ cao hơn so với các loại vắc xin khác. Bên cạnh đó, việc tiếp xúc với virus vector trước, tiếp xúc với mã di truyền kháng nguyên sau có thể làm giảm hiệu quả miễn dịch của vắc xin.
+Các loại vắc xin vector virus: vắc xin COVID-19 AstraZeneca (Anh), Sputnik V (Nga), Janssen (Bỉ & Hà Lan)…
+Vắc xin vector virus vận dụng thuyết di truyền của tế bào vi sinh vật để tăng cường kháng thể của người tiêm.
+6. Vắc xin mRNA
+Vắc xin mRNA là vắc xin được bào chế dựa trên công nghệ mRNA, thông qua mã di truyền của tác nhân gây bệnh – mRNA để cung cấp cho tế bào “mã” tạo ra protein kháng nguyên tương tự với protein kháng nguyên trên bề mặt của tác nhân gây bệnh, từ đó kích hoạt phản ứng miễn dịch của hệ thống miễn dịch, sản sinh kháng thể đặc hiệu với tác nhân gây bệnh.
+Lợi ích: mRNA là công nghệ có khả năng thích ứng cao, dễ dàng sửa đổi nhanh chóng bằng cách thay đổi gen chuyển miễn dịch thành các biến thể mục tiêu, có thể được sản xuất trong phòng thí nghiệm bằng nguyên liệu thô sẵn có. Nhờ đó, các nhà khoa học dễ dàng tạo ra nhiều loại vắc xin ứng phó nhanh chóng với các biến thể mới của tác nhân gây bệnh, các đại dịch mới nổi, điển hình là COVID-19. [3]
+Đây là công nghệ mới với nhiều cải tiến trong kỹ thuật bào chế vắc xin, là tiền đề mở đường cho những cải tiến trong tương lai trong việc phát triển vắc xin và phòng chống dịch bệnh.
+Bên cạnh đó, vắc xin mRNA đã được chứng minh là có tỷ lệ hiệu quả cao do mRNA không có khả năng tích hợp vào bộ gen của vật chủ như vắc xin vector virus nên vắc xin mRNA không ảnh hưởng cấu trúc di truyền của người nên an toàn và mang đến hiệu quả rất cao. Một ví dụ điển hình là cả vắc xin Pfizer-BioNTech và Moderna đều chứng minh tỉ lệ hiệu quả phòng ngừa SARS-COV 2 rất cao, lần lượt là khoảng 95% và 94%, cao hơn rất nhiều so với nhiều loại vắc xin truyền thống. [4]
+Hạn chế: Vắc xin mRNA thường yêu cầu điều kiện bảo quản cực lạnh, khiến việc vận chuyển, bảo quản và phân phối trở nên khó khăn ở những khu vực có nguồn lực hạn chế. Ví dụ, vắc xin Pfizer-BioNTech yêu cầu được bảo quản ở nhiệt độ âm sâu tới -70°C. Vì là công nghệ vắc xin mới nên hiện vẫn chưa rõ khả năng bảo vệ của vắc xin mRNA kéo dài bao lâu và có thể cần phải tiêm nhắc lại.
+Các loại vắc xin mRNA: vắc xin phòng COVID-19 Pfizer (Mỹ), Moderna (Mỹ)
+⇒ Xem thêm: Vắc xin tái tổ hợp là gì? Có những loại nào đang lưu hành?
+Vắc xin mRNA mang đến hy vọng cho nền y học toàn cầu về việc phát minh ra những loại vắc xin phòng bệnh nhanh chóng, kịp thời đối phó với các dịch bệnh mới nổi, nhằm tối thiểu hóa rủi ro và gánh nặng của bệnh dịch mang lại.
+Có mấy loại vacxin phân theo nhóm bệnh?
+1. Vắc xin phòng bệnh truyền nhiễm ở trẻ em
+Nhóm bệnh lây qua đường hô hấp: Vắc xin phòng các bệnh do phế cầu Prevenar 13 (Bỉ), Synflorix (Bỉ); vắc xin cúm tứ giá Vaxigrip Tetra (Pháp), Influvac Tetra (Hà Lan), vắc xin cúm tam giá Ivacflu-S (Việt Nam), vắc xin lao BCG (Việt Nam), vắc xin ngừa bệnh viêm màng não do não mô cầu nhóm B Bexsero (Ý), vắc xin ngừa bệnh viêm màng não mô cầu nhóm B, C VA-Mengoc-BC (Cuba), vắc xin ngừa bệnh viêm màng não mô cầu nhóm A, C, Y, W-135 Menactra (Mỹ), vắc xin ngừa bệnh viêm màng não mủ, viêm phổi do vi khuẩn Haemophilus influenzae týp B (Hib), vắc xin có thành phần ngừa bạch hầu, ho gà Adacel (Canada), Boostrix (Bỉ) …
+Nhóm bệnh lây qua đường tiêu hóa: Vắc xin ngừa bệnh tiêu chảy cấp do Rotavirus Rotateq (Mỹ), Rotarix (Bỉ), Rotavin (Việt Nam); vắc xin ngừa bệnh thương hàn Typhim Vi (Pháp), Typhoid Vi (Việt Nam); vắc xin ngừa bệnh tả mORCVAX (Việt Nam), vắc xin ngừa bệnh viêm gan A Havax (Việt Nam), Avaxim (Việt Nam); vắc xin ngừa bệnh bại liệt bOPV (Việt Nam), Imovax Polio (IPV – Pháp), vắc xin 4 trong 1 có thành phần ngừa bại liệt (Tetraxim – Pháp)…
+Nhóm bệnh về da: Vắc xin sởi MVVAC (Việt Nam), vắc xin 3 trong 1 có thành phần ngừa sởi MMR (Ấn Độ), MMR-II (Mỹ), Priorix (Bỉ), vắc xin thủy đậu Varivax (Mỹ), Varicella (Hàn Quốc), Varilrix (Bỉ)…
+Nhóm bệnh lây qua máu: Vắc xin ngừa viêm gan B Heberbiovac HB (Cuba), Gene HB vax (Việt Nam), Engerix B (Bỉ), Euvax B (Hàn Quốc)…
+Nhóm bệnh lây qua đường muỗi đốt: vắc xin sốt xuất huyết, vắc xin sốt rét, vắc xin ngừa viêm não Nhật Bản Jevax (Việt Nam), Imojev (Thái Lan), JEEV (Ấn Độ)…
+Nhóm bệnh lây qua vết thương hở: vắc xin ngừa dại Verorab (Pháp), Abhayrab (Ấn Độ), vắc xin ngừa bệnh uốn ván (uốn ván hấp phụ – TT , uốn ván bạch hầu hấp phụ – Td, bạch hầu – ho gà – uốn ván).
+Nhóm bệnh lây qua đường sinh dục, dịch tiết cơ thể: vắc xin ngừa HPV Gardasil (Mỹ), Gardasil 9 (Mỹ)
+⇒ Xem thêm: Trẻ em cần tiêm những loại vắc xin nào?
+2. Vắc xin phòng bệnh cho người lớn
+Tương tự như trẻ em, người lớn cũng cần tiêm đầy đủ và đúng lịch các nhóm vắc xin phòng bệnh trên, đặc biệt cần chủ động tiêm sớm nhất có thể các loại vắc xin quan trọng đối với từng đặc trưng nghề nghiệp của họ như:
+Nhân viên y tế, dược phẩm, chăm sóc sức khỏe… cần tiêm vắc xin phòng nhóm bệnh lây qua máu, vết thương hở, lây qua đường sinh dục và dịch tiết cơ thể.
+Nhân viên văn phòng thường xuyên nhậu nhẹt, tiếp khác cần tiêm vắc xin phòng nhóm bệnh lây qua đường tiêu hóa.
+Nhân viên làm trong các xí nghiệp dệt may, hóa chất cần tiêm các vắc xin phòng nhóm bệnh hô hấp như cúm, viêm phổi do phế cầu…
+Nhân viên lao động tại các công trường xây dựng cần tiêm vắc xin phòng nhóm bệnh lây qua vết thương hở như uốn ván…
+Người buôn bán, giết mổ động vật cần tiêm vắc xin dại, uốn ván…
+⇒ Xem thêm: Các loại vắc xin người lớn cần tiêm.
+3. Vắc xin phòng bệnh khi đi du lịch
+Tiêm chủng vắc xin trước khi đi du lịch, du học, công tác hoặc định cư nước ngoài, hay thậm chí là đi du lịch, di chuyển sang các khu vực, vùng miền khác trong nước là cực kỳ cần thiết, giúp ngăn ngừa nguy cơ lây nhiễm, mắc bệnh và bùng phát các bệnh truyền nhiễm nguy hiểm đang lưu hành tại địa phương hoặc các quốc gia khác. Đồng thời, tiêm chủng vắc xin trước khi đi du lịch cũng là cách tuân thủ điều lệ kiểm dịch y tế quốc tế hoặc địa phương.
+Các vắc xin được khuyến cáo tiêm ngừa cho người đi du lịch đến:
+Châu Âu: Vắc xin ngừa bệnh viêm gan A , viêm gan B, cúm mùa, thương hàn…
+Châu Á: Vắc xin ngừa bệnh tả, viêm gan A, viêm gan B, cúm mùa, viêm não Nhật Bản, dại, thương hàn…
+Bắc Mỹ: Vắc xin ngừa bệnh viêm gan A, viêm gan B, cúm mùa, thương hàn
+Trung và Nam Mỹ: Vắc xin ngừa bệnh viêm gan A, viêm gan B, cúm mùa, bại liệt, sốt rét, dại, thương hàn, sốt vàng…
+Châu Phi: Vắc xin ngừa bệnh tả, viêm gan A, viêm gan B, cúm, viêm não Nhật Bản, bại liệt, sốt rét, dại, thương hàn, sốt vàng…
+Các nước Trung Đông: Vắc xin ngừa bệnh tả, viêm gan A, viêm gan B, cúm, viêm màng não, bại liệt, sốt rét, dại, thương hàn…
+Châu Đại Dương (hay còn gọi châu Úc): Vắc xin ngừa bệnh viêm gan A, viêm gan B, cúm, viêm não Nhật Bản, dại…
+Ưu tiên tham khảo ý kiến của bác sĩ về việc nên tiêm vắc xin nào với lịch tiêm ra sao đối với từng đối tượng cụ thể.
+Làm gì để nâng cao hiệu quả phòng bệnh của các loại vắc xin?
+Để tối ưu hóa hiệu quả phòng bệnh của các loại vắc xin, người tiêm hoặc phụ huynh cần lưu ý:
+1. Nắm rõ và tiêm ngừa đúng lịch, đúng loại vắc xin.
+Tiêm ngừa đúng loại vắc xin phù hợp với độ tuổi, tình trạng sức khỏe, lịch sử tiêm chủng, tiền sử bệnh lý của cá nhân và tiêm vắc xin đủ mũi theo khuyến cáo của nhà sản xuất vắc xin và đúng lịch theo lịch hẹn của bác sĩ nhằm đảm bảo hiệu quả đáp ứng miễn dịch đầy đủ và đạt hiệu quả phòng ngừa tối ưu.
+⇒ Xem thêm: Lịch tiêm chủng.
+2. Đảm bảo các yếu tố an toàn trong tiêm chủng
+Quá trình tiêm chủng vắc xin cần đảm bảo yếu tố an toàn hàng đầu. Đối với cơ sở tiêm chủng cần cung cấp vắc xin chính hãng, chất lượng cao, được bảo quản trong điều kiện tối ưu trong hệ thống dây chuyền lạnh (Cold Chain) với nhiệt độ bảo quản được duy trì ổn định trong mức quy định của nhà sản xuất từ điểm lưu kho, vận chuyển đến điểm sử dụng tại phòng tiêm.
+Cơ sở tiêm chủng cần thực hiện khám sàng lọc nhằm xác định tình trạng sức khỏe của người tiêm nhằm đảm bảo người tiêm có đầy đủ điều kiện để tiêm chủng vắc xin. Điều dưỡng và nhân viên y tế tại cơ sở tiêm chủng cần thực hiện các thao tác tiêm chủng nghiệp vụ chuyên môn bám sát quy trình tiêm chủng vắc xin an toàn theo quy định của Bộ Y tế.
+Đối với người tiêm hoặc phụ huynh, khi đi tiêm chủng hoặc đưa con trẻ đi tiêm chủng cần:
+Mang theo sổ/phiếu tiêm chủng vắc xin cá nhân, đồng thời chủ động thông báo đầy đủ, chi tiết và chính xác cho các bác sĩ khám sàng lọc các thông tin liên quan đến tiêm chủng như tiền sử bệnh tật, dị ứng, lịch sử tiêm chủng, tình trạng sức khỏe hiện tại…
+Thực hiện đúng các chỉ dẫn của nhân viên tiêm chủng, biết và hiểu về các “Quy định tiêm chủng” để có đủ thông tin, kiến thức đối chiếu với các thao tác thực hành tiêm chủng của nhân viên y tế, kiểm tra vắc xin trước khi tiêm (chủng loại, hạn sử dụng, cách thức sử dụng…) nhằm bảo vệ đúng và đủ quyền lợi tiêm chủng vắc xin an toàn và hiệu quả của bản thân hoặc con trẻ.
+Ở lại trung tâm tiêm chủng 30 phút để theo dõi phản ứng sau tiêm.
+Tiếp tục theo dõi sức khỏe của người tiêm trong vòng ít nhất 24 – 48 giờ sau tiêm theo hướng dẫn của các nhân viên y tế.
+⇒ Hãy xem thêm: An toàn tiêm chủng: Cách thực hiện đúng và đầy đủ.
+An toàn tiêm chủng là yếu tố cần được đề cao hàng đầu trong hành trình tiêm chủng, cần được cơ sở tiêm chủng và người tiêm/phụ huynh phối hợp thực hiện nghiêm ngặt và đúng cách.
+3. Hiểu và biết cách xử lý các phản ứng sau tiêm
+Người tiêm hoặc phụ huynh cần nắm thông tin rõ ràng về các phản ứng có thể xảy ra sau khi tiêm vắc xin. Việc theo dõi tình trạng sức khỏe sau tiêm cũng rất quan trọng để kịp thời nhận biết và điều trị các phản ứng không mong muốn.
+Sau tiêm chủng, người tiêm có thể gặp một số phản ứng thông thường như: Sốt nhẹ (38 – 38.5°C); trẻ quấy khóc và ăn uống kém hơn bình thường; vị trí tiêm đỏ, sưng, đau nhẹ nhẹ, có thể sưng tạo thành cục tại vùng tiêm (khi tiêm ngừa vắc xin lao); có thể phát ban nhẹ (sau khi tiêm ngừa vắc xin phòng sởi)… Những triệu chứng này là hoàn toàn bình thường và sẽ tự hết sau 1 – 2 ngày.
+Có thể xử lý các phản ứng sau tiêm trên bằng những cách sau:
+Mặc quần áo thoáng mát, rộng rãi, thoải mái, thấm hút mồ hôi tốt;
+Người tiêm cần duy trì chế độ dinh dưỡng đầy đủ dưỡng chất hàng ngày, uống nước nhiều hơn, hạn chế tiêu thụ các loại thức ăn cay nóng, nhiều dầu mỡ, đồ ăn đóng hộp, muối chua, chế biến sẵn. Đối với trẻ em, cần cho trẻ bú mẹ và uống nước nhiều hơn;
+Khi bị sốt, có thể dùng thuốc hạ sốt thông thường như Paracetamol với liều phù hợp theo chỉ định cho chuyên gia;
+Nếu tại vết tiêm sưng, đỏ, đau, có thể chườm lạnh bằng cách bọc nước đá sạch vào khăn bông mềm, mỏng để giúp giảm đau và giảm sưng;
+Khi người tiêm mệt mỏi, đau nhức cơ thể, cần cho người tiêm nghỉ ngơi nhiều hơn, ngủ đủ giấc, hạn chế vận động tốn sức;
+Tránh chạm vào vết tiêm, không xoa dầu, chườm nóng hay bôi đắp bất cứ thứ gì lên vết tiêm vì có thể gây nhiễm trùng vết tiêm;
+Không dùng Aspirin, không dùng thêm các thuốc ho và hạ sốt khác nếu không có chỉ định của bác sĩ.
+⇒ Xem thêm: Các phản ứng phụ của vắc xin từ nhẹ đến nặng và cách để hạn chế.
+4. Các trường hợp không nên tiêm vắc xin
+Tùy vào tình trạng sức khỏe và loại vắc xin mà việc tiêm chủng có thể chống chỉ định hoặc tạm hoãn lịch tiêm chủng vắc xin như sau:
+Chống chỉ định tiêm chủng cho tất cả các vắc xin khi người tiêm đã từng có tiền sử phản ứng phản vệ độ III lần tiêm trước với vắc xin cùng loại.
+Những người bị suy giảm miễn dịch nặng do mắc chứng suy giảm miễn dịch bẩm sinh, mắc bệnh HIV/AIDS, điều trị ức chế miễn dịch… và phụ nữ mang thai không được tiêm vắc xin sống giảm độc lực.
+Trì hoãn tiêm trong các trường hợp mắc bệnh cấp tính. Khi người bệnh hồi phục, cần tiếp tục tiêm để đáp ứng đủ miễn dịch phòng bệnh.
+Không nên trì hoãn tiêm chủng vì bệnh đường hô hấp nhẹ hoặc là bệnh cấp tính nhẹ mà không có sốt.
+Một số câu hỏi thường gặp về các loại vacxin
+1. Tiêm cùng lúc nhiều vắc xin có công nghệ sản xuất khác nhau có sao không?
+KHÔNG! Tiêm cùng lúc nhiều loại vắc xin với công nghệ sản xuất khác nhau vẫn đảm bảo khả năng gây miễn dịch tốt với hiệu quả sinh kháng thể tương đương với việc tiêm riêng lẻ từng loại vắc xin với khoảng cách nhất định.
+Tiêm cùng lúc nhiều loại vắc xin có công nghệ sản xuất khác nhau cũng vô cùng an toàn nếu đảm bảo tuân thủ quy định của nhà sản xuất và hướng dẫn của các cơ quan y tế, hoàn toàn không khiến hệ thống miễn dịch bị quá tải, gây ra bất cứ tác dụng phụ nghiêm trọng lâu dài nào đến hệ thống miễn dịch và sức khỏe của người tiêm.
+Thậm chí, có rất nhiều vắc xin phối hợp, kết hợp nhiều loại vắc xin với công nghệ khác nhau vào cùng 1 mũi tiêm, cung cấp khả năng phòng ngừa nhiều bệnh truyền nhiễm nguy hiểm chỉ với 1 mũi tiêm duy nhất. Chẳng hạn như vắc xin 6 trong 1 Hexaxim (Pháp), Infanrix Hexa (Bỉ) là vắc xin phối hợp phòng ngừa bệnh sởi – quai bị – rubella – bại liệt (vắc xin sống giảm độc lực) – viêm gan B (vắc xin bất hoạt) – HiB (vắc xin tiểu đơn vị).
+2. Vì sao có người khuyên không nên tiêm bất cứ loại vắc xin nào?
+“Không nên tiêm bất cứ loại vắc xin nào” là quan niệm không đúng đắn của một bộ phận người dân hiện nay do lo sợ về những phản ứng phụ sau tiêm vắc xin có thể ảnh hưởng đến sức khỏe và tính mạng của họ.
+Ngoài thành phần chính là kháng nguyên, vắc xin còn chứa một số thành phần khác như tá dược, chất bảo quản, chất ổn định, phụ gia, dư chất. Đây là những hoạt chất còn sót lại trong quy trình sản xuất của vắc xin, có thể gây phản ứng phụ sau tiêm nhưng cực kỳ hiếm gặp, hầu như không xảy ra.
+Hầu hết các phản ứng phụ sau tiêm đều là các phản ứng thông thường, gây ra bởi thành phần chính của vắc xin – kháng nguyên, là dấu hiệu cho sự đáp trả của hệ miễn dịch, thông báo rằng hệ thống miễn dịch đang huy động lực lượng kháng thể chống lại các kháng nguyên của vắc xin, bảo vệ cơ thể người tiêm. Những phản ứng này có thể là tại chỗ như đỏ, sưng, đau tại vị trí tiêm hoặc toàn thân nhưng thông thường là nhẹ và tự khỏi sau vài ngày.
+Trong một số trường hợp khác, người tiêm mắc các bệnh lý khác với biểu hiện triệu chứng dễ gây lầm tưởng với các phản ứng phụ dị ứng nghiêm trọng sau tiêm như phát ban, nổi hạch hay dị ứng với nhiều yếu tố dị nguyên khác.
+Bên cạnh đó, có người khuyên không nên tiêm bất cứ loại vắc xin nào vì họ chứng kiến một số rất ít những trường hợp đã tiêm vắc xin nhưng vẫn mắc bệnh. Tuy nhiên, với tất cả các loại vắc xin hiện nay, tỷ lệ bảo vệ không bao giờ là tuyệt đối 100%, có nghĩa là có một tỷ lệ nhỏ hệ thống miễn dịch của người tiêm không đáp ứng tốt trong việc tạo ra kháng thể.
+Tỷ lệ này còn phụ thuộc vào rất nhiều yếu tố khác như môi trường, khả năng tiếp nhận và phản ứng của hệ thống miễn dịch người tiêm, quy trình tiêm chủng vắc xin của cơ sở tiêm ngừa, người tiêm thực hiện tiêm vắc xin không đủ mũi, đúng lịch… Tuy nhiên, hầu hết các trường hợp mắc bệnh sau khi tiêm vắc xin thường diễn biến nhẹ, không có biến chứng nặng hay tử vong, chứng tỏ vắc xin vẫn có tác dụng ức chế và làm giảm nhẹ khả năng hoạt động của tác nhân gây bệnh.
+Ngoài ra, việc mắc bệnh sau khi đã tiêm vắc xin có thể do người tiêm đã từng phơi nhiễm với tác nhân gây bệnh ngay trước khi tiêm hoặc khi vừa mới tiêm vắc xin, hệ miễn dịch của người tiêm chưa kịp sinh ra đủ nồng độ kháng thể để bảo vệ người tiêm khỏi mắc bệnh.
+Bởi, thông thường sau khi tiêm vắc xin khoảng 2 – 4 tuần, quá trình sản sinh kháng thể mới hoàn tất diễn ra. Hoặc trong nhiều trường hợp, người tiêm cũng có thể mắc bệnh khi chưa hoàn thành lịch tiêm vắc xin với phác đồ nhiều mũi. Do đó, các chuyên gia y tế luôn khuyến cáo bất kể ai từ trẻ em đến người lớn đều cần chủ động tiêm ngừa vắc xin càng sớm càng tốt trong độ tuổi được phép tiêm chủng.
+Tiêm vắc xin đúng cách, đảm bảo quy trình tiêm chủng vắc xin an toàn mang lại lợi ích nhiều hơn những rủi ro không đáng kể mà chúng mang lại.
+Kết luận
+Hiện nay có 6 công nghệ sản xuất vắc xin được phát triển và vận dụng để tạo ra những loại vắc xin với khả năng kích thích hệ thống miễn dịch hoạt động, sinh kháng thể bảo vệ cơ thể người tiêm khỏi nguy cơ nhiễm trùng các tác nhân gây bệnh nguy hiểm, bao gồm: vắc xin sống giảm độc lực, vắc xin bất hoạt, vắc xin tiểu đơn vị, vắc xin giải độc tố, vắc xin vector virus và vắc xin mRNA.
+Tất cả các loại vắc xin này mặc dù sở hữu công nghệ bào chế khác nhau nhưng đều hướng đến mục tiêu giúp cơ thể học cách tự bảo vệ khỏi các căn bệnh truyền nhiễm nguy hiểm nếu chẳng may tình trạng phơi nhiễm diễn ra trong tương lai.
+Để tối ưu hóa hiệu quả phòng bệnh của các loại vắc xin, người tiêm hoặc phụ huynh cần nắm rõ lịch tiêm và tiêm ngừa đúng lịch, đúng loại vắc xin; đảm bảo các yếu tố an toàn trong suốt hành trình tiêm chủng; hiểu và biết cách xử lý các phản ứng sau tiêm.

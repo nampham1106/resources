@@ -1,0 +1,97 @@
+# doc_id = health_disease_282
+# url = https://vnvc.vn/sot-xuat-huyet/
+# date = 12/08/2022
+Sốt xuất huyết dengue: nguyên nhân, triệu chứng cảnh báo bệnh
+Sốt xuất huyết “leo top” với số lượng trẻ mắc bệnh gia tăng và chưa có dấu hiệu thuyên giảm, nhiều bệnh nhi nhập viện chuyển biến nặng, phải thở máy, can thiệp điều trị, thậm chí không qua khỏi.
+Các chuyên gia dịch tễ dự báo chu kỳ 4-5 năm, sốt xuất huyết Dengue lại gây ra trận dịch lớn. Năm 2019, trận dịch này bùng phát với hơn 300.000 ca mắc, riêng TP.HCM có khoảng 65.000 ca. Nếu theo đúng chu kỳ, có thể năm 2022 sẽ bắt đầu một trận dịch sốt xuất huyết mới, khi mùa mưa tới, người dân quên dần các khẩu hiệu phòng ngừa dịch bệnh, tạo điều kiện cho muỗi trung gian truyền bệnh phát triển mạnh. Đáng lo ngại là trong đợt này, số ca sốt xuất huyết nặng cao gấp 5,5 lần so với cùng kỳ năm ngoái.
+Theo số liệu của Cục Y tế dự phòng, cả nước ghi nhận hơn 30.000 ca mắc sốt xuất huyết, 15 ca tử vong. So với cùng kỳ 2021, số mắc tăng 17,9%, tử vong tăng 8 ca, dự báo số mắc còn có thể tăng trong thời gian tới. Riêng tại TP.HCM, chỉ trong 7 ngày qua, toàn thành phố phát hiện thêm 121 ổ dịch sốt xuất huyết. Trong 5 tháng đầu năm, TP.HCM ghi nhận 567 ổ dịch sốt xuất huyết với 10.052 ca mắc, tăng 46,4% so với cùng kỳ năm 2021 (6.867 ca). (1)
+Trước tình hình dịch sốt xuất huyết diễn tiến nghiêm trọng với biến chứng nặng liên tục gia tăng. Bộ Y tế cảnh báo ngoài việc chủ động phòng bệnh, người dân cần phát hiện sớm chăm sóc, nhìn nhận và theo dõi người bệnh sốt xuất huyết đúng cách rất quan trọng, đặc biệt là sốt xuất huyết ở trẻ em.
+Mục lụcSốt xuất huyết là gì?Nguyên nhân gây bệnh sốt xuất huyếtTriệu chứng bệnh sốt xuất huyết1. Dấu hiệu sốt xuất huyết nhẹ2. Biểu hiện sốt xuất huyết nặng3. Hội chứng sốc sốt xuất huyếtSốt xuất huyết phổ biến ở đâu?Các yếu tố nguy cơ gây bệnh sốt xuất huyếtBệnh sốt xuất huyết lây lan như thế nào?1. Lây bệnh do bị muỗi vằn Aedes aegypti đốt2. Lây qua đường lấy máu hoặc dùng chung bơm kim tiêm3. Các đường lây truyền ít gặpPhương pháp chẩn đoán bệnh sốt xuất huyếtBiến chứng bệnh sốt xuất huyếtĐiều trị bệnh sốt xuất huyếtPhòng ngừa bệnh sốt xuất huyết1. Vắc xin2. Ngăn ngừa muỗi đốtSốt xuất huyết là gì?
+Sốt xuất huyết Dengue là bệnh truyền nhiễm cấp tính do virus Dengue. Đây là bệnh lây truyền khi muỗi Aedes aegypti (muỗi vằn) mang mầm bệnh đốt. Căn bệnh này đã được ghi nhận từ thế kỷ XIII, xuất hiện trên 100 nước với 50-100 triệu ca mắc mỗi năm trên toàn cầu. Tổ chức Y tế Thế giới (WHO) đã ra tuyên bố “Thế kỷ 21 là thế kỷ phòng chống bệnh sốt xuất huyết”.
+Theo dữ liệu từ WHO cho thấy mỗi năm toàn cầu có khoảng 390 triệu ca nhiễm virus Dengue, trong đó 96 triệu người có biểu hiện lâm sàng. Một nghiên cứu khác về sự phổ biến của bệnh sốt xuất huyết ước tính rằng 3,9 tỷ người có nguy cơ nhiễm virus sốt xuất huyết, trong đó 70% gánh nặng thực sự nằm ở các nước châu Á.
+Số ca sốt xuất huyết được báo cáo cho WHO đã tăng hơn 8 lần trong hai thập kỷ qua, từ 505.430 ca trong năm năm 2000, lên hơn 2,4 triệu ca năm 2010 và 5,2 triệu ca năm 2019. Số ca tử vong được báo cáo trong khoảng thời gian từ năm 2000 đến 2015 tăng từ 960 lên 4032 trường hợp. (2)
+Nguyên nhân gây bệnh sốt xuất huyết
+Nguyên nhân gây bệnh sốt xuất huyết do virus Dengue (chi Flavivirus, họ Flaviviridae), vật trung gian truyền bệnh là muỗi vằn (Aedes aegypti), nó có thể đưa virus gây bệnh vào máu của người bệnh bằng cách đốt (chích)..
+Virus Dengue có 4 chủng huyết thanh khác nhau là DEN-1, DEN-2, DEN-3 và DEN-4. Người bệnh nhiễm với chủng virus nào thì có khả năng tạo nên miễn dịch suốt đời với chủng virus đó, nhưng vẫn có nguy cơ mắc các chủng khác. Vì vậy, những người sống trong vùng lưu hành dịch Dengue có thể mắc bệnh sốt xuất huyết nhiều hơn một lần trong đời bởi chủng virus khác.
+Muỗi Aedes aegypti hoạt động ban ngày, đặc biệt chỉ có muỗi cái mới có thể đốt người và truyền bệnh. Virus Dengue sẽ ủ bệnh trong cơ thể muỗi Aedes khoảng 8-11 ngày. Sau đó, nếu bạn bị muỗi Aedes chích thì virus sẽ được lây truyền.
+Muỗi vằn Aedes aegypti chính là vật trung gian lây nhiễm sốt xuất huyết
+Triệu chứng bệnh sốt xuất huyết
+Triệu chứng bệnh sốt xuất huyết lâm sàng rất đa dạng và dễ nhầm lẫn, có thể diễn tiến từ nhẹ đến nặng. Tùy theo từng mức độ khác nhau, biểu hiện nhận diện sốt xuất huyết cụ thể như sau:
+1. Dấu hiệu sốt xuất huyết nhẹ
+Cấp độ sốt xuất huyết nhẹ thường xuất hiện ở người có lần đầu tiên mắc bệnh vì chưa có miễn dịch với virus Dengue. Đây là mức độ có các triệu chứng điển hình và không gây biến chứng nguy hiểm. Bệnh thường khởi phát với triệu chứng sốt và kéo dài trong vòng 4-7 ngày tính từ khi bị truyền bệnh bởi muỗi. Ngoài ra, các triệu chứng khác cảnh báo bệnh như:
+Sốt cao, lên đến 40,5 độ C;
+Đau đầu nghiêm trọng;
+Đau phía sau mắt;
+Đau khớp và cơ;
+Buồn nôn và ói mửa;
+Phát ban.
+Các ban sốt xuất huyết có thể xuất hiện trên cơ thể 3-4 ngày sau khi bắt đầu sốt và dần thuyên giảm sau 1-2 ngày. Người bệnh có thể bị nổi ban lại một lần nữa vào ngày sau đó.
+2. Biểu hiện sốt xuất huyết nặng
+Ở mức độ này, các dấu hiệu sốt xuất huyết bao gồm tất cả các triệu chứng của dạng sốt xuất huyết nhẹ kèm theo các tổn thương ở mạch máu và mạch bạch huyết, chảy máu cam, chảy máu ở nướu hoặc dưới da, gây ra vết bầm tím. Cấp độ bệnh này có thể dẫn đến nhiều biến chứng nguy hiểm, cần điều trị khẩn cấp, thậm chí gây tử vong.
+3. Hội chứng sốc sốt xuất huyết
+Sốc sốt xuất huyết Dengue là mức độ nặng nhất của bệnh sốt xuất huyết – bao gồm tất cả các triệu chứng sốt xuất huyết nhẹ cộng với các triệu chứng chảy máu, và hiện tượng huyết tương thoát khỏi mạch máu, chảy máu ồ ạt trong và ngoài cơ thể, sốc (huyết áp thấp).
+Thể bệnh này thường xảy ra trong lần nhiễm trùng sau, khi trẻ em và người lớn đã có miễn dịch chủ động (do đã từng mắc bệnh) hoặc thụ động (do mẹ truyền sang) đối với một loại kháng nguyên virus. Bệnh thường biểu hiện nặng đột ngột sau 2-5 ngày (giai đoạn hạ sốt). Sốc sốt xuất huyết thường phổ biến ở trẻ em, tỷ lệ nhỏ ở người lớn. Bệnh có thể chuyển nặng nhanh chóng, gây suy đa cơ quan và tử vong nếu không được điều trị kịp thời, đặc biệt là ở trẻ em và thanh thiếu niên.
+“Những triệu chứng ban đầu của sốt xuất huyết Dengue khá tương đồng với với một số bệnh nhiễm siêu vi khác như cúm. Đặc biệt, khởi phát của sốt xuất huyết Dengue có khi giống với bệnh cảnh Covid-19 nên dễ bỏ sót. Trong bối cảnh hiện nay, tâm lý lo ngại đưa trẻ đi bệnh viện của nhiều phụ huynh dẫn đến nguy cơ trẻ bệnh sốt xuất huyết Dengue dễ trở nặng, gây nhiều biến chứng, thậm chí nguy hiểm đến tính mạng” BS Trương Hữu Khanh, Phó Chủ tịch Liên Chi hội Truyền nhiễm TP.HCM cảnh báo.
+Sốt cao không hạ là triệu chứng cảnh báo bệnh sốt xuất huyết
+Sốt xuất huyết phổ biến ở đâu?
+Sốt xuất huyết hiện nay là vấn đề y tế công cộng mang tính toàn cầu và được WHO đánh giá là một trong những bệnh do vật trung gian truyền bệnh nguy hiểm nhất. Kể từ khi được phát hiện vào những năm 50 của thế kỷ trước, sốt xuất huyết liên tục lan rộng ra các quốc gia, hiện bệnh đã được lưu hành trên 100 quốc gia với hàng trăm triệu ca mắc trên toàn thế giới mỗi năm, đặc biệt số người mắc đã tăng tới 30 lần trong 50 năm qua.
+Tình hình dịch sốt xuất huyết xuất hiện không ổn định phù hợp vào nhiều yếu tố như thời tiết khí hậu, lượng mưa. Đặc biệt, bệnh thường bùng phát mạnh vào khoảng thời gian trong và ngay sau mùa mưa ở các khu vực nhiệt đới và cận nhiệt đới như châu Phi, Đông Nam Á, Trung Quốc, Ấn Độ, Trung đông, khu vực Caribe, Trung Mỹ, Nam Mỹ, Châu Úc và Tây Nam Thái Bình Dương.
+Các yếu tố nguy cơ gây bệnh sốt xuất huyết
+Ai cũng có nguy cơ bị sốt xuất huyết, tuy nhiên trẻ nhỏ, người có hệ miễn dịch yếu, người có bệnh lý nền,… có tỷ lệ mắc bệnh cao hơn người khỏe mạnh. Các yếu tố nguy cơ làm tăng tỷ lệ mắc sốt xuất huyết như:
+Sinh sống hoặc đi du lịch ở vùng nhiệt đới và cận nhiệt đới sẽ làm tăng nguy cơ tiếp xúc với virus gây Dengue. Đặc biệt là các khu vực có nguy cơ cao như Đông Nam Á, các đảo Tây Thái Bình Dương, châu Mỹ Latinh và vùng Caribê;
+Người đã có tiền sử bị sốt xuất huyết thì khi nhiễm lại, các triệu chứng sẽ nặng và nguy hiểm hơn;
+Trẻ em dưới 12 tuổi;
+Phụ nữ và người da trắng;
+Bệnh sốt xuất huyết lây lan như thế nào?
+Hiện nay, những lầm tưởng, quan điểm nhìn nhận chưa đúng về sốt xuất huyết rất nhiều, trong đó có vấn đề đường lây truyền bệnh và việc tiếp xúc với người bị sốt xuất huyết có lây bệnh không? Cần phải khẳng định, sốt xuất huyết không lây truyền khi tiếp xúc với người bệnh, mà lây phổ biến qua các con đường sau:
+1. Lây bệnh do bị muỗi vằn Aedes aegypti đốt
+Đây là đường lây truyền phổ biến nhất. Muỗi vằn Aedes aegypti là trung gian truyền bệnh sốt xuất huyết. Muỗi sau khi hút máu của người bệnh sốt xuất huyết hoặc người lành mang bệnh (người mang virus Dengue nhưng không triệu chứng) sau đó đốt người khỏe mạnh sẽ đưa virus vào cơ thể và gây bệnh.
+2. Lây qua đường lấy máu hoặc dùng chung bơm kim tiêm
+Đường lây truyền này ít phổ biến hơn so với lây qua đường muỗi vằn đốt. Người lành có nguy cơ cao mắc bệnh nếu lấy máu của người mang mầm bệnh truyền cho người lành hoặc khi người lành và người bệnh dùng chung bơm kim tiêm.
+3. Các đường lây truyền ít gặp
+Lây truyền tại bệnh viện: Virus Dengue có thể bị lây qua các chế phẩm máu, phơi nhiễm với tổn thương do kim tiêm, tổn thương ở niêm mạc. Người hiến tặng máu không có triệu chứng cũng có thể mang virus Dengue trong máu.
+Lây truyền dọc: Người mẹ mang virus dengue trong máu (mắc bệnh trong vòng 10 ngày trước sinh) có thể truyền virus cho con khi sinh. Sốt xuất huyết có thể biểu hiện ở trẻ sơ sinh lúc 4-11 ngày tuổi.
+Người đã từng bị sốt xuất vẫn có nguy cơ mắc bệnh lại, do đó tuyệt đối không chủ quan
+Phương pháp chẩn đoán bệnh sốt xuất huyết
+Sốt xuất huyết và các bệnh truyền nhiễm khác do virus khác như: Covid-19, sốt rét, bệnh do leptospira và sốt thương hàn,… có các dấu hiệu và triệu chứng tương đồng nhau nên việc chẩn đoán bệnh sốt xuất huyết chính xác khác khó khăn.
+“Hệ miễn dịch càng suy yếu thì nguy cơ vừa nhiễm sốt xuất huyết vừa kèm thêm nhiều bệnh lý khác càng gia tăng. Giai đoạn đầu các triệu chứng của bệnh có thể trùng lắp nên rất khó để biết trẻ bị nhiễm virus sốt xuất huyết, virus SARS-CoV-2, nhiễm các loại siêu vi khác hay bị đồng thời nhiều bệnh. Đây chính là khó khăn trong việc chẩn đoán chính xác bệnh” BS Trương Hữu Khanh cho biết.
+Chẩn đoán sốt xuất huyết Dengue thường dựa vào các yếu tố dịch tễ, biểu hiện lâm sàng cũng như dựa vào các xét nghiệm đơn giản: số lượng bạch cầu, số lượng tiểu cầu và hematocrit (3). Một số xét nghiệm có thể giúp phát hiện mức độ của sốt xuất huyết như:
+Điện giải đồ;
+Khí máu;
+Chức năng đông máu;
+Men gan;
+X-quang phổi nhằm phát hiện biến chứng tràn dịch phổi.
+Biến chứng bệnh sốt xuất huyết
+Trước đây, bệnh sốt xuất huyết thường chỉ phổ biến ở trẻ em; nhưng hiện tại, nhiều người lớn cũng mắc bệnh và tỷ lệ biến chứng khá cao. Nếu không được điều trị đúng cách, người bệnh có thể gặp biến chứng nguy hiểm đến tính mạnh như:
+Tiểu cầu hạ: Biến chứng này không khiến cho người bệnh sốt cao hay mệt mỏi nhiều nên khó nhận biết. Đến khi người bệnh diễn tiến xuất huyết trầm trọng thì bệnh đã chuyển biến giai đoạn 2.
+Cô đặc máu: Việc máu bị cô đặc sẽ dẫn đến các hệ luỵ khác như: Mệt mỏi, đau nhức toàn thân, sốt cao và đầu óc lơ mơ, buồn nôn không tỉnh táo.
+Bé trai mắc sốt xuất huyết độ nặng, được truyền dịch tại Bệnh viện Nhi đồng 1., TP.HCM. (Nguồn ảnh: Zingnew)
+Điều trị bệnh sốt xuất huyết
+Hiện nay, sốt xuất huyết chưa có thuốc điều trị đặc hiệu, hầu hết bệnh sẽ tự khỏi trong vòng 2 tuần. Bác sĩ sẽ điều trị các triệu chứng để hạn chế diễn tiến nặng có thể xảy ra. Những trường hợp nhiễm bệnh nhẹ có thể tự khỏi sau một tuần. Những trường hợp nặng được điều trị chủ yếu giảm triệu chứng và kiểm soát các nguy cơ diễn biến nặng của bệnh bằng cách hạ sốt, truyền dịch và chống sốc tích cực.
+Việc điều trị sốt xuất huyết phải tuân theo phác đồ điều trị chuẩn. Khi xác định dương tính với sốt xuất huyết, người bệnh sẽ được kê đơn điều trị tại nhà hoặc nhập viện điều trị nội trú tùy thuộc vào tình trạng bệnh. Trong thời gian này, bác sĩ có thể kê một số thuốc để giảm sốt như Paracetamol (Tylenol®, Panadol®). Cần tránh các thuốc giảm đau có nguy cơ tăng biến chứng chảy máu như aspirin, ibuprofen và naproxen sodium.
+“Tự ý uống hạ sốt liên tục, uống kháng sinh là sai lầm khá phổ biến khi điều trị sốt xuất huyết tại nhà. Nguyên nhân là bệnh sốt xuất huyết do virus Dengue gây ra, không phải vi khuẩn. Do đó, kháng sinh không có tác dụng điều trị bệnh này.” BS Trương Hữu Khanh khuyến cáo.
+Ngoài ra, người bệnh cần có chế độ ăn uống lành mạnh, giàu chất xơ và vitamin C, uống nhiều nước và nghỉ ngơi, tránh ăn đồ nhiều dầu mỡ, khó tiêu. Duy trì điều trị và theo dõi trong khoảng 12 ngày, người bệnh có thể quay lại cơ sở y tế để tái khám và nếu không xảy ra biến chứng bất thường có nghĩa là bệnh đã khỏi.
+Phòng ngừa bệnh sốt xuất huyết
+1. Vắc xin
+Tháng 6/2016, vắc xin phòng sốt xuất huyết Dengvaxia đầu tiên trên thế giới đã được cấp phép lưu hành. Đã có nhiều quốc gia đưa vào sử dụng vắc xin này, bao gồm 3 nước Đông Nam Á (ASEAN) như: Thái Lan, Singapore, Philippines. Tuy nhiên, hiện nay Việt Nam vẫn chưa sử dụng loại vắc xin sốt xuất huyết, bởi tính miễn dịch của vắc xin phòng sốt xuất huyết chưa cao, nên vẫn còn nhiều lo ngại về tính hiệu quả, an toàn khi triển khai tiêm chủng thực tiễn cho người dân.
+Diệt muỗi, lăng quăng, bọ gậy, phòng muỗi đốt và giữ vệ sinh nhà ở và môi trường xung quanh là cách tốt nhất phòng sốt xuất huyết
+2. Ngăn ngừa muỗi đốt
+Hiện sốt xuất huyết vẫn chưa có vắc xin và thuốc điều trị đặc hiệu. Muỗi vằn chính là nguồn lây bệnh trung gian và cách tốt nhất để phòng bệnh sốt xuất huyết là tiêu diệt muỗi tận gốc, khi đó nguy cơ bùng phát dịch sẽ giảm đi đáng kể.
+Biện pháp phòng và diệt bọ gậy, lăng quăng, muỗi:
+Thay nước thường xuyên cho các lọ hoa, chậu cây cảnh có nước,…
+Thả cá vàng vào bể cá, hồ cá, hòn non bộ,… để tiêu diệt bọ gậy, lăng quăng.
+Che đậy lu nước, xô nước,…
+Xúc rửa các dụng cụ chứa nước hàng tuần.
+Lật úp các dụng cụ chứa nước khi không sử dụng.
+Thu gom phế liệu, rác thải thường xuyên.
+Phát quang bụi rậm, cây cối trong vườn.
+Phun thuốc diệt muỗi quanh nhà.
+Thay đổi thói quen sinh hoạt:
+Ngủ màn kể cả ban ngày.
+Mặc quần áo dài tay, dài chân và nhạt màu khi ra ngoài.
+Thoa dầu tràm hoặc kem chống muỗi.
+Mùa mưa, nên hạn chế ra ngoài vào buổi chiều tối, đặc biệt không đến những nơi um tùm, ẩm thấp, nhiều cây cối,…
+Ba mẹ khi cho bé ra ngoài vui chơi cần theo dõi, giám sát bé thường xuyên, không để bị muỗi đốt.
+Đóng kín các cửa trong nhà.
+Người bị sốt xuất huyết cần ngủ màn thường xuyên để phòng tránh muỗi đốt và lây truyền cho những thành viên khác trong nhà.
+Sốt xuất huyết ở mức độ nặng có thể gây ra biến chứng nghiêm trọng, tổn hao đáng kể chi phí y tế, thậm chí cướp đi tính mạng người bệnh. Mỗi người cần chủ động tự giác phòng ngừa bệnh, loại bỏ muỗi vằn xung quanh gia đình, đồng thời phát hiện sớm các triệu chứng để điều trị bệnh kịp thời.

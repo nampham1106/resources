@@ -1,0 +1,113 @@
+# doc_id = health_disease_205
+# url = https://vnvc.vn/tinh-hinh-tiem-vac-xin-covid-19/
+# date = 11/06/2021
+Tình hình tiêm vắc xin COVID-19: Bức tranh toàn cảnh VN & TG
+Tính đến ngày 9/8/2021, đã có hơn 4,4 tỷ liều vắc xin phòng COVID-19 được tiêm trên toàn thế giới; tương đương 57 liều vắc xin cho mỗi 100 người.
+Đại dịch COVID-19, có nguồn gốc từ thành phố Vũ Hán (Trung Quốc), từ những ngày cuối năm 2019 đến nay đã lan rộng hơn 215 quốc gia và vùng lãnh thổ. Đã có gần 203 triệu ca nhiễm bệnh và gần 4.3 triệu người tử vong ở khắp thế giới (tính đến ngày 9/8/2021). (1)
+Mục lụcVắc xin: Chìa khóa chấm dứt đại dịch trên toàn thế giớiTình hình tiêm vắc xin COVID-19 tại các quốc gia Đông Nam ÁVắc xin: Chìa khóa chấm dứt đại dịch trên toàn thế giới
+Sau gần 2 năm kể từ khi đại dịch COVID-19 bùng phát, vắc xin vẫn là vũ khí được toàn nhân loại trông chờ. Đến nay đã có gần 100 loại vắc xin đang được các nhà nghiên cứu thử nghiệm lâm sàng trên người, trong đó có 32 loại đạt đến giai đoạn thử nghiệm cuối cùng và ít nhất 77 loại vắc xin tiền lâm sàng đang được thử nghiệm tích cực trên động vật.
+Tại Việt Nam, tính đến ngày 9/8/2021, VNVC đã đưa về Việt Nam 4.387.100 liều vắc xin COVID-19 theo Hợp đồng đặt mua 30 triệu liều vắc xin COVID-19 của Hệ thống Trung tâm tiêm chủng VNVC và hãng dược VNVC. Toàn bộ vắc xin đã được VNVC lập tức chuyển giao cho Bộ Y Tế theo nguyên tắc phi lợi nhuận nhằm kịp thời triển khai tiêm chủng cho nhân dân. Sắp tới, hàng chục triệu liều vắc xin phòng COVID-19 của AstraZeneca sẽ được VNVC khẩn trương mang về Việt Nam, đáp ứng khẩn cấp nhu cầu phòng chống dịch đang trong giai đoạn cực kỳ căng thẳng. Không dừng lại ở đó, VNVC sẽ tiếp tục cố gắng tìm kiếm những nguồn vắc xin chất lượng cao, kịp thời mang về cho đất nước, góp phần đẩy lùi đại dịch.
+Trên Thế Giới, dự kiến trong năm 2021 nhu cầu vắc xin COVID-19 sẽ vượt xa khả năng cung ứng, hầu hết các quốc gia đã tập trung đẩy mạnh công tác tiêm chủng cho nhóm người thuộc có nguy cơ mắc bệnh lớn, dễ tổn thương nhất khi mắc bệnh, đặc biệt là cán bộ y tế tuyến đầu và người cao tuổi từ 60, 70 tuổi trở lên.
+Danh sách các quốc gia và vùng lãnh thổ trên thế giới có tỷ lệ tiêm chủng vắc xin cao nhất (dữ liệu cập nhật ngày 9/8/2021 của New York Times lấy từ nguồn chính phủ do dự án Our World in Data tại Đại học Oxford thu thập). (2)
+Liều dùng
+Tỷ lệ dân số
+Mỗi 100 người
+Toàn bộ
+Đã tiêm phòng mũi 1
+Đã tiêm phòng đầy đủ
+Thế giới
+57
+4.438.284.025
+–
+–
+UAE
+174
+17.037.618
+81%
+73%
+Malta
+154
+770.946
+80%
+78%
+Bahrain
+144
+2.357.620
+68%
+65%
+Uruguay
+141
+4.879.292
+75%
+66%
+Qatar
+139
+3.938.599
+75%
+64%
+Chile
+136
+25.688.833
+73%
+65%
+Aruba
+131
+139.566
+69%
+63%
+Mông Cổ
+130
+4.198.321
+68%
+62%
+Vương quốc Anh
+129
+86.009.359
+70%
+58%
+Israel
+128
+11.588.381
+64%
+60%
+Na Uy
+105
+5.623.949
+69%
+36%
+–
+–
+–
+–
+–
+Việt Nam
+8.4
+8.061.116
+7.5%
+0.9%
+–
+–
+–
+–
+–
+Congo
+0.1
+86.170
+0.1
+0.1
+Haiti
+0.1
+12.641
+0.1
+0.1
+Thống kê cho thấy, tỷ lệ tiêm vắc xin COVID-19 đang có sự khác biệt rõ ràng giữa các châu lục. Châu Phi và khu vực Mỹ Latinh đang có tỷ lệ tiêm chủng vắc xin COVID-19 chậm nhất so với các châu lục khác. Với Cộng hòa Dân chủ Congo – quốc gia ở Trung Châu Phi – có tỷ lệ tiêm chủng 0,1 %, tổng số liều tiêm là 86.170; Haiti – quốc gia ở vùng biển Ca-ri-bê, thuộc khu vực Mỹ La tinh – có tỷ lệ tiêm chủng 0,1%, hiện chỉ có 12.641 liều vắc xin COVID-19 được tiêm.
+Khoảng 85% số liều vắc xin COVID-19 đã được tiêm trên toàn cầu thuộc các quốc gia có thu nhập cao và trung bình cao; ở các nước có thu nhập thấp, con số này chỉ đạt dưới 1%.
+Tình hình tiêm vắc xin COVID-19 tại các quốc gia Đông Nam Á
+Tính đến đầu tháng 8/2021, toàn bộ 11 nước ở khu vực Đông Nam Á đã triển khai tiêm vắc xin COVID-19, trong đó Singapore dẫn đầu về tỷ lệ người được tiêm ít nhất một mũi, với tổng số liều tiêm hiện là 7.831.520, tỷ lệ tiêm đang ở mức 76% (3). Tiếp theo là Campuchia với 13.393.448 liều tiêm, đạt tỷ lệ tiêm chủng vắc xin là 48%; và Malaysia với 23.608.290 liều tiêm, đạt tỷ lệ tiêm chủng vắc xin là 48%. So với mặt bằng chung những quốc gia trên thế giới và các quốc gia Đông Nam Á, Việt Nam có tỷ lệ tiêm chủng vắc xin COVID-19 ở mức khá thấp, với 8.061.116 tổng số liều tiêm và 7.5% tỷ lệ người được tiêm 1 mũi (tính đến ngày 09/08/2021).
+Theo GS.TS Nguyễn Thanh Long – Bộ trưởng bộ Y tế, từ tháng 5/2020, Bộ Y tế và các bộ ngành liên quan đã tích cực đàm phán với các quốc gia khác, nhằm tiếp cận nhanh nhất nguồn vắc xin phòng COVID-19. Sáng 3/6/2021, Bộ Y tế cho biết hơn 120 triệu liều vắc xin phòng COVID-19 sẽ có mặt tại Việt Nam trong năm 2021.
+Hiện công tác đàm phán vẫn đang được đẩy mạnh nhằm cung ứng cho người dân Việt Nam nguồn vắc xin tốt nhất, chất lượng nhất, giúp Việt Nam đạt được mục tiêu tạo miễn dịch cộng đồng vào cuối năm 2021, đầu năm 2022.
+Theo đó, ngoài vắc xin AstraZeneca (Vương Quốc Anh), trong năm nay Việt Nam đã đàm phán với các hãng để nhập về thêm 5 triệu liều vắc xin Moderna, 31 triệu liều vắc xin Pfizer và 20 triệu liều vắc xin Sputnik V của Nga.
+Lịch trình 120 triệu liều vắc xin phòng COVID-19 sẽ về Việt nam trong năm 2021, như sau: (4)
+“Không quốc gia nào thật sự an toàn trước đại dịch cho đến khi mọi quốc gia đều an toàn. Chỉ khi khoảng 60-75% người có miễn dịch với COVID-19 trong cộng đồng, chúng ta mới có thể đẩy lùi và kiểm soát được COVID-19”, Bác sĩ Trương Hữu Khanh, Nguyên trưởng khoa Nhiễm – Thần kinh, Bệnh viện Nhi đồng I, TP.HCM cho biết.
+Tính đến nay, số liệu tiêm chủng vắc xin ở Việt Nam và thế giới khá khả quan. Nhưng ngay cả khi đạt được tỷ lệ tiêm chủng lý tưởng 60-75%, người dân không được chủ quan, những nước đã tiêm vắc xin ngừa COVID-19 trên diện rộng như UAE,Bahrain, Israel vẫn khuyến cáo người dân đeo khẩu trang, thực hiện các biện pháp khoảng cách và khử khuẩn. Người dân cần hiểu rõ, vắc xin không tạo miễn dịch ngay sau khi được tiêm vào, nên các biện pháp bảo vệ khác được khuyến cáo vẫn cần thực hiện nghiêm ngặt.
+Trên đây là toàn bộ tình hình tiêm vắc xin Covid-19 tại Việt Nam và trên toàn thế giới. Cùng Hệ thống tiêm chủng VNVC thực hiện nghiêm túc thông điệp 5K, khai báo y tế, phối hợprà soát, sàng lọc, phân luồng, đảm bảo an toàn cho công tác tiêm chủng.

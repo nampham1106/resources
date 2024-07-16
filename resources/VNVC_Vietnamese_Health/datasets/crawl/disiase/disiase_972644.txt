@@ -1,0 +1,128 @@
+# url = https://vnvc.vn/cold-chain/
+# date = 28/03/2024
+Cold chain là gì? Dây chuyền lạnh bảo quản vắc xin an toàn
+Vắc xin là sinh phẩm y tế rất nhạy cảm với nhiệt độ, cần được bảo quản trong phạm vi nhiệt độ hẹp (thường là từ 2 – 8 °C) ở mọi thời điểm. Do đó, để bảo toàn hiệu lực, tính an toàn của vắc xin, vắc xin cần được bảo quản và vận chuyển trong dây chuyền lạnh (Cold Chain) với nhiệt độ được duy trì ổn định trong phạm vi khuyến cáo từ điểm sản xuất đến điểm sử dụng. Vâỵ dây chuyền lạnh bảo quản vắc xin Cold Chain là gì? Những yêu cầu nào cần thiết cho một dây chuyền lạnh Cold Chain bảo quản vắc xin an toàn?
+
+
+
+ThS Nguyễn Diệu Thuý – Chuyên viên Y khoa Hệ thống Trung tâm tiêm chủng VNVC cho biết: “Vắc xin là chế phẩm sinh học đặc biệt nhạy cảm có chứa các kháng nguyên, khi được tiêm vào cơ thể, vắc xin tạo ra phản ứng miễn dịch để bảo vệ con người khỏi các tác nhân gây bệnh là virus và vi khuẩn. Để phát huy hiệu quả bảo vệ và an toàn cho người sử dụng, vắc xin đòi hỏi điều kiện bảo quản nghiêm ngặt 2 – 8 độ C ở tất cả các khâu sản xuất, vận chuyển, bảo quản và sử dụng.”.
+
+
+
+
+Mục lụcVắc xin nhạy cảm với nhiệt độ như thế nào?Hành trình của vắc xin trước khi tiêm vào cơ thểCold Chain là gì?Cấu trúc của dây chuyền lạnh bảo quản vắc xin (Cold Chain)1. Nhập vắc xin vào kho lạnh tổng2. Vận chuyển vắc xin từ kho tổng đến kho trung tâm3. Vận chuyển vắc xin từ kho trung tâm đến phòng tiêm4. Bảo quản vắc xin tại phòng tiêm“Kiềng 3 chân” của Cold Chain tạo nên sự an toàn tuyệt đối cho vắc xin1. Thiết bị lưu trữ và vận chuyển kiểm soát nhiệt độ an toàn2. Đội ngũ vận hành có chuyên môn và am hiểu hệ thống bảo quản vắc xin3. Quy trình chuẩn hóa về vận hành, kiểm soát và sử dụng thiết bịNhững lợi ích của dây chuyền lạnh bảo quản vắc xinThực trạng về chuỗi cung ứng lạnh bảo quản vắc xin tại Việt Nam và thế giới1. Thực trạng trên thế giới:2. Thực trạng tại Việt Nam:Kết luậnVắc xin nhạy cảm với nhiệt độ như thế nào?
+Vắc xin là chế phẩm sinh học vô cùng nhạy cảm, có chứa kháng nguyên có thể là các vi khuẩn hoặc virus sống, đã bị làm cho yếu hoặc chết nhằm kích thích cơ thể sinh miễn dịch đặc hiệu chủ động phòng các tác nhân gây bệnh truyền nhiễm..
+Vắc xin nếu bảo quản không đúng nhiệt độ quy định của nhà sản xuất có thể bị biến chất, suy giảm tác dụng của thành phần hoạt tính có trong vắc xin, dẫn đến khả năng sinh miễn dịch không đầy đủ, không xảy ra phản ứng miễn dịch hoặc mất hiệu quả chủng ngừa, thậm chí còn gây ra những tác động tiêu cực đến sức khỏe và tính mạng của người được tiêm.
+Ví dụ vắc xin uốn ván – bạch hầu (TD), uốn ván, thương hàn có thể hỏng khi bị đông băng, vắc xin sởi – rubella (MR), sởi – quai bị – rubella (MMR) có thể hỏng khi tiếp xúc nhiệt độ cao hoặc ánh sáng.
+Theo kết quả báo cáo về sự an toàn của vắc xin được bảo quản ngoài nhiệt độ khuyến nghị trong giai đoạn 2008 – 2012 được thực hiện bởi Beth F Hibbs – nhà dịch tễ học, Trung tâm Quốc gia về các bệnh truyền nhiễm mới nổi và truyền nhiễm từ động vật sang người, Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh (CDC), Hoa Kỳ và cộng sự:
+Trong số 476 báo cáo về việc vắc xin được bảo quản từ 15 phút đến 6 tháng ngoài nhiệt độ khuyến nghị, có đến 77% trường hợp xảy ra các sự cố tiêm chủng khác nhau và khoảng 96% (456 báo cáo) người tiêm đối mặt với những tổn hại đến sức khỏe. [1]
+Do đó, nhiệt độ bảo quản vắc xin là một trong những yếu tố quan trọng hàng đầu quyết định đến chất lượng, tính an toàn và hiệu quả của vắc xin, đòi hỏi phải được bảo quản nghiêm ngặt tuyệt đối trong suốt hành trình từ điểm sản xuất đến điểm tiêm chủng.
+⇒ Xem thêm: Các vaccine nhạy cảm với nhiệt độ đông băng được bảo quản thế nào?
+Hệ thống tiêm chủng VNVC có 100% kho lạnh đạt chuẩn GSP và hệ thống dây chuyền lạnh bảo quản vắc xin ở mức cao nhất, đảm bảo an toàn và tính hiệu quả của vắc xin.
+Hành trình của vắc xin trước khi tiêm vào cơ thể
+Mỗi một liều vắc xin trước khi được tiêm vào cơ thể người và tạo ra những phản ứng miễn dịch “kỳ diệu” bảo vệ người tiêm khỏi sự tấn công và gây bệnh của virus, vi khuẩn… đều phải trải qua hành trình dài, từ khâu sản xuất, vận chuyển, lưu trữ rồi mới đến tay người tiêm.
+
+
+
+Khâu sản xuất
+Ngày nay, các nhà khoa học đã nghiên cứu rất nhiều phương pháp khác nhau để tạo ra vắc xin dựa trên các đặc điểm sinh học của vi khuẩn, virus gây bệnh như vắc xin sống giảm độc lực (vắc xin bị làm yếu đi trong phòng thí nghiệm); vắc xin bất hoạt (bị làm chết); vắc xin vô bào (chứa một thành phần của virus, vi khuẩn gây bệnh); vắc xin tái tổ hợp (dựa trên hệ gen của vi khuẩn, virus)…
+Kháng nguyên thu được từ vi khuẩn, virus sẽ được xử lý bằng cách thêm chất bổ trợ, chất ổn định và chất bảo quản nhằm tăng cường đáp ứng miễn dịch của kháng nguyên và tăng thời gian bảo quản, cho phép sử dụng lọ đa liều.
+Sau khi được tinh chế thành công và trải qua các khâu kiểm định chất lượng cần thiết, nhằm đảm bảo vắc xin đáp ứng các tiêu chuẩn an toàn và hiệu quả, vắc xin sẽ được đóng gói thành phẩm kèm nhãn mác tương ứng với đầy đủ các thông tin của vắc xin.
+
+
+Khâu vận chuyển
+Sau khi được sản xuất và đóng gói, vắc xin sẽ được vận chuyển đến điểm tiêm chủng. Có 3 giai đoạn vận chuyển chính trong chuỗi cung ứng vắc xin:
+
+Từ nhà sản xuất đến kho lạnh tổng của các cơ sở tiêm chủng (đối với các đơn vị tiêm chủng có hệ thống kho lạnh và kho lạnh tổng như VNVC), thường là vận chuyển quốc tế. Ví dụ: vắc xin Gardasil 9 được VNVC nhập khẩu chính hãng, trực tiếp từ nhà sản xuất MSD tại Mỹ về kho lạnh tổng tại Thành phố Hồ Chí Minh, Hà Nội và Đà Nẵng. Ở giai đoạn này, vắc xin thường được vận chuyển bằng đường hàng không, hiếm khi đi bằng đường thủy để tiết kiệm thời gian, điều này cũng có nghĩa chi phí vận chuyển vắc xin thông thường rất cao và đặc biệt cao trong các tình huống khẩn cấp, vắc xin cần phục vụ cho các đợt dịch bệnh.
+Từ kho tổng đến các kho trung tâm (đối với các đơn vị tiêm chủng có hệ thống kho tổng và kho trung tâm như VNVC): Giai đoạn này, vắc xin thường được vận chuyển bằng phương thức đường bộ, tối ưu nhất là xe lạnh chuyên dụng đạt chuẩn GSP.
+Mỗi ngày, vắc xin từ kho trung tâm sẽ được vận chuyển bằng thùng lạnh chuyên dụng đến tủ bảo quản chuyên dụng tại phòng tiêm (đối với các đơn vị tiêm chủng có hệ thống kho bảo quản ngay tại trung tâm như VNVC, hiện nay nhiều đơn vị vẫn bảo quản vắc xin trực tiếp trong tủ lạnh). Đến cuối ngày, vaccine sẽ được đưa từ tủ bảo quản chuyên dụng về lại kho trung tâm để giám sát theo tiêu chuẩn GSP. Các vaccine có cảnh báo sắp hạn sử dụng sẽ có khu vực biệt trữ, xử lý theo quy định, có phần mềm và công cụ chặn ngay từ cửa kho tổng, đảm bảo không lọt đến kho trung tâm.
+
+
+
+
+Khâu lưu trữ
+Sau khi được vận chuyển đến các điểm trung chuyển vắc xin hoặc điểm tiêm chủng, vắc xin được lưu trữ theo các quy cách được quy định về nhiệt độ, ánh sáng, vị trí, khoảng cách,… nhằm đảm bảo vắc xin toàn vẹn về chất lượng, hiệu quả, an toàn và hình thức ngoại quan.
+
+
+Tiêm vắc xin
+Tại điểm tiêm chủng, vắc xin sẽ được lấy ra từ tủ lạnh chuyên dụng và tiêm cho Khách hàng theo chỉ định của bác sĩ. Khách hàng được quyền kiểm tra, đối chiếu lọ vắc xin thông qua thông tin trên hộp, lọ vắc xin và cảm quan bằng mắt thường. Tại VNVC, một lọ vắc xin dù chưa mở nắp nếu bị nghiêng, đổ cũng sẽ không được đưa vào sử dụng.
+Vắc xin đi vào cơ thể người tiêm, kích thích phản ứng của hệ thống miễn dịch với virus hoặc vi khuẩn, tạo ra trí nhớ miễn dịch cho phép cơ thể ghi nhớ các loại virus hoặc vi khuẩn cụ thể có trong vắc xin, giúp cơ thể có thể tự bảo vệ chống lại virus hoặc vi khuẩn này và ngăn ngừa bệnh tật mà chúng gây ra trong tương lai.
+
+
+
+Như vậy, có thể thấy trong suốt “vòng đời” từ khâu sản xuất, vận chuyển, lưu trữ đến khi được tiêm vào cơ thể người, vắc xin phải trải qua rất nhiều công đoạn và tuân theo các quy trình bảo quản, kiểm định chất lượng, vận chuyển nghiêm ngặt nhằm đảm bảo toàn vẹn về chất lượng, hiệu quả và tính an toàn của vắc xin khi tiêm.
+Những đòi hỏi khắt khe trên của vắc xin cần được đáp ứng bằng cách xây dựng một dây chuyền bảo quản lạnh khép kín từ khâu sản xuất đến khâu sử dụng.
+Cold Chain là gì?
+Dây chuyền bảo quản lạnh (Cold chain) là hệ thống quy trình và trang thiết bị bảo quản vắc xin chuyên dụng gồm: kho lạnh, xe lạnh, tủ lạnh và thùng lạnh giúp bảo quản, lưu trữ vắc xin trong điều kiện tối ưu theo tiêu chuẩn của nhà sản xuất. Bảo quản tốt vắc xin không chỉ đảm bảo tính toàn vẹn và chất lượng của vắc xin đến với người dùng mà còn bảo vệ sức khỏe, cơ hội và quyền lợi được phòng bệnh hiệu quả, an toàn cho tất cả mọi người.
+Cấu trúc của dây chuyền lạnh bảo quản vắc xin (Cold Chain)
+Từ điểm bắt đầu đến điểm kết thúc, vắc xin cần được bảo quản trong dây chuyền lạnh với cấu trúc khép kín, an toàn, ổn định và nhanh chóng, cụ thể như sau:
+
+Sau khi sản xuất, vắc xin sẽ được lưu kho và bảo quản ở nhiệt độ yêu cầu riêng biệt của mỗi loại, các vắc xin thông thường được bảo quản trong nhiệt độ từ 2 – 8 độ C. Các vắc xin đặc biệt như vắc xin Covid-19 Pfizer được bảo quản trong điều kiện nhiệt độ âm sâu (âm 90 đến âm 60 độ C).
+Đối với các loại vắc xin thông thường được nhập khẩu từ nước ngoài, khi được vận chuyển về Việt Nam, vắc xin cần được bảo quản, lưu giữ trong thiết bị chuyên dụng, đảm bảo nhiệt độ được duy trì ổn định từ 2 – 8 độ C trong suốt quá trình vận chuyển.
+Sau khi về Việt Nam, trước khi được cấp phép lưu hành và triển khai tiêm chủng trong nước, vắc xin sẽ được kiểm định chất lượng ngẫu nhiên bởi Viện kiểm định quốc gia vắc xin và sinh phẩm y tế (NICVB).
+
+1. Nhập vắc xin vào kho lạnh tổng
+Tại VNVC, kho lạnh được chia thành 5 khu vực riêng biệt được sắp xếp theo nguyên tắc một chiều, bao gồm khu vực tiếp nhận – khu vực chờ kiểm nhập – khu vực bảo quản – khu vực biệt trữ – khu vực chờ xuất.
+
+Từ xe lạnh vận chuyển vắc xin, vắc xin được chuyển vào khu vực tiếp nhận. Tại khu vực này, các nhân viên kho lạnh VNVC sẽ thực hiện quy trình kiểm nhập vắc xin, rà soát, đối chiếu chứng từ thông tin vắc xin và kiểm tra thùng vắc xin về cảm quan trước khi nhập kho.
+Sau khi quy trình kiểm nhập đạt yêu cầu, các nhân viên kho lạnh VNVC sẽ thu thập nhiệt kế hành trình bên trong các thùng chứa để truy xuất và ghi nhận lại dữ liệu biến động nhiệt độ bảo quản vắc xin theo từng phút trong suốt hành trình vận chuyển vắc xin và tại thời điểm nhận hàng.
+Trường hợp 1: Nếu dữ liệu từ nhiệt kế hành trình cho thấy vắc xin được bảo quản trong giới hạn nhiệt độ an toàn theo quy định của nhà sản xuất trong suốt hành trình đến thời điểm kiểm nhập, vắc xin sẽ đủ điều kiện để nhập kho, tiến đến khu vực bảo quản. Tại khu vực này, vắc xin sẽ được tiến hành sắp xếp theo chủng loại, hàm lượng, nồng độ, số lô và hạn sử dụng với sơ đồ cụ thể, chi tiết nhằm thuận tiện hóa cho công tác theo dõi, cấp phát và tránh nhầm lẫn, sai sót xảy ra.
+Trường hợp 2: Nếu dữ liệu từ nhiệt kế hành trình phát hiện bất thường, vắc xin sẽ được chuyển thẳng đến khu vực biệt trữ trong kho lạnh để chờ xử lý theo quy định.
+Đối với các loại vắc xin nhập khẩu, vắc xin sẽ được thông qua thêm quy trình dán nhãn phụ tiếng Việt trước khi chuyển đến khu vực bảo quản.
+
+2. Vận chuyển vắc xin từ kho tổng đến kho trung tâm
+Tại VNVC, khi có lệnh cấp phát, vắc xin sẽ được chuyển từ khu vực bảo quản sang khu vực chờ xuất của kho lạnh tổng.
+
+Sau đó, vắc xin sẽ được sắp xếp, đóng gói cẩn thận vào các thùng lạnh chuyên dụng được gắn nhiệt kế hành trình tự ghi (data log) theo thời gian thực (Real-time) đã được thẩm định, duy trì nhiệt độ trong thùng luôn đạt chuẩn từ 2 – 8 độ C . Đặc biệt, nhằm đảm bảo vắc xin luôn được bảo quản trong ngưỡng nhiệt độ an toàn, thời gian chuyển thùng chứa vắc xin từ khu chờ xuất ra xe lạnh sẽ được diễn ra nhanh chóng, không quá 1 phút.
+VNVC sở hữu mạng lưới xe lạnh quy mô lớn, sở hữu khả năng vận chuyển vắc xin an toàn, đảm bảo vắc xin có chất lượng nguyên vẹn trong suốt quá trình vận chuyển. Mỗi xe lạnh được thiết kế tối giản, không gian thông thoáng, sạch sẽ và có khung giá chịu lực chống rung lắc, nghiêng ngả và đổ vỡ vắc xin. Trong suốt quá trình vận chuyển, nhiệt độ thùng lạnh thường xuyên được giám sát thông qua màn hình hiển thị ở buồng lái. Đồng thời, nhân viên cũng chuẩn bị sẵn sàng các thiết bị cấp lạnh chuyên dụng dự trù như bình tích lạnh hoặc đá gel lạnh nhằm phòng ngừa trường hợp nhiệt độ bảo quản vượt ngưỡng 7 độ C.
+VNVC là đơn vị tiêm chủng vắc xin đầu tiên tại Việt Nam được cấp giấy chứng nhận và sử dụng hệ thống xe lạnh vận chuyển vắc xin chuyên nghiệp đạt chuẩn GSP. Tất cả các xe lạnh tại VNVC trước khi được đưa vào sử dụng đều được thông qua nhiều quy trình thẩm định khắt khe, kiểm chứng đạt đầy đủ tiêu chuẩn và điều kiện để bảo quản vắc xin an toàn. Đồng thời, định kỳ 1 năm 1 lần, toàn bộ xe lạnh VNVC được tái kiểm định và bảo trì.
+
+3. Vận chuyển vắc xin từ kho trung tâm đến phòng tiêm
+VNVC sử dụng thùng lạnh chuyên dụng để vận chuyển vắc xin từ kho trung tâm đến các phòng tiêm với thời gian không quá 15 phút nhằm hạn chế tối đa nguy cơ thùng lạnh tiếp xúc với điều kiện môi trường bên ngoài, đảm bảo chất lượng vắc xin. Nhiệt độ bảo quản vắc xin được ghi chép, đối soát cẩn thận tại thời điểm giao nhận vắc xin.
+4. Bảo quản vắc xin tại phòng tiêm
+Tất cả phòng tiêm của VNVC đều được trang bị tủ lạnh bảo quản vắc xin chuyên dụng, được cài đặt hệ thống cảnh báo nhiệt độ. Không giống như các cơ sở tiêm chủng khác phải bảo quản vắc xin trong tủ lạnh dân dụng tại phòng tiêm 24/24, tại VNVC, cuối ngày, vắc xin chưa sử dụng sẽ được thu hồi về kho lạnh trung tâm để bảo quản theo đúng chuẩn quy cách, đảm bảo được các yếu tố dự phòng phát sinh bất cứ lúc nào.
+“Kiềng 3 chân” của Cold Chain tạo nên sự an toàn tuyệt đối cho vắc xin
+Theo Hướng dẫn về tiêm chủng và dây chuyền lạnh bảo quản vắc xin thuộc Dự án Tiêm chủng Mở rộng phía Nam của Viện Pasteur thành phố Hồ Chí Minh, hệ thống dây chuyền lạnh (Cold Chain) được cấu thành từ 3 yếu tố, đại diện cho 3 “chân kiềng” vững chắc, kiến tạo nên hệ thống bảo quản vắc xin khép kín và đạt chuẩn an toàn, bao gồm:
+1. Thiết bị lưu trữ và vận chuyển kiểm soát nhiệt độ an toàn
+Hệ thống dây chuyền lạnh (cold chain) sở hữu đầy đủ các trang thiết bị đa chức năng, phục vụ mục đích lưu trữ, vận chuyển, kiểm soát nhiệt độ an toàn nhằm giữ cho vắc xin luôn được ở trong điều kiện nhiệt độ tối ưu.
+
+Các thiết bị lưu trữ: Kho lạnh và tủ lạnh chuyên dụng để bảo quản vắc xin, có khả năng duy trì điều kiện bảo quản vắc xin đồng nhất ở mọi vị trí trong kho lạnh và tủ lạnh; phích vắc xin; thùng lạnh; hòm lạnh…
+Các thiết bị giám sát, kiểm soát nhiệt độ bảo quản vắc xin: Thiết bị theo dõi nhiệt độ liên độ theo thời gian thực; có ít nhất 01 thiết bị giám sát nhiệt độ tự ghi nhận lại dữ liệu biến động nhiệt độ bảo quản vắc xin mỗi 1 – 2 lần/giờ; phương tiện phát hiện và cảnh báo tự động và kịp thời về các sự cố, sai lệch về điều kiện bảo quản của vắc xin như chuông, đèn, còi báo động, tin nhắn, email…
+Các thiết bị vận chuyển: Xe lạnh, thùng lạnh, thiết bị theo dõi nhiệt độ tự ghi theo thời gian thực để giám sát tình hình biến động của điều kiện bảo quản vắc xin nhằm kịp thời phát hiện và xử lý nhanh chóng các tình huống phát sinh, bảo vệ sự toàn vẹn về chất lượng của vắc xin.
+Các thiết bị cần thiết khác: Để giảm thiểu các phát sinh bất lợi ảnh hưởng đến sự an toàn của vắc xin, trong suốt hành trình bảo quản vắc xin cần trang bị thêm hệ thống phát điện dự phòng, các trang thiết bị, các bản hướng dẫn cần thiết cho công tác phòng chống cháy nổ theo quy định về phòng chống cháy nổ…
+
+Thiết bị theo dõi nhiệt độ Realtime tại các kho lạnh bảo quản vắc xin thuộc Hệ thống trung tâm tiêm chủng VNVC
+2. Đội ngũ vận hành có chuyên môn và am hiểu hệ thống bảo quản vắc xin
+Trang thiết bị hiện đại trong dây chuyền bảo quản lạnh vắc xin (Cold Chain) cung cấp khả năng bảo quản vắc xin tốt nhất, để các trang thiết bị bảo quản vắc xin có thể vận hành khoa học và thuận lợi, cơ sở bảo quản cần có đội ngũ nhân viên, cán bộ vận hành, tham gia vào quá trình bảo quản có chuyên môn cao, giàu kinh nghiệm và am hiểu sâu sắc về hệ thống bảo quản vắc xin.
+Theo thông tư số 36/2018/TT-BYT ngày 22 tháng 11 năm 2018 của Bộ trưởng Bộ Y tế, cơ sở bảo quản vắc xin cần phải có đủ nhân viên với trình độ phù hợp để thực hiện các hoạt động liên quan đến xuất nhập, bảo quản, bốc xếp, vận chuyển, vệ sinh, bảo trì và các hoạt động khác nhằm đảm bảo chất lượng vắc xin. [2]
+Đối với thủ kho, yêu cầu phải có trình độ, hiểu biết cần thiết về vắc xin, về nghiệp vụ bảo quản (phương pháp bảo quản, quản lý sổ sách, theo dõi xuất nhập, chất lượng vắc xin…). Đồng thời, phải có trình độ tối thiểu là dược sĩ trung học.
+Tất cả nhân viên tham gia vào quá trình bảo quản vắc xin phải được đào tạo, cập nhật về thực hành tốt bảo quản thuốc, các quy định luật pháp, các quy trình thực hiện và quy định về an toàn phù hợp với vị trí công việc. Đồng thời, phải được đào tạo và tuân thủ quy định giữ vệ sinh chung và vệ sinh cá nhân.
+Nhân viên và cán bộ làm việc trong kho bảo quản vắc xin phải được kiểm tra sức khỏe định kỳ theo quy định của pháp luật, đồng thời phải được trang bị và mặc trang phục bảo hộ phù hợp với hoạt động tại kho.
+3. Quy trình chuẩn hóa về vận hành, kiểm soát và sử dụng thiết bị
+Đối với hệ thống dây chuyền lạnh (Cold Chain), muốn hoạt động hiệu quả, an toàn, tiết kiệm tối đa thời gian, công sức và chi phí bảo quản, các công tác vận hành quá trình bảo quản vắc xin phải được thực hiện và giám sát thực hiện nghiêm ngặt, khép kín, bám sát theo một loạt các quy trình chuẩn hóa về vận hành, kiểm soát và sử dụng thiết bị.
+Phải có các quy trình thao tác chuẩn đối với tất cả các hoạt động trong khu vực bảo quản vắc xin, kể cả việc xử lý hàng hết hạn. Các văn bản quy trình này phải mô tả đầy đủ các quy trình bảo quản, đường đi của vắc xin, quy định về việc ghi chép các điều kiện bảo quản, an toàn vắc xin tại kho, trong quá trình vận chuyển, cấp phát, xuất hàng, việc lập hồ sơ, vắc xin trả về, vắc xin thu hồi; quy trình thu hồi và luồng thông tin trong hệ thống tổ chức khi có yêu cầu thu hồi vắc xin…
+Phải có quy trình đánh giá độ đồng đều điều kiện bảo quản (nhiệt độ, độ ẩm, ánh sáng…) đối với kho bảo quản, buồng lạnh, tủ lạnh, xe vận chuyển và các thiết bị, phương tiện khác có liên quan.
+Phải có hướng dẫn sử dụng chi tiết, rõ ràng đối với các thiết bị trong dây chuyền lạnh, đồng thời phải mô tả đầy đủ cách bảo trì bảo dưỡng kho tàng thiết bị dùng trong bảo quản nhằm đảm bảo các trang thiết bị luôn trong tình trạng hoạt động tốt nhất, tạo ra điều kiện môi trường bảo quản vắc xin tối ưu.
+Bên trong hệ thống kho lạnh bảo quản vắc xin và hệ thống dây chuyền lạnh Cold Chain của Hệ thống trung tâm tiêm chủng VNVC.
+Những lợi ích của dây chuyền lạnh bảo quản vắc xin
+Dây chuyền lạnh (Cold Chain) giúp bảo quản vắc xin trong điều kiện tối ưu trong suốt hành trình của vắc xin từ nơi sản xuất, lưu kho, vận chuyển, đến điểm sử dụng.
+Nhờ đó, vắc xin đến điểm sử dụng an toàn, nguyên vẹn về chất lượng và hiệu lực, đảm bảo hiệu quả tiêm chủng khi tiêm cho người sử dụng ở mức cao nhất, tối ưu hóa hiệu quả hoạt động của vắc xin, bảo vệ cơ thể người tiêm khỏi nguy cơ lây nhiễm, mắc bệnh, biến chứng, di chứng và thiệt mạng do các bệnh truyền nhiễm nguy hiểm. Từ đó, tiết kiệm được đáng kể chi phí chi trả cho việc khám chữa bệnh, chi phí chăm sóc y tế…
+Vắc xin được bảo quản đạt chuẩn trong dây chuyền lạnh (Cold Chain) sẽ giảm thiểu tối đa tỷ lệ vắc xin bị hư hỏng và tiêu hủy, nhờ đó tránh lãng phí tài nguyên y tế, tiết kiệm đáng kể tài chính chọn mua và bảo quản vắc xin, đồng thời tối thiểu hóa tác động tiêu cực đến môi trường tự nhiên gây ra trong quá trình tiêu hủy vắc xin.
+Thực trạng về chuỗi cung ứng lạnh bảo quản vắc xin tại Việt Nam và thế giới
+1. Thực trạng trên thế giới:
+
+Ứng dụng của các loại vắc xin phòng COVID-19 đang đặt ra thách thức lớn cho chuỗi cung ứng lạnh trên toàn cầu bởi các loại vắc xin phòng COVID-19 được sản xuất dựa trên công nghệ mRNA (vắc xin Pfizer và Moderna), đòi hỏi điều kiện bảo quản cực kỳ khắc nghiệt với nhiệt độ bảo quản âm sâu đến -80 độ C.
+Hầu hết các nước phát triển trên toàn thế giới đều nhận ra tầm quan trọng và lợi ích của việc đầu tư cho hệ thống y tế quốc gia, đặc biệt là hệ thống y học dự phòng nên đã đầu tư mạnh mẽ vào hạ tầng và vật chất phục vụ cho việc xây dựng nên chuỗi cung ứng lạnh để đáp ứng nhu cầu phân phối vắc xin.
+Tuy nhiên, ở các quốc gia đang phát triển và chưa phát triển, việc xây dựng và vận hành cơ sở hạ tầng, chuỗi cung ứng lạnh bảo quản vắc xin hiệu quả vẫn còn là thách thức rất lớn, đặc biệt là khi phải xử lý các loại vắc xin yêu cầu nhiệt độ bảo quản đặc biệt thấp.
+Các tổ chức y tế quốc tế, chính phủ và tổ chức phi chính phủ toàn cầu như WHO, UNICEF đang có động thái bắt đầu hợp tác chặt chẽ với các quốc gia để nâng cao năng lực xây dựng, vận hành và kiểm soát chuỗi cung ứng lạnh, hướng đến mục tiêu đảm bảo chất lượng vắc xin nguyên vẹn đến tay người dân, góp phần tiêm chủng an toàn và hiệu quả.
+
+2. Thực trạng tại Việt Nam:
+Việt Nam là một quốc gia đang phát triển, còn gặp nhiều khó khăn trong việc tổ chức xây dựng và vận hành chuỗi cung ứng lạnh bảo quản vắc xin đạt chuẩn, nhất là đối với các loại vắc xin cần nhập khẩu. Nhiều đơn vị y tế dự phòng hiện nay chưa xây dựng bài bản hệ thống bảo quản vắc xin hiện đại, quy mô, vẫn còn nhiều nơi sử dụng các loại tủ lạnh dân dụng bảo quản vắc xin, điều này không chỉ ảnh hưởng đến chất lượng vắc xin mà còn làm suy giảm niềm tin về tính an toàn của vắc xin với người sử dụng.
+Ngay từ khi thành lập vào năm 2017, Hệ thống tiêm chủng VNVC đã tiên phong và đầu tư lớn xây dựng hệ thống kho lạnh đạt chuẩn GSP (duy trì nhiệt độ an toàn từ 2-8 độ C) và hệ thống dây chuyền lạnh bảo quản vắc xin (Cold Chain) để tiến tới các điều kiện hiện đại nhất, an toàn nhất đặc biệt đủ khả năng nhập khẩu vắc xin số lượng lớn về tiêm chủng cho người dân trên khắp cả nước.
+Chính bởi các nền tảng bền vững và điều kiện kho lạnh, dây chuyền lạnh chất lượng cao, trong những năm qua, VNVC nhận được sự tin tưởng và ký kết chiến lược hợp tác toàn diện với các tập đoàn sản xuất vắc xin hàng đầu thế giới như Sanofi (Pháp), GSK (Anh), MSD (Mỹ), Abbott (Hà Lan), Takeda (Nhật Bản), AstraZeneca (Anh)…
+Đặc biệt, quan hệ hợp tác với AstraZeneca của VNVC vào năm 2019 đã mang về 30 triệu liều vaccine Covid-19 đầu tiên, kịp thời bảo vệ tuyến đầu chống dịch và người dân Việt Nam. Đồng thời, VNVC cũng là đơn vị duy nhất đầu tư xây dựng hệ thống kho lạnh âm sâu từ âm 46 độ C đến âm 86 độ C để bảo quản vắc xin có yêu cầu bảo quản đặc biệt như Moderna và Pfizer, từ đó cấp phát đến các điểm tiêm chủng, kịp thời bảo vệ tính mạng cho người dân.
+Hiện hệ thống tiêm chủng của VNVC với hàng trăm trung tâm trên khắp cả nước, đáp ứng đầy đủ các điều kiện bảo quản, vận chuyển vắc xin chuyên nghiệp, thực hành tiêm chủng an toàn, VNVC có khả năng cung ứng đầy đủ, nhanh chóng tất cả các loại vắc xin cần thiết và quan trọng, mang đến cơ hội tiêm chủng vắc xin phòng bệnh an toàn, chất lượng cao cho hàng triệu gia đình Việt.
+Hệ thống kho lạnh âm sâu (âm 86 đến âm 40 độ C) của Hệ thống tiêm chủng VNVC dùng để bảo quản các loại vắc xin đặc biệt cần được bảo quản cực âm
+Kết luận
+Vắc xin là chế phẩm sinh học đặc biệt, nếu không được bảo quản trong điều kiện tối ưu của hệ thống kho lạnh GSP và hệ thống dây chuyền lạnh (Cold Chain) có nhiệt độ ổn định, đồng nhất, vắc xin rất dễ bị hư hỏng, mất hiệu lực thậm chí biến chất. Điều này khiến vắc xin có nguy cơ không phát huy tác dụng bảo vệ thậm chí còn đe doạ sức khỏe, tính mạng của người được tiêm chủng.
+Dây chuyền lạnh (Cold Chain) đạt chuẩn phải vận hành theo quy trình kiểm soát chất lượng, có đầy đủ các trang thiết bị làm lạnh vắc xin đạt chuẩn cùng hệ thống theo dõi và cảnh báo nhiệt độ liên tục, phương án dự phòng trường hợp mất điện xảy ra… Nhân viên tham gia vào quá trình bảo quản vắc xin và tiêm vắc xin phải được đào tạo, cập nhật về thực hành tốt bảo quản thuốc và tái đào tạo liên tục. Tất cả những điều này đảm bảo vắc xin đến với người tiêm là vắc xin chất lượng và an toàn, phát huy hiệu quả bảo vệ tốt nhất.

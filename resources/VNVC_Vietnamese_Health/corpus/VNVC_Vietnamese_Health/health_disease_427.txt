@@ -1,0 +1,48 @@
+# doc_id = health_disease_427
+# url = https://vnvc.vn/sot-xuat-huyet-giam-tieu-cau/
+# date = 17/05/2023
+Sốt xuất huyết giảm tiểu cầu nguy hiểm như thế nào?
+Sốt xuất huyết giảm tiểu cầu là tình trạng số lượng tiểu cầu trong máu bị giảm dưới mức bình thường (150.000 tế bào/1 micro lít máu) hay dưới mức độ nguy hiểm (dưới 50.000 tế bài/1 micro lít máu). Nếu không được điều trị kịp thời có thể khiến bệnh nhân nguy kịch, gây tử vong.
+Mục lụcTiểu cầu là gì? Vai trò của tiểu cầuSố lượng tiểu cầu trong máu bao nhiêu là ổn định?Dấu hiệu nhận biết giảm tiểu cầu trong sốt xuất huyếtGiai đoạn đầuGiai đoạn nguy hiểmPhục hồi giai đoạnCơ chế giảm yêu cầu trong xuất huyếtTiểu cầu bị quét giết chết tiểu cầu bình thườngCellular recovery demission mini-requestSố lượng ảnh xuất ra ảnh hưởng đến khungCon số lượng cầu nhỏ thấp nguy hiểm như thế nào?Yêu cầu xuất huyết nhỏ thường xảy ra vào mấy ngày thứ mấy?Cách tăng tiểu cầu khi được xuất huyếtTiểu cầu là gì? Vai trò của tiểu cầu
+Tiểu cầu là một loại tế bào có kích thước nhỏ nhất trong máu người, với đường kính chỉ bằng 20% hồng cầu, có hình tròn hoặc bầu dục. Số lượng tiểu cầu trong máu được đo bằng PLT (Platelet Count). (1)
+Tiểu cầu có vai trò rất quan trọng với quá trình đông máu, tạo ra các cục máu đông, co mạch, miễn dịch. Chức năng chính của tiểu cầu là cầm máu. Khi cơ thể bị thương, tiểu cầu có thể làm đông máu, ngăn máu chảy ra ngoài. Trừ những trường hợp vết thương quá lớn, tiểu cầu tập trung cũng không thể ngăn tình trạng này. (2)
+Số lượng tiểu cầu trong máu bao nhiêu là ổn định?
+Chỉ số bình thường của tiểu cầu trong máu là 150.000 đến 400.000 tiểu cầu/μl máu (1 μl = 1 mm3), trung bình là 200.000 tiểu cầu/μl máu. Vậy, mỗi lít máu sẽ chứa khoảng 150 đến 400 tỷ tế bào tiểu cầu. Bất thường về số lượng tiểu cầu cảnh báo các vấn đề về sức khỏe.
+Dấu hiệu nhận biết giảm tiểu cầu trong sốt xuất huyết
+Số lượng xuất huyết giảm yêu cầu thường khởi động đột ngột, diễn biến qua 3 giai đoạn bao gồm giai đoạn sốt, nguy hiểm và hồi phục.
+Giai đoạn đầu
+Người bệnh thường có dấu hiệu sốt cao đột ngột, liên tục, kéo dài, chán ăn và buồn nôn. Da của bệnh nhân xung huyết, đau cơ, đau khớp và đeo 2 mắt. The note output huyết thanh dưới da dần dần xuất hiện. Bệnh nhân chảy máu cam, chảy máu chân răng.
+Sốt xuất huyết giảm tiểu cầu, người mắc bệnh thường sốt cao đột ngột, liên tục, kéo dài, chán ăn và buồn nôn
+Giai đoạn nguy hiểm
+Số lần xuất huyết giảm tiểu cầu nguy hiểm nhất là vào ngày thứ 3 cho đến ngày thứ 7 của bệnh. Lúc này, người bệnh có thể còn hoặc giảm sốt. Một số triệu chứng thường gặp ở giai đoạn này là thoát huyết tương làm tăng tính hồi phục thành mạch, mi mắt, gan to, tràn dịch da, li bì, đau, da lạnh, nhiệt huyết hay áp huyết không đo được. áp, tiểu ít,… Số lượng tiểu cầu thường giảm đáng kể vào ngày thứ 4 của bệnh.
+Đối với người bệnh không bị sốt do sốt xuất huyết, lượng tiểu cầu giảm nhẹ từ ngày thứ 3 đến ngày thứ 7 của bệnh, trở lại mức bình thường vào ngày thứ 8 hoặc ngày thứ 9. Ở trẻ nhỏ, có ít mối tương quan giữa số lượng nghiêm trọng của yêu cầu và biểu hiện chảy máu, hoặc số lượng và mức độ nghiêm trọng của bệnh.
+Người mắc bệnh thường xuất huyết dưới da, chảy máu mũi, kinh nguyệt kéo dài hoặc sớm hơn trong kỳ kinh nguyệt, tiểu ra máu, xuất huyết nội tạng. Trong một số trường hợp, người bệnh có biểu hiện Viêm gan nặng, Viêm não, Viêm cơ tim.
+Phục hồi giai đoạn
+Giai đoạn này thường kéo dài 48-72 giờ. Người bệnh thường hết sốt, thèm ăn, thể trạng tốt hơn, huyết động ổn định, tiểu nhiều. Nếu truyền dịch quá mức trong giai đoạn phục hồi có thể gây phù nề hoặc suy tim.
+Ở giai đoạn phục hồi, người bệnh thường hết sốt, thèm ăn, thể trạng tốt hơn
+Cơ chế giảm yêu cầu trong xuất huyết
+Khi mê mang virus sốt xuất huyết quái người, virus sẽ xâm nhập vào hệ thống tuần hoàn, gắn vào tiểu cầu rồi nhân lên, tạo ra virus truyền nhân lên. Một số lý do khiến yêu cầu nhỏ hơn giảm trong xuất huyết là:
+Tiểu cầu bị quét giết chết tiểu cầu bình thường
+Các tế bào tiểu cầu bị nhiễm bệnh có xu hướng thích triệt tiêu các tế bào tiểu cầu bình thường, đó là một trong những lý do chính khiến số lượng tiểu cầu của bệnh nhân sốt xuất huyết giảm dày.
+Cellular recovery demission mini-request
+Tế bào miễn dịch tế bào chống lại bóng đèn bệnh tật là cơ chế bảo vệ tự nhiên của cơ thể chống lại vi rút xuất huyết nói riêng và các loại vi rút, vi khuẩn khác nói chung. Những tế bào tế bào này tiêu diệt các tiểu cầu thông thường vì chúng tin rằng tiểu cầu lúc này là những thực tế nguy hiểm.
+Số lượng ảnh xuất ra ảnh hưởng đến khung
+Tủy xương là nơi hình thành tất cả các tế bào ung thư máu, bao gồm cả tiểu cầu; nên sử dụng chế độ ức chế virus xuất huyết dẫn đến lượng nhỏ cầu thấp hơn.
+Con số lượng cầu nhỏ thấp nguy hiểm như thế nào?
+Mini-request has many level from light for to important:
+Ở mức độ nhẹ: lượng nhỏ cầu trong cơ thể giảm xuống dưới 150.000 tế bào/1 micro lít máu.
+Ở mức độ nguy hiểm: tiểu cầu giảm còn dưới 50.000 bào/1 microlit tế bào.
+Ở mức độ nghiêm trọng: yêu cầu nhỏ chỉ giảm còn 10.000 – 20.000 tế bào/1 micro liti.
+Nếu lượng tiểu cầu giảm xuống ở mức độ nguy hiểm hoặc nghiêm trọng, người bệnh không chỉ bị xuất huyết, mà khả năng đông máu và chống nhiễm trùng của cơ thể sẽ giảm đi. Nếu tiểu cầu giảm ở 2 mức độ này, người bệnh có thể xuất hiện các dấu hiệu chảy máu chân răng, chảy máu cam, vùng dưới da xuất huyết hay nghiêm trọng hơn là xuất huyết não dẫn đến tử vong.
+Nếu lượng nhỏ yêu cầu giảm mức độ nghiêm trọng cho phép, người bệnh sẽ xuất hiện các dấu hiệu chảy máu chân răng, chảy máu cam, vùng dưới da xuất huyết hay quan trọng hơn là xuất huyết não dẫn đến tử vong
+Yêu cầu xuất huyết nhỏ thường xảy ra vào mấy ngày thứ mấy?
+Số lượng xuất huyết giảm ít thường xảy ra vào ngày thứ 4 của bệnh. Ở người trưởng thành không bị sốc do sốt xuất huyết, lượng tiểu cầu có thể giảm nhẹ đến vừa phải từ ngày 3-7 của bệnh và trở lại bình thường vào ngày thứ 8 hoặc 9. Ở trẻ nhỏ, có ít mối tương quan trọng giữa số lượng tối thiểu và biểu hiện chảy máu hoặc số lượng tối thiểu và mức độ nghiêm trọng của bệnh.
+Cách tăng tiểu cầu khi được xuất huyết
+Để tăng số lượng tiểu cầu cho bệnh nhân sốt xuất huyết , người bệnh cần chú ý các loại thực phẩm quan trọng sau trong bữa ăn hằng ngày:
+Rau xanh: Rau lá xanh chứa nhiều vitamin K, chất dinh dưỡng cần thiết cho cơ thể để sản xuất protein Hỗ trợ quá trình đông máu và tăng tiểu cầu;
+Trái cây có múi: Trái có múi chứa nhiều vitamin C cần thiết cho các chức năng của tiểu cầu, giúp tăng lượng và giúp tiểu cầu hoạt động tốt hơn;
+Thực phẩm chức năng sắt: Sắt cần thiết cho tổng hợp tế bào tiểu cầu và cả hồng cầu. Tăng tiêu thụ sắt có thể tăng tiểu cầu một cách tự nhiên. Những sản phẩm thực sự dành cho sắt có thể kể đến như đậu lăng, hạt bí ngô và thịt bò.
+Thực phẩm bổ sung vitamin D: Vitamin D là chất dinh dưỡng khá quan trọng trong việc tăng tiểu cầu. Chất này giúp xương, cơ và dây thần kinh hoạt động tốt. Các loại thực phẩm giàu vitamin D có thể kể đến như lòng đỏ trứng, cá hồi, cá ngạnh, sữa chua và sữa bò,…
+Thực phẩm giàu folate: folate hay vitamin B9 có chức năng hỗ trợ và tạo ra các tế bào khỏe mạnh, xuất hiện tự nhiên trong nhiều loại thực phẩm như đậu phụng, đậu tây, đậu mắt đen, nước cam,…
+Xem thêm: Số lượng xuất huyết nên ăn gì để tăng tiểu cầu
+Số lượng xuất huyết giảm nhỏ yêu cầu là tình trạng nguy hiểm có thể ảnh hưởng nghiêm trọng đến khả năng đông máu và chống nhiễm trùng của cơ thể. Do đó, người dân cần nâng cao ý thức phòng bệnh, ngăn ngừa cúm mùa, có chế độ ăn uống hợp lý để cải thiện tình trạng bệnh tật cũng như biến chứng.

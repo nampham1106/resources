@@ -1,0 +1,61 @@
+# doc_id = health_disease_670
+# url = https://vnvc.vn/ban-do-nhiem-khuan-nguyen-nhan-trieu-chung-va-cach-phong-tri/
+# date = 04/12/2020
+Ban đỏ nhiễm khuẩn: Nguyên nhân, triệu chứng, điều trị và cách phòng ngừa
+“Ban đỏ nhiễm khuẩn là bệnh phổ biến ở trẻ nhỏ, có khả năng lây lan nhanh qua tiếp xúc với các dịch hô hấp hay nước bọt. Bệnh tuy lành tính, nhưng có thể gây ảnh hưởng đến hệ miễn dịch cũng như sức khỏe của trẻ. Vì vậy, việc hiểu bệnh để phòng bệnh là vô cùng quan trọng”, bác sĩ Trương Hữu Khanh nhấn mạnh.
+Bài viết dưới đây được sự tư vấn của Bác sĩ Trương Hữu Khanh, Trưởng khoa Nhiễm – Thần kinh, Bệnh viện Nhi đồng 1, TP.HCM, Cố vấn chuyên môn Hệ thống Trung tâm tiêm chủng cho Trẻ em và Người lớn VNVC.
+Mục lụcBan đỏ nhiễm khuẩn là bệnh gì?Nguyên nhân gây bệnhBan đỏ nhiễm khuẩn lây truyền qua đường nào?Triệu chứng của ban đỏ nhiễm khuẩn là gì?Các biến chứng của ban đỏ nhiễm khuẩnAi có khả năng bị các biến chứng nặng của ban đỏ nhiễm khuẩn?Chẩn đoán ban đỏ nhiễm khuẩn ra sao?Chẩn đoán phân biệt ban đỏ nhiễm khuẩn với các bệnh khác?Phương pháp điều trị ban đỏ nhiễm khuẩnPhòng ngừa bệnh ban đỏ nhiễm khuẩn ra sao?Ban đỏ nhiễm khuẩn là bệnh gì?
+Ban đỏ nhiễm khuẩn (erythema infectiosum) là tình trạng phát ban ngoài da ở trẻ em và người lớn do Parvovirus B19. Bệnh có tên gọi khác là bệnh thứ năm (fifth disease), đó là theo cách phân loại cổ điển về ngoại ban nhiễm trùng ở trẻ em, có sáu bệnh được gọi tên theo thứ tự gồm: Sởi, Rubella, Sốt tinh hồng nhiệt, Dukes, Ban đỏ nhiễm khuẩn và Exanthem subitum, trong đó Ban nhiễm khuẩn ở vị trí thứ năm.
+Bệnh thường lây qua đường hô hấp là chính, cũng như tiếp xúc với người bệnh khi hắt hơi, sổ mũi hoặc tay chạm tay sau đó lại đưa lên đường hô hấp. Bệnh hay gặp vào mùa xuân, mùa hè ở các vùng có khí hậu nóng và có khả năng lây lan nhanh, dễ bùng phát thành dịch ở trường học, trong gia đình. Bố mẹ có thể dễ bị nhầm lẫn với những bệnh lý khác như ban xuất huyết hay các vết do côn trùng cắn.
+Nguyên nhân gây bệnh
+Theo các chuyên gia, nguyên nhân gây ra ban đỏ nhiễm khuẩn là do virus Parvovirus B19. Parvovirus B19 thuộc họ Parvoviridae, được phát hiện vào năm 1975. Virus có hình cầu, không có vỏ, nhân là chuỗi đơn AND, trọng lượng của genome là 5600PB, chỉ có một tuýp huyết thanh (serotype) nhưng có nhiều tuýp gen (genotype). Tên gọi B19 chỉ mẫu huyết thanh mà trong đó virus được phân lập.
+Giống như các virus AND không có vỏ, cơ chế gây bệnh của Parvovirus B19 liên quan tới việc gắn vào các thụ thể (receptor) của tế bào vật chủ. Ở người, thụ thể màng của virus là kháng nguyên P, còn được gọi là globoside. Thông qua kháng nguyên P, virus gây nên bệnh ban nhiễm khuẩn ở trẻ em. Ngoài ra, virus còn có áp lực với các loại tế bào khác như hồng cầu, hồng cầu chưa trưởng thành, tế bào nội mô, rau thai, tế bào cơ tim, tế bào gan. Virus gây ra biểu hiện ở khớp là do lắng đọng phức hợp miễn dịch lưu hành.
+Ban đỏ nhiễm khuẩn là một bệnh truyền nhiễm dạng nhẹ, gây nhiễm khuẩn đường hô hấp trên, thường gặp nhất ở trẻ em trong độ tuổi từ 5-14 tuổi. Tuy nhiên, thỉnh thoảng bệnh cũng xuất hiện ở người trưởng thành, và có thể gây nguy hiểm đặc biệt cho phụ nữ có thai.
+Ban đỏ nhiễm khuẩn lây truyền qua đường nào?
+Virus Parvovirus B19 gây ban đỏ nhiễm khuẩn thường lây truyền chủ yếu qua đường hô hấp như tiếp xúc với người bệnh khi hắt hơi, sổ mũi hoặc tay chạm tay sau đó lại đưa lên đường hô hấp. Ngoài ra, virus còn có thể lây truyền qua các đường khác như: qua không khí, lây từ mẹ sang con, hay qua đường máu,…
+Thời gian ủ bệnh khoảng 6-18 ngày, virus vào máu sau 5-10 ngày, có thể tồn tại lâu trong máu, tủy xương, da… dưới dạng genome. Bệnh chỉ có khả năng lây nhiễm trong giai đoạn đầu, khi người bệnh đã nổi ban đỏ thì khả năng lây nhiễm hầu như không còn nữa. Vì thế, cần hạn chế tối đa việc tiếp xúc với người bệnh trong giai đoạn đầu của bệnh.
+Theo nghiên cứu, tỷ lệ huyết thanh dương tính với Parvovirus B19 là 15% ở trẻ từ 0-5 tuổi, 50% ở người 5-20 tuổi, và 85% ở người già. Tỷ lệ nhiễm trùng không có triệu chứng gặp trong 25-50% số trường hợp.
+Huyết thanh học cho thấy sự có mặt của IgM (kháng thể) vào ngày thứ 8 sau khi nhiễm trùng, biến mất sau 3 tháng, IgG (kháng thể) có mặt vào ngày 15-21 sau nhiễm trùng. IgM và IgG là 2 chỉ số quan trọng để đánh giá tình trạng bệnh ban nhiễm khuẩn.
+Khi phát hiện các ban đỏ, cần đưa trẻ đến ngay cơ sở y tế để được các bác sĩ tư vấn.
+Triệu chứng của ban đỏ nhiễm khuẩn là gì?
+Giống như các bệnh phát ban do virus khác, ban đỏ nhiễm khuẩn thường có biểu hiện ban đầu không đặc hiệu như sốt nhẹ, đau đầu, mệt mỏi, ho,… (như cúm). Sau đó vài ngày xuất hiện phát ban đỏ. Có hai dấu hiệu phát ban nổi bật: hai má đỏ và ban đỏ dạng lưới ở tay chân, thân mình. Cụ thể:
+Ban đỏ xuất hiện sau sốt vài ngày, ban đầu ở má, thương tổn đỏ da, tương phản với một vùng tái nhợt xung quanh miệng, cảm giác hơi nóng, rát như ai đó đánh vào hai má, sau đó đến các chi và thân mình dưới dạng ban hồng hoặc dạng lưới và kéo dài trong khoảng 2 – 4 ngày.
+Tình trạng ban nghiêm trọng hơn khi tiếp xúc với nước nóng, nước lạnh quá hay tiếp xúc trực tiếp dưới ánh nắng mặt trời. Ban có thể tự mất đi sau vài ngày, đôi khi có những trường hợp bệnh nhân bị xuất hiện ban đỏ kéo dài đến vài tuần.
+Một số biểu chứng kèm theo: hạch vùng sưng to, viêm họng. Trường hợp nặng, các nốt ban có thể gây đau.
+Ngoài ra, Parvovirus B19 còn gây ra hội chứng ngứa có mẩn ở vùng tay chân đi găng và tất (papular purpuric gloves and socks syndrome – PPGSS), gây tổn thương dạng sẩn, nốt hoặc chấm xuất huyết giới hạn ở vùng bàn tay, bàn chân và thường kèm sốt hoặc tổn thương họng, đường sinh dục.
+Do triệu chứng của ban đỏ nhiễm khuẩn thường dễ nhầm lẫn với một số bệnh khác, vì vậy, khi có bất cứ dấu hiệu của bệnh, cách tốt nhất nên đến các cơ sở y tế để được xét nghiệm, tư vấn và điều trị kịp thời nhằm tránh các biến chứng nguy hiểm có thể xảy ra.
+Các biến chứng của ban đỏ nhiễm khuẩn
+Ban đỏ nhiễm khuẩn có thể gây ra những biến chứng nguy hiểm cho trẻ em và người lớn như: Đau khớp, viêm đa khớp, viêm não, viêm gan, viêm cơ, bệnh tim,… Parvovirus B19 không gây dị tật thai nhi nhưng gây thai lưu với tỷ lệ khoảng 9%. Trong khi đó, các xét nghiệm sàng lọc trong quá trình mang thai thường bỏ qua căn nguyên này.
+Bệnh có thể truyền qua nhau thai, dẫn đến thai chết lưu hoặc thiếu máu nặng ở thai nhi gây phù nề lan rộng (phù thai nhi). Tuy nhiên, khoảng một nửa phụ nữ mang thai được miễn dịch vì đã từng mắc trước đó. Nguy cơ tử vong ở thai nhi là từ 2 đến 6% sau khi nhiễm bệnh từ mẹ, nguy cơ cao nhất là trong 6 tháng đầu của thai kỳ.
+Ai có khả năng bị các biến chứng nặng của ban đỏ nhiễm khuẩn?
+Ban đỏ nhiễm khuẩn tuy lành tính nhưng có thể gây nguy hiểm ở người suy giảm miễn dịch, dùng thuốc ức chế miễn dịch hoặc ở phụ nữ mang thai. Ngoài ra, người có bệnh huyết học như hồng cầu hình liềm, bệnh thiếu máu huyết tán di truyền, thiếu men màng hồng cầu… cũng có nguy cơ cao hơn.
+Người bị suy giảm miễn dịch thường không có biểu hiện phát ban và các triệu chứng khớp. Nguyên nhân là do họ không có phản ứng miễn dịch thích hợp với nhiễm trùng để các triệu chứng bệnh xuất hiện. Người suy giảm miễn dịch bị nhiễm Parvovirus B19 mạn tính có thể dẫn đến giảm bạch cầu, giảm tiểu cầu hoặc ức chế tủy xương hoàn toàn.
+Người mắc hồng cầu hình liềm hoặc các bệnh tán huyết mạn tính khác có thể bị ảnh hưởng nghiêm trọng hơn. Nhiễm trùng do parvovirus B19 phá hủy hồng cầu lưới, gây ra sự giảm tạm thời hoặc ngừng sản xuất hồng cầu. Người bệnh có thể bị suy tủy cấp và dẫn đến thiếu máu nghiêm trọng. Thông thường, triệu chứng ở họ sẽ nặng hơn với sốt, khó chịu, nhịp tim nhanh và thở nhanh do thiếu máu nặng.
+Chẩn đoán ban đỏ nhiễm khuẩn ra sao?
+Ban đỏ nhiễm khuẩn được chẩn đoán chủ yếu dựa vào các biểu hiện lâm sàng. Ngoài ra, có các xét nghiệm sau giúp khẳng định chẩn đoán:
+Xét nghiệm huyết thanh IgM, IgG: IgM có mặt vào ngày thứ 8 sau khi nhiễm trùng, biến mất sau 3 tháng, IgG có mặt vào ngày 15-21 sau nhiễm trùng.
+PCR chẩn đoán Parvovirus B19: có độ nhạy cao hơn. Các mẫu vật khác nhau bao gồm huyết thanh hoặc huyết tương, nước ối, mô nhau thai hoặc mô bào thai hoặc tủy xương. Đây được coi là xét nghiệm lựa chọn ở bệnh nhân suy giảm miễn dịch và để xác nhận nhiễm virus ở thai nhi. PCR nên được sử dụng cùng với IgM và IgG ở bệnh nhân mang thai.
+Ban đỏ nhiễm khuẩn không phải là tình trạng nguy hiểm. Trẻ ở giai đoạn phát ban vẫn có thể tới trường vì giai đoạn này bệnh không lây nữa.
+Chẩn đoán phân biệt ban đỏ nhiễm khuẩn với các bệnh khác?
+Nhiều loại virus khác cũng gây phát ban tương tự. Do đó, cần chẩn đoán phân biệt ban đỏ nhiễm khuẩn bao gồm sởi, rubella, bệnh hồng ban (roseola) và sốt tinh hồng nhiệt (scarlet fever). Ở người lớn, khi đau khớp phổ biến hơn, chẩn đoán khác có thể bao gồm cúm và bạch cầu đơn nhân.
+Phương pháp điều trị ban đỏ nhiễm khuẩn
+Bệnh ban nhiễm khuẩn không có thuốc điều trị đặc hiệu, việc điều trị chủ yếu là theo dõi và làm giảm các triệu chứng như: sốt, đau rát… bằng cách:
+Dùng paracetamol hoặc aspirin với liều thích hợp để làm giảm nhẹ các triệu chứng.
+Kem bôi da calamine (có chứa oxit kẽm) có thể giúp giảm ngứa trên da.
+Cho bệnh nhân nghỉ ngơi và uống thật nhiều nước.
+Có thể dùng khăn lạnh chườm vào má để giảm cảm giác nóng, rát cho trẻ.
+Đồng thời, nếu có triệu chứng mới xuất hiện như sốt cao, tiêu chảy, mệt mỏi,… phụ huynh cần đưa trẻ đến các cơ sở y tế để khám, tư vấn thuốc cụ thể, không tự ý mua thuốc về dùng khi chưa có chỉ định của bác sĩ để tránh bệnh càng nặng thêm. Tuy nhiên, sau một lần mắc bệnh thì người bệnh thường có khả năng miễn nhiễm lâu dài, rất hiếm khi mắc bệnh lần nữa.
+Nếu như trẻ bị rối loạn máu hay suy giảm miễn dịch hoặc đang điều trị ung thư mà mắc bệnh, cần đưa trẻ đến ngay các cơ sở y tế. Với những trường hợp này, trẻ thường có sức đề kháng yếu, do vậy, bệnh sẽ trở nên nghiêm trọng hơn.
+Phòng ngừa bệnh ban đỏ nhiễm khuẩn ra sao?
+Trẻ mắc ban đỏ nhiễm khuẩn rất dễ lây lan cho trẻ khác, đặc biệt khi trẻ đang trong giai đoạn có những triệu chứng giống như cảm lạnh. Bởi vậy, khi thấy trẻ bị sốt hoặc phát ban, cần giữ trẻ tránh xa các trẻ khác và các thai phụ. Phụ nữ mang thai nếu nghi ngờ tiếp xúc với nguồn bệnh thì cần đi xét nghiệm.
+Hiện nay, vẫn chưa có vắc xin đặc hiệu để điều trị và phòng bệnh ban nhiễm khuẩn, vì vậy, cách tốt nhất để phòng bệnh là giữ gìn vệ sinh sạch sẽ, rửa tay thường xuyên bằng xà phòng, không dùng chung thức ăn hoặc dụng cụ ăn uống,…
+Những người đang mang thai, đã bị nhiễm virus hoặc từng có tiếp xúc với người nghi ngờ có virus nên tới bệnh viện để làm xét nghiệm máu, cần theo dõi chặt chẽ về sự phát triển của thai nhi nhằm tránh những hậu quả đáng tiếc.
+Một số lưu ý để có thể giúp cải thiện tình trạng ban đỏ nhiễm khuẩn của trẻ:
+Cho trẻ uống nhiều nước.
+Có chế độ ăn uống khoa học, cung cấp đầy đủ các chất dinh dưỡng cho trẻ. Tập cho trẻ có một thói quen ăn uống lành mạnh.
+Cho trẻ có thời gian nghỉ ngơi, nên nghỉ tại nhà bởi nếu trẻ đến trường có thể tăng nguy cơ lây nhiễm cho các trẻ khác.
+Theo dõi sát các triệu chứng của trẻ, nếu thấy bệnh không có dấu hiệu thuyên giảm thì phải cho trẻ đi khám để được dùng thuốc điều trị kịp thời, không tự ý cho trẻ uống thuốc khi chưa có chỉ định của bác sĩ.
+Giữ gìn vệ sinh cả mẹ với bé, các vật dụng có tiếp xúc với trẻ để hạn chế tối đa khả năng lây lan của virus.
+Hạn chế cho trẻ tiếp xúc với những người bị ho, hắt hơi thường xuyên.
+Tạo cho bé thói quen rửa tay và giữ gìn vệ sinh tốt để ngăn chặn nguy cơ nhiễm bệnh.
+Ban đỏ nhiễm khuẩn có thể xảy ra ở bất kỳ lứa tuổi nào nhưng thường gặp nhất ở lứa tuổi học sinh tiểu học. Do vậy, việc chẩn đoán sớm bệnh và điều trị kịp thời là rất quan trọng, không chỉ đảm bảo được sức khỏe cho bé mà còn hạn chế nguy cơ bị lây lan sang những người khác.

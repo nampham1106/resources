@@ -1,0 +1,95 @@
+# doc_id = health_disease_167
+# url = https://vnvc.vn/vaccine-giai-doc-to/
+# date = 08/04/2024
+Vaccine giải độc tố là gì? Có bao nhiêu loại đang được tiêm
+Trong bài viết này, chúng ta sẽ xem xét và tìm hiểu về một trong những công nghệ vắc xin khá đặc biệt và được ứng dụng nhiều trong việc bào chế vắc xin phòng ngừa các bệnh lý nhiễm trùng do chất độc của vi khuẩn gây ra – vaccine giải độc tố.
+BS Bùi Công Sự – Quản lý Y khoa vùng 3 – miền Bắc, Hệ thống Trung tâm tiêm chủng VNVC chia sẻ: “Hiện nay, các nhà khoa học đã tìm ra nhiều công nghệ khác nhau để sản xuất vắc xin, trong đó vắc xin giải độc tố là một trong những phát minh của khoa học. Không như các loại vắc xin khác được tạo ra bằng cách làm suy yếu hoặc gây bất hoạt vi khuẩn, virus, vaccine giải độc tố được tạo ra bằng cách tinh chế, khử hoạt tính của độc tố để làm mất khả năng gây độc nhưng vẫn giữ tính kháng nguyên, sau đó đưa vào cơ thể kích thích sinh miễn dịch với độc tố của vi khuẩn đó. Từ đó, chúng đã trở thành một vũ khí hữu ích phục vụ cho công tác tiêm chủng.”
+Mục lụcVaccine giải độc tố là gì?Vắc xin giải độc tố hoạt động như thế nào?So sánh vaccine giải độc tố với các công nghệ vắc xin khácVắc xin giải độc tố thích hợp với ai? Ai không nên tiêm?Các loại vaccine giải độc tố1. Vắc xin giải độc tố uốn ván2. Vaccine bạch hầuNhững tác dụng phụ thường gặp của vắc xin giải độc tố và cách xử lýTiêm vaccine giải độc tố ở đâu?Tìm hiểu quy trình sản xuất của vắc xin giải độc tốKết luậnVaccine giải độc tố là gì?
+Vaccine giải độc tố (toxoid vaccine) là vắc xin được bào chế từ độc tố của vi khuẩn gây bệnh, bảo vệ người tiêm khỏi sự xâm nhập, tấn công và gây bệnh của độc tố do vi khuẩn tiết ra, ví dụ vắc xin giải độc tố bạch hầu, vắc xin giải độc tố uốn ván.
+Độc tố của vi khuẩn trước khi bào chế đã được trải qua quá trình tinh chế, khử hoạt tính bằng hóa chất hoặc nhiệt, do đó đã bị làm mất đi khả năng gây độc nhưng vẫn giữ được tính kháng nguyên, có khả năng tạo ra phản ứng miễn dịch bên trong cơ thể người tiêm đối với độc tố của vi khuẩn đó.
+Khác với các loại vắc xin khác, thay vì sử dụng toàn bộ vi sinh vật bất hoạt để bào chế vắc xin, vắc xin giải độc tố chỉ sử dụng tác nhân gây bệnh trực tiếp – độc tố do vi khuẩn giải phóng ra để bào chế vắc xin.
+Vắc xin giải độc tố hoạt động như thế nào?
+Vắc xin giải độc tố hoạt động dựa trên cơ chế “bắt chước” hành vi gây bệnh tự nhiên của độc tố vi khuẩn để huấn luyện và tăng cường phản ứng phòng thủ tự nhiên của cơ thể. Khi vaccine giải độc tố được tiêm vào cơ thể, các thành phần độc tố bất hoạt của vi khuẩn sẽ bị hệ thống miễn dịch của người tiêm phát hiện, đồng thời kích thích sản sinh kháng thể đặc hiệu chủ động tấn công, tiêu diệt và loại thải độc tố ra khỏi cơ thể người tiêm.
+Sau khi quá trình tấn công kết thúc, hệ thống miễn dịch sẽ tiếp tục ghi nhớ quá trình gây bệnh của các độc tố và hành trình chiến đấu của hệ miễn dịch nhằm chủ động bảo vệ cơ thể người tiêm khỏi nguy cơ nhiễm trùng độc tố do vi khuẩn tiết ra ở lần tiếp xúc trong tương lai.
+Mục tiêu của vắc xin giải độc là “huấn luyện” hệ thống miễn dịch của người tiêm cách để trung hòa những chất độc đó bằng kháng thể thông qua tiêm chủng.
+So sánh vaccine giải độc tố với các công nghệ vắc xin khác
+Công nghệ vắc xin
+Khái niệm
+Ưu điểm
+Nhược điểm
+Vaccine giải độc tố
+Là vắc xin sử dụng độc tố của vi khuẩn đã được bất hoạt để hướng mục tiêu của hệ thống miễn dịch vào việc sinh kháng thể đặc hiệu với tác nhân gây bệnh chính – độc tố do vi khuẩn tạo ra, thay vì nhắm vào vi khuẩn. [1]
+Vắc xin giải độc đặc biệt hiệu quả trong việc ngăn ngừa một số bệnh do độc tố gây ra như uốn ván, bạch hầu. Các mũi tiêm tăng cường thường được khuyên dùng sau mỗi 10 năm hoặc lâu hơn, nhờ đó tiết kiệm đáng kể chi phí tiêm ngừa cho những mũi bổ sung hoặc mũi nhắc.
+Vắc xin giải độc tố cũng thường ổn định hơn, ít bị hư hại do nhiệt độ, ánh sáng và độ ẩm.
+Thường cần liều lượng lớn để tạo ra phản ứng miễn dịch đầy đủ. Khi sử dụng liều lượng lớn hơn, có thể xảy ra hiện tượng dung nạp kháng nguyên (hiện tượng các tế bào miễn dịch không đáp ứng để tạo ra kháng thể). Vì vậy, vắc xin giải độc hầu như luôn cần có chất bổ trợ và liều tăng cường. [2]
+Vắc xin sống giảm độc lực
+Là vắc xin có chứa mầm bệnh sống từ tác nhân gây bệnh đã bị giảm độc lực hoặc làm cho suy yếu nhằm đảm bảo tính an toàn cho người tiêm, song vẫn đảm bảo phản ứng miễn dịch đủ mạnh để kích thích hệ thống miễn dịch sinh kháng thể chống lại tác nhân gây bệnh.
+Vì vắc xin sống giảm độc lực có chứa mầm bệnh sống nên sẽ gây miễn dịch mạnh mẽ, gần giống với quá trình nhiễm trùng tự nhiên của cơ thể. Do đó, khi tiêm vắc xin sống giảm độc lực, hệ thống miễn dịch phản ứng rất tốt và thường sinh “trí nhớ miễn dịch” trong một thời gian rất dài. Khi tiêm vắc xin sống giảm độc lực, thường sẽ không cần tiêm thêm liều bổ sung hoặc tiêm nhắc lại.
+Vắc xin sống giảm độc lực có hoạt động mạnh mẽ tương tự như nhiễm trùng tự nhiên của cơ thể nên thường gây ra các phản ứng cao hơn sau tiêm. Tuy nhiên, các vắc xin sống giảm độc lực đều đã được khử tính gây độc của độc tố vi khuẩn nên vẫn đảm bảo tính an toàn cao khi tiêm. Đồng thời, người bị suy giảm miễn dịch không nên tiêm vắc xin sống giảm độc lực.
+Vắc xin bất hoạt
+Là vắc xin được bào chế từ tác nhân gây bệnh (virus, vi khuẩn…) đã bị làm bất hoạt hoặc tiêu diệt nhưng vẫn đảm bảo phản ứng miễn dịch đủ mạnh để tạo ra kháng thể bảo vệ cơ thể người tiêm khỏi sự tấn công của tác nhân gây bệnh đó.
+Vắc xin bất hoạt có quy trình sản xuất tối giản hơn so với các loại vắc xin khác, có thể được sản xuất hàng loạt và chi phí sản xuất tương đối rẻ, tiết kiệm chi phí tiêm chủng cho người tiêm.
+Khác với vắc xin sống giảm độc lực, phác đồ tiêm chủng vắc xin bất hoạt luôn cần sử dụng thêm liều bổ sung hoặc liều nhắc để tạo được đáp ứng miễn dịch cần thiết.
+Vắc xin tiểu đơn vị
+Là vắc xin chỉ chứa duy nhất một thành phần kháng nguyên của vi sinh vật gây bệnh chứ không phải toàn bộ vi sinh vật, đồng thời bị loại bỏ các thành phần không mang tính kháng nguyên.
+Vắc xin tiểu đơn vị chỉ chứa các phần của mầm bệnh chứ không phải toàn bộ cơ thể nên vắc xin này vô cùng an toàn, rất hiếm khi gây ra các phản ứng phụ sau tiêm.
+Vắc xin tiểu đơn vị đòi hỏi quá trình sản xuất phức tạp nên chi phí sản xuất và lưu trữ cao.
+Các loại vắc xin tiểu đơn vị thường yêu cầu nhiều liều tiêm để đạt được mức độ miễn dịch cần thiết.
+Vắc xin vector virus
+Là vắc xin sử dụng một loại virus vô hại để cung cấp cho tế bào vật chủ mã di truyền của kháng nguyên tác nhân gây bệnh. Về cơ bản, chúng là một hệ thống phân phối gen, thông tin về kháng nguyên được truyền đi, từ đó kích hoạt phản ứng miễn dịch của cơ thể.
+Thường tạo ra phản ứng miễn dịch mạnh mẽ. Thông thường, chỉ cần một liều tiêm để hình thành và tăng cường khả năng miễn dịch của có thể đối với một hoặc một số tác nhân gây bệnh nhất định. Có thể cần tăng cường để duy trì khả năng miễn dịch.
+Việc tiếp xúc trước với virus vector có thể làm giảm hiệu quả miễn dịch của vắc xin. Đồng thời, đây là một loại vắc xin có liên quan đến công nghệ di truyền nên tương đối phức tạp để sản xuất, kéo theo chi phí sản xuất tăng cao, gia tăng chi phí tiêm chủng. [3]
+Vắc xin mRNA
+Là vắc xin được phát triển bằng cách sử dụng mã di truyền của tác nhân gây bệnh – mRNA để cung cấp cho tế bào “mã”, tạo ra một protein tương tự với protein kháng nguyên trên bề mặt của tác nhân gây bệnh. Từ đó, kích hoạt phản ứng miễn dịch của cơ thể.
+Đây là kỹ thuật có khả năng tạo ra nhiều vắc xin với tốc độ nhanh bởi công nghệ có khả năng thích ứng rất cao.
+Vắc xin mRNA thường đòi hỏi bảo quản ở nhiệt độ cực lạnh, do đó đòi hỏi khâu bảo quản phức tạp hơn so với vắc xin thông thường chỉ yêu cầu từ 2-8 độ C.
+Do cơ chế kích thích tế bào phản ứng lại mầm bệnh nên người tiêm vắc xin có thể xảy ra phản ứng miễn dịch mạnh mẽ quá mức, mặc dù rất hiếm gặp.
+Thời gian bảo vệ của vắc xin không rõ kéo dài bao lâu, có thể cần phải tiêm nhắc nhiều liều. [4]
+Vắc xin giải độc tố thích hợp với ai? Ai không nên tiêm?
+Bất cứ ai cũng có thể tiêm ngừa vắc xin giải độc tố theo chỉ định của các nhà sản xuất đối với mỗi loại vắc xin nhất định. Ngay cả đối với phụ nữ mang thai, hiện không có bằng chứng nào về nguy cơ đối với bào thai do việc tiêm vaccine giải độc tố.
+Theo CDC Hoa Kỳ, các đối tượng không nên tiêm vaccine giải độc tố bao gồm:
+Bệnh nhân đã có phản ứng dị ứng nghiêm trọng (ví dụ như sốc phản vệ) sau liều trước đó;
+Người bị dị ứng nặng với bất kỳ thành phần nào của vắc xin.
+Các loại vaccine giải độc tố
+Hiện nay, có 2 loại vaccine giải độc tố đang lưu hành tại Việt Nam, bao gồm vaccine giải độc tố uốn ván và vaccine giải độc tố bạch hầu.
+1. Vắc xin giải độc tố uốn ván
+Vắc xin giải độc tố uốn ván là vắc xin cung cấp cho người tiêm khả năng phòng ngừa nguy cơ nhiễm trùng độc tố uốn ván.
+Uốn ván là bệnh lý truyền nhiễm cấp tính do ngoại độc tố của vi khuẩn Clostridium tetani gây ra. Bệnh điển hình bởi biểu hiện đau, co cứng cơ (cứng cổ, hàm và cơ bụng), khó nuốt, uống sặc, sốt, co giật và co thắt… Mặc dù trong nhiều trường hợp, người bệnh uốn ván có thể phục hồi tự nhiên trong vài tháng, nhưng vẫn có đến 10% – 90% tỷ lệ tử vong khi phát bệnh.
+Khác với hầu hết các độc tố và tác nhân gây bệnh khác, uốn ván sinh độc tố với độc lực mạnh, việc tiếp xúc và phục hồi sau khi nhiễm trùng độc uốn ván không tạo ra miễn dịch cho những lần phơi nhiễm sau này. Do vậy, để tạo ra trí nhớ miễn dịch, mọi người cần tiêm vaccine giải độc tố uốn ván. Vaccine giải độc tố uốn ván được xem là cách phòng bệnh an toàn và hiệu quả, người tiêm thường chỉ có phản ứng viêm đỏ và đau ở chỗ tiêm, phản ứng dị ứng nghiêm trọng là rất hiếm.
+Hiện nay, Việt Nam đang lưu hành 01 loại vắc xin giải độc tố uốn ván (hay còn gọi là uốn ván đơn) TT (Việt Nam) cùng các loại vắc xin phối hợp khác có chứa thành phần giải độc tố uốn ván như vắc xin 6 trong 1 Hexaxim (Pháp), Infanrix Hexa (Bỉ), vắc xin 5 trong 1 Pentaxim (Pháp), vắc xin 4 trong 1 Tetraxim bạch hầu – ho gà – uốn ván – bại liệt (Pháp), vắc xin 3 trong 1 bạch hầu – ho gà – uốn ván MMR (Ấn Độ), MMR-II (Mỹ), Priorix (Bỉ), vắc xin 2 trong 1 Bạch hầu – Uốn ván hấp thụ Td (Việt Nam).
+Tiêm phòng uốn ván đã giảm đáng kể số ca mắc bệnh và tỷ lệ tử vong trên toàn thế giới đến 95%.
+2. Vaccine bạch hầu
+Bạch hầu là bệnh lý truyền nhiễm cấp tính gây ra bởi ngoại độc tố của vi khuẩn bạch hầu Corynebacterium diphtheriae, dẫn đến các triệu chứng sốt, sưng hạch, lớp màng dày màu trắng xám ở phía sau cổ họng. Nếu bạch hầu lây nhiễm vào da thông qua vết thương hở, bệnh có thể gây ra các mụn nước hoặc vết loét lớn có mủ. Bên cạnh đó, bệnh có thể gây ra biến chứng tắc nghẽn đường hô hấp, viêm cơ tim, viêm đa dây thần kinh, suy tim, hôn mê, liệt cơ hô hấp và thậm chí tử vong.
+Vắc xin bạch hầu là vắc xin cung cấp cho người tiêm khả năng phòng ngừa nguy cơ nhiễm trùng độc tố uốn ván. Từ khi được phê duyệt lưu hành, vắc xin bạch hầu đã giúp giảm 90% số ca mắc bệnh trên toàn thế giới và được ghi nhận là một trong những loại vắc xin có rất ít tác dụng phụ ngoại trừ vết sưng tấy ở chỗ tiêm và có thể kéo dài trong vài tuần.
+Tương tự với với bệnh uốn ván, bệnh bạch hầu được chủng ngừa bằng vắc xin phối hợp có chứa thành phần giải độc tố bạch hầu như vắc xin 6 trong 1 Hexaxim (Pháp), Infanrix Hexa (Bỉ), vắc xin 5 trong 1 Pentaxim (Pháp), vắc xin 4 trong 1 bạch hầu – ho gà – uốn ván – bại liệt Tetraxim (Pháp), vắc xin 3 trong 1 bạch hầu – ho gà – uốn ván MMR (Ấn Độ), MMR-II (Mỹ), Priorix (Bỉ), vắc xin xin 2 trong 1 Bạch hầu – Uốn ván hấp thụ Td (Việt Nam).
+Để giảm số lần tiêm, số mũi tiêm và số lần đau do tiêm chủng, các nhà khoa học vẫn luôn cố gắng tạo ra những loại vắc xin phối hợp chứa nhiều thành phần kháng nguyên của các tác nhân gây bệnh hoặc độc tố của chúng trong cùng một mũi tiêm.
+Những tác dụng phụ thường gặp của vắc xin giải độc tố và cách xử lý
+Bên cạnh những hiệu quả phòng ngừa nguy cơ mắc bệnh và giảm thiểu đáng kể tỷ lệ tử vong trên toàn thế giới, vaccine giải độc tố cơ bản vẫn là một chế phẩm sinh học có chứa kháng nguyên, khi tiêm vào cơ thể người hoàn toàn có thể gây ra các tác dụng phụ như:
+Các tác dụng phụ thường gặp: Sưng, đau, đỏ hoặc cục cứng ở chỗ tiêm. Đây là những tác dụng phụ thông thường và sẽ nhanh chóng thuyên giảm, phục hồi sau vài ngày đến vài tuần sau tiêm. Có thể chườm mát vị trí tiêm để giảm đau bằng cách bọc nước đá sạch bên trong một khăn bông sạch và áp nhẹ nhàng xung quanh vùng tiêm, chú ý không giữ một vị trí qua lâu, tránh gây bỏng lạnh, dễ khiến vết tiêm nhiễm trùng.
+Các phản ứng phụ toàn thân khác: Ớn lạnh, sốt, khó chịu hoặc mệt mỏi bất thường… Đây là những tác dụng phụ ít phổ biến hơn, không gây ra các vấn đề sức khỏe nghiêm trọng. Cần cho người bệnh nghỉ ngơi nhiều hơn, chế độ dinh dưỡng tiết chế tối đa sự xuất hiện của các loại thực phẩm nhiều dầu mỡ, cay nóng, chiên xào, đồ ăn nhanh, thức ăn đóng hộp, uống nhiều nước hơn và ưu tiên mặc đồ mỏng nhẹ, rộng rãi, thoáng mát. Đồng thời, có thể hạ sốt bằng các loại thuốc hạ sốt thông thường như Paracetamol.
+Phản ứng dị ứng: Khó thở hoặc nuốt, phát ban, ngứa, đặc biệt là ở bàn chân hoặc bàn tay, đỏ da, đặc biệt là quanh tai, sưng mắt, mặt hoặc bên trong mũi, mệt mỏi hoặc yếu đuối bất thường (đột ngột và nghiêm trọng), lú lẫn, co giật, sốt trên 103°F (39,4°C), nhức đầu (nặng hoặc tiếp tục), buồn ngủ quá mức, sưng, phồng rộp hoặc đau tại chỗ tiêm nặng, sưng hạch ở nách, khó chịu bất thường, nôn mửa… Đây là những triệu chứng dị ứng nghiêm trọng, cần được can thiệp y tế càng sớm càng tốt, người tiêm cần lựa chọn những cơ sở tiêm chủng uy tín, an toàn, có đội ngũ xử trí cấp cứu chuyên nghiệp và có đầy đủ trang thiết bị, vật tư, thuốc cấp cứu.
+Phản ứng bất thường có thể xảy ra 48 – 72 giờ sau tiêm tại nhà, nếu phát hiện hoặc nghi người tiêm gặp phản ứng dị ứng nặng, ngay lập tức đưa người tiêm đến các cơ sở y tế hoặc bệnh viện gần nhất để được kịp thời xử trí.
+Tiêm vaccine giải độc tố ở đâu?
+VNVC – Hệ thống trung tâm tiêm chủng vắc xin cho trẻ em và người lớn An toàn – Uy tín – Chất lượng hàng đầu Việt Nam, cung ứng đầy đủ tất cả các loại vắc xin quan trọng, vắc xin thế hệ mới, vắc xin thường xuyên khan hiếm, bao gồm cả vaccine giải độc tố tại hàng trăm trung tâm tiêm chủng chất lượng cao trên toàn quốc, sẵn sàng đáp ứng mọi nhu cầu tiêm chủng vắc xin phòng bệnh của người dân.
+Tất cả vắc xin tại VNVC được bảo quản trong hệ thống dây chuyền lạnh (Cold Chain) đạt chuẩn GSP và hệ thống hàng trăm kho lạnh hiện đại, quy mô lớn, đạt tiêu chuẩn Quốc tế tại mỗi trung tâm, cam kết duy trì nhiệt độ bảo quản vắc xin ổn định từ 2 – 8 độ C theo yêu cầu của nhà sản xuất, đảm bảo 100% vắc xin nguyên vẹn về chất lượng, đảm bảo hiệu quả và an toàn cho mọi Khách hàng khi đến trung tâm tiêm chủng.
+VNVC sở hữu hệ thống xe lạnh vận chuyển vắc xin đạt chuẩn GSP, giúp VNVC luôn chủ động trong việc phân phối và cấp phát vắc xin, đảm bảo vắc xin luôn có mặt đầy đủ tại hàng trăm trung tâm trên cả nước.
+100% vắc xin tại VNVC được nhập khẩu trực tiếp, chính hãng từ các hãng vắc xin và tập đoàn sinh phẩm y tế hàng đầu trên toàn thế giới. Đặc biệt, VNVC được đặc cách đặt trước số lượng lớn vắc xin mới nhất trong nhiều năm với giá ưu đãi. Nhờ đó, VNVC vừa đảm bảo nguồn cung vắc xin bền vững, luôn chủ động trong việc điều phối số lượng vắc xin trong kho tổng và tại các kho trung tâm, vừa mang đến mức giá vô cùng cạnh canh cho người dân.
+Đồng thời, VNVC cam kết giá vắc xin luôn bình ổn, thậm chí luôn mang đến nhiều chương trình ưu đãi và quà tặng hấp dẫn. VNVC cũng là đơn vị tiêm chủng đầu tiên tại Việt Nam mang đến chính sách tiêm trả góp gói vắc xin không lãi suất – “tiêm vắc xin trước, trả chi phí sau”, nhằm bình đẳng hóa nhu cầu tiêm chủng, thúc đẩy nhu cầu tiêm ngừa vắc xin, góp phần gia tăng tỷ lệ tiêm chủng các vắc xin quan trọng tại Việt Nam.
+VNVC sở hữu đội ngũ nhân sự gần 10.000 Bác sĩ, điều dưỡng và nhân viên y tế giàu kinh nghiệm, giỏi chuyên môn. 100% Bác sĩ khám sàng lọc trước tiêm nhằm chỉ định tiêm chủng chính xác và phù hợp dựa trên tình trạng sức khỏe, tiền sử bệnh lý, lịch sử tiêm chủng và nhu cầu chủng ngừa của Khách hàng.
+100% điều dưỡng có đầy đủ chứng chỉ ngành nghề, chứng chỉ An toàn tiêm chủng vắc xin theo quy định của Bộ Y tế, được đào tạo cập nhật kiến thức chuyên môn thường xuyên cùng kỹ năng tiêm giảm đau và khả năng xử trí phản ứng sau tiêm nhạy bén, nhanh chóng, an toàn và hiệu quả. VNVC cam kết mang đến dịch vụ tiêm chủng vắc xin toàn diện: An toàn, hiệu quả, cao cấp, chất lượng, tận tâm, tận tình, tiện lợi.
+Để được tư vấn, đặt lịch tiêm chủng vaccine cúm Tứ giá thế hệ mới, đăng ký gói vaccine hoặc tham gia các chương trình ưu đãi, Khách hàng có thể liên hệ trực tiếp với VNVC qua:
+Hotline: 028 7102 6595;
+Fanpage: VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn;
+Tra cứu trung tâm tiêm chủng VNVC gần nhất tại đây;
+Để đặt mua vaccine và tham khảo các sản phẩm vaccine, Quý khách vui lòng truy cập: vax.vnvc.vn.
+VNVC – Hệ thống tiêm chủng vắc xin An toàn, Uy tín, Chất lượng hàng đầu Việt Nam, là “người bạn thân” của hàng chục triệu gia đình Việt.
+Tìm hiểu quy trình sản xuất của vắc xin giải độc tố
+Bước 1: Vi khuẩn chứa độc tố gây bệnh được nuôi cấy trong môi trường lỏng;
+Bước 2: Tách lấy độc tố của vi khuẩn;
+Bước 3: Bất hoạt độc tố của vi khuẩn bằng formaldehyde hoặc bằng nhiệt hoặc bằng các phương pháp khác để loại bỏ khả năng gây bệnh của độc tố đồng thời tạo ra kháng nguyên độc tố;
+Bước 4: Sau khi tinh chế và khử trùng, giải độc tố vi khuẩn tương ứng được bào chế bằng muối nhôm hoặc canxi.
+Kết luận
+Vaccine giải độc tố là vắc xin được bào chế bằng độc tố tiết ra từ tác nhân gây bệnh (thường là vi khuẩn) thay vì toàn bộ tác nhân gây bệnh. Độc tố này được tinh chế và bất hoạt nhằm khử độc tính nhưng vẫn đảm bảo tính kháng nguyên cùng khả năng gây miễn dịch của độc tố.
+Khi đưa vào cơ thể qua đường tiêm/uống/xịt mũi…, các kháng nguyên độc tố sẽ kích thích hệ thống miễn dịch hoạt động, sản sinh kháng thể đặc hiệu chủ động chống lại các tác nhân gây bệnh này, đồng thời ghi nhớ chúng, bảo vệ cơ thể người tiêm khỏi nguy cơ mắc bệnh khi chẳng may phơi nhiễm trong tương lai.
+Hiện, tại Việt Nam có 2 loại vắc xin giải độc tố được áp dụng tiêm cho cả trẻ em và người lớn, bao gồm vaccine giải độc tố uốn ván và vaccine giải độc tố bạch hầu.
+Các loại vắc xin này thường được kết hợp với nhiều thành phần kháng nguyên của các loại vắc xin khác, cung cấp dưới dạng vắc xin phối hợp với khả năng phòng ngừa nhiều bệnh truyền nhiễm nguy hiểm chỉ trong 1 mũi tiêm duy nhất, chẳng hạn như vắc xin 6 trong 1 phòng bệnh bạch hầu, ho gà, uốn ván, bại liệt, HiB và viêm gan B, tiêm cho trẻ từ 2 tháng tuổi trở lên; vắc xin bạch hầu – ho gà – uốn ván tiêm nhắc mỗi 5-10 năm/lần và tiêm cho phụ nữ có thai

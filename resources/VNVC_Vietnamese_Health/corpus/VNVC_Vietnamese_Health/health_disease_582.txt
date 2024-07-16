@@ -1,0 +1,105 @@
+# doc_id = health_disease_582
+# url = https://vnvc.vn/chan-doan-va-dieu-tri-benh-uon-van/
+# date = 13/04/2020
+Chẩn đoán và điều trị bệnh uốn ván
+Uốn ván là một bệnh cấp tính nặng, có khả năng gây tử vong do độc tố của vi khuẩn uốn ván (Clostridium tetani) gây ra, đặc trưng bởi các cơn co giật trên nền tăng trương lực cơ. Ở các nước đang phát triển, có khoảng 1 triệu trường hợp uốn ván với 300.000 đến 500.000 ca tử vong mỗi năm.
+Mục lụcNguyên nhân gây ra bệnh uốn ván là gì?Chẩn đoán bệnh uốn vánChẩn đoán lâm sàng:Điều trị bệnh uốn ván như thế nào?Biến chứng nguy hiểm của bệnh uốn vánDự phòng chủ động để phòng ngừa uốn vánCác loại vắc xin phòng uốn ván cho trẻ em và người lớnVắc xin phòng uốn ván cho phụ nữ chuẩn bị mang thai và mang thaiNguyên nhân gây ra bệnh uốn ván là gì?
+Uốn ván là một bệnh thần kinh nguy hiểm gây ra bởi độc tố của vi khuẩn uốn ván có tên là Clostridium tetani. Uốn ván có thể xuất hiện ở khắp nơi trên thế giới, nhưng thường xuyên nhất là ở những vùng đông dân cư, khí hậu nóng, có đất giàu chất hữu cơ.
+Mầm bệnh chủ yếu được tìm thấy trong đất và đường ruột của động vật và người. Các bào tử vi khuẩn được tìm thấy trong đất và quá trình truyền nhiễm trong đất, có thể kéo dài đến hơn 40 năm. Con đường lây truyền chính là qua các vết thương bị mầm bệnh xâm nhập. Vết thương nhiễm khuẩn có thể lớn hoặc nhỏ. Tuy nhiên, trong những năm gần đây, số trường hợp mắc uốn ván từ các vết thương nhỏ ngày càng nhiều hơn, có thể do tâm lý chủ quan nên các vết thương nhỏ này đã không được sát trùng và xử trí đúng cách.
+Bệnh uốn ván do trực khuẩn uốn ván gây ra, tỷ lệ tử vong xấp xỉ 30%
+Uốn ván có thể xuất hiện sau phẫu thuật, nạo phá thai, bỏng, vết thương xuyên sâu, vết thương dập, viêm tai giữa, nhiễm trùng răng miệng, động vật cắn, đốt. Uốn ván không lây nhiễm trực tiếp từ người sang người. Đây là bệnh duy nhất phòng tránh được bằng vắc xin mà chỉ bị nhiễm trùng chứ không lây nhiễm. Khi các bào tử xâm nhập vào vết thương hở trên cơ thể kết hợp môi trường yếm khí, vi khuẩn sẽ sinh sôi và tạo ra độc tố xâm nhập vào máu.
+Độc tố này được gọi là Tetanus exotoxin. Đây là một trong những chất độc vi khuẩn mạnh nhất mà con người biết đến. Độc tố uốn ván đi từ vết thương có trực khuẩn uốn ván qua máu hoặc bạch huyết vào các trục của dây thần kinh ngoại vi, rồi bám vào các trung tâm thần kinh. Sau khoảng từ 3 đến 21 ngày, độc tố bắt đầu ngắt mạch tín hiệu thần kinh và chặn đứng sự thư giãn của cơ bắp dẫn đến việc cơ bắp liên tục co thắt, đặc biệt là cơ hàm bị khóa cứng.
+Bệnh nhân bị co thắt cơ hàm và mặt, sau đó lan sang cánh tay, chân và lưng và chặn khả năng thở… Khi độc tố uốn ván đã lan rộng, tỷ lệ tử vong xấp xỉ 30%, ngay cả khi được điều trị ở các cơ sở y tế hiện đại.
+Chẩn đoán bệnh uốn ván
+Chẩn đoán lâm sàng:
+Thời kỳ ủ bệnh: Tính từ khi có vết thương đến khi xuất hiện triệu chứng đầu tiên của bệnh uốn ván, thường là biểu hiện cứng hàm. Thời kỳ ủ bệnh có thể từ 2 ngày đến 2 tháng, hầu hết các trường hợp xảy ra trong vòng 8 ngày. Thời kỳ ủ bệnh càng ngắn (< 7 ngày) thì bệnh càng nặng.
+Thời kỳ khởi phát: Tính từ lúc cứng hàm đến khi có cơn co giật đầu tiên hoặc cơn co thắt hầu họng – thanh quản đầu tiên, thường từ 1-7 ngày. Thời gian khởi phát càng ngắn (< 48 giờ) bệnh càng nặng. Triệu chứng khởi đầu là cứng hàm: lúc đầu mỏi hàm, nói khó, nuốt vướng, khó nhai, khó há miệng tăng dần và liên tục. Khi dùng đè lưỡi ấn hàm xuống thì hàm càng cắn chặt hơn (dấu hiệu trismus). Dấu hiệu này gặp ở tất cả các người bệnh.
+Ngoài ra người bệnh còn bị co cứng các cơ khác:
+Tình trạng co cứng các cơ mặt làm cho người bệnh có “vẻ mặt uốn ván” hay “vẻ mặt cười nhăn” (nếp nhăn trán hằn rõ, hai chân mày cau lại, rãnh mũi má hằn sâu).
+Tình trạng co cứng cơ gáy làm cho cổ bị cứng và ngửa dần, 2 cơ ức đòn chũm nổi rõ.
+Co cứng cơ lưng làm cho tư thế người bệnh uốn cong hay ưỡn thẳng lưng.
+Co cứng cơ bụng làm cho 2 cơ thẳng trước gồ lên và sờ vào bụng thấy cứng.
+Co cứng cơ ngực, cơ liên sườn làm cho lồng ngực hạn chế di động.
+Co cứng cơ chi trên tạo nên tư thế gập tay.
+Co cứng chi dưới tạo tư thế duỗi. Khi kích thích, các cơn co cứng tăng lên làm cho người bệnh rất đau. Có thể gặp các biểu hiện khác như: bồn chồn, sốt cao, vã mồ hôi và nhịp tim nhanh.
+Thời kỳ toàn phát: Từ khi có cơn co giật toàn thân hay cơn co thắt hầu họng/thanh quản đầu tiên đến khi bắt đầu thời kỳ lui bệnh, thường kéo dài từ 1 đến 3 tuần. Với các biểu hiện:
+Co cứng cơ toàn thân liên tục, tăng lên khi kích thích, người bệnh rất đau, co cứng điển hình làm cho người người bệnh ưỡn cong.
+Co thắt thanh quản gây khó thở, tím tái, ngạt thở dẫn đến ngừng tim.
+Co thắt hầu họng gây khó nuốt, nuốt vướng, ứ đọng đờm rãi, dễ bị sặc.
+Co thắt các cơ vòng gây bí tiểu, bí đại tiện.
+Cơn co giật toàn thân trên nền co cứng cơ xuất hiện tự nhiên, tăng lên khi kích thích. Trong cơn co giật người bệnh vẫn tỉnh và biểu hiện đặc trưng bằng nắm chặt tay, uốn cong lưng và tay ở tư thế dạng hoặc gấp, chân duỗi, thường người bệnh ngừng thở khi ở vào các tư thế này. Cơn giật kéo dài vài giây đến vài phút hoặc hơn. Trong cơn giật người bệnh rất dễ bị co thắt thanh quản, co cứng cơ hô hấp dẫn đến giảm thông khí, thiếu oxy, tím tái, ngừng thở, và có thể tử vong.
+Rối loạn thần kinh thực vật gặp trong trường hợp nặng với các biểu hiện: da xanh tái, vã mồ hôi, tăng tiết đờm dãi, sốt cao 39 – 40oC hoặc hơn, tăng hoặc hạ huyết áp, huyết áp dao động không ổn định, loạn nhịp tim có thể ngừng tim.
+Thời kỳ lui bệnh: Thời kỳ lui bệnh bắt đầu khi các cơn co giật toàn thân hay co thắt hầu họng/thanh quản bắt đầu thưa dần, tình trạng co cứng toàn thân còn kéo dài nhưng mức độ giảm dần; miệng từ từ há rộng; phản xạ nuốt dần trở lại. Thời kỳ này kéo dài vài tuần đến hàng tháng tuỳ theo mức độ nặng của bệnh.
+Uốn ván ở trẻ sơ sinh, thường khởi phát trong 2 tuần đầu sau khi sinh với các dấu hiệu: trẻ bỏ bú, cứng cơ và các cơn co cứng; thường là uốn ván toàn thân và dễ dẫn đến tử vong nếu không điều trị.
+Chẩn đoán uốn ván thường là dễ thấy và chủ yếu dựa trên các biểu hiện lâm sàng bao gồm:
+Khít hàm: tăng dần và tăng lên khi kích thích, là dấu hiệu sớm nhất và gặp ở hầu hết các người bệnh.
+Co cứng cơ toàn thân, liên tục, đau: co cứng các cơ theo trình tự mặt, gáy, cổ, lưng, bụng, chi và ngực, đặc biệt là cơ bụng, co cứng tăng khi kích thích. Người bệnh có vẻ mặt uốn ván đặc trưng.
+Cơn co giật toàn thân: xuất hiện trên nền co cứng cơ. Cơn giật tăng lên khi kích thích, trong cơn giật người bệnh vẫn tỉnh.
+Có thể có cơn thắt hầu họng – thanh quản.
+Thường có vết thương trước khi xuất hiện triệu chứng uốn ván.
+Người bệnh không tiêm phòng/chủng ngừa hay tiêm phòng/ chủng ngừa không đầy đủ đối với bệnh uốn ván.
+Xem thêm clip: Nguy cơ mắc các bệnh: Bạch hầu – Uốn ván – Ho gà ở người lớn hiện tại như thế nào?
+Điều trị bệnh uốn ván như thế nào?
+Người bị bệnh uốn ván cần được điều trị tại khoa hồi sức tích cực. Phần lớn bệnh nhân vì chủ quan nghĩ rằng vết thương không nguy hiểm hoặc sơ cứu sai cách dẫn đến tình trạng nhập viện khi bệnh đã tiến triển nặng. Điều trị uốn ván thông thường được xử trí theo phác đồ sau:
+Ngăn chặn tạo độc tố uốn ván bằng cách xử lý vết thương: mở rộng vết thương, cắt bỏ triệt để tổ chức hoại tử tại vết thương để loại bỏ nha bào uốn ván. Sử dụng kháng sinh tiêu diệt tận gốc tế bào thực vật là nguồn sản sinh ra độc tố.
+Trung hòa độc tố uốn ván: Để vô hiệu hóa độc tố lưu hành trong máu và độc tố ở vết thương nhằm làm giảm tỷ lệ tử vong, kịp thời dùng globulin miễn dịch uốn ván của người. Tốt nhất là nên tiêm kháng độc tố trước khi điều trị vết thương.
+Kiểm soát co giật và co cứng cơ: Để người bệnh nơi yên tĩnh, kiểm soát ánh sáng, tiếng ồn và tránh kích thích gây co giật là các biện pháp quan trọng trong chăm sóc người bệnh uốn ván. Dùng liều lượng thuốc ít nhất mà khống chế được cơn giật, không ức chế hô hấp và tuần hoàn. Ưu tiên dùng loại thuốc ít độc, ít gây nghiện, thải trừ nhanh, dung nạp tốt khi tiêm hay truyền tĩnh mạch. Thuốc ức chế thần kinh cơ: chỉ định khi dùng thuốc an thần không đủ để kiểm soát co giật, co cứng cơ.
+Điều trị hồi sức tích cực và các biện pháp hỗ trợ khác: Hồi sức hô hấp. Đảm bảo thông thoáng đường thở, hút đờm dãi, không ăn uống đường miệng để tránh sặc và co thắt thanh môn. Mở khí quản có thể kết hợp hoặc không kết hợp với thở máy, bù nước và điện giải, tăng cường dinh dưỡng bằng truyền dịch hoặc cho ăn qua ống thông vào dạ dày, vật lý trị liệu để đề phòng cứng cơ, dùng heparin và các chất kháng đông khác để đề phòng tắc mạch phổi; theo dõi chức năng của thận, bàng quang và ruột; phòng chống chảy máu và loét đường tiêu hóa.
+Dùng vắc xin gây miễn dịch chủ động: Tất cả bệnh nhân phải được tiêm vắc xin sau khi bệnh đã phục hồi.
+Biến chứng nguy hiểm của bệnh uốn ván
+Người bị bệnh uốn ván có thể dẫn đến những biến chứng cực nghiêm trọng như co thắt hầu họng – thanh quản gây ngạt, ngừng thở, sặc, trào ngược dịch dạ dày vào phổi. Ứ đọng đờm dãi do tăng tiết, không nuốt được và phản xạ ho khạc yếu. Suy hô hấp do cơn giật kéo dài.
+Xuất hiện nhiễm trùng như viêm phế quản, viêm phổi, nhiễm khuẩn vết mở khí quản, viêm nơi tiêm truyền tĩnh mạch, nhiễm trùng đường tiết niệu, nhiễm khuẩn huyết, viêm xoang,… Rối loạn thăng bằng nước và điện giải, suy thận, lúc này tiên lượng người bệnh rất nặng, nguy cơ tử vong cao. Kèm theo các biến chứng khác như suy dinh dưỡng, cứng khớp, loét vùng tỳ đè, suy giảm tri giác do thiếu oxy kéo dài, đứt lưỡi do cắn phải gãy răng.
+Dự phòng chủ động để phòng ngừa uốn ván
+Theo BS.CKI Bạch Thị Chính, Giám đốc Y khoa Hệ thống Trung tâm tiêm chủng VNVC khuyến cáo: “Miễn dịch sau khi mắc bệnh uốn ván không bền vững nên phải tiêm vắc xin uốn ván. Việc tiêm phòng (chích ngừa) vắc xin uốn ván được khuyến cáo cho tất cả trẻ sơ sinh, trẻ em, trẻ vị thành niên và người lớn/người lớn tuổi. Liệu trình cơ bản gồm 3 – 4 mũi phụ thuộc vào khuyến cáo của từng quốc gia và sau đó tiêm nhắc lại mỗi 10 năm.”
+Ở trẻ em, vắc xin uốn ván được sử dụng dưới dạng vắc xin phối hợp giúp phòng ngừa thêm các bệnh lý khác có trong vắc xin nhằm giảm số mũi tiêm và giảm đau cho trẻ. Điều quan trọng là trẻ cần được tiêm đầy đủ liệu trình vắc xin uốn ván đúng thời gian để duy trì tình trạng miễn dịch chống lại bệnh.
+Các loại vắc xin phòng uốn ván cho trẻ em và người lớn
+Tên vắc xin
+PENTAXIM (PHÁP)
+INFANRIX(Bỉ)/HEXAXIM(Pháp)
+Tetraxim(Pháp)
+Adacel (Pháp)
+Boostrix (Bỉ)
+Phòng bệnh
+Ho gà, bạch hầu, uốn ván,bại liệt và các bệnh do HIB
+Ho gà, bạch hầu, uốn ván, bại liệt, viêm gan B và các bệnh do HIB
+Ho gà, bạch hầu, uốn ván, bại liệt
+Bạch hầu, uốn ván, ho gà
+Bạch hầu, uốn ván, ho gà
+Đối tượng
+Trẻ từ 2 tháng tuổi đến 24 tháng tuổi.
+Trẻ từ 2 tháng tuổi đến 13 tuổi
+Trẻ từ 4 tuổi đến người lớn 64 tuổi.
+Trẻ từ 4 tuổi trở lên
+Lịch tiêm
++ 3 mũi chính: Tiêm khi trẻ được 2, 3, 4 tháng tuổi;
++ Mũi thứ 4 nhắc lại khi trẻ được 16 đến 18 tháng tuổi.
++ 3 mũi chính: Tiêm khi trẻ được 2, 3, 4 tháng tuổi;
++ Mũi thứ 4 nhắc lại khi trẻ được 16 đến 18 tháng tuổi
++ Chủng ngừa nhắc lại từ 5 đến 13 tuổi: 1 mũi.
++ Tiêm 1 mũi
++Nhắc lại sau mỗi 10 năm
+Sau khoảng thời gian từ 05 – 10 năm nên tiêm nhắc lại để bảo vệ cơ thể bởi vắc xin uốn ván không tạo ra miễn dịch bền vững suốt đời.
+“Người lớn chưa bao giờ tiêm vắc xin uốn ván thì nên đến gặp bác sĩ để được tư vấn. Người lớn bị các vết thương có nguy cơ cao bị uốn ván cũng nên được tiêm vắc xin uốn ván mũi nhắc lại nếu như họ chưa được tiêm nhắc lại trong vòng 5 năm trước đó”, BS.CKI Bạch Thị Chính cho biết thêm.
+Vắc xin phòng uốn ván cho phụ nữ chuẩn bị mang thai và mang thai
+Đối tượng
+Phụ nữ chuẩn bị mang thai
+Phụ nữ đang mang thai
+Vắc xin
+Vắc xin VAT(Việt Nam)
+Vắc xin Adacel (Pháp)
+Vắc xin Boostrix (Bỉ)
+Vắc xin VAT(Việt Nam)
+Vắc xin Boostrix (Bỉ)
+Lịch tiêm
+– Liều 1: Tiêm càng sớm càng tốt khi có thai lần đầu
+– Liều 2: cách liều đầu tiên 1 tháng
+– Liều 3: cách liều 2 tối thiểu 6 tháng hoặc trong thời kỳ có thai sau
+– Tiêm 1 mũi. Chủng ngừa nhắc lại mỗi 10 năm 1 lần.
+– Tiêm 2 mũi, nên tiêm vào 3 tháng giữa và 3 tháng cuối thai kỳ, mũi tiêm cuối nên tiêm trước khi sinh 1 tháng.
+– Xem xét: Tiêm 1 mũi trong 3 giữa hoặc 3 tháng cuối thai kỳ
+Xem thêm:
+VNVC có tiêm được uốn ván cho mẹ bầu không?
+Thai 14 tuần tiêm vắc xin uốn ván được chưa?
+Khi mang thai bà bầu có nên tiêm phòng vắc xin uốn ván?
+Phòng ngừa uốn ván là cách toàn diện và tốt nhất để bảo vệ sức khỏe của bản thân và những người thương. Trung tâm tiêm chủng cho trẻ em và người lớn VNVC hiện đang cung cấp Chương trình tiêm chủng trọn gói với nhiều loại vắc xin đa dạng cho các đối tượng khác nhau như Gói vắc xin cho trẻ em, Gói vắc xin cho trẻ tiền học đường, Gói vắc xin cho tuổi vị thành niên, Gói vắc xin cho người trưởng thành, Gói vắc xin cho phụ nữ chuẩn bị mang thai.
+Bạn có thể tham khảo bảng giá tại đây. Để được tư vấn và đặt lịch tiêm vắc xin phòng các bệnh do vi khuẩn uốn ván, có thể dễ dàng đăng ký tại đây hoặc gọi vào hotline 028.7102.6595, nhắn tin cho Fanpage VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn hoặc liên hệ trực tiếp hệ thống các trung tâm tiêm chủng VNVC trên cả nước.

@@ -1,0 +1,102 @@
+# doc_id = health_disease_442
+# url = https://vnvc.vn/khang-nguyen/
+# date = 18/05/2024
+Kháng nguyên là gì? Phân loại và vai trò trong hệ miễn dịch
+Kháng nguyên không tạo ra kháng thể mà chúng có vai trò quan trọng như một chất xúc tác kích thích hệ miễn dịch của cơ thể sản sinh ra kháng thể đặc hiệu tương ứng với kháng nguyên đó, bảo vệ cơ thể trước những tác nhân gây bệnh đang xâm nhập và tấn công cơ thể. Vậy đặc tính của kháng nguyên là gì ? Chúng hoạt động như thế nào và tầm quan trọng của chúng trong việc bảo vệ và duy trì sức khỏe của con người.
+BS. Nguyễn Minh Luân, Chuyên viên Y khoa, Hệ thống Trung tâm tiêm chủng VNVC chia sẻ: “Khi một kháng nguyên xâm nhập vào cơ thể, chúng sẽ được hệ thống miễn dịch nhận diện là yếu tố ngoại lai. Điều này kích hoạt hệ thống miễn dịch sản sinh kháng thể đặc hiệu, là các protein sẽ khóa (liên kết) với các kháng nguyên, ghi nhớ và tiêu diệt chúng”.
+Mục lụcKháng nguyên là gì?Vai trò của kháng nguyên trong hệ miễn dịchKháng nguyên và kháng thể khác nhau như thế nào?Đặc tính của kháng nguyên1. Tính kích thích miễn dịch2. Tính đặc hiệu3. Tính lạ4. Tính sinh kháng thểPhân loại kháng nguyên1. Phân loại kháng nguyên theo nguồn gốc2. Phân loại theo cấu trúc hóa học3. Phân loại theo tính năngKháng nguyên và kháng thể tương tác như thế nào?1. Nhận diện kháng nguyên2. Phản ứng giữa kháng nguyên và kháng thể3. Phức hợp kháng nguyên – kháng thểTìm hiểu về xét nghiệm kháng nguyênKháng nguyên là gì?
+Thuật ngữ kháng nguyên (antigen, ký hiệu Ag) được giải thích là những chất mà cơ thể coi là yếu tố ngoại lai và có khả năng gây hại cho cơ thể. Chúng có thể được tìm thấy trên bề mặt của vi khuẩn, virus, nấm, ký sinh trùng, phấn hoa và các vi sinh vật khác. Kháng nguyên cũng có thể là protein, polysaccharide, các phân tử hapten nhỏ gắn với protein chuyên chở, thậm chí là trên bề mặt tế bào ung thư và các tế bào bất thường, khiến chúng trở thành mục tiêu quan trọng của hệ miễn dịch.
+Khi một kháng nguyên xâm nhập vào cơ thể, chúng sẽ được hệ thống miễn dịch nhận diện là yếu tố ngoại lai. Điều này kích hoạt hệ thống miễn dịch sản sinh kháng thể đặc hiệu, là các protein sẽ khóa (liên kết) với các kháng nguyên, ghi nhớ và tiêu diệt chúng.
+Kháng nguyên hoạt động bằng cách kích hoạt hệ thống miễn dịch để tạo ra phản ứng miễn dịch. Khi một kháng nguyên xâm nhập vào cơ thể, chúng sẽ được các tế bào miễn dịch gọi là tế bào trình diện kháng nguyên (Antigen Presenting Cell – APC) tiếp nhận. Những tế bào này xử lý kháng nguyên thông qua hoạt động thực bào và trình diện nó cho tế bào T, một loại tế bào miễn dịch khác. Sau đó, tế bào T nhận ra kháng nguyên và được kích hoạt, dẫn đến việc tế bào B sản sinh kháng thể. [1]
+Phản ứng miễn dịch là một quá trình phức tạp bao gồm nhiều bước và các loại tế bào miễn dịch khác nhau. Ngoài việc tạo ra kháng thể, hệ thống miễn dịch còn kích hoạt các cơ chế bảo vệ khác, chẳng hạn như hệ thống bổ sung, giúp tiêu diệt mầm bệnh bằng cách hình thành các lỗ trên màng tế bào của chúng.
+Vai trò của kháng nguyên trong hệ miễn dịch
+Kháng nguyên có vai trò quan trọng trong hệ miễn dịch, trong việc nghiên cứu – phát triển vắc xin, chẩn đoán bệnh và y học cấy ghép. Đối với hệ miễn dịch, chúng đóng vai trò quan trọng trong việc bảo vệ cơ thể chống lại các bệnh truyền nhiễm. Bằng cách kích hoạt hệ thống miễn dịch sản sinh kháng thể đặc hiệu để vô hiệu hóa và loại bỏ các mầm bệnh có hại, ngăn ngừa chúng gây bệnh cho con người.
+Kháng nguyên và kháng thể khác nhau như thế nào?
+Kháng nguyên và kháng thể là mối quan hệ cộng sinh, tương tác lẫn nhau trong hệ thống miễn dịch của cơ thể. Trong khi các kháng nguyên ngoại lai có vai trò quan trọng trong việc kích thích phản ứng miễn dịch thì kháng thể lại có vai trò như tuyến “phòng thủ”, điều phối các cuộc tấn công có chủ đích đến kháng nguyên để vô hiệu hóa, ghi nhớ và tiêu diệt chúng để bảo vệ sức khỏe.
+Nắm rõ được sự khác biệt giữa kháng nguyên và kháng thể chính là mấu chốt để giúp củng cố hệ miễn dịch vững chắc, chống lại sự xâm nhập và tấn công của các tác nhân gây bệnh nguy hiểm. Dưới đây là những điểm khác biệt tổng quan giữa kháng nguyên và kháng thể nhằm giúp bạn đọc tiếp thu một cách dễ dàng nhất:
+Nội dung
+Kháng nguyên
+Kháng thể
+Tổng quan
+Là chất có khả năng kích thích hệ miễn dịch tạo ra phản ứng miễn dịch bằng cách hình thành các kháng thể đặc hiệu. Các kháng nguyên có thể là vi khuẩn, virus hoặc nấm gây nhiễm trùng và bệnh tật.
+Có hai loại kháng nguyên cơ bản.
+Là protein nhận biết được sản xuất bởi cơ thể và liên kết với kháng nguyên để chống lại các tác nhân có hại xâm nhập vào cơ thể.
+Có năm loại kháng thể cơ bản (Immunoglobulin M, G, E, D và A).
+Nguồn gốc
+Trong cơ thể hoặc đến từ bên ngoài.
+Trong cơ thể.
+Loại phân tử
+Protein nói chung, có thể là lipid, carbohydrate hoặc axit nucleic.
+Các kháng thể là các protein.
+Vùng tham gia phản ứng
+Vùng của kháng nguyên tương tác với các kháng thể được gọi là Epitope.
+Vùng biến đổi của kháng thể đặc biệt liên kết với một Epitope được gọi là Paratope.
+Đặc tính của kháng nguyên
+Đặc điểm và tính chất của kháng nguyên sẽ ảnh hưởng đến tính sinh miễn dịch của cơ thể. Những đặc tính của kháng nguyên bao gồm:
+1. Tính kích thích miễn dịch
+Kháng nguyên là chất sinh miễn dịch nên chúng có khả năng kích thích các tế bào của hệ miễn dịch hoạt động và sản sinh ra kháng thể đặc hiệu bảo vệ cơ thể khỏi các tác nhân gây bệnh nguy hiểm. Khả năng kích thích miễn dịch của kháng nguyên thay đổi tùy thuộc vào bản chất phân tử của kháng nguyên đó. Khả năng tăng sinh miễn dịch sẽ xảy ra khi:
+Protein: kháng nguyên là phân tử protein và phân tử polysaccarit sinh miễn dịch thấp hơn.
+Vùng sinh miễn dịch: protein cần chứa vùng sinh miễn dịch để có thể trở thành kháng nguyên. Những vùng này gồm các axit amin như lysine, glutamine, arginine, axit glutamic, asparagine và axit aspartic.
+Nhóm chức: chứa nhiều nhóm chức ưa nước hoặc tích điện.
+Dạng heteropolymer: tạo thành từ hai hoặc nhiều đơn phân (monomer) khác nhau. Dạng này có khả năng sinh miễn dịch tốt hơn homopolymer chỉ chứa một monomer lặp lại nhiều lần.
+2. Tính đặc hiệu
+Tính đặc hiệu của kháng nguyên được giải thích là khả năng kháng nguyên chỉ được nhận biết bởi một loại kháng thể đặc hiệu với kháng nguyên đó chứ không phải các kháng thể do các kháng nguyên khác tạo ra. Tính đặc hiệu của kháng nguyên được cấu thành bởi tính “lạ” và nhóm quyết định kháng thể tạo thành.
+3. Tính lạ
+Các nhà nghiên cứu miễn dịch học cho biết phản ứng miễn dịch của cơ thể sẽ mạnh mẽ hơn nếu là kháng nguyên khác loài với loài được dùng để gây mẫn cảm. Tức kháng nguyên càng mang “tính lạ” nhiều bao nhiêu thì phản ứng miễn dịch mà nó tạo ra càng mạnh bấy nhiêu và củng cố hàng rào bảo vệ của cơ thể trước các tác nhân gây bệnh xa lạ.
+4. Tính sinh kháng thể
+Kháng nguyên có khả năng kích thích hệ thống miễn dịch của cơ thể sản sinh kháng thể. Các kháng nguyên có “tính lạ” và mới hoàn toàn sẽ có khả năng này. Các kháng nguyên còn lại có trọng lượng phân tử nhẹ (còn gọi là bán kháng nguyên hay hapten) không đủ khả năng kích thích hệ miễn dịch tạo kháng thể mà chỉ có thể tạo ra tính đặc hiệu cho việc kết hợp của kháng thể.
+Phân loại kháng nguyên
+Các nhà nghiên cứu miễn dịch học cho biết kháng nguyên được phân loại dựa trên nguồn gốc của chúng. Kháng nguyên được phân loại như sau:
+1. Phân loại kháng nguyên theo nguồn gốc
+Kháng nguyên ngoại sinh
+Kháng nguyên ngoại sinh được giải thích là kháng nguyên có nguồn gốc từ bên ngoài như vi khuẩn, virus, nấm, ký sinh trùng, phấn hoa và các vi sinh vật khác. Chúng xâm nhập và tấn công cơ thể thông qua nhiều con đường khác nhau như hệ hô hấp, đường ăn, uống hoặc qua vết thương hở.
+Sau khi kháng nguyên ngoại sinh xâm nhập vào cơ thể, chúng sẽ được các tế bào trình diện kháng nguyên (Antigen Presenting Cell – APC) xử lý thông qua hoạt động thực bào và trình diện nó cho tế bào T, một loại tế bào miễn dịch khác. Sau đó, tế bào T nhận ra kháng nguyên và được kích hoạt, dẫn đến việc tế bào B sản sinh kháng thể.
+Kháng nguyên nội sinh
+Kháng nguyên nội sinh là các kháng nguyên tồn tại bên trong cơ thể. Chúng là kết quả của quá trình chuyển hóa tế bào bất bình thường, hoặc do nhiễm virus hay nhiễm nội bào. Đại thực bào sẽ nhận diện và xử lý kháng nguyên nội sinh, sau đó trình diện chúng cho tế bào T gây độc (T CD8+). Ngoài ra, còn có một trường hợp không thuộc nhóm kháng nguyên ngoại sinh hay kháng nguyên nội sinh, được coi là trình diện chéo.
+Tự kháng nguyên
+Tự kháng nguyên (còn gọi là kháng nguyên tự thân hay an antigen) là các tế bào protein hay phức hợp protein tồn tại bên trong cơ thể tự tạo kháng thể chống lại ngay trong cơ thể (còn gọi là quá trình tự miễn).
+Một số ví dụ về kháng nguyên tự thân liên quan đến bệnh tự miễn như: bệnh Lupus ban đỏ do kháng thể kháng nhân hay bệnh đa xơ cứng do kháng nguyên myelin gây ra.
+Kháng nguyên khối u
+Trong các tế bào ung thư, sau khi xảy ra một loạt các đột biến gen sẽ hình thành thành các tế bào protein bất thường biểu hiện trên bề mặt tế bào ung thư. Những protein bất thường này chính là kháng nguyên khối u nếu chúng có khả năng sinh miễn dịch. Lúc này hệ miễn dịch sẽ nhận diện và xử lý kháng nguyên khối u bằng 2 con đường, bao gồm:
+Phân tử MHC lớp I thực hiện nhiệm vụ trình diện kháng nguyên khối u cho tế bào T gây độc.
+Phân tử MHC lớp II thực hiện nhiệm vụ trình diện kháng nguyên khối u cho tế bào T hỗ trợ.
+Hiện nay, ứng dụng công nghệ giải trình tự gen thế hệ mới hiệu năng cao cho phép các nhà khoa học xác định được kháng nguyên mới trong từng khối u riêng rẽ. Điều này có vai trò hết sức quan trọng trong việc phát triển phương pháp điều trị ung thư mới – phương pháp miễn dịch. Phương pháp này hoạt động bằng cách khai thác hệ miễn dịch cá nhân của người bệnh để nhắm mục tiêu và tấn công chọn lọc các tế bào khối u, từ đó mang lại kết quả tích cực cho quá trình điều trị bệnh.
+2. Phân loại theo cấu trúc hóa học
+Kháng nguyên protein
+Kháng nguyên protein là loại kháng nguyên phổ biến nhất, có khả năng sinh kháng thể rất mạnh bởi trọng lượng phân tử nặng. Các kháng nguyên còn lại có trọng lượng phân tử nhẹ (còn gọi là bán kháng nguyên hay hapten) không đủ khả năng kích thích hệ miễn dịch tạo kháng thể mà chỉ có thể tạo ra tính đặc hiệu cho việc kết hợp của kháng thể.
+Kháng nguyên carbohydrate
+Kháng nguyên carbohydrate có nhiều cấu hình và cấu trúc, chẳng hạn như polysaccharides, proteoglycan, glycoprotein, glycolipids, glycosaminoglycans và glycosphingolipids. Dựa vào nguồn gốc của chúng, các kháng nguyên carbohydrate được chia thành các kháng nguyên vi sinh vật và các kháng nguyên dị sinh. Bản thân carbohydrate có thể là chất gây miễn dịch mạnh dưới dạng kháng nguyên hoàn chỉnh hoặc chúng có thể là thành phần hay yếu tố quyết định kháng nguyên của glycoconjugates. [2]
+Kháng nguyên lipid
+Kháng nguyên lipid tinh khiết là loại kháng nguyên không có khả năng sinh kháng thể nhưng khi gắn với phân tử chất mang (protein) thì có khả năng sinh kháng thể rất mạnh mẽ. [3]
+Kháng nguyên acid nucleic
+Tương tự kháng nguyên lipid, kháng nguyên acid nucleic được giải thích là một bán kháng nguyên (hapten) không có khả năng sản sinh kháng thể nhưng khi gắn với phân tử chất mang (protein) thì trở thành kháng nguyên hoàn toàn và có khả năng sinh kháng thể mạnh mẽ.
+3. Phân loại theo tính năng
+Kháng nguyên hoàn toàn
+Kháng nguyên hoàn toàn (còn gọi là complete antigen) là những kháng nguyên có khả năng tự tạo ra phản ứng miễn dịch và kết hợp đặc hiệu với kháng thể. Chúng thường là những phân tử có trọng lượng cao (hơn 10.000 Dalton). Kháng nguyên này thường là polypeptid hoặc phức hợp protein. [4]
+Kháng nguyên không hoàn toàn
+Kháng nguyên không hoàn toàn (còn gọi là bán kháng nguyên hay Hapten) là các kháng nguyên không có khả năng tự tạo ra phản ứng miễn dịch bởi trọng lượng phân tử thấp (ít hơn 10.000 Dalton) và thường là các chất không phải protein. Ví dụ như polysaccharide dạng nang của phế cầu, polysaccharide “C” của liên cầu tan máu β, kháng nguyên Cardiolipin,… Tuy nhiên khi kết hợp với phân tử chất mang (protein) thì trở thành kháng nguyên hoàn toàn và có khả năng sinh kháng thể mạnh mẽ.
+Kháng nguyên và kháng thể tương tác như thế nào?
+1. Nhận diện kháng nguyên
+Nhận diện kháng nguyên là một quá trình miễn dịch rất quan trọng và cần thiết cho việc kích hoạt phản ứng miễn dịch tế bào lympho T (hay tế bào T). Bởi tế bào T chỉ nhận ra các mảnh kháng nguyên gắn trên bề mặt tế bào, vì vậy quá trình xử lý kháng nguyên cần được thực hiện xong trước khi quá trình phân “mảnh” kháng nguyên bắt đầu.
+Quá trình nhận diện kháng nguyên diễn ra khi kháng nguyên ngoại sinh xâm nhập vào cơ thể, chúng sẽ được các tế bào trình diện kháng nguyên (Antigen Presenting Cell – APC) xử lý thông qua hoạt động thực bào và trình diện nó cho tế bào T, một loại tế bào miễn dịch khác. Sau đó, tế bào T nhận ra kháng nguyên và được kích hoạt, dẫn đến việc tế bào B sản sinh kháng thể.
+2. Phản ứng giữa kháng nguyên và kháng thể
+Phản ứng giữa kháng nguyên và kháng thể là tương tác hóa học cụ thể giữa các kháng thể được tạo ra bởi tế bào B của bạch cầu và kháng nguyên trong phản ứng miễn dịch. Các kháng nguyên và kháng thể kết hợp với nhau bằng một quá trình gọi là ngưng kết. Đó là phản ứng cơ bản trong cơ thể để bảo vệ cơ thể khỏi các tác nhân gây bệnh nguy hiểm đến từ bên ngoài, bao gồm cả độc tố hóa học của chúng.
+Trong máu, các kháng nguyên có tính đặc hiệu và ái lực cao gắn kết với các kháng thể tạo thành phức hợp kháng nguyên – kháng thể. Phức hợp miễn dịch sau đó được vận chuyển đến các hệ thống tế bào nơi nó có thể bị phá hủy hoặc ngừng hoạt động.
+3. Phức hợp kháng nguyên – kháng thể
+Phức hợp kháng nguyên – kháng thể (còn gọi là phức hợp miễn dịch) là một phân tử hình thành từ sự liên kết của nhiều kháng nguyên với kháng thể. Các phức hợp miễn dịch này là một phần của phản ứng miễn dịch bình thường. Tuy nhiên, khi chúng tích tụ trong máu thì có khả năng gây ra các rối loạn tự miễn dịch, nhiễm trùng và các khối u ác tính. Phức hợp kháng nguyên – kháng thể này cũng chính là nguyên nhân gây ra bệnh viêm cầu thận, viêm mạch và nhiều biểu hiện khác của bệnh Lupus ban đỏ hệ thống. [5]
+Tìm hiểu về xét nghiệm kháng nguyên
+Xét nghiệm kháng nguyên đóng vai trò quan trọng trong việc tìm kiếm, phát hiện dấu hiệu tồn tại của một loại kháng nguyên nào đó trong cơ thể và để chẩn đoán bệnh. Tùy thuộc vào mục đích xét nghiệm mà mẫu vật được dùng để phân tích kháng nguyên cũng sẽ khác nhau. [6]
+Đối với trường hợp chẩn đoán bệnh do virus gây ra, bác sĩ sẽ sử dụng một que dài có đầu bông để lấy mẫu bệnh phẩm tại mũi, họng của người bệnh và đem đi xét nghiệm. Trong trường hợp tìm kiếm, phát hiện các dấu hiệu cảnh báo ung thư hoặc đánh giá khả năng tương thích của mô, bác sĩ sẽ chỉ định người bệnh thực hiện một số xét nghiệm cần đến mẫu máu, nước tiểu, thậm chí là phân để kiểm tra kháng nguyên. Một số phương pháp xét nghiệm kháng nguyên phổ biến hiện nay:
+Xét nghiệm kháng nguyên CEA
+Xét nghiệm kháng nguyên CEA thường được sử dụng trong việc chẩn đoán và tiên lượng một số bệnh ung thư, đặc biệt là ung thư đại trực tràng, dạ dày hoặc phổi. Dựa vào kết quả xét nghiệm kháng nguyên CEA, bác sĩ bắt đầu vào quá trình điều trị và tiếp tục thực hiện các xét nghiệm theo thời gian tiên lượng sống thêm và đánh giá hiệu quả điều trị, phát hiện tái phát hoặc di căn đến các bộ phận khác trong cơ thể.
+Xét nghiệm kháng nguyên bề mặt virus viêm gan B (HBsAg)
+Kháng nguyên trên bề mặt virus viêm gan B (HBsAg) thường được kết hợp chung với một số xét nghiệm khác (ví dụ xét nghiệm Anti-HBc) để giúp bác sĩ chẩn đoán bệnh viêm gan B.
+Xét nghiệm kháng nguyên bạch cầu (HLA)
+Xét nghiệm kháng nguyên bạch cầu (HLA) là phương pháp xét nghiệm kỹ thuật cao nhằm phát hiện các tế bào kháng nguyên bạch cầu có trong máu hoặc được dùng để đánh giá mức độ phù hợp giữa kháng nguyên bạch cầu của người hiến và người nhận, từ đó phục vụ cho phương pháp ghép tạng hoặc ghép tế bào gốc.
+Để thực hiện phương pháp xét nghiệm kháng nguyên bạch cầu, bác sĩ sẽ thực hiện lấy mẫu bệnh phẩm từ máu tĩnh mạch của người bệnh hoặc người hiến tạng. Sau đó, mẫu bệnh phẩm này tiếp tục được phân tách ADN trước khi thực hiện các bước xử lý tiếp theo trong quy trình nhằm cho ra kết quả xét nghiệm chính xác nhất.
+Xét nghiệm kháng nguyên đặc hiệu tuyến tiền liệt (PSA)
+Phương pháp xét nghiệm kháng nguyên đặc hiệu tuyến tiền liệt (PSA) sẽ giúp bác sĩ chẩn đoán các trường hợp phì đại, viêm tuyến tiền liệt, thậm chí là ung thư tuyến tiền liệt.
+Xét nghiệm kháng nguyên của virus SARS-Cov-2
+Phương pháp xét nghiệm này được ứng dụng rộng rãi giúp phát hiện kháng nguyên của virus gây ra bệnh COVID-19 từ mẫu dịch mũi hoặc họng.
+Trên là những giải đáp của các chuyên gia của VNVC về kháng nguyên là gì, những đặc tính cơ bản cũng như vai trò của chúng trong hệ miễn dịch của con người. Kháng nguyên có vai trò rất quan trọng ở nhiều khía cạnh khác nhau trong hệ thống sinh học của con người.
+Chính vì vậy, nắm rõ cơ chế hoạt động và vai trò của kháng nguyên không chỉ giúp mỗi cá nhân củng cố hệ miễn dịch vững chắc mà còn mở ra cơ hội giúp các nhà khoa học nghiên cứu sâu về việc điều chế vắc xin, các phương pháp điều trị bệnh tiên tiến, hiện đại, từ đó nâng cao sức khỏe và chất lượng cuộc sống ngày được cải thiện tốt hơn.

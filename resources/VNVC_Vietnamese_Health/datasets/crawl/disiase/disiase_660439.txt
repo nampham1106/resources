@@ -1,0 +1,175 @@
+# url = https://vnvc.vn/cum-a/
+# date = 06/09/2022
+Cúm A: nguyên nhân, triệu chứng, điều trị và phòng ngừa
+Cúm A có những triệu chứng tương tự như cảm lạnh thông thường do đó rất dễ nhầm lẫn. Nếu không được điều trị đúng cách bệnh có thể gây ra những biến chứng nguy hiểm đe dọa tính mạng.
+
+Mục lụcCúm A là cúm gì?Đặc điểm cấu tạo của virus cúm ACác chủng loại virus cúm ACúm A/H1N1Cúm A/H5N1Cúm A/H3N2Cúm A/H7N9Bệnh cúm A có nguy hiểm không?Biến chứng cúm ADiễn biến các giai đoạn của bệnh cúm AĐối tượng mắc cúm ANguyên nhân mắc cúm ATriệu chứng nhận biết cúm AChẩn đoán cúm ACách điều trị bệnh cúm AĐiều trị cúm A tại nhàĐiều trị tại cơ sở y tếCách phòng chống bệnh cúm ACách chăm sóc bệnh nhân cúm ACác câu hỏi thường gặp khi gặp tình trạng sốt cúm ABệnh cúm A có lây không? Lây qua đường nào?Mắc cúm A bao lâu thì khỏi?Bị cúm A rồi có bị lại không?Có vắc xin phòng cúm A không?Cúm A là cúm gì?
+Cúm A là căn bệnh nhiễm trùng đường hô hấp cấp tính thường lưu hành khi thời tiết chuyển mùa, do các chủng virus cúm phổ biến như A/H1N1, A/H3N2, A/H5N1, A/H7N9 gây nên. Trong đó, chủng A/H7N9 và A/H5N1 là những chủng virus cúm thường lưu hành ở gia cầm, có khả năng lây nhiễm sang người và tạo thành dịch. Bệnh cúm A thường bị nhầm lẫn với bệnh cảm thông thường do những triệu chứng tương tự; tuy nhiên bệnh diễn tiến nhanh, tiềm ẩn nhiều nguy hiểm và có nguy cơ cao bùng phát thành dịch và đại dịch.
+Đặc điểm cấu tạo của virus cúm A
+Virus cúm A có hệ gen là RNA sợi đơn âm bao gồm tám phân đoạn gen riêng biệt mã hóa cho 11 protein khác nhau của virus. Vỏ của virus cúm A có bản chất là glycoprotein, gồm 2 kháng nguyên: kháng nguyên ngưng kết hồng cầu H (Hemagglutinin (1)) và kháng nguyên trung hoà N (Neuraminidase (2)). Tính đến thời điểm hiện tại, các nhà khoa học đã phát hiện được 15 loại kháng nguyên H (H1-H15), 9 loại kháng nguyên N (N1-N9). Những cách tổ hợp khác nhau của các loại kháng nguyên có thể tạo nên những phân tuýp khác nhau của virus cúm A.
+Virus cúm A là virus RNA có tám đoạn gen
+Virus cúm A có thể thay đổi kháng nguyên khi gặp một số điều kiện thuận lợi như người sống gần các loại gia cầm, vật nuôi như gà, lợn. Virus cúm A có thể bị giết chết ở nhiệt độ 56oC trong vòng 3 giờ và 60oC trong 30 phút. Các chất tẩy uế thông thường như formalin, iodine cũng có tác dụng diệt trừ virus trên các bề mặt. Các tuýp virus có độc lực cao có khả năng tồn tại lâu trong môi trường, đặc biệt là ở nhiệt độ thấp virus có thể tồn tại ít nhất là 35 ngày trong nhiệt độ 4oC. Nếu đông băng, virus có thể tồn tại trong nhiều năm.
+Các chủng loại virus cúm A
+Virus cúm A liên tục thay đổi và có khả năng gây ra những trận đại dịch lớn. Hiện có rất nhiều chủng virus cúm A đang lưu hành trên toàn cầu, trong đó phổ biến nhất là các chủng A/H1N1, A/H5N1, A/H3N2, A/H7N9.
+Cúm A/H1N1
+Cúm A/H1N1 là chủng virus cúm được Tổ chức Y tế Thế giới (WHO) ghi nhận vào năm 2009. Ban đầu, cúm A/H1N1 có cái tên là “cúm lợn” vì các nhà khoa học cho rằng chủng cúm này có nguồn gốc từ lợn. Cúm A/H1N1 có tốc độ lây lan nhanh, dễ bùng phát thành các đợt dịch và đại dịch.
+Tuy không nguy hiểm như những loại cúm khác như A/H5N1 hay A/H7N9, nhưng cúm A/H1N1 có khả năng gây bội nhiễm, viêm phổi nặng, suy đa tạng hoặc thậm chí là tử vong ở một số người có bệnh mãn tính. Mỗi năm, trên thế giới ghi nhận 250.000 – 500.000 trường hợp tử vong do cúm.
+Virus cúm A H1N1 có khả năng gây bội nhiễm, viêm phổi nặng, suy đa tạnghoặc thậm chí là tử vong
+Cúm A/H5N1
+Năm 1997, sự bùng phát của virus cúm A/H5N1 đã giết chết hàng chục triệu gia cầm. Từ tháng 12/2003 – 6/2008 đã có 243 người tử vong do cúm gia cầm trong tổng số 385 ca nhiễm ở 15 quốc gia, trong đó chủ yếu là các nước Châu Á. Indonesia được ghi nhận là quốc gia có nhiều ca tử vong do cúm A H5N1 nhất, với 110 người chết, trong 135 ca nhiễm.
+Tại Việt nam, kể từ khi xuất hiện vào cuối năm 2003 đến tháng 9/2008, đã có 106 trường hợp được ghi nhận nhiễm cúm A H5N1, 52 ca tử vong. Các vụ dịch trên người gồm 4 đợt cụ thể như sau:
+
+Đợt 1 (12/2003 – 3/2004): 23 ca mắc, 16 ca tử vong (tỷ lệ tử vong/số ca mắc là 69%);
+Đợt 2 (7/2004 – 8/2004): 4 ca mắc, tất cả đều tử vong (tỷ lệ tử vong/số ca mắc là 100%);
+Đợt 3 (12/2004 – 11/2005): 65 ca nhiễm, trong đó có 3 ca nhiễm không triệu chứng, 22 ca tử vong (tỷ lệ tử vong/số ca mắc là 33,8%);
+Đợt 4 (5/2007 – 3/2008): 13 ca mắc, 10 ca tử vong (tỷ lệ tử vong/ số ca mắc là 77%).
+
+Cúm A H5N1 từng là trận đại dịch kinh hoàng, đe dọa và giết chết hàng chục triệu gia cầm vào năm 1997
+Cúm A/H3N2
+Virus cúm A/H3N2 được ghi nhận lần đầu tiên ở Hoa Kỳ vào năm 1968, là nguyên nhân của trận đại dịch kinh hoàng giết chết 1 triệu người dân trên toàn thế giới, trong đó có khoảng 100 ngàn người dân Hoa Kỳ (3).
+Virus cúm A/H3N2 gồm 2 gen từ virus cúm A là: hemagglutinin H3 và N2 neuraminidase; có thể lây nhiễm cho chim, người và động vật có vú. Virus cúm A/H3N2 lưu hành trên toàn thế giới dưới dạng virus cúm A theo mùa.
+Trong những năm virus cúm A/H3N2 chiếm ưu thế, nhiều trường hợp phải nhập viện và thậm chí là tử vong. Những ca bệnh nặng xảy ra chủ yếu ở người lớn tuổi, từ 65 tuổi trở lên.
+Cúm A/H7N9
+Tháng 3/2013, lần đầu tiên các trường hợp nhiễm virus cúm A/H7N9 được phát hiện tại Trung Quốc và nhanh chóng bùng phát mạnh thành những trận đại dịch (4). Đây là loại virus có độc tính rất cao, có khả năng lây truyền sang người. Ở người, cúm A/H7N9 có khả năng nhân lên trong các cơ quan hô hấp, tiêu hóa, sinh sản, tiết niệu, tồn tại trong dịch tiết của cơ thể như nước mũi, nước bọt, nước mắt và phân,…
+Đến nay, những người nhiễm virus cúm A/H7N9 hầu hết đều được ghi nhận mắc viêm phổi. Đối với những trường hợp nặng, không được điều trị kịp thời có thể dẫn đến tử vong. Có ít trường hợp nhiễm virus cúm A/H7N9 có triệu chứng giống cúm tự hồi phục mà không cần sự can thiệp của các biện pháp y tế.
+Virus H7N9 tồn tại trong dịch tiết của cơ thể như nước mũi, nước bọt, nước mắt,..
+Bệnh cúm A có nguy hiểm không?
+CÓ. Bệnh cúm A là căn bệnh phổ biến, nguy hiểm đối với người lớn và trẻ em, đặc biệt dễ lây lan. Các chủng virus cúm A có khả năng tồn tại lâu trong môi trường bên ngoài, có thể sống lên đến 48h trên các bề mặt như tay nắm cửa, bản, ghế, tủ,… Virus có khả năng tồn tại trong quần áo lên đến 12 giờ, duy trì 5 phút trong lòng bàn tay.
+Bệnh cúm A ở người có triệu chứng từ nhẹ đến nặng, khác nhau tùy theo tình trạng sức khỏe của từng người. Các triệu chứng khi nhiễm virus cúm A có một số điểm tương đồng với khi nhiễm chủng virus cúm thường. Nếu không được điều trị đúng cách, một số đối tượng như người già, trẻ em, người có hệ miễn dịch suy yếu sẽ dễ dàng mắc thêm các bệnh khác hoặc gặp các biến chứng nặng dẫn đến nguy cơ đe dọa tính mạng.
+Biến chứng nặng nhất khi mắc bệnh cúm A là suy hô hấp, với triệu chứng khó thở, thở gấp, đờm có lẫn máu,… dẫn đến viêm phổi, thiếu oxy và thậm chí là tử vong. Do đó ngay khi có các yếu tố dịch tễ như sốt, triệu chứng viêm long đường hô hấp, bệnh nhân cần đến cơ sở y tế gần nhất để xét nghiệm và chẩn đoán xác định mắc chủng virus cúm nào để có kế hoạch điều trị phù hợp.
+Biến chứng cúm A
+
+Trẻ nhỏ là đối tượng dễ mắc cúm và nguy cơ cao gặp các biến chứng cúm do hệ miễn dịch còn chưa phát triển toàn diện. Đặc biệt, ở những trẻ có bệnh nền như hen suyễn, có bất thường về thần kinh, trẻ có bệnh mãn tính, tim mạch, bệnh về máu, nội tiết, thận, gan hoặc bệnh lý rối loạn chuyển hóa, thừa cân, sử dụng corticoid, aspirin hoặc hóa trị liệu kéo dài, trẻ nhiễm HIV thường có nguy cơ gặp những biến chứng cao hơn so với những đứa trẻ bình thường.
+Một số biến chứng có thể xảy ra do bệnh cúm a ở trẻ gồm: suy hô hấp, viêm tai giữa, viêm phổi, viêm thanh khí phế quản, viêm màng não, viêm cơ tim, nhiễm khuẩn thứ phát,… Những biến chứng do cúm A gây ra nếu không được phát hiện và can thiệp kịp thời có thể ảnh hưởng lớn đến sức khỏe, tính mạng và sự phát triển sau này của bản thân đứa trẻ.
+Ba mẹ cần chú ý 4 dấu hiệu cúm a trở nặng sau đây để có thể kịp thời đưa trẻ đến bệnh viện:
+
+Sốt cao từ 39 độ trở lên, không đáp ứng thuốc hạ sốt;
+Trẻ li bì, mệt mỏi, kém ăn, bỏ ăn, nôn trớ, chân tay lạnh;
+Co giật;
+Khó thở, thở nhanh.
+
+Trẻ nhỏ là đối tượng dễ mắc cúm và nguy cơ cao gặp các biến chứng cúm
+Diễn biến các giai đoạn của bệnh cúm A
+Thời gian ủ bệnh của cúm A dài hơn bệnh cúm mùa thông thường. Thông thường, thời gian ủ bệnh của cúm A có thể từ 2-8 ngày và có thể kéo dài lên đến 17 ngày. Tuy nhiên, phơi nhiễm nhiều lần với virus có thể dẫn đến việc khó xác định chính xác thời gian ủ bệnh của bệnh nhân. Theo Tổ chức Y tế Thế giới, thời kỳ ủ bệnh 7 ngày áp dụng cho việc điều tra và theo dõi những người đã từng có tiếp xúc với bệnh nhân nhiễm cúm A.
+Người mắc bệnh cúm A thường đào thải virus trong khoảng thời gian từ 1-2 ngày trước khi khởi phát và 3-5 ngày sau khi có triệu chứng lâm sàng. Trong một số trường hợp có thể dài hơn từ 7-10 ngày.
+Nếu được phát hiện và kịp thời điều trị, người mắc bệnh cúm A có thể khỏi bệnh trong vòng 7 – 10 ngày. Sau 5 ngày, bệnh nhân thường hết sốt, sổ mũi và đau đầu; nhưng ho và mệt mỏi có thể còn tiếp tục kéo dài. Tất cả các triệu chứng của bệnh thường biến mất hoàn toàn sau khoảng 1-2 tuần.
+Đối tượng mắc cúm A
+Bất kỳ ai cũng có thể mắc các chủng virus cúm A. Tỷ lệ cảm nhiễm các chủng virus cúm mới rất cao, có thể lên đến 90% ở người lớn và trẻ em. Một số đối tượng có nguy cơ mắc cao hơn và diễn biến nặng hơn khi mắc bệnh, gồm:
+
+Trẻ em <5 tuổi, trong đó, trẻ em <2 tuổi có nguy cơ nhiễm bệnh rất cao;
+Người lớn >65 tuổi;
+Những người có bệnh nền mãn tính như: tiểu đường, tim phổi, suy thận hoặc suy gan, suy giảm miễn dịch,…;
+Phụ nữ mang thai, đặc biệt là trong 3 tháng giữa hoặc cuối thai kỳ;
+Bệnh nhân suy giảm khả năng nhận thức, rối loạn thần kinh cơ, đột quỵ, động kinh,…;
+Những người làm việc ở môi trường đông người như trường học, bệnh viện, công sở có nguy cơ nhiễm bệnh cao.
+
+Nguyên nhân mắc cúm A
+Virus cúm A có thể lây truyền trực tiếp từ người này sang người khác thông qua đường hô hấp. Khi người bệnh ho, hắt hơi, thậm chí là nói chuyện… dịch mũi, họng, các giọt nước bọt mang theo virus thoát ra môi trường bên ngoài, người lành hít phải sẽ có thể nhiễm bệnh.
+Ngoài ra, một người còn có thể mắc cúm A khi:
+
+Sử dụng chung đồ dùng sinh hoạt (ly, chén, muỗng, khăn,…) với người bệnh, hoặc vô tình tiếp xúc với các đồ gia dụng trong gia đình có chứa virus (tay nắm cửa, bàn, ghế,…) sau đó đưa lên mũi, miệng;
+Tiếp xúc với động vật nhiễm cúm A, cũng có thể lây bệnh như các loài động vật có vú như lợn, ngựa hay các loại gia cầm, chum;
+Tập trung ở những nơi tập trung đông người như công viên, nhà trẻ, trường học, công sở,… cũng là điều kiện thuận lợi để lây lan virus.
+
+Triệu chứng nhận biết cúm A
+Thông thường, để nhận biết cúm A, người bệnh căn cứ vào các biểu hiện như: sốt, nhức đầu, đau mình, hắt hơi, chảy mũi. Nếu sốt cao hoặc không được xử trí đúng cách, người bệnh sẽ bị mất nước, li bì, rối loạn điện giải, một số trẻ thậm chí có dấu hiệu co giật. Ngoài ra, một số triệu chứng đi kèm với sốt do cúm A như viêm họng, hắt hơi, ho. Những trường hợp cúm A kéo dài, bệnh diễn biến nghiêm trọng có thể gây tức ngực, khó chịu và ho khan.
+Ở trẻ bị nhiễm cúm A, triệu chứng sốt thường phổ biến với trẻ dưới 24 tháng tuổi. Khi cúm A ở thể nhẹ, trẻ có thể sốt từ 38 độ trở lên, kèm theo nhức đầu, mỏi cơ, lười vận động, ho. Trong một số trường hợp, trẻ có thể nôn trớ nhiều lần, háo nước,… (5)
+Trẻ mắc cúm A nghiêm trọng có thể bỏ bú, bỏ ăn, lòng bàn tay, gan bàn chân lạnh, thở nhanh, li bì. Một số trường hợp đặc biệt nghiêm trọng, trẻ có thể sốt cao kèm co giật.
+Rất khó để phân biệt sốt do cúm A và sốt do nguyên nhân khác. Thông thường, khi bị cảm lạnh, người bệnh thường sốt cao kéo dài hơn khi bị cúm A. Cảm giác mệt mỏi nghiêm trọng và đau nhức cơ trong một số trường hợp. Sau một thời gian sốt cao không hạ, người bệnh có thể xuất hiện tình trạng hoa mắt, chóng mặt, đi lại khó khăn.
+Chẩn đoán cúm A
+Các phương pháp xét nghiệm chẩn đoán cúm bao gồm: nuôi cấy virus, chẩn đoán huyết thanh học, xét nghiệm nhanh phát hiện kháng nguyên, phản ứng chuỗi men RT-PCR, miễn dịch huỳnh quang (*).
+RT-PCR: là phương pháp có độ đặc hiệu cao và đặc trưng nhất để kiểm tra và phân loại virus cúm. Phương pháp này cho ra kết quả trong vòng 4-6 giờ.
+Miễn dịch huỳnh quang: có độ nhạy và đặc hiệu thấp hơn phương pháp RT-PCR, nhưng cho ra kết quả chỉ sau vài giờ nhận mẫu bệnh phẩm.
+Xét nghiệm nhanh (RIDTs): có kết quả sau 10-15 phút nhưng không chính xác như các loại xét nghiệm cúm khác, do đó vẫn có thể bị cúm mặc dù kết quả xét nghiệm nhanh là âm tính. Hiệu suất của xét nghiệm phụ thuộc nhiều vào độ tuổi bệnh nhân, thời gian mắc bệnh, loại bệnh phẩm và chủng virus cúm. Xét nghiệm nhanh có độ nhạy và đặc hiệu thấp nên cần kết hợp với những phương pháp xét nghiệm chẩn đoán khác khi kết quả xét nghiệm nhanh âm tính.
+Phân lập virus: không phải là xét nghiệm sàng lọc, nhưng trong thời gian bệnh cúm hoạt động nên thực hiện trên mẫu bệnh phẩm thu thập từ những người nghi ngờ mắc cúm, đặc biệt là những đối tượng có yếu tố dịch tễ với cúm.
+(*) Xét nghiệm huyết thanh: phục vụ cho mục đích chẩn đoán hồi cứu và nghiên cứu là chủ yếu, thường không phổ biến để phát hiện virus cúm ở người nhằm kiểm soát bệnh cấp tính.
+Độ nhạy và độ đặc hiệu của các xét nghiệm phụ thuộc vào phòng xét nghiệm, loại xét nghiệm sử dụng, cán bộ xét nghiệm, loại bệnh phẩm, chất lượng bệnh phẩm, thời gian tính từ khi thu thập bệnh phẩm so với thời gian khởi phát bệnh. Bên cạnh các xét nghiệm được thực hiện, việc chẩn đoán xác định bệnh còn kết hợp với các triệu chứng lâm sàng và đặc điểm dịch tễ học.
+Cách điều trị bệnh cúm A
+Đa phần các bệnh nhân mắc cúm A có thể khỏi sau khoảng 7-10 ngày nếu điều trị đúng cách. Hầu hết các trường hợp được chỉ định điều trị tại chỗ, chỉ có một số ít bệnh nhân diễn biến nặng phải được điều trị và cấp cứu kịp thời tại các cơ sở y tế.
+Theo mức độ diễn tiến của bệnh, điều trị cúm A có các phương pháp sau:
+Điều trị cúm A tại nhà
+Với những bệnh nhân mắc cúm A, các triệu chứng ở mức độ nhẹ, không biến chứng có thể được chăm sóc và điều trị tại nhà.
+
+
+
+CHẾ ĐỘ SINH HOẠT
+SỬ DỤNG THUỐC
+PHÒNG BỆNH
+XỬ LÝ
+
+
+
+Nghỉ ngơi hợp lý kết hợp cùng ăn uống đầy đủ các chất dinh dưỡng, dễ tiêu hóa.
+Uống nhiều nước và hạn chế ăn uống các thực phẩm lạnh.
+
+Chỉ sử dụng thuốc hạ sốt theo chỉ định của bác sĩ điều trị.
+Hạn chế đến những nơi đông hoặc tiếp xúc với nhiều người, nếu có phải sử dụng khẩu trang y tế.
+Trong trường hợp, sau khoảng 7 ngày các triệu chứng không thuyên giảm mà tiến triển nặng hơn, người bệnh cần được đưa đến cơ sở y tế để được xử lý kịp thời.
+
+
+
+Điều trị tại cơ sở y tế
+Với những trường hợp tiến triển nặng hơn, xuất hiện biến chứng, để chữa trị cúm A người bệnh cần được đưa đến các cơ sở y tế có đầy đủ điều kiện cấp cứu và hồi sức ban đầu để được theo dõi, xét nghiệm và chỉ định dùng thuốc kháng virus phù hợp.
+Thuốc Tamiflu được chỉ định điều trị bệnh cúm A không biến chứng cho trẻ trên 1 tuổi và người lớn. Nếu thuốc được sử dụng trong vòng 48h kể từ khi xuất hiện triệu chứng, có thể rút ngắn được thời gian điều trị xuống còn 1-3 ngày. Nếu được sử dụng sớm hơn, trong vòng 24h có thể giảm thời gian điều trị ngắn hơn.
+Tamiflu là thuốc hỗ trợ điều trị, không phải thuốc điều trị đặc hiệu cúm A và chỉ phát huy tác dụng tối đa nếu được sử dụng trong vòng 24h. Mặt khác, Tamiflu chỉ điều trị cúm A không biến chứng, nếu phát hiện biến chứng, bệnh nhân cần được điều trị kết hợp cùng các loại thuốc kháng sinh khác.
+Cách phòng chống bệnh cúm A
+Để phòng ngừa bệnh cúm A hiệu quả cho những đối tượng có nguy cơ cao mắc cúm A như trẻ em và người cao tuổi nói riêng và tất cả các đối tượng khác nói chung, Bộ Y tế khuyến cáo người dân thực hiện các biện pháp sau:
+
+Vệ sinh cá nhân cẩn thận: rửa tay thường xuyên, đeo khẩu trang khi ra khỏi nhà. Trong mùa dịch, cần tránh tập trung nơi đông người. Nhóm đối tượng có nguy cơ mắc bệnh cao cần tránh tiếp xúc với với bệnh nhân mắc cúm hoặc nghi ngờ mắc cúm.
+Khi xuất hiện các triệu chứng nghi ngờ cúm như sốt, ho, sổ mũi,… nên đến các cơ sở y tế để được chẩn đoán và xác định bệnh. Từ đó, có các biện pháp phòng ngừa lây nhiễm cho những người xung quanh.
+Vệ sinh nơi ở, nơi làm việc sạch sẽ với dung dịch sát khuẩn thông thường.
+Tăng cường sức đề kháng bằng cách tập thể dục, chế độ sinh hoạt, ăn uống hợp lý.
+Tiêm vắc xin phòng cúm đầy đủ, đúng lịch. Đặc biệt là các đối tượng có nguy cơ cao cần được tiêm phòng đầy đủ trước mùa dịch.
+
+Tiêm vắc xin phòng cúm đầy đủ, đúng lịch là phương pháp phòng bệnh hiệu quả và an toàn nhất
+Cách chăm sóc bệnh nhân cúm A
+Người thân chỉ nên chăm sóc bệnh nhân mắc cúm A khi có sự chỉ định của bác sĩ.
+
+Bệnh nhân cúm A nên được cách ly và nghỉ ngơi tại phòng riêng trong khoảng thời gian tối thiểu là 7 ngày tính từ thời điểm xuất hiện các triệu chứng ban đầu của bệnh cho đến 1 ngày sau khi các triệu chứng biến mất;
+Người bệnh ăn uống, tắm rửa, đi vệ sinh nên thực hiện trong phòng riêng. Phòng cần được bố trí thông thoáng mùa hè và ấm áp mùa đông. Trong trường hợp không có nhà tắm và vệ sinh riêng trong phòng, khi ra ngoài người bệnh cần đeo khẩu trang che kín miệng, mũi, rửa sạch tay sau khi đi vệ sinh;
+Cần hạn chế ra ngoài nếu không thật sự cần thiết. Khi ra ngoài, người bệnh nên đeo khẩu trang, hạn chế tối đa chạm vào những đồ vật gia đình hay sử dụng để tránh lây lan bệnh.
+Nên giữ khoảng cách an toàn với nhóm người có nguy cơ mắc bệnh cao.
+Về dinh dưỡng, người bệnh cúm A nên ăn thức ăn loãng, dễ tiêu hóa, uống nhiều nước và tăng cường bổ sung trái cây.
+Uống thuốc theo đơn của bác sĩ điều trị, không tự ý sử dụng thuốc.
+
+Các câu hỏi thường gặp khi gặp tình trạng sốt cúm A
+Bệnh cúm A có lây không? Lây qua đường nào?
+CÓ là câu trả lời cho câu hỏi cúm A có lây không? Cúm A là một bệnh lây nhiễm, có khả năng lây lan trên diện rộng. Bệnh chủ yếu lây qua hai con đường là:
+
+Qua giọt bắn: khi người bệnh nói chuyện, ho, hắt hơi sẽ bắn ra những giọt dịch chứa virus từ đường hô hấp. Khi người lành hít phải sẽ bị nhiễm virus cúm A.
+Qua tiếp xúc với đồ vật, bề mặt có chứa các giọt nước bọt hay dịch tiết mũi họng của người bệnh bắn ra bám vào, sau đó đưa tay lên mũi, miệng.
+
+Cúm A có khả năng lây nhanh từ người sang người trong khoảng thời gian từ 1 ngày trước cho đến 7 ngày sau khi mắc bệnh.
+Mắc cúm A bao lâu thì khỏi?
+Thông thường bệnh nhân cúm A thường khỏi sau 1 tuần điều trị. Trong một số trường hợp, chủ yếu ở những người có sức đề kháng kém, người cao tuổi, người có bệnh lý nền mãn tính, phụ nữ có thai có thể diễn tiến thành viêm phổi, suy hô hấp, thậm chí nếu không điều trị kịp thời bệnh có thể dẫn đến tử vong.
+Bị cúm A rồi có bị lại không?
+CÓ. Đối với các chủng virus cúm nói chung và cúm A nói riêng, người mắc bệnh kể cả sau khi được chữa khỏi vẫn có khả năng tái nhiễm.
+Lý giải cho việc này là vì khả năng miễn dịch của người đã bệnh kém, kể cả khi khỏi bệnh nếu tiếp xúc với nguồn lây vẫn có khả năng mắc bệnh trở lại. Ngoài ra, cúm là loại virus có khả năng biến đổi mạnh mẽ và liên tục theo thời gian. Nếu không được tiêm vắc xin phòng cúm mỗi năm, các chủng cúm mới có thể tấn công và đe dọa sức khỏe, tính mạng người bệnh bất cứ lúc nào.
+Có vắc xin phòng cúm A không?
+
+Hiện tại, vắc xin cúm lưu hành tại Việt Nam gồm: Influvac Tetra (Hà Lan), Ivacflu-S (Việt Nam) và Vaxigrip Tetra (Pháp) vắc xin phòng cúm Tứ giá thế hệ mới, phòng được 4 chủng cúm A (H1N1, H3N2) và B (Yamagata, Victoria) cho trẻ từ 6 tháng tuổi trở lên và người lớn.
+1. Vắc xin Vaxigrip Tetra (Pháp)
+Vắc xin được chỉ định để phòng 4 chủng cúm, trong đó có 2 chủng cúm A (H1N1, H3N2) và 2 chủng cúm B (Yamagata, Victoria) cho trẻ từ 6 tháng tuổi trở lên và người lớn, đặc biệt trên những người có nguy cơ cao mắc bệnh và diễn tiến nặng, giúp phòng nhiều chủng cúm hiệu quả.
+Trước đây, vắc xin cúm tam giá Vaxigrip chỉ phòng 3 chủng gồm 2 chủng cúm A là A/(H3N2), A/(H1N1), và 1 chủng cúm B (B/Yamagata) hoặc (B/Victoria), thì hiện nay Vaxigrip Tetra đã nâng cao được hiệu quả và mức độ phòng bệnh.
+Phác đồ tiêm vắc xin cúm Tứ giá Vaxigrip Tetra được khuyến cáo như sau:
+
+Trẻ từ 6 tháng đến dưới 9 tuổi chưa từng được tiêm vắc xin cúm: 2 mũi cách nhau tối thiểu 1 tháng. Sau đó tiêm nhắc lại 1 mũi hàng năm.
+Trẻ dưới 9 tuổi đã được tiêm ngừa cúm và trẻ từ 9 tuổi trở lên và người lớn: Tiêm 1 mũi và tiêm nhắc lại hàng năm.
+
+2. Vắc xin Influvac Tetra (Hà Lan)
+Vắc xin Influvac Tetra (Hà Lan) là vắc xin tứ giá, được phân lập từ các chủng A và B. Vắc xin được khuyến cáo tiêm cho trẻ em từ 6 tháng tuổi trở lên và người lớn với phác đồ tiêm cụ thể như sau:
+Trẻ từ 6 tháng tuổi đến dưới 9 tuổi chưa tiêm cúm có lịch tiêm 2 mũi:
+
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: cách mũi 1 ít nhất 4 tuần
+Sau đó tiêm nhắc lại 1 mũi hằng năm.
+
+Từ 9 tuổi trẻ lên: lịch tiêm 1 mũi duy nhất và nhắc lại hằng năm
+3. Vắc xin Ivacflu-S (Việt Nam)
+Vắc xin Ivacflu-S 0,5ml (Việt Nam) được sử dụng rộng rãi để phòng cúm ở đối tượng người lớn từ 18 đến 60 tuổi.
+
+Người lớn (từ 18 tuổi đến 60 tuổi): Tiêm 1 liều và sau đó nhắc lại hằng năm.
+
+Hệ thống Trung tâm tiêm chủng VNVC là đơn vị có đầy đủ các loại vắc xin phòng cúm cho trẻ em và người lớn, kể cả vắc xin phòng cúm Tứ giá Vaxigrip Tetra lần đầu xuất hiện tại Việt Nam. VNVC tự hào có hệ thống kho lạnh đạt chuẩn quốc tế GSP hiện đại, đảm bảo nhiệt độ bảo quản vắc xin từ 2-8 độ C. Những loại vắc xin phòng bệnh tại VNVC đều có nguồn gốc rõ ràng, chất lượng được đảm bảo nhờ vào việc nhập khẩu từ các đơn vị sản xuất vắc xin uy tín trong và ngoài nước. Không chỉ vậy, đội ngũ nhân viên, bác sĩ, điều dưỡng viên tại VNVC còn được đào tạo bài bản, có chứng chỉ an toàn tiêm chủng, hết mình phục vụ khách hàng.
+Để được tư vấn, giải đáp thắc mắc về vắc xin cúm và các loại vắc xin phòng bệnh khác tại VNVC, Quý khách có thể liên hệ số Hotline 028 7102 6595. Website: https://vnvc.vn hoặc đến các trung tâm tiêm chủng VNVC trên toàn quốc: https://vnvc.vn/he-thong-trung-tam-tiem-chung/
+Cúm A là bệnh nhiễm trùng đường hô hấp có tốc độ lây lan nhanh và nguy hiểm. Các chuyên gia khuyến cáo trẻ em, người cao tuổi, người có bệnh lý nền và những đối tượng có nguy cơ cao khác nên tiêm phòng vắc xin cúm hàng năm để phòng bệnh hiệu quả cho bản thân, gia đình và cộng đồng.

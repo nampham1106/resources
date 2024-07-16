@@ -1,0 +1,102 @@
+# doc_id = health_disease_277
+# url = https://vnvc.vn/cum-a-h3n2/
+# date = 04/07/2022
+Cúm A H3N2: Nguyên nhân, triệu chứng, điều trị và phòng ngừa
+Cúm A H3N2 là một trong bốn chủng virus cúm nguy hiểm nhất hiện nay. Người bệnh không tử vong vì cúm nhưng sẽ mất tính mạng vì biến chứng nguy hiểm của nó. Nếu đồng mắc cúm A H3N2 và Covid-19, tỷ lệ biến chứng và tử vong rất cao.
+Mục lụcH3N2 là gì?Nguồn gốc cúm H3N2Nguyên nhân mắc cúm A H3N2Ai dễ mắc cúm A H3N2?Cúm A H3N2 lây qua đường nào?Triệu chứng cúm A H3N2Biến chứng cúm A H3N2Phương pháp chẩn đoán cúm A H3N2Điều trị bệnh cúm A H3N2Phòng ngừa cúm A H3N2Tiêm vắc xin phòng cúm A H3N2Các biện pháp phòng ngừa khácH3N2 là gì?
+H3N2 là một chủng virus phân nhóm cúm A của virus Influenza gây bệnh cúm và biến chứng nguy hiểm phổ biến ở người. Virus H3N2 có thể lây nhiễm cho chim, lợn và người. Khi lây nhiễm, virus đã biến đổi thành nhiều chủng khác nhau. Ở những năm mà virus H3N2 là chủng virus cúm chiếm ưu thế, đã có hàng triệu người phải nhập viện, biến chứng nặng, thậm chí là tử vong.
+Virus cúm (H3N2) bao gồm hai gen từ virus cúm A là H3 Hemagglutinin và N2 neuraminidase từ virus H2N2 năm 1957. Vì thế, tên H3N2 cũng bắt nguồn từ các dạng kết hợp của hai loại protein bề mặt hemagglutinin (H) và neuraminidase (N). Bằng cách tái tổ hợp, virus H3N2 trao đổi gen cho protein bên trong với các phân nhóm cúm khác.
+Nguồn gốc cúm H3N2
+Cúm A H3N2 được ghi nhận lần đầu tiên ở người tại Hoa Kỳ vào tháng 9/1968 và dần lan rộng ra các lục địa khác. Số người tử vong được ước tính do đại dịch cúm H3N2 là 1 triệu người trên toàn cầu và khoảng 100.000 người ở Hoa Kỳ. Hầu hết các trường hợp tử vong do virus H3N2 chủ yếu ở đối tượng có nguy cơ cao, người từ 65 tuổi trở lên.
+Sau đó, chủng cúm A/H3N2 tiếp tục lưu hành trên toàn thế giới dưới dạng virus cúm theo mùa, bên cạnh 3 chủng cúm phổ biến khác là: A/H1N1, B/Yamagata và B/Victoria. Theo điều tra dịch tễ, bệnh cúm do virus H3N2 chiếm ưu thế và đạt đỉnh trong mùa cúm 2017/2018. Thông thường, các mùa cúm bị chi phối bởi H3N2 thường nghiêm trọng hơn, đặc biệt ở các nhóm nguy cơ cao như trẻ nhỏ dưới 5 tuổi, người lớn tuổi, phụ nữ đang mang thai,…
+Theo dữ liệu của CDC Hoa Kỳ từ mùa cúm 2017/2018 cho thấy, có 808.129 trường hợp nhập viện liên quan đến cúm trên khắp Hoa Kỳ, khi chủng cúm H3N2 chiếm ưu thế. Ước tính khoảng 643 ca tử vong ở trẻ em, chủ yếu là ở trẻ em chưa được tiêm chủng.
+Dẫn chứng so sánh với mùa cúm 2019/2020, đã có 404.646 trường hợp nhập viện liên quan đến cúm được báo cáo, khi cúm B và H1N1 chiếm ưu thế. Ước tính có 434 ca tử vong ở trẻ em. Như vậy, có thể thấy rõ chủng cúm H3N2 có gánh nặng bệnh tật nghiêm trọng hơn.
+Hiện nay, virus cúm H3N2 vẫn đang là mối đe dọa toàn cầu. Tại Việt Nam, cúm mùa xảy ra quanh năm. Tuy nhiên, theo ghi nhận, dịch cúm mùa thường lan rộng vào mùa thu và đạt đến đỉnh điểm trong những tháng đông. Cúm mùa cũng có thể tiếp tục xuất hiện vào mùa xuân, ở những thời điểm bất thường có thể kéo dài đến tháng 5. Theo Cục Y tế dự phòng (VNCDC), chủng cúm A/H3N2 hiện vẫn đang là một chủng cúm phổ biến và người dân cần chủ động dự phòng sớm, tạo miễn dịch cộng đồng và đẩy lùi bệnh cúm.
+Nguyên nhân mắc cúm A H3N2
+Một người mắc cúm A/H3N2 thường do họ đã tiếp xúc với người hoặc vật đang nhiễm virus A/H3N2:
+Với người đang mắc chủng cúm A/H3N2: Nếu người lành cùng người bệnh tiếp xúc trực tiếp như nói chuyện, ôm hôn, quan hệ tình dục,… thì tỷ lệ lây nhiễm cúm A/H3N2 rất cao.
+Với đồ vật có chứa virus cúm A/H3N2: Khi tay bạn tiếp xúc với các đồ vật như bàn, ghế, tủ, giường… đang là nơi “tạm trú” của virus H3N2 thì virus sẽ di chuyển đến tay, tay tiếp xúc với mũi, mắt, miệng, virus sẽ xâm nhập vào đường hô hấp (phổi) và gây bệnh cúm mùa.
+Ai dễ mắc cúm A H3N2?
+Cúm mùa A H3N2 là bệnh rất phổ biến, ai cũng có thể mắc phải. Các triệu chứng, biến chứng của cúm mùa có thể diễn tiến từ nhẹ đến nặng với các mức độ khác nhau, đặc biệt nguy hiểm với các đối tượng có nguy cơ cao:
+Trẻ nhỏ, đặc biệt là trẻ dưới 5 tuổi.
+Người già trên 65 tuổi.
+Phụ nữ có thai và phụ nữ sau sinh.
+Người có hệ miễn dịch yếu hoặc trong tình trạng suy giảm miễn dịch như bệnh nhân HIV, bệnh nhân ung thư,…
+Người mắc các bệnh mãn tính như phổi tắc nghẽn mãn tính COPD, hen suyễn, thận, tim mạch, tiểu đường, bệnh gan…
+Những người làm việc tại môi trường đông người như bệnh viện, trường học và công sở là những đối tượng có nguy cơ mắc và lây truyền bệnh cúm rất cao.
+Người béo phì nặng.
+Cúm A H3N2 lây qua đường nào?
+Virus cúm có khả năng lây nhiễm rất cao và lây truyền trực tiếp rất nhanh từ người sang người thông qua đường hô hấp, thậm chí có thể tạo thành đại dịch. Khi người bệnh ho, hắt hơi,… dịch tiết mũi họng và các giọt nước bọt mang theo virus bay vào không khí, người lành hít phải sẽ bị nhiễm bệnh. Hoặc các giọt dịch rơi vào đồ ăn, bám vào vật dụng… cũng có thể truyền virus gây bệnh. Đây là nguyên nhân khiến cúm dễ lây lan “chóng mặt” ở nơi tập trung đông người như trường học, nhà trẻ,… nếu các biện phòng ngừa chưa đảm bảo.
+Tỷ lệ tấn công của bệnh cúm là 5-10% ở người lớn và 20-30% ở trẻ em. Trong các vụ cúm hàng năm, 5-15% dân số bị nhiễm khuẩn đường hô hấp trên. Đặc biệt, trong điều kiện thời tiết lạnh và ẩm thấp, tế bào đường hô hấp của người dễ bị tổn thương, làm tăng tính cảm nhiễm với bệnh. Do vậy, mỗi người cần chủ động dự phòng, tạo miễn dịch cộng đồng để phòng ngừa lại cúm ngay từ bây giờ.
+Triệu chứng cúm A H3N2
+Những triệu chứng cúm A H3N2 gây ra tương tự như các biểu hiệu do các chủng virus cúm khác gây ra. Virus cúm A/H3N2 sau khi xâm nhập và ủ bệnh khoảng 2 ngày thường gây ra các triệu chứng đột ngột như:
+Sốt cao;
+Ho, ho khan;
+Chảy nước mũi/ nghẹt mũi;
+Viêm họng;
+Đau đầu;
+Đau nhức cơ thể;
+Có cảm giác ớn lạnh;
+Mệt mỏi, suy nhược cơ thể;
+Nôn mửa, nôn khan;
+Tiêu chảy – thường xuất hiện ở trẻ nhỏ;
+Cúm mùa nói chung và cúm do A/H3N2 thường khiến mọi người chủ quan do các triệu chứng phổ biến như ho, hắt hơi dễ đánh lừa người khác nhầm lẫn sang những căn bệnh lành tính như cảm lạnh thông thường.
+Trong bối cảnh đại dịch Covid-19 hiện nay, việc nhầm lẫn triệu chứng có thể gây khó khăn trong chẩn đoán và điều trị, khiến tình cảnh bệnh trở nên nặng nề hơn. Đặc biệt, người đồng nhiễm cả cúm và Covid-19 có nguy cơ tử vong cao gấp 2 lần so với người chỉ mắc Covid-19.
+Biến chứng cúm A H3N2
+Nếu mắc cúm nhẹ, các triệu chứng sẽ biến mất trong khoảng 1-2 tuần, nhưng ở một số trường hợp cúm có diễn tiến thành ác tính. Lúc này, người bệnh thường sốt rất cao, tức ngực, khó thở, chụp phim phổi có thể thấy hình ảnh tổn thương phổi tiến triển nhanh, xuất hiện tình trạng viêm cơ tim, suy hô hấp, thậm chí suy đa phủ tạng và tử vong nếu không được xử lý kịp thời.
+Biến chứng nguy hiểm nhất của cúm mùa là hội chứng Reye, gây sưng tấy trong gan và não. Hội chứng này thường gặp nhất ở trẻ từ 2-16 tuổi, vài ngày sau khi bị cúm. Khi các triệu chứng của cúm như đang suy giảm dần, trẻ đột nhiên buồn nôn và nôn mửa. Sau khoảng 1-2 ngày, trẻ chuyển mê sảng, co giật rồi đi dần vào hôn mê và có thể tử vong.
+Đáng lo ngại, nếu bệnh cúm khi không được điều trị hoặc điều trị muộn sẽ là khởi nguồn cho các bệnh: viêm phổi, viêm tai giữa, viêm cơ tim,… và làm trầm trọng hơn bệnh lý đang có. Cúm cũng có thể châm ngòi các đợt nhồi máu cơ tim tăng 6-8 lần, nguy cơ viêm phổi tăng 100 lần, thúc đẩy tai biến mạch máu não ở bệnh nhân xơ vữa động mạch, tăng gấp 10 lần nguy cơ nhồi máu cơ tim ở người sức khỏe bình thường, tăng gấp 8 lần nguy cơ đột quỵ.
+Phương pháp chẩn đoán cúm A H3N2
+Đầu tiên, các trường hợp nghi ngờ bị cúm A H3N2 cần được phát hiện sớm và cách ly. Sau đó, các bác sĩ sẽ thăm khám các triệu chứng lâm sàng để chẩn đoán như: sốt (thường trên 38oC), đau nhức cơ toàn thân, biểu hiện về hô hấp như đau họng, hắt hơi, ngạt mũi, chảy nước mũi, ho, khó thở,..
+Tiếp đến, tùy theo mức độ và tình trạng bệnh, các bác sĩ có thể chỉ định các xét nghiệm chuyên ngành trong phòng phòng thí nghiệm. Các xét nghiệm này có độ nhạy, độ đặc hiệu và chính xác cao. Đồng thời, còn có xét nghiệm cúm có sẵn để phát hiện virus cúm trong bệnh phẩm hô hấp. Dựa theo thứ tự ưu tiên, sẽ có các phương pháp chẩn đoán cúm sau:
+Test nhanh: Giúp kiểm tra nhanh cúm A/H3N2 có thể cho kết quả chỉ trong 1 – 1.5 giờ.
+Xét nghiệm RT-PCR (Real time RT-PCR): Có độ nhạy cao và đặc trưng nhất để kiểm tra virus cúm. Phương pháp này cho kết quả trong vòng 4-6 giờ và rất hữu ích để phân biệt nhanh giữa các loại cúm.
+Miễn dịch huỳnh quang: Có độ nhạy và độ đặc hiệu thấp hơn, nhưng kết quả có sẵn trong vài giờ sau khi nhận mẫu. Hiệu suất của xét nghiệm này phụ thuộc vào chuyên môn của kỹ thuật viên phòng thí nghiệm và chất lượng của mẫu thu thập được.
+Xét nghiệm nhanh (RIDTs): Cho kết quả trong khoảng 10-15 phút, nhưng không chính xác. Hiệu suất của xét nghiệm này phụ thuộc nhiều vào tuổi của người bệnh, thời gian mắc, loại mẫu bệnh phẩm và loại virus cúm. Do có độ nhạy và độ đặc hiệu thấp nên cần kết hợp với các phương pháp khác khi kết quả xét nghiệm âm tính.
+Phân lập virus: Không phải là xét nghiệm sàng lọc, nhưng cần thực hiện trên mẫu bệnh phẩm hô hấp thu thập từ những người nghi ngờ cúm xuất hiện trong vòng 5 ngày sau khi phát bệnh, đặc biệt là người có yếu tố dịch tễ với cúm.
+Xét nghiệm huyết thanh: Thường không được khuyến cáo để phát hiện nhiễm virus cúm ở người để kiểm soát bệnh cấp tính, kết quả chỉ hữu ích cho chẩn đoán hồi cứu và cho mục đích nghiên cứu.
+Điều trị bệnh cúm A H3N2
+Phần lớn các trường hợp mắc bệnh cúm A H3N2, hay các chủng khác sẽ tự khỏi trong khoảng 1-2 tuần. Hầu hết người bệnh sẽ được tự điều trị tại nhà, trừ trường hợp bệnh tiến triển nặng hoặc có biến chứng thì cần đến các cơ sở y tế để được thực hiện hồi sức tích cực hoặc xác định nguyên nhân gây bệnh và điều trị thích hợp. Theo mức độ diễn biến của bệnh mà bác sĩ sẽ có những phương pháp điều trị khác nhau.
+Với người bệnh bị cúm A/H3N2 nhưng triệu chứng chỉ ở mức độ nhẹ và không có biến chứng thì có thể theo dõi và chăm sóc tại nhà, đặc biệt cần đảm bảo các yếu tố dưới đây:
+Chế độ sinh hoạt lành mạnh, khoa học: Nghỉ ngơi nhiều, ăn uống đầy đủ các chất dinh dưỡng. Uống nhiều nước, hạn chế ăn, uống các thực phẩm lạnh.
+Sử dụng thuốc tại nhà: Sử dụng thuốc hạ sốt theo đúng chỉ định của bác sĩ.
+Tuân thủ quy tắc phòng bệnh và tránh lây nhiễm: Hạn chế đến những nơi đông người hoặc tiếp xúc với nhiều người để tránh lây truyền virus cho người lành, nếu có phải sử dụng khẩu trang y tế.
+Xử lý kịp thời: Sau khoảng 7 ngày mà các triệu chứng bệnh không giảm mà tiến triển nặng hơn, người bệnh cần được đưa đến cơ sở y tế để thăm khám kịp thời.
+Với những bệnh nhân có biến chứng và kèm các yếu tố nguy cơ: Người bệnh cần được đưa đến bệnh viện để bác sĩ thăm khám, theo dõi, xét nghiệm và chỉ định điều trị dùng thuốc kháng virus cúm sớm để tránh tình trạng bệnh nghiêm trọng:
+Khi bắt đầu điều trị trong vòng 48 giờ sau khi các triệu chứng cúm bộc phát, thuốc oseltamivir (Tamiflu) kháng virus có thể giúp rút ngắn thời gian bị bệnh và ngăn ngừa các biến chứng phát triển.
+Cần lưu ý, Tamiflu là thuốc hỗ trợ, không phải thuốc đặc hiệu nhất điều trị cúm, mà chỉ có tác dụng tối đa nếu được sử dụng trong vòng 24h. Nếu sử dụng Tamiflu sau 48 giờ kể từ khi có triệu chứng sốt thì kết quả điều trị không khác gì với người bệnh không dùng thuốc.
+Ngoài ra, Tamiflu chỉ dùng cho điều trị bệnh cúm A không biến chứng, nếu phát hiện cúm A có biến chứng thì cần được điều trị kết hợp các loại thuốc kháng sinh khác như: amantadine; rimantadine; neuraminidase như zanamivir and oseltamivir,… Đối với các trường hợp bệnh nặng, cần phải nhập viện, chăm sóc và điều trị tăng cường để đề phòng nhiễm khuẩn thứ phát và hỗ trợ hô hấp.
+Phòng ngừa cúm A H3N2
+Tiêm vắc xin phòng cúm A H3N2
+“Các tổ chức y tế trên thế giới cảnh báo đại dịch kép cúm và Covid-19 có nguy cơ xảy ra, gây ra các hậu quả làm suy giảm hệ miễn dịch. Tiêm vắc xin phòng cúm rất cần thiết bên cạnh tiêm phòng Covid-19. Một số quốc gia khuyến khích tiêm vắc xin phòng bệnh cúm, phế cầu khuẩn cùng vắc xin Covid-19 để mang lại hiệu quả phòng bệnh cộng gộp, giảm thời gian, công sức của người được tiêm”, BS.CKI Bạch Thị Chính nhấn mạnh.
+Các nghiên cứu cho thấy, tiêm vắc xin cúm làm giảm tỷ lệ tử vong do cúm 70-80%, ngăn ngừa nhiễm bệnh và giảm 60% biến chứng, làm giảm tới 50% nguy cơ đau tim, đột quỵ và tử vong vì các bệnh liên quan đến tim mạch. Người dân, nhất là trẻ em và những người cao tuổi, mắc các bệnh lý nền cần gấp rút chủng ngừa cúm sớm nhất có thể. Theo WHO, tỷ lệ mắc, diễn biến nặng ở người mắc Covid-19 cũng giảm ở nhóm đối tượng đã được tiêm cúm, nhờ quá trình kích hoạt phản ứng miễn dịch không đặc hiệu (miễn dịch tự nhiên) của cơ thể khi tiếp xúc với SARS-CoV.
+“Phụ nữ chuẩn bị mang thai nên chủ động tiêm vắc xin cúm để bảo vệ an toàn cho cả mẹ và con trong suốt thai kỳ, cũng như bảo vệ con sau sinh trong 6 tháng đầu khi trẻ chưa đến tuổi được tiêm phòng vắc xin cúm. Nếu đang có dịch cúm mà chưa kịp tiêm trước khi mang thai, mẹ bầu vẫn có thể cân nhắc tiêm phòng vắc xin ngừa cúm bất hoạt từ 3 tháng giữa thai kỳ.” BS.CKI Bạch Thị Chính cho biết thêm.
+Tổ chức Y tế Thế giới (WHO) và CDC Hoa Kỳ khuyến cáo: Tiêm phòng cúm hàng năm được khuyến cáo ở mọi lứa tuổi, bắt đầu từ trẻ 6 tháng tuổi, đặc biệt chú trọng đến các nhóm có nguy cơ cao biến chứng. Có 3 loại vắc xin phòng 4 chủng cúm A/H3N2, A/H1N1, B/Yamagata, B/Victoria dành cho trẻ em và người lớn bao gồm: Vaxigrip Tetra (Pháp), Influvac Tetra (Hà Lan) và GC Flu Quadrivalent (Hàn Quốc):
+Tên vắc xin
+Vaxigrip Tetra (Pháp)
+GC Flu Quadrivalent (Hàn Quốc)
+Influvac Tetra (Hà Lan)
+Đối tượng
+Trẻ em từ 6 tháng tuổi và người lớn
+Trẻ từ 6 tháng tuổi trở lên và người lớn
+Lịch tiêm
+Trẻ từ 6 tháng – dưới 9 tuổi:
+Tiêm 2 mũi cách nhau tối thiểu 1 tháng.
+Sau đó tiêm nhắc lại 1 mũi hằng năm.
+Trẻ dưới 9 tuổi đã từng tiêm vắc xin cúm và Trẻ từ 9 tuổi và người lớn:
+Tiêm 1 mũi 0.5ml
+Sau đó tiêm nhắc lại hàng năm.
+Trẻ từ 6 tháng tuổi đến dưới 9 tuổi chưa tiêm cúm có lịch tiêm 2 mũi:
+Mũi 1: lần tiêm đầu tiên.
+Mũi 2: cách mũi 1 ít nhất 4 tuần
+Sau đó tiêm nhắc lại 1 mũi hằng năm.
+Từ 9 tuổi trở lên: Lịch tiêm 01 mũi duy nhất và nhắc lại hằng năm.
+Các biện pháp phòng ngừa khác
+Tạo thói quen thường xuyên rửa tay bằng nước sạch và xà phòng: Đây là cách đơn giản và tốt nhất để ngăn sự xâm nhập của virus, vi khuẩn.
+Che miệng khi ho hoặc hắt hơi; đeo khẩu trang.
+Giữ gìn vệ sinh thân thể và vệ sinh môi trường sống thông thoáng, sạch sẽ.
+Xây dựng chế độ ăn uống cân bằng, tập thể dục thường xuyên và nghỉ ngơi đầy đủ.
+Mang khẩu trang y tế đến nơi có đông người như bệnh viện, siêu thị, công viên.
+Hạn chế tiếp xúc với người bệnh, nếu cần phải tiếp xúc như chăm sóc, điều trị…, cần tuân thủ các biện pháp phòng lây nhiễm như đã nói ở trên.
+Tránh tiếp xúc với các loài gia cầm được nuôi nhốt, hoặc gia cầm bị chết.
+Không “thời đại” như Covid-19, cúm A/H3N2 là đối tượng nghiên cứu của các nhà khoa học suốt hàng thập kỷ nay, mặc dù vậy, thế giới vẫn có hàng nghìn người tử vong mỗi năm vì căn bệnh này. Do vậy, dự phòng chủ động vắc xin cúm là yếu tố tiên quyết giúp cộng đồng đẩy lùi bệnh cúm, giảm gánh nặng lên hệ thống y tế toàn cầu đang phải gồng mình vì Covid-19.

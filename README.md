@@ -23,3 +23,15 @@ Suc Khoe Doi Song Diseases news corpus
 Tam Anh Hospital Diseases news corpus
 
 `task:corpus` `domain:health` `version:2.0-alpha` `year:2024`
+
+[VE_Vietnamese_Health](resources/corpus/TA_Vietnamese_Health/)
+
+VnExpress healthcare news corpus
+
+`task:corpus` `domain:health` `version:2.0-alpha` `year:2024`
+
+[VNVC_Vietnamese_Health](resources/corpus/VNVC_Vietnamese_Health/)
+
+VNVC healthcare news corpus
+
+`task:corpus` `domain:health` `version:2.0-alpha` `year:2024`

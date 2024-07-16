@@ -1,0 +1,276 @@
+# doc_id = health_disease_401
+# url = https://vnvc.vn/lich-tiem-chung-cho-be-duoi-1-tuoi/
+# date = 06/02/2023
+Lịch tiêm chủng cho bé dưới 1 tuổi được WHO khuyến cáo
+Lịch tiêm chủng cho bé dưới 1 tuổi gồm 15 loại vắc xin quan trọng phòng nhiều bệnh truyền nhiễm nguy hiểm. Trong đó có nhiều loại vắc xin quan trọng, bỏ lỡ cột mốc này, bé có thể sẽ mất cơ hội được bảo vệ tối ưu trọn đời bằng vắc xin.
+Mục lục1. Tại sao bé dưới 1 tuổi cần phải tiêm ngừa đầy đủ?2. Lịch tiêm chủng cho bé dưới 1 tuổi theo khuyến nghị của WHO3. Chi tiết các loại vắc xin tiêm cho trẻ dưới 1 tuổi3.1. Vắc xin BCG phòng Lao liều sơ sinh3.2. Vắc xin viêm gan B liều sơ sinh3.3. Vắc xin 6 trong/ 5 trong 13.4. Vắc xin phòng tiêu chảy do Rotavirus3.5. Vắc xin phòng viêm phổi, viêm màng não, viêm tai giữa và nhiễm trùng huyết do phế cầu khuẩn3.6. Vắc xin phòng viêm màng não do não mô cầu nhóm B3.7. Vắc xin cúm mùa3.8. Vắc xin phòng viêm màng não do não mô cầu nhóm BC3.9. Vắc xin phòng viêm màng não mô cầu tuýp ACYW3.10. Vắc xin viêm não Nhật Bản3.11. Vắc xin thủy đậu3.12. Vắc xin sởi3.13. Vắc xin sởi – quai bị – rubella3.14. Vắc xin viêm gan A/A+B4. Nên chọn tiêm chủng dịch vụ hay chương trình tiêm chủng mở rộng cho trẻ từ 0 – 12 tháng tuổi?5. Những điều cần lưu ý khi tiêm chủng cho trẻ dưới 1 tuổi5.1. Cần chuẩn bị gì trước khi tiêm?5.2. Các nguyên tắc trong khi tiêm5.3. Theo dõi sau tiêm tại điểm tiêm và khi về nhà6. Các mũi tiêm cho trẻ từ 1 tuổi trở lên bố mẹ cần biết thêm7. Trẻ non tháng có cần tiêm chủng sơ sinh không?8. Không tiêm hoặc tiêm vắc xin trễ lịch cho trẻ dưới 1 tuổi có sao không?9. Tiêm vắc xin cho trẻ dưới 1 tuổi ở đâu an toàn và uy tín?1. Tại sao bé dưới 1 tuổi cần phải tiêm ngừa đầy đủ?
+Ngay từ phút chào đời, em bé đã phải “chiến đấu” với nhiều virus, vi khuẩn gây bệnh. Trước khi mầm bệnh kịp xâm nhập, Ba Mẹ hãy tiếp sức cho con có đủ sức mạnh nhờ kháng thể để chống lại các mầm bệnh bằng cách tiêm ngừa vắc xin. Điều này có thể giúp loại trừ các bệnh lý nguy hiểm đến tính mạng hoặc để lại di chứng nghiêm trọng. Không bao giờ là quá trễ để bảo vệ sức khỏe trẻ em hiệu quả và kinh tế nhất như vắc xin.
+Trẻ từ 0-12 tháng tuổi là giai đoạn đặc biệt phụ huynh cần lưu ý đưa trẻ đi tiêm chủng sớm, đầy đủ và đúng lịch vì:
+Miễn dịch từ mẹ tồn tại trong thời gian rất ngắn: Trẻ sơ sinh, trẻ nhỏ có thể nhận được kháng thể truyền từ mẹ lúc mang thai và khi cho con bú. Tuy nhiên, lượng kháng thể này chỉ tồn tại trong cơ thể bé một thời gian rất ngắn, không đủ để bảo vệ trẻ lâu dài khi mà theo thời gian trẻ càng tiếp xúc với nhiều “mầm bệnh” từ môi trường và những người xung quanh.
+Sức đề kháng kém: Trẻ từ 6 tháng – 3 tuổi là giai đoạn miễn dịch có được từ mẹ gần như mất hoàn toàn trong khi hệ thống miễn dịch của trẻ chưa hoàn chỉnh để tự sản xuất kháng thể. Nếu không được tiêm chủng đầy đủ để củng cố miễn dịch, trẻ rất dễ mắc các bệnh nguy hiểm.
+Cơ hội phòng bệnh tối ưu duy nhất trong đời: Hãy tiêm chủng càng sớm càng tốt khi trẻ đến tuổi tiêm chủng để giúp trẻ có miễn dịch phòng bệnh sớm nhất. Hãy tiêm đầy đủ, đúng lịch để trẻ có miễn dịch tối ưu. Đặc biệt, một số vắc xin có giới hạn nhất định về độ tuổi như Rotavirus, nếu bỏ lỡ mốc thời gian này trẻ sẽ không thể phòng ngừa bệnh khỏi virus Rota, là bệnh truyền nhiễm nguy hiểm, đặc biệt ở trẻ < 1 tuổi.
+Gánh nặng bệnh tật lớn: Cơ thể trẻ còn nhỏ bé nên nếu bị tác nhân gây bệnh tấn công lần đầu tiên, dù được điều trị kịp thời vẫn có thể để lại di chứng vĩnh viễn, thậm chí tử vong. Trẻ càng nhỏ mắc bệnh càng nặng, biến chứng càng cao, trẻ có thể gánh chịu di chứng suốt đời, ảnh hưởng đến sự phát triển trí tuệ, thể chất, thậm chí tử vong.
+Tránh điều trị tốn kém: Chi phí dành cho tiêm ngừa thấp hơn rất nhiều lần so với chi phí điều trị và chăm sóc y tế nếu chẳng may trẻ mắc bệnh. Tiêm ngừa là khoản đầu tư tài chính khôn ngoan. Mỗi 1 USD đầu tư vào tiêm ngừa giúp tiết kiệm 16 USD (khoảng 400.000 VNĐ) cho chi phí khám và điều trị bệnh.
+Vắc xin rất quan trọng và cần thiết với trẻ em, tiêm chủng vắc xin là quyền lợi của trẻ em, là trách nhiệm và món quà vô giá của Ba Mẹ dành cho con. Tuy nhiên, vẫn có một số trường hợp trẻ chống chỉ định tiêm vắc xin hoặc cần tạm hoãn lịch tiêm. Quyết định 2470/QĐ-BYT năm 2019 của Bộ Y tế hướng dẫn về việc khám sàng lọc trước tiêm chủng đối với trẻ em nhằm phát hiện các trường hợp bất thường, từ đó đưa ra chỉ định tiêm chủng cho trẻ , theo đó:
+Chống chỉ định tiêm chủng khi có tiền sử phản ứng phản vệ, dị ứng nặng lần tiêm trước với vắc xin cùng loại. Những người bị suy giảm miễn dịch nặng thì không được tiêm vắc xin sống.
+Trì hoãn tiêm trong các trường hợp các trường hợp đang mắc bệnh cấp tính. Khi trẻ hồi phục, cần tiếp tục tiêm để đáp ứng đủ miễn dịch phòng bệnh cho trẻ.
+Không nên trì hoãn tiêm chủng vì bệnh đường hô hấp nhẹ hoặc là bệnh cấp tính nhẹ mà không có sốt.
+Trẻ cần tiêm đầy đủ các loại vắc xin được khuyến cáo để bảo vệ sức khỏe ngay từ năm tháng đầu đời.
+2. Lịch tiêm chủng cho bé dưới 1 tuổi theo khuyến nghị của WHO
+Để giúp bố mẹ an tâm và dễ dàng hơn trong việc theo dõi lịch tiêm của con, VNVC đã chuẩn bị lịch tiêm đầy đủ nhất trẻ dưới 12 tháng tuổi với 15 loại vắc xin quan trọng, Ba Mẹ cần phải ghi nhớ hoặc lưu lại để không bỏ lỡ mũi tiêm nào của con.
+Vắc xin
+Phòng bệnh
+Sơ sinh
+2 tháng
+3 tháng
+4 tháng
+6 tháng
+7 tháng
+8 Tháng
+9 tháng
+10 tháng
+12 tháng
+Euvax (Hàn Quốc)/ Engerix (Bỉ)
+Viêm gan B liều sơ sơ sinh
+☑️
+BCG (Việt Nam)
+Lao liều sơ sinh
+☑️
+Infanrix Hexa (Bỉ)/ Hexaxim (Pháp) (vắc xin 6 trong 1)
+Ho gà, bạch hầu, uốn ván, bại liệt, viêm gan B, Hib
+☑️
+☑️
+☑️
+Pentaxim (Pháp) (vắc xin 5 trong 1)
+Ho gà, bạch hầu, uốn ván, bại liệt, Hib
+☑️
+☑️
+☑️
+Rotarix (Bỉ)
+Tiêu chảy cấp do Rotavirus
+☑️
+☑️
+Rotateq (Mỹ)
+☑️
+☑️
+☑️
+Rotavin (Việt Nam)
+☑️
+☑️
+Synflorix (Bỉ)
+Viêm phổi, viêm màng não, viêm tai giữa, nhiễm khuẩn huyết,… do phế cầu khuẩn
+☑️
+☑️
+☑️
+☑️
+Prevenar-13 (Bỉ)
+☑️
+☑️
+☑️
+☑️
+Bexsero (Ý)
+Viêm màng não do não mô cầu khuẩn nhóm B
+☑️
+☑️
+☑️
+VA – Mengoc – BC (Cu Ba)
+Viêm màng não do não mô cầu khuẩn nhóm B, C
+☑️
+☑️
+Vaxigrip Tetra (Pháp)/ Influvac Tetra (Hà Lan)/ GCFLU Quadrivalent (Hàn Quốc)
+Cúm mùa
+☑️
+☑️
+Menactra (Mỹ)
+Viêm màng não, nhiễm khuẩn huyết, viêm phổi do não mô cầu khuẩn A,C,Y,W-135
+☑️
+☑️
+MVVac (Việt Nam)
+Sởi
+☑️
+Imojev (Thái Lan)
+Viêm não Nhật Bản
+☑️
+Varilrix (Bỉ)
+Thủy đậu
+☑️
+☑️
+Varivax (Mỹ)
+☑️
+Varicella (Hàn Quốc)
+☑️
+Priorix (Bỉ)
+Sởi – Quai bị – Rubella
+☑️
+☑️
+MMR II (Mỹ)
+☑️
+Jevax (Việt Nam)
+Viêm não Nhật Bản
+☑️
+Twinrix (Bỉ)
+Viêm gan A+B
+☑️
+Avaxim (Pháp)
+Viêm gan A
+☑️
+Bạn có thể tham khảo chi tiết giá của tất cả các loại vắc xin trên tại: Bảng giá tiêm chủng VNVC
+3. Chi tiết các loại vắc xin tiêm cho trẻ dưới 1 tuổi
+3.1. Vắc xin BCG phòng Lao liều sơ sinh
+Tiêm vắc xin phòng lao liều sơ sinh (BCG – Việt Nam) cho trẻ sơ sinh là cách giúp trẻ phòng ngừa bệnh, tránh những ảnh hưởng đến phổi, xương, hạch bạch huyết, hệ thần kinh, tim và các cơ quan khác, gây tử vong. Theo WHO, Việt Nam là nước có gánh nặng bệnh lao khá cao, đứng thứ 15/30 nước có số người mắc bệnh lao cao nhất trên toàn cầu. Ở giai đoạn chưa có vắc xin lao, thế giới từng xem bệnh lao là “tứ chứng nan y”.
+Vắc xin BCG được chỉ định tiêm cho trẻ sơ sinh càng sớm càng tốt (tiêm ngay trong 24 giờ đầu sau sinh) nếu trẻ đủ cân nặng trên 2kg và >= 34 tuần tuổi (tính cả tuổi thai) và sức khỏe ổn định. Vì một số lý do nào đó khiến trẻ không thể tiêm trong vòng 24 giờ đầu sau sinh thì trẻ vẫn có thể tiêm vắc xin BCG trong năm đầu đời.. Vắc xin có hiệu quả cao trong phòng ngừa các bệnh nguy hiểm do vi khuẩn lao, trong đó có lao màng não với độ bảo vệ lên tới 80%.
+Vắc xin BCG là vắc xin có trong chương trình TCMR quốc gia và tiêm chủng dịch vụ. Trong trường hợp trẻ chưa được tiêm vắc xin Lao sau khi sinh ở bệnh viện hay trạm y tế địa phương, phụ huynh có thể đưa bé đến tiêm vắc xin Lao tại Hệ thống tiêm chủng VNVC trên toàn quốc để được có miễn dịch sớm, tránh nguy cơ bệnh tật. Hiện VNVC đang miễn phí tiêm vắc xin Lao tất cả các ngày cho trẻ, giúp Ba Mẹ thuận tiện trong việc sắp xếp thời gian đi tiêm phòng, đặc biệt với mong muốn thúc đẩy tỷ lệ bao phủ vắc xin Lao tại Việt Nam.
+Đăng ký tiêm vắc xin BCG
+3.2. Vắc xin viêm gan B liều sơ sinh
+Viêm gan B gây ra do nhiễm virus HBV là vấn đề sức khỏe toàn cầu, là tác nhân thứ hai gây ung thư sau thuốc lá, đồng thời là “thủ phạm” của khoảng 80% trường hợp ung thư gan nguyên phát. Tỷ lệ thai nhi nhiễm virus HBV từ mẹ là 30-40%. Tuy nhiên, nguy cơ lây truyền từ mẹ sang thai nhi trong giai đoạn virus đang hoạt động (HBeAg dương tính) sẽ tăng rất cao (85-90%). Quá trình lây truyền virus HBV từ mẹ sang thai nhi có thể diễn ra từ trong tử cung, lúc sinh hoặc ngay sau sinh.
+Do vậy, biện pháp hiệu quả nhất để ngăn ngừa lây nhiễm virus HBV và phòng ung thư gan, xơ gan là tiêm vắc xin viêm gan B cho trẻ trong vòng 24 giờ đầu sau khi sinh, đây là “thời gian vàng” để vắc xin giúp cơ thể trẻ tạo ra sức đề kháng lại chống virus HBV, bảo vệ trẻ không bị bệnh nếu trẻ có tình cờ nhiễm virus trong đời.
+Tại Việt Nam, vắc xin viêm gan B gồm: Euvax (Hàn Quốc)/Engerix B (Bỉ)/Heberbiovac (Cuba)/Gene-HBvax (Việt Nam) liều sơ sinh được khuyến cáo tiêm cho tất cả trẻ em, liều đầu tiên tiêm trong 24 giờ đầu sau sinh và tiếp theo 3 liều lúc trẻ được 2, 3, 4 tháng (vắc xin viêm gan B có thể được dùng ở dạng phối hợp như 6 trong 1, 5 trong 1,… giúp phòng ngừa thêm các bệnh lý khác trong cùng 1 mũi tiêm).
+Đăng ký tiêm vắc xin Euvax B Đăng ký tiêm vắc xin Engerix B
+3.3. Vắc xin 6 trong/ 5 trong 1
+Bạch hầu, uốn ván, ho gà, bại liệt, viêm gan B, viêm phổi, viêm màng não do H.influenzae tuýp B là những bệnh truyền nhiễm nguy hiểm và rất phổ biến. Vắc xin 6 trong 1 hiện đang có 2 loại là Infanrix Hexa (Bỉ) và Hexaxim (Pháp), giúp chặn đứng 6 bệnh truyền nhiễm nguy hiểm trên trong 1 mũi tiêm, giảm số mũi tiêm từ 12 còn 3 mũi, so với việc tiêm vắc xin đơn lẻ, tiết kiệm được thời gian, giảm số lần tiêm cho trẻ.
+Với vắc xin 5 trong 1, trong chương trình TCMR có vắc xin (ComBE Five) được tiêm cho trẻ từ 2 tháng tuổi để phòng ngừa 5 bệnh truyền nhiễm phổ biến gồm: Bạch hầu, ho gà, uốn ván, viêm màng não mủ/viêm phổi do vi khuẩn HiB và viêm gan B. Còn trong chương trình tiêm chủng dịch vụ có vắc xin 5 trong 1 Pentaxim (Pháp). Tuy nhiên, cần lưu ý nếu tiêm vắc xin 5 trong 1 Pentaxim thì cần bổ sung thêm mũi viêm gan B đơn.
+Vắc xin 6 trong 1/ 5 trong 1 là mũi tiêm rất cần thiết, đây là vắc xin có giới hạn thời gian trong lịch tiêm chủng cho bé dưới 1 tuổi, do đó Ba Mẹ cần ghi nhớ để kịp cho trẻ có miễn dịch trong những năm đầu đời.
+Đăng ký tiêm vắc xin 6 trong 1 Hexaxim Đăng ký tiêm vắc xin 6 trong 1 Infanrix Hexa  Đăng ký tiêm vắc xin 5 trong 1 Pentaxim
+3.4. Vắc xin phòng tiêu chảy do Rotavirus
+Trẻ có thể bị nhiễm Rotavirus ở giai đoạn rất sớm ngay sau khi sinh. Trẻ càng nhỏ tuổi thì nguy cơ nhiễm bệnh càng cao và biến chứng càng nặng. Rotavirus là nguyên nhân gây tử vong ở gần nửa triệu trẻ dưới 5 tuổi trên thế giới. Lý do khiến trẻ tử vong khi bị tiêu chảy cấp chủ yếu do mất nước, mất điện giải và suy dinh dưỡng.
+Hiện vắc xin ngừa Rotavirus có 3 loại: Rotateq (Mỹ), Rotarix (Bỉ), Rotavin (Việt Nam) đều là dạng vắc xin uống nên việc chủng ngừa cho trẻ rất đơn giản, dễ dàng. Phác đồ uống có thể gồm 2 liều hay 3 liều tùy theo từng loại vắc xin.
+Đặc biệt, thời gian tối thiểu cho liều vắc xin phòng Rotavirus đầu tiên là 6 tuần và thời gian tối đa cho liều cuối cùng là 6 đến 8 tháng tuổi (tùy loại vắc xin), do đó, ba mẹ cần lưu ý cho con đi tiêm chủng đúng lịch, đủ liều để bảo vệ sớm cho trẻ khỏi bị tiêu chảy cấp do Rotavirus trong những tháng đầu đời.
+Đăng ký tiêm vắc xin Rotateq Đăng ký tiêm vắc xin Rotarix  Đăng ký tiêm vắc xin Rotavin
+3.5. Vắc xin phòng viêm phổi, viêm màng não, viêm tai giữa và nhiễm trùng huyết do phế cầu khuẩn
+Mỗi năm, thế giới có khoảng 1,6 triệu người tử vong do các bệnh liên quan đến phế cầu khuẩn (viêm phổi, viêm tai giữa, viêm màng não, nhiễm khuẩn huyết,…), trong đó 50% là trẻ em dưới 5 tuổi. Tại Việt Nam, khoảng gần 70% trẻ khỏe mạnh nhưng vẫn tồn tại phế cầu khuẩn trong vùng hầu họng. Nguy hiểm là, phế cầu khuẩn ngày càng gia tăng mức độ kháng các loại thuốc kháng sinh, gây khó khăn cho điều trị.
+Tổ chức Y tế Thế giới (WHO) khuyến cáo nên đưa vắc xin phế cầu vào chương trình tiêm chủng quốc gia. Với mức độ nguy hiểm của các bệnh, tiêm vắc xin sớm phòng bệnh phế cầu khuẩn cho trẻ từ 6 tuần tuổi là cách giảm thiểu đáng kể tỷ lệ tử vong, giảm thiểu các tai biến, giảm việc dùng kháng sinh khi chưa thực sự cần thiết, đồng thời cũng giảm chi phí và thời gian chữa bệnh.
+Hiện vắc xin phòng các bệnh do phế cầu khuẩn chỉ có trong tiêm chủng dịch vụ, với 2 loại vắc xin phòng các bệnh do phế cầu là Synflorix (Bỉ) chỉ định tiêm cho trẻ từ 6 tuần tuổi đến 5 tuổi và vắc xin Prevenar 13 (Bỉ) dành cho trẻ từ 6 tuần tuổi và người lớn.
+Đăng ký tiêm vắc xin Synflorix Đăng ký tiêm vắc xin Prevenar-13
+3.6. Vắc xin phòng viêm màng não do não mô cầu nhóm B
+Bệnh viêm màng não do não mô cầu nhóm B là bệnh truyền nhiễm cực kỳ nguy hiểm, không có triệu chứng khởi phát đặc hiệu mà diễn tiến nhanh chóng, có thể gây tử vong chỉ trong 24 giờ từ khi phát bệnh hoặc nếu may mắn sống sót, người bệnh vẫn phải gánh chịu các di chứng tàn tật suốt đời như đoạn chi, điếc, mù lòa, chậm phát triển, thiểu năng trí tuệ…
+Rất may mắn, từ tháng 02/2024, Hệ thống Trung tâm tiêm chủng VNVC phối hợp cùng hãng vắc xin và dược phẩm hàng đầu thế giới – GSK ra mắt, đưa vào sử dụng và triển khai tiêm chủng cho người dân toàn quốc vắc xin phòng vi khuẩn não mô cầu nhóm B thế hệ mới nhất – Bexsero (Ý). Đây là vắc xin đa thành phần, chứa 4 kháng nguyên, được sản xuất theo công nghệ túi màng ngoài OMV, cung cấp khả năng bảo vệ trẻ em từ 2 tháng tuổi và người lớn đến 50 tuổi khỏi sự tấn công của vi khuẩn não nhóm B với phạm vi rộng hơn, hiệu quả và an toàn hơn.
+Đăng ký tiêm vắc xin Bexsero (Ý)
+3.7. Vắc xin cúm mùa
+Cúm mùa là bệnh truyền nhiễm phổ biến, ai cũng có có nguy cơ nhiễm cúm, đặc biệt trẻ nhỏ – đối tượng có sức đề kháng yếu nên rất dễ nhiễm bệnh và có nguy cơ gặp nhiều biến chứng nặng nề như viêm tai giữa, viêm cơ tim, viêm phổi, viêm não,… thậm chí tử vong.
+Theo khuyến cáo của Tổ chức Y tế Thế giới (WHO), CDC Hoa Kỳ và Bộ Y tế Việt Nam, trẻ em từ 6 tháng tuổi trở lên là đối tượng cần ưu tiên cần được tiêm vắc xin cúm sớm và tiêm nhắc lại 1 mũi hàng năm để được bảo vệ tốt nhất.
+Hiện nay, có 3 loại vắc xin cúm mùa Tứ giá Vaxigrip Tetra (Pháp), Influvac Tetra (Hà Lan) và GC Flu Quadrivalent (Hàn Quốc) được chỉ định tiêm chủng cho trẻ từ 6 tháng tuổi, giúp phòng ngừa 4 chủng cúm nguy hiểm nhất là 2 chủng cúm A (A/H3N2, A/H1N1) và 2 chủng cúm B (Yamagata, Victoria), bảo vệ rộng hơn trước các chủng cúm đang gây bệnh nặng và nghiêm trọng, góp phần nâng sức khỏe cho trẻ từ sớm.
+Đăng ký tiêm vắc xin Vaxigrip Tetra Đăng ký tiêm vắc xin Influvac Tetra  Đăng ký tiêm vắc xin GC Flu Quadrivalent
+3.8. Vắc xin phòng viêm màng não do não mô cầu nhóm BC
+Viêm màng não do não mô cầu khuẩn có diễn tiến nguy hiểm, để lại di chứng nặng nề, gây tử vong nhanh chóng. Ai cũng có thể mắc viêm màng não nhưng trẻ sơ sinh và trẻ nhỏ là đối tượng có nguy cơ cao nhất. Với các bệnh lây qua đường hô hấp như cúm, viêm phổi, ho gà,… bên cạnh việc tiêm vắc xin, có thể hạn chế nguy cơ mắc bệnh bằng cách rửa tay, che mũi miệng khi ho… Nhưng với viêm màng não do não mô cầu, tiêm vắc xin đầy đủ và đúng lịch là biện pháp phòng bệnh hiệu quả nhất.
+Vi khuẩn N. meningitidis là tác nhân chính gây viêm màng não do não mô cầu, hiện có 13 nhóm huyết thanh của N. meningitidis đã được xác định, 6 tuýp trong số đó (A, B, C, W, X và Y) thường gặp nhất và có thể gây dịch, điều may mắn là hiện nay cả 6 tuýp này đã có vắc xin phòng ngừa. Vắc xin VA-Mengoc-BC (Cu Ba) phòng viêm màng não mô cầu tuýp B,C được chỉ định tiêm cho trẻ từ 6 tháng tuổi – người lớn 45 tuổi).
+Đăng ký tiêm vắc xin VA-Mengoc-BC
+3.9. Vắc xin phòng viêm màng não mô cầu tuýp ACYW
+Bệnh do não mô cầu xâm lấn (IMD) khó chẩn đoán sớm, diễn tiến nhanh, đặc biệt là ở trẻ sơ sinh và trẻ nhỏ. Viêm màng não do não mô cầu tuýp A,C,Y,W-135 được xem là “bệnh tử” và có thể gây tử vong trong vòng 24h nếu không được điều trị kịp thời. Do đó, trẻ rất cần tiêm chủng đầy đủ để phòng bệnh sớm, bảo vệ sức khỏe toàn diện.
+Vắc xin Menactra (Mỹ) phòng viêm màng não mô cầu do tuýp huyết thanh A,C,Y,W-135, tiêm cho trẻ từ 9 tháng tuổi – người lớn 55 tuổi. Trẻ 9-23 tháng tuổi sẽ tiêm hai liều, cách nhau 3 tháng; trẻ từ hai tuổi trở lên và người lớn tiêm một liều duy nhất.
+Đăng ký tiêm vắc xin Menactra
+3.10. Vắc xin viêm não Nhật Bản
+Viêm não Nhật Bản là bệnh nhiễm trùng ở não do virus viêm não Nhật Bản (JEV). Nếu mắc bệnh, 3-5% trẻ có nguy cơ tử vong, tỷ lệ di chứng có thời điểm lên tới 30-35%. Các di chứng trẻ có thể gặp như: rối loạn tâm thần, liệt, rối loạn ngôn ngữ, co giật, động kinh, nằm liệt giường,… Vì vậy, tiêm vắc xin phòng bệnh là cách đơn giản và hiệu quả nhất để bảo vệ trẻ em, cả gia đình và cộng đồng trước nguy cơ bệnh tấn công.
+Hiện nay, VNVC đang có đầy đủ 3 loại vắc xin viêm não Nhật Bản cho trẻ em và người lớn là Jevax (Việt Nam), Imojev (Thái Lan) và JEEV (Ấn Độ). Trong đó, Jevax là loại vắc xin bất hoạt được chỉ định tiêm chủng cho trẻ từ 12 tháng tuổi và người lớn với lịch tiêm chủng 3 mũi (mũi 1: lần tiêm đầu tiên; mũi 2: 1-2 tuần sau mũi 1; mũi 3: 1 năm sau mũi 2), sau mũi 3, trẻ cần được tiêm nhắc 1 mũi cách 3 năm/lần đến khi trẻ 15 tuổi.
+Vắc xin Imojev (Thái Lan) là loại vắc xin sống giảm độc lực tái tổ hợp thế hệ mới được chỉ định tiêm sớm cho trẻ từ 9 tháng tuổi và người lớn, trong đó trẻ từ 9 tháng tuổi – dưới 18 tuổi cần tiêm 2 mũi cách nhau 1 năm.
+Đăng ký tiêm vắc xin Imojev Đăng ký tiêm vắc xin Jevax
+3.11. Vắc xin thủy đậu
+Bệnh có triệu chứng điển hình là sốt, đau đầu, phát ban dạng phỏng nước, ngứa toàn thân. Thủy đậu khởi phát từ 10-14 ngày sau khi tiếp xúc mầm bệnh, với triệu chứng nổi mụn nước ở mặt, các chi, sau đó lan nhanh ra toàn thân. Thông thường, các nốt rạ sẽ khô dần, bong vảy, thâm da nơi nổi mụn nước, nếu bị nhiễm thêm vi khuẩn mụn nước có thể để lại sẹo. Thủy đậu là bệnh lành tính, tuy nhiên nếu không phát hiện và điều trị kịp thời, trẻ có thể gặp các biến chứng như: viêm phổi, viêm não – màng não, nhiễm trùng máu…
+Tiêm vắc xin thủy đậu là biện pháp phòng bệnh hiệu quả, hiện có 3 loại gồm: Varilrix (Bỉ), Varivax (Mỹ) và Varicella (Hàn Quốc), trẻ cần hoàn thành lịch tiêm gồm 2 mũi cách nhau tối thiểu 3 tháng. Riêng vắc xin Varilrix (Bỉ) có thể dùng cho trẻ từ 9 tháng tuổi, còn Varivax (Mỹ) và Varicella (Hàn Quốc) chỉ định tiêm cho trẻ 12 tháng tuổi.
+Đăng ký tiêm vắc xin Varilrix Đăng ký tiêm vắc xin Varivax  Đăng ký tiêm vắc xin Varicella
+Trẻ có thể tiêm vắc xin thủy đậu ngay từ 9 tháng tuổi, bảo vệ sớm hơn cho trẻ, giảm nguy cơ mắc bệnh, tử vong.
+3.12. Vắc xin sởi
+Năm 2021, Tổ chức Y tế Thế giới ghi nhận mức cao kỷ lục với gần 61 triệu liều vắc xin sởi bị trì hoãn hoặc bỏ lỡ do các chiến dịch tiêm chủng đình trệ ở 18 quốc gia. Nhiều quốc gia trải qua đợt bùng phát lớn, gây gián đoạn cuộc sống. Trong khi đó, sởi là bệnh truyền nhiễm có tỷ lệ lây nhiễm cao, biến chứng nặng và tử vong cao. Nếu không kịp thời cho trẻ chủng ngừa đúng lịch cũng như bù lại những mũi vắc xin đã trễ thì có thể dẫn tới nguy cơ xuất hiện dịch bệnh.
+Hiện nay, Việt Nam đang triển khai tiêm vắc xin sởi đơn và sởi phối hợp. Vắc xin sởi đơn (MVVac, Việt Nam sản xuất) được chỉ định tiêm cho trẻ từ 9 tháng tuổi trở lên với lịch tiêm 1 mũi cơ bản và tiêm nhắc lại 1-2 mũi là loại vắc xin phối hợp có thành phần sởi. Vắc xin phối hợp hiện có 2 loại là MMR II (Mỹ) và Priorix (Bỉ), trong đó vắc xin Priorix có thể tiêm sớm cho trẻ từ 9 tháng tuổi.
+Đăng ký tiêm vắc xin MVVac Đăng ký tiêm vắc xin MMR II  Đăng ký tiêm vắc xin Priorix
+3.13. Vắc xin sởi – quai bị – rubella
+Sởi – Quai bị – Rubella là 3 bệnh do virus và rất dễ lây lan với tỷ lệ tử vong đáng kể. Trẻ nhỏ dưới 1 tuổi nếu Sởi – Quai bị – Rubella dễ trở nặng hơn bởi các triệu chứng bệnh dễ bị bỏ qua. Trong giai đoạn các bệnh hô hấp đang tăng cao, nguy cơ dịch chồng dịch khiến các triệu chứng, biến chứng diễn tiến nặng hơn.
+Do vậy, tiêm vắc xin Sởi – Quai bị – Rubella sớm cho trẻ 9 tháng tuổi và các đối tượng dễ tổn thương là biện pháp đơn giản, an toàn và hiệu quả nhất để chặn đứng nguy cơ nhiễm và lây lan bệnh. Hiện nay, VNVC đang có 2 loại vắc xin phòng Sởi – Quai bị – Rubella là Priorix (Bỉ) và MMR II (Mỹ) với phác đồ 2 mũi cách nhau 3 tháng, hoặc hẹn mũi 2 lúc 4-6 tuổi. Trong đó Priorix có thể tiêm cho trẻ 9 tháng tuổi, còn vắc xin MMR II (Mỹ) tiêm cho trẻ 12 tháng tuổi.
+Đăng ký tiêm vắc xin MMR II Đăng ký tiêm vắc xin Priorix
+3.14. Vắc xin viêm gan A/A+B
+Bệnh viêm gan được coi là “sát thủ thầm lặng” với các triệu chứng khó phát hiện nếu không xét nghiệm máu. Đến khi phát hiện, hầu hết bệnh nhân đã ở giai đoạn mãn tính, xơ gan, xơ gan mất bù, ung thư gan… Ngoài viêm gan B, viêm gan A cũng là bệnh lý cần được quan tâm và có cách ngăn ngừa phù hợp, bởi dù hiếm gặp, bệnh vẫn có khả năng dẫn đến nhiều biến chứng nguy hiểm.
+Cách để phòng viêm gan A, B hiệu quả là tiêm vắc xin. Vắc xin viêm gan B giúp giảm tỷ lệ ca mắc phải và biến chứng gây ra, nhất là ở trẻ sơ sinh trong những giờ đầu sau sinh. VNVC có đầy đủ vắc xin phòng viêm gan A Havax (Việt Nam) và Avaxim 80U (Pháp), vắc xin viêm gan B Engerix B (Bỉ), Euvax B (Hàn Quốc), Heberbiovac (Cuba) và Gene-HBvax (Việt Nam). Đặc biệt, vắc xin Twinrix (Bỉ) là vắc xin duy nhất phòng được cả 2 bệnh viêm gan A và viêm gan B chỉ trong một mũi tiêm, miễn dịch bảo vệ vượt trội và lâu dài.
+Đăng ký tiêm vắc xin Havax Avaxim  Đăng ký tiêm vắc xin Engerix B  Euvax B  Đăng ký tiêm vắc xin Twinrix
+4. Nên chọn tiêm chủng dịch vụ hay chương trình tiêm chủng mở rộng cho trẻ từ 0 – 12 tháng tuổi?
+Tiêm chủng mở rộng là chương trình y tế quốc gia miễn phí được ưu tiên với hơn 10 loại vắc xin nhằm giảm tỷ lệ mắc các bệnh truyền nhiễm nguy hiểm ở trẻ em. Tiêm chủng dịch vụ là chương trình tiêm chủng có mất phí với số lượng vắc xin đa dạng, nhập khẩu từ nhiều hãng vắc xin uy tín trên thế giới và phòng được nhiều bệnh nguy hiểm hơn cho trẻ em và người lớn. Vắc xin trong Chương trình tiêm chủng mở rộng (TCMR) hay vắc xin dịch vụ trước khi đưa vào sử dụng đều phải được Bộ Y tế cấp phép lưu hành, được kiểm định tính an toàn và hiệu quả chặt chẽ.
+Việc cho trẻ tiêm chủng đầy đủ rất quan trọng giúp trẻ phát triển tốt về cả thể chất và trí tuệ. Tuy nhiên ngoài các vắc xin cơ bản nằm trong chương trình TCMR thì có hơn 30 loại vắc xin quan trọng khác trong chương trình tiêm chủng dịch vụ được Bộ Y tế khuyến khích người dân chủ động tiếp cận vì những lợi ích cho sức khỏe và tương lai cho trẻ em.
+5. Những điều cần lưu ý khi tiêm chủng cho trẻ dưới 1 tuổi
+Tiêm chủng là cách tốt nhất để phòng ngừa các bệnh truyền nhiễm nguy hiểm cho trẻ em. Trẻ cần được tiêm đầy đủ và đúng lịch Lịch tiêm chủng cho bé dưới 1 tuổi để phòng tránh những bệnh tật nguy hiểm. BS.CKI Nguyễn Lê Nga, Quản lý Y khoa miền Bắc, Hệ thống tiêm chủng chia sẻ những điều cần lưu ý khi tiêm chủng cho trẻ dưới 1 tuổi:
+5.1. Cần chuẩn bị gì trước khi tiêm?
+Trước khi đưa trẻ đi tiêm chủng, phụ huynh cần làm chuẩn bị những việc sau:
+Mang theo sổ tiêm chủng cá nhân của người cần được tiêm, thông báo đầy đủ cho bác sĩ về tiền sử bệnh tật, dị ứng, tiêm chủng, tình trạng sức khỏe hiện tại…
+Thực hiện đúng các chỉ dẫn của cán bộ tiêm chủng, đọc và hiểu rõ áp phích “Quy định tiêm chủng” dán tại các điểm tiêm đối chiếu với việc thực hành tiêm chủng của cán bộ y tế, kiểm tra vắc xin trước khi tiêm (chủng loại, hạn sử dụng, cách thức sử dụng…).
+Ở lại trung tâm tiêm chủng 30 phút để theo dõi phản ứng phụ sau tiêm.
+Tiếp tục theo dõi sức khỏe người được tiêm trong vòng 24-48h sau tiêm theo hướng dẫn
+5.2. Các nguyên tắc trong khi tiêm
+Bên cạnh ghi nhớ và tuân thủ lịch tiêm chủng cho bé dưới 1 tuổi, để quá trình tiêm chủng diễn ra thuận lợi, an toàn, hiệu quả và nhanh chóng, phụ huynh nên tham khảo những nguyên tắc cần thiết trong khi tiêm dưới đây:
+Giữ trẻ đúng tư thế theo sự hướng dẫn của điều dưỡng/cán bộ y tế và luôn thông báo về tình trạng bệnh của bé (nếu có).
+Cần đảm bảo khoảng cách giữa các mũi tiêm theo chỉ định của bác sĩ.
+5.3. Theo dõi sau tiêm tại điểm tiêm và khi về nhà
+Trẻ được tiêm, uống vắc xin cần được theo dõi tối thiểu 30 phút tại cơ sở tiêm chủng và khi về nhà. Nếu phát hiện các triệu chứng bất thường như nôn trớ, thở nhanh/ngắt quãng, thở khò khè, da mẩn đỏ, sốt… cần báo ngay cho nhân viên y tế gần nhất.
+Bên cạnh đó, trẻ em cần tiếp tục được theo dõi tình trạng sức khỏe tại nhà ít nhất 48 giờ (2 ngày) tiếp theo sau khi tiêm, đặc biệt theo dõi vào ban đêm. Người theo dõi phản ứng sau tiêm cho trẻ em phải là người lớn có đầy đủ kiến thức để có thể phát hiện sớm và xử trí kịp thời khi có tình huống khẩn cấp. Các tiêu chí cần theo dõi bao gồm:
+Nhiệt độ cơ thể đo bằng nhiệt kế: Hãy đảm bảo rằng nhiệt kế hoạt động tốt. Nếu nghi ngờ kết quả không chính xác hãy thử bằng công cụ đo nhiệt độ khác hoặc đối chiếu với nhiệt độ đo được của những người xung quanh.
+Nhịp thở: Đối với trẻ em, xác định thở nhanh qua tần số thở tính theo lứa tuổi:
+Dưới 2 tháng: >60 lần/phút
+Từ 2-12 tháng: >50 lần/phút
+Từ 1-5 tuổi: >40 lần/phút
+Các hoạt động: ăn, chơi, ngủ, tiểu tiện, đại tiện…
+Da toàn thân và da tại vùng tiêm: tím tái, sưng, mẩn đỏ, phát ban, mẩn ngứa…
+Nếu có bất kỳ lo lắng nào, cha mẹ nên đưa bé đến các cơ sở y tế để được khám và xử trí. Nhiều triệu chứng có thể do bệnh lý trùng hợp với thời điểm tiêm chủng nên cha mẹ không nên chủ quan.
+6. Các mũi tiêm cho trẻ từ 1 tuổi trở lên bố mẹ cần biết thêm
+Bên cạnh tuân thủ lịch tiêm chủng cho bé dưới 1 tuổi được WHO khuyến cáo, tất cả trẻ em cần được tiêm chủng nhiều mũi tiêm quan trọng ở nhiều mốc thời gian vàng để phòng nhiều bệnh truyền nhiễm nguy hiểm, bảo vệ sức khỏe, tính mạng và tương lai.
+Dưới đây là các mũi tiêm cho trẻ từ 12 – 24 tháng tuổi mà Ba Mẹ cần biết thêm:
+Vắc xin
+Phòng bệnh
+15 tháng
+16-18 tháng
+24 tháng
+Varivax (Mỹ)
+Thủy đậu
+☑️
+Varicella (Hàn Quốc)
+☑️
+Infanrix Hexa (Bỉ)/ Hexaxim (Pháp) (vắc xin 6 trong 1)
+Ho gà, bạch hầu, uốn ván, bại liệt, viêm gan B, Hib
+☑️
+Pentaxim (Pháp) (vắc xin 5 trong 1)
+Ho gà, bạch hầu, uốn ván, bại liệt, Hib
+☑️
+Avaxim (Pháp)
+Viêm gan A
+☑️
+Vaxigrip Tetra (Pháp)/ Influvac Tetra (Hà Lan)/ GCFLU Quadrivalent (Hàn Quốc)
+Cúm mùa
+☑️
+Twinrix (Bỉ)
+Viêm gan A, B
+☑️
+Imojev (Thái Lan)
+Viêm não Nhật Bản
+☑️
+Jevax (Việt Nam)
+Viêm não Nhật Bản
+☑️
+Typhim VI (Pháp)/Typhoid VI (Việt Nam)
+Thương hàn
+☑️
+mORCVAX (Việt Nam)
+Tả
+☑️
+Danh mục các vắc xin quan trọng cho trẻ từ 2 – 5 tuổi không được bỏ lỡ:
+Giai đoạn từ 2 đến 5 tuổi: Vắc xin Vaxigrip Tetra (Pháp)/ Influvac Tetra (Hà Lan)/ GCFLU Quadrivalent (Hàn Quốc) phòng bệnh cúm (Tiêm nhắc lại hàng năm).
+Giai đoạn từ 4 tuổi:
+Vắc xin 3 trong 1 MMR-II (Mỹ)/ Priorix (Bỉ) phòng bệnh Sởi – Quai bị – Rubella (Tiêm mũi nhắc khi 4-6 tuổi).
+Vắc xin Tetraxim (phòng bạch hầu – ho gà – uốn ván – bại liệt) hoặc vắc xin Adacel/Boostrix (phòng ho gà – bạch hầu – uốn ván): tiêm 1 mũi khi trẻ từ 4 tuổi trở lên, và nhắc lại mỗi 10 năm.
+Vắc xin Jevax (Việt Nam) phòng viêm não Nhật Bản B (tiêm mũi nhắc khi trẻ 5 tuổi).
+Vắc xin Typhim Vi (Pháp)/ Typhoid Vi (Việt Nam) phòng bệnh Thương hàn (tiêm nhắc mỗi 3 năm)
+Vắc xin Morcvax (Việt Nam) phòng bệnh tả (Uống nhắc 2 năm hoặc trước khi có dịch tả)
+Xem thêm chi tiết ở: Lịch tiêm chủng cho trẻ từ 1 đến 10 tuổi chi tiết theo Bộ Y tế
+7. Trẻ non tháng có cần tiêm chủng sơ sinh không?
+RẤT CẦN! Vắc xin rất cần thiết và quan trọng với tất cả trẻ em, kể cả trẻ sơ sinh. Ba Mẹ cần cho trẻ sinh non tiêm chủng khi bé được 2 tháng tuổi giống như những trẻ sinh đủ tháng khác vì con có nguy cơ bị nhiều mầm bệnh tấn công và để lại nhiều biến chứng nguy hiểm.
+Trẻ sinh non dù có một số cột mốc khác có thể chậm phát triển nhưng việc tiêm chủng cho bé cần được diễn ra đúng thời điểm. Nếu trì hoãn việc củng cố hệ miễn dịch của trẻ, trẻ có thể gặp các vấn đề về sức khỏe nghiêm trọng.
+Theo khuyến cáo, trẻ em nên được lên lịch tiêm chủng theo độ tuổi được tính từ ngày sinh. Trẻ sinh non có khả năng đáp ứng tốt với vắc xin để sản xuất kháng thể để phòng ngừa các bệnh nguy hiểm mà bé đã được tiêm vắc xin. Bên cạnh đó, tiêm phòng cho trẻ sinh non đảm bảo an toàn nên các bậc phụ huynh không cần phải lo lắng.
+Trẻ sinh non rất cần tiêm vắc xin như trẻ sinh đủ tháng.
+8. Không tiêm hoặc tiêm vắc xin trễ lịch cho trẻ dưới 1 tuổi có sao không?
+Vắc xin là một trong những thành tựu y khoa quan trọng nhất, giúp ngăn ngừa nhiều căn bệnh có thể ảnh hưởng đến trẻ em. Nguyên nhân trẻ chưa được tiêm chủng đầy đủ là:
+Các phụ huynh không nắm được trẻ em sau khi sinh cần được tiêm chủng những vắc xin phòng bệnh gì và lịch tiêm chủng như thế nào, đặc biệt là trẻ dưới 1 tuổi.
+Tâm lý chờ đợi/trì hoãn hay thậm chí “anti vắc xin” của người mẹ khiến con mất cơ hội phòng bệnh như những đứa trẻ bình thường khác.
+Không đưa con đi tiêm chủng vì nhiều lý do khác như sợ phản ứng sau tiêm chủng cho trẻ, sợ trẻ ốm mà không đưa đi tiêm (mặc dù trẻ không thuộc diện hoãn tiêm), trẻ không có miễn dịch dẫn đến nguy cơ nhiễm bệnh và khi cha mẹ không cho trẻ tiêm bù lại ngay có thể khiến trẻ bị trì hoãn tiêm qua nhiều tháng, đây là khoảng trống thời gian trẻ dễ mắc nhiều bệnh nguy hiểm. Do vậy, trẻ nhất định phải được tiêm chủng đúng lịch, đủ mũi.
+Nên cố gắng bảo đảm khoảng cách giữa các lần tiêm/uống vắc xin theo đúng lịch hẹn của bác sĩ để đảm bảo hiệu quả tốt nhất. Nếu trẻ tiêm/uống vắc xin trễ so với lịch thì có thể bị mắc bệnh do vắc xin chưa tạo đủ kháng thể bảo vệ.
+Tuy nhiên, việc tiêm/uống trễ so với lịch tiêm sẽ không làm giảm nồng độ kháng thể sau khi hoàn thành các mũi tiêm mặc dù hiệu lực bảo vệ có thể không đạt được cho đến khi đủ số liều theo quy định. Ngoại trừ vắc xin thương hàn uống, bất kỳ sự gián đoạn lịch tiêm/uống vắc xin nào đều không đòi hỏi tiêm/uống lại từ đầu hoặc bổ sung một liều tiêm/uống khác.
+Xem thêm bài viết: Lịch tiêm chủng cho bé theo từng tháng tuổi đầy đủ và mới nhất
+9. Tiêm vắc xin cho trẻ dưới 1 tuổi ở đâu an toàn và uy tín?
+Hệ thống Trung tâm tiêm chủng cho Trẻ em và Người lớn VNVC tự hào là địa chỉ tiêm chủng uy tín, hiện đại, chất lượng cao, đã và đang bảo vệ sức khỏe cho hàng chục triệu trẻ em trước hàng chục bệnh truyền nhiễm nguy hiểm. Với hơn 100 Trung tâm tiêm chủng trải dài khắp đất nước, VNVC mang đến cho người dân, đặc biệt trẻ em đầy đủ vắc xin, kể cả các loại thường xuyên khan hiếm với giá thành hợp lý như vắc xin 6 trong 1, vắc xin phế cầu khuẩn, vắc xin Rotavirus, vắc xin cúm mùa thế hệ mới nhất,…
+Bên cạnh đó, VNVC còn áp dụng linh hoạt dịch vụ mua đặt giữ, mua trước vắc xin theo yêu cầu, Gói vắc xin đa dạng theo nhiều lứa tuổi như: Gói vắc xin cho trẻ em, Gói vắc xin cho trẻ tiền học đường, Gói vắc xin cho trẻ vị thành niên và thanh niên, Gói vắc xin cho người trưởng thành, Gói vắc xin cho phụ nữ chuẩn bị mang thai và mang thai.
+Các loại vắc xin tại VNVC được nhập khẩu từ nước ngoài của các hãng sản xuất uy tín, nổi tiếng trên thế giới và trong nước, đã được kiểm chứng về độ hiệu quả và tính an toàn. Toàn bộ vắc xin trong hệ thống được bảo quản nghiêm ngặt trong hệ thống kho lạnh đạt chuẩn GSP theo khuyến cáo của Tổ chức Y tế Thế giới (WHO).
+Để đăng ký dịch vụ tiêm trọn gói tại Hệ thống Trung tâm tiêm chủng VNVC, bạn có thể cung cấp thông tin tại đây hoặc gọi tới hotline 028 7102 6595, nhắn tin cho Fanpage VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn hoặc liên hệ trực tiếp Hệ thống các trung tâm tiêm chủng VNVC.
+Đừng bỏ lỡ lịch tiêm chủng cho bé dưới 1 tuổi để bé có cơ hội phòng bệnh những năm tháng đầu đời, chủ động tiêm vắc xin cho trẻ 0-12 tháng tuổi là chìa khóa hiệu quả và tiết kiệm nhất để trẻ sống khỏe, hạnh phúc và thành công trong tương lai.

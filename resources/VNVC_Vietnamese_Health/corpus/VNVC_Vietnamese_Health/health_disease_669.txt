@@ -1,0 +1,92 @@
+# doc_id = health_disease_669
+# url = https://vnvc.vn/viem-duong-ho-hap-cap-nang-do-virus-nguyen-nhan-trieu-chung-dieu-tri-phong-ngua/
+# date = 31/07/2020
+Viêm đường hô hấp cấp nặng do virus: Nguyên nhân, triệu chứng, điều trị và cách phòng ngừa
+Bệnh viêm đường hô hấp cấp nặng do virus có thể dẫn đến nhiều biến chứng nguy hiểm, thậm chí có thể làm người bệnh tử vong nếu không được điều trị kịp thời. Căn nguyên của bệnh là do nhiều loại virus gây nên, nhưng trong số đó virus SARS-CoV-2 đang là mối hiểm họa đe dọa sức khỏe toàn cầu.
+Mục lụcBệnh viêm đường hô hấp cấp nặng do virus là gì?Nguyên nhân gây bệnh viêm đường hô hấp cấp nặng do virusĐường lây truyền bệnh viêm đường hô hấp cấp do virusCác yếu tố làm tăng nguy cơ mắc bệnh viêm đường hô hấp cấp do virusDấu hiệu, triệu chứng bệnh viêm đường hô hấp cấp do virusThời gian ủ bệnh và các giai đoạn phát triển của bệnhChẩn đoán, xét nghiệm tình trạng bệnh viêm đường hô hấp cấp nặng do virusNhững biến chứng bệnh viêm đường hô hấp cấp nặng do virusPhương pháp điều trị bệnh viêm đường hô hấp cấp nặng do virusCác phương pháp điều trị triệu chứng bệnhĐiều trị bội nhiễm, hỗ trợ kháng virusCác biện pháp phòng ngừa bệnh viêm đường hô hấp cấp nặng do virusBệnh viêm đường hô hấp cấp nặng do virus là gì?
+Bệnh viêm đường hô hấp cấp nặng do virus là căn bệnh nhiễm trùng ảnh hưởng nghiêm trọng đến khả năng hô hấp của người bệnh, nhất là những người có hệ miễn dịch kém. Bệnh thường ảnh hưởng đến đường hô hấp trên (mũi, xoang, hầu họng, thanh quản), và đường hô hấp dưới (khí quản, phế quản, tiểu phế quản, các phế nang). Bệnh còn có thể gây nên những tổn thương nặng ở phổi làm người bệnh suy hô hấp nhanh, đồng thời làm nhiễm độc các cơ quan nội tạng do độc tố của virus.
+Bệnh viêm đường hô hấp cấp do virus ảnh hưởng nghiêm trọng đến sức khỏe của người bệnh
+Hiện nay, virus SARS-CoV-2 là mối hiểm họa đe dọa sức khỏe của toàn thế giới, khi là nguyên nhân gây bệnh viêm đường hô hấp cấp Covid-19. Tính đến 6 giờ ngày 31/7/2020, số ca bệnh Covid-19 trên toàn thế giới đã chính thức vượt mốc 17 triệu người. Tổng số ca tử vong do dịch bệnh viêm đường hô hấp cấp Covid-19 là 675.467 ca. Đứng đầu thế giới về số ca nhiễm và tử vong do Covid-19 tính đến ngày 31/7 là Mỹ, với hơn 4,6 triệu ca nhiễm và 155.015 người đã tử vong. Tính đến ngày 31/7/2020, Việt Nam ghi nhận 546 ca mắc Covid-19, 1 ca tử vong, 373 ca bệnh đã được chữa khỏi.
+Nguyên nhân gây bệnh viêm đường hô hấp cấp nặng do virus
+Ngoài virus SARS-CoV-2, bệnh viêm đường hô hấp cấp còn có thể do nhiều loại virus khác gây nên. Một số chủng virus gây viêm đường hô hấp có thể kể đến như:
+Virus SARS-CoV: là một chủng của coronavirus, nguyên nhân gây ra bệnh SARS. Trong khoảng thời gian từ tháng 11 năm 2002 đến tháng 7 năm 2003, bệnh SARS đã bùng nổ tại Hồng Kông và nhanh chóng trở thành đại dịch của toàn thế giới với hơn 8.422 ca mắc và 916 người chết (theo thống kê của Tổ chức Y tế Thế giới WHO).
+Virus MERS-CoV: gây Hội chứng Hô hấp Trung đông (Middle East Respiratory Syndrome, MERS) là một căn bệnh hô hấp cấp tính nghiêm trọng với các triệu chứng sốt, ho và khó thở. Những triệu chứng khác bao gồm tiêu chảy, mắc ói và ói mửa. Những biến chứng nghiêm trọng hơn như viêm phổi và suy thận có thể xuất hiện. Từ /2012 đến cuối tháng 11/2019, cả thế giới ghi nhận 2494 ca mắc bệnh, trong đó có 858 trường hợp tử vong (tỷ lệ 34,4%)
+Rhinovirus: gây viêm phổi ở trẻ em do cảm lạnh.
+Virus hợp bào hô hấp RSV: gây viêm phổi, viêm tiểu phế quản. Đối tượng có nguy cơ cao mắc virus RSV là trẻ em, người già bị cảm lạnh hoặc suy giảm miễn dịch.
+Adenovirus: là một trong những nguyên nhân gây bệnh viêm đường hô hấp ở trẻ sơ sinh và trẻ nhỏ. Đặc biệt, Adenovirus còn có thể gây bệnh ở nhiều cơ quan khác như viêm kết mạc, viêm dạ dày ruột và viêm phổi ở trẻ em với tỷ lệ tử vong từ 8% đến 10%.
+Đường lây truyền bệnh viêm đường hô hấp cấp do virus
+Tùy thuộc vào những chủng loại virus gây bệnh viêm đường hô hấp cấp khác nhau, mà có những phương thức lây truyền khác nhau. Nhưng chủ yếu, bệnh lây truyền qua hai con đường sau:
+Lây truyền virus khi người bệnh ho, hắt hơi có những giọt nước bọt bắn ra chứa virus. Những ai tiếp xúc gần với bệnh nhân đều có nguy cơ nhiễm bệnh theo hình thức lây truyền này.
+Lây truyền khi người lành tiếp xúc với dịch tiết từ đường hô hấp có chứa virus bắn ra, bám vào các bề mặt như giường, bàn ghế, máy móc hoặc qua dụng cụ chăm sóc đường hô hấp cho người bệnh như mặt nạ khí dung, dây nối oxy, dây máy thở.
+Virus bệnh viêm đường hô hấp cấp lây truyền khi người bệnh ho hoặc hắt hơi
+Các yếu tố làm tăng nguy cơ mắc bệnh viêm đường hô hấp cấp do virus
+Bất cứ ai cũng có thể nhiễm bệnh viêm đường hô hấp cấp do virus. Tuy nhiên, một số nhóm người có nguy cơ nhiễm bệnh cao hơn những đối tượng khác, như:
+Trẻ nhỏ và người cao tuổi có nguy cơ mắc bệnh cao bởi hệ miễn dịch yếu dễ bị virus tấn công.
+Những người mắc bệnh nội khoa như tim bẩm sinh hoặc bệnh phổi.
+Những người mắc bệnh hen suyễn, suy tim, sung huyết hoặc bệnh phổi tắc nghẽn mãn tính.
+Những người suy giảm miễn dịch do bệnh (như HIV/AIDS) hay những người ghép tạng, bệnh bạch cầu.
+Trong gia đình có người bệnh viêm đường hô hấp cấp do virus.
+Làm việc trong môi trường đông người như trường học, bệnh viện, nhà máy xí nghiệp.
+Dấu hiệu, triệu chứng bệnh viêm đường hô hấp cấp do virus
+Những dấu hiệu của bệnh viêm đường hô hấp cấp thường khác nhau, tùy thuộc vào việc nhiễm đường hô hấp trên hay dưới. Một số triệu chứng bệnh phổ biến của bệnh như: tắc nghẽn ở các xoang mũi hoặc ở phổi, chảy nước mũi, ho, đau cổ họng, đau nhức toàn thân, mệt mỏi, sốt cao trên 39 độ C và ớn lạnh, chóng mặt, khó thở.
+Ở người bệnh viêm đường hô hấp cấp do virus SARS-CoV-2, virus chủ yếu ảnh hưởng đến đường hô hấp dưới và dẫn đến một loạt những triệu chứng có thể dễ nhầm lẫn với bệnh cảm cúm thông thường như sốt, ho, khó thở, đau cơ, mệt mỏi. Nếu không phát hiện và sớm điều trị, bệnh có thể tiến triển nặng hơn gây viêm phổi, hội chứng suy hô hấp cấp tính, nhiễm trùng huyết, sốc nhiễm trùng. Trong trường hợp xấu nhất, bệnh có thể dẫn đến tử vong.
+Triệu chứng viêm đường hô hấp cấp do virus SARS-CoV-2 dễ nhầm lẫn với bệnh cảm cúm thông thường
+Theo ThS.BS Bùi Ngọc An Pha, Cố vấn chuyên môn Hệ thống trung tâm tiêm chủng VNVC cho biết: “Các bệnh lý hô hấp có triệu chứng gần như nhau, như triệu chứng của bệnh cảnh viêm phổi là giống nhau nhưng nguyên nhân gây viêm phổi thì khác nhau. Với bệnh cảnh sốt, ho, khó thở để xác định là do virus SARS-CoV-2 hay do vi khuẩn, virus gây bệnh hô hấp thông thường thì cần căn cứ vào dịch tễ học. Tức xác định đối tượng có đi đến vùng dịch hay không, có tiếp xúc với người được chẩn đoán bị nhiễm Covid-19 hay không, có tiếp cận với người đi từ vùng dịch về hay không?”.
+Tóm lại, yếu tố quan trọng nhất để chẩn đoán bệnh Covid-19 là dịch tễ học chứ không phải triệu chứng vì triệu chứng ban đầu của Covid-19 và các bệnh lý hô hấp là gần như nhau.
+Thời gian ủ bệnh và các giai đoạn phát triển của bệnh
+Sau dịch SARS, Tổ chức Y tế Thế giới (WHO) đã đưa ra nhận định, căn bệnh này tấn công cơ thể người theo ba giai đoạn.
+Giai đoạn 1: Virus xâm nhập vào tế bào, hình thành ổ virus
+Giai đoạn 2: Virus gây rối loạn hệ miễn dịch
+Giai đoạn 3: Virus gây tổn thương phổi
+Theo giáo sư Matthew B.Frieman, chuyên gia về virus của ĐH Maryland (Mỹ), bệnh viêm đường hô hấp cấp do Covid-19 cũng có những giai đoạn phát triển như SARS. Virus đi vào phổi bằng cách vượt qua hàng rào bảo vệ của hệ hô hấp với lớp dịch nhầy (mucus) và sự chuyển động của hệ thống lông mao (cilia). Mất đi lớp bảo vệ của “đội quân cilia”, đường hô hấp sẽ dễ dàng bị chất bẩn, dịch lỏng và virus tràn ngập. Nhiều bệnh nhân Covid-19 bị viêm hai lá phổi và đi kèm triệu chứng khó thở.
+Virus đi vào phổi người bệnh bằng cách vượt qua hàng rào bảo vệ của hệ hô hấp
+Ở giai đoạn hai của bệnh, cơ thể phản ứng trước sự xâm nhập của virus bằng cách tăng cường tế bào miễn dịch đến phổi để khắc phục những tổn thương. Sẽ không có gì đáng nói nếu các tế bào miễn dịch hoạt động hiệu quả và kiểm soát được tình trạng viêm chỉ giới hạn ở bộ phận nhiễm virus. Nhưng đôi khi, tế bào miễn dịch bị kích thích quá mức, khiến chúng tiêu diệt tất cả “chướng ngại vật” trên đường đi, không phân biệt virus hay các mô khỏe mạnh. Giáo sư Matthew B.Frieman giải thích: “Tình trạng viêm của bệnh nhân có thể càng thêm xấu đi bởi chính hệ miễn dịch của họ”.
+Trong giai đoạn 3, tổn thương lan rộng và có thể dẫn đến suy hô hấp hay thậm chí là tử vong. Bệnh nhân sống sót sẽ phải chịu những tổn thương vĩnh viễn ở phổi. Đó là đặc điểm của bệnh SARS và Covid-19.
+Không phải người bệnh nào cũng đều trải qua 3 giai đoạn bệnh. Theo thống kê, chỉ có khoảng 25% bệnh nhân SARS bị suy hô hấp; 82% bệnh nhân Covid-19 có triệu chứng nhẹ, số còn lại là những trường hợp nguy kịch.
+Chẩn đoán, xét nghiệm tình trạng bệnh viêm đường hô hấp cấp nặng do virus
+Để chẩn đoán chính xác tình trạng bệnh viêm đường hô hấp cấp nặng do virus, không chỉ dựa vào những biểu hiện lâm sàng và đặc điểm dịch tễ học, mà người dân còn cần thực hiện các phương pháp xét nghiệm tại những cơ sở y tế. Một số phương pháp xét nghiệm bệnh phổ biến hiện nay trên thế giới như:
+PCR: kiểm tra phản ứng chuỗi polymerase giúp phát hiện vật liệu di truyền của virus, có thể áp dụng trong chẩn đoán sớm bệnh.
+Công thức máu: phân tích số lượng bạch cầu và tiểu cầu bình thường hoặc giảm (bạch cầu tăng khi có bội nhiễm vi khuẩn).
+X-quang phổi: hình ảnh viêm phổi kẽ, lúc đầu có thể khu trú, sau lan tỏa. Trong những trường hợp nặng có thể làm mờ cả hai bên phổi.
+Thử nghiệm ELISA và phân tích miễn dịch huỳnh quang IFA: giúp phát hiện kháng thể có trong máu, đánh giá được tình trạng đã bị nhiễm virus.
+Những biến chứng bệnh viêm đường hô hấp cấp nặng do virus
+Các biến chứng của bệnh viêm đường hô hấp cấp do virus thường khiến bệnh nhân nguy kịch và thậm chí có thể dẫn đến tử vong, bao gồm:
+Viêm phổi, viêm não, viêm ruột hoại tử.
+Suy hô hấp khi nồng độ CO2 trong máu quá cao vì phổi không còn hoạt động bình thường.
+Suy hô hấp tiến triển dẫn đến tử vong, đặc biệt là những người có bệnh mãn tính hay suy giảm miễn dịch.
+Phương pháp điều trị bệnh viêm đường hô hấp cấp nặng do virus
+Nguyên tắc chung khi điều trị bệnh viêm đường hô hấp cấp nặng do virus là các bệnh nhân cần ở trong khu cách ly tuyệt đối và đảm bảo được độ thông khí tốt. Nhân viên y tế được trang bị những dụng cụ bảo hộ tối đa như quần áo vô trùng, khẩu trang, găng tay dùng 1 lần, ủng, để hạn chế tối đa tình trạng lây nhiễm chéo trong bệnh viện.
+Hạn chế tối đa tình trạng lây nhiễm chéo trong bệnh viện bằng những dụng cụ bảo hộ cho nhân viên y tế và người bệnh
+Các phương pháp điều trị triệu chứng bệnh
+– Sốt cao: chườm lạnh trên trán kết hợp dùng thuốc hạ nhiệt Paracetamol.
+– Ho: dùng thuốc giảm ho.
+– Khó thở: suy hô hấp hỗ trợ theo phác đồ:
+Suy hô hấp nhẹ: thở Oxy qua mũi, qua mask.
+Suy hô hấp nặng: thông khí nhân tạo không xâm nhập CPAP hoặc BIPAP.
+Methylprednisolon 80mg/ngày tiêm tĩnh mạch trong 5 ngày.
+Nâng cao thể trạng: bằng phương pháp truyền máu, plasma, albumin, gammaglobulin, sinh tố.
+Điều trị bội nhiễm, hỗ trợ kháng virus
+Đối với bệnh thể nhẹ:
+– Điều trị rối loạn chức năng, cân bằng nước điện giải.
+– Điều trị các bệnh nền có sẵn: Tiểu đường, cao huyết áp, tim mạch…
+– Nếu số lượng bạch cầu > 9,3 x 109/lít hoặc tỷ lệ bạch cầu đa nhân > 80% cần cho bệnh nhân sử dụng kháng sinh:
+Ceftazidime
+Zithromax
+(Có thể thay Ceftazidime bằng Ceftriaxone hoặc Tequine).
+Đối với bệnh thể nặng:
+Tùy vào từng trường hợp bệnh viêm đường hô hấp cấp nặng do virus mà bác sĩ điều trị bằng những loại thuốc thích hợp. Một số thuốc có thể được sử dụng trong công tác điều trị bệnh như: Ceftazidime, Tequine, Zithromax.
+Các biện pháp phòng ngừa bệnh viêm đường hô hấp cấp nặng do virus
+Để chủ động phòng ngừa bệnh viêm đường hô hấp cấp nặng do virus, Bộ Y tế khuyến cáo người dân nên thực hiện tốt các biện pháp sau:
+Hạn chế tiếp xúc với người bệnh viêm đường hô hấp cấp. Khi cần thiết cần phải đeo khẩu trang y tế và giữ khoảng cách tối thiểu 2 mét.
+Người có triệu chứng sốt, ho, khó thở không nên đi du lịch hoặc đến những nơi đông người, và cần phải thông báo ngay cho các cơ quan y tế khi xuất hiện triệu chứng.
+Rửa tay thường xuyên với nước rửa tay khô hoặc xà phòng, súc miệng bằng nước muối hoặc nước súc miệng. Tránh đưa tay lên mắt mũi miệng đề phòng bị lây nhiễm bệnh.
+Thường xuyên rửa tay bằng xà phòng hoặc nước rửa tay khô để phòng ngừa bệnh
+Không khạc nhổ bừa bãi, cần che miệng và mũi khi ho hoặc hắt hơi bằng khăn tay hoặc ống tay áo để giảm phát tán dịch tiết đường hô hấp.
+Không du lịch ở vùng có dịch bệnh.
+Tránh tiếp xúc với những động vật nuôi hoặc hoang dã.
+Tăng cường thông thoáng khí nhà ở, thường xuyên lau các bề mặt tiếp xúc của đồ vật trong nhà như tay nắm cửa, bàn, ghế bằng các chất tẩy rửa và dung dịch khử khuẩn.
+Giữ ấm cơ thể, tăng cường sức khỏe bằng việc ăn uống đầy đủ dinh dưỡng, nghỉ ngơi điều độ và luyện tập thể thao thường xuyên.
+Bệnh viêm đường hô hấp cấp nặng do virus là một bệnh có diễn tiến phức tạp và nguy hiểm cho sức khỏe người bệnh. Chính vì vậy, người dân cần nâng cao ý thức phòng ngừa bệnh bằng cách áp dụng những biện pháp phòng tránh, và nên thông báo ngay cho các đơn vị y tế khi có những triệu chứng bệnh để được chẩn đoán và điều trị kịp thời.
+Mời bạn xem thêm bài viết:
+Covid-19 và trẻ em – Cách bảo vệ trẻ tốt nhất khỏi Sars-Cov-2
+Cách phân biệt cảm lạnh, cảm cúm và viêm phổi do virus Corona

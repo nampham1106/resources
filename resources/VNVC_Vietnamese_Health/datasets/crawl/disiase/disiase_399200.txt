@@ -1,0 +1,141 @@
+# url = https://vnvc.vn/cach-dieu-tri-sot-xuat-huyet/
+# date = 19/12/2023
+Cách điều trị sốt xuất huyết theo hướng dẫn của CDC
+Sốt xuất huyết có thể gây ra các biến chứng nguy hiểm như chảy máu nội tạng, suy đa cơ quan, sốc, xuất huyết não,… nếu không được điều trị kịp thời và hiệu quả. Các phương pháp điều trị sốt xuất huyết hiện nay đều tập trung vào việc hỗ trợ điều trị các triệu chứng, chưa có phương pháp điều trị đặc hiệu căn bệnh này.
+
+Mục lụcSốt xuất huyết là bệnh gì?Phân độ của bệnh sốt xuất huyết Dengue theo WHOSốt xuất huyết DengueSốt xuất huyết Dengue có dấu hiệu cảnh báoSốt xuất huyết Dengue nặng (sốc sốt xuất huyết)Điều trị sốt xuất huyết DengueTiêu chuẩn nhập viện điều trị sốt xuất huyếtCách điều trị sốt xuất huyết Dengue có dấu hiệu cảnh báoĐiều trị sốt xuất huyết Dengue nặngĐiều trị sốc sốt xuất huyết có xuất huyết đi kèmĐiều trị toan chuyển hóa, hạ đường huyết, hạ calci huyết, hạ natri máuĐiều trị sốt xuất huyết Dengue thể nãoDấu hiệu khỏi bệnh sốt xuất huyết và được xuất việnSốt xuất huyết là bệnh gì?
+Sốt xuất huyết là bệnh lây truyền cấp tính do virus Dengue gây ra. Virus lây truyền từ người sang người thông qua vết đốt của muỗi vằn Aedes Aegypti mang bệnh. Các triệu chứng của bệnh sốt xuất huyết bao gồm sốt, đau đầu, đau cơ, đau khớp, thoát huyết tương, xuất huyết trên da, nguy cơ dẫn đến sốc giảm thể tích tuần hoàn, rối loạn đông máu, suy tạng,… dẫn đến tử vong.
+Tại Việt Nam, bệnh sốt xuất huyết lưu hành quanh năm, thường có xu hướng gia tăng vào mùa mưa và gây bệnh cho mọi đối tượng. Bệnh sốt xuất huyết có biểu hiện đa dạng, diễn biến từ nhẹ đến nặng, thường khởi phát nhanh chóng, đột ngột và trải qua 3 giai đoạn rõ ràng: sốt, nguy hiểm và hồi phục. Sốt xuất huyết nếu được phát hiện ở giai đoạn sớm kết hợp với các triệu chứng lâm sàng sẽ giúp việc chẩn đoán và điều trị bệnh được hiệu quả hơn.
+Bệnh nhân sốt xuất huyết nếu không được chẩn đoán và xử trí kịp thời, nguy cơ cao sẽ phải đối mặt với các biến chứng nguy hiểm đến tính mạng, dẫn đến tử vong
+Phân độ của bệnh sốt xuất huyết Dengue theo WHO
+Phân loại sốt xuất huyết theo hướng dẫn của Tổ chức Y tế thế giới (WHO) ban hành năm 2009 cho biết, sốt xuất huyết được phân làm 3 loại là [1] sốt xuất huyết có dấu hiệu cảnh báo, [2] sốt xuất huyết không có dấu hiệu cảnh báo và [3] sốt xuất huyết nặng (1). Chẩn đoán sốt xuất huyết cần có triệu chứng sốt và ít nhất 2 dấu hiệu lâm sàng hoặc bất kỳ dấu hiệu cảnh báo nào. Bằng chứng dịch tễ học hoặc trong phòng thí nghiệm là yếu tố cần thiết để chẩn đoán.
+Việc phân loại và theo dõi chặt chẽ sự phát triển của bệnh sốt xuất huyết Dengue là rất quan trọng để đảm bảo điều trị hiệu quả và giảm thiểu nguy cơ tử vong.
+Sốt xuất huyết Dengue
+Phân độ sốt xuất huyết đầu tiên thường không có những triệu chứng cảnh báo rõ rệt, rất khó để chẩn đoán trên lâm sàng. Nếu có, những dấu hiệu cảnh báo này cũng tương đối khó nhận biết, các triệu chứng của phân độ sốt xuất huyết Dengue thường là sốt đi kèm với 2 trong số những triệu chứng sau đây:
+
+Buồn nôn, nôn nửa;
+Phát ban;
+Cơ thể mệt mỏi và đau nhức các cơ;
+Dương tính với nghiệm pháp dây thắt (Tourniquet Test Dengue (2);
+Một vài các triệu chứng cảnh báo khác.
+
+Sốt xuất huyết Dengue có dấu hiệu cảnh báo
+Phân độ này xuất hiện các triệu chứng cảnh báo, có nhiều nguy cơ gây ra các biến chứng nguy hiểm đến tính mạng như:
+
+Đau bụng và nhạy cảm nhiều với những cơn đau;
+Nôn mửa dai dẳng và liên tục, khoảng >3 lần/giờ hoặc 4 lần/6 giờ;
+Tích tụ dịch trên lâm sàng;
+Chảy máu niêm mạc;
+Tiểu ít;
+Tinh thần bất ổn, bồn chồn, thất thần, lừ đừ, chậm chạp, vật vã;
+Gan to > 2cm;
+Xét nghiệm hematocrit (HCT) – tỷ lệ phần trăm thể tích của các tế bào hồng cầu trong máu tăng cao và sự tụt giảm nhanh chóng của số lượng tiểu cầu trong máu (≤ 100.000/mm3) xảy ra đồng thời.
+
+Xem thêm: Sốt xuất huyết có dấu hiệu cảnh báo
+Sốt xuất huyết Dengue nặng (sốc sốt xuất huyết)
+Phân độ sốt xuất huyết nặng được định nghĩa khi có bất kỳ triệu chứng nào sau đây: [1] rò rỉ huyết tương nghiêm trọng dẫn đến sốc hoặc suy hô hấp, [2] xuất huyết nặng theo đánh giá của các bác sĩ lâm sàng hoặc [3] suy cơ quan:
+
+Tổn thương gan, các chỉ số nồng độ men gan tăng cao (AST, ALT > 1.000);
+Tổn thương thần kinh trung ương, suy giảm ý thức;
+Tổn thương tim và các cơ quan khác.
+
+Điều trị sốt xuất huyết Dengue
+Hiện nay, sốt xuất huyết vẫn chưa có bất kỳ phương pháp hay loại thuốc điều trị đặc hiệu nào, các phương pháp điều trị sốt xuất huyết Dengue hiện nay đều là quá trình hỗ trợ điều trị các triệu chứng, nhằm giảm nguy cơ biến chứng và tử vong. Với phân độ sốt xuất huyết Dengue, ngoài sự theo dõi và chăm sóc y tế của các bác sĩ, bệnh nhân sốt xuất huyết có thể tự điều trị sốt xuất huyết Dengue tại nhà bằng cách:
+
+Nghỉ ngơi: Bệnh nhân cần nghỉ ngơi đầy đủ để cơ thể có đủ năng lượng tập trung vào việc chống lại sự gây hại của virus Dengue. Đồng thời, việc nghỉ ngơi giúp giảm triệu chứng mệt mỏi và đau khớp.
+Uống nước đầy đủ: Bệnh nhân cần uống nhiều nước để bù đắp và ngăn ngừa mất nước. Nên uống nước lọc, nước ép hoa quả, nước dừa hoặc nước muối nhạt để cung cấp đủ Electrolytes (3) cho cơ thể. Hạn chế uống các đồ uống có chứa cồn, caffeine hoặc thức uống có đường.
+Bổ sung dinh dưỡng: Ăn các loại thực phẩm giàu dinh dưỡng như rau xanh và trái cây chín, chú ý đến việc ăn uống đầy đủ để cải thiện sức đề kháng và tăng cường khả năng phục hồi.
+Hạ sốt: Sốt cao là triệu chứng điển hình và đặc trưng của sốt xuất huyết, có thể sử dụng thuốc hạ sốt như Paracetamol để hạ sốt và giảm đau đầu. Không sử dụng Aspirin hoặc thuốc chống viêm không Steroid (NSAID) như Ibuprofen, vì có thể làm tăng nguy cơ chảy máu. Ngoài ra, có thể đắp khăn lạnh lên trán hoặc lau cơ thể bằng nước mát để giúp giảm sốt.
+Giảm đau khớp: Sử dụng các khăn ấm hoặc đá nhỏ gọn để giảm đau và sưng viêm ở các khớp. Nên áp dụng thay đổi giữa nước ấm và lạnh để giảm triệu chứng.
+Kiểm soát nguy cơ chảy máu: Để giảm nguy cơ xuất huyết, tránh các hoạt động nguy hiểm có thể gây thương tích. Cần chú ý tăng cường vệ sinh cá nhân và môi trường sống để giảm nguy cơ bị nước bẩn làm nguy hiểm đến vết thương.
+Theo dõi triệu chứng và tình trạng sức khỏe: Theo dõi chặt chẽ các triệu chứng để đánh giá liệu việc điều trị tại nhà có hiệu quả hay không. Nếu không có sự cải thiện hoặc triệu chứng nặng hơn, hãy đến bệnh viện ngay lập tức.
+
+Điều trị sốt xuất huyết Dengue nên được thực hiện dưới sự giám sát của các chuyên gia y tế và tuân thủ theo các khuyến cáo từ họ. Nếu triệu chứng không giảm, xuất hiện chảy máu hoặc sốc, bệnh nhân cần đến bệnh viện hoặc cơ sở y tế gần nhất để được chăm sóc và điều trị kịp thời
+Tiêu chuẩn nhập viện điều trị sốt xuất huyết
+Tiêu chuẩn nhập viện điều trị bệnh sốt xuất huyết dựa trên các triệu chứng lâm sàng và kết quả xét nghiệm máu của bệnh nhân nhằm đưa ra quyết định phù hợp trong việc điều trị. Dưới đây là một số tiêu chuẩn thường được sử dụng để quyết định nhập viện điều trị cho bệnh nhân sốt xuất huyết:
+Bệnh nhân có triệu chứng sốt, kèm theo:
+
+Sưng mề đay và dị ứng
+Xuất huyết (dưới da, niêm mạc, chảy máu cam, chảy máu dạ dày, …).
+Đau bụng hoặc mạch có biến động nhanh, hạ huyết áp, tăng huyết áp đột ngột hoặc mất tập trung.
+
+Kết quả xét nghiệm máu và dịch sinh học cho thấy:
+
+Tiểu cầu giảm đáng kể (< 100.000/μl).
+Các chỉ số huyết học khác thay đổi (Tăng hematocrit, tăng chỉ số hồng cầu trong máu do rò rỉ mạch máu vào cơ quan nội tạng).
+Chức năng gan hoặc thận có dấu hiệu suy giảm.
+Kết quả xét nghiệm serology (IgM, IgG, NS1) hoặc PCR xác nhận dương tính với virus Dengue.
+
+Bệnh nhân có các yếu tố nguy cơ cao:
+
+Phụ nữ mang thai.
+Trẻ nhũ nhi hoặc dư cân.
+Người đang hoặc có tiền sử mắc bệnh mãn tính như tiểu đường, bệnh tim mạch, suy giảm miễn dịch, các bệnh lý về thận, tim, gan, COPD kém kiểm soát, hen, thiếu máu tan máu…
+Bệnh nhân chưa đủ điều kiện để theo dõi tại nhà, không có người chăm sóc hoặc không thể tiếp cận bệnh viện khi cần thiết.
+
+Quyết định nhập viện điều trị sốt xuất huyết phụ thuộc vào tình trạng sức khỏe của bệnh nhân và sự đánh giá của bác sĩ
+Cách điều trị sốt xuất huyết Dengue có dấu hiệu cảnh báo
+Khi sốt xuất huyết có các dấu hiệu cảnh báo (tinh thần lừ đừ, nôn mửa nhiều và liên tục, đau bụng dữ dội, không uống được nước, chỉ số HCT tăng cao,…), người bệnh cần được đưa đến bác sĩ để được chẩn đoán và điều trị kịp thời. Tại các cơ sở y tế, các bác sĩ có thể chỉ định phương pháp xử trí truyền dịch, thời gian truyền dịch thường dao động từ 24 – 48 giờ.
+Trong phân độ sốt xuất huyết này, bệnh nhân cần phải được theo dõi sát sao nhằm kịp thời xử trí đối với những trường hợp bệnh lý chuyển biến phức tạp và trở nên nặng nề hơn. Các tiêu chí cần phải được chú ý gồm có:
+
+Theo dõi thường xuyên số lượng và chất lượng nước tiểu bởi vì rối loạn về đường tiêu hoá là một dấu hiệu cảnh báo của sốt xuất huyết Dengue.
+Theo dõi nồng độ tiểu cầu và tiền tiểu cầu hằng ngày để phát hiện các biến chứng dễ xảy ra như xuất huyết dưới da, xuất huyết tiêu hóa, xuất huyết não, bệnh da liễu máu khối, suy tim sớm, yếu thận và hội chứng dị ứng.
+
+Điều trị sốt xuất huyết Dengue nặng
+Trong trường hợp nặng: Nếu người bệnh xuất hiện biến chứng sốt xuất huyết, cần phải nhập viện ngay để được điều trị tích cực hơn như hỗ trợ thở, truyền máu hoặc dùng thuốc để giữ ổn định huyết áp.
+Điều trị sốc sốt xuất huyết có xuất huyết đi kèm
+Điều trị sốc sốt xuất huyết có xuất huyết đi kèm bao gồm các phương pháp như:
+
+Điều trị đau và hạ sốt: Bệnh nhân cần được đưa đi cấp cứu, tiêm thuốc giảm đau và hạ sốt để giảm các triệu chứng đau đớn, khó chịu.
+Điều trị chảy máu: Cơ thể bệnh nhân cần được cân bằng lại hệ thống đông máu bằng cách sử dụng các loại thuốc điều trị và dự phòng chảy máu (Coagulation).
+Cung cấp chất lỏng: Việc cung cấp đủ chất lỏng cho cơ thể rất quan trọng để giảm các triệu chứng sốc, có thể thông qua đường uống hoặc đường truyền tĩnh mạch.
+Truyền máu: Nếu tình trạng xuất huyết nặng, bệnh nhân cần được truyền máu để bổ sung các loại tế bào máu và cân bằng hệ thống máu.
+
+Điều trị toan chuyển hóa, hạ đường huyết, hạ calci huyết, hạ natri máu
+Các phương pháp điều trị cho những vấn đề toan chuyển hóa, hạ đường huyết, hạ calci huyết, hạ natri máu sẽ khác nhau đối với từng trường hợp cụ thể:
+Điều trị toan chuyển hóa
+Phương pháp điều trị này được thực hiện khi bệnh nhân bị rối loạn chuyển hóa và dịch cơ thể, tức cơ thể sản xuất quá nhiều axit hoặc chức năng của thận bị suy giảm, không loại bỏ đủ lượng axit dư thừa, gây ra nhiễm toan máu. Lúc này, cần điều chỉnh cân bằng axit-bazơ của cơ thể. Điều trị phụ thuộc vào nguyên nhân của toan.
+
+Nếu do suy thận, thận không loại bỏ được lượng axit dư thừa, cần điều trị suy thận và điều chỉnh liều thuốc.
+Nếu do cơ thể tiết axit nhiều, cần điều trị các bệnh dẫn đến tăng tiết axit.
+Nếu do thiếu oxy, cần trao đổi khí.
+
+Đối với bệnh nhân sốt xuất huyết Dengue nặng mắc toan chuyển hóa thể nhẹ, bác sĩ sẽ chỉ định uống Natri Bicarbonat 1g có 12mmol Natri Bicarbonat.
+Đối với bệnh nhân sốt xuất huyết Dengue nặng mắc toan chuyển hóa thể nặng, nồng độ pH ở máu thấp (pH <7,2 và/hoặc HCO3- <15), cần phải bù Bicarbonate tĩnh mạch 4,2% 2ml/kg TMC.
+Điều trị hạ đường huyết
+Hạ đường huyết là triệu chứng của giai đoạn sốt xuất huyết nặng. Hạ đường huyết xảy ra khi mức đường huyết của bệnh nhân < 40 mg/dl. Để điều trị hạ đường huyết, các bác sĩ sẽ chỉ định bệnh nhân sốt xuất huyết sử dụng Dextrose 30% 1 – 2 ml/kg TMC.
+Điều trị hạ Calci huyết
+Hạ Calci huyết xảy ra khi mức nồng độ Calci ion hóa của bệnh nhân sốt xuất huyết ở ngưỡng <1 mmol/L. Để điều trị hạ Calci huyết, các bác sĩ sẽ chỉ dụng sử dụng Calci Clorua 10% với liều lượng 0,1 – 0,2 ml/kg hoặc dùng Calci Clorua 10% với liều lượng 0,1 – 0,1 ml/kg (tối đa 2 – 5 ml/liều) để pha loãng trong Dextrose 5% 10 – 20ml TMC trong 5 – 10 phút.
+Điều trị hạ Natri huyết
+Hạ Natri huyết xảy ra theo nhiều giai đoạn khác nhau và mỗi giai đoạn sẽ có những phương pháp điều trị khác nhau như:
+
+Giai đoạn không có triệu chứng, nồng độ Natri ở mức 130-135 mEq/L: bồi hoàn thể tích bằng Lactate Ringer (dung dịch natri lactat) hay Natri Clorid 0,9%.
+Giai đoạn hạ Natri huyết mãn, nhẹ với nồng độ Natri ở trong khoảng 120-130 mEq/L: hạn chế nước nhập < 1 – 2 lít/ngày; kích thích bài tiết muối và nước.
+Giai đoạn Natri huyết cấp, nặng với nồng độ Natri ở ngưỡng < 120 mEq/L kèm rối loạn tri giác: sử dụng Natriclorua 3% với liều lượng 4ml/kg truyền tĩnh mạch trong vòng 30 phút và có thể truyền lặp lại khi cần.
+
+Cần nhập viện ngay lập tức khi bệnh nhân xuất hiện các dấu hiệu cảnh báo của bệnh sốt xuất huyết
+Điều trị sốt xuất huyết Dengue thể não
+Sốt xuất huyết Dengue thể não là biến chứng nghiêm trọng của bệnh sốt xuất huyết, khiến người bệnh co giật, có dấu thần kinh khu trú và rối loạn tri giác. Khi bị sốt xuất huyết Dengue thể não, các bác sĩ sẽ áp dụng các liệu pháp chuyên môn nhằm giảm thiểu tối đa mọi sự thiệt hại cho bệnh nhân như:
+
+Đặt đầu cao 30 độ giúp máu tuần hoàn tốt hơn;
+Cho bệnh nhân thở oxy để cung cấp đủ lượng oxy cho hệ thần kinh;
+Chống co giật (nếu có) bằng cách cho bệnh nhân tiêm Diazepam với liều lượng 0,2 mg/kg TMC. trong trường hợp không tiêm mạch được, có thể bơm qua đường hậu môn 0,5 mg/kg. Nếu không nhận thấy có hiệu quả, có thể lặp lại liều thứ 2 sau 10 phút (tối đa 3 liều). Nếu thất bại, có thể bổ sung thêm Phenobarbital với liều lượng 10 – 20 mg/kg TTM trong vòng 15 – 30 phút;
+Điều trị hạ đường huyết (nếu có) bằng cách cho bệnh nhân sốt xuất huyết sử dụng Dextrose 30% với liều lượng 1 – 2ml/kg. Đối với trẻ <1 tuổi, chỉ nên sử dụng Dextrose 10% với liều lượng 2 ml/kg;
+Cân bằng điện giải – toan kiềm (mất cân bằng các chỉ số PaCO2, pH và HCO3);
+Chỉ định chống phù não khi trên lâm sàng, bệnh nhân có biểu hiện tăng áp lực nội sọ;
+Chống phù não: chỉ định khi lâm sàng bệnh nhân có dấu hiệu tăng áp lực nội sọ bằng cách truyền Mannitol 20% với 0,5g/kg/lần hoặc/và Natri clorua 3% với 4ml/kg/lần TTM 30 phút, lặp lại mỗi 8 giờ;
+Đặt nội khí quản thở máy để tăng thông khí giữ PaCO2 30 – 35 mmHg;
+Sử dụng thuốc hạ nhiệt Paracetamol 10-15mg /kg/lần đặt hậu môn, ngày 4 lần nếu có sốt.
+
+Dấu hiệu khỏi bệnh sốt xuất huyết và được xuất viện
+Dưới đây là một số dấu hiệu giúp xác định bệnh nhân đã khỏi bệnh sốt xuất huyết và được xuất viện:
+
+Tình trạng hô hấp diễn ra bình thường mà không bị cản trở hay nhạy cảm: Người bệnh có thể ho, hắt hơi, hít thở thoải mái và không cảm thấy khó thở.
+Huyết áp và nhịp tim ổn định của người bệnh ổn định, không có biểu hiện của suy tim, nhịp tim không bị đập nhanh hay thụt lùi.
+Phân tiết ra bình thường: Phân của bệnh nhân được bài tiết đúng cách, không có dấu hiệu của tiêu chảy hay táo bón.
+Không có triệu chứng sốt: Bệnh nhân không cảm thấy nóng bừng hay cảm thấy lạnh, không thấy đau đầu, khó chịu, hay đau cơ thể, triệu chứng sốt khỏi hoàn toàn.
+Bệnh nhân lấy lại cảm giác thèm ăn, lợi tiểu, ăn nhiều hơn và đi tiểu nhiều hơn.
+Thể trạng bình phục và trở nên ổn định, người bệnh cảm thấy tốt hơn, thoải mái, dễ chịu và khỏe khoắn hơn.
+
+Sốt xuất huyết khó thể khỏi bệnh sau 7-10 ngày
+Điều trị sốt xuất huyết phải dựa trên triệu chứng của người bệnh và được giám sát chặt chẽ để ngăn ngừa các biến chứng nghiêm trọng có thể xuất hiện trong các phân độ của sốt xuất huyết, nhất là phân độ sốt xuất huyết có dấu hiệu cảnh báo và phân độ sốt xuất huyết nặng. Người bệnh cần phải đến ngay cơ sở y tế khi nghi ngờ bản thân đang mắc sốt xuất huyết nhằm điều trị kịp thời, tránh biến chứng và tử vong.

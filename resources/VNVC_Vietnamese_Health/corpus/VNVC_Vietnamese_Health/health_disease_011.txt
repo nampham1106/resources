@@ -1,0 +1,34 @@
+# doc_id = health_disease_011
+# url = https://vnvc.vn/bi-cho-can-lan-2-co-can-chich-ngua-khong/
+# date = 10/08/2023
+Bị chó cắn lần 2 có cần chích ngừa không? Xử lý như thế nào?
+Tiêm vắc xin phòng dại là phương pháp điều trị dự phòng duy nhất tránh được nguy cơ tử vong khi bị động vật nghi dại cắn. Chó là động vật có tỷ lệ nhiễm bệnh dại và truyền bệnh cao nhất cho người thông qua vết cắn. Vậy, một người bị chó cắn lần 2 có cần chích ngừa không? và cần phải xử lý như thế nào?
+Mục lụcBệnh dại là gì? Có chữa được không?Đã tiêm phòng dại bị chó cắn thì có khả năng bị dại không?Lịch tiêm phòng cho người bị chó cắn lần đầuBị chó cắn lần 2 có cần chích ngừa không?Phác đồ tiêm phòng dại cho người bị chó cắn lần 2Bệnh dại là gì? Có chữa được không?
+Bệnh dại (Rabies) là một loại bệnh truyền nhiễm do virus dại lây truyền từ động vật có vú máu nóng nhiễm bệnh sang người. Bệnh dại chủ yếu lây truyền thông qua vết cắn/cào/liếm trên vùng da bị tổn thương của động vật nhiễm bệnh. Ngoài ra, bệnh dại còn có các đường lây truyền khác nhưng không phổ biến như tiếp xúc chất tiết, mẫu bệnh phẩm có virus dại, ghép tạng,… Virus dại khi xâm nhập vào người sẽ dẫn đến tình trạng nhiễm trùng não và thần kinh nghiêm trọng, gây ra tỷ lệ tử vong cao lên đến 100%.
+Đến thời điểm hiện tại, vẫn chưa có phương pháp điều trị đặc hiệu nào cho bệnh dại khi đã phát bệnh. Việc chăm sóc bệnh nhân có thể chỉ giúp giảm đau và cải thiện tâm trạng thoải mái, không còn khó chịu về thể xác và cảm xúc.
+Người chăm sóc cần phải cẩn thận để tránh bị cắn và nhiễm nước bọt của màng nhầy và vết thương bằng cách sử dụng các thiết bị/ dụng cụ bảo vệ y tế cá nhân như bao tay y tế.
+Bệnh nhân cần được giữ trong phòng yên tĩnh với ánh sáng dịu và bảo vệ khỏi các yếu tố kích thích như tiếng ồn lớn và không khí lạnh, có thể làm tăng co thắt và co giật.
+Sử dụng diazepam 10mg (1) cứ sau 4-6 giờ để an thần bệnh nhân, được bổ sung bởi chlorpromazine 50 sắt với liều lượng 100mg hoặc morphin tiêm tĩnh mạch nếu cần thiết, nhằm giúp kiểm soát tình trạng cơ bắp co thắt và dễ bị kích thích.
+Không thể cho bệnh nhân ăn bằng miệng, thay vào đó, nên sử dụng chất lỏng tiêm tĩnh mạch để bổ sung dinh dưỡng cho bệnh nhân dại.
+Bệnh dại được ví như “Viên đạn luôn trúng đích” vì khả năng gây tử vong gần như là 100% nếu không được tiêm vắc xin phòng dại đúng, đủ và kịp thời
+Đã tiêm phòng dại bị chó cắn thì có khả năng bị dại không?
+CÓ THỂ. Nếu đã tiêm phòng dại trước đó và bị chó cắn, khả năng bị dại của người bệnh sẽ giảm đáng kể. Tuy nhiên, không thể khẳng định hoàn toàn rằng bệnh nhân không bị dại, mà chỉ là khả năng mắc bệnh sẽ giảm đáng kể.
+Việc tiêm phòng dại bao gồm việc sử dụng vắc xin dại để kích thích hệ miễn dịch của người bệnh tạo ra kháng thể chống lại virus dại. Nếu đã tiêm phòng đầy đủ và đúng cách, khả năng bệnh nhân bị dại sẽ rất thấp. Vì vậy, nếu đã tiêm phòng dại và bị chó cắn, bệnh nhân không nên chủ quan mà cần được theo dõi và khám sức khỏe để đảm bảo an toàn sức khỏe.
+Nếu đã hoàn thành phác đồ tiêm phòng dại trước phơi nhiễm, người bệnh sẽ có miễn dịch với virus dại, giảm thiểu tối đa nguy cơ phát bệnh và tử vong, khả năng bị dại là rất thấp
+Lịch tiêm phòng cho người bị chó cắn lần đầu
+Sau khi bị chó/động vật có vú máu nóng khác cắn, bệnh nhân cần được xử lý, rửa sạch vết thương và tiêm vắc xin phòng dại mũi đầu tiên càng sớm càng tốt theo lịch tiêm sau:
+Với người đã tiêm dự phòng:
+Áp dụng phác đồ tiêm bắp (liều dùng 0.5 ml) hoặc đường tiêm trong da (liều dùng 0.1ml) với lịch tiêm 2 mũi vào các ngày N0 – N3
+Với người chưa tiêm dự phòng:
+Áp dụng phác đồ tiêm bắp (liều dùng 0.5 ml) với lịch tiêm 5 mũi vào các ngày N0 – N3 – N7 – N14 – N28
+Áp dụng phác đồ tiêm trong da (liều dùng 0.1ml) với lịch tiêm 2 mũi/1 lần x 4 lần vào các ngày N0 – N3 – N7 – N28. Mỗi lần tiêm 2 mũi trong da, mỗi mũi 0.1 ml tại 2 vị trí khác nhau
+Xem thêm: Phác đồ tiêm phòng dại
+Nên đến ngay các trung tâm tiêm chủng VNVC trên toàn quốc để tiêm phòng dại với các liều vắc xin thế hệ mới nhất, đã được phát triển dựa trên chương trình nghiên cứu lâm sàng toàn diện, tối ưu hóa khả năng phòng ngừa bệnh dại
+Bị chó cắn lần 2 có cần chích ngừa không?
+CÓ. Sau khi tiêm đủ số lượng mũi theo phác đồ phòng dại, người tiêm sẽ hình thành miễn dịch phòng bệnh dại. Tuy nhiên, sức đề kháng của hệ miễn dịch ở mỗi cá nhân lại khác nhau, phụ thuộc vào đáp ứng miễn dịch với nồng độ kháng thể sản sinh trong cơ thể. Do đó, hiệu quả của miễn dịch phòng bệnh dại sẽ có sự khác biệt giữa các cá nhân. Vì thế, bị chó cắn lần 2 nên tiêm nhắc lại vắc xin phòng dại theo hướng dẫn của Bộ Y tế nhằm đảm bảo hiệu quả phòng bệnh ở mức tối đa.
+Bên cạnh đó, tùy thuộc vào việc đối tượng bị cắn đã được tiêm vắc xin phòng chống uốn ván đầy đủ hay chưa. Nếu đã đủ liều vắc xin, người bị cắn có thể không cần phải tiêm thêm. Tuy nhiên, nếu chưa được tiêm hoặc chưa đủ liều, việc tiêm vắc xin ngừa uốn ván là rất cần thiết để phòng ngừa lây nhiễm bệnh uốn ván, một bệnh truyền nhiễm nguy hiểm và có thể gây tử vong. Hơn nữa, nếu vết thương rất nặng hoặc có biểu hiện nhiễm trùng, nên đến bệnh viện để được khám và điều trị kịp thời.
+Phác đồ tiêm phòng dại cho người bị chó cắn lần 2
+Đối với các đối tượng có hệ miễn dịch bình thường, trong trường hợp đã tiêm đủ liều vắc xin dự phòng dại trước phơi nhiễm hoặc đã tiêm vắc xin dự phòng dại sau phơi nhiễm lần 1, tiến hành tiêm 2 mũi trong da/tiêm bắp với lịch tiêm N0 – N3 (mỗi lần chỉ tiêm 1 mũi).
+Lưu ý: Không tiêm huyết thanh kháng dại với người có hệ miễn dịch bình thường
+Vắc xin phòng dại nên tiêm đồng thời với vắc xin phòng uốn ván, huyết thanh phòng dại nên tiêm đồng thời với huyết thanh phòng uốn ván để bảo vệ toàn diện tính mạng người bị cắn
+Bị chó cắn lần 2 có cần chích ngừa không? CÓ. Tuy nhiên, điều này phụ thuộc vào việc người bị cắn đã thực hiện tiêm đủ liều vắc xin phòng dại theo phác đồ hay chưa. Nếu đã đủ liều, cần thực hiện phác đồ tiêm 2 mũi vào trong da/tiêm bắp ngoài để đảm bảo tính sinh miễn dịch trong cơ thể đủ để bảo vệ cơ thể khỏi sự tấn công của virus dại. Tuy nhiên, nếu người bị cắn chưa được tiêm hoặc chưa đủ liều, việc tiêm vắc xin phòng dại sau phơi nhiễm đúng và đủ liều theo phác đồ của Bộ Y tế khuyến cáo là cần thiết để phòng ngừa bệnh dại, giảm thiểu tối đa nguy cơ nhiễm bệnh và tử vong.

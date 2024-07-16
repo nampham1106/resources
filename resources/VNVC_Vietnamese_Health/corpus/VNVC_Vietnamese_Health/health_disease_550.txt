@@ -1,0 +1,156 @@
+# doc_id = health_disease_550
+# url = https://vnvc.vn/vac-xin-uong/
+# date = 28/06/2024
+Vắc xin uống là gì? Có mấy loại và phòng bệnh thế nào?
+Vắc xin uống ra đời từ những năm 1960, có khả năng tạo miễn dịch toàn thân và miễn dịch niêm mạc, trong đó khả năng miễn dịch niêm mạc sẽ vô hiệu hóa mầm bệnh xâm nhập niêm mạc trước khi bắt đầu nhiễm trùng. Vậy, vắc xin uống là gì? Cơ chế hoạt động của vắc xin uống ra sao? Hiện nay có mấy loại vắc xin uống? BS Phan Nguyễn Trường Giang – Quản lý Y khoa vùng 3 Mekong, Hệ thống Trung tâm tiêm chủng VNVC sẽ giải đáp chi tiết những thắc mắc trên thông qua bài viết dưới đây!
+BS Phan Nguyễn Trường Giang – Quản lý Y khoa vùng 3 Mekong, Hệ thống Trung tâm tiêm chủng VNVC cho biết: “Vắc xin uống đang sử dụng ở Việt Nam hiện nay gồm vắc xin Rota phòng tiêu chảy cấp, vắc xin tả, vắc xin bại liệt…, các loại vắc xin uống cho phép hệ thống miễn dịch niêm mạc ở ruột tiếp xúc với các kháng nguyên có trong vắc xin và gây ra phản ứng miễn dịch cục bộ ở ruột, từ đó hình thành kháng thể đặc hiệu để tiêu diệt kháng nguyên ngay dạ dày và ruột”
+Mục lụcVắc xin uống là gì?Cơ chế phòng bệnh của vắc xin uốngSo sánh vắc xin uống và vắc xin tiêmCác loại vắc xin uống1. Vắc xin Rotavirus2. Vắc xin tả3. Vắc xin thương hàn4. Vắc xin bại liệtQuy trình chủng ngừa bằng vắc xin uốngVắc xin uống có tác dụng phụ không?Những trường hợp không nên sử dụng vắc xin uốngVắc xin uống là gì?
+Vắc xin uống là vắc xin được đưa vào cơ thể thông qua đường uống thay vì là đường tiêm hay đường xịt mũi. Vắc xin uống là chế phẩm sinh học có chứa kháng nguyên của tác nhân gây bệnh (thường là các tác nhân gây bệnh đường ruột) đã bị giết chết, bất hoạt hoặc giảm độc lực, không còn khả năng gây bệnh nhưng vẫn đảm bảo khả năng gây miễn dịch khi vắc xin được đưa vào cơ thể.
+Vắc xin uống giúp hệ thống miễn dịch tại niêm mạc đường tiêu hóa hoạt động, sản sinh kháng thể đặc hiệu chủ động chống lại sự tấn công của tác nhân gây bệnh và hình thành “trí nhớ miễn dịch”. Nhờ đó, hệ thống miễn dịch của người uống vắc xin có khả năng nhận biết và chống lại sự xâm nhập, gây bệnh của các tác nhân gây hại đó nếu cơ thể tiếp xúc trong tương lai.
+Vắc xin uống thường tạo ra miễn dịch niêm mạc đường tiêu hóa.
+Cơ chế phòng bệnh của vắc xin uống
+Tương tự như các loại vắc xin khác, vắc xin uống cũng hoạt động thông qua cơ chế kích hoạt các tế bào miễn dịch trong cơ thể (thường là các tế bào miễn dịch trên niêm mạc đường tiêu hóa) hoạt động, tấn công, loại thải các tác nhân gây bệnh và sinh “trí nhớ miễn dịch”, bảo vệ người uống vắc xin chống lại sự tấn công và gây bệnh của các tác nhân gây bệnh trong tương lai.
+Đầu tiên, vắc xin uống được đưa vào cơ thể thông qua đường miệng. Sau đó, các thành phần kháng nguyên trong vắc xin uống tiếp xúc với niêm mạc đường tiêu hóa. Tại đây, hệ thống miễn dịch sẽ nhận diện các kháng nguyên trong vắc xin uống như những “kẻ lạ mặt xâm nhập trái phép” và nhanh chóng huy động các tế bào miễn dịch như Immunoglobulin G (IgG), IgM, IgA, IgE, IgD và các tế bào lympho (T, B) hoạt động, hình thành một chuỗi phản ứng miễn dịch vô cùng “kỳ diệu”.
+Trong đó, IgG sẽ phát hiện, xác định mục tiêu và đánh dấu sự hiện diện của tác nhân gây bệnh để các tế bào miễn dịch khác có thể nhận diện và tiêu diệt tác nhân gây bệnh. Tế bào IgM sẽ đảm nhiệm vai trò tiêu diệt vi khuẩn, IgA sẽ bảo vệ các vị trí dễ bị tổn thương và bị các tác nhân gây bệnh xâm nhập trên niêm mạc hệ tiêu hóa.
+Bên cạnh đó, IgE chống trả lại các tác nhân gây bệnh và IgD sẽ gắn kết cùng tế bào miễn dịch lympho B thúc đẩy phản ứng miễn dịch diễn ra, giúp cơ thể tiêu diệt và loại thoải thành công các tác nhân gây bệnh.
+Cuối cùng, sau khi kết thúc quá trình tiêu diệt các tác nhân gây bệnh, các tế bào lympho T sẽ hoạt động, sản sinh “trí nhớ miễn dịch”, ghi nhớ tất cả các phản ứng miễn dịch vừa diễn ra. Khi cơ thể tiếp xúc hoặc vô tình phơi nhiễm với tác nhân gây bệnh, tế bào miễn dịch lympho T sẽ kích thích hệ thống miễn dịch trên niêm mạc đường ruột “tái diễn” quá trình trên, giúp cơ thể bảo vệ khỏi các tác nhân xâm nhập gây bệnh.
+Phương pháp tiêm chủng bằng vắc xin uống thường không gây xâm lấn, an toàn, đơn giản và dễ thực hiện hơn so với những loại vắc xin khác.
+So sánh vắc xin uống và vắc xin tiêm
+Tiêu chí
+Vắc xin tiêm
+Vắc xin uống
+Đường sử dụng
+Vắc xin tiêm thường được đưa vào cơ thể thông qua 3 kỹ thuật chính, bao gồm: tiêm bắp, tiêm dưới da và tiêm tĩnh mạch
+Vắc xin uống được đưa vào cơ thể thông qua việc uống thông thường từ đường miệng
+Sinh khả dụng (lượng vắc xin được cơ thể hấp thụ và sẵn sàng sử dụng sau khi tiêm) [1]
+Vắc xin tiêm có sinh khả dụng cao vì được tiêm trực tiếp vào máu, không qua đường tiêu hóa, không gây hao hụt lượng vắc xin được sử dụng.
+Vắc xin uống phải đi qua hệ thống tiêu hóa trước khi được hấp thụ, có thể hao hụt lượng vắc xin được sử dụng, nhưng điều này không ảnh hưởng đến hiệu quả phòng bệnh.
+Hiệu quả phản ứng miễn dịch
+Phản ứng miễn dịch do vắc xin tiêm gây ra thường cao hơn so với vắc xin uống
+Do mức độ kháng nguyên trong vắc xin uống thường thấp hơn so với vắc xin tiêm nên phản ứng miễn dịch do vắc xin uống tạo ra sẽ thấp hơn
+Tác động trong quá trình phản ứng miễn dịch của vắc xin
+Vắc xin tiêm được đưa trực tiếp vào đường máu của người tiêm nên thường ít gây ra các tác động trong quá trình phản ứng miễn dịch của vắc xin
+Trong khi đó, hiệu quả của vắc xin uống có thể bị ảnh hưởng bởi hệ vi sinh của đường ruột. Các hệ vi sinh này có thể tác động, điều chỉnh phản ứng miễn dịch và có thể làm giảm khả năng kích hoạt phản ứng miễn dịch của vắc xin uống.
+Tỷ lệ phản ứng phụ
+Cao hơn so với vắc xin uống do vắc xin tiêm gây xâm lấn bề mặt da, khiến vị trí tiêm đau, sưng, đỏ, nguy cơ nhiễm trùng vùng tiêm nếu không được chăm sóc đúng cách
+Thấp hơn so với vắc xin tiêm
+Chi phí
+Chi phí tiêm chủng vắc xin tiêm thường cao hơn so với vắc xin uống vì vắc xin tiêm thường yêu cầu quy trình sản xuất phức tạp hơn, bao gồm cả quá trình tinh chế và bào chế kháng nguyên vắc xin
+Trong khi đó, chi phí tiêm chủng vắc xin uống lại thấp hơn do quy trình quản lý ít phức tạp hơn
+Sử dụng vắc xin uống ít gây phản ứng phụ nghiêm trọng hơn, là một giải pháp tiêm chủng vắc xin cho những người có hệ thống miễn dịch yếu.
+Các loại vắc xin uống
+Vắc xin uống đầu tiên được phát triển là vắc xin phòng bệnh bại liệt dạng uống (OPV). Ngay sau khi được phát triển, OPV đã được áp dụng tại nhiều quốc gia trên toàn thế giới trong “cuộc chiến” loại trừ bệnh bại liệt. Tiếp nối sự thành công của OPV – vắc xin uống đầu tiên, nhiều loại vắc xin uống đã được phát triển và chứng minh là có hiệu quả trong việc ngăn ngừa các bệnh bao gồm dịch tả, tiêu chảy cấp do rotavirus và thương hàn…
+1. Vắc xin Rotavirus
+Vắc xin Rotavirus là vắc xin dạng uống, cung cấp khả năng phòng ngừa bệnh tiêu chảy cấp do virus Rota gây ra – nguyên nhân hàng đầu gây ra bệnh tiêu chảy nặng ở trẻ sơ sinh và trẻ nhỏ. Bệnh tiêu chảy cấp do Rotavirus không chỉ gây ra tình trạng tiêu chảy thông thường mà có thể khiến trẻ bị mất nước nghiêm trọng, cơ thể teo tóp, suy nhược, nguy cơ đe dọa tính mạng.
+Hiện, Việt Nam đang lưu hành 3 loại vắc xin ngừa bệnh tiêu chảy cấp do virus Rota, bao gồm:
+Tên vắc xin/Nước sản xuất
+Rotarix (Bỉ)
+Rotateq (Mỹ)
+Rotavin (Việt Nam)
+Bản chất
+Vắc xin sống, giảm độc lực
+Đối tượng sử dụng
+Trẻ từ 6 tuần tuổi đến trước 24 tuần tuổi
+Trẻ từ 7,5 tuần tuổi đến trước 32 tuần tuổi
+Trẻ từ 6 tuần tuổi đến trước 6 tháng tuổi
+Lịch uống
+Liều 1: Nên bắt đầu lúc 6 tuần tuổi
+Liều 2: Cách 4 tuần sau liều 1
+Liều 1: Bắt đầu khi trẻ được 7,5 tuần (có thể sớm hơn từ 6 tuần tuổi)
+Liều 2: 4 tuần sau liều 1
+Liều 3: 4 tuần sau liều 2
+Liều 1: Bắt đầu khi trẻ được 6 tuần tuổi
+Liều 2: 4 tuần sau liều 1
+→ Tham khảo thông tin chi tiết về vắc xin Rotarix (Bỉ) tại đây;
+→ Tham khảo thông tin chi tiết về vắc xin Rotateq (Mỹ) tại đây;
+→ Tham khảo thông tin chi tiết về vắc xin Rotavin (Việt Nam) tại đây.
+2. Vắc xin tả
+Vắc xin tả là vắc xin dạng uống, được chỉ định sử dụng cho trẻ từ 2 tuổi trở lên và người lớn sinh sống hoặc lui tới các vùng có dịch tả lưu hành, giúp phòng ngừa bệnh tả – bệnh lý truyền nhiễm gây nhiễm độc đường ruột cấp kinh, đồng thời chặn đứng nguy cơ bệnh chiến nguy hiểm của bệnh gây ra như sốc mất nước, trụy tim mạch, suy thận, tử vong.
+Hiện nay, tại Việt Nam đang lưu hành vắc xin mORCVAX (Việt Nam) ngừa bệnh tả với lịch uống như sau:
+Tên vắc xin/Nước sản xuất
+mORCVAX (Việt Nam)
+Bản chất
+Vắc xin bất hoạt, toàn tế bào
+Đối tượng sử dụng
+Trẻ từ 2 tuổi trở lên và người lớn
+Lịch uống
+Liều 1: Lần uống đầu tiên
+Liều 2: Cách liều 1 tối thiểu 2 năm
+Liều nhắc: Khi có dịch tả, uống nhắc lại 2 liều cơ bản
+→ Tham khảo thông tin chi tiết về vắc xin mORCVAX (Việt Nam) tại đây.
+3. Vắc xin thương hàn
+Vắc xin thương hàn là vắc xin uống, cung cấp khả năng phòng ngừa bệnh sốt thương hàn do vi khuẩn thương hàn Salmonella typhi gây nên, đồng thời chặn đứng các biến chứng nguy hiểm do thương hàn gây ra như xuất huyết tiêu hóa, thủng ruột, viêm màng não thương hàn, thậm chí đe dọa tính mạng người bệnh. Vắc xin thường được chỉ định cho trẻ em từ 2 tuổi trở nên và người lớn sinh sống hoặc lui tới các vùng có dịch thương hàn đang lưu hành.
+Hiện nay, tại Việt Nam đang lưu hành 02 loại vắc xin uống ngừa bệnh thương hàn, bao gồm:
+Tên vắc xin/Nước sản xuất
+Typhim Vi (Pháp) / Typhoid Vi (Việt Nam)
+Bản chất
+Vắc xin Vi Polysaccharide, tinh chế từ vỏ vi khuẩn thương hàn
+Đối tượng sử dụng
+Trẻ từ 2 tuổi trở lên và người lớn
+Lịch uống
+Tiêm 1 mũi, nhắc lại mỗi 3 năm nếu có nguy cơ nhiễm bệnh
+→ Tham khảo thông tin chi tiết về vắc xin Typhim Vi (Pháp) tại đây;
+→ Tham khảo thông tin chi tiết về vắc xin Typhoid Vi (Việt Nam) tại đây.
+4. Vắc xin bại liệt
+Vắc xin bại liệt là vắc xin ngừa bệnh bại liệt ở trẻ em và người lớn – bệnh truyền nhiễm virus cấp tính do virus Polio (Poliovirus) gây nên. Hiện trên toàn thế giới và tại Việt Nam đang có 2 loại vắc xin bại liệt, bao gồm vắc xin bại liệt dạng tiêm (IPV) và vắc xin ngừa bại liệt dạng uống (OPV). Chương trình Tiêm chủng Mở rộng tại Việt Nam được Nhà nước tài trợ miễn phí cả 2 loại vắc xin bại liệt uống và tiêm với lịch tiêm/uống như sau:
+Tên vắc xin/Nước sản xuất
+bOPV (Việt Nam)
+Imovax Polio (IPV) – Pháp
+Bản chất
+Vắc xin sống, giảm độc lực tuýp 1 & 3
+Vắc xin bất hoạt tuýp 1, 2 & 3
+Đối tượng sử dụng
+Trẻ từ 2 tháng tuổi
+Trẻ từ 6 tuần tuổi
+Lịch uống
+Lịch tiêm theo Chương trình Tiêm chủng Mở rộng:
+Liều 1: Khi trẻ 2 tháng tuổi
+Liều 2: Khi trẻ 3 tháng tuổi
+Liều 3: Khi trẻ 4 tháng tuổi
+Lịch tiêm theo Chương trình Tiêm chủng Mở rộng: Mũi IPV sẽ tiêm khi trẻ 5 tháng tuổi
+Bên cạnh đó, vắc xin bại liệt cũng có trong thành phần của những mũi tiêm kết hợp vắc xin 6 trong 1 (Infanrix Hexa/Hexaxim); vắc xin 5 trong 1 (Pentaxim/Infanrix-IPV+Hib); vắc xin 4 trong 1 (Tetraxim) ở các điểm tiêm chủng dịch vụ.
+→ Tham khảo thông tin chi tiết về vắc xin 4 trong 1 Tetraxim tại đây;
+→ Tham khảo thông tin chi tiết về vắc xin 5 trong 1 Pentaxim tại đây;
+→ Tham khảo thông tin chi tiết về vắc xin 6 trong 1 Hexaxim tại đây;
+→ Tham khảo thông tin chi tiết về vắc xin 6 trong 1 Infanrix Hexa tại đây.
+Quy trình chủng ngừa bằng vắc xin uống
+Tùy theo quy cách đóng gói của từng loại vắc xin uống mà quy trình chủng ngừa bằng vắc xin uống sẽ khác nhau. Thông thường có 2 cách dùng vắc xin uống như sau:
+Cách 1: Đối với vắc xin uống sử dụng xi lanh
+Bước 1: Lắc đều ống vắc xin trước khi uống
+Bước 2: Dùng xi lanh vô trùng hút vắc xin từ ống sau đó bỏ kim tiêm, chỉ giữa lại ống tiêm có chứa vắc xin
+Bước 3: Đưa xi lanh vào phía trong má và bơm từ từ vắc xin cho trẻ uống cho đến khi hết lượng vắc xin trong xi lanh.
+Bước 4: Bỏ xi lanh và ống vắc xin vào trong thùng rác sinh học theo đúng quy chế
+Cách 2: Đối với vắc xin uống dạng tuýp
+Bước 1: Xé túi để lấy tuýp vắc xin uống ra
+Bước 2: Giữ tuýp vắc xin thẳng đứng và gõ nhẹ vào đầu ống để dung dịch vắc xin xuống hết khỏi đầu tuýp
+Bước 3: Mở tuýp và định liều bằng 2 động tác đơn giản sau:
+Văn nắp theo chiều kim đồng hồ cho tới khi thật chặt
+Vặn nắp rời ra bằng cách xoay ngược chiều kim đồng hồ
+Bước 4: Cho trẻ uống bằng cách bóp nhẹ tuýp vắc xin cho dung dịch vào miệng trẻ ở phần má trong cho tới khi hết dung dịch.
+Bước 4: Bỏ tuýp rỗng và nắp vào trong thùng rác sinh học theo đúng quy chế
+Tương tự như một số loại vắc xin tiêm, nhiều loại vắc xin uống cần nhiều liều để tạo ra phản ứng miễn dịch bền vững.
+Vắc xin uống có tác dụng phụ không?
+Cũng giống như các loại vắc xin khác, vắc xin uống cũng có khả năng gây phản ứng tuy nhiên các phản ứng này thường nhẹ và không đáng kể. Vắc xin uống đi qua đường ruột, gây ra các phản ứng miễn dịch tự nhiên trên các tế bào niêm mạc tiêu hóa, vì thế các tác dụng phụ sau khi sử dụng vắc xin uống thường là các phản ứng nhẹ và thoáng qua liên quan đến hệ tiêu hóa như buồn nôn, nôn mửa, tiêu chảy… kèm theo tình trạng đau đầu, sốt, mệt mỏi…
+Đối với vắc xin bại liệt dạng uống, các tác dụng phụ thường gặp sau khi uống có thể là: mệt mỏi, sốt nhẹ, tiêu chảy và có thể gây liệt nhẹ nhưng rất hiếm.
+Đối với vắc xin phòng bệnh tiêu chảy cấp do Rotavirus, các tác dụng phụ thường gặp là tình trạng rối loạn tiêu hóa và thường khỏi sau vài ngày. Nếu tình trạng rối loạn hệ tiêu hóa trở nên nghiêm trọng hơn như đi ngoài phân nước nhiều lần, nôn mửa nhiều, có dấu hiệu mất nước, cần đưa trẻ đến các bệnh viện hoặc cơ sở y tế gần nhất để được các bác sĩ chuyên khoa thăm khám và xử trí thích hợp.
+Đối với vắc xin thương hàn và tả, sau khi uống trẻ thường có cảm giác buồn nôn, dễ nôn mửa và một số triệu chứng toàn thân hiếm gặp khác như đau đầu, đau bụng, tiêu chảy, sốt. Hầu hết các triệu chứng này thường tự khỏi, không cần điều trị mà không để lại bất kỳ vấn đề bất lợi nào về sức khỏe.
+Tuy nhiên, nếu trẻ hoặc người được uống vắc xin có bất cứ dấu hiệu nào bất thường như sốt cao trên 38 độ, nôn ói liên tục… cần đến ngay cơ sở y tế gần nhất để được kiểm tra thăm khám.
+Những trường hợp không nên sử dụng vắc xin uống
+Không sử dụng (chống chỉ định) sử dụng vắc xin uống cho:
+Người có tiền sử dị ứng với một trong các thành phần của vắc xin.
+Không sử dụng vắc xin uống cho người có tình trạng quá mẫn cảm (sử sốc hoặc phản ứng nặng) sau khi uống liều đầu tiên.
+Trẻ có bệnh lý nặng, cấp tính, sốt cao, trẻ đang bị tiêu chảy hoặc nôn, trẻ bị dị tật bẩm sinh đường tiêu hóa, bị lồng ruột hay đang bị suy giảm miễn dịch nặng.
+Không dự kiến sử dụng ở người lớn. Đồng thời, cũng không có chỉ định sử dụng vắc xin uống ở phụ nữ có thai và cho con bú. Trong trường hợp cần phải sử dụng, cần hỏi thêm ý kiến của bác sĩ.
+Các trường hợp chống chỉ định khác theo hướng dẫn của nhà sản xuất đối với từng loại vắc xin.
+Để chắc chắn liệu con bạn có thể được sử dụng vắc xin uống hay không, đến ngay các trung tâm tiêm chủng VNVC để được các bác sĩ khám sàng lọc, đánh giá tình trạng sức khỏe và chỉ định tiêm chủng phù hợp.
+Phụ huynh cần chủ động cho trẻ tiếp nhận đầy đủ, đúng lịch các loại vắc xin uống quan trọng theo độ tuổi như vắc xin Rota vào lúc 6 tuần tuổi, vắc xin bại liệt uống (OPV) vào lúc trẻ 2 tháng tuổi, vắc xin tả và thương hàn lúc trẻ đủ 2 tuổi.
+Ngoài ra, cần cho trẻ tiêm ngừa đầy đủ và đúng lịch các loại vắc xin tiêm quan trọng khác theo từng độ tuổi khuyến cáo của chuyên gia, giúp cho trẻ được bảo vệ toàn diện, giảm thiểu tối đa nguy cơ bệnh tật, biến chứng và tử vong, tạo điều kiện tốt nhất cho trẻ được phát triển khỏe mạnh, hạnh phúc và thành công trong tương lai.
+Để được tư vấn, đặt lịch tiêm chủng vắc xin, đăng ký gói vắc xin hoặc tham gia các chương trình ưu đãi, Khách hàng có thể liên hệ trực tiếp với VNVC qua:
+Hotline: 028 7102 6595;
+Fanpage: VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn;
+Tra cứu trung tâm tiêm chủng VNVC gần nhất tại đây;
+Để đặt mua vắc xin và tham khảo các sản phẩm vắc xin, quý Khách vui lòng truy cập: vax.vnvc.vn.
+Để theo dõi và tra cứu thông tin tiêm chủng trọn đời, quý Khách tải ngay app VNVC – ứng dụng “Trợ lý tiêm chủng vắc xin”:
+– IOS (iPhone, iPad,…): https://bit.ly/VNVC_APPSTORE
+– Android (Oppo, Samsung, Sony,…): https://bit.ly/VNVC_GGPLAY
+Vắc xin uống đóng vai trò quan trọng trong việc hỗ trợ nhân loại phòng ngừa và kiểm soát tốt tình hình dịch tễ của một số bệnh truyền nhiễm, nhất là các bệnh gây nhiễm trùng đường tiêu hóa như tiêu chảy cấp do Rotavirus, tả, bại liệt, thương hàn… Nhờ có vắc xin bại liệt, Việt Nam đã chính thức tuyên bố thanh toán bệnh bại liệt vào năm 2000, tiến tới mục tiêu kiểm soát, loại trừ và thanh toán thêm nhiều bệnh truyền nhiễm nguy hiểm khác trên toàn quốc.

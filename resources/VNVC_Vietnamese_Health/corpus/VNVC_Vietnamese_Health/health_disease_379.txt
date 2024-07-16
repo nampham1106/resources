@@ -1,0 +1,101 @@
+# doc_id = health_disease_379
+# url = https://vnvc.vn/moderna/
+# date = 03/07/2021
+Vaccine Moderna: FDA công nhận, Việt Nam phê duyệt khẩn cấp
+Ngày 30/04/2021, WHO phê duyệt sử dụng khẩn cấp vaccine Moderna của Mỹ, bảo chứng vaccine này an toàn và hiệu quả. Đây cũng là vaccine phòng COVID-19 thứ 5 được phê duyệt tại Việt Nam.
+Phải mất 323 ngày kể từ khi bùng phát dịch SARS vào năm 2002, vaccine mới bắt đầu được thử nghiệm trên người, dịch Ebola là 164 ngày, dịch cúm H1N1 là 89 ngày. Riêng với đại dịch Covid-19, các nhà khoa học đã tạo ra “kỳ tích” khi chỉ mất vỏn vẹn 63 ngày để đưa vaccine vào thử nghiệm trên người với những hiệu quả vượt mức mong đợi. Và “viên đạn bạc” vaccine Moderna được tạo ra trong cuộc đua thần tốc với kỳ vọng sớm đưa thế giới trở lại trạng thái bình thường.
+Mục lụcVắc xin Moderna là gì?Nguồn gốc vaccine Moderna của nước nào?Cơ chế sản xuất vắc xin mRNA-1273 của ModernaĐối tượng sử dụng vaccine Moderna1. Đối tượng nên tiêm ngừa vắc xin mRNA-1273 của Moderna2. Đối tượng không nên tiêm ngừaLịch tiêm chủng vaccine ModernaHiệu quả vắc xin mRNA-1273 của ModernaTác dụng phụ của chủng vắc xin ModernaĐộ an toàn của vaccine ModernaBảo quản vắc xin mRNA-1273 của ModernaVắc xin mRNA-1273 của Moderna giá bao nhiêu?Nên tiêm phòng vắc xin Moderna của Mỹ ở đâu?Câu hỏi thường gặp1. Vắc xin mRNA-1273 có dùng vi rút sống không?2. Việt Nam phê duyệt khẩn cấp vắc xin ModernaCần lưu ý gì khi tiêm vắc xin mRNA-1273 của Moderna1. Trước khi đi tiêm phải chuẩn bị gì?2. Sau khi tiêm vaccine Covid-19 cần lưu ý?Vắc xin Moderna là gì?
+Vắc xin Moderna (còn có tên khác là Skipevax hay mRNA-1273) là loại vaccine phòng Covid-19 được sản xuất theo công nghệ mới sử dụng vật chất di truyền RNA cho hiệu quả phòng bệnh lên tới 94.1%, hiện vaccine Moderna được FDA và EUA công nhận. Đây là tín hiệu hứa hẹn cho việc đẩy nhanh tiến độ đưa vắc xin Moderna vào sử dụng rộng rãi trong bối cảnh virus SARS-CoV-2 đã xuất hiện ở tất cả các Châu lục.
+Vào lúc Covid-19 vẫn còn khu trú ở Trung Quốc, Giám đốc đầu điều hành của Công ty công nghệ sinh học Moderna là Stéphane Bancel đã cảm nhận “đại dịch” sẽ hoành hành trên thế giới. Ngay khi có những thông tin di truyền của virus, Moderna đã bắt tay ngay vào việc sản xuất vắc xin Moderna khắc chế “virus toàn cầu” này.
+Trong vòng chưa đầy một năm, Stéphane Bancel đã đưa Moderna lên vị trí hàng đầu trong cuộc đua vắc xin phòng Covid-19. Moderna và Pfizer là hai đơn vị đầu tiên trên thế giới sử dụng công nghệ mới ARN thông tin để phát triển vắc xin, song lợi thế vắc xin của Moderna so với Pfizer nằm ở… “tủ lạnh”.
+Nguồn gốc vaccine Moderna của nước nào?
+Moderna, Inc. là công ty công nghệ sinh học của Mỹ được thành lập vào năm 2010, có tên ban đầu là ModeRNA, trụ sở đặt tại Cambridge, Massachusetts (Mỹ). Đây là công ty sở hữu ít nhất 7 bản quyền liên quan tới vắc xin kể cả vắc xin phòng chủng virus corona, và là một trong số nhiều công ty tiến hành nghiên cứu vắc xin phòng virus corona chủng mới từ những ngày đầu tiên, khi cấu trúc gen của virus SARS-CoV-2 được công bố.
+Vắc xin phòng Covid-19 do Moderna phối hợp với Viện Dị ứng và Bệnh truyền nhiễm Quốc gia Mỹ (NIAID) phát triển có tên gọi mRNA-1273. Phương pháp bào chế vắc xin của Moderna dựa trên công nghệ mới sử dụng vật chất di truyền dạng RNA, chưa từng được sử dụng trước đây. Trong trường hợp này, mRNA-1273 chứa đoạn mã di truyền RNA thông tin (mRNA) của SARS-CoV-2 được tiêm vào cơ thể người, có thể làm cho các tế bào trong cơ thể tạo ra protein bề mặt của virus corona, đánh lừa hệ thống miễn dịch rằng đã bị nhiễm virus và “huấn luyện” tạo kháng thể phù hợp chống lại mầm bệnh.
+Công nghệ RNA thông tin là bước chuyển lớn so với công nghệ bào chế vắc xin truyền thống (thường dùng virus đã bị làm yếu, virus đã chết hoặc một phần của virus). Ưu điểm lớn nhất của công nghệ này là không cần nuôi protein virus tinh khiết, phân tử mRNA đơn giản hơn nhiều so với protein. Đối với vắc xin, mRNA được sản xuất bằng phương pháp hóa học tổng hợp chứ không phải sinh học, do đó việc thiết kế lại, mở rộng quy mô và sản xuất hàng loạt nhanh hơn nhiều so với vắc xin truyền thống. Điều này giúp các nhà khoa học tiết kiệm thời gian để chuẩn hóa chi tiết dữ liệu về virus SARS-CoV-2, từ đó đẩy mạnh sản xuất vaccine nhanh chóng hơn, đáp ứng hiệu quả khi có đại dịch xảy ra trong thời gian ngắn và quy mô rộng lớn.
+Moderna là một trong số những công ty đầu tiên thử nghiệm vaccine Covid-19 trên người, bắt đầu từ giữa tháng 3. Theo kết quả thử nghiệm lâm sàng giai đoạn cuối được Moderna công bố tháng 4/2021, vaccine cho hiệu quả phòng bệnh cao (94.1%), ngăn ngừa nguy cơ lây nhiễm, giảm tỷ lệ nhập viện và tử vong do bệnh.
+Mặc dù vậy, theo FDA, vắc xin ít hiệu quả hơn ở người lớn tuổi, độ bảo vệ sẽ giảm xuống 86.4%. Trước đó, ngày 18/12, FDA của Mỹ đã phê duyệt cho phép sử dụng khẩn cấp (EUA) vắc xin mRNA-1273 của Moderna, Mỹ chính thức sở hữu loại vắc xin thứ 2 đủ hiệu quả phòng ngừa Covid-19.
+Đến ngày 6/1/2021, Cơ quan Dược phẩm Liên minh châu Âu (EMA) phê duyệt sử dụng khẩn cấp vaccine Covid-19 do hãng dược Moderna điều chế đối với 27 quốc gia trong khối EU. Như vậy, các nước thuộc Liên minh châu Âu sẽ có loại vaccine thứ 2, sau vaccine Pfizer trong bối cảnh tỷ lệ lây nhiễm của châu Âu đang tăng mạnh, tốc độ tiêm chủng vẫn còn hạn chế.
+Vắc xin Covid-19 của Moderna cho hiệu quả phòng bệnh lên đến 94.1%.
+Cơ chế sản xuất vắc xin mRNA-1273 của Moderna
+Để sản xuất vắc xin mRNA-1273, các nhà khoa học Moderna đã nghiên cứu và dựa trên công nghệ dùng vật liệu di truyền (nucleic acid) gọi là mã RNA thông tin (mRNA). Hiện nay trên thế giới, chỉ có 2 hãng dược là Moderna và Pfizer (Mỹ) ứng dụng công nghệ này để bào chế vắc xin Covid-19. Mặt khác, trước đây công nghệ mRNA đã được nghiên cứu cho bệnh cúm, sốt Zika, bệnh dại và virus cytomegalo (CMV).
+Đối với vắc xin mRNA, người tiêm sẽ nhận được vật liệu di truyền – mRNA (đây là vật liệu mã hóa protein virus). Khi vắc xin mRNA được tiêm vào bắp tay, các tế bào cơ sẽ giải mã chúng để tạo ra protein virus trực tiếp trong cơ thể.
+Cách tiếp cận này bắt chước những gì SARS-CoV-2 làm trong tự nhiên – nhưng mRNA của vắc xin chỉ mã hóa cho đoạn quan trọng của protein virus. Điều này giúp cho hệ thống miễn dịch biết trước virus thật trông như thế nào mà không cần phải mắc bệnh. Đồng thời cũng giúp cho hệ thống miễn dịch có thời gian để tạo ra các kháng thể mạnh mẽ có thể vô hiệu hóa vi rút thật nếu người này bị nhiễm bệnh trong tương lai.
+Trong trường hợp này, mRNA tổng hợp là vật chất di truyền, nó không thể được truyền cho thế hệ tiếp theo. Sau khi tiêm mRNA, phân tử này sẽ hướng dẫn các tế bào cơ sản xuất protein virus, nồng độ protein virus đạt đến mức cao nhất trong 24-48 giờ và có thể kéo dài vài ngày sau tiêm.
+Điểm cộng khác cho dạng mRNA đó là có khả năng bền hơn trong việc chống lại mầm bệnh có xu hướng đột biến nhanh, chẳng hạn như virus SARS-CoV-2 hay virus cúm. Vắc xin mRNA đã được chứng minh là “một sự thay thế đầy hứa hẹn” cho vắc xin truyền thống.
+Đối tượng sử dụng vaccine Moderna
+1. Đối tượng nên tiêm ngừa vắc xin mRNA-1273 của Moderna
+Vắc xin phòng Covid-19 của Moderna phát triển được sử dụng ở người từ 18 tuổi trở lên.
+2. Đối tượng không nên tiêm ngừa
+Người có phản ứng dị ứng nặng sau khi tiêm liều đầu tiên của vắc xin mRNA-1273.
+Người đã có phản ứng dị ứng nặng với bất kỳ thành phần của vắc xin này.
+Ngày 10/8/2021, Bộ Y tế ban hành Quyết định 3802/QĐ-BYT về Hướng dẫn tạm thời Khám sàng lọc trước khi tiêm vắc xin phòng COVID-19. Trong văn bản mới này Bộ Y tế đã có những bổ sung, điều chỉnh các nhóm đối tượng trong khám sàng lọc trước tiêm chủng vắc xin phòng COVID-19.
+Theo đó, phụ nữ mang thai từ 13 tuần trở lên hoặc đang cho con bú vẫn có thể tiêm các loại vắc xin phòng COVID-19, lưu ý chống chỉ định với vắc xin Sputnik-V. Khi tiêm vắc xin cho thai phụ cần hỏi rõ tuổi thai và giải thích lợi ích, nguy cơ. Chỉ nên cân nhắc tiêm vắc xin phòng COVID-19 cho phụ nữ mang thai từ 13 tuần trở lên khi lợi ích tiềm năng lớn hơn bất kỳ nguy cơ tiềm tàng nào đối với mẹ và thai nhi, đồng thời thai phụ cần ký cam kết nếu đồng ý tiêm. Những trường hợp này sẽ được chuyển đến các cơ sở có cấp cứu sản khoa để tiêm và theo dõi.
+Vắc xin Moderna là vắc xin mRNA không chứa virus sống gây ra bệnh COVID-19 và do đó vắc xin hoàn toàn không thể gây bệnh COVID-19. Ngoài ra, vắc xin mRNA không tương tác với DNA của một người hoặc gây ra những thay đổi di truyền vì mRNA không đi vào nhân tế bào, nơi lưu giữ DNA. Đồng thời, các chuyên gia y tế khẳng định vắc xin Moderna không ảnh hưởng đến khả năng sinh sản, không ảnh hưởng đến buồng trứng hay sinh dục.
+Lịch tiêm chủng vaccine Moderna
+Phác đồ tiêm vắc xin Moderna gồm 2 mũi/người với liều 0.5ml như sau:
+Mũi 1: Lần đầu tiên tiêm.
+Mũi 2: 28 ngày sau mũi đầu tiên.
+Đường tiêm: tiêm bắp
+Hiệu quả vắc xin mRNA-1273 của Moderna
+Trong bối cảnh số người tử vong vì Covid-19 trên toàn cầu vượt mức báo động, Moderna đã đưa “ứng cử viên” vắc xin mRNA-1273 từ phòng thí nghiệm đến các thử nghiệm trên người trong khoảng thời gian kỷ lục là 63 ngày, và đang trở thành “ngọn hải đăng” dẫn đầu cuộc đua bào chế vắc xin ngừa SARS-CoV-2.
+Ngày 16/03/2020, vacxin Moderna thông báo liều vắc xin chống Covid-19 đầu tiên đã được thử nghiệm trên người, và giai đoạn 2 được tiến hành cuối tháng 5. Sau khi nhận được 2 liều vắc xin, tất cả những người tham gia đã phát triển các kháng thể trung hòa ở mức cao hơn mức trung bình, qua đó vắc xin của Moderna cho thấy “nhiều hứa hẹn” và đáng kỳ vọng. Dù mới là đánh giá bước đầu, song những kết quả được đánh giá là quan trọng, vắc xin tạo ra kháng thể cao, bảo vệ tế bào khỏi sự tấn công của mầm bệnh và đủ an toàn để chuyển sang các thử nghiệm quy mô lớn hơn.
+Triển vọng của vắc xin mRNA-1273 đang làm thay đổi cách mỗi người tiếp cận vấn đề tạo miễn dịch với SARS-CoV-2. Ngày 27/7/2020, vắc xin mRNA-1273 bước vào giai đoạn 3 trong thử nghiệm lâm sàng với số lượng tình nguyện viên lên đến 30.000, thêm một bước quan trọng nữa trong lộ trình đưa mRNA-1273 vào phục vụ cộng đồng và các thị trường thương mại.
+Trước đó, mRNA-1273 sau khi thử nghiệm trên khỉ đã giúp con vật nhanh chóng loại bỏ virus corona trong phổi, và có thể đánh bại căn bệnh. “Virus đã bị loại bỏ rất nhanh trong các con vật được tiêm vắc xin” – tiến sĩ Barney S. Graham, Phó Giám đốc Trung tâm nghiên cứu vắc xin tại Viện Dị ứng và các bệnh truyền nhiễm Quốc gia Mỹ cho biết. Tuy vẫn còn lo ngại, nhưng thành công của thử nghiệm trên khỉ vẫn là tín hiệu đáng mừng, cũng là một dấu ấn trong nỗ lực chống đại dịch Covid-19 của nhân loại. Vì giả sử thử nghiệm với khỉ thất bại, nó sẽ được coi là tín hiệu xấu về tác động của vắc xin với con người.
+Đến tháng 4/2021, Moderna công bố vắc xin mRNA-1273 do họ phát triển cho hiệu quả phòng bệnh lên tới 94.1% trên người lớn qua các đánh giá ban đầu dữ liệu thử nghiệm lâm sàng giai đoạn 3, điều đó cũng có nghĩa thế giới gần như chắc chắn sẽ có hơn một loại vắc xin ngừa Covid-9 cho hiệu quả cao.
+Vaccine của Moderna an toàn, tạo kháng thể cao và không gây ra tác dụng phụ quá nghiêm trọng.
+Tác dụng phụ của chủng vắc xin Moderna
+Tác dụng phụ tại vị trí tiêm: Đau, sưng, mẩn đỏ,…
+Tác dụng phụ ở toàn thân: Ớn lạnh, mệt mỏi, đau đầu, đau cơ khớp, buồn nôn, nôn mửa…
+Tuy nhiên, những tác dụng phụ này thường xuất hiện từ 1-2 ngày sau khi tiêm vaccine. Đối tượng được tiêm có thể có các triệu chứng giống như cúm hoặc ảnh hưởng tới khả năng làm các hoạt động hàng ngày nhưng chúng sẽ biến mất sau vài ngày và không ảnh hưởng đến sức khỏe.
+Độ an toàn của vaccine Moderna
+Theo các nhà khoa học, vaccine Moderna cho hiệu quả phòng Covid-19 lên đến 94.1%, một tỷ lệ thành công rất cao. Tiến sĩ Anthony Fauci, bác sĩ bệnh truyền nhiễm hàng đầu của quốc gia Hoa Kỳ cho biết: “Đây rõ ràng là những kết quả rất thú vị – 94.1% là thực sự xuất sắc”.
+Thêm vào đó, các nghiên cứu cho thấy vắc xin mRNA-1273 an toàn, dung nạp tốt, tạo ra phản ứng miễn dịch tốt trong cơ thể và không có tác dụng phụ quá nghiêm trọng.
+Đặc biệt, vaccine Moderna đang được nghiên cứu chứng minh có hiệu quả trong việc chống lại các biến thể virus SARS-CoV-2 mới. Cụ thể, với biến chủng B.1.351 (Nam Phi) và ba biến chủng xuất hiện tại Ấn Độ, trong đó có chủng Delta, vaccine Moderna kích thích tạo ra kháng thể tồn tại trong cơ thể 6 tháng sau khi tiêm liều thứ 2. Những kháng thể này giúp cơ thể con người kháng lại virus SARS-CoV-2. Vì thế, vắc xin này được khuyên dùng vì có tính hiệu quả cao.
+Bảo quản vắc xin mRNA-1273 của Moderna
+Không giống vắc xin Pfizer phải phân phối phức tạp vì vận chuyển và bảo quản ở -70 độ C, vaccine mRNA-1273 của Moderna không yêu cầu tủ đông cực lạnh chuyên dụng hoặc lượng lớn đá khô mà chỉ cần được vận chuyển trong nhiệt độ từ -25° đến -15°C (-13° đến 5°F) tương tự như trong tủ đông thông thường, qua đó dễ dàng cung cấp cho vùng nông thôn và vùng sâu, xa.
+Các lọ vắc xin mRNA-1273 của Moderna có thể bảo quản trong tủ lạnh ở nhiệt độ từ 2° đến 8°C (36° đến 46°F) trong tối đa 30 ngày trước lần sử dụng đầu tiên. Có thể bảo quản các lọ vắc-xin chưa bóc vỏ ở nhiệt độ từ 8° đến 25°C (46° đến 77°F) trong tối đa 12 giờ. Không được làm đông lạnh lại một khi đã rã đông.
+Vắc xin mRNA-1273 của Moderna giá bao nhiêu?
+Dù thuận lợi trong khâu vận chuyển, song giá bán của vắc xin Moderna khiến nhiều chuyên gia e ngại. Hồi tháng 7/2020, hãng công bố giá dự kiến cho mỗi liều khoảng 25-30 USD. Giá này sẽ được áp dụng đối với Mỹ và một số quốc gia thu nhập cao mà hãng dự định ưu tiên cung cấp. Mức giá này cao hơn nhiều so với hầu hết các đối thủ trên thị trường.
+Nên tiêm phòng vắc xin Moderna của Mỹ ở đâu?
+Trước những báo cáo gần đây về biến chủng mới của virus SARS-CoV-2 tại Ấn Độ, Anh, Nam Phi, Nigeria, Canada… khiến cộng đồng quốc tế lo ngại hơn về diễn biến của đại dịch. Hệ thống Trung tâm tiêm chủng VNVC đang nỗ lực đàm phán với các nhà sản xuất vaccine trên thế giới để tiếp cận và sớm đưa về Việt Nam những loại vắc xin phòng COVID-19 hiệu quả cho cộng đồng, trong đó có vắc xin Moderna.
+Với gần 60 trung tâm trên khắp cả nước, gần 5000 bác sĩ, điều dưỡng viên, gần 2.000 nhân viên chăm sóc khách hàng và các bộ phận hỗ trợ, VNVC tự hào là Hệ thống Trung tâm tiêm chủng cao cấp hàng đầu Việt Nam và cũng là đơn vị tiên phong trong việc nhập khẩu và phân phối vắc xin phòng Covid-19 của AstraZeneca (Vương quốc Anh), loại vắc xin phòng COVID-19 đầu tiên tại Việt Nam.
+Câu hỏi thường gặp
+1. Vắc xin mRNA-1273 có dùng vi rút sống không?
+Vắc xin mRNA-1273 không không chứa virus Sars-Cov-2 còn sống. Trước nay, vắc xin truyền thống được tạo thành từ các virus sống đã suy yếu, bị bất hoạt, hoặc dùng protein của chính các virus đó để kích hoạt phản ứng miễn dịch, tuy nhiên, vaccine mRNA lại được tạo thành từ vật liệu di truyền đặc biệt có khả năng “dạy” cho các tế bào tự xây dựng hàng phòng thủ trước cơ chế “protein tăng đột biến” do virus SARS-CoV-2 gây ra.
+2. Việt Nam phê duyệt khẩn cấp vắc xin Moderna
+Ngày 29/06/2021, Bộ Y tế phê duyệt có điều kiện vắc xin Moderna cho nhu cầu cấp bách trong phòng, chống Covid-19 dựa trên các dữ liệu về an toàn, chất lượng và hiệu quả được cung cấp. Đây là loại vắc xin phòng Covid-19 thứ 5 tại Việt Nam được phê duyệt, sau AstraZeneca, Sputnik V, Pfizer và Sinopharm.
+Dự kiến trong năm 2021, Việt Nam có hơn 120 triệu liều vaccine phòng COVID-19 đến từ 5 nguồn cung cấp gồm: 31 triệu liều vắc xin Pfizer/BioNTech, 30 triệu liều vắc xin AstraZeneca (Anh), 5 triệu liều vắc xin Moderna (Mỹ) và 20 triệu liều vắc xin Sputnik V (Nga).
+Vaccine Moderna của Mỹ sản xuất đã được chứng minh an toàn, hiệu quả cao ngăn chặn Covid-19, kể cả biến chủng Delta và có thể giúp người được chủng ngừa duy trì miễn dịch ít nhất 1 năm. Hãy cùng VNVC cập nhật những thông tin sớm nhất về vaccine Moderna cũng như lộ trình vaccine Covid-19 về đến Việt Nam trong những bài viết tiếp theo.
+Cần lưu ý gì khi tiêm vắc xin mRNA-1273 của Moderna
+1. Trước khi đi tiêm phải chuẩn bị gì?
+Mang theo giấy tờ cá nhân: chứng minh nhân dân/căn cước công dân, thẻ bảo hiểm y tế; sổ khám bệnh, đơn thuốc, phiếu tiêm các vắc xin khác… được sử dụng trong thời gian gần đây (nếu có).
+Đeo khẩu trang, thực hiện đầy đủ “Thông điệp 5K” của Bộ Y tế khi đi tiêm chủng. Ăn uống đầy đủ trước khi thực hiện chủng ngừa.
+Thực hiện khai báo thông tin cần thiết trên ứng dụng Sổ sức khỏe điện tử trên điện thoại thông minh Android và IOS.
+Chủ động thông báo chi tiết cho cán bộ y tế các thông tin sức khỏe cá nhân tại thời điểm đi tiêm chủng:
+Tình trạng sức khỏe hiện tại như: sốt, bệnh cấp tính,…
+Các bệnh mạn tính hay tiến triển đang mắc phải hoặc điều trị.
+Thuốc, liệu trình điều trị đang hoặc đã sử dụng gần đây.
+Tiền sử dị ứng hoặc phản vệ với bất kỳ tác nhân/ thành phần nào của vắc xin.
+Tình trạng nhiễm virus SARS-CoV-2 (nếu có).
+Có tiêm/uống vắc xin khác trong vòng 14 ngày qua.
+Có đang mang thai hoặc cho con bú (nếu bạn là phụ nữ trong độ tuổi sinh đẻ)?
+Nếu tiêm liều 2, phải thông báo cho cán bộ y tế các phản ứng sau tiêm vắc xin phòng Covid-19 lần trước (nếu có).
+Chủ động tìm hiểu và hỏi cán bộ y tế:
+Những thông tin liên quan về loại vắc xin phòng COVID-19 bạn được tiêm và lịch tiêm mũi tiếp theo.
+Các phản ứng phụ có thể xuất hiện sau khi tiêm và cách xử lý hiệu quả.
+Cơ sở y tế và số điện thoại liên hệ trong trường hợp khẩn cấp.
+2. Sau khi tiêm vaccine Covid-19 cần lưu ý?
+Theo dõi sức khỏe bản thân sau khi tiêm chủng:
+Ở lại 30 phút sau khi tiêm chủng để được cán bộ y tế theo dõi, phát hiện sớm các phản ứng sau tiêm chủng (nếu có).
+Khi về nhà, nơi làm việc: chủ động theo dõi sức khỏe ít nhất 7 ngày sau tiêm.
+Người được tiêm chủng có thể gặp một số phản ứng thông thường sau tiêm vaccine Covid-19 như: sốt, mệt mỏi, đau đầu, ớn lạnh, đau cơ, ngứa, sưng, đỏ, đau tại chỗ tiêm, bồn chồn… Đây đều là các phản ứng thông thường, không đáng kể sau khi tiêm vaccine ngừa Covid-19, cho biết cơ thể có đáp ứng miễn dịch với vắc xin.
+Các phản ứng nghiêm trọng sau tiêm vaccine Covid-19 là cực kỳ hiếm gặp như:
+Các dấu hiệu nghiêm trọng có thể xuất hiện sau vài giờ hoặc trong ngày đầu tiêm vắc xin Covid-19:
+Ở miệng: ngứa, sưng môi, sưng lưỡi,…
+Ở da: phát ban, sưng, tím tái,…
+Ở họng: ngứa, căng cứng, tắc nghẹn, khàn đặc…
+Đường tiêu hóa: nôn, tiêu chảy,…
+Đường hô hấp: thở dốc, thở khò khè, khó thở, cảm giác nghẹt thở,…
+Toàn thân: mạch yếu, chóng mặt, choáng/xây xẩm, cảm giác muốn ngã, chân tay co quắp…
+Dấu hiệu cảnh báo diễn biến nặng lên: sốt cao >= 39 độ C, sưng/đỏ lan rộng tại chỗ tiêm, đau cơ dữ dội, tăng huyết áp hoặc tụt huyết áp hoặc kẹt huyết áp,…
+Sau khi tiêm chủng ngừa vaccine Moderna, bạn hãy uống thật nhiều nước và nghỉ ngơi đầy đủ để giảm bớt mệt mỏi và hạ sốt nhanh nhất. Ngoài ra, đừng quên bổ sung thêm những thực phẩm giàu dinh dưỡng, không dùng các chất kích thích và hãy đến ngay các cơ sở y tế nếu bạn gặp phải các dấu hiệu nghiêm trọng hoặc bất thường nêu trên để được khám, chẩn đoán và xử trí kịp thời.

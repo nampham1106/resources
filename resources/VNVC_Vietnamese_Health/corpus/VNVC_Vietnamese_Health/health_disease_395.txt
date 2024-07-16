@@ -1,0 +1,114 @@
+# doc_id = health_disease_395
+# url = https://vnvc.vn/vaccine-bat-hoat/
+# date = 22/03/2024
+Vaccine bất hoạt là gì? Gồm những loại nào? An toàn không?
+Vaccine bất hoạt không chứa virus sống nên thường khá an toàn. Bất kể loại vắc xin nào, kể cả vắc xin bất hoạt khi xét về hiệu quả phòng ngừa bệnh tật và tử vong, lợi ích đều lớn hơn rất nhiều so với các phản ứng thường gặp. Vậy vắc xin bất hoạt là gì? Cơ chế hoạt động của vắc xin như thế nào? Thông tin chi tiết sẽ được cập nhật trong bài viết dưới đây.
+Theo BS Nguyễn Văn Quảng – Quản lý Y khoa vùng 4 khu vực miền Bắc, Hệ thống tiêm chủng VNVC: “Vắc xin bất hoạt là các loại vắc xin chứa thành phần là toàn bộ hay chỉ một phần của vi sinh vật đã bị làm chết đi nhưng vẫn có khả năng sinh miễn dịch đặc hiệu chống lại các bệnh truyền nhiễm, vắc xin bất hoạt an toàn và thường ít gây các phản ứng sau tiêm hơn những nhóm vắc xin khác”.
+Mục lụcVắc xin bất hoạt là gì?Vaccine bất hoạt có cơ chế phòng bệnh như thế nào?So sánh vacxin bất hoạt với các công nghệ vắc xin khácVaccine bất hoạt thích hợp với ai? Ai không nên tiêm?Vaccine bất hoạt gồm những loại nào?1. Vắc xin bất hoạt toàn thể2. Vắc xin dưới đơn vịNhững tác dụng phụ thường gặp của vắc xin bất hoạt và cách xử lý1. Tác dụng phụ thường gặp2. Cách xử lýTiêm vaccine bất hoạt ở đâu?Tìm hiểu quy trình sản xuất của vắc xin bất hoạtKết luậnVắc xin bất hoạt là gì?
+Vắc xin bất hoạt (tên khoa học là inactivated vaccine) là chế phẩm sinh học đặc biệt sử dụng virus có vật chất di truyền (virus hoặc vi khuẩn) đã bị “bất hoạt” thông qua các phương pháp hóa học, vật lý để tạo ra vắc xin bất hoạt.
+Vaccine bất hoạt được phát triển lần đầu tiên vào cuối những năm 1890, là vắc xin phòng bệnh thương hàn. Sau này, vắc xin bất hoạt được phát triển để phòng nhiều bệnh khác: cúm, bại liệt, viêm não Nhật Bản, ho gà, bệnh dại, tả… [1]
+Vắc xin bất hoạt là chế phẩm sinh học bao gồm các loại virus, vi khuẩn đã được triệt tiêu mầm bệnh
+Vaccine bất hoạt có cơ chế phòng bệnh như thế nào?
+Sau khi vắc xin bất hoạt được đưa vào cơ thể, hệ miễn dịch sẽ phản ứng như cách chống lại mầm bệnh thông thường, cơ thể sẽ lưu giữ trí nhớ miễn dịch, sẵn sàng phản ứng khi tiếp xúc với mầm bệnh tương tự trong tương lai. Điều này có nghĩa là sau khi tiêm vắc xin bất hoạt, nếu cơ thể thực sự bị mầm bệnh xâm nhập, hệ thống miễn dịch sẽ có phản ứng hiệu quả, nhanh chóng để phòng thủ, bảo vệ cơ thể khỏi bệnh tật. [2]
+Vaccine bất hoạt gồm các mầm bệnh đã được triệt tiêu (vẫn mang đặc điểm như mầm bệnh thông thường). Vì vậy, đưa vào trong cơ thể, hệ thống miễn dịch vẫn có thể nhận biết và xử lý mầm bệnh đã chết như một tác nhân gây bệnh thực sự. Do vắc xin bất hoạt chứa mầm bệnh đã được triệt tiêu nên cơ thể không phải đối mặt với nguy cơ mắc bệnh, nhờ vậy, loại vắc xin này có khả năng ít tạo phản ứng sau tiêm hơn.
+So sánh vacxin bất hoạt với các công nghệ vắc xin khác
+Vaccine bất hoạt
+Vaccine giảm độc lực
+Vaccine axit nucleic
+Vaccine giải độc tố
+Đặc điểm
+Vaccine bất hoạt được sản xuất bằng cách nuôi cấy mầm bệnh, sau đó bất hoạt chúng bằng nhiệt hoặc hóa chất.
+Vaccine giảm độc lực được sản xuất từ các tác nhân gây bệnh (virus, vi khuẩn). Những tác nhân này đã được làm giảm độc lực bằng nhiều cách, phổ biến nhất là nuôi cấy lặp lại trong một môi trường.
+Sử dụng chất liệu di truyền là DNA hoặc RNA để kích thích đáp ứng miễn dịch của cơ thể.
+Vaccine giải độc tố tạo ra từ độc tố mà vi khuẩn sản sinh ra.
+Hiệu quả phòng bệnh
+Vaccine bất hoạt chỉ kích thích phản ứng qua trung gian kháng thể. Các phản ứng này yếu và thời gian tồn tại ngắn. Để khắc phục, vaccine bất hoạt thường được tiêm cùng chất bổ trợ và dùng liều nhắc lại.
+Đáp ứng miễn dịch đạt được từ loại vaccine này gần như giống hoàn toàn với khi mắc bệnh tự nhiên. Tạo ra kháng thể mạnh, đáp ứng miễn dịch qua trung gian, khả năng miễn dịch lâu dài và có tác dụng nhanh. Tuy nhiên, một số loại vắc xin cần sử dụng liều nhắc lại để củng cố miễn dịch.
+Về mặt lý thuyết, Vaccine axit nucleic hiệu quả không kém các loại vaccine truyền thống khác.
+Được tiêm thành từng đợt với nhiều liều để đạt được hiệu quả bảo vệ tối đa. Vaccine có thể tiêm nhắc lại nếu có nhu cầu đi du lịch, công tác tại địa phương có dịch bệnh.
+Mức độ an toàn
+Mức độ an toàn cao, có thể dùng cho người bị suy giảm miễn dịch.
+Vắc xin sống giảm độc lực là vắc xin an toàn được sử dụng để phòng ngừa nhiều loại bệnh do virus và vi khuẩn gây ra.
+Tuy nhiên, người bị suy giảm miễn dịch dễ gặp phản ứng nghiêm trọng… cần được khám sàng lọc và chỉ định vắc xin chuẩn xác từ bác sĩ.
+Mức độ an toàn cao vì chỉ chứa phần kháng nguyên cần thiết, không có khả năng gây bệnh.
+Vaccine giải độc tố an toàn cho người dùng, có độ ổn định cao, ít nhạy cảm với sự thay đổi của nhiệt độ, độ ẩm và ánh sáng.
+Vaccine bất hoạt thích hợp với ai? Ai không nên tiêm?
+Vaccine bất hoạt phù với tất cả đối tượng, kể cả người già, trẻ nhỏ, người có hệ miễn dịch suy giảm bởi bản chất, trong vắc xin không chứa tác nhân bệnh sống nên không gây nguy cơ mắc bệnh, các phản ứng phụ cũng nhẹ và không đáng lo. Đây cũng là một trong những ưu điểm nổi bật của loại vắc xin này, được ứng dụng rộng rãi trong rất nhiều loại vắc xin tiêm phòng hiện nay. [3]
+Vaccine bất hoạt phù với tất cả đối tượng, kể cả người già, trẻ nhỏ, người có hệ miễn dịch suy giảm
+Vaccine bất hoạt gồm những loại nào?
+Vắc xin bất hoạt gồm 2 loại: Vắc xin bất hoạt toàn thể và vắc xin dưới đơn vị (vắc xin tiểu đơn vị). Cụ thể:
+1. Vắc xin bất hoạt toàn thể
+Vắc xin bất hoạt toàn thể được sản xuất bằng cách nuôi cấy tác nhân gây bệnh, sau đó sử dụng nhiệt hoặc các hóa chất như formalin để bất hoạt. Khi tác nhân gây bệnh được bất hoạt, chúng không thể tiếp tục nhân ra, phát triển và gây bệnh. Nhờ đó, khi sử dụng một liều lượng phù hợp, vắc xin có thể giúp cho cơ thể nhận biết kháng nguyên, sản sinh miễn dịch kháng lại tác nhân gây bệnh trong tương lai.
+Do không phải vắc xin sống nên vắc xin bất hoạt toàn thể khá an toàn, dùng được cho những trường hợp có hệ miễn dịch suy giảm. Tuy nhiên, bởi loại vắc xin bất hoạt toàn thể không lây nhiễm vào tế bào, chỉ kích thích phản ứng qua trung gian kháng thể nên phản ứng có thể yếu hơn, thời gian tồn tại ngắn hơn. Vì vậy, để đạt được hiệu quả bảo vệ tốt nhất, cần tiêm nhắc lại nhiều lần. Đặc biệt, người cao tuổi từ 65 tuổi trở lên nên tiêm nhắc lại định kỳ để tối đa hóa mức độ kháng thể, tăng khả năng bảo vệ.
+Một số bệnh được phòng ngừa bằng vắc xin bất hoạt toàn thể phổ biến hiện nay như:
+Cúm
+Ho gà
+Thương hàn
+Tả
+Bại liệt
+Cúm
+Viêm gan A,…
+Dại
+2. Vắc xin dưới đơn vị
+Vắc xin dưới đơn vị hay còn gọi là vắc xin tiểu đơn vị không chứa tác nhân gây bệnh còn sống. Thành phần của vắc xin chủ yếu chứa phần kháng nguyên cần thiết từ tác nhân gây bệnh để tạo đáp ứng miễn dịch cho cơ thể. Thay vì tiêm toàn bộ mầm bệnh để kích thích phản ứng miễn dịch, vắc xin dưới đơn vị chứa các mảnh tinh khiết (kháng nguyên) để kích thích tế bào miễn dịch. Có một số loại vắc xin tiểu đơn vị phổ biến, bao gồm:
+Vaccine tiểu đơn vị protein: Chứa các protein đặc trưng tách ra từ virus, vi khuẩn gây bệnh.
+Vaccine polysaccharide: Chứa các phân tử đường polysaccharide tìm thấy trong thành tế bào của tác nhân gây bệnh.
+Vaccine tiểu đơn vị liên hợp: liên kết chuỗi polysaccharide và Protein để tăng cường đáp ứng miễn dịch.
+Hiện nay, vắc xin dưới đơn vị được sử dụng rộng rãi để phòng ngừa một số bệnh truyền nhiễm:
+Viêm gan B
+Bạch hầu
+Uốn ván
+Zona
+Phế cầu
+Những tác dụng phụ thường gặp của vắc xin bất hoạt và cách xử lý
+1. Tác dụng phụ thường gặp
+Bất kỳ loại vaccine nào cũng có thể gây ra tác dụng phụ sau tiêm, đa phần đây là các triệu chứng nhẹ, không đáng lo và sẽ hết sau vài giờ hoặc vài ngày như:
+Đau nhức, nổi mẩn đỏ tại vị trí tiêm
+Sốt, đau đầu
+Chán ăn, mệt mỏi, uể oải
+Nhiều người không có bất kỳ triệu chứng nào sau tiêm
+Sốt là một trong những triệu chứng thường gặp sau tiêm vắc xin, thường sẽ hết sau vài ngày
+Theo các chuyên gia, người được tiêm chủng cần ở lại theo dõi các phản ứng sau tiêm tại trung tâm tiêm chủng ít nhất 30 phút và tiếp tục theo dõi tại nhà 72 giờ. Các phản ứng nặng rất hiếm gặp nhưng có thể xảy ra như phản ứng phản vệ, nhiễm độc, co giật do sốt cao. Bệnh nhân cần được xử trí tại chỗ đúng cách và đưa đến cơ sở y tế càng sớm càng tốt.
+2. Cách xử lý
+Để tránh tác dụng phụ không đáng có sau tiêm vaccine bất hoạt, có một số lưu ý sau:
+Chọn cơ sở tiêm chủng uy tín, bảo quản vắc xin đạt chuẩn theo yêu cầu của nhà sản xuất, thực hành tiêm chủng an toàn.
+Theo dõi sức khỏe tại cơ sở tiêm tối thiểu 30 phút.
+Nếu không có vấn đề bất thường, có thể ra về và theo dõi tại nhà trong 72 giờ. Khi có biểu hiện lạ như: nôn trớ, sốt cao trên 38 độ, da nổi mẩn đỏ,… cần báo ngay với cơ sở tiêm chủng hoặc đến ngay cơ sở y tế gần nhất để được hỗ trợ.
+Trong 24-48 giờ đầu sau tiêm, cần theo dõi thân nhiệt, nhịp thở, vùng tiêm và da toàn thân. Nếu có dấu hiệu sốt, có thể dùng thuốc hạ sốt, bù dịch, mặc thoáng, không ủ ấm hay đắp quá nhiều chăn.
+⇒ Tìm hiểu thêm: Có mấy loại vắc xin hiện nay, lợi ích và hạn chế là gì?
+Tiêm vaccine bất hoạt ở đâu?
+Hệ thống trung tâm tiêm chủng VNVC là địa chỉ tiêm chủng vắc xin cao cấp, uy tín an toàn hàng đầu Việt Nam, VNVC cung cấp đầy đủ các loại vắc xin cho trẻ em và người lớn kể cả các loại vaccine bất hoạt chất lượng cao, giá thành bình ổn.
+VNVC là đơn vị đầu tiên tại Việt Nam đầu tư hệ thống hàng trăm kho lạnh bảo quản vắc xin đạt chuẩn GSP, toàn bộ vắc xin được sử dụng để tiêm chủng tại VNVC đều được nhập khẩu chính hãng bảo quản trong điều kiện nhiệt độ từ 2-8 độ C đảm bảo cho tất cả vắc xin luôn trong tình trạng tốt nhất trước khi tiêm cho khách hàng.
+Vắc xin khi nhập về được VNVC bảo quản trong hệ thống kho lạnh đạt tiêu chuẩn GSP hiện đại
+VNVC xây dựng quy trình an toàn tiêm chủng khắt khe nhất tại Việt Nam, 100% khách hàng đến tiêm chủng đều được khám sàng lọc trước miễn phí trước khi tiêm với đội ngũ bác sĩ giàu kinh nghiệm. Toàn bộ bác sĩ và điều dưỡng tại trung tâm đều có chứng chỉ tiêm an toàn, đảm bảo thao tác chuẩn, tiêm kỹ thuật cao, giảm đau và an toàn.
+Nhiều bạn trẻ đã mua các gói vắc xin HPV, gói vắc xin linh hoạt theo nhu cầu tại VNVC
+Ngoài ra, VNVC cam kết bình ổn giá vắc xin, công khai giá niêm yết trên các trang thông tin của VNVC. Ngay cả trong thời điểm khan hiếm vắc xin VNVC vẫn giữ nguyên giá giúp khách hàng tiết kiệm chi phí tiêm vaccine phòng bệnh. Hiện tại, VNVC đang có sẵn nhiều loại vắc xin bất hoạt phòng nhiều bệnh khác nhau, bao gồm:
+Phòng bệnh
+Vắc xin bất hoạt
+Bại liệt
+Imovax Polio (IPV)
+Cúm mùa
+Vaxigrip Tetra (Pháp)
+Influvac Tetra (Hà Lan)
+GC Flu Quadrivalent (Hàn Quốc)
+Ivacflu-S (Việt Nam)
+Dại
+Verorab/ Abhayrab (Pháp/Ấn Độ)
+Tả
+mORCVAX (Việt Nam)
+Viêm gan B
+Heberbiovac HB (Cu Ba)
+Gene HB vax (Việt Nam)
+Engerix B (Bỉ)
+Euvax B (Hàn Quốc)
+Viêm não Nhật Bản
+Jevax (Việt Nam)
+JEEV (Ấn Độ)
+Viêm màng não, viêm phổi, viêm tai giữa do phế cầu khuẩn
+Synflorix (Bỉ)
+Prevenar 13 (Bỉ)
+Tìm hiểu quy trình sản xuất của vắc xin bất hoạt
+Để tạo ra vắc xin bất hoạt, tác nhân gây bệnh (mầm bệnh) được nuôi cấy trong môi trường phù hợp ở phòng thí nghiệm. Đây được xem là hạn chế, khó khăn ban đầu trong sản xuất vắc xin. Bởi các nhà sản xuất buộc phải tìm ra môi trường, điều kiện ánh sáng, nhiệt độ, độ ẩm,… phù hợp để kích thích virus phát triển.
+Sau khi virus đã phát triển đến mức độ nhất định, quá trình vô hiệu hóa virus được tiến hành. Quá trình này được thực hiện bằng cách sử dụng nhiệt hoặc các hóa chất. Khi vắc xin được sản xuất ở dạng phân đoạn, chỉ còn lại ở dạng protein hoặc polysaccharide sẽ tạo ra vắc xin tiểu đơn vị.
+Kết luận
+Vaccine bất hoạt được xem là tiền đề của các loại vắc xin mới hiện nay. Trên thực tế, vẫn có rất nhiều loại vắc xin được sản xuất theo công nghệ này đang sử dụng tiêm chủng rộng rãi trong cộng đồng, mang lại hiệu quả miễn dịch tốt. Để tư vấn chi tiết và đặt lịch tiêm chủng các loại vắc xin phòng bệnh, khách hàng có thể liên hệ trực tiếp qua Fanpage Trung tâm tiêm chủng VNVC hoặc gọi qua hotline 028 7102 6595.

@@ -1,0 +1,118 @@
+# doc_id = health_disease_184
+# url = https://vnvc.vn/tien-ung-thu-co-tu-cung/
+# date = 19/10/2022
+Các tổn thương tiền ung thư cổ tử cung và cách điều trị hiệu quả
+Tiền ung thư cổ tử cung là giai đoạn ung thư có tiên lượng tốt, có thể chữa khỏi hoàn toàn nếu được phát hiện và can thiệp điều trị sớm.
+Mục lụcTiền ung thư cổ tử cung là gì?Tiền ung thư cổ tử cung có nguy hiểm không?Nguyên nhân gây tiền ung thư cổ tử cungYếu tố nguy cơ gây tiền ung thư cổ tử cungCác tổn thương tiền ung thư cổ tử cungTế bào vảy bất thườngTế bào tuyến bất thườngDấu hiệu nhận biết tiền ung thư cổ tử cungPhương pháp chẩn đoán, xét nghiệm tiền ung thư cổ tử cungĐiều trị tiền ung thư cổ tử cungTiên lượng sống sau điều trị tiền ung thư cổ tử cungPhòng ngừa ung thư cổ tử cungTiền ung thư cổ tử cung là gì?
+Tiền ung thư cổ tử cung (hay còn gọi là giai đoạn ung thư biểu mô tại chỗ) là giai đoạn các tế bào biểu mô bất thường mới bắt đầu xuất hiện trong lớp lót cổ tử cung mà chưa xâm lấn sâu xuống mô chính, chưa lan sang các bộ phận khác.
+Tân sản nội biểu mô cổ tử cung (nghịch sản cổ tử cung) là một trong những bất thường tế bào biểu mô thường gặp của niêm mạc của cổ tử cung, có nguy cơ tiến triển ác tính nhưng chưa có sự xâm nhập các tầng mô đệm của tử cung. Tình trạng này thường xuất hiện ở vùng chuyển tiếp giữa biểu mô lát tầng với biểu mô tuyến hay (biểu mô trụ của cổ tử cung).
+Tân sản nội biểu mô cổ tử cung (cervical intraepithelial neoplasia – CIN) thường gặp ở độ tuổi từ 30 – 50 tuổi, là một trong những tổn thương tiền ung thư cổ tử cung do có thể tiến triển thành ung thư tại chỗ dẫn tới xâm lấn cổ tử cung hình thành nên ung thư cổ tử cung. Tổn thương này được hình thành ở biểu mô lát tầng cổ tử cung do sự xâm nhiễm của ít nhất 1 type HPV nguy cơ cao. Đó là tiền đề của ung thư xâm lấn cổ tử cung.
+Ở giai đoạn tiền ung thư cổ tử cung, các tế bào biểu mô bất thường mới bắt đầu xuất hiện trong lớp lót cổ tử cung mà chưa xâm lấn sâu xuống mô chính và chưa lan sang các bộ phận khác. Các dạng tiền ung thư này có sự tiến triển từng giai đoạn như ASC-US, CIN1, CIN2, CIN 3 (1). Thời gian để những tổn thương tiền ung thư cổ tử cung trở thành ung thư cổ tử cung thường lên tới 10 năm hoặc hơn, một số trường hợp hiếm gặp thì thời gian này có thể ngắn hơn. Do đó, việc phát hiện sớm các tổn thương này có ý nghĩa quan trọng trong việc chẩn đoán sớm ung thư cổ tử cung.
+Tiền ung thư cổ tử cung có nguy hiểm không?
+Ung thư cổ cổ tử cung là căn bệnh ung thư nguy hiểm thứ 2 ở phụ nữ chỉ sau ung thư vú, với tỷ lệ người mắc bệnh ngày càng tăng cao với tỷ lệ biến chứng nặng, tỷ lệ tử vong cao, đáng báo động độ tuổi bị ung thư cổ tử cung đang có xu hướng ngày càng trẻ hóa, hy hữu có trường hợp 14 tuổi đã mắc bệnh (2).
+Tiền ung thư cổ tử cung có nguy hiểm không? Tiền ung thư cổ tử cung là những thay đổi khiến tế bào ở cổ tử cung không còn như bình thường mà có xu hướng tiến triển thành ung thư, nhưng những tổn thương này chưa phải là ung thư, chỉ khi không được can thiệp điều trị thì chúng mới có nguy cơ phát triển thành ung thư thực sự. Do vậy, đây là giai đoạn có thể được chữa khỏi hoàn toàn, tiên lượng tốt, không gây biến chứng nghiêm trọng như các giai đoạn khác.
+Sau giai đoạn tiền ung thư cổ tử cung, có khoảng 5 – 10% người bệnh sẽ tiến triển thành ung thư cổ tử cung do sự biến đổi của các virus HPV trong tử cung. Nếu không được phát hiện và điều trị sớm, bệnh sẽ để lại nhiều biến chứng nguy hiểm như:
+Mãn kinh sớm;
+Thu hẹp âm đạo;
+Vô sinh;
+Phù bạch huyết;
+Suy thận;
+Hình thành cục máu đông;
+Lỗ rò âm đạo – bàng quang;
+Nguyên nhân gây tiền ung thư cổ tử cung
+Nguyên nhân gây tiền ung thư cổ tử cung nói riêng và bệnh ung thư cổ tử cung nói chung là do nhiễm ít nhất 1 tuýp virus HPV (Human Papillomavirus) lây qua đường tình dục có nguy cơ cao như: 16, 18, 31, 33, 35, 39, 45, 51,… Trong đó, có hơn 70% số ca mắc ung thư cổ tử cung do 2 tuýp virus HPV là 16 và 18.
+Các nghiên cứu cho thấy, hầu như tất cả mọi người trong độ tuổi sinh hoạt tình dục đều nhiễm virus HPV ít nhất một lần trong đời, và trong số đó, có khoảng 50% trường hợp nhiễm tuýp virus HPV nguy cơ cao. Khi bị nhiễm 1 tuýp virus HPV, hệ thống miễn dịch của cơ thể sẽ được kích hoạt để chống lại sự lây nhiễm của chính tuýp virus đó. Tuy nhiên, không phải lúc nào cơ thể cũng phòng vệ thành công, đối với trường hợp bị nhiễm tuýp virus HPV nguy cơ cao, người bệnh có thể tiến triển ung thư cổ tử cung trong tương lai.
+Yếu tố nguy cơ gây tiền ung thư cổ tử cung
+Lây nhiễm virus HPV là nguyên nhân hàng đầu gây bệnh ung thư cổ tử cung và các bệnh về đường sinh dục khác như ung thư hậu môn, ung thư hầu họng, mụn cóc sinh dục,… Bên cạnh đó, có một số yếu tố nguy cơ thúc đẩy khả năng bị ung thư cổ tử cung bao gồm:
+Quan hệ tình dục sớm, quan hệ tình dục không an toàn, quan hệ với nhiều bạn tình
+Sinh con nhiều lần (hơn 3 con);
+Sinh con khi còn quá trẻ (dưới 17 tuổi);
+Điều trị không triệt để các bệnh lý tử cung và bộ phận sinh dục như lạc nội mạc tử cung,…
+Tiền sử gia đình có người bị ung thư cổ tử cung;
+Người hút thuốc lá;
+Người mắc các bệnh lý suy giảm miễn dịch (HIV/AIDS), người mắc bệnh lý nền như: đái tháo đường, hen suyễn,…
+Người nhiễm bệnh Chlamydia;
+Người sử dụng thuốc tránh thai trong một thời gian dài.
+Ở những người bị nhiễm tuýp virus HPV nguy cơ cao phối hợp với các yếu tố nguy cơ khác sẽ tạo ra các tổn thương ban đầu, các tổn thương này có thể tồn tại và tiến triển âm thầm trong khoảng từ 5 – 10 năm qua các giai đoạn của tân sản nội biểu mô cổ tử cung để dần hình thành lên ung thư cổ tử cung.
+Triệu chứng ung thư cổ tử cung âm ỉ, rất dễ nhầm lẫn với các bệnh lý sản phụ khoa khác
+Các tổn thương tiền ung thư cổ tử cung
+Dựa trên xét nghiệm phết tế bào cổ tử cung (xét nghiệm Pap), các tổn thương tiền ung thư cổ tử cung được phân chia thành 2 loại chính, bao gồm các thay đổi liên quan tới tổn thương tế bào biểu mô vảy – tế bào vảy bất thường (squamous intraepithelial lesion – SIL) và tổn thương tế bào tuyến – tế bào tuyến bất thường (atypical glandular cells – AGC).
+Tế bào vảy bất thường
+Tế bào vảy bất thường là sự biến đổi được phát hiện ở tế bào vảy, những sự thay đổi này hầu hết là dấu hiệu của tình trạng nhiễm HPV. Hiện có 2 loại tổn thương tế bào biểu mô vảy gồm:
+Tổn thương tế bào biểu mô vảy mức độ thấp (low – grade squamous intraepithelial lesion – LSIL): chỉ có những tế bào biểu mô bề mặt (hoặc các tế bào lân cận) của cổ tử cung bị biến đổi.
+Tổn thương tế bào biểu mô vảy mức độ cao (high – grade squamous intraepithelial lesion – HSIL): các tế bào biểu mô cổ tử cung ở lớp sâu hơn cũng bị thay đổi.
+Tế bào tuyến bất thường
+Tế bào tuyến bất thường là sự biến đổi xảy ra đối với tế bào tuyến ở cổ tử cung, những thay đổi này có mối liên quan với nguy cơ cao hơn tiến triển thành ung thư.
+Dấu hiệu nhận biết tiền ung thư cổ tử cung
+Ung thư cổ tử cung là bệnh lý diễn tiến âm thầm trong nhiều năm. Ở giai đoạn tiền ung thư cổ tử cung, các triệu chứng lâm sàng của bệnh không rõ rệt, dễ nhầm lẫn với các bệnh lý phụ khoa khác. Vì vậy, chị em phụ nữ cần thực hiện các xét nghiệm tầm soát ung thư cổ tử cung để kiểm tra và phát hiện kịp thời các tế bào ung thư cổ tử cung. Nếu xuất hiện các dấu hiệu nhận biết ung thư cổ tử cung dưới đây, phụ nữ cần đến bệnh viện ngay để được thăm khám:
+Chảy máu âm đạo hoặc tiết dịch bất thường;
+Đau rát khi quan hệ tình dục;
+Đau vùng chậu hoặc đau lưng dưới;
+Tiểu buốt, tiểu đau hoặc tiểu khó, nước tiểu đục;
+Nước tiểu hoặc phân có máu;
+Phương pháp chẩn đoán, xét nghiệm tiền ung thư cổ tử cung
+Ung thư cổ tử cung là bệnh rất nguy hiểm, đe dọa đến tính mạng, khả năng sinh sản và hạnh phúc gia đình của phụ nữ. Do đó, chị em phụ nữ cần nhận diện sớm các triệu chứng và chẩn đoán sớm ở giai đoạn tiền ung thư cổ tử cung để có những phương án điều trị phù hợp, đảm bảo tiên lượng tốt, hạn chế tối đa ảnh hưởng tiêu cực đến sức khỏe. Hiện nay, để phát hiện các dấu hiệu bất thường của cổ tử cung, các bác sĩ Sản phụ khoa sẽ tiến hành các xét nghiệm như:
+Xét nghiệm Pap
+Xét nghiệm HPV
+Soi cổ tử cung
+Sinh thiết, khoét chóp để lấy mẫu mô ở cổ tử cung và quan sát dưới kính hiển vi
+Kiểm tra tử cung, âm đạo, trực tràng, bàng quang
+Xét nghiệm máu, kiểm tra xương, máu và thận
+CT scan để xác định khối u và mức độ lan rộng của các tế bào ung thư.
+Tiền ung thư cổ tử cung có thể điều trị khỏi hoàn toàn và bảo tồn chức năng sinh sản nếu được phát hiện và can thiệp sớm
+Điều trị tiền ung thư cổ tử cung
+Tùy vào mức độ nặng nhẹ, giai đoạn diễn tiến mà tiền ung thư cổ tử cung có thể tự biến mất và không cần điều trị. Vì vậy, các bác sĩ thường sẽ chỉ định theo dõi định kỳ mà chưa can thiệp ngay.
+Đối với các tổn thương tiền ung thư cổ tử cung ở mức độ trung bình và mức độ nặng có nguy cơ tiến triển thành ung thư cổ tử cung, người bệnh cần được điều trị càng sớm càng tốt. Các phương pháp điều trị tiền ung thư cổ tử cung tại chỗ có thể được áp dụng bao gồm:
+Phẫu thuật khoét chóp: Loại bỏ khối u ung thư cổ tử cung và cả tế bào ung thư ăn sâu vào thành cổ tử cung. Nếu phẫu thuật khoét chóp chưa loại bỏ hết, xạ trị có thể được xem xét thực hiện.
+Phẫu thuật loại bỏ khối u, Laser hoặc phẫu thuật lạnh: Áp dụng cho các trường hợp ung thư giai đoạn khu trú, khối u nhỏ và chưa xâm lấn, ăn sâu vào thành cổ tử cung.
+Phẫu thuật cắt bỏ toàn bộ cổ tử cung hoặc tử cung: Được thực hiện cho các trường hợp khối u kích thước lớn hoặc người bệnh không còn mong muốn sinh con thì có thể áp dụng phương pháp này để loại bỏ hoàn toàn nguy cơ.
+Phẫu thuật nạo vét hạch: Ít được thực hiện trong điều trị ung thư cổ tử cung giai đoạn đầu nhưng nếu phát hiện khối u ung thư đã xâm lấn tới hạch thì cần thực hiện.
+Phẫu thuật là phương pháp điều trị chính nhưng nếu ở trường hợp chưa loại bỏ hoàn toàn tế bào ung thư, người bệnh sẽ được các bác sĩ tư vấn thực hiện hóa trị, xạ trị kết hợp. Song 2 phương pháp này không phải là phương pháp điều trị chính nên không gây ảnh hưởng quá nhiều đến sức khỏe người bệnh.
+Tiên lượng sống sau điều trị tiền ung thư cổ tử cung
+Ung thư cổ tử cung được phát hiện càng sớm thì khả năng chữa khỏi càng cao, tiên lượng người bệnh có thể sống trên 5 năm tốt. Các giai đoạn phát triển của bệnh sẽ quyết định tiên lượng sống sau điều trị tiền ung thư cổ tử cung cũng như tỷ lệ chữa khỏi bệnh:
+Tiền ung thư cổ tử cung: Đây là giai đoạn sớm nhất nên khả năng điều trị khỏi cao nhất, tỷ lệ sống trên 5 năm lên đến 92%, người bệnh có chất lượng cuộc sống tốt.
+Ung thư cổ tử cung giai đoạn I: Ở giai đoạn này, tế bào ung thư đã xâm lấn mô chính của cổ tử cung, người bệnh có thể sẽ bị cắt một phần hay toàn bộ tử cung, hoặc xạ trị. Tỷ lệ sống trên 5 năm là 80 – 90%.
+Ung thư cổ tử cung giai đoạn II: Khối ung thư bắt đầu lan đến âm đạo, các mô xung quanh cổ tử cung và vùng chậu. Tỷ lệ sống trên 5 năm là 50 – 60% và người bệnh thường không bảo tồn được chức năng sinh sản.
+Ung thư cổ tử cung giai đoạn III: Khối ung thư bắt đầu lan đến âm đạo, các mô xung quanh cổ tử cung và vùng chậu. Tỷ lệ sống trên 5 năm là 25 – 35% và người bệnh thường không bảo tồn được chức năng sinh sản.
+Ung thư cổ tử cung giai đoạn IV: Khối u lan ra ngoài vùng chậu, xâm lấn đến các bộ phận gần đó như bàng quang, trực tràng hoặc di căn đến các cơ quan như phổi, gan, xương… Lúc này, chủ yếu kéo dài thời gian sống và giảm triệu chứng. Tỷ lệ sống trên 5 năm là dưới 15%.
+Phòng ngừa ung thư cổ tử cung
+Thông thường, khi tế bào cổ tử cung biến đổi bất thường sẽ mất từ 5 – 10 năm hoặc thậm chí lâu hơn để phát triển thành ung thư. Do đó, việc xét nghiệm sàng lọc ung thư cổ tử cung là yếu tố tiên quyết có thể phát hiện sớm sự biến đổi khi chúng trở thành ung thư và can thiệp điều trị kịp thời. Những phụ nữ có tế bào cổ tử cung biến đổi nhẹ có thể được theo dõi cho đến khi trở về bình thường. Trường hợp biến đổi nặng sẽ được điều trị cắt bỏ vùng tổn thương.
+Để chủ động phòng ngừa ung thư cổ tử cung, nữ giới nên sử dụng các biện pháp tự bảo vệ khi quan hệ tình dục, xây dựng chế độ ăn uống, tập luyện hợp lý, luôn giữ vệ sinh vùng kín sạch sẽ vào các thời điểm nhạy cảm như trong kỳ hành kinh, sau kỳ kinh, sau khi vận động thể lực, sau khi quan hệ tình dục,…
+Vắc xin HPV có hiệu quả gần 100% trong phòng ngừa các tổn thương tiền ung thư cổ tử cung và ung thư cổ tử cung gây ra bởi các tuýp virus HPV nguy cơ cao cũng như mụn cóc sinh dục, các tổn thương ung thư hoặc tiền ung thư cơ quan sinh dục khác bao gồm ung thư âm hộ, âm đạo, dương vật và hậu môn,… Vắc xin phòng HPV đã được chứng minh có độ an toàn và hiệu quả cao qua các nghiên cứu thử nghiệm lâm sàng cũng như thực tế sử dụng ở nhiều nước trên thế giới trong hơn 15 năm qua.
+Các chuyên gia y tế khuyến cáo, bé gái trên 9 tuổi và nữ giới cần tiêm vắc xin HPV sớm vì sẽ giúp tăng khả năng đáp ứng miễn dịch. Phụ nữ đã quan hệ tình dục, từng nhiễm virus HPV vẫn có thể tiêm vắc xin. Hiện tại, có 2 loại vắc xin phòng ung thư cổ tử cung và các bệnh về đường sinh dục do virus HPV là Gardasil và Gardasil 9 với phác đồ tiêm chủng như sau:
+Tên vắc xin
+Gardasil
+Gardasil 9
+Nước sản xuất
+Merck Sharp & Dohme (MSD – Mỹ)
+Merck Sharp & Dohme (MSD – Mỹ)
+Bản chất
+Vắc xin tái tổ hợp phòng 4 tuýp virus HPV (6, 11, 16 và 18)
+Vắc xin tái tổ hợp phòng 9 tuýp virus HPV (6, 11, 16, 18, 31, 33, 45, 52 và 58)
+Đối tượng
+Bé gái và phụ nữ từ 9 – 26 tuổi
+Nam giới và nữ giới, từ 9 tuổi – 45 tuổi
+Lịch tiêm cơ bản
+Phác đồ 3 mũi (0-2-6):
+Mũi 1: Lần tiêm đầu tiên.
+Mũi 2: 2 tháng sau mũi 1.
+Mũi 3: 4 tháng sau mũi 2.
+Trẻ từ 9 tuổi – <15 tuổi tiêm lần đầu tiên:
+Phác đồ 2 mũi:
+Mũi 1: Lần tiêm đầu tiên.
+Mũi 2: Từ 6-12 tháng sau mũi 1.
+Nếu mũi 2 tiêm cách mũi 1 dưới 5 tháng, cần tiêm mũi 3 cách mũi 2 ít nhất 3 tháng.
+Phác đồ 3 mũi (0-2-6):
+Mũi 1: Lần tiêm đầu tiên.
+Mũi 2: 2 tháng sau mũi 1.
+Mũi 3: 4 tháng sau mũi 2.
+Người từ 15 tuổi – 45 tuổi tiêm lần đầu tiên:
+Phác đồ 3 mũi (0-2-6):
+Mũi 1: Lần tiêm đầu tiên.
+Mũi 2: 2 tháng sau mũi 1.
+Mũi 3: 4 tháng sau mũi 2.
+Phác đồ tiêm nhanh:
+Mũi 1: Lần tiêm đầu tiên.
+Mũi 2: 1 tháng sau mũi 1.
+Mũi 3: 3 tháng sau mũi 2.
+Tiền ung thư cổ tử cung có thể điều trị khỏi hoàn toàn, hầu hết các trường hợp được phát hiện sớm thì tỷ lệ chữa khỏi (tỷ lệ người bệnh sống khỏe mạnh trên 5 năm) và khả năng bảo tồn chức năng sinh sản càng cao. Tiêm chủng vắc xin HPV càng sớm càng tốt chính là chìa khóa đơn giản, hữu hiệu, tiết kiệm nhất để dự phòng bệnh.

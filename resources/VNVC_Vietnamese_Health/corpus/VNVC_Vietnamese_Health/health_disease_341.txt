@@ -1,0 +1,162 @@
+# doc_id = health_disease_341
+# url = https://vnvc.vn/nhiem-trung-mau/
+# date = 05/01/2021
+Nhiễm trùng máu (nhiễm khuẩn huyết): Nguyên nhân, dấu hiệu, điều trị  và phòng ngừa
+Nhiễm trùng máu không phải là bệnh nhưng nó được xem là tình trạng nguy kịch. Mặc dù có những tiến bộ đáng kể trong y học hiện đại, nhưng đến nay nhiễm trùng máu vẫn là một thách thức đối với các bác sĩ vì nguy cơ tử vong cao.
+Thống kê của Tổ chức Y tế Thế Giới (WHO) cho thấy, mỗi năm có đến 30 triệu người lớn, 3 triệu trẻ sơ sinh và 1,2 triệu trẻ em bị nhiễm khuẩn máu trên toàn thế giới. Trong đó, 6 triệu người lớn và 500.000 trẻ sơ sinh tử vong vì lý do trên.
+Nhiễm khuẩn máu là một trong những mối đe dọa hàng đầu có nguy cơ tử vong cao, tạo gánh nặng về chi phí điều trị, thời gian nằm viện và sự đề kháng kháng sinh. Trong đó, đề kháng kháng sinh là một vấn đề toàn cầu được ngành y tế các nước đặc biệt quan tâm.
+Khoảng 500.000 trẻ sơ sinh tử vong do nhiễm khuẩn huyết trên toàn cầu mỗi năm
+Mục lụcNhiễm trùng máu là gì?Nguyên nhân nhiễm khuẩn huyếtNhiễm trùng daNhiễm trùng đường tiết niệuNhiễm trùng đường tiêu hóaCác tác nhân gây nhiễm trùng máu thường gặpVi khuẩn gram âmVi khuẩn gram dươngVi khuẩn kỵ khíNấmNhiễm trùng máu có lây không?Dấu hiệu và triệu chứng của nhiễm khuẩn huyếtĐối tượng dễ bị bệnh nhiễm khuẩn huyếtNhiễm trùng máu có nguy hiểm không?Sốc nhiễm trùngHội chứng suy hô hấp cấp (ARDS)Rối loạn đông máuSuy giảm chức năng gan, thậnCác phương pháp xét nghiệm nhiễm trùng máuCấy máuTổng phân tích tế bào máu ngoại viĐịnh lượng các chỉ điểm viêm như tốc độ máu lắng (VS), CRP, procalcitoninĐịnh lượng nồng độ lactate máuXét nghiệm chức năng thận, ganXét nghiệm đánh giá chức năng gan thậnCách điều trị nhiễm trùng máuPhòng ngừa nhiễm trùng máuTiêm vắc xin phòng ngừa nhiễm trùng máuĂn thực phẩm chứa nhiều vitamin CMột số câu hỏi thường gặp về nhiễm trùng máuThời gian vàng để điều trị nhiễm trùng huyếtNhiễm trùng máu có phải là ung thư máu không?Nhiễm trùng máu có gây ung thư?Nhiễm trùng huyết có gây vàng da?Nhiễm trùng máu gây vô sinh?Nhiễm trùng huyết bao lâu thì khỏi?Nhiễm trùng huyết có tái phát không?Nhiễm trùng máu là gì?
+Nhiễm trùng máu (hay nhiễm trùng huyết, sốc nhiễm trùng huyết, hội chứng rối loạn chức năng đa cơ quan) là những tập hợp bệnh lý xảy ra khi vi trùng xâm nhập vào cơ thể, tiết ra chất độc dẫn đến suy đa cơ quan, rối loạn đông máu hoặc suy gan, suy thận…
+Khi nhắc đến nhiễm trùng máu, người ta thường đề cập đến các thuật ngữ như Septicaemia và Sepsis, cho đến nay, các khái niệm này vẫn thường bị nhầm lẫn:
+Septicaemia: Thuật ngữ Septicaemia dùng để chỉ tình trạng nhiễm trùng máu do vi khuẩn gây ra. Khi được chẩn đoán Septicaemia, nghĩa là trong máu bệnh nhân đã có sự tăng trưởng của vi khuẩn.
+Sepsis: Sepsis là tình trạng nhiễm trùng máu do vi khuẩn, virus, nấm gây ra, phạm vi không chỉ trong máu mà còn ở nhiều cơ quan khác trong cơ thể. Khi được chẩn đoán Sepsis nghĩa là bệnh nhân có ổ nhiễm trùng và xuất hiện hội chứng đáp ứng viêm toàn thân (SIRS).
+Severe Sepsis: Là tình trạng nhiễm trùng máu nặng, nhiễm trùng máu kèm rối loạn chức năng cơ quan, giảm tưới máu và hạ huyết áp, rối loạn phân bổ máu, thiểu niệu hoặc thay đổi đột ngột tình trạng ý thức và các rối loạn khác.
+Septic Shock: Là tình trạng sốc nhiễm khuẩn. Bệnh nhân khi đã chuyển sang giai đoạn sốc nhiễm khuẩn thường đã nhiễm khuẩn máu rất nặng, tụt huyết áp mặc dù đã bù đủ dịch, kèm theo bất thường tưới máu.
+Lưu ý: Thuật ngữ septicaemia trước đây được dùng để chỉ tình trạng nhiễm trùng có bằng chứng về sự sinh trưởng mạnh của vi khuẩn trong máu, thường hay được hiểu như là sepsis. Hiện nay, các bác sĩ và nhân viên y tế không còn sử dụng thuật ngữ Septicemia rộng rãi nhằm loại bỏ sự nhầm lẫn với các thuật ngữ tương tự.
+Nguyên nhân nhiễm khuẩn huyết
+Theo bác sĩ Bạch Thị Chính, Giám đốc Y khoa Hệ thống tiêm chủng Trẻ em và người lớn, khi xác định tình trạng nhiễm khuẩn huyết, bác sĩ sẽ xác định “ngõ vào” của vi khuẩn là ở da, hệ hô hấp, hệ tiêu hóa hay tiết niệu Nhiễm khuẩn huyết chủ yếu gây ra do vi khuẩn xâm nhập trực tiếp vào máu hoặc từ các ổ nhiễm khuẩn ở các mô tế bào, những cơ quan như: da, mô mềm, cơ, xương, khớp, hô hấp, tiêu hóa…
+Nhiễm trùng huyết cấp tính có nguyên nhân từ vi khuẩn lưu hành trong máu; chúng gây ra các triệu chứng lâm sàng đa dạng, làm suy đa phủ tạng, sốc nhiễm khuẩn với tỉ lệ tử vong rất cao có thể từ 20 – 50% các trường hợp.
+Nhiễm trùng huyết có thể xuất phát từ các ổ nhiễm trùng bất kỳ trên cơ thể
+Trên thực tế, có một số yếu tố nguy cơ dễ dẫn đến bệnh lý nhiễm trùng máu bao gồm: người cao tuổi, trẻ sơ sinh, trẻ sinh non; người có sử dụng thuốc ức chế miễn dịch, thuốc corticoid kéo dài, thuốc chống thải ghép, đang điều trị hóa chất và tia xạ; người có bệnh mãn tính như: đái tháo đường, nhiễm HIV/AIDS, xơ gan, bệnh van tim và tim bẩm sinh, bệnh phổi mạn tính, suy thận mạn tính; người bệnh đã cắt lách, nghiện rượu, có bệnh máu ác tính, giảm bạch cầu hạt; bệnh nhân có sử dụng các thiết bị hoặc dụng cụ xâm nhập cơ thể nhưng đóng đinh nội tủy, đặt ống dẫn truyền, đặt ống nội khí quản…
+Viêm phổi, nhiễm trùng ổ bụng, u nhọt, du khuẩn huyết, nhiễm trùng thần kinh trung ương.. cũng là nguyên nhân khởi phát gây nhiễm trùng máu. Ngoài ra, nhiễm trùng máu còn gây ra do:
+Nhiễm trùng da
+Nhiễm trùng da là bệnh lý gây ra bởi các sinh vật ngoài cơ thể, bao gồm cả nhiễm trùng do mạt nhà và nhiễm trùng do côn trùng. Nhiễm trùng da lâu ngày không điều trị là nguyên nhân gây ra nhiễm khuẩn huyết.
+Nhiễm trùng đường tiết niệu
+Biến chứng nhiễm khuẩn huyết do nhiễm trùng đường tiết niệu có tên tiếng Anh là Urosepsis. Có đến 25% bệnh nhân bị nhiễm trùng huyết gây ra do nhiễm trùng đường tiết niệu.
+Bằng nhiều cách khác nhau như quan hệ tình dục không an toàn, vệ sinh cá nhân không sạch sẽ, vi khuẩn xâm nhập vào niệu đạo (ống dẫn nước tiểu đi ra ngoài cơ thể), gây viêm nhiễm dẫn đến nhiễm trùng đường tiết niệu. Các vi khuẩn khi đã vào niệu đạo sẽ nhân lên nhiều lần và lan qua bàng quang cùng nhiều bộ phận khác, sau đó đi vào máu và gây ra biến chứng nhiễm khuẩn huyết toàn thân.
+Nhiễm trùng đường tiêu hóa
+Nhiễm trùng đường tiêu hóa là bệnh lây chủ yếu qua đường ăn uống, khi ăn phải thực phẩm hoặc nguồn nước chứa vi sinh vật gây bệnh. Các sinh vật bao gồm nấm men, vi khuẩn hoặc ký sinh trùng là nguyên nhân chính gây nhiễm trùng đường tiêu hóa, một trong những nguyên nhân gây nhiễm trùng máu.
+Các tác nhân gây nhiễm trùng máu thường gặp
+Tác nhân gây nhiễm trùng máu là do vi khuẩn hoặc vi nấm. Nhiễm trùng huyết, bao hàm cả tác nhân gây bệnh, ngoài vi khuẩn, vi nấm, có thể do virus. Trong thực tế nhiễm trùng máu do virus rất khó xác định.
+Vi khuẩn gram âm
+Vi khuẩn gram âm chủ yếu là vi khuẩn đường ruột họ Enterobacteriaceae như: Salmonella, Escherichia coli, Klebsiella, Serratia và các vi khuẩn Enterobacter…; ngoài ra còn có Pseudomonas aeruginosa, Burkholderia pseudomallei. Vi khuẩn có thể gây nhiễm trùng huyết thứ phát xuất phát từ ổ nhiễm khuẩn ban đầu, do thao tác y tế không vô khuẩn, do dụng cụ y tế không tuyệt đối vô khuẩn…
+Vi khuẩn gram dương
+Khác với vi khuẩn gram âm, vi khuẩn gram dương có một bức tường tế bào dày, thường gặp là tụ cầu, liên cầu, não mô cầu, phế cầu… nguy hiểm nhất là tụ cầu vàng (S. aureus), đặc biệt là loại tụ cầu kháng lại Methicillin (MRSA: Staphylococcus aureus kháng methicillin). Nhiễm khuẩn huyết gram (+) thường ổ tiên phát ở Da, cơ, mụn nhọt, đinh dâu, chín mé, hậu bội, vết thương nhiễm khuẩn, viêm cơ. Viêm tai, mũi, họng, xoang, răng, ổ mủ sâu: áp xe quanh thận, dưới cơ hoành. Dụng cụ y tế: Đặt sonde, catheter.
+Vi khuẩn kỵ khí
+Vi khuẩn kỵ khí là nhóm vi khuẩn đơn bào có kích thước rất nhỏ, thường là Clostridium perfringens và Bacteroides fragilis.
+Nấm
+Các loại nấm bao gồm: Candida, Trichosporon asahii.
+Nhiễm trùng máu có lây không?
+Nhiễm trùng máu là bệnh hoàn toàn không lây lan, đặc biệt không lây qua tiếp xúc thông thường.
+Việc chủ động phòng ngừa nhiễm trùng máu là vấn đề cần được quan tâm trong bối cảnh các loại vi khuẩn gây nhiễm trùng máu có xu hướng kháng các loại kháng sinh, gây khó khăn cho công tác điều trị.
+Dấu hiệu và triệu chứng của nhiễm khuẩn huyết
+“Nhiễm khuẩn huyết không phải bệnh, nó là một tình trạng nhiễm trùng rất nghiêm trọng có thể để lại nhiều biến chứng nguy hiểm. Chính vì vậy, mọi người thường nói nhiễm khuẩn huyết có thể tử vong chỉ từ một vết xước nhỏ. Do đó việc xác định nguyên nhân, cửa ngõ xâm nhập của vi sinh vật có vai trò then chốt quyết định hiệu quả điều trị” – Bác sĩ Bạch Thị Chính khuyến cáo.
+Điều đáng lo nhất của nhiễm khuẩn huyết là tập hợp những biểu hiện lâm sàng của một tình trạng nhiễm trùng – nhiễm độc toàn thân rất nặng, gây choáng (sốc), suy đa tạng và tử vong nhanh. Các biểu hiện có thể là:
+Sốt: Sốt cao trên 38oC là dấu hiệu đầu tiên và quan trọng nhất của nhiễm khuẩn huyết.
+Hạ thân nhiệt: Mặc dù sốt là dấu hiệu quan trọng nhất, tuy nhiên trong một số hiếm các trường hợp, đáp ứng của cơ thể với tình trạng nhiễm trùng lại là hạ thân nhiệt. Các nghiên cứu đã chứng minh được rằng, hạ thân nhiệt có thể là tình trạng nhiễm khuẩn huyết nặng hơn và tiên lượng cũng xấu hơn.
+Ớn lạnh: Khi sốt, kèm ớn lạnh và một số dấu hiệu điển hình khác, bệnh nhân có thể được chẩn đoán mắc nhiễm trùng máu.
+Thở nhanh: Nếu tình trạng nhiễm trùng xảy ra ở phổi, lượng oxy cơ thể hít vào bị giảm đi do đó bệnh nhân phải thở nhanh hơn để đáp ứng cung cấp oxy, điều này khiến người bệnh khó thở.
+Đau nhức: Tình trạng đau nhức có thể xảy ra ở toàn bộ cơ thể hoặc chỉ một số bộ phận.
+Tim đập nhanh, hạ huyết áp: Khi bị nhiễm trùng, tim sẽ cố gắng bơm máu đi để chống lại tình trạng nhiễm trùng do đó nhịp đập sẽ nhanh hơn bình thường. Huyết áp hạ là một trong những triệu chứng có thể dẫn đến sốc nhiễm khuẩn – giai đoạn nghiêm trọng nhất của nhiễm khuẩn huyết.
+Vùng da đổi màu: Khi bị nhiễm khuẩn huyết, cơ thể sẽ ưu tiên vận chuyển máu tới các cơ quan quan trọng nhất của cơ thể, máu cũng sẽ di chuyển từ các cơ quan ít quan trọng hơn tới các cơ quan quan trọng để giúp bạn duy trì sự sống. Hậu quả là, lượng máu tới da có thể sẽ giảm đi và khiến da bạn trở nên tím tái, nhợt nhạt.
+Tâm thần kinh: ở các mức độ khác nhau: mệt mỏi, li bì, lơ mơ hoặc vật vã kích thích, nặng nhất là hôn mê. Rối loạn ý thức thường đi kèm với shock nhiễm khuẩn.
+Gan, lách to là phản ứng của hệ võng nội mô, thường hay gặp gan to nhiều hơn lách to. Đặc điểm: gan lách to 1-3 cm dưới bờ sườn, mềm, ấn tức.
+Đối tượng dễ bị bệnh nhiễm khuẩn huyết
+Bất cứ ai cũng có thể bị nhiễm
+khuẩn huyết, tuy nhiên một số nhóm người sau đây có nguy cơ mắc bệnh nhiễm khuẩn huyết cao hơn như:
+Người lớn trên 65 tuổi, người già có sức đề kháng kém.
+Người mắc bệnh mãn tính như tim mạch, HIV/AIDS, tiểu đường, hen suyễn, ung thư, viêm phổi tắc nghẽn mạn tính (COPD), động kinh, bệnh Parkinson…
+Người có hệ thống miễn dịch suy yếu. Người sử dụng thuốc ức chế miễn dịch, sử dụng corticoid kéo dài, các thuốc chống thải ghép hoặc đang điều trị hóa chất và tia xạ.
+Những người từng bị nhiễm trùng huyết, người bị cắt lách, nghiện rượu, có bệnh máu ác tính, giảm bạch cầu hạt.
+Phụ nữ đang mang thai.
+Trẻ nhỏ sơ sinh và trẻ nhỏ dưới 1 tuổi, đặc biệt là một số trường hợp sinh non, nhẹ cân và có dị tật bẩm sinh.
+Người mang nhiều dụng cụ có tính xâm nhập cơ thể như nội khí quản, sonde tiểu, sonde dạ dày.
+Nhiễm khuẩn huyết xảy ra ở mọi độ tuổi, mọi đối tượng
+Nhiễm trùng máu có nguy hiểm không?
+Nhiễm trùng máu là bệnh cực kỳ nguy hiểm. Mức độ nguy hiểm của nhiễm trùng máu phụ thuộc vào nhiều yếu tố như tuổi tác, bệnh lý nền, sức khỏe tổng thể và thời gian phát hiện bệnh. Nhiễm trùng máu nguy hiểm không chỉ vì độc lực của vi sinh vật, độc tố từ các chất bài tiết của chúng, mà còn vì các chất hóa học trung gian do hệ thống miễn dịch của chính cơ thể giải phóng vào máu, kích hoạt phản ứng viêm toàn thân để chống lại nhiễm trùng nhưng lại làm tổn thương mô và cơ quan trong cơ thể. Theo đó, các trường hợp nhiễm trùng máu nặng có thể nhanh chóng dẫn đến tử vong nên đây được xem là một cấp cứu y tế. Nhiễm trùng máu phát hiện càng sớm thì cơ hội điều trị bệnh hiệu quả càng cao.
+Hậu quả của nhiễm trùng máu là hết sức nặng nề. Nhiễm trùng máu có thể gây viêm nội mạc mao quản, gan, lách sưng to, viêm màng não, áp-xe não, suy thận cấp hoặc tác động xấu đến xương khớp (viêm tràn dịch mủ khớp, viêm tủy xương) viêm cơ tim, viêm màng ngoài tim, viêm động mạch, viêm tắc tĩnh mạch thứ phát.
+Bệnh nhân mắc nhiễm trùng máu thường có tiên lượng tử vong cao hơn những bệnh nhân mắc các nhiễm trùng khác. Biến chứng nguy hiểm có thể xảy ra khi mắc nhiễm trùng máu bao gồm:
+Sốc nhiễm trùng
+Sốc nhiễm trùng là tình trạng rất nặng và đặc biệt nguy hiểm. Đó là biến chứng của bệnh trùng máu nặng. Sốc nhiễm trùng với biểu hiện như khó thở, nhịp tim nhanh, rối loạn tâm thần… Biến chứng này gây tỷ lệ tử vong cao, chiếm từ 20 – 50%. Tình trạng diễn biến nặng hơn với người già, trẻ nhỏ, đặc biệt là trẻ sơ sinh.
+Hội chứng suy hô hấp cấp (ARDS)
+Suy hô hấp cấp tiến triển là một bệnh lý nguy hiểm liên quan đến nhiều bệnh lý cả nội và ngoại khoa. Cho đến nay, suy hô hấp cấp tiến triển vẫn là vấn đề lớn nhất trong hồi sức cấp cứu với tỷ lệ dẫn đến tử vong lên tới 45%. Suy hô hấp tiến triển gây ra một loạt biểu hiện nặng, khởi phát nhanh như thiếu oxy máu, thâm nhiễm phổi lan tỏa dẫn đến suy hô hấp.
+Rối loạn đông máu
+Đây là tình trạng máu chảy mà không đông lại như bình thường do sự thiếu hụt các yếu tố đông máu. Người mắc biến chứng này rất dễ rơi vào tình huống nguy kịch, trụy mạch do sốc nhiễm trùng.
+Suy giảm chức năng gan, thận
+Suy gan, suy thận xảy ra khi các phần lớn của gan, thận bị tổn thương đến mức không thể tự phục hồi và hoạt động bình thường trở lại. Thông thường, các bệnh về gan, thận xảy ra trong nhiều năm, đến giai đoạn cuối thì gọi là suy giảm chức năng gan, thận.
+Các phương pháp xét nghiệm nhiễm trùng máu
+Việc chẩn đoán xác định ca bệnh nhiễm khuẩn trùng máu cần dựa vào các xét nghiệm cận lâm sàng. Một số xét nghiệm nhiễm khuẩn huyết cơ bản thường được sử dụng trên lâm sàng là:
+Cấy máu
+Cấy máu là tiêu chuẩn vàng để chẩn đoán xác định nhiễm trùng máu. Các trường hợp sốt cao, hạ thân nhiệt, rét run, ớn lạnh đều sẽ được chỉ định thực hiện cấy máu. Ngoài ra, cấy máu còn được chỉ định ở một số người như, bệnh nhân có dấu hiệu nhiễm khuẩn chữa rõ vị trí khu trú: CRP cao, PCT cao… ; bệnh nhân có triệu chứng lâm sàng nghi ngờ viêm nội tâm mạc nhiễm khuẩn; bệnh nhân có xuất huyết dưới da hay niêm mạc, xuất huyết dạng sao ở móng tay, choáng…
+Tổng phân tích tế bào máu ngoại vi
+Phân tích này nhằm đánh giá tình trạng sức khỏe hiện tại bằng cách phát hiện các rối loạn của cơ thể. Lượng máu ngoại vi sau khi lấy ra từ cơ thể sẽ được đưa vào thiết bị phân tích nhằm đếm số lượng bạch cầu (WBC), hồng cầu (RBC), tiểu cầu (PLT), đồng thời giúp xác định được tỷ lệ phần trăm cũng như kích thước của các tế bào máu.
+Định lượng các chỉ điểm viêm như tốc độ máu lắng (VS), CRP, procalcitonin
+Xét nghiệm Multiplex PCR được cho là một phương pháp có độ nhạy cao, thực hiện nhanh, có giá trị hỗ trợ cho cấy máu để chẩn đoán nhiễm trùng máu bằng cách xác định ADN của vi khuẩn trong mẫu máu bệnh nhân.
+Định lượng nồng độ lactate máu
+Xét nghiệm lactate máu là phương pháp xét nghiệm được tiến hành nhằm đo lường lượng lactate có trong máu người bệnh, giúp kiểm soát tình trạng tăng lactate trong máu và có biện pháp can thiệp kịp thời.
+Xét nghiệm chức năng thận, gan
+Xác nhận mức creatinin, ure huyết thanh, protein niệu và các tế bào nước tiểu.
+Xét nghiệm đánh giá chức năng gan thận
+Những xét nghiệm máu này đo nồng độ protein và enzyme trong máu, giúp bác sĩ kiểm tra chức năng của gan, thận qua đó phát hiện được các tổn thương.
+Cách điều trị nhiễm trùng máu
+Nhiễm trùng máu dù ở bất kỳ mức độ nào cũng có khả năng đe dọa đến tính mạng người bệnh. Với sự tiến bộ của các phương pháp chẩn đoán, trang thiết bị hỗ trợ tim mạch, hô hấp và kháng sinh, ngày nay, việc điều trị nhiễm trùng máu được cải thiện rõ rệt, giảm tỷ lệ tử vong đáng kể.
+Điều trị nhiễm trùng máu bao gồm việc chẩn đoán sớm, loại bỏ nguồn gốc gây nhiễm trùng từ ổ nguyên phát, hỗ trợ tuần hoàn và hô hấp, điều chỉnh thăng bằng kiềm toan, chống rối loạn đông máu và kháng sinh, nâng cao sức đề kháng. Cụ thể:
+Điều trị bằng kháng sinh: Đa số các trường hợp gây nhiễm trùng máu là do vi khuẩn, do đó, kháng sinh vẫn có hiệu quả điều trị. Các kháng sinh phổ rộng thường được dùng trong nhiễm trùng máu là ceftriaxone, vancomycin, piperacillin, azithromycin, ciprofloxacin và tazobactam. Dùng kháng sinh theo mầm bệnh và kháng sinh đồ, liều cao, có thể phải dùng kháng sinh phối hợp trong trường hợp vi khuẩn kháng kháng sinh và chưa rõ mầm bệnh.
+Điều trị bằng thuốc kháng virus hoặc thuốc kháng nấm: Trong trường hợp nhiễm trùng máu gây ra do virus hoặc nấm, người bệnh sẽ được điều trị bằng thuốc kháng virus hoặc nấm, thuốc sẽ được dùng qua đường tiêm tĩnh mạch.
+Truyền dịch: Người bị nhiễm trùng máu thường bị hạ huyết áp, do đó cần truyền dịch để tăng huyết áp. Các chất dùng để truyền dịch chủ yếu là nước muối bình thường hoặc nước có chứa các khoáng chất.
+Liệu pháp oxy: Tăng cường cung cấp oxy cho máu bằng ống thông qua mũi, mặt nạ oxy hay thở máy.
+Lọc máu trong trường hợp suy thận cấp bằng cách sử dụng thiết bị thay thế chức năng thận để loại bỏ chất thải nguy hại, muối và nước dư thừa từ máu.
+Phẫu thuật: Phẫu thuật được cho là phương pháp điều trị tận gốc nhiễm trùng máu trong trường hợp xác định được nguồn gốc nhiễm trùng. Đặc biệt, khi nhiễm trùng huyết biến chứng thành áp xe, phẫu thuật cắt bỏ áp xe cần được tiến hành ngay lập tức.
+Tăng cường sức đề kháng của cơ thể: bằng truyền máu, đạm, sinh tố. Chế độ ăn: Tăng đạm, hoa quả.
+Phòng ngừa nhiễm trùng máu
+Để phòng ngừa nhiễm trùng máu cần tích cực điều trị dứt điểm các ổ nhiễm khuẩn ban đầu (áp-xe, mụn, nhọt, các chấn thương, vết thương nhiễm trùng,…). Phải vô trùng tuyệt đối các dụng cụ y tế. Cán bộ y tế trước khi thực hiện các thủ thuật, phẫu thuật vô trùng tuyệt đối, không để xảy ra nhiễm trùng bệnh viện.
+Tiêm vắc xin phòng ngừa nhiễm trùng máu
+“Vi khuẩn phế cầu, vi khuẩn não mô cầu, vi khuẩn Hib (Haemophilus Influenzae type b)… là những tác nhân gây ra nhiễm trùng máu ở trẻ nhỏ và người lớn. Chúng nguy hiểm ở chỗ có khả năng lây lan, phát tán từ người này sang người khác, đặc biệt là khi tiếp xúc với trẻ em, người già, người có hệ miễn dịch suy yếu. Phương pháp bảo vệ khỏi các loại vi khuẩn này hiệu quả nhất là chủng ngừa vắc xin. Đặc biệt là trẻ nhỏ, nhiều loại vắc xin rất cần được tiêm từ rất sớm”.
+Theo đó, các loại vắc xin được chuyên gia khuyến cáo gồm:
+Tên vắc xin
+Phòng bệnh
+Lịch tiêm
+Pentaxim (Pháp)
+Các bệnh gây ra do vi khuẩn Hib (nhiễm trùng máu, viêm màng não, viêm tai giữa và viêm màng ngoài tim có mủ…), bạch hầu, ho gà, uốn ván, bại liệt.
+– Mũi 1: Tiêm lúc 2 tháng
+– Mũi 2: Tiêm lúc 3 tháng
+– Mũi 3: Tiêm lúc 4 tháng
+– Mũi nhắc lại tốt nhất là vào tháng thứ 16-18
+Infanrix Hexa (Bỉ)
+Các bệnh gây ra do vi khuẩn Hib (nhiễm trùng máu, viêm màng não, viêm tai giữa và viêm màng ngoài tim có mủ…), bạch hầu, ho gà, uốn ván, bại liệt, viêm gan B.
+– Mũi 1: Tiêm lúc 2 tháng
+– Mũi 2: Tiêm lúc 3 tháng
+– Mũi 3: Tiêm lúc 4 tháng
+– Mũi nhắc lại tốt nhất là vào tháng thứ 16-18
+Hexaxim (Pháp)
+Synflorix (Bỉ)
+Phòng nhiễm khuẩn huyết, viêm màng não, viêm phổi, viêm tai giữa… do phế cầu khuẩn.
+– Mũi 1: vào 2 tháng tuổi (có thể từ 6 tuần tuổi).
+– Mũi 2: cách mũi 1 là 1 tháng
+– Mũi 3: cách mũi 2 là 1 tháng
+– Mũi nhắc lại: cách mũi 3 là 6 tháng. Ngoài ra, phác đồ vắc xin Synflorix còn tùy thuộc theo độ tuổi tiêm chủng
+Prevenar 13 (Bỉ)
+– Mũi 1: vào 2 tháng tuổi (có thể từ 6 tuần tuổi).
+– Mũi 2: Cách mũi 1 tối thiểu 1 tháng.
+– Mũi 3: Cách mũi 2 tối thiểu 1 tháng.
+– Mũi nhắc lại: tiêm khi trẻ 11 – 15 tháng tuổi và cách mũi 3 tối thiểu 2 tháng.Ngoài ra, phác đồ vắc xin Synflorix còn tùy thuộc theo độ tuổi tiêm chủng.Trẻ em từ 24 tháng tuổi và người lớn tiêm 1 mũi duy nhất.
+Menactra (Mỹ)
+Nhiễm trùng huyết, viêm màng não, viêm phổi do vi khuẩn não mô cầu.
+– Trẻ từ 9 tháng đến dưới 24 tháng tuổi: tiêm 2 liều cách nhau 3 tháng.
+– Trẻ từ tròn 24 tháng và người lớn đến 55 tuổi: tiêm 1 liều duy nhất.
+– Có thể tiêm một liều Menactra nhắc lại cho người từ 15 đến 55 tuổi nếu tiếp tục có nguy cơ mắc bệnh do não mô cầu..
+Quimi-Hib (CuBa)
+Nhiễm khuẩn huyết, viêm phổi, viêm màng não mủ do vi khuẩn Hib
+– Trẻ từ 02 tháng tuổi đến 12 tháng tuổi tiêm 04 mũi nếu trẻ không được tiêm vắc xin 5 trong 1 hoặc 6 trong 1.
+– Thông thường vắc xin Quimi-Hib được sử dụng tiêm nhắc lại cho trẻ trên 1 tuổi (trường hợp trẻ trên 1 tuổi đã được tiêm nhắc lại mũi thứ 4 vắc xin 5 trong 1 hoặc vắc xin 6 trong 1 thì không cần phải tiêm Quimi-Hib)
+Ăn thực phẩm chứa nhiều vitamin C
+Theo ThS.BS Bùi Ngọc An Pha, Giám đốc Y khoa, Hệ thống Phòng khám Nhi khoa, Dinh dưỡng, Y học vận động, Xét nghiệm Nutrihome, chế độ ăn đối với người nhiễm trùng huyết rất quan trọng. Nó cải thiện hệ thống miễn dịch, giúp bệnh nhân khỏe mạnh và hạn chế các triệu chứng của bệnh. Bệnh nhân nhiễm trùng máu nên ăn các loại thực phẩm giàu vitamin đặc biệt là vitamin C, chất sắt, giàu protein, chất xơ và khoáng chất.
+Thiếu vitamin C, sự nhạy cảm với các bệnh nhiễm khuẩn tăng lên, người bị nhiễm khuẩn huyết thường có lượng vitamin C trong máu giảm, thiếu vitamin C tính thấm mao mạch tăng, mạch dễ vỡ, da khô ráp. Nếu cung cấp đủ vitamin C, các globulin miễn dịch IgA và IgM tăng, hoạt tính của bạch cầu tăng, kích thích chuyển dạng các lympho bào và giúp tạo thành các bổ thể.
+Một số câu hỏi thường gặp về nhiễm trùng máu
+Thời gian vàng để điều trị nhiễm trùng huyết
+Trong vòng 3 giờ đầu tiên, bệnh nhân nhiễm trùng máu cần được phát hiện và dùng kháng sinh, truyền dịch tĩnh mạch. Cấy máu cũng nên được lấy trong khoảng thời gian này. Sau 6 giờ huyết áp phải trở lại trạng thái bình thường. Diễn biến của nhiễm trùng máu xảy ra rất nhanh, người bệnh có thể gặp nguy hiểm chỉ trong 24h kể từ khi có triệu chứng khởi phát.
+Nhiễm trùng máu có phải là ung thư máu không?
+Nhiễm trùng máu và ung thư máu đều là những căn bệnh nguy hiểm có tỷ lệ tử vong cao. Tuy nhiên đây là hai bệnh hoàn toàn khác nhau.
+Nhiễm trùng máu là một trong các biến chứng của ung thư. Nhiễm trùng máu do vi khuẩn, virus và nấm gây ra, khi không được điều trị kịp thời sẽ dẫn đến biến chứng sốc nhiễm trùng khiến cho các cơ quan, hệ thống chính của cơ thể như thận, gan, phổi và hệ thần kinh trung ương ngừng hoạt động, dẫn đến tử vong. Trong khi đó, ung thư máu bắt đầu khi tủy xương tạo ra các tế bào máu bất thường, làm gián đoạn chức năng của các tế bào máu bình thường, làm mất khả năng chống lại nhiễm trùng, khiến người bệnh dễ bị nhiễm trùng máu.
+Nhiễm trùng máu có gây ung thư?
+Nhiễm trùng máu không phải là nguyên nhân gây ra bệnh lý ung thư, tuy nhiên những bệnh nhân ung thư có nguy cơ cao mắc nhiễm trùng máu do suy giảm miễn dịch.
+Ung thư là bệnh ác tính ảnh hưởng đến mọi cơ quan và hệ thống trong cơ thể. Các tế bào ung thư được tăng sinh liên tục và hình thành khối u, xâm nhập vào dòng máu và di căn sang các bộ phận khác trên cơ thể. Bệnh nhân ung thư phải trải qua hóa trị và xạ trị. Các phương pháp này làm cho hệ miễn dịch yếu đi, khiến người bệnh dễ bị nhiễm trùng các bộ phận và nhiễm trùng máu.
+Nhiễm trùng huyết có gây vàng da?
+Vàng da là dấu hiệu điển hình của nhiễm trùng huyết. Vàng da là hiện tượng tăng bilirubin gián tiếp gây ra do nhiều nguyên nhân như liên quan đến hồng cầu, liên quan đến tế bào gan, liên quan các ống mật nhỏ trong gan và các ống mật chung ngoài gan. Khi thấy các triệu chứng như nhợt nhạt, đờ đẫn, vàng da… rất có thể đó là dấu hiệu của sự biến đổi bất thường của tế bào gan gây nên nhiễm trùng huyết.
+Nhiễm trùng máu gây vô sinh?
+Vô sinh là tình trạng gây ra bởi bất thường sinh lý ở nam giới (40%), bất thường sinh lý ở nữ giới (40%), 10% là do cả hai bên và 10% vô sinh không rõ nguyên nhân. Nhiễm trùng máu thường gây suy tạng nhanh chóng, khiến người bệnh kiệt sức, không đủ sức khỏe, điều này cũng tác động gián tiếp đến khả năng sinh sản. Tuy nhiên, nhiễm trùng máu không phải là nguyên nhân dẫn đến vô sinh hiếm muộn.
+Nhiễm trùng huyết bao lâu thì khỏi?
+Mức độ nguy hiểm, thời gian và hiệu quả điều trị nhiễm trùng huyết phụ thuộc vào rất nhiều yếu tố như tuổi tác, sức khỏe tổng thể, bệnh lý nền và thời gian ủ bệnh. Đối với nhiễm trùng huyết, dạng nhiễm trùng nghiêm trọng thì phát hiện càng sớm, cơ hội điều trị bệnh hiệu quả càng cao, thời gian điều trị càng ngắn.
+Nhiễm trùng huyết có tái phát không?
+Những người bị nhiễm trùng huyết có thể phục hồi hoàn toàn, tuy nhiên nhiễm trùng huyết có nguy cơ tái phát cao. Do đó, cần thực hiện các biện pháp phòng ngừa như tiêm vắc xin đầy đủ, tiến hành điều trị nhiễm trùng sớm đối với bất kỳ loại vết thương nào, luôn rửa tay và giữ gìn vệ sinh cơ thể, vệ sinh nơi ở xung quanh tốt, sơ cứu vết thương trên da như vết cắn của côn trùng, bọ, vết cắt hoặc bỏng da tránh triển thành nhiễm trùng máu.

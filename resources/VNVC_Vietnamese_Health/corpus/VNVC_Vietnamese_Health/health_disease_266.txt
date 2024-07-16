@@ -1,0 +1,102 @@
+# doc_id = health_disease_266
+# url = https://vnvc.vn/benh-viem-gan-b-co-chua-duoc-khong/
+# date = 28/12/2023
+Bệnh viêm gan B có chữa được không? Trị khỏi dứt điểm không?
+Viêm gan B là bệnh truyền nhiễm với mức độ phổ biến cao, cứ 3 người sẽ có 1 người mắc viêm gan B. Bệnh gây ra nhiều triệu chứng và biến chứng nguy hiểm và thậm chí gây tử vong nếu không được phát hiện và điều trị kịp thời. Vậy, viêm gan B có chữa được không? Chẩn đoán như thế nào? Phòng ngừa ra sao?
+Mục lụcBệnh viêm gan B là gì?Phân loại viêm gan BViêm gan B cấp tínhViêm gan B mãn tínhChẩn đoán viêm gan BBệnh viêm gan B có chữa được không?Viêm gan B có chữa được không ở giai đoạn cấp tính?Bệnh viêm gan B có chữa khỏi được không ở giai đoạn mãn tính?Làm thế nào để phòng ngừa viêm gan B?Tiêm vắc xin phòng viêm gan BCác biện pháp phòng ngừa hỗ trợ khácBệnh viêm gan B là gì?
+Viêm gan B, hay còn gọi là viêm gan siêu vi B, là bệnh nhiễm trùng gan do virus viêm gan B (HBV) gây ra. Nếu không được điều trị kịp thời và đúng cách, viêm gan B có thể gây tổn thương nghiêm trọng cho gan và các chức năng gan, có thể gây xơ gan, suy gan, ung thư gan thậm chí đe dọa tính mạng của người bệnh.
+Theo thống kê từ Tổ chức Y tế Thế Giới (WHO), có hơn 2 tỷ người trên toàn cầu đã và đang bị nhiễm virus viêm gan B. Viêm gan B là một nguyên nhân gây ra khoảng 600.000 trường hợp tử vong hàng năm trên thế giới, với khả năng lây nhiễm cao hơn HIV từ 50-100 lần. (1)
+Theo thống kê từ tổ chức Hepatitis B Foundation, mỗi năm có thêm khoảng 1,5 triệu người mắc bệnh viêm gan B. Số người bị nhiễm viêm gan B mãn tính ước tính lên tới hơn 300 triệu. Tuy nhiên, chỉ khoảng 10% trong số đó được chẩn đoán. Cũng theo ước tính này, có khoảng 820.000 người mất mạng mỗi năm do viêm gan B và các biến chứng liên quan, điển hình là ung thư gan. (2)
+Theo thống kê, cứ mỗi phút sẽ có hai người mất mạng viêm gan B, đây là một con số cảnh báo về tình trạng thiếu hụt nhận thức trong việc phòng ngừa căn bệnh nguy hiểm này
+Phân loại viêm gan B
+Viêm gan B là bệnh nhiễm trùng truyền nhiễm được phân thành hai thể chính là viêm gan B cấp tính và viêm gan B mãn tính.
+Viêm gan B cấp tính
+Viêm gan B cấp tính là tình trạng nhiễm trùng ngắn hạn xảy ra sau khi người bệnh tiếp xúc với virus HBV trong vòng 6 tháng. Đa phần người mắc viêm gan B cấp tính không có triệu chứng hoặc chỉ gặp những triệu chứng nhẹ, tuy nhiên cũng có những trường hợp nghiêm trọng đủ để yêu cầu nhập viện để điều trị.
+Theo nhiều thống kê, hiện đang có rất nhiều người mắc viêm gan B cấp tính. Có đến 90% người trưởng thành nhiễm virus HBV tự khỏi bệnh mà không để lại bất kỳ di chứng nào sau vài tháng nhờ hoạt động của hệ miễn dịch và do khả năng đào thải virus ra khỏi cơ thể. Ngược lại, trong trường hợp hệ miễn dịch không thể loại bỏ virus, viêm gan B cấp tính sẽ tiến triển thành dạng mãn tính.
+Viêm gan B mãn tính
+Viêm gan B mãn tính là tình trạng nhiễm trùng gan kéo dài từ 6 tháng trở lên, khi virus HBV không được loại bỏ và tiếp tục tồn tại trong máu và gan của người bệnh một cách lặng lẽ. Theo thời gian, viêm gan B mãn tính có thể gây ra những vấn đề sức khỏe nghiêm trọng, bao gồm viêm gan, suy gan, xơ gan, ung thư gan và thậm chí dẫn đến tử vong.
+Khả năng viêm gan B tiến triển thành mãn tính phụ thuộc vào độ tuổi của người bị nhiễm bệnh. Người bị nhiễm ở độ tuổi trẻ có khả năng viêm gan B mãn tính cao hơn. Theo dữ liệu từ WHO, khoảng 80-90% trẻ sơ sinh và 30-50% trẻ em bị nhiễm viêm gan B trước 6 tuổi có nguy cơ phát triển thành viêm gan mãn tính (3). Trong khi đó, tỷ lệ này ở người trưởng thành mắc bệnh thấp hơn rất nhiều, dưới 5%.
+Bất kỳ ai cũng có thể mắc bệnh viêm gan B, trẻ sơ sinh có mẹ bị nhiễm bệnh viêm gan B là đối tượng có nguy cơ cao hơn cả, virus HBV có thể dễ dàng lây truyền trong quá trình thai kỳ, trong khi chuyển dạ và sinh nở
+Chẩn đoán viêm gan B
+Dựa trên dữ liệu lâm sàng, không thể phân biệt viêm gan B và viêm gan do các chủng virus khác gây ra chỉ thông qua triệu chứng. Vì vậy, việc xác nhận chẩn đoán viêm gan B thông qua các thí nghiệm là rất cần thiết. Các bác sĩ có thể yêu cầu người bệnh tiến hành các xét nghiệm máu để chẩn đoán viêm gan B. Có nhiều phương pháp xét nghiệm khác nhau được sử dụng và một số xét nghiệm thông thường gồm có:
+Xét nghiệm kháng nguyên bề mặt virus viêm gan B (HBsAg): Hầu hết những người có nguy cơ mắc bệnh viêm gan B sẽ được kiểm tra HBsAg. Nếu kết quả xét nghiệm này dương tính, điều đó cho thấy người bệnh đã nhiễm virus viêm gan B. Tiếp theo đó, các xét nghiệm bổ sung được yêu cầu để xác định mức độ nhiễm virus và tổn thương gan.
+Xét nghiệm kháng thể chống kháng nguyên bề mặt viêm gan B (HBsAb hay Anti HBs): Kết quả xét nghiệm dương tính cho biết người bệnh đã phát triển kháng thể chống lại virus viêm gan B, cho thấy đã tiêm ngừa viêm gan B hoặc đã từng mắc viêm gan B cấp tính trước đó.
+Xét nghiệm kháng nguyên vỏ virus viêm gan B (HBeAg): Sự hiện diện của HBeAg chỉ ra rằng virus đang hoạt động và có khả năng lây lan cao.
+Xét nghiệm kháng thể chống kháng nguyên lõi virus viêm gan B (Anti HBc): Kháng thể HBcAb gồm 2 loại: immunoglobulin M (IgM) và immunoglobulin G (IgG). HBcAb IgM xuất hiện và tăng nhanh trong giai đoạn viêm gan B cấp tính hoặc giai đoạn đợt cấp của viêm gan B mãn tính, sau đó sẽ giảm dần. HBcAb IgG xuất hiện trong giai đoạn viêm gan B mãn tính. Kết quả xét nghiệm dương tính chỉ ra rằng người bệnh đã hoặc đang nhiễm virus HBV.
+Xét nghiệm HBV-DNA: Xét nghiệm này giúp bác sĩ đánh giá mức độ tăng sinh virus trong cơ thể. Nồng độ HBV-DNA cao cho thấy virus đang nhân lên mạnh mẽ và có khả năng lây truyền cao.
+Sau khi tiến hành các xét nghiệm máu để chẩn đoán viêm gan, các bác sĩ có thể yêu cầu là nhiều xét nghiệm khác nhằm xác định mức độ tổn thương gan cho từng trường hợp cụ thể. Các xét nghiệm này có thể bao gồm đánh giá chức năng gan, siêu âm hoặc sinh thiết gan.
+Kết quả của những xét nghiệm này sẽ giúp bác sĩ lập kế hoạch điều trị phù hợp cho người bệnh
+Bệnh viêm gan B có chữa được không?
+Viêm gan B có chữa được không ở giai đoạn cấp tính?
+Như trên đã đề cập, nếu bệnh viêm gan siêu vi B ở dạng cấp tính (diễn tiến bệnh trong vòng 6 tháng), có đến hơn 90% trường hợp người trưởng thành sẽ tự khỏi mà không cần sử dụng thuốc điều trị. Người bệnh cần tăng cường việc nghỉ ngơi hợp lý, duy trì môi trường sống mát mẻ để giảm triệu chứng ngứa ngáy, dùng thuốc theo toa cho các triệu chứng ngứa hoặc buồn nôn, uống nhiều nước, xây dựng chế độ ăn uống khoa học và tuân thủ các biện pháp điều trị hỗ trợ theo hướng dẫn của bác sĩ.
+Đồng thời, cần lưu ý rằng những người tiếp xúc với người mắc bệnh viêm gan B cấp tính cần được xét nghiệm phơi nhiễm và tiêm vắc xin phòng bệnh đúng thời điểm. Nếu các triệu chứng viêm gan B trở nên nghiêm trọng hoặc tồi tệ hơn, cần đi khám bác sĩ ngay. Bác sĩ có thể kê đơn thuốc kháng virus để ngăn chặn sự tổn thương gan tiềm ẩn.
+Có thể sử dụng paracetamol/ibuprofen để giảm triệu chứng đau dạ dày của viêm gan B
+Bệnh viêm gan B có chữa khỏi được không ở giai đoạn mãn tính?
+Đến thời điểm hiện tại, việc chữa trị hoàn toàn viêm gan B mãn tính vẫn chưa có phương pháp hiệu quả. Tuy nhiên, các phương pháp điều trị hiện tại nhằm kiểm soát hoạt động virus để người bệnh có thể sống lâu dài hoà hợp với viêm gan B.
+Khi viêm gan B chuyển sang dạng mạn tính, cần thực hiện các xét nghiệm chi tiết và sử dụng thuốc kháng siêu vi để điều trị. Mục tiêu của điều trị là giảm mức men gan xuống mức chấp nhận được và chuyển nồng độ virus viêm gan B từ chỉ số HBeAg (+) thành (-). Tuy nhiên, ngay cả khi HBsAg chuyển sang âm tính, người bệnh vẫn cần tuân thủ theo dõi định kỳ để đảm bảo rằng virus không tái phát.
+Mục tiêu chính của việc điều trị viêm gan B mãn tính hiện nay là kiểm soát và ức chế sự tăng sinh siêu vi B trong thời gian dài, nhằm ngăn ngừa tiến triển bệnh, biến chứng xơ gan và ung thư gan. Tuy nhiên, không phải tất cả người bệnh viêm gan B đều phát triển thành xơ gan và ung thư gan, miễn là họ tuân thủ chế độ ăn uống, sinh hoạt và điều trị một cách hợp lý.
+Cách điều trị viêm gan B sẽ phụ thuộc vào diễn biến của virus gây bệnh trong cơ thể. Tùy vào tình trạng này, có thể sử dụng các biện pháp điều trị khác nhau. Cụ thể:
+Người lành mang bệnh
+Trong trường hợp người không mang bệnh viêm gan B, người bệnh không cần sử dụng thuốc điều trị mà chỉ cần tuân thủ chế độ ăn uống và sinh hoạt khoa học. Đồng thời, cần theo dõi sức khỏe gan thường xuyên.
+Viêm gan B thể hoạt động
+Trong trường hợp viêm gan B mạn tính đang hoạt động, người bệnh cần tuân thủ phác đồ điều trị do bác sĩ đề ra. Nếu virus viêm gan B hoạt động và gây tổn thương gan nhẹ, có thể sử dụng các loại thuốc ức chế virus để kiểm soát hoạt động của nó, tuy nhiên chưa thể tiêu diệt virus hoàn toàn khỏi cơ thể. Việc điều trị viêm gan B mạn tính yêu cầu sự kiên nhẫn và tuân thủ lâu dài từ bệnh nhân.
+Theo các chuyên gia, chỉ có khoảng 0,1-0,5% các trường hợp mắc viêm gan B cấp tính diễn tiến nặng thành suy gan
+Làm thế nào để phòng ngừa viêm gan B?
+Bệnh viêm gan B mãn tính không thể chữa khỏi, nhưng hoàn toàn có thể dễ dàng ngăn ngừa tình trạng này bằng các biện pháp đơn giản như:
+Tiêm vắc xin phòng viêm gan B
+Lịch tiêm vắc xin phòng viêm gan B cho trẻ em:
+Tên vắc xin
+Phòng bệnh
+Đối tượng
+Lịch tiêm
+Infanrix Hexa (Bỉ)
+Ho gà, bạch hầu, uốn ván, bại liệt, viêm gan B và các bệnh do HIB
+Trẻ từ 2 tháng đến 2 tuổi
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: 1 tháng sau mũi 1
+Mũi 3: 1 tháng sau mũi 2
+Mũi 4: cách mũi thứ 3 là 12 tháng (cách tối thiểu 6 tháng).
+Hexaxim (Pháp)
+Engerix B (Bỉ) 0.5ml
+Viêm gan B
+Trẻ sơ sinh đến dưới 20 tuổi
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: 1 tháng sau mũi 1
+Mũi 3: 6 tháng sau mũi 1
+Euvax B (Hàn Quốc) 0.5ml
+Trẻ sơ sinh đến dưới 16 tuổi
+Twinrix (Bỉ)
+Viêm gan A +B
+Trẻ từ 12 tháng tuổi đến dưới 16 tuổi
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: 6 tháng sau mũi 1
+Lịch tiêm vắc xin phòng viêm gan B cho người lớn:
+Tên vắc xin
+Phòng bệnh
+Đối tượng
+Lịch tiêm
+Engerix B (Bỉ) 20mcg/1ml
+Viêm gan B
+Người từ 20 tuổi trở lên
+Mũi 1: lần tiêm đầu tiên.
+Mũi 2: 1 tháng sau mũi 1.
+Mũi 3: 6 tháng sau mũi 1.
+Euvax B (Hàn Quốc) 1ml
+Người từ 16 tuổi trở lên
+Twinrix (Bỉ)
+Viêm gan A +B
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: 1 tháng sau mũi 1
+Mũi 3: 6 tháng sau mũi 1
+Hệ thống Trung tâm Tiêm chủng cho Trẻ em và Người lớn VNVC luôn nỗ lực cung ứng đầy đủ vắc xin phòng ngừa viêm gan B và các loại vắc xin khác cho trẻ em và người lớn trên toàn quốc. VNVC đảm bảo bảo quản vắc xin an toàn, chất lượng và hiệu quả cao trong hệ thống dây chuyền lạnh (Cold Chain) và hệ thống kho lạnh đạt chuẩn GSP duy trì nhiệt độ bảo quản vắc xin từ 2-8 độ C.
+Quy trình tiêm chủng tại VNVC được thực hiện, kiểm soát nghiêm ngặt và đảm bảo an toàn ở mức cao nhất. 100% Khách hàng được khám sàng lọc miễn phí, đảm bảo người tiêm chủng có đủ điều kiện sức khỏe và tiền sử bệnh lý để tiến hành tiêm, chỉ định đúng mũi tiêm, phác đồ tiêm theo quy định, hạn chế tối đa những phản ứng bất lợi sau tiêm.
+VNVC đầu tư đồng bộ cơ sở vật chất và trang thiết bị cấp cao, sảnh chờ rộng rãi, phòng khám phòng tiêm, khu vui chơi cho trẻ, phòng cho con bú và phòng pha sữa. Khách hàng đến VNVC được miễn phí khám và theo dõi sau tiêm, cũng như được cung cấp miễn phí các tiện nghi như bỉm tã, nước uống và wifi để mang lại trải nghiệm tốt nhất.
+Tại VNVC, Khách hàng còn được hưởng dịch vụ tư vấn, khám sàng lọc trước khi tiêm, nhắc lịch, tra cứu lịch sử tiêm chủng và vắc xin cần tiêm theo độ tuổi cùng nhiều tiện ích cao cấp khác hoàn toàn miễn phí
+Các biện pháp phòng ngừa hỗ trợ khác
+Cần đảm bảo an toàn trong quan hệ tình dục, sử dụng biện pháp bảo vệ như bao cao su, màng chắn nha khoa,… nếu không biết rõ về tình trạng sức khỏe của đối phương. Không quan hệ bừa bãi, duy trì mối quan hệ tình cảm chung thủy 1 vợ – 1 chồng để hạn chế tối đa nguy cơ lây nhiễm bệnh viêm gan B và các bệnh tình dục khác từ các bạn tình không rõ ràng về tình trạng bệnh lý.
+Tuyệt đối không dùng chung kim tiêm vì virus viêm gan B có thể lây qua đường máu.
+Thực hiện thăm khám sức khỏe định kỳ hoặc làm xét nghiệm viêm gan B để phát hiện sớm bệnh ở giai đoạn cấp tính.
+Tránh sử dụng chung các vật dụng cá nhân có thể tiếp xúc với máu, như dao cạo râu, bàn chải đánh răng, dụng cụ nặn mụn…
+Hạn chế uống rượu bia hoặc uống đồ có cồn quá mức. Nên ăn ít chất béo, tránh mỡ động vật và thay thế bằng dầu thực vật, thịt trắng và thực phẩm giàu omega-3 có lợi cho gan.
+Nếu đang mang thai, cần làm xét nghiệm máu để kiểm tra xem có bị nhiễm bệnh hay không. Nếu được chẩn đoán mắc bệnh, cần tiêm vắc xin cho con ngay từ khi sinh theo hướng dẫn của bác sĩ.
+Viêm gan B có chữa được không? CÓ THỂ. Viêm gan B có thể chữa được, thậm chí tự khỏi khi ở giai đoạn cấp tính và bệnh nhân được chăm sóc, sinh hoạt, ăn uống theo đúng hướng dẫn của bác sĩ. Đối với bệnh nhân viêm gan B đã tiến sang giai đoạn mãn tính, hiện không có bất kỳ phương pháp hay loại thuốc nào có thể điều trị đặc hiệu, hầu hết chỉ là các phương pháp tạm thời dung hòa nồng độ virus HBV trong cơ thể, khiến bệnh nhân rơi vào hoàn cảnh “sống chung với lũ”.

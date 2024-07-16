@@ -1,0 +1,107 @@
+# doc_id = health_disease_403
+# url = https://vnvc.vn/di-chung-hau-covid-19/
+# date = 18/03/2022
+Di chứng hậu Covid-19 kéo dài bao lâu? Cách khắc phục?
+Di chứng hậu Covid-19 có thể kéo dài vài tuần hoặc vài tháng sau khi nhiễm bệnh. Nhiều bệnh nhân thậm chí phải tái nhập viện để điều trị. Nếu gặp phải di chứng hậu Covid-19, cách khắc phục ra sao, làm gì để nhanh khỏi bệnh?
+Mục lụcHội chứng hậu Covid-19 là gì?Các di chứng hậu Covid-19 thường gặpMệt mỏiDi chứng tâm thần kinh đa dạngHệ hô hấp bất thườngRối loạn tâm lýDi chứng tim mạchHội chứng sau khi khỏi Covid-19 ít gặpDi chứng nội tiếtDi chứng trên da – lông – tócDi chứng tiêu hóa gan mậtSuy hô hấp cấp tínhViêm phổiTổn thương gan cấp tínhSốc nhiễm trùngĐông máuSuy thận cấpHội chứng viêm đa cơ quan ở trẻ (MIS-C)Di chứng hậu Covid-19 kéo dài hơn vì sao?Do virus EBVNhiễm Covid-19 nặngBệnh nềnChưa tiêm chủng vắc xin Covid-19Hệ sinh vật đường ruột kémMức độ thấp của kháng thể IgM và IgG3Hội chứng sau Covid kéo dài bao lâu?Cách khắc phục triệu chứng hậu Covid-19 như thế nào?Tập thởĐi bộĂn thức ăn dinh dưỡngHội chứng hậu Covid-19 là gì?
+Di chứng hậu Covid-19 là một loạt vấn đề sức khỏe mới không giải thích được bằng những nguyên nhân khác, người bệnh có thể gặp phải sau khoảng 4 tuần trở lên sau lần đầu lây nhiễm Covid-19. Di chứng sau khi khỏi Covid-19 có thể khiến tình trạng sức khỏe của bệnh nhân suy giảm trong một thời gian dài, tác động nghiêm trọng đến chất lượng cuộc sống và các hoạt động thường ngày của người bệnh. Các triệu chứng khi mắc hậu Covid-19 rất đa dạng, người mắc tự hồi phục nhanh chóng nhưng cũng có thể kéo dài cả năm, nhiều trường hợp sẽ để lại di chứng vĩnh viễn. Tuy nhiên, nhìn chung tình trạng hậu Covid-19 đa phần là nhẹ và tự hồi phục theo thời gian.
+Các di chứng hậu Covid-19 thường gặp
+Có khoảng 200 triệu chứng khác nhau liên quan đến các di chứng hậu Covid-19, tuy nhiên không phải tất cả các triệu chứng xuất hiện sau giai đoạn mắc Covid-19 cấp tính đều được cho là di chứng của Covid-19. Chúng có thể là dấu hiệu của những bệnh lý khác. Dưới đây là các di chứng thường gặp nhất:
+Mệt mỏi
+Rất nhiều trường hợp gặp tình trạng mệt mỏi, suy kiệt, bải hoải toàn thân sau khi mắc Covid-19. Thậm chí có trường hợp, sau khỏi Covid-19 nhiều tháng nhưng thở thôi cũng thấy mệt, sức khỏe đi xuống một cách rõ rệt. Lại có người quay lại công việc sau khi khỏi bệnh, nhưng năng suất làm việc lại không được như trước.
+Thực tế, tình trạng mệt mỏi ở những người từng nhiễm virus SARS-CoV-2 cũng tương tự như nhiễm các loại virus khác (như sởi, thương hàn). Nhiều bệnh nhân mệt mỏi vài ngày, có khi vài tuần hay thậm chí là vài tháng.
+Có nhiều yếu tố khiến tình trạng mệt mỏi kéo dài như: căng thẳng, càng lo lắng, chán nản bệnh nhân càng mệt mỏi; thậm chí có người nhiều việc và “ham việc”, mong muốn chứng minh bản thân đã khỏe nên lao đầu vào công việc nên càng mệt mỏi.
+Theo lời khuyên của các bác sĩ, F0 sau khi khỏi bệnh cần năng lượng để phục hồi sức khoẻ, tái tạo năng lượng, nếu cảm thấy mệt mỏi nên nghỉ ngơi không nên quá gắng sức; hãy làm việc chậm rãi, từ tốn, ngủ đủ giấc, điều độ, thư giãn bằng thiền hoặc yoga.
+Hậu Covid-19 ảnh hưởng nghiêm trọng đến sức khỏe của người bệnh
+Di chứng tâm thần kinh đa dạng
+Covid-19 do virus SARS-CoV-2 biểu hiện chủ yếu ở hội chứng hô hấp cấp tính nghiêm trọng. Tuy nhiên, di chứng thần kinh hậu Covid-19 ngày càng được ghi nhận nhiều hơn, với những biểu hiện như nhức đầu, chóng mặt, rối loạn khứu giác, vị giác, thay đổi ý thức, co giật, đột quỵ…
+Những bất thường ở não bộ sau nhiễm Covid-19 đã được chứng thực qua nhiều nghiên cứu, điển hình như nghiên cứu của Đại học Oxford được công bố trên tạp chí Nature ngày 7/3. Theo đó, Oxford công bố bằng chứng rõ ràng, chứng tỏ Covid-19 liên quan đến những bất thường ở não bộ, thậm chí cả những người mắc bệnh nhưng không phải nhập viện. Đây là công trình đầu tiên sử dụng dữ liệu quét não (chụp MRI) của bệnh nhân F0 trước khi những người này nhiễm virus và vài tháng trước đó. (1)
+Các nghiên cứu gần đây còn phát hiện, một số người gặp hội chứng sương mù não hậu Covid-19, bao gồm triệu chứng kém tập trung, dễ phân tâm, trí nhớ giảm, tốc độ xử lý thông tin kém. Ngoài ra, theo kết quả của những bài kiểm tra tiêu chuẩn về độ nhạy bén tinh thần cho thấy, nhóm mắc Covid-19 có mức độ suy giảm nhận thức nhiều hơn.
+Di chứng hậu Covid-19 còn ảnh hưởng đến thần kinh
+Hệ hô hấp bất thường
+Hậu di chứng sau khi mắc Covid-19 biểu hiện đa dạng ở nhiều cơ quan, nhưng phổ biến nhất vẫn là những bất thường ở hệ hô hấp như ho khan, hụt hơi, khó thở dai dẳng kéo dài trong vòng 3 tháng sau khỏi bệnh. Tỷ lệ bệnh nhân gặp tình trạng này chiếm khoảng 42%-66% số ca mắc được khảo sát.
+Theo một số nghiên cứu, sau khi khỏi Covid-19, bệnh nhân có triệu chứng khó thở chiếm 10% – 71%, kéo dài khoảng 2 đến 3 tháng hoặc lâu hơn. Triệu chứng khó chịu ở ngực chiếm 12% đến 44%, kéo dài từ 2 đến 3 tháng. Ho chiếm 17% đến 34%, kéo dài 2 đến 3 tháng hoặc lâu hơn.
+Những tổn thương thường gặp nhất có thể kể đến như hình kính mờ, viêm phổi tổ chức, xơ hóa phổi, khí phế thũng, dày các vách liên tiểu thùy,… Đây là những bất thường có thể bị bỏ sót trên phim X – quang ngực thẳng thông thường.
+Di chứng hậu Covid-19 gây nên tình trạng bất thường ở hệ hô hấp
+Rối loạn tâm lý
+Theo ghi nhận của nhiều bệnh viện, nhiều bệnh nhân mắc các triệu chứng hậu Covid-19 nặng như viêm phổi, viêm cơ tim, suy nhược cơ thể,… Nhiều trường hợp xuất hiện tình trạng rối loạn tâm lý về lo âu, mất ngủ vì chứng kiến người thân của mình tử vong, thậm chí có người rơi vào trạng thái trầm cảm, mất niềm vui trong cuộc sống.
+Chính vì vậy, những bệnh viện điều trị tình trạng hậu Covid-19 hiện nay không chỉ điều trị cho uống thuốc mà phải kết hợp các liệu pháp tâm lý, tạo không gian thoải mái cho sự phục hồi của người bệnh.
+Di chứng tim mạch
+Những bệnh nhân mắc Covid-19 nặng, nguy kịch, có bệnh nền tim mạch, khi khỏi bệnh thường khó tránh biến chứng về tim mạch. Thậm chí, trong một số tình trạng cá biệt, bệnh nhân mắc Covid-19 thể nhẹ, không triệu chứng vẫn có thể mắc những di chứng nguy hiểm về tim mạch. Bệnh nhân có thể suy tim dẫn đến tình trạng ngạt thở khi đang ngủ về đêm. Nếu không phát hiện kịp thời những biến chứng tim mạch hậu Covid-19, bệnh nhân có thể bị viêm tim cấp dẫn đến tử vong.
+Nguyên nhân của tình trạng tổn thương cơ tim trực tiếp là do SARS-CoV-2, gián tiếp do “bão cytokine” (2) gây viêm và hoại tử các tế bào cơ tim dẫn đến suy tim. Triệu chứng của viêm cơ tim có thể từ nhẹ đến nặng như mệt mỏi, khó thở, tùy thuộc vào mức độ suy tim, sưng chân, tim đập nhanh và đau ngực. Khi siêu âm thấy tim giãn lớn, các thành tim giảm động, phân suất tống máu thất trái giảm, tăng áp động mạch phổi.
+Ngoài ra, tác dụng phụ của thuốc chống virus, thuốc kháng sinh, tình trạng giảm oxy máu, rối loạn điện giải khi mắc Covid-19 cũng góp phần làm nặng thêm rối loạn nhịp tim sẵn có. Rối loạn nhịp tim thường gặp như rung nhĩ, nhịp tim chậm hoặc thậm chí là ngừng tim.
+Quá trình tổn thương nội mạch máu và viêm mạch máu do virus cũng làm tăng nguy cơ hình thành huyết khối trong lòng mạch máu, gây thuyên tắc mạch máu do huyết khối. Biến cố huyết khối thường gặp ở những bệnh nhân nguy kịch, phải thở bằng máy.
+Hội chứng sau khi khỏi Covid-19 ít gặp
+Bên cạnh những biến chứng hậu Covid-19 thường gặp ở hệ hô hấp, thần kinh, trong một số trường hợp hiếm gặp người bệnh có thể gặp một số di chứng ít điển hình như thay đổi nội tiết, viêm phổi, sốc nhiễm trùng, đông máu, tổn thương thận,…
+Di chứng nội tiết
+Di chứng nội tiết có thể gặp ở một số trường hợp hậu Covid-19, bao gồm: nhiễm toan ceton do tăng đường huyết ở người chưa từng chẩn đoán đái tháo đường trước đây, bệnh Graves, viêm giáp bán cấp Hashimoto, nhiễm độc giáp, loãng xương.
+Di chứng trên da – lông – tóc
+Di chứng trên da – lông – tóc là một trong những di chứng hậu Covid-19 phổ biến bên cạnh mệt mỏi, đau đầu, mất tập trung, khó thở.
+Theo kết quả tổng hợp của hơn 50 nghiên cứu, thống kê trên nhiều quốc gia cho thấy, 25% bệnh nhân Covid-19 gặp các vấn đề rụng tóc trong vòng 3-6 tháng sau khi khỏi bệnh. Đây được xem là một triệu chứng điển hình của hội chứng Covid-19 kéo dài. Nguyên nhân của tình trạng rụng tóc là do nCoV có xu hướng tấn công vào các tế bào có receptor AEC2 trên bề mặt. Đây là một thụ thể (protein) giúp cho virus xâm nhập vào bên trong tế bào. Các tế bào mầm tóc, phổi, xương, tim, mô mỡ, thần kinh đều có chứa các receptor này. Hệ quả khi các tế bào mầm tóc trở thành mục tiêu tấn công của virus là khiến chúng nhanh chóng bị tổn thương và suy yếu, tóc bị giảm tuổi thọ, rụng sớm hơn so với chu kỳ tự nhiên.
+Bên cạnh nỗi khổ rụng tóc, nhiều trường hợp bỗng bị phát ban, mề đay, phát ban mụn trứng cá ở mặt, lưng, ngực,… hậu Covid-19. Nguyên nhân của tình trạng này là do trong quá trình điều trị, bệnh nhân uống thuốc corticoid, thuốc chống đông máu gây mụn trứng cá. Việc người bệnh quá lo lắng, căng thẳng về Covid-19 cũng gây nổi mụn.
+Di chứng Covid-19 còn ảnh hưởng đến tóc, lông, da của người bệnh
+Di chứng tiêu hóa gan mật
+Triệu chứng đường tiêu hóa do Covid-19 gần như được phát hiện đầu tiên nhưng chưa được quan tâm đúng mức, bởi những biểu hiện không rõ ràng, biểu hiện chồng chéo bởi nhiều bệnh khác nhau như: đau bụng, chán ăn, nôn ói,…
+Không chỉ ảnh hưởng đến đường tiêu hóa, virus SARS-CoV-2 còn gây ảnh hưởng gan, mật. Trong đó, ảnh hưởng đến mật trước khi tổn thương tế bào gan, do Covid-19 gây tắc mật kéo dài ảnh hưởng gan, nặng hơn các bệnh lý ở gan như viêm gan do virus, gan nhiễm mỡ,… gây hoại tử tế bào gan.
+Để hạn chế ảnh hưởng nặng nề của Covid-19 đến hệ tiêu hóa, gan, mật, cần quan tâm ngay từ khi bệnh nhân xuất hiện các triệu chứng về tiêu hóa như: Đau bụng, nôn, mất vị giác,… để ứng phó phù hợp.
+Suy hô hấp cấp tính
+Hội chứng suy hô hấp cấp (ARDS) do Covid-19 là một hội chứng không đồng nhất, đặc trưng bởi tổn thương phế nang lan tỏa với những kiểu hình có thể thay đổi. Dù gần đây có nhiều tiến bộ trong chẩn đoán điều trị, nhưng suy hô hấp cấp vẫn có thể bị bỏ sót trong chẩn đoán, có tỷ lệ tử vong cao và vẫn còn là một thách thức với các bác sĩ điều trị tích cực.
+Theo nhiều báo cáo từ Á sang Âu, ở giai đoạn nhiễm trùng cấp có khoảng 5% người bị hội chứng suy hô hấp cấp (ARDS) cần thở máy và điều trị tích cực. ARDS cũng là nguyên nhân chủ yếu gây tử vong giai đoạn cấp và là một trong những nguyên nhân chính dẫn đến tình trạng xơ phổi hậu Covid-19. Đây là tình trạng nhu mô phổi bị phá hủy không thể hồi phục trạng thái nhu mô phổi bình thường mà thay bằng những mô xơ.
+Viêm phổi
+Virus SARS-CoV-2 có thể làm hỏng phế nang và khiến chất lỏng tích tụ trong phổi. So với các dạng viêm phổi khác như viêm phổi do cúm, Covid-19 gây dạng viêm nặng hơn, gây bệnh nặng và kéo dài hơn ở một số người.
+Viêm phổi còn được phát hiện ở bệnh nhân hậu Covid-19 khi được chụp X – quang hoặc chụp cắt lớp vi tính lồng ngực. Những bệnh nhân có nguy cơ cao mắc di chứng viêm phổi hậu Covid-19: béo phì, tiểu đường, người cao tuổi, người có các bệnh lý phổi nền, người uống thuốc ức chế miễn dịch, phụ nữ có thai.
+Viêm phổi do Covid-19 có xu hướng nặng và kéo dài hơn tình trạng viêm phổi do nguyên nhân khác
+Tổn thương gan cấp tính
+Tổn thương gan là một di chứng hậu Covid-19. Hầu hết bệnh nhân Covid-19 có biểu hiện bất thường nhẹ về chức năng gan, thường tạm thời và có khả năng trở lại bình thường mà không cần điều trị đặc biệt.
+Để xác định chắc chắn tình trạng tổn thương gan, men gan là dấu hiệu thường được sử dụng. Ngoài ra, sinh thiết gan được khuyến khích cho những bệnh nhân suy gan cấp tính không rõ nguyên nhân. Những cơ chế tiềm ẩn của tổn thương gan liên quan đến Covid-19 có thể bao gồm: các tác động trực tiếp của nhiễm virus, giảm oxy máu, cơn bão viêm, viêm nội mạc và thuốc.
+Sốc nhiễm trùng
+Sốc nhiễm trùng là biến chứng hiếm gặp hậu Covid-19, nếu không được điều trị thích hợp, kịp thời sẽ gây tổn thương cho tế bào, đa cơ quan và dẫn đến tử vong. Bệnh nhân chuyển sang giai đoạn sốc nhiễm trùng thường đã nhiễm khuẩn huyết nặng kèm theo tụt huyết áp (Huyết áp tâm trương < 90mmHg hoặc giảm 40mmHg so với huyết áp bình thường trước đó) dù đã bù đủ dịch kèm với bất thường tưới máu (rối loạn tri giác, thiểu niệu, toan máu nhiễm acid lactic…)
+Đông máu
+Một người có thể tắc nghẽn mạch máu nhiều lần, nhiều vị trí cả trong điều trị và sau khi khỏi bệnh Covid-19 tùy vào mức độ đông máu. Nguyên nhân của tình trạng này là do tăng đông máu hậu Covid-19 có thể gây tình trạng tắc nhiều mạch máu gồm cả động mạch, tĩnh mạch, mao mạch từ đó dẫn đến thiếu máu cục bộ các cơ quan, các vùng trên cơ thể.
+Ví dụ: Tắc động mạch thận dẫn đến hoại tử thận, huyết khối động mạch phổi gây hoại tử nhu mô phổi, huyết khối động mạch vành dẫn đến nhồi máu cơ tim. Đây đều là những di chứng hậu covid nghiêm trọng, gây nguy hiểm đến tính mạng người bệnh nếu không được can thiệp kịp thời.
+Suy thận cấp
+Theo các thống kê tại Mỹ và Trung Quốc, khoảng 24%-57% bệnh nhân Covid-19 nặng có dấu hiệu tổn thương thận cấp dù trước đó không có bệnh lý về thận. Thậm chí, trong một số trường hợp thận tổn thương nặng, bệnh nhân phải lọc máu.
+Theo nghiên cứu, virus SARS-CoV-2 tấn công trực tiếp tế bào thận qua cơ chế gắn kết các receptor tương tự cơ chế tấn công tế bào phổi:
+Giảm nồng độ oxy máu, tổn thương tế bào thận;
+Cơn bão cytokin phá hủy tế bào thận;
+Virus gây tắc vi mạch máu của thận, suy giảm chức năng thận;
+Sốc nhiễm khuẩn, tổn thương ống thận;
+Bệnh nhân tổn thương thận do Covid-19 đều có tình trạng tăng Creatinine huyết thanh, tăng đạm niệu.
+Những bệnh nhân tổn thương thận cấp do Covid-19 dù hồi phục nhưng vẫn có nguy cơ diễn tiến thành bệnh mạn tính về sau.
+Hội chứng viêm đa cơ quan ở trẻ (MIS-C)
+Biến chứng sau khi khỏi covid-19 nghiêm trọng ở trẻ là Hội chứng viêm đa cơ quan (MIS-C) là tình trạng viêm các bộ phận cơ thể khác nhau, bao gồm: tim, phổi, thận, da, mắt, não, hoặc các cơ quan tiêu hóa. MIS-C nghiêm trọng có thể dẫn đến tử vong, hầu hết trẻ chẩn đoán mắc hội chứng viêm đa cơ quan có tiến triển khá hơn sau khi được điều trị.
+Khi trẻ có những dấu hiệu nghi ngờ MIS-C, ba mẹ cần đưa trẻ đến ngay cơ sở y tế gần nhất để được chẩn đoán và điều trị: Đau bụng, mắt đỏ, tiêu chảy, chóng mặt hoặc choáng váng, da phát ban, nôn ói. Một số dấu hiệu trở nặng cảnh báo người bệnh cần được cấp cứu y tế ngay lập tức gồm: khó thở, thường xuyên đau tức ngực, không thể thức dậy hoặc duy trì tỉnh táo, da, móng tay, môi nhợt nhạt, xám hoặc có màu xanh tùy vào tông da.
+Khi trẻ đau bụng, mắt đỏ, tiêu chảy, chóng mặt hậu Covid-19, phụ huynh cần đưa đến cơ sở y tế để chẩn đoán và điều trị
+Di chứng hậu Covid-19 kéo dài hơn vì sao?
+Do virus EBV
+EBV hay Epstein-Barr Virus còn được gọi là herpesvirus 4 (HHV-4) là 1 trong 8 loại virus Herpes gây bệnh phổ biến ở người (3). EBV là một yếu tố nguy cơ khiến tình trạng Covid-19 kéo dài. Theo ước tính, có khoảng 90% – 95% người nhiễm virus EBV sau khi gây ra nhiễm trùng ban đầu virus sẽ không hoạt động mà ẩn trong các tế bào miễn dịch của cơ thể. Tuy nhiên, nếu một người mắc một bệnh nhiễm trùng khác hoặc căng thẳng, EBV có thể tái hoạt động gây nhiễm trùng một lần nữa. Bệnh nhân có EBV trong máu thường mắc các vấn đề về trí nhớ, cũng như mệt mỏi và nhiều đờm.
+Thông thường không thể phát hiện các mảnh EBV trong máu, việc phát hiện EBV thường là dấu hiệu cho thấy chúng đã tái hoạt động. EBV chủ yếu được phát hiện trong máu bệnh nhân sau khi họ được chẩn đoán mắc Covid-19; sau đó nồng độ virus trong máu giảm nhanh. Hiện tượng này có thể là do khi hệ thống miễn dịch tập hợp chống lại SARS-CoV-2, EBV có cơ hội tái kích hoạt và gây thiệt hại lâu dài cho cơ thể.
+Nhiễm Covid-19 nặng
+Thông thường, đối với các trường hợp nhiễm Covid-19, bệnh nhân phải nhập viện, điều trị máy thở cho đến khi hết các triệu chứng. Lúc này, Covid-19 đã gây ra hàng loạt tổn thương cho cơ thể người bệnh, bao gồm: viêm phổi, nhiễm trùng, nồng độ oxy thấp,… Những trường hợp này cần rất nhiều thời gian để cơ thể hồi phục, di chứng hậu Covid-19 thường nặng và kéo dài hơn nhiều lần so với những trường hợp bệnh nhẹ.
+Bệnh nền
+Theo Bộ Y tế, những người có bệnh lý nền như: Đái tháo đường, phổi tắc nghẽn mạn tính, ung thư, bệnh thận mạn tính, béo phì, thừa cân,… thuộc nhóm nguy cơ gia tăng mức độ nặng và tử vong do Covid-19. Ngoài ra, đây còn là nhóm đối tượng có di chứng hậu Covid-19 kéo dài hơn những người không có bệnh lý nền.
+Chưa tiêm chủng vắc xin Covid-19
+Theo Trung tâm kiểm soát và phòng ngừa dịch bệnh (CDC) Hoa Kỳ cho biết, những người chưa được tiêm vắc xin Covid-19 có nguy cơ nhập viện cao hơn 9 lần và khả năng tử vong tăng 14 lần do biến chứng liên quan Covid-19 so với những người đã tiêm vắc xin. Theo số liệu thống kê từ bang New South Wales của Úc, trong số 61.800 ca mắc bệnh được ghi nhận, có tới hơn 63% chưa được tiêm vắc xin phòng Covid-19. Còn tại Thái Lan, trong số 8.803 trường hợp tử vong do bệnh Covid-19 có đến 64,6% bệnh nhân là những người chưa tiêm vắc xin. Tại thành phố Hồ Chí Minh, trong số 151 người tử vong có 75% số ca tử vong là chưa tiêm mũi vắc xin nào hoặc tiêm chưa đủ liều. Trong khi đó những người đã được tiêm chủng nếu không may mắc bệnh, bệnh sẽ nhẹ và nhanh hồi phục hơn.
+Hệ sinh vật đường ruột kém
+Sức khỏe đường ruột ảnh hưởng khả năng miễn dịch của cơ thể. Các nghiên cứu gần đây đã chỉ ra, sự mất cân bằng của các vi khuẩn sống trong ruột non của con người có thể dẫn đến nguy cơ mắc hội chứng Covid-19 kéo dài.
+Các nhà khoa học tại Hong Kong đã phân tích hệ vi khuẩn đường ruột của 116 bệnh nhân mắc Covid-19 vào năm 2020 tại thời điểm những người bệnh này buộc phải nhập viện. Trong đó, hơn 80% bệnh nhẹ hoặc vừa phải, hơn 75% có ít nhất một triệu chứng dai dẳng. Sau 6 tháng, các triệu chứng mệt mỏi là 31%, trí nhớ kém 28%, rụng tóc 22%, lo lắng 21% và rối loạn giấc ngủ là 21%.
+Phân tích mẫu phân của bệnh nhân khi nhập viện và trong những tháng tiếp theo, những bệnh nhân mắc Covid-19 kéo dài có hệ vi khuẩn kém đa dạng và phong phú hơn. Ngược lại, những bệnh nhân không mắc Covid-19 kéo dài có hệ vi khuẩn đường ruột tương tự người không mắc Covid-19.
+Mặc dù nghiên cứu không chứng minh hệ vi khuẩn đường ruột khỏe giúp ngăn ngừa hội chứng Covid-19 kéo dài, nhưng nghiên cứu cho thấy tầm quan trọng của việc duy trì hệ vi khuẩn đường ruột khỏe mạnh, cân bằng giúp nâng cao miễn dịch của cơ thể. Ngược lại, hệ vi khuẩn ít đa dạng và mất cân bằng sẽ tác động tiêu cực đến sức khỏe.
+Mức độ thấp của kháng thể IgM và IgG3
+Theo nghiên cứu được công bố vào ngày 25/1 được đăng tải trên tạp chí Nature Communications, những người mắc di chứng Covid-19 kéo dài có mức kháng thể trong máu thấp hơn ngay sau khi nhiễm virus.
+Cụ thể với người mắc di chứng hậu Covid-19, hai globulin miễn dịch IgM và IgG3 có mức giảm rõ rệt. Đây là hai loại kháng thể mà miễn dịch tạo ra để chống lại lây nhiễm. Ở người có hệ miễn dịch khỏe mạnh, globulin có xu hướng tăng lên để đối mặt với lây nhiễm. Theo tiến sĩ Onur Boyman, khoa miễn dịch Đại học Bệnh viện Zurich cho biết, với mức độ kháng thể đó khi kết hợp với các yếu tố khác như tuổi trung niên hoặc tiền sử hen suyễn có khả năng dự đoán di chứng Covid-19 hiệu quả đến 75%.
+Hội chứng sau Covid kéo dài bao lâu?
+Cho đến nay, các nhà khoa học chưa thể xác định chính xác hội chứng hậu Covid-19 có thể kéo dài đến bao lâu. Những trường hợp hội chứng hậu Covid-19 đã được ghi nhận có thể kéo dài trong nhiều tuần, nhiều tháng, thậm chí lên 9 tháng hoặc lâu hơn.
+Theo định nghĩa chính thức của WHO về hội chứng hậu Covid-19 được đưa ra vào tháng 10/2021, tình trạng hậu Covid-19 ở những người có tiền sử nhiễm virus SARS-CoV-2 thường xuất hiện trong khoảng 3 tháng kể từ khi bắt đầu nhiễm bệnh, với các triệu kéo dài ít nhất 2 tháng.
+Cách khắc phục triệu chứng hậu Covid-19 như thế nào?
+Hậu Covid-19, người bệnh cần lưu ý chế độ luyện tập, ăn uống, sinh hoạt để hồi phục sức khỏe tốt hơn, nhanh hơn, khắc phục triệu chứng hậu Covid-19.
+Tập thở
+Trước hết, những bài tập thở sẽ giúp người bệnh phục hồi chức năng phổi, giảm khó thở. Mỗi ngày, người bệnh thực hiện bài tập thở với mức độ vừa phải, đúng động tác; không nên nóng vội hoặc tập luyện quá sức khiến tình trạng trầm trọng hơn.
+Ngoài ra, với người bệnh có triệu chứng ho kéo dài, có thể tập ho có kiểm soát bằng cách thở chúm môi từ 5 đến 10 phút. Bài tập này giúp đẩy đờm ra khỏi phế quản. Tiếp đó, nên tròn miệng hà hơi từ 5 đến 10 lần để tăng tốc độ đầy đờm khỏi khí quản. Cuối cùng, người bệnh hít một hơi sâu, nín thở rồi ho liên tiếp 2 lần để đẩy đờm ra ngoài.
+Tập thở giúp bệnh nhân phục hồi chức năng phổi, giảm khó thở hậu Covid-19
+Đi bộ
+Đi bộ là bài tập vận động nhẹ nhàng, giúp cơ thể tăng cường trao đổi chất. Ban đầu, bạn nên đi bộ khoảng 30 phút mỗi ngày, rồi tăng cường thời gian hoặc luyện tập thêm các bài thể dục khác như đạp xe chậm.
+Ăn thức ăn dinh dưỡng
+Thực phẩm giàu dinh dưỡng sẽ giúp người bệnh hậu Covid-19 nhanh hồi phục và tăng sức đề kháng. Hậu Covid-19, người bệnh nên bổ sung những loại thực phẩm có nhiều vitamin, khoáng chất và protein như: rau có màu xanh đậm, trái cây tươi, thịt nạc, cá,…
+Khi vừa khỏi bệnh hệ tiêu hóa còn yếu, bạn nên chia bữa ăn trong ngày thành các bữa nhỏ để cơ thể hấp thu chất dinh dưỡng tốt hơn.
+Di chứng hậu Covid-19 là nỗi lo của nhiều người sau khi khỏi bệnh. Để khắc phục các triệu chứng, giúp cơ thể hồi phục tốt hơn, giúp người bệnh mau trở lại cuộc sống và công việc bình thường thì việc ăn uống đầy đủ, luyện tập và nghỉ ngơi hợp lý là không thể thiếu. Ngoài ra, việc quan tâm đến tình trạng sức khỏe, thăm khám khi xuất hiện các triệu chứng giữ vai trò rất quan trọng.

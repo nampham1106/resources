@@ -1,0 +1,146 @@
+# url = https://vnvc.vn/cum-a-h5n1-nguyen-nhan-trieu-chung-dieu-tri-cach-phong-ngua/
+# date = 28/02/2023
+CÚM A H5N1: Nguyên nhân, triệu chứng, điều trị và cách phòng ngừa
+Cúm A H5N1 đã giết chết gần 60% người mắc kể từ trường hợp nhiễm bệnh đầu tiên. Đến nay, mặc dù y tế dự phòng và bệnh truyền nhiễm rất phát triển, nhưng cúm gia cầm A H5N1 vẫn đang tiếp tục lây lan, gây biến chứng và tử vong cho người và động vật.
+
+Mục lụcH5N1 là gì?Đặc điểm cấu tạo virus cúm A H5N1Cúm A H5N1 bắt nguồn từ đâu?Bệnh cúm A H5N1 có nguy hiểm không?Nguyên nhân gây bệnh cúm A h5n1Dấu hiệu, triệu chứng bệnh cúm A H5N1Thời gian ủ bệnh cúm A H5N1 là bao lâu?Các giai đoạn phát triển của bệnh cúm A H5N1Giai đoạn khởi phátGiai đoạn toàn phátBiến chứng bệnh cúm A H5N1Cúm A H5N1 có chữa được không? Cách điều trị cúm A H5N1Thuốc điều trị cúm A H5N1Cách phòng ngừa cúm A H5N1Các câu hỏi thường gặp khi gặp tình trạng sốt cúm ABệnh cúm A H5N1 có lây không? Lây qua đường nào?Cúm A H5N1 có lây từ người sang người không?Có vắc xin phòng cúm A H5N1 không?H5N1 là gì?
+H5N1 là một phân nhóm virus cúm A (Influenza A virus), thường xuất hiện ở chim và gia cầm. Giống như tất cả các loại virus cúm khác, virus A/H5N1 lây truyền giữa các loài chim, gia cầm và động vật khác, lây sang cho người và gây tử vong.
+Đặc điểm cấu tạo virus cúm A H5N1
+Virus cúm A H5N1 có cấu trúc kháng nguyên gồm 2 loại: Kháng nguyên Hemagglutinin (H) và kháng nguyên Neuraminidase (N) đều nằm trên vỏ bọc của virus, bản chất là glycoprotein. Trong đó, kháng nguyên H – giúp virus dễ bám vào tế bào, kháng nguyên N – giúp virus dễ dàng chui vào trong tế bào vật chủ. Kháng nguyên H đặc trưng cho týp virus, còn kháng nguyên N đặc trưng cho thứ týp (subtype). Các cấu trúc H và N của virus cúm có thể thay đổi trong từng thứ týp. Hiện nay có 18 cấu trúc kháng nguyên H (H1 đến H18) và 11 cấu trúc kháng nguyên N (N1 đến N11) khác nhau.
+Virus cúm có tỉ lệ đột biến cao và kháng nguyên bề mặt luôn có xu hướng biến đổi. Trong đó kháng nguyên H và kháng nguyên N là thay đổi rõ nhất, chỉ cần đột biến nhỏ đã dẫn tới sự biến đổi kháng nguyên, tạo ra biến chủng cúm mới. Đây chính là nguyên nhân H5N1 có thể gây dịch cúm trên diện rộng, thường xảy ra vào mùa đông và đầu xuân. Đại dịch cúm thường liên quan tới sự thay đổi cơ bản gen ở virus cúm A tạo nên một týp virus mới.
+Cúm A H5N1 là phân nhóm cúm gia cầm có khả năng xâm nhiễm cao. Từ năm 1997 đến nay, sự bùng phát của virus H5N1 đã làm nhiễm bệnh và chết hàng chục triệu gia cầm. H5N1 là loại virus có khả năng tự biến đổi (hoặc tái tổ hợp) rất cao. Virus này có thể tạo ra biến đổi gen lây từ người sang người, gây nhiều lo ngại về đại dịch cúm toàn cầu. Virus H5N1 có thể kết hợp với virus cúm ở người tạo ra một loại virus mới có đầy đủ tính năng của 2 loại virus cũ, dễ dàng tạo ra đại dịch cúm cho người với tỷ lệ biến chứng nặng, nguy cơ tử vong là rất lớn.
+Cúm A H5N1 bắt nguồn từ đâu?
+Virus cúm A H5N1 được phát hiện lần đầu tiên ở các loài chim hải yến ở Nam Phi vào năm 1961, làm lây nhiễm và giết chết hàng triệu gia cầm. Trước đó, virus A H5N1 thường không lây nhiễm sang người. Tuy nhiên, năm 1997, người đầu tiên lây nhiễm cúm A H5N1 từ chim được báo cáo trong dịch cúm gia cầm ở Hồng Kông và đã cướp đi tính mạng của gần 60% người mắc. Kể từ đó, đã có nhiều ca nhiễm bệnh được ghi nhận khác nhau ở người.
+Tổ chức Y tế Thế giới (WHO) và Tổ chức Lương thực và Nông nghiệp (FAO) cảnh báo: H5N1 có thể gây ra nhiều hơn một đại dịch cúm khi mầm bệnh vẫn đang tiếp tục gia tăng ở các khu vực lưu hành cao. Tháng 6/2008, đã có 11 ổ dịch H5N1 được báo cáo tại 5 quốc gia (Trung Quốc, Ai Cập, Indonesia, Pakistan và Việt Nam) đe dọa nghiêm trọng sức khỏe cộng đồng và thiệt hại nặng nề đến nền kinh tế.
+Các nghiên cứu dịch tễ cũng cho thấy, những ca nhiễm cúm A/H5N1 ở Campuchia, Thái Lan, Indonesia và Việt Nam xảy ra đồng thời với dịch H5N1 lớn ở gia cầm. Hầu hết các ca này gây ra do tiếp xúc với gia cầm, chim bị nhiễm cúm hoặc bề mặt có chứa dịch tiết từ gia cầm.
+Virus cúm A/H5N1 là loại virus cúm có khả năng lây nhiễm cao
+Bệnh cúm A H5N1 có nguy hiểm không?
+Virus A H5N1 là chủng cúm rất nguy hiểm do có độc lực cao, có thể gây diễn tiến khó lường theo chiều hướng phức tạp, tỷ lệ biến chứng và tử vong cao người (từ 50-60% trường hợp mắc). Do vậy, khi có yếu tố dịch tễ, sốt và triệu chứng viêm long đường hô hấp cần đến bệnh viện xét nghiệm khẳng định bị mắc vi rút cúm nào để có kế hoạch điều trị phù hợp.
+Tại Việt Nam, ca mắc cúm gia cầm H5N1 xuất hiện đầu tiên vào năm 2003 (Tính từ 2004 – 2013 có 35 ca mắc và 29 ca tử vong do cúm A/H5N1), biến chủng virus cúm này đã biến đổi thành một chủng có độc lực mạnh, tỷ lệ tử vong cao, có thời điểm đến 100%. Nguy hiểm nhất của bệnh cúm gà là khi lây sang người có thể gây viêm phổi cấp tính, tổn thương đa tạng, tỷ lệ tử vong cao.
+Nguyên nhân gây bệnh cúm A h5n1
+Cúm gia cầm A H5N1 (avian influenza) là bệnh cúm do virus cúm A/H5N1 gây ra cho các loài chim, động vật có vú và con người. Theo các chuyên gia y tế, có nhiều nguyên nhân gây bệnh cúm A H5N1 cho cộng đồng, cụ thể:
+
+Việc sinh sống gần các trang trại gia cầm và lợn là điều kiện thuận lợi làm tăng tính đột biến kháng nguyên virus, làm virus dễ lây nhiễm.
+Một số chợ trời, nơi bán trứng và gia cầm nhưng điều kiện vệ sinh không đảm bảo có thể là nguồn bệnh lây lan cho cộng đồng.
+Ăn thịt gia cầm và trứng chưa được nấu chín.
+
+Trong số 18 thứ týp cúm, H5N1 được quan tâm với nhiều lý do:
+
+Đột biến nhanh và chứa các gen từ các loài động vật khác nhau.
+Tính sinh bệnh cao, có khả năng gây bệnh nặng ở người. Virus cúm A H5N1 được chia làm 2 nhóm theo độc lực gồm: virus cúm gia cầm có độc lực thấp (LPAI) và virus cúm gia cầm có độc lực cao (HPAI). Hiện nay chỉ có các thứ týp H5, H7 và H9 là có độc lực cao.
+Chim có thể đào thải virus ít nhất là 10 ngày theo đường phân – miệng, do đó làm tăng tính lây nhiễm theo các đàn chim di cư.
+Virus có khả năng truyền trực tiếp từ chim, gà sang người.
+Khả năng tái tổ hợp nhiều gen virus và có thể lây dễ dàng từ người sang người, gây đại dịch ở người.
+Khả năng tồn tại rất cao ở môi trường bên ngoài. Virus có thể bị giết chết ở 56oC trong 3 giờ và 600oC trong 30 phút và các chất tẩy uế thông thường như formalin, iodin. Tuy nhiên, với các týp độc lực cao, virus có thể tồn tại lâu ở môi trường, đặc biệt ở nhiệt độ thấp, có thể sống ít nhất trong 35 ngày ở nhiệt độ 4oC. Nếu ở đông băng, virus có thể sống trong nhiều năm.
+
+Dấu hiệu, triệu chứng bệnh cúm A H5N1
+Người nhiễm virus cúm A H5N1 thường có những triệu chứng diễn biến cấp tính giống với các loại cúm thông thường, nhưng có thể kèm theo một số dấu hiệu cảnh báo nguy hiểm hơn. Những dấu hiệu cơ bản bệnh cúm A/H5N1 cần lưu ý:
+
+Sốt cao liên tục trên 38oC.
+Cảm thấy rét run, mệt mỏi, choáng váng đầu óc.
+Đau ngực, tim đập nhanh.
+Đau họng, ho, thường ho khan, ho có đờm.
+Chỉ sau nửa ngày, các triệu chứng do A/H5N1 trở nên trầm trọng. Người bệnh có biểu hiện suy hô hấp cấp như khó thở, thở nhanh, da tím tái. Các triệu chứng đi kèm là đau lan tỏa, mệt mỏi đặc biệt là đau đầu, đau nhức cơ, đau toàn thân, ý thức mê man.
+
+Bệnh cúm A/H5N1 có thể diễn tiến nghiêm trọng dần và gây biến chứng viêm phổi, tử vong nếu không được điều trị kịp thời. Hiếm gặp hơn, người bệnh có thể xuất hiện triệu chứng viêm kết mạc. Tùy vào từng giai đoạn bệnh và thể trạng khác nhau ở mỗi người mà các triệu chứng sẽ khác nhau.
+Triệu chứng của cúm gia cầm H5N1 là sốt cao, rét run, ho, đau họng,…
+Thời gian ủ bệnh cúm A H5N1 là bao lâu?
+Các chuyên gia về điều tra dịch tễ cho biết, thời gian ủ bệnh của cúm A H5N1 dài hơn thời gian ủ bệnh của các chủng virus khác gây cúm mùa, từ 2-8 ngày và có thể dài đến 17 ngày sau khi người bệnh tiếp xúc với các nguy cơ như: giết mổ hoặc sử dụng các sản phẩm từ gia cầm nhiễm virus như thịt, trứng hoặc tiếp xúc với người đang nhiễm H5N1. Đây là khoảng thời gian virus H5N1 tiềm ẩn trong cơ thể, chưa phát tán và chưa có dấu hiệu, chỉ chờ cơ hội khởi phát.
+Tuy nhiên, việc phơi nhiễm nhiều lần với virus dẫn đến việc khó xác định chính xác thời kỳ ủ bệnh. Tổ chức Y tế Thế giới (WHO) đề nghị thời gian ủ bệnh của A/H5N1 là 7 ngày, áp dụng cho điều tra và theo dõi những người tiếp xúc với người bệnh.
+Các giai đoạn phát triển của bệnh cúm A H5N1
+Giai đoạn khởi phát
+Sau giai đoạn ủ bệnh, người bệnh đột ngột sốt cao trên 38 độ, đau nhức, mệt mỏi khắp toàn thân, chán ăn, uể oải.
+Giai đoạn toàn phát
+Sau khi xuất hiện các triệu chứng đầu tiên, người nhiễm cúm A/H5N1 sẽ gặp các dấu hiệu nhận biết bệnh rõ ràng như:
+
+Sốt cao liên tục: Do ảnh hưởng của hệ thần kinh trung ương, người bệnh có thể lâm vào tình trạng hôn mê, rối loạn ý thức, giảm trí nhớ, mất tỉnh táo, đau rát họng, mệt mỏi, da nóng, đỏ.
+Xuất hiện cơn ho, thường ho khan, một số ho có đờm.
+Đau nhức toàn thân, đặc biệt là đau đầu, đau quanh hốc mắt, thái dương. Đau xương, khớp, cẳng chân và vùng thắt lưng dữ dội.
+
+Ngay xuất hiện những triệu chứng cảnh báo trên, người bệnh cần đến ngay các cơ sở y tế để khám và điều trị kịp thời, tránh những biến chứng đáng tiếc xảy ra.
+Biến chứng bệnh cúm A H5N1
+BS.CKI Bạch Thị Chính – Giám đốc Y khoa Hệ thống tiêm chủng VNVC khuyến cáo, người mắc cúm A H5N1 có diễn tiến nặng chỉ sau nửa ngày nếu không điều trị kịp thời. Virus cúm A/H5N1 khiến người bệnh bị suy đường hô hấp cấp dẫn đến thiếu oxy và gây tổn thương các phủ tạng quan trọng, đe dọa trực tiếp tính mạng.
+Bệnh cúm khi không được điều trị hoặc điều trị muộn sẽ là nguồn khởi phát cho các biến chứng:
+
+Tổn thương hệ hô hấp: đây là biến chứng thường gặp nhất khi virus A/H5N1 tấn công, gây bội nhiễm phế quản – phổi, viêm phổi.
+Bội nhiễm Tai – Mũi – Họng: biến chứng này phổ biến ở trẻ nhỏ.
+Suy đa tạng: Các bộ phận quan trọng như thận, gan, não bị ảnh hưởng khi bệnh cúm A/H5N1 diễn tiến nặng. Hệ miễn dịch trở nên suy yếu do số lượng bạch cầu, bạch cầu trung tính giảm mạnh.
+Ngoài ra, các hội chứng nghiêm trọng cũng có thể xảy ra ví dụ như đông máu nội mạch rải rác, viêm màng ngoài tim, viêm cơ tim… Người bệnh cũng có thể bị phù não, viêm màng não lympho.
+
+Cảnh giác cao và chủ động ngăn chặn cúm A/H5N1 ở người, đặc biệt nhóm đối tượng nguy cơ cao
+Cúm A H5N1 có chữa được không? Cách điều trị cúm A H5N1
+Cúm A h5n1 có thể điều trị ĐƯỢC! tốt nhất Người bị cúm A H5N1 nên đến bệnh viện để được điều trị vì nếu điều trị tại nhà không đúng cách có thể gây nguy hiểm cho cả người bệnh và người chăm sóc. Nếu bệnh ở mức độ nặng, người bệnh cần phải nhập viện để được theo dõi, điều trị và chăm sóc phòng ngừa nguy cơ nhiễm khuẩn thứ phát.
+Khi điều trị tại nhà, người bệnh cần thực hiện các biện pháp dưới đây để bệnh sớm khỏi:
+
+Nghỉ ngơi cho tới khi hạ sốt, thư giãn trong môi trường thoáng khí, tránh những nơi có nhiệt độ quá nóng hoặc quá lạnh, không nên nằm phòng điều hòa.
+Đảm bảo chế độ dinh dưỡng phù hợp, ăn các đồ dễ tiêu, thực phẩm lỏng, nóng và uống nhiều nước. Tránh ăn đồ ăn lạnh ảnh hưởng tới họng và lâu khỏi bệnh.
+Sử dụng nước muối loãng có tính sát khuẩn tốt để vệ sinh họng 2-3 lần/ngày để giảm nhanh triệu chứng đau rát họng và viêm họng.
+Vệ sinh mũi bằng thuốc xịt mỗi ngày để kiểm soát viêm nhiễm.
+
+Thuốc điều trị cúm A H5N1
+Hiện nay, người mắc cúm A H5N1 đang được khuyến cáo sử dụng thuốc kháng virus Oeltamivir (Tamiflu) để điều trị, cần phải điều trị càng sớm càng tốt trong vòng 48 giờ kể từ khi có triệu chứng đầu tiên. Trong trường hợp Oeltamivir không có hiệu quả, người bệnh có thể sử dụng Zanamivir (Relenza) nhằm giảm triệu chứng và ngăn ngừa biến chứng nghiêm trọng. Cần lưu ý, tất cả các loại thuốc khi sử dụng đều phải tuân theo chỉ định của bác sĩ.
+Nếu người bệnh sốt cao trên 38 độ, sốt kéo dài liên tục thì nên uống Paracetamol. Các trường hợp ho khan, ho có đờm, đau cơ khớp… người bệnh chỉ nên điều trị bằng thuốc Codein nếu cần thiết theo sự chỉ định của bác sĩ chuyên khoa.
+Những ca nhiễm cúm A/H5N1 tiến triển nặng, có dấu hiệu sốc nhiễm khuẩn sẽ được chỉ định dùng corticosteroid.
+Tuyệt đối không không dùng thuốc nhóm salicylate như aspirin để hạ sốt do cúm vì có nguy cơ gây hội chứng Reye nguy hiểm, đặc biệt là trẻ em.
+Cách phòng ngừa cúm A H5N1
+Cúm là loại virus có nhiều chủng loại và biến đổi hàng năm, kể cả chủng A/H5N1 cũng liên tục đột biến. Đến nay, vẫn chưa có vắc xin và thuốc điều trị đặc hiệu cúm A/H5N1, để chủ động phòng chống dịch cúm A (H5N1) lây từ gia cầm sang người, Cục Y tế dự phòng (Bộ Y tế) khuyến cáo mạnh mẽ người dân thực hiện các biện pháp sau:
+
+Không ăn gia cầm, các sản phẩm gia cầm ốm, chết và không rõ nguồn gốc; đảm bảo ăn chín, uống sôi; rửa tay bằng xà phòng trước khi ăn.
+Không giết mổ, vận chuyển, mua bán gia cầm và sản phẩm gia cầm không rõ nguồn gốc.
+Khi phát hiện gia cầm ốm, chết tuyệt đối không được giết mổ và sử dụng mà phải thông báo ngay cho chính quyền địa phương và đơn vị thú y trên địa bàn.
+Khi có biểu hiện cúm như sốt, ho, đau ngực, khó thở có liên quan đến gia cầm phải đến ngay cơ sở y tế để được tư vấn, khám và điều trị kịp thời.
+
+
+Hiện nay, thế giới vẫn chưa có vắc xin phòng cúm A H5N1. Tuy nhiên, tiêm phòng các chủng virus cúm nguy hiểm khác chính là biện pháp hiệu quả nhằm tránh sự nhầm lẫn giữa virus cúm A/H5N1 với các loại virus cúm khác.
+Các câu hỏi thường gặp khi gặp tình trạng sốt cúm A
+Bệnh cúm A H5N1 có lây không? Lây qua đường nào?
+CÓ! Bệnh cúm A/H5N1 ở gia cầm có thể lây sang người. Sau khi nhiễm A/H5N1, người bệnh đào thải virus khoảng 1-2 ngày trước khi khởi phát và 3-5 ngày sau khi có triệu chứng lâm sàng, tuy nhiên có thể dài hơn, từ 7-10 ngày.
+Virus cúm A/H5N1 được phát tán ra môi trường bên ngoài qua nước bọt, dịch mũi, phân và trong các tế bào niêm mạc ruột non của một số loài chim di cư.
+Cúm A H5N1 lây qua đường hô hấp, qua tiếp xúc với vật dụng bị nhiễm mầm bệnh, tiếp xúc và sử dụng gia cầm ốm, chết do nhiễm cúm A/H5N1, ăn thịt gia cầm, sản phẩm gia cầm chưa nấu chín kỹ.
+Cúm A H5N1 có lây từ người sang người không?
+CÓ! Bệnh cúm gia cầm tương đối phổ biến và có thể ảnh hưởng đến người bệnh ở mọi lứa tuổi. Tuy nhiên, không giống như các loại cúm khác ở người, cúm H5N1 không dễ dàng lây lan từ người sang người. Rất ít các trường hợp nhiễm bệnh này do lây truyền từ người sang người, chỉ trong các trường hợp có sự tiếp xúc đặc biệt gần gũi với người bệnh như mẹ chăm sóc cho trẻ bị nhiễm bệnh thì A/H5N1 mới lây từ người sang người.
+Nguy cơ lớn nhất mắc cúm A/H5N1 là việc tiếp xúc với gia cầm bị bệnh hoặc với các bề mặt bị ô nhiễm như lông, nước bọt hoặc phân của chúng. Rất hiếm khi dịch cúm gia cầm được truyền từ người sang người.
+Có vắc xin phòng cúm A H5N1 không?
+Theo BS.CKI Bạch Thị Chính, cho đến nay, thế giới vẫn chưa có vắc xin phòng cúm A/H5N1. Việc tiêm ngừa vắc xin cúm phòng các chủng virus cúm A, B khác không có tác dụng phòng chống lại cúm chủng A/H5N1. Tuy nhiên, tiêm phòng cúm mùa chính là biện pháp can thiệp hiệu quả nhằm tránh sự tiếp xúc giữa virus cúm A/H5N1 với các loại virus cúm khác.
+Trong bối cảnh dịch Covid-19 gia tăng mạnh, việc tiêm vắc xin phòng cúm mùa rất cần thiết bên cạnh tiêm phòng Covid-19. Một số quốc gia khuyến khích tiêm vắc xin phòng cúm mùa, phế cầu khuẩn cùng vắc xin Covid-19 để mang lại hiệu quả phòng bệnh cộng gộp, giảm thời gian, công sức của người được tiêm. Hiện VNVC có đầy đủ hơn 40 loại vắc xin phòng gần 50 bệnh cho trẻ nhỏ và người lớn, kể các loại vắc xin cúm thế hệ mới nhất:
+
+
+
+Tên vắc xin
+Vaxigrip Tetra (Pháp)
+GC Flu Quadrivalent (Hàn Quốc)
+Influvac Tetra (Hà Lan)
+Ivacflu S (Việt Nam)
+
+
+Đối tượng
+Trẻ em từ 6 tháng tuổi và người lớn
+Trẻ em từ 6 tháng tuổi trở lên và người lớn
+Người lớn từ 18 tuổi đến 60 tuổi
+
+
+Lịch tiêm
+Trẻ từ 6 tháng tuổi – dưới 9 tuổi:
+
+Tiêm 2 mũi cách nhau tối thiểu 1 tháng.
+Sau đó tiêm nhắc lại 1 mũi hằng năm.
+
+Trẻ dưới 9 tuổi đã từng tiêm vắc xin cúm, trẻ trên 9 tuổi và người lớn:
+
+Tiêm 1 mũi 0.5ml
+Sau đó tiêm nhắc lại hàng năm.
+
+
+Trẻ từ 6 tháng tuổi đến dưới 9 tuổi chưa tiêm cúm có lịch tiêm 2 mũi:
+
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: cách mũi 1 ít nhất 4 tuần
+Sau đó tiêm nhắc lại 1 mũi hằng năm.
+
+Từ 9 tháng tuổi trở lên: lịch tiêm 1 mũi duy nhất và nhắc lại hằng năm.
+Người lớn từ 18 tuổi đến 60 tuổi: tiêm 1 mũi 0.5ml.
+Sau đó tiêm nhắc lại hàng năm.
+
+
+
+Cúm A H5N1 rất dễ bùng phát thành vụ dịch ở gia cầm và tiềm ẩn nguy cơ lây sang người. Virus A/H5N1 có độc lực cao, các triệu chứng không quá rõ ràng, dễ bị nhầm lẫn sang bệnh cúm do các chủng virus cúm khác. Do vậy, chủ động phát hiện bệnh sớm, điều trị và tuân thủ các biện pháp là yếu tố sớm đẩy lùi dịch cúm gia cầm.

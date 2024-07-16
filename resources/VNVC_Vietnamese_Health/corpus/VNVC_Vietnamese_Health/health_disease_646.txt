@@ -1,0 +1,47 @@
+# doc_id = health_disease_646
+# url = https://vnvc.vn/cum-c/
+# date = 12/05/2022
+Virus cúm C: Nguyên nhân, triệu chứng và cách phòng ngừa
+Virus cúm C tuy không phổ biến như 2 dòng cúm A và cúm B gây bệnh cúm mùa hàng năm nhưng cũng có thể gây ra các biến chứng nguy hiểm nếu không phòng ngừa, đặc biệt ở những người lớn tuổi, người có hệ miễn dịch kém hoặc có bệnh lý nền.
+Mục lụcCúm C là gì?Cấu tạo virus cúm CBệnh cúm C có nguy hiểm không?Nguyên nhân mắc bệnh cúm CTriệu chứng, biểu hiện bệnh cúm CĐối tượng nào dễ mắc cúm CCúm C lây qua đường nào?Mắc cúm C bao lâu thì khỏi?Cách phòng ngừa cúm CCúm C là gì?
+Cúm C (ICV) là loài trong chi Influenza C Virus, thuộc họ virus Orthomyxoviridae được phát hiện vào năm 1947, giống như các chủng virus cúm khác, cúm C gây bệnh cúm, tuy ít gặp nhưng có thể để lại nhiều biến chứng nguy hiểm. Cúm C và bệnh cúm do các chủng virus khác nói chung đã khiến khoảng 5-10% người lớn và 20-30% trẻ em nhiễm bệnh mỗi năm. Đặc biệt, có khoảng nửa triệu ca tử vong do các vấn đề sức khỏe liên quan đến bệnh cúm.
+Hiện tại, các nhà khoa học ghi nhận 4 chủng virus cúm được ký hiệu lần lượt là A, B, C, D. Chủng cúm A và B thường gặp ở người và chiếm tỷ trọng cao trong số các ca nhiễm cúm mùa hàng năm. Bệnh cúm do virus cúm A có thể bùng lên thành dịch và lịch sử cũng đã từng ghi nhận nhiều đại dịch cúm toàn cầu do các chủng virus cúm A gây nên. Chủng cúm C và D ít phổ biến hơn, trong đó chủng cúm D được nhận định chỉ có khả năng gây bệnh trên gia súc.
+Cấu tạo virus cúm C
+Cấu tạo của virus cúm nhìn chung có 2 phần là nhân cúm (virion) và lớp vỏ. Nhân virion thường có hình cầu, đôi khi có dạng sợi. Lớp vỏ virus bên ngoài được bao phủ bởi glycoprotein HA và NA có cấu trúc hình gai. Cấu tạo của từng loại virus cúm sẽ có sự khác nhau ít nhiều, trong đó virus cúm A và B khác tương đồng, virus cúm C và D tương đồng với nhau.
+Giống như virus cúm A và B, lõi của virus cúm C bao gồm một ribonucleoprotein được tạo thành từ RNA của virus và 4 protein (1). Lớp protein M1 nằm ngay dưới lớp màng, tương tự như phần lõi nhân cúm A và B. Cấu tạo của virus cúm C có các protein vỏ siêu vi là CM2, có chức năng như một kênh ion. Glycoprotein chính trong lớp vỏ của virus cúm C được gọi là HEF (hemagglutinin-esterase-fusion) có chức năng của cả HA và NA (2). Do đó, nhân cúm C chứa 7 đoạn RNA thay vì 8 RNA như virus cúm A và B.
+Virus cúm C có cấu tạo phần lõi với các RNA sợi đơn
+Bệnh cúm C có nguy hiểm không?
+Virus cúm C đã được phát hiện có ở người và động vật, trong đó trường hợp lây nhiễm cúm C từ động vật sang người là rất hiếm gặp nhưng cũng đã có những báo cáo ghi nhận. Các nhà nghiên cứu dịch tễ cho biết độ nhạy huyết thanh của virus cúm C lên tới 90% ở độ tuổi 7–10. Điều này cho thấy rằng hầu hết mọi người đều tiếp xúc với virus cúm C ít nhất một lần trong thời thơ ấu.
+Bệnh cúm C không quá nguy hiểm do các triệu chứng lâm sàng khá nhẹ, có thể tự khỏi, không để lại di chứng do bệnh. Cũng vì thế mà bệnh cúm C khó trở thành đại dịch như những đợt bùng phát cúm A. Dù vậy, cúm C cũng mang đầy đủ đặc tính của 1 virus cúm, nên cũng có khả năng diễn tiến xấu đối với những người có bệnh lý nền, hệ miễn dịch kém hay với những phụ nữ mang thai. Đặc biệt, đã có một số bằng chứng cho thấy virus cúm C có thể gây ra bệnh hô hấp nghiêm trọng ở trẻ em dưới 2 tuổi.
+Nguyên nhân mắc bệnh cúm C
+Virus cúm C chính là nguyên nhân gây bệnh cúm ở người hay ở động vật. Tỷ lệ nhiễm với các chủng virus cúm rất cao, có thể lên đến 90% cả người lớn và trẻ em; tình trạng này cũng đúng với virus cúm C. Virus cúm có thể tồn tại sẵn trong cơ thể người ở dạng mầm bệnh, khi gặp điều kiện thuận lợi sẽ bùng phát và gây bệnh.
+Các yếu tố thuận lợi có thể làm tăng nguy cơ mắc bệnh cúm C bao gồm:
+Tuổi tác: Bệnh cúm có xu hướng nhắm vào các đối tượng có hệ miễn dịch yếu như trẻ sơ sinh và trẻ nhỏ, người lớn tuổi, người điều trị ung thư, người bị bệnh mạn tính…
+Môi trường sống hoặc làm việc: Những người sống hoặc làm việc trong các khu đông dân cư, khu công nghiệp… có nhiều khả năng bị cúm hơn do tăng nguy cơ tiếp xúc với người mắc bệnh.
+Thời tiết: Bệnh cúm nói chung thường xảy ra vào mùa đông do virus cúm sống lâu hơn trong nhà ở điều kiện không khí ẩm, lạnh. Trong khi đó, mọi người thường dành nhiều thời gian ở nhà và tiếp xúc gần với nhau hơn, khiến virus dễ dàng lây lan hơn.
+Bệnh cúm thường gặp khi thời tiết chuyển lạnh
+Triệu chứng, biểu hiện bệnh cúm C
+Virus cúm C có xu hướng gây nhiễm trùng đường hô hấp, biểu hiện của cúm C thường chỉ ở mức độ nhẹ, không gây quá nhiều vấn đề về sức khỏe. Cúm C gây ra triệu chứng tương tự cảm lạnh, bao gồm: đau họng, hắt hơi, sốt, ho khan, chảy nước mũi, nhức đầu, đau cơ và cảm giác.
+Nếu bệnh cúm đồng nhiễm ở những người có hệ miễn dịch yếu thì các dấu hiệu lâm sàng có xu hướng trầm trọng hơn và cũng dễ để lại di chứng hơn. Đặc biệt, phụ nữ mang thai khi mắc cúm sẽ làm tăng nguy cơ viêm phổi, viêm phế quản, biến chứng nhiễm trùng máu dẫn đến giảm huyết áp, viêm tai giữa, viêm nội tâm mạc, viêm não, viêm màng não…
+Bệnh cúm ở thai phụ không chỉ ảnh hưởng đến sức khỏe người mẹ mà còn tác động xấu tới thai nhi, làm nguy cơ sinh non, thai chết lưu, em bé khi sinh ra cũng nhẹ cân hơn.
+Đối tượng nào dễ mắc cúm C
+Bệnh cúm C nói riêng và bệnh cúm nói chung có thể xuất hiện ở bất kỳ đối tượng nào, trong đó, những đối tượng dễ mắc cúm là những đối tượng có sức đề kháng yếu.
+Trẻ sơ sinh và trẻ nhỏ: Trẻ sơ sinh, đặc biệt là các em bé sinh non (dưới 32 tuần tuổi) có hệ miễn dịch chưa hoàn thiện dễ mắc các bệnh truyền nhiễm nói chung, trong đó có cúm.
+Người lớn trên 65 tuổi: Người lớn tuổi thường có hệ miễn dịch yếu do quá trình lão hóa kèm theo nhiều bệnh nền mạn tính (tim phổi, suy thận, suy gan, tiểu đường…) rất dễ mắc cúm.
+Phụ nữ mang thai hoặc cho con bú: Sự thay đổi lớn về nội tiết tố ở phụ nữ trước và sau khi sinh con khiến đề kháng suy giảm, cơ thể dễ bị tấn công bởi virus cúm.
+Người bệnh điều trị kéo dài: Điều trị ung thư, thuốc chống thải ghép sau khi ghép tạng, sử dụng steroid kéo dài, HIV/AIDS… có thể làm suy yếu hệ thống miễn dịch khiến người bệnh dễ mắc bệnh cúm hơn đồng thời làm tăng nguy cơ xuất hiện các biến chứng.
+Phụ nữ mang thai thuộc nhóm đối tượng dễ nhiễm cúm
+Cúm C lây qua đường nào?
+Virus cúm sống lơ lửng trong không khí nên rất dễ phát tán và lây truyền bệnh. Tuy tồn tại ở cả người và động vật nhưng con đường lây truyền từ động vật sang người của virus cúm C rất hiếm gặp. Cúm C thường lây qua các hình thức:
+Dịch tiết đường hô hấp: Triệu chứng thường gặp ở những đối tượng nhiễm cúm là ho và hắt xì, từ đó virus trong cơ thể sẽ phát tán ra ngoài theo tuyến nước bọt với phạm vi lên tới 2m. Người khỏe mạnh khi tiếp xúc gần hoặc trò chuyện trực tiếp với người bệnh sẽ có nguy cơ nhiễm bệnh.
+Lây qua bề mặt tiếp xúc: Khi người mắc cúm ho hoặc hắt xì sẽ khiến cho các dịch tiết phát tán ra ngoài và bám lên các đồ vật. Nếu người khỏe mạnh chạm phải đồ vật đó và vô tình đưa tay tiếp xúc với mũi, miệng thì nguy cơ cao virus sẽ xâm nhập vào cơ thể. Ngoài ra, sử dụng chung khăn, quần áo, bàn chải, ly uống nước… cũng là một con đường lây nhiễm virus cúm.
+Mắc cúm C bao lâu thì khỏi?
+Thời gian ủ bệnh sau khi mắc virus cúm C là khoảng 2 ngày, sau đó bệnh bắt đầu xuất hiện những triệu chứng lâm sàng. Trong 2 ngày chưa có dấu hiệu bệnh, virus cúm cũng có thể phát tán từ cơ thể người bệnh ra môi trường bên ngoài.
+Nhìn chung, các triệu chứng cúm C khá nhẹ, gây cảm giác khó chịu và bất tiện trong quá trình sinh hoạt. Tùy vào triệu chứng, người bệnh có thể sử dụng thuốc điều trị hoặc không. Thông thường, sau khoảng 5 ngày, triệu chứng cúm giảm dần, trong đó những con ho và cảm giá mệt mỏi vẫn tiếp tục kéo dài. Trong vòng 1- 2 tuần, các dấu hiệu của cúm C sẽ hết hoàn toàn. Tuy nhiên, vẫn sẽ có những trường hợp cúm diễn tiến nặng hơn, có thể gây biến chứng ở những đối tượng có hệ miễn dịch kém.
+Các triệu chứng của bệnh cúm có thể khỏi hoàn toàn sau 1 – 2 tuần
+Cách phòng ngừa cúm C
+Để chủ động phòng cúm, mọi người cần hạn chế tiếp xúc trực tiếp với nguồn lây như người mang bệnh hoặc người nghi ngờ nhiễm bệnh. Việc vệ sinh cá nhân, sử dụng khẩu trang khi ra ngoài và khi đến những nơi công cộng là phương pháp hiệu quả hạn chế nguy cơ tiếp xúc với virus. Ngoài ra, một số phương pháp khác giúp phòng bệnh cúm bao gồm:
+Vệ sinh cá nhân sạch sẽ, rửa tay với chất làm sạch đồng thời vệ sinh mũi, họng với nước sát khuẩn.
+Giữ ấm cơ thể khi thay đổi thời tiết, xây dựng chế độ dinh dưỡng lành mạnh kết hợp với hoạt động tập thể thao để nâng cao thể trạng.
+Không nên tự ý sử dụng thuốc cảm cúm, đặc biệt với những đối tượng trẻ nhỏ, phụ nữ mang thai và cho con bú, người có bệnh lý nền, người đang sử dụng thuốc điều trị bệnh lý khác…
+Nhìn chung, virus cúm C ít có khả năng gây ảnh hưởng nghiêm trọng tới sức khỏe con người, do đó hiện tại chúng ta không có vaccine đặc chế để chống lại virus cúm C. Tuy nhiên, mọi người vẫn nên tiêm phòng cúm hàng năm để hạn chế nguy cơ mắc cúm mùa, nâng cao hệ miễn dịch, từ đó gián tiếp hạn chế nguy cơ nhiễm cúm C hay đồng nhiễm.

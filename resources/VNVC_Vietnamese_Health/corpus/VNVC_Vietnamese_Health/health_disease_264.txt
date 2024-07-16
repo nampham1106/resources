@@ -1,0 +1,105 @@
+# doc_id = health_disease_264
+# url = https://vnvc.vn/virus-hop-bao-ho-hap-rsv/
+# date = 20/10/2020
+Nhiễm virus hợp bào hô hấp ( virus RSV): dấu hiệu, phương pháp điều trị và phòng ngừa
+“Virus hợp bào hô hấp lây lan rất nhanh, chỉ sau virus cúm. Chúng lây dễ dàng từ người sang người qua dịch tiết đường hô hấp như ho, hắt hơi hoặc tiếp xúc trực tiếp như bắt tay, hôn,… Ước tính, cứ 1 trẻ nhiễm virus có khả năng lây cho 5 trẻ khác. Nếu không được phát hiện sớm và điều trị đúng cách, bệnh sẽ gây ra những biến chứng nguy hiểm, thậm chí đe dọa tính mạng trẻ”, PGS.TS.BS Nguyễn Thị Quỳnh Hương nhấn mạnh.
+Bài viết được sự tư vấn của PGS.TS.BS Nguyễn Thị Quỳnh Hương, Trưởng khoa Nhi Bệnh viện Đa Khoa Tâm Anh, Hà Nội.
+Mục lụcThời tiết chuyển mùa, trẻ ồ ạt nhập viện do nhiễm virus hợp bào hô hấp (RSV)Nhiễm virus hợp bào hô hấp (RSV) là gì?Nguyên nhân nào gây ra nhiễm virus hợp bào hô hấp?Các yếu tố nào làm tăng nguy cơ mắc virus hợp bào?Cần cảnh giác với các triệu chứng khi nhiễm virus RSVMức độ nguy hiểm của virus RSVKhi nào trẻ nên đi khám?Chẩn đoán trẻ nhiễm virus hợp bào hô hấp ra sao?Phương pháp điều trị cho bệnh nhân nhiễm virus hợp bàoPhòng ngừa lây nhiễm RSV hiệu quả bằng cách nào?Câu hỏi thường gặp về virus hợp bào hô hấp1. Người từng nhiễm virus RSV có nguy cơ bị lại không?2. Virus RSV lây qua đường nào?3. Nếu cơ thể mẹ đã có kháng thể RSV thì con có được bảo vệ khỏi virus này trong 6 tháng đầu đời không?Phòng ngừa các biến chứng do virus hợp bào gây ra như thế nào?VNVC nỗ lực cung cấp đủ vắc xin, bảo vệ sức khỏe cộng đồng trong “mùa dịch”Thời tiết chuyển mùa, trẻ ồ ạt nhập viện do nhiễm virus hợp bào hô hấp (RSV)
+Bước vào thời điểm chuyển mùa đông – xuân, khoảng 1 tháng gần đây, trong 10 trẻ nhập viện do các bệnh đường hô hấp tại BVĐK Tâm Anh (Hà Nội), có đến 7 trẻ được xét nghiệm dương tính với virus hợp bào hô hấp (RSV). Thậm chí, nhiều trẻ nhập viện trong tình trạng rất nguy hiểm, sốt cao, ho khò khè, khó thở,…
+Thông thường hàng năm, vào khoảng tháng 10-12 mới là thời điểm số trẻ nhiễm virus RSV tăng cao. Nhưng năm nay, bệnh đến sớm và có trẻ bị biến chứng thành viêm phổi, thậm chí phải thở máy. “Không chỉ gia tăng mà diễn biến các ca bệnh có chiều hướng phức tạp và nặng hơn. Nguyên nhân có thể do sự biến đổi thời tiết và biến đổi cấu trúc gen của RSV”, PGS.TS.BS Nguyễn Thị Quỳnh Hương nhận định.
+Thêm vào đó, các triệu chứng lâm sàng của bệnh rất dễ nhầm với cảm cúm thông thường ở phần lớn trẻ, riêng một tỷ lệ nhỏ trẻ bị nhiễm virus RSV lần đầu tăng nặng thành khò khè, dần tiến triển thành dạng nặng là viêm tiểu phế quản, hoặc viêm phổi. Bệnh có thể gặp quanh năm nhưng thường là vào mùa mưa ở các tỉnh miền Nam hay mùa lạnh ở các tỉnh miền Bắc. Chính vì vậy, việc chủ động phòng ngừa bệnh cho trẻ là vô cùng quan trọng và cấp thiết.
+Nhiễm virus hợp bào hô hấp (RSV) là gì?
+Virus hợp bào hô hấp (RSV – respiratory syncytial virus) là một trong những nguyên nhân hàng đầu “tấn công” và gây các bệnh viêm đường hô hấp như viêm mũi họng, viêm phế quản, viêm phổi… ở trẻ nhỏ, đặc biệt trẻ dưới 6 tháng tuổi.
+Triệu chứng của bệnh nhẹ, giống như cảm lạnh. Tuy nhiên, bệnh có thể biến chứng thành nhiễm trùng phổi, đặc biệt nguy cơ cao ở trẻ sơ sinh, trẻ nhỏ, người lớn tuổi và những người đang mắc các bệnh hô hấp mạn tính, hen phế quản, bệnh nền mạn tính… Bệnh nhân nhiễm RSV biến chứng nặng có nguy cơ tử vong, với tỷ lệ 2,8 – 22% trên toàn thế giới.
+Theo thống kê của Tổ chức Các bệnh phổi Thế giới, mỗi năm, virus RSV đã cướp đi sinh mạng của ít nhất 66.000 trẻ em và có khoảng 3 triệu người nhập viện vì nhiễm virus này.
+Virus RSV khi vào cơ thể qua đường mũi sẽ gây viêm niêm mạc mũi, tiết dịch mũi đặc dính làm bít tắc đường thở dẫn đến suy hô hấp; virus đi qua tiểu phế quản và các phế nang làm tổn thương phế nang, ứ khí, thậm chí dẫn đến hoại tử tế bào đường hô hấp.
+Theo PGS.TS.BS Nguyễn Thị Quỳnh Hương: RSV có cơ chế lây nhiễm giống như virus corona, lây lan thông qua dịch tiết hô hấp, có biểu hiện là tiết dịch keo đặc, bít tắc đường hô hấp dẫn đến suy hô hấp.
+Virus RSV có 2 tuýp:
+Tuýp 1: gây sốt cao, tiên lượng nặng
+Tuýp 2: sốt nhẹ, thậm chí không sốt
+Nguyên nhân nào gây ra nhiễm virus hợp bào hô hấp?
+Virus hợp bào hô hấp đi vào cơ thể qua mắt, mũi hay miệng, nó lây lan một cách dễ dàng qua các dịch tiết đường hô hấp bị nhiễm virus như ho, hắt hơi. Virus cũng được hít hay truyền cho người khác qua tiếp xúc trực tiếp, như bắt tay.
+Virus RSV có thể sống nhiều giờ trên các vật dụng như bàn, đồ chơi,… Trẻ sẽ có khả năng nhiễm nếu vô tình chạm vào những đồ vật có chứa virus và đưa lên miệng. Vài ngày đầu sau khi bị nhiễm virus là thời gian lây nhiễm cao nhất, nhưng với virus hợp bào hô hấp thời gian lây lan kéo đến vài tuần sau khi bắt đầu bị nhiễm.
+Các chuyên gia cũng cảnh báo, RSV có khả năng lây lan mạnh, nếu các gia đình chủ quan không cho con đi khám, không biết con đang nhiễm bệnh sẽ dễ khiến cho virus này phát tán rộng ra cộng đồng.
+Các yếu tố nào làm tăng nguy cơ mắc virus hợp bào?
+Có rất nhiều yếu tố nguy cơ lây nhiễm virus hợp bào hô hấp như:
+Trẻ em, đặc biệt là trẻ dưới 6 tháng tuổi, sinh non, nhẹ cân, mắc bệnh tim bẩm sinh,… sức đề kháng kém, cấu hình đường thở chưa hoàn thiện nên dễ bị virus tấn công.
+Trẻ tiếp xúc với khói thuốc thụ động hoặc người ở bất kỳ nhóm tuổi nào có hen đáng kể cũng có nguy cơ cao mắc RSV hơn những nhóm khác.
+Trẻ đi nhà trẻ, gia đình có anh chị em bị nhiễm RSV hoặc vui chơi trong những khu đông người vào mùa RSV hoạt động
+Người lớn tuổi mắc các bệnh lý nền, bệnh hen suyễn, suy tim sung huyết hoặc bệnh tắc nghẽn phổi mạn tính (COPD),…
+Những người bị suy giảm miễn dịch, mắc bệnh bạch cầu hoặc HIV.
+Cần cảnh giác với các triệu chứng khi nhiễm virus RSV
+Khi virus hợp bào (RSV) ảnh hưởng đến mũi họng (hệ thống hô hấp trên) các triệu chứng thường nhẹ và giống với biểu hiện do nhiều loại virus khác gây ra như virus cúm, rhinovirus, coronavirus, bocavirus, adenovirus… Do đó, khi thăm khám lâm sàng không thể phân biệt là do virus nào gây ra bệnh. Các triệu chứng bao gồm:
+Ho nhiều với đờm vàng, xanh hoặc xám;
+Nghẹt hoặc sổ mũi;
+Đau họng nhẹ;
+Đau tai;
+Sốt nhẹ hoặc sốt cao, có thể khó thở;
+Đặc biệt triệu chứng dễ nhận biết nhất của RSV là họng có nhiều đờm, quánh dịch, khiến đường hô hấp bít tắc, khó thở. Bệnh diễn tiến nặng từ ngày thứ 3 – 5 sau khi nhiễm RSV khiến trẻ ho càng lúc càng nhiều… nhất là ở những trẻ có bệnh nền nặng như tim bẩm sinh, loạn sản phổi, đẻ non, não bẩm sinh, suy dinh dưỡng… có yếu tố nguy cơ làm bệnh nặng, nằm viện lâu.
+Nhiễm RSV đôi khi dẫn đến viêm tiểu phế quản, viêm phổi hoặc cả hai, các triệu chứng của biến chứng này bao gồm:
+Khó thở, thở nhanh hơn bình thường.
+Thở khò khè.
+Ho ngày càng nặng. Trẻ có thể bị nghẹt thở hoặc nôn do ho dữ dội.
+Thờ ơ, mệt mỏi, giảm hứng thú với mọi thứ xung quanh hoặc chán ăn.
+Tùy thuộc theo lứa tuổi, thể trạng, số lần mắc bệnh mà trẻ có biểu hiện ở nhiều mức độ khác nhau. Nhóm trẻ dưới 1 tuổi thường mắc những biến chứng nặng hơn. Hầu hết viêm phổi do RSV có thể khỏi hoàn toàn sau 1-2 tuần, ho có thể kéo dài hơn. Ở người lớn và trẻ khỏe mạnh, virus này thường chỉ gây ra cảm lạnh nhẹ và tự khỏi sau đó.
+Triệu chứng khi trẻ mắc RSV không rõ ràng và giống với cúm thông thường nên Bố Mẹ rất dễ
+nhầm lẫn.
+Mức độ nguy hiểm của virus RSV
+Thông thường, các ca nhiễm RSV có thể không nghiêm trọng nhưng trong một số trường hợp đặc biệt như trẻ sơ sinh, trẻ có hệ miễn dịch non yếu thì bệnh gây ra biến chứng khôn lường.
+Viêm phổi và viêm tiểu phế quản: khi RSV di chuyển từ đường hô hấp trên xuống đường hô hấp dưới có thể gây ra viêm phổi hoặc đường thở của phổi (viêm tiểu phế quản) hay gặp nhất ở trẻ. Chính vì vậy, trẻ cần nhập viện điều trị hỗ trợ thở, truyền dịch và chăm sóc suy hô hấp.
+Viêm tai giữa: Khi virus xâm nhập vào không gian phía sau màng nhĩ có thể gây nhiễm trùng tai giữa (viêm tai giữa). Biến chứng này thường gặp nhất ở trẻ sơ sinh và trẻ nhỏ.
+Bệnh hen suyễn: Nhiều nghiên cứu đã chứng minh trẻ nhỏ nếu bị nhiễm virus hợp bào hô hấp nghiêm trọng sẽ có nguy cơ phát triển bệnh hen suyễn khi trưởng thành.
+Một số biến chứng nghiêm trọng khác về đường hô hấp như suy hô hấp, xẹp phổi, tràn khí màng phổi, ứ khí phổi…
+“Virus RSV rất dễ gây suy hô hấp ở trẻ nhỏ, đặc biệt là ở trẻ dưới 6 tháng tuổi. Nhiều bệnh nhi nhiễm virus này kèm bệnh có bệnh cảnh nặng phải thở oxy. Có khoảng 20% trẻ sơ sinh bị viêm tai giữa và khoảng 30% trẻ bị hen suyễn sau khi bị viêm tiểu phế quản”, PGS.TS.BS Nguyễn Thị Quỳnh Hương cho biết.
+Khi nào trẻ nên đi khám?
+Khi bạn thấy người bệnh xuất hiện các dấu hiệu của RSV, cần đưa họ đi thăm khám ngay để được chẩn đoán chính xác. Trẻ nhỏ có sức đề kháng tốt và người lớn bị nhiễm RSV thường không cần nhập viện. Cần nhập viện gấp đối với các trường hợp sau:
+Trẻ dưới 3 tháng bị nhiễm virus hợp bào;
+Tình trạng sốt cao không hạ được;
+Khó thở nghiêm trọng;
+Da có màu xanh, đặc biệt là trên môi và các móng tay;
+Bệnh nhân ăn không được 80% lượng ăn bình thường;
+Độ trao đổi oxy dưới 95%.
+Chẩn đoán trẻ nhiễm virus hợp bào hô hấp ra sao?
+Để chẩn đoán một trường hợp nghi nhiễm virus hợp bào, trước tiên bác sĩ sẽ khám sức khỏe tổng quát, đồng thời hỏi thăm bệnh sử của người bệnh, chẳng hạn như xuất hiện triệu chứng khi nào? Mức độ ra sao? Có ăn uống được không?… Tiếp theo, bác sĩ sẽ chỉ định bệnh nhân thực hiện một số xét nghiệm như:
+Nghe phổi bằng ống nghe, để kiểm tra những âm thanh bất thường hoặc tiếng thở khò khè.
+Đo qua da (xung oxy) không gây đau để kiểm tra mức oxy bão hòa trong máu có thấp hơn so với bình thường không.
+Xét nghiệm RSV bằng cách lấy dịch tiết hô hấp.
+Xét nghiệm máu, kiểm tra số lượng bạch hầu hoặc tìm để phát hiện có nhiễm virus hoặc vi khuẩn.
+Chụp X-quang kiểm tra viêm phổi.
+Phương pháp điều trị cho bệnh nhân nhiễm virus hợp bào
+Hầu hết các trường hợp nhiễm RSV sẽ tự khỏi sau 1 – 2 tuần. Bố Mẹ có thể kiểm soát cơn sốt và cơn đau bằng thuốc hạ sốt và thuốc giảm đau, chẳng hạn như acetaminophen, paracetamol hoặc ibuprofen. Tuy nhiên, tất cả các loại thuốc này cần được bác sĩ chỉ định chứ không nên tự ý dùng.
+Đặc trưng của RSV là làm keo dính đường hô hấp của người bệnh. Vì thế, phương pháp điều trị hiệu quả nhất là rửa mũi, lọc đờm thường xuyên cho người bệnh để làm loãng dịch, từ đó ngăn ngừa tình trạng bít tắc đường hô hấp.
+Một điều rất quan trọng đối với những người bị nhiễm RSV, đó là uống đủ nước (nhằm đảm bảo đủ dịch để lọc đờm). Nếu người bệnh không thể nạp đủ lượng nước cần thiết, bác sĩ sẽ chỉ định truyền dịch qua đường tĩnh mạch.
+Đồng thời, kê toa kháng sinh cũng có công hiệu tốt trong việc kiểm soát triệu chứng và ngăn ngừa biến chứng bệnh. Trong những trường hợp nghiêm trọng, bệnh nhân có thể phải thở oxy hoặc đặt nội khí quản để thở máy.
+Phòng ngừa lây nhiễm RSV hiệu quả bằng cách nào?
+“RSV có khả năng lây lan mạnh, nếu các gia đình chủ quan không cho con đi khám, không biết con nhiễm bệnh sẽ dễ khiến cho virut này phát tán rộng trong cộng đồng. Vì vậy, để phòng bệnh, tránh đưa trẻ tới nơi công cộng, tiếp xúc với những người có biểu hiện ho, sốt, sổ mũi… ”, PGS.TS.BS Nguyễn Thị Quỳnh Hương khuyến cáo.
+RSV dễ dàng lây lan qua tiếp xúc với người hoặc tiếp xúc trực tiếp với các bề mặt bị ô nhiễm hoặc các chất tiết của các bệnh nhân. Khám và kiểm tra thường xuyên là rất cần thiết để phòng ngừa lây nhiễm cho trẻ, đặc biệt là những trẻ em thuộc nhóm có nguy cơ bị ảnh hưởng cao.
+Dưới đây là những gợi ý giúp ngăn ngừa hiệu quả lây nhiễm virus RSV cho trẻ:
+Thường xuyên rửa tay, đặc biệt là sau khi tiếp xúc với người có triệu chứng tương tự như cảm cúm.
+Làm sạch và vô trùng bề mặt các dụng cụ có thể bị lây nhiễm.
+Hạn chế đưa trẻ đến những nơi đông người.
+Bố mẹ cần giữ ấm và đeo khẩu trang cho trẻ khi ra ngoài, sử dụng chế độ điều hòa phù hợp.
+Không để trẻ tiếp xúc với môi trường hút thuốc, hoặc ở cạnh người đang hút thuốc.
+Nếu có thể hãy cách ly bé với các trẻ khác, bao gồm cả anh chị lớn hơn đang có dấu hiệu cảm cúm.
+Cho trẻ bú sữa mẹ đến 2 tuổi, không để trẻ bị lạnh, giữ cho môi trường sống của trẻ được trong lành, không cho trẻ tiếp xúc với khói bếp than, khói thuốc lá.
+Khi đi ra đường nên chủ động bảo vệ đường hô hấp trên cho trẻ, có thể sử dụng nước muối sinh lý 0,9% nhỏ vào mắt, mũi trẻ sau khi đi chơi về.
+Nên tắm nước ấm cho trẻ trong phòng kín gió, tắm xong cần lau người và mặc quần áo thật nhanh.
+Những trẻ bị các bệnh tim, phổi bẩm sinh càng đặc biệt lưu ý, nếu có những biểu hiện bệnh như: sốt, ho, khó thở cần đưa trẻ đến ngay các chuyên khoa hô hấp để được điều trị đúng.
+Câu hỏi thường gặp về virus hợp bào hô hấp
+PGS.TS.BS Nguyễn Thị Quỳnh Hương giải đáp một số thắc mắc về căn bệnh hô hấp do virus hợp bào gây ra:
+1. Người từng nhiễm virus RSV có nguy cơ bị lại không?
+Khi bạn đã bị RSV, khả năng tái nhiễm bệnh hoàn toàn có thể xảy ra (nhưng ở một tuýp RSV khác). Thậm chí, có người bị virus tấn công đến hai lần trong cùng một mùa RSV. Tuy nhiên, các triệu chứng ở lần tái nhiễm thường không nghiêm trọng, chỉ như cảm lạnh thông thường. Bệnh chỉ nghiêm trọng ở người lớn tuổi hoặc những người bị bệnh tim/phổi mãn tính.
+2. Virus RSV lây qua đường nào?
+Tương tự như corona virus, RSV có thể lây lan khi người bị bệnh ho hoặc hắt hơi, phát tán các giọt dịch mang mầm bệnh vào không khí. Bạn có khả năng nhiễm bệnh nếu hít phải các giọt dịch đó. Ngoài ra, nếu bạn chạm tay vào bề mặt cứng có virus như tay nắm cửa, bàn ghế… rồi đưa tay lên mặt, virus sẽ xâm nhập vào cơ thể qua mắt, mũi hoặc miệng. Việc tiếp xúc trực tiếp với virus bằng cách hôn, bắt tay… với người bị RSV cũng khiến bạn dễ nhiễm bệnh.
+3. Nếu cơ thể mẹ đã có kháng thể RSV thì con có được bảo vệ khỏi virus này trong 6 tháng đầu đời không?
+Một bà mẹ từng nhiễm virus hợp bào thì sẽ có kháng thể RSV trong cơ thể. Kháng thể này có thể truyền cho trẻ qua đường sữa mẹ, nhưng rất yếu. Vì vậy, trẻ vẫn có nguy cơ bị RSV, song mức độ sẽ nhẹ hơn so với những trẻ không nhận được kháng thể RSV từ mẹ.
+Phòng ngừa các biến chứng do virus hợp bào gây ra như thế nào?
+Virus RSV hiện nay vẫn chưa có vắc xin phòng ngừa và chưa có điều trị đặc hiệu. Mặc dù vậy, chúng ta vẫn có thể làm nhẹ những biến chứng do virus hợp bào hô hấp gây ra, giảm mức độ nghiêm trọng của các loại virus, vi khuẩn khác đang có sẵn trong cơ thể như vi khuẩn phế cầu, virus cúm, bằng cách tiêm phòng cách loại vắc xin phòng bệnh viêm đường hô hấp trên như cúm, viêm phổi, viêm tai mũi họng, viêm tai giữa… ở trẻ em và người lớn, đặc biệt là trẻ nhỏ dưới 5 tuổi và người mắc bệnh nền mãn tính.
+VNVC có đầy đủ các loại vắc xin phòng bệnh hô hấp cho trẻ em và người lớn với giá niêm yết trên toàn hệ thống, sẵn sàng tiêm lẻ giúp người dân kịp thời phòng tránh bệnh:
+Vắc xin Synflorix (Bỉ), Prevenar 13 (Bỉ) phòng các bệnh viêm phổi, viêm tai giữa, viêm màng não, nhiễm khuẩn huyết gây ra do phế cầu khuẩn.
+Vắc xin Menactra (Mỹ) phòng viêm phổi, viêm tai giữa, viêm mũi họng, nhiễm khuẩn huyết gây ra do não mô cầu khuẩn tuýp ACYW-135.
+Vắc xin phòng bệnh cúm mùa Vaxigrip (Pháp), Influvac (Hà Lan), Ivacflu-S (Việt Nam).
+VNVC nỗ lực cung cấp đủ vắc xin, bảo vệ sức khỏe cộng đồng trong “mùa dịch”
+VNVC luôn đảm bảo là điểm đến an toàn cho tất cả các khách hàng đến tiêm chủng phòng bệnh với quy trình sát khuẩn, khử trùng được đảm bảo nghiêm ngặt. Mùa dịch bệnh, VNVC tăng cường công tác này ở mức cao hơn nữa, như: tăng cường công tác vệ sinh sát khuẩn, khử trùng toàn bộ trung tâm lên nhiều lần trong ngày; trang bị nhiều hơn các chai dung dịch sát khuẩn tay nhanh ở nhiều nơi thuận tiện cho khách hàng và nhân viên; thực hiện nghiêm túc yêu cầu đeo khẩu trang y tế theo đúng hướng dẫn của Bộ Y tế cho tất cả các bộ phận có tiếp xúc trực tiếp với khách hàng; tiến hành đo thân nhiệt sàng lọc khách hàng ngay từ bên ngoài trung tâm,…
+VNVC đảm bảo không tăng giá vắc xin ngay cả khi vào cao điểm mùa dịch. Ngoài ra khách hàng sẽ được MIỄN PHÍ tư vấn, khám sàng lọc trước tiêm, theo dõi sức khỏe sau tiêm và sử dụng các tiện ích dịch vụ cao cấp tại trung tâm. Hãy để VNVC đồng hành cùng bạn trên con đường bảo vệ sức khỏe của bản thân, gia đình và xã hội.
+Để được tư vấn và đặt lịch tiêm vắc xin phòng viêm màng não, có thể dễ dàng đăng ký tại đây hoặc gọi vào hotline 028.7102.6595, nhắn tin cho Fanpage VNVC – Trung tâm Tiêm chủng Trẻ em và Người lớn hoặc liên hệ trực tiếp hệ thống các trung tâm tiêm chủng VNVC trên cả nước.

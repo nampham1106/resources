@@ -1,0 +1,162 @@
+# url = https://vnvc.vn/vacxin-cum-cua-nuoc-nao-tot-nhat/
+# date = 17/08/2023
+Nên tiêm vacxin cúm của nước nào tốt nhất? [Giải đáp chi tiết]
+Cúm là một bệnh truyền nhiễm phổ biến gây ra nhiều triệu chứng khó chịu như ho, sốt, đau đầu, hắt hơi, sổ mũi, mệt mỏi,… Thậm chí, nếu bệnh nhân cúm không được chăm sóc và điều trị đúng cách, nguy cơ cao bệnh nhân sẽ phải đối mặt với nhiều biến chứng nguy hiểm, đe dọa đến tính mạng, dẫn đến tử vong. Việt Nam hiện đang có nhiều loại vắc xin cúm, vậy, nên tiêm vacxin cúm của nước nào tốt nhất?
+
+
+
+BS Đoàn Thị Khánh Châm – Quản lý Y khoa vùng 2 khu vực miền Bắc, Hệ thống Trung tâm tiêm chủng VNVC: “Hiện nay, tại Việt Nam đang lưu hành 2 loại vắc xin cúm tứ giá thế hệ mới nhất cùng hiệu quả bảo vệ cao là vắc xin Vaxigrip Tetra và Influvac Tetra. Hệ thống Trung tâm tiêm chủng VNVC đang có đầy đủ 2 loại vắc xin này với số lượng lớn, sẵn sàng đáp ứng nhu cầu tiêm chủng vắc xin phòng bệnh cho trẻ em và người lớn trên toàn quốc quanh năm, nhất là vào các thời điểm giao mùa, bệnh cúm mùa lây lan nhanh chóng và bùng phát mạnh mẽ.”
+
+
+
+
+Mục lục1. Cần phải biết về các công nghệ bào chế vắc xin cúm1.1. Công nghệ truyền thống1.2. Công nghệ DNA1.3. Công nghệ vector virus1.4. Công nghệ vắc xin mRNA2. Hiện nay có các loại vắc xin nào? Do nước nào phát triển?2.1. Vắc xin cúm Vaxigrip Tetra (Pháp)2.2. Vắc xin cúm Influvac Tetra (Hà Lan)2.3. Vắc xin cúm GC Flu (Hàn Quốc)2.4. Vắc xin cúm Ivacflu-S (Việt Nam)3. Nên tiêm vacxin cúm của nước nào tốt nhất hiện nay?4. Những điều cần biết về tiêm vắc xin cúm4.1. Độ tuổi và phác đồ tiêm4.2. Ai không được tiêm phòng cúm?4.3. Các tác dụng phụ sau tiêm vắc xin cúm5. Tiêm vắc xin cúm cho người lớn và trẻ em ở đâu?6. Những cách để phòng ngừa cúmKết luận1. Cần phải biết về các công nghệ bào chế vắc xin cúm
+Về các phương pháp bào chế vắc xin cúm hiện nay gồm có: vắc xin cúm dựa trên trứng, vắc xin cúm dựa trên nuôi cấy tế bào và vắc xin cúm tái tổ hợp. Về công nghệ bào chế vắc xin cúm, chúng phát triển qua nhiều giai đoạn, bắt đầu từ các phương pháp truyền thống cho đến các công nghệ tiên tiến như công nghệ DNA, vector virus và vắc xin mRNA. Những công nghệ bào chế này sẽ tương ứng với mỗi phương pháp bào chế khác nhau, cụ thể:
+1.1. Công nghệ truyền thống
+Công nghệ bào chế vắc xin cúm truyền thống chủ yếu dựa vào việc nuôi cấy virus cúm trên trứng gà ấp trong điều kiện tiệt trùng. Virus sau đó được thu hoạch, làm sạch sau đó được giảm động lực hoặc giết chết (bất hoạt) hoặc tách biệt các thành phần virus như protein hạt vỏ (HA). Tiêm phòng vắc xin này giúp cơ thể phát triển miễn dịch đối với các kháng nguyên phức hợp (complex antigen) của virus. Tuy nhiên, nhược điểm của phương pháp truyền thống là tốc độ sản xuất chậm và năng suất không cao. [1]
+1.2. Công nghệ DNA
+Công nghệ vắc xin DNA dựa trên việc chèn gen mã hóa các thành phần virus vào vector DNA đơn chuỗi, thường là Plasmid. Vector DNA này sẽ chứa chuỗi DNA mã hóa cho kháng nguyên mong muốn (thường là glycoprotein HA của virus cúm) và sau đó được đưa vào cơ thể người tiêm phòng thông qua các phương pháp như electroporation hoặc kết hợp với các hạt liposome. Tế bào sau đó sản xuất glycoprotein HA, kích thích quá trình đáp ứng miễn dịch với kháng nguyên tương ứng và tạo ra kháng thể. Công nghệ này cho phép sản xuất vắc xin nhanh chóng và dễ điều chỉnh đối với các chủng virus mới. [2]
+Plasmid những đoạn DNA ngắn (2-5kb) dạng chuỗi xoắn kép, dạng vòng, có thể tự nhân đôi độc lập với DNA bộ gen
+1.3. Công nghệ vector virus
+Công nghệ này dựa trên việc sử dụng một loại virus khác để chuyển gen mã hóa các thành phần của virus cúm, ví dụ như glycoprotein HA, vào tế bào cơ thể. Virus vector thường được biểu hiện rất tốt trong cơ thể và gây ra phản ứng miễn dịch mạnh cho các thành phần của virus cúm. Công nghệ vector virus giúp tận dụng năng suất của các hệ thống nuôi cấy tế bào để sản xuất vắc xin nhanh hơn so với công nghệ truyền thống. [3]
+Adenovirus thường là loại virus dùng làm công cụ đa năng để vận chuyển và biểu hiện gen
+1.4. Công nghệ vắc xin mRNA
+Vắc xin mRNA là một bước đột phá đáng kể trong lĩnh vực bào chế vắc xin. Thay vì sử dụng protein hoặc gen của virus, công nghệ này sử dụng các phân tử mRNA mã hóa thành phần của virus. Chẳng hạn như virus cúm A, ở ngoài cùng của virus cúm có 2 loại glycoprotein HA và NA với tỷ lệ giữa HA và NA là khoảng 4:1, nên có thể sử dụng mRNA mã hóa thành glycoprotein HA của virus cúm. Các phân tử mRNA được bọc trong các hạt lipid nanoparticle để bảo vệ chúng khỏi bị hủy hoại khi vào cơ thể. Sau khi tiêm, các phân tử mRNA được đưa vào tế bào, nơi chúng được dịch mã thành glycoprotein HA, kích thích hệ miễn dịch để tạo ra kháng thể. [4]
+Ưu điểm của vắc xin mRNA là khả năng sản xuất nhanh chóng, miễn dịch cao và khả năng điều chỉnh linh hoạt đối với các biến thể mới của virus cúm. Điều này rất quan trọng trong việc cải thiện khả năng tiêm vắc xin cúm nhắm vào chủng chiếm ưu thế trong năm đó. Hơn nữa, có hy vọng rằng công nghệ này có thể được sử dụng để tạo ra vắc-xin kết hợp nhắm vào nhiều loại vi-rút đường hô hấp, chẳng hạn như cúm, SARS-CoV-2 và virus hợp bào hô hấp.
+Sơ đồ biểu diễn quá trình mã hóa mRNA thành gai nhọn protein của virus cúm tiêm vào cơ thể người sinh ra đáp ứng miễn dịch
+2. Hiện nay có các loại vắc xin nào? Do nước nào phát triển?
+Việt Nam hiện có 4 loại vắc xin cúm phổ biến, bao gồm:
+2.1. Vắc xin cúm Vaxigrip Tetra (Pháp)
+Vắc xin cúm Vaxigrip Tetra là vắc xin dự phòng các chủng cúm A và B, được nghiên cứu và phát triển bởi tập đoàn hàng đầu thế giới về dược phẩm và chế phẩm sinh học Sanofi Pasteur – Pháp và được đưa vào sử dụng từ năm 2016 tại hơn 100 quốc gia trên toàn Thế giới.
+Vắc xin cúm Vaxigrip Tetra chứa hoạt chất Haemagglutinin của virus cúm, được sản xuất từ vùng đệm cúm A/Victoria/2570/2019 (Kháng nguyên bề mặt tinh chế virus cúm của chủng H1N1); cúm A/Darwin/9/2021 (Kháng nguyên bề mặt tinh chế virus cúm của chủng H3N2); cúm B /Austria/1359417/2021 (Kháng nguyên về mặt tinh chế virus cúm của chủng Victoria lineage) và cúm B/Phuket/3073/2013 (Kháng nguyên về mặt tinh chế virus cúm của chủng Yamagata lineage). Vì thế, khi vắc xin tiêm vào cơ thể để kích thích hệ miễn dịch phát triển kháng thể chống lại 4 chủng virus cúm, gồm có 2 chủng virus cúm A là H1N1, H3N2 và 2 chủng virus cúm B là Yamagata và Victoria. Vắc xin cúm Vaxigrip Tetra sử dụng công nghệ tiêm tiếp cận đa dạng, được chỉ định tiêm bắp hoặc tiêm dưới da cho các đối tượng là trẻ em từ 6 tháng tuổi trở lên và người lớn.
+Vắc xin thường được tiêm vào mùa thu hoặc đầu đông, trước khi bệnh cúm trở nên phổ biến. Tổ chức Y tế Thế giới (WHO) khuyến cáo chỉ cần tiêm nhắc lại vắc xin cúm hàng năm, luôn cách tối thiểu 12 tháng so với mũi trước.
+Hệ thống Trung tâm tiêm chủng cho trẻ em và người lớn VNVC là đơn vị đầu tiên triển khai tiêm vắc xin Vaxigrip Tetra với phác đồ như sau:
+– Từ 6 tháng đến 9 tuổi áp dụng lịch tiêm 2 mũi:
+Mũi 1: lần tiêm đầu tiên
+Mũi 2: một tháng sau mũi 1
+– Từ 9 tuổi trở lên áp dụng lịch tiêm 01 mũi duy nhất và nhắc lại hằng năm.
+
+
+2.2. Vắc xin cúm Influvac Tetra (Hà Lan)
+Vắc xin Influvac Tetra được nghiên cứu, phát triển và sản xuất bởi hãng vắc xin hàng đầu tại Hà Lan – Abbott. Vắc xin có khả năng phòng 4 chủng virus cúm gồm 2 chủng cúm A (H1N1, H3N2) và 2 chủng cúm B là Yamagata và Victoria.
+Vắc xin Influvac Tetra được chỉ định tiêm bắp vào vùng cơ delta hoặc tiêm sâu dưới da với liều lượng 0.5ml cho các đối tượng là trẻ em từ 6 tháng tuổi trở lên và người lớn. Phác đồ tiêm vắc xin cúm Influvac Tetra của Hà Lan như sau:
+– Đối với trẻ từ 6 tháng tuổi đến dưới 9 tuổi chưa tiêm cúm, áp dụng lịch tiêm 2 mũi:
+Mũi 1: lần tiêm đầu tiên.
+Mũi 2: cách mũi 1 ít nhất 4 tuần và tiêm nhắc hàng năm.
+– Đối với trẻ từ 9 tuổi trở lên: Lịch tiêm 01 mũi duy nhất và nhắc lại hằng năm.
+
+Vắc xin phòng cúm mùa Influvac Tetra hiện đang có mặt với số lượng lớn tại Hệ thống Trung tâm tiêm chủng VNVC, nhằm đáp ứng tối đa nhu cầu tiêm phòng cúm của người dân trên cả nước
+2.3. Vắc xin cúm GC Flu (Hàn Quốc)
+Vắc xin GC Flu được nghiên cứu, sản xuất, phát triển và phân phối bởi tập đoàn Green Cross – Hàn Quốc, là loại vắc xin dự phòng được 4 chủng cúm mùa gồm 2 chủng virus cúm A là H1N1, H3N2 và 2 chủng virus cúm B là Yamagata, Victoria.
+Vắc xin cúm GC Flu được chỉ định tiêm bắp với liều 0.5ml cho trẻ em trên 3 tuổi và người lớn với phác đồ như sau:
+– Trẻ từ 36 tháng đến dưới 9 tuổi chưa từng tiêm vắc xin cúm:
+Tiêm 2 mũi cách nhau tối thiểu 1 tháng.
+Sau đó tiêm nhắc lại 1 mũi hằng năm.
+– Trẻ trên 9 tuổi và người lớn:
+Tiêm 1 mũi 0.5ml
+Sau đó tiêm nhắc lại hàng năm.
+– Phụ nữ có kế hoạch mang thai nên tiêm vắc xin phòng cúm trước khi có thai.
+
+Vắc xin GC Flu chứa kháng nguyên của 4 chủng virus cúm, kích thích cơ thể tạo ra kháng thể với các chủng cúm tương ứng có trong vắc xin
+2.4. Vắc xin cúm Ivacflu-S (Việt Nam)
+Vắc xin cúm Ivacflu-S là một loại vắc xin phòng virus cúm được sản xuất tại Việt Nam, được phát triển bởi Viện Vắc xin và Sinh phẩm Y tế IVAC, là vắc xin dạng mảnh, bất hoạt bằng formalin, không sử dụng chất bảo quản.
+Vắc xin cúm Ivacflu-S được sản xuất từ vùng đệm cúm A/Brisbane/02/2018 (Kháng nguyên bề mặt tinh chế virus cúm của chủng A/H1N1) với hàm lượng 15µg HA; A/Kansas/14/2017 (Kháng nguyên bề mặt tinh chế vi rút cúm của chủng A/H3N2) với hàm lượng 15µg HA và vùng đệm cúm B/Phuket/3073/2013 (Kháng nguyên bề mặt tinh chế vi rút cúm của chủng B) với hàng lượng 15µg HA. Vì thế, vắc xin cúm Ivacflu S có khả năng dự phòng được 3 chủng cúm, gồm 2 chủng cúm A là H3N2, H1N1 và 1 chủng cúm B là Victoria/Yamagata.
+Vắc xin cúm Ivacflu-S được sản xuất với công nghệ bào chế vắc xin truyền thống với kỹ thuật hiện đại và đảm bảo tính an toàn và hiệu quả cao, được điều chỉnh định kỳ để phù hợp với các biến thể mới của virus cúm xuất hiện. Nó được tiêm bắp vào vùng cơ delta để giúp cơ thể phát triển kháng thể chống lại virus cúm và ngăn ngừa lây lan của bệnh.
+Vắc xin Ivacflu–S 0,5ml (Việt Nam) được chỉ định tiêm phòng cho người từ 18 tuổi đến người dưới 60 tuổi, khuyến cáo tiêm nhắc lại hằng năm.
+
+Ivacflu-S có khả năng dự phòng virus cúm H3N2, H1N1 và 1 chủng cúm B là Victoria/Yamagata
+3. Nên tiêm vacxin cúm của nước nào tốt nhất hiện nay?
+Không có loại vacxin cúm nào là tốt nhất. Trung tâm Kiểm soát và Phòng ngừa dịch bệnh Hoa Kỳ (CDC Hoa Kỳ) khẳng định rằng, bất kỳ loại vắc xin cúm đã được cấp phép đều có thể được tiêm cho người dân mà không có sự ưu tiên tốt hay tốt hơn, vì thế không cần phải suy nghĩ về việc loại nào tốt hơn.
+Việc tiêm phòng vắc xin cúm đầy đủ mỗi năm là điều quan trọng cần được chú ý hơn rất nhiều so với việc cân nhắc xem nên tiêm vacxin cúm của nước nào tốt nhất. Bằng cách tiêm phòng vắc xin cúm theo đúng phác đồ và duy trì đầy đủ hàng năm, cơ thể sẽ được bảo vệ hoàn chỉnh với đầy đủ kháng thể, giúp tăng cường hệ miễn dịch và phòng ngừa các bệnh lý và biến chứng nguy hiểm do bệnh cúm mùa gây ra, đồng thời ngăn chặn được sự phát triển và bùng phát của dịch bệnh, giúp giảm thiểu nguy cơ mắc cúm và lây truyền cho người khác, giảm tỷ lệ nhập viện cũng như số người tử vong do cúm vào mỗi năm, đặc biệt là đối với trẻ em.
+4. Những điều cần biết về tiêm vắc xin cúm
+4.1. Độ tuổi và phác đồ tiêm
+
+
+
+Nội dung
+Ivacflu-S
+(Việt Nam)
+Vaxigrip Tetra
+(Pháp)
+GC Flu
+(Hàn Quốc)
+Influvac Tetra 
+(Hà Lan)
+
+
+Độ tuổi nhỏ nhất
+18 tuổi
+6 tháng tuổi
+3 tuổi
+6 tháng tuổi
+
+
+Độ tuổi lớn nhất
+60 tuổi
+Không giới hạn
+Không giới hạn
+Không giới hạn
+
+
+Phác đồ/ Lịch tiêm
+– Tiêm 01 mũi.
+– Tiêm nhắc lại 01 mũi hàng năm hoặc vào đầu các mùa có nguy cơ bùng phát dịch.
+– Trẻ từ 6 tháng tuổi đến dưới 9 tuổi chưa tiêm cúm, áp dụng lịch tiêm 2 mũi:
++ Mũi 1: lần tiêm đầu tiên.
++ Mũi 2: cách mũi 1 ít nhất 4 tuần
++ Tiêm nhắc hàng năm.
+– Trẻ từ 9 tuổi trở lên áp dụng lịch tiêm 01 mũi duy nhất và nhắc lại hằng năm.
+– Trẻ từ 36 tháng đến dưới 9 tuổi chưa từng tiêm vắc xin cúm:
++ Tiêm 2 mũi cách nhau tối thiểu 1 tháng.
++ Tiêm nhắc lại 1 mũi hằng năm.
+– Trẻ trên 9 tuổi và người lớn, áp dụng lịch tiêm 1 mũi, sau đó tiêm nhắc lại hàng năm.
+– Từ 6 tháng đến 9 tuổi, áp dụng lịch tiêm 2 mũi:
++ Mũi 1: lần tiêm đầu tiên
++ Mũi 2: một tháng sau mũi 1
+– Từ 9 tuổi trở lên, áp dụng lịch tiêm 01 mũi duy nhất và nhắc lại hằng năm.
+
+
+
+4.2. Ai không được tiêm phòng cúm?
+Các đối tượng chống chỉ định tiêm phòng cúm bao gồm:
+
+Người bị dị ứng nghiêm trọng với thành phần của vắc xin: Các thành phần trong vắc xin cúm bao gồm protein của virus cúm và các chất bảo quản. Nếu người dùng vaccin có dị ứng với bất kỳ thành phần nào trong vắc xin, cần tiếp nhận sự tư vấn của các bác sĩ và để cân nhắc và so sánh giữa lợi ích của việc phòng cúm với nguy cơ gặp phản ứng dị ứng với thành phần của vắc xin cúm.
+Trẻ em dưới 6 tháng tuổi: Vắc xin cúm được chỉ định cho trẻ từ 6 tháng trở lên, những trẻ nhỏ hơn thường chưa đủ điều kiện về sức khỏe và thể trạng để tiếp nhận khả năng phản ứng của vắc xin khi vào cơ thể.
+Các đối tượng có tiền sử sốc phản vệ với vắc xin cúm tương ứng.
+Các đối tượng có tiền sử dị ứng latex.
+Các đối tượng có tiền sử co giật hoặc đang bị động kinh.
+Các đối tượng có cơ thể mẫn cảm mạnh với các loại vắc xin khác.
+Người mắc bệnh nặng: Người mắc bệnh nặng có thể không được tiêm vắc xin cúm, do nhóm đối tượng này có thể không đủ sức khỏe để ứng phó với các phản ứng phụ của vắc xin.
+Người mới điều trị chống ung thư hoặc điều trị bằng steroid: Người mới điều trị chống ung thư hoặc điều trị bằng steroid có thể không được tiêm vaccin cúm, do họ đang sử dụng thuốc ức chế miễn dịch và có thể không đủ sức khỏe để ứng phó với các phản ứng phụ của vắc xin.
+
+Tiêm vắc xin phòng cúm đều đặn hàng năm mang lại nhiều lợi ích về sức khỏe, tuy nhiên có một số trường hợp vô cùng nhạy cảm không nên tiêm ngừa, cần tiếp nhận tư vấn chuyên môn của bác sĩ trước khi tiêm
+4.3. Các tác dụng phụ sau tiêm vắc xin cúm
+Vắc xin cúm là công cụ quan trọng nhằm giảm nguy cơ mắc bệnh cúm và các biến chứng liên quan. Tuy nhiên, cũng giống như với bất kỳ loại vắc xin nào khác, vắc xin cúm cũng có thể gây ra một số tác dụng phụ như:
+
+Đau, sưng và đỏ ở vị trí tiêm: Đây là tác dụng phụ phổ biến nhất sau tiêm vắc xin cúm. Các triệu chứng này thường nhẹ và tự giảm trong một vài ngày.
+Mệt mỏi: Một số người có thể có cảm giác mệt mỏi sau tiêm vắc xin cúm, điều này cũng thường giảm dần trong một vài ngày.
+Sốt nhẹ: Một số trường hợp có thể gặp sốt nhẹ sau tiêm vắc xin cúm, kéo dài từ 24 đến 48 giờ.
+Nổi mẩn ngứa: Một số người có thể có phản ứng da như nổi mẩn ngứa ở vùng tiêm.
+Đau đầu và đau cơ: Đây là những phản ứng thông thường sau tiêm vắc xin cúm và thường không nghiêm trọng. Triệu chứng thường tự giảm trong một vài ngày.
+Gây sốt và giảm đàn hồi miệng do viêm dây thần kinh: Tuy hiếm gặp, điều này có thể xảy ra trong một số trường hợp cụ thể sau tiêm vắc xin cúm.
+
+Hầu hết các phản ứng phụ sau tiêm của vắc xin cúm đều là những phản ứng thông thường, không gây ra các biểu hiện nghiêm trọng, không gây nguy hiểm đến tính mạng mà ngược lại, mang đến rất nhiều lợi ích cho người tiêm.
+5. Tiêm vắc xin cúm cho người lớn và trẻ em ở đâu?
+Hệ thống Trung tâm tiêm chủng VNVC là địa chỉ tiêm vắc xin cúm cho trẻ em và người lớn hàng đầu Việt Nam về chất lượng, an toàn, giá thành hợp lý và dịch vụ cao cấp. VNVC cam kết lưu trữ vắc xin ở nhiệt độ tiêu chuẩn từ 2 đến 8 độ C theo đúng yêu cầu của nhà sản xuất để đảm bảo an toàn và hiệu quả tối đa khi trao từng mũi vắc xin đến tay Quý Khách hàng. Tất cả các phòng tiêm được trang bị tủ giữ vắc xin chuyên dụng và tuân thủ quy trình an toàn tiêm chủng ở mức cao nhất.
+VNVC tự hào là đối tác chiến lược toàn diện của nhiều hãng vắc xin và công ty dược phẩm hàng đầu trên Thế giới. Vì thế VNVC có thể đặt mua vắc xin số lượng lớn với giá cả ưu đãi nhất để đảm bảo cung ứng đầy đủ cho trẻ em và người lớn và cam kết không tăng giá, bình ổn giá ngay cả trong những thời điểm vắc xin khan hiếm, thậm chí hỗ trợ nhiều chương trình ưu đãi cho Quý Khách hàng.
+VNVC có đội ngũ nhân lực chất lượng cao, được đào tạo chính quy và có chuyên môn cao. Tất cả các bác sĩ và điều dưỡng viên của VNVC đều có chứng chỉ về an toàn tiêm chủng cùng kỹ thuật tiêm không đau. Hơn nữa, tất cả các khách hàng đến VNVC đều được bác sĩ khám sàng lọc trước tiêm miễn phí để được chỉ định tiêm chủng chính xác.
+Ngoài ra, VNVC cung cấp nhiều dịch vụ tiêm chủng linh hoạt, bao gồm tiêm lẻ, tiêm lưu động theo yêu cầu của cơ quan, doanh nghiệp, các gói vắc xin dành cho từng lứa tuổi và đặt giữ vắc xin theo yêu cầu. VNVC cũng hỗ trợ đăng ký tiêm chủng thông qua Tổng đài, website, fanpage và triển khai hệ thống phần mềm hiện đại để nhắc lịch tiêm tự động thông qua tin nhắn và điện thoại, đồng thời cập nhật và thông báo tình hình dịch bệnh đến khách hàng kịp thời.
+Hệ thống Trung tâm tiêm chủng VNVC là địa chỉ tiêm vắc xin phòng cúm được nhiều khách hàng ưu tiên hàng đầu ngay khi phát sinh nhu cầu với đầy đủ các loại vắc xin chất lượng cao, được bảo quản trong kho lạnh từ 2 đến 8 độ C
+6. Những cách để phòng ngừa cúm
+Để phòng ngừa cúm, bạn có thể thực hiện các cách sau:
+
+Tiêm vắc xin cúm: Tiêm vắc xin cúm là cách hiệu quả và tiết kiệm nhất để bảo vệ cơ thể khỏi bị mắc các chủng virus cúm.
+Rửa tay thường xuyên: Vi khuẩn và virus gây cúm có thể lây lan thông qua tiếp xúc với bề mặt vật dụng, tay của người bị cúm hay bất kỳ ai đang mang virus cúm. Để tránh bị lây nhiễm, hãy rửa tay thường xuyên với nước sạch và xà phòng.
+Tránh tiếp xúc với người bị cúm: Khi ai đó bị cúm, họ có thể truyền virus này cho người khác. Vì vậy, bạn nên hạn chế tiếp xúc với người bị cúm và nếu phải tiếp xúc, hãy đeo khẩu trang để bảo vệ bản thân.
+Giữ gìn sức khỏe: Cơ thể khỏe mạnh có độ kháng thể tốt hơn trong việc chống lại virus cúm. Vì vậy, hãy ăn uống đầy đủ dinh dưỡng, tập luyện thể dục đều đặn và đủ giấc ngủ để duy trì sức khỏe.
+Sử dụng khăn giấy khi ho hoặc hắt hơi: Khăn giấy có khả năng giữ lại vi khuẩn và virus, tránh lây lan nhiễm. Hãy sử dụng khăn giấy khi ho hoặc hắt hơi và thải khăn giấy sau khi sử dụng.
+Tránh tiếp xúc với chất dị ứng: Một số người có dị ứng với phấn hoa hoặc chất gây dị ứng khác có thể gây kích thích họng và dẫn đến nhiễm trùng đường hô hấp. Vì vậy, hạn chế tiếp xúc với các chất dị ứng này có thể giúp giảm nguy cơ mắc cúm.
+
+Nếu bản thân xuất hiện các triệu chứng cúm, cần nghỉ ngơi và uống đủ nước để giúp cơ thể phục hồi nhanh chóng
+Kết luận
+Tiêm phòng vắc xin cúm là phương pháp hiệu quả và tiết kiệm nhất có thể bảo vệ sức khỏe của bản thân khỏi sự xâm nhập, tấn công, lây lan và gây bệnh. Các loại vắc xin cúm đang lưu hành trên Thế giới, đặc biệt là các vắc xin cúm được áp dụng tiêm của Việt Nam đều đã được thông qua các tiêu chuẩn an toàn và hiệu quả trước khi được chỉ định của người dân. Vì thế, nên tiêm vacxin cúm nước nào tốt nhất không còn là vấn đề cần quan tâm, quan trọng hơn cả là việc tuân thủ tuyệt đối theo chỉ định của bác sĩ tiêm chủng về phác đồ tiêm và duy trì thói quen tiêm vắc xin phòng cúm hàng năm.

@@ -1,0 +1,79 @@
+# doc_id = health_disease_349
+# url = https://vnvc.vn/virus-cum/
+# date = 08/07/2022
+Virus cúm là gì? Các chủng virus cúm phổ biến và đặc điểm cấu tạo
+Virus cúm là nguyên nhân gây ra đại dịch cúm, từng là nỗi “ám ảnh” toàn cầu. Nắm được các type virus cúm và đặc điểm cấu tạo của chúng giúp phòng ngừa hiệu quả căn bệnh này.
+Mục lụcVirus cúm là gì?Cấu tạo của virus cúmĐặc điểm virus cúmVirus cúm sống ngoài môi trường bao lâu?Các chủng virus cúm thường gặpVirus cúm AVirus cúm BVirus cúm CVirus cúm DNguyên tắc đặt tên cho virus cúmMột số triệu chứng thường gặp khi nhiễm virus cúmCác biến chứng thường gặp khi mắc virus cúmCác phương pháp xét nghiệm virus cúmLàm thế nào để phòng ngừa bệnh cúmVirus cúm là gì?
+Virus cúm là nguyên nhân dẫn đến bệnh lý cấp tính đường hô hấp. Thông thường, bệnh thường khá lành tính. Người bệnh có thể hồi phục trong vòng 2 đến 7 ngày. Tuy nhiên, ở một số đối tượng như trẻ em, người cao tuổi, người có bệnh lý nền thiếu máu hay các bệnh về tim, phổi, thận, người suy giảm miễn dịch thường có thể tiến triển nặng hơn gây viêm tai, viêm phế quản, viêm não,…
+Cấu tạo của virus cúm
+Virus cúm hoàn chỉnh có cấu tạo gồm 3 phần: lõi virus cúm, vỏ capsid, vỏ virus cúm ngoài cùng.
+Lõi virus cúm: Là RNA một sợi đơn; (1)
+Vỏ capsid: gồm capsome sắp xếp theo kiểu đối xứng xoắn;
+Vỏ virus cúm ngoài cùng: là một lớp lipid có nguồn gốc từ tế bào chủ. Hai loại glycoprotein xuyên qua màng tạo thành gai nhú, có khoảng 500 chồi gai khác nhau, xếp xen kẽ trên bề mặt virus cúm. Hai cấu trúc này là 2 kháng nguyên đặc trưng của virus cúm: kháng nguyên ngưng kết hồng cầu Hemagglutinin (H) và kháng nguyên trung hòa Neuraminidase (N). Kháng nguyên H giúp virus bám vào niêm mạc đường hô hấp, từ đó xâm nhập vào trong tế bào. Kháng nguyên N làm loãng các chất nhầy đường hô hấp, giúp virus dễ tiếp xúc tế bào niêm mạc, dễ xâm nhập tế bào.
+Có 18 loại kháng nguyên H, 11 loại kháng nguyên N. Những cách tổ hợp kháng nguyên khác nhau của kháng nguyên H và kháng nguyên N tạo nên những phân tuýp khác nhau của virus cúm. Trong quá trình lưu hành, hai kháng nguyên H và N luôn biến đổi. Những biến đổi nhỏ tích tụ lại thành những biến đổi lớn, tạo nên những tuýp kháng nguyên mới.
+Phần lõi virus cúm chứa 1 phân tử ARN và protein tương ứng với kháng nguyên S (soluble). Kháng nguyên S mang toàn bộ mã di truyền của virus.
+Đặc điểm virus cúm
+Virus cúm thuộc nhóm Orthomyxoviridae, được chia thành 3 tuýp A, B, C. Những tuýp virus này gây bệnh trên các loài động vật có xương sống bao gồm: chim, các loài động vật có vú và con người.
+Virus cúm được nhận diện nhờ vào cấu trúc kháng nguyên bề mặt, phức hợp protein và khả năng gây bệnh trên động vật có xương sống. Virus cúm A và B ở người gây ra dịch bệnh theo mùa (được gọi là cúm mùa) hầu như xảy ra vào mùa đông ở Hoa Kỳ. Virus cúm A là loại virus cúm duy nhất được biết đến là nguyên nhân gây ra các vụ dịch cúm toàn cầu. Đại dịch có thể xảy ra khi một loại virus cúm A mới và khác xuất hiện, vừa lây nhiễm từ động vật sang người vừa có khả năng lây lan hiệu quả giữa người với người. Virus cúm C nói chung gây bệnh nhẹ và không được cho là có thể gây dịch cho người. Virus cúm D chủ yếu ảnh hưởng đến gia súc và không được biết là có thể lây nhiễm hoặc gây bệnh cho người.
+Virus cúm có hình cầu, đường kính 80 – 120 nm. Khi được cấy truyền nhiều lần qua phôi gà, virus cúm có hình sợi.
+Virus cúm sống ngoài môi trường bao lâu?
+Bản chất virus cúm là lipoprotein (2), do đó virus có sức đề kháng yếu, dễ bị bất hoạt bởi bức xạ mặt trời, tia tử ngoại. Ngoài ra, virus có thể bị tiêu diệt ở nhiệt độ 56oC và các chất hòa tan lipid như ether (3), chloramine, beta-propiolactone, formol, cồn,…
+Tuy nhiên, ở môi trường bên ngoài, virus có thể tồn tại hàng giờ, đặc biệt là trong thời tiết lạnh và độ ẩm thấp. Ở nhiệt độ 0 – 4oC, virus có thể sống được vài tuần. Ở nhiệt độ -20oC và đông khô, virus cúm có thể tồn tại cả năm.
+Các chủng virus cúm thường gặp
+Có 4 chủng virus cúm A, B, C và D; trong đó 3 chủng virus cúm A, B, C là nguyên nhân chủ yếu gây bệnh cho con người.
+Virus cúm A
+Virus cúm A chia thành các phân nhóm dựa trên 2 protein bề mặt là kháng nguyên H và kháng nguyên N. Hiện tại, các nhà khoa học đã xác định được hơn 130 tổ hợp phụ virus cúm A trong tự nhiên, chủ yếu ở các loài chim hoang dã; tuy nhiên cũng có thể có nhiều dạng tổ hợp phụ của virus cúm A hơn do xu hướng “tái phân loại” của virus.
+Tái phân loại là quá trình virus cúm hoán đổi các loại gen. Phân loại có khả năng xảy ra khi virus cúm lây nhiễm vào vật chủ cùng lúc và hoán đổi thông tin di truyền. Các chủng virus cúm A thường lưu hành ở người gồm: A (H1N1) và A (H3N2).
+Chủng virus cúm A có thể chia nhỏ thành các nhánh di truyền khác nhau như:
+Nhánh nhỏ virus cúm: A (H1N1) → nhóm: 6B.1 → nhóm phụ: 6B.1A
+Nhánh nhỏ virus: A (H3N2) → nhóm 3C.2a; 3C.3a → nhóm phụ: 3C.2a1; 3C.2a2; 3C.2a3; 3C.2a4
+Phân chia virus cúm thành nhóm, phân nhóm cho phép các chuyên gia về cúm theo dõi tỷ lệ virus từ các dòng khác nhau đang lưu hành.
+Virus cúm A/H1N1 đang lưu hành phổ biến hiện nay có liên quan đến cúm đại dịch 2009. Virus cúm H1N1 đã trải qua những thay đổi di truyền tương đối nhỏ làm thay đổi tính chất kháng nguyên của virus (tính chất của virus ảnh hưởng đến khả năng miễn dịch) theo thời gian.
+Trong các loại virus cúm gây bệnh ở người, virus cúm A/H3N2 thay đổi nhanh về cả di truyền và kháng nguyên. Trong những năm gần đây, virus đã hình thành nhiều dòng riêng biệt và khác nhau về mặt di truyền.
+Virus cúm B
+Virus cúm B không chia thành các loại phụ, mà được phân loại thành dòng B/Yamagata, B/Victoria. Về khả năng biến đổi, virus cúm B biến đổi chậm hơn virus cúm A; do đó chỉ có 1 tuýp huyết thanh và không tạo thành những vụ dịch lớn với chu kỳ từ 5-7 năm.
+Những năm gần đây, tại Hoa Kỳ và thế giới đã ghi nhận sự đồng nhiễm virus cúm B từ các dòng. Tuy nhiên, tỷ lệ virus cúm B từ mỗi dòng lưu hành có thể thay đổi theo vị trí địa lý.
+Virus cúm C
+Virus cúm C thuộc chi Influenza Virus C, là thành viên thuộc họ virus Orthomyxoviridae. Virus có 6 phân đoạn RNA và mã hóa 9 protein; trong khi virus cúm A và B có 8 phân đoạn RNA, mã hóa ít nhất 10 protein.
+Virus cúm C có khả năng lây bệnh ở người và lợn. Tuy nhiên, chủng virus này khá hiếm gặp và thường nhẹ hơn các trường hợp virus cúm A, B. Bệnh có triệu chứng lâm sàng không điển hình và thường không tạo thành dịch.
+Virus cúm D
+Khác với các chủng virus cúm còn lại có khả năng lây bệnh cho người, virus cúm D chủ yếu ảnh hưởng đến gia súc và không phải nguyên nhân lây nhiễm hoặc gây bệnh cho người. Virus cúm D lần đầu tiên được phân lập từ lợn vào năm 2011 và được phân loại là một chi mới của họ Orthomyxoviridae vào năm 2016.
+Virus cúm D ít phổ biến hơn các loại virus cúm khác, có thành phần amino acid 50% tương tự virus cúm C và mức độ phân kỳ tương tự như loại A và B. Virus cúm D có 7 đoạn RNA và mã hóa 9 protein; trong khi virus cúm A và B có 8 đoạn RNA, mã hóa ít nhất 10 đoạn protein.
+Nguyên tắc đặt tên cho virus cúm
+Nguyên tắc đặt tên cho virus cúm, đã được WHO chấp thuận vào năm 1979 và được công bố vào tháng 2/1980 trong Bản tin của Tổ chức Y tế Thế giới. Nguyên tắc đặt tên này sử dụng các thành phần sau:
+Loại kháng nguyên (ví dụ như A, B, C);
+Vật chủ xuất xứ (như gà, ngựa, lợn,…). Với virus có nguồn gốc từ con người, không có chỉ định nguồn gốc vật chủ nào được đưa ra.
+Ví dụ về vịt: cúm gia cầm A (H1N1), A / vịt / Alberta / 35/76.
+Ví dụ trên người: cúm theo mùa A (H3N2), A / Perth / 16/2019.
+Nguồn gốc địa lý (như Đài Loan, Denver,…);
+Chủng virus số hoặc dòng virus số (2570, 3073, v.v.);
+Năm thu thập (57, 2009,…);
+Với virus cúm A mô tả kháng nguyên hemagglutinin và neuraminidase được bỏ trong ngoặc đơn. Ví dụ virus cúm A (H1N1), A (H5N1);
+Virus đại dịch 2009 được đặt tên riêng là A (H1N1) pdm09 để phân biệt với chủng cúm A (H1N1) đã lưu hành theo mùa trước đại dịch;
+Khi con người bị nhiễm virus cúm thường lưu hành ở lợn, những virus này được gọi là virus biến thể và được ký hiệu bằng chữ “v” (như A (H3N2) v).
+Một số triệu chứng thường gặp khi nhiễm virus cúm
+Triệu chứng khi nhiễm virus cúm thường xuất hiện đột ngột và diễn biến từ nhẹ đến nặng. Người nhiễm cúm thường có một hoặc một vài triệu chứng sau: sốt, ớn lạnh, ho, đau họng, chảy nước mũi hoặc nghẹt mũi, đau cơ, đau đầu, mệt mỏi. Ở trẻ em khi nhiễm cúm thường xuất hiện triệu chứng nôn mửa và tiêu chảy.
+Triệu chứng khi nhiễm virus cúm thường xuất hiện đột ngột và diễn biến từ nhẹ đến nặng
+Các biến chứng thường gặp khi mắc virus cúm
+Mặc dù cúm có triệu chứng nhẹ và thường khá phổ biến, nhưng nếu người bệnh chủ quan và không điều trị kịp thời, bệnh có thể dẫn đến nhiều biến chứng vô cùng nguy hiểm.
+Khi cúm chuyển nặng có thể dẫn đến suy hô hấp, viêm phổi, suy tim, hen phế quản, bệnh mạch vành, suy giảm miễn dịch, viêm tai giữa, viêm xoang, viêm nhiễm đường tiết niệu. Ở trẻ em và người già trên 65 tuổi thường dễ gặp biến chứng.
+Đặc biệt, ở phụ nữ mang thai, cúm có thể gây sảy thai hoặc bệnh lý thai nhi nếu thai phụ mắc cúm trong 3 tháng đầu.
+Các phương pháp xét nghiệm virus cúm
+Thông thường, những trường hợp nhiễm virus cúm đều có những triệu chứng lâm sàng đặc trưng nên không cần thực hiện thêm các phương pháp xét nghiệm. Tuy nhiên, vào thời điểm cúm mùa không lưu hành hoặc nhiễm các loại virus đường hô hấp khác, việc chẩn đoán bệnh dựa vào lâm sàng gặp khá nhiều khó khăn. Lúc đó, bệnh nhân cần được chẩn đoán xác định bằng các phương pháp xét nghiệm, cụ thể như sau:
+Phương pháp RT-PCR: Đây là xét nghiệm có độ nhạy cao để xác định virus cúm, thường cho ra kết quả trong vòng 4-6 giờ. Phương pháp RT-PCR có độ nhạy cao hơn phương pháp nuôi cấy virus, ưu tiên cho những đối tượng bệnh nhân có tiền sử phơi nhiễm với động vật mắc cúm (như A H5N1).
+Phương pháp miễn dịch huỳnh quang: nhuộm kháng thể huỳnh quang trực tiếp hoặc gián tiếp để phát hiện kháng nguyên cúm, được sử dụng làm xét nghiệm sàng lọc. Miễn dịch huỳnh quang cho thấy độ nhạy và độ đặc hiệu thấp hơn phân lập virus trong nuôi cấy tế bào, nhưng kết quả có sau vài giờ sau nhận mẫu. Hiệu suất xét nghiệm phụ thuộc chuyên môn của kỹ thuật viên và chất lượng mẫu thu thập được.
+Phương pháp xét nghiệm nhanh: Xét nghiệm cho kết quả trong khoảng 15 phút, nhưng không chính xác như các xét nghiệm cúm khác. Hiệu suất xét nghiệm phụ thuộc độ tuổi, thời gian mắc bệnh, mẫu bệnh phẩm và loại virus cúm.
+Phương pháp phân lập virus: Phương pháp nên thực hiện trên mẫu bệnh phẩm hô hấp, thu thập từ những người nghi ngờ mắc cúm, xuất hiện trong vòng 5 ngày sau mắc bệnh.
+Xét nghiệm huyết thanh: Phương pháp tìm động lực kháng thể giữa hai thời kỳ khởi phát và lui bệnh.
+Làm thế nào để phòng ngừa bệnh cúm
+Tiêm vắc xin là phương pháp chủ yếu để dự phòng bệnh cúm một cách hiệu quả, an toàn và tiết kiệm. Nhiều loại vắc xin đã được sử dụng rộng rãi trong hơn 60 năm qua trên toàn thế giới, có hiệu quả phòng các thể nhẹ và nặng của cúm.
+Hiệu quả bảo vệ của vắc xin cúm phụ thuộc vào độ tuổi tiêm, đáp ứng miễn dịch của từng cá thể, mức độ giống nhau giữa thành phần virus có trong vắc xin và các virus hiện đang hiện hành. Ở người cao tuổi, vắc xin cúm có thể giảm đến 60% tỷ lệ mắc bệnh, 70%-80% tỷ lệ tử vong có liên quan đến cúm.
+Tiêm vắc xin là phương pháp chủ yếu để dự phòng bệnh cúm một cách hiệu quả, an toàn và tiết kiệm
+Cần tiêm vắc xin cúm hàng năm. Bất cứ ai cũng nên tiêm vắc xin cúm, đặc biệt là những người có nguy cơ cao mắc bệnh và gặp biến chứng như:
+Trẻ em từ 6 – 23 tháng, người cao tuổi từ 65 tuổi trở lên;
+Người lớn và trẻ em từ 6 tháng trở lên, có bệnh nền tim hoặc phổi mãn tính, hen suyễn, bệnh chuyển hóa (ví dụ bệnh tiểu đường), bệnh thận mãn tính, hoặc suy giảm hệ miễn dịch.
+Phụ nữ sẽ có thai;
+Những người sống trong các viện dưỡng lão, các cơ sở chăm sóc dài hạn.
+Những người tiếp xúc mật thiết với các bệnh nhân như cán bộ y tế, người cùng nhà với bệnh nhân….
+Hệ thống tiêm chủng VNVC có đầy đủ các loại vắc xin cúm cho trẻ em từ 6 tháng tuổi và người lớn, vắc xin cúm cần được tiêm đầy đủ và nhắc lại mỗi năm để tăng cường miễn dịch và bảo vệ tối ưu các chủng cúm đang lưu hành.
+Hiện nay, vắc xin phòng 4 chủng virus cúm nguy hiểm nhất hiện nay chưa có trong chương trình tiêm chủng mở rộng, để được tiêm phòng cúm người dân có thể đến các trung tâm tiêm chủng dịch vụ uy tín như VNVC. Hệ thống Trung tâm Tiêm chủng VNVC làm việc từ 7h30-17h xuyên trưa không nghỉ, kể cả thứ 7, chủ nhật và các ngày lễ.

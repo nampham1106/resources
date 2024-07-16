@@ -1,0 +1,58 @@
+# url = https://vnvc.vn/cho-tre-an-trung-ga-truoc-khi-tiem-cum/
+# date = 05/02/2024
+Cho trẻ ăn trứng gà trước khi tiêm cúm có sao không?
+Trứng gà là một thực phẩm giàu dinh dưỡng với hàm lượng lớn chất protein, vitamin và khoáng chất cần thiết cho sức khỏe của trẻ. Trẻ ăn trứng gà trước khi tiêm cúm, cơ thể sẽ được bổ sung thêm các chất dinh dưỡng cần thiết để chống lại các bệnh do virus gây ra. Tuy nhiên, đối với những đối tượng trẻ dị ứng với trứng, có nên cho trẻ tiêm vắc xin phòng cúm hay không? Cho trẻ ăn trứng gà trước khi tiêm cúm liệu có tốt?
+
+Mục lụcVắc xin cúm được sản xuất như thế nào?Vắc xin cúm sản xuất từ trứngSản xuất vắc xin cúm dựa trên phương pháp nuôi cấy tế bàoVắc xin cúm tái tổ hợpCho trẻ ăn trứng gà trước khi tiêm cúm nên hay không?Trẻ bị dị ứng trứng có tiêm phòng cúm được không?Vắc xin cúm được sản xuất như thế nào?
+Có nhiều cách khác nhau để sản xuất vắc xin cúm, vì thế có rất nhiều loại vắc xin trên thế giới. Tuy nhiên, hầu hết các loại vắc xin cúm đều đáp ứng được các tiêu chuẩn về tính hiệu quả và an toàn của Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA Hoa Kỳ). Các phương pháp mà vắc xin cúm được sản xuất bao gồm:
+Vắc xin cúm sản xuất từ trứng
+Đây là cách phổ biến nhất, đã được sử dụng hơn 70 năm để sản xuất vắc xin cúm. Phương pháp này có thể tạo ra cả vắc xin bất hoạt và vắc xin giảm động lực. (1)
+Quy trình sản xuất vắc xin cúm như sau:
+1. Các mẫu virus tiềm năng (CVVs) được Trung tâm Dự phòng và Kiểm soát bệnh tật Hoa Kỳ (CDC Hoa Kỳ) cùng Hệ thống Ứng phó và Giám sát Cúm Toàn cầu của Tổ chức Y tế Thế giới (WHO) cung cấp được dùng để nuôi cấy trong trứng gà theo quy định hiện hành của FDA Hoa Kỳ
+2. Những CVV này được tiêm vào trứng gà đã thụ tinh và ủ trong vài ngày để virus nhân lên
+3. Thu hoạch chất lỏng chứa virus từ trứng
+4. Xử lý virus:
+
+Đối với vắc xin cúm bất hoạt, virus thu hoạch được sẽ bị bất hoạt (bị giết) và tinh chế kháng nguyên của virus thành một sản phẩm tinh khiết;
+Đối với giảm động lực, virus thu được sẽ để sống nhưng bị làm suy yếu đi.
+
+5. Bổ sung các tá dược cần thiết
+6. FDA kiểm tra chất lượng và phê duyệt tất cả các loại vắc xin cúm trước khi phát hành và vận chuyển
+7. Đóng gói và phân phối.
+Sản xuất vắc xin cúm dựa trên trứng là phương pháp nuôi cấy virus cúm trong phôi trứng
+Sản xuất vắc xin cúm dựa trên phương pháp nuôi cấy tế bào
+Đây là phương pháp sản xuất vắc xin cúm bất hoạt, được thực hiện thông qua quy trình đã được FDA Hoa Kỳ chấp thuận và phê duyệt như sau:
+1. Nuôi cấy mẫu virus cúm trong tế bào động vật có vú thay vì vào trong trứng gà;
+2. Đợi mẫu virus cúm nhân bản và phát triển, sau đó thu hoạch;
+3. Thu thập chất lỏng chứa virus;
+4. Xử lý virus thu được: Vô hiệu hóa virus, tinh chế kháng nguyên virus cúm tinh khiết
+5. Bổ sung các tá dược cần thiết;
+6. Thử nghiệm;
+7. FDA Hoa Kỳ kiểm tra và phê duyệt trước khi phát hành và vận chuyển;
+8. Đóng gói và phân phối.
+Lưu ý, những động vật được sử dụng trong quá trình nghiên cứu hoàn toàn không bị ảnh hưởng đến tính mạng.
+Vắc xin cúm tái tổ hợp
+Đây là phương pháp sản xuất vắc xin thứ ba đã được phê duyệt áp dụng vào năm 2013 với công nghệ tái tổ hợp. Khác với 2 cách sản xuất vắc xin cúm trên, phương pháp này không sử dụng mẫu virus cúm để sản xuất. Thay vào đó, vắc xin tái tổ hợp được tạo ra bằng phương pháp tổng hợp tế bào. Quy trình sản xuất vắc xin tái tổ hợp:
+1. Các nhà khoa học thu thập được gen của virus cúm có chứa các DNA để tạo ra gen HA – một kháng nguyên của virus cúm, có khả năng kích hoạt hệ thống miễn dịch của người ta tạo các kháng thể kháng virus cúm;
+2. Kết hợp gen HA với Baculovirus – một loại virus lây nhiễm ở động vật không xương sống nhằm mục đích thúc đẩy quá trình tái tổ hợp, cung cấp DNA để tạo ra kháng nguyên cúm HA xâm nhập vào dòng tế bào chủ;
+3. Phát triển, nhân bản kháng nguyên HA đã tái tổ hợp với số lượng lớn;
+4. Thu thập các kháng nguyên và thực hiện tinh chế thành các kháng nguyên tinh khiết, có chất lượng cao;
+5. Đóng gói dưới dạng vắc xin cúm tái tổ hợp;
+6. FDA Hoa Kỳ kiểm tra về chất lượng và hiệu lực;
+7. Sau khi được phê duyệt, lô vắc xin tái tổ hợp được phép phân phối.
+Đây là phương pháp sản xuất vắc xin cúm nhanh nhất vì lược bỏ được thời gian chờ đợi mẫu virus phát triển trong quá trình nuôi dưỡng trong trứng hay nuôi dưỡng tế bào trong động vật có vú.
+Cho trẻ ăn trứng gà trước khi tiêm cúm nên hay không?
+NÊN cho trẻ ăn trứng gà trước khi tiêm cúm. Điều này giúp phụ huynh xác định được xem liệu trẻ có bị dị ứng với trứng gà hay không. Vì trong quá trình sản xuất vắc xin cúm, virus cúm được nuôi cấy bên trong phôi trứng gà nên thành phần của vắc xin sẽ chứa protein của trứng gà.
+Tuy nhiên, cách làm này không hoàn toàn hiệu quả. Vì cho dù là một trường hợp rất hiếm gặp, nhưng khi trẻ gặp tình trạng phản ứng dị ứng vắc xin cúm vẫn không thể xác định được nguyên nhân do trẻ bị dị ứng hay không. Trong vắc xin cúm không chỉ chứa protein trứng mà còn chứa nhiều tá dược khác.
+Có thể cho trẻ ăn trứng gà trước khi tiêm vắc xin cúm nhằm xác định được tình trạng dị ứng với protein trong trứng của trẻ
+Trẻ bị dị ứng trứng có tiêm phòng cúm được không?
+ĐƯỢC, THẬM CHÍ ĐƯỢC KHUYẾN KHÍCH TIÊM. Dị ứng trứng là loại dị ứng thực phẩm phổ biến thứ hai tại Hoa Kỳ, sau dị ứng sữa, ảnh hưởng đến khoảng 1,3% trẻ em và 0,2% người lớn. Tại Việt Nam, trẻ em cũng có tỷ lệ dị ứng trứng cao hơn người lớn.
+Bởi vắc xin cúm được nuôi cấy trong phôi trứng gà, nên nhiều phụ huynh thường lo ngại về sự an toàn của vắc xin cúm đối với trẻ bị dị ứng trứng. Tuy nhiên, vắc xin cúm ngày nay chỉ chứa một lượng nhỏ protein từ trứng gà và Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC Hoa Kỳ) cũng đã khuyến cáo trẻ bị dị ứng với trứng vẫn nên tiêm vắc xin phòng cúm vì lợi ích của việc dự phòng cúm lớn hơn rất nhiều so với tác hại của việc dị ứng trứng gây ra cho trẻ.
+Cũng theo CDC Hoa Kỳ, nguy cơ xuất hiện các phản ứng bất lợi khi tiêm vắc xin cúm ở những đối tượng bị dị ứng với trứng là vô cùng thấp, với 7.4 triệu liều vắc xin được tiêm, chỉ gặp 10 trường hợp sốc phản vệ. Hầu hết các trường hợp sốc phản vệ đều không liên quan đến protein từ trứng gà có trong vắc xin mà được xác định do đối tượng tiêm bị suy giảm miễn dịch (2).
+Kết quả của nhiều nghiên cứu đã chỉ ra rằng trẻ em bị dị ứng với trứng hoàn toàn có thể được chỉ định tiêm vắc xin cúm mà không xảy ra bất kỳ phản ứng nghiêm trọng nào.
+Trong một nghiên cứu, các nhà nghiên cứu đã tiến hành theo dõi 367 người bị dị ứng với trứng, chủ yếu là trẻ em đã tiêm phòng cúm trong hơn 5 năm, gần ⅓ trong số đó có tiền sử bị sốc phản vệ sau khi ăn trứng, xuất hiện các triệu chứng nghiêm trọng như tụt huyết áp hoặc khó thở. Tuy nhiên, không có bệnh nhân nào có phản ứng nghiêm trọng với vắc xin cúm và chỉ có 13 trường hợp trong tổng số mẫu nghiên cứu 367 xuất hiện các triệu chứng dị ứng nhẹ như ngứa da, nổi mề đay. Những triệu chứng dị ứng nhẹ này chỉ diễn ra trong vòng 1 ngày sau khi tiêm và sau đó biến mất hoàn toàn, không để lại bất cứ biến chứng hay phản ứng xấu nào. (3)
+Trong một nghiên cứu khác, các nhà nghiên cứu đã xem xét 26 nghiên cứu với gần 4.000 người bị dị ứng trứng đã tiêm phòng cúm và kết quả chỉ ra không ai trong số những bệnh nhân dị ứng trứng đã tiêm phòng vắc xin cúm xuất hiện bất kỳ một phản ứng nghiêm trọng nào.
+Nói chung, các chuyên gia khuyên tất cả trẻ em từ 6 tháng tuổi trở lên nên tiêm phòng cúm hàng năm. Mặc dù hầu hết trẻ em bị cúm không quá một tuần hoặc lâu hơn, nhưng trẻ em dưới 5 tuổi có nguy cơ cao bị biến chứng như viêm phổi, viêm phế quản và nhiễm trùng xoang.
+Trong trường hợp trẻ có phản ứng dị ứng nghiêm trọng với trứng, trẻ cần được tiêm tại các cơ sở y tế uy tín, có đảm bảo sự giám sát của các bác sĩ hoặc y tá. Điển hình là Hệ thống Trung tâm tiêm chủng VNVC với kho vắc xin đạt chuẩn Quốc quy tế mô lớn, hiện đại với đầy đủ các loại vắc xin nói chung và vắc xin cúm cho trẻ em và người lớn nói riêng với chất lượng cao, nguồn gốc xuất xứ rõ ràng, được nhập khẩu chính hãng từ các hãng vắc xin và công ty dược phẩm uy tín hàng đầu Thế giới. Với nguồn nhân lực chất lượng cao, được đào tạo chính quy, chuyên nghiệp, 100% bác sĩ, điều dưỡng viên có chứng chỉ an toàn tiêm chủng, 100% khách hàng đến VNVC được bác sĩ khám sàng lọc trước tiêm miễn phí, được chỉ định tiêm chủng chính xác cùng khu vực xử trí sau tiêm khang trang, trang thiết bị hiện đại với công nghệ tiên tiến hàng đầu giúp kịp thời đối phó với các phản ứng dị ứng với trứng hiếm hoi xảy ra khi tiêm vắc xin cúm, đảm bảo trọn vẹn trải nghiệm tiêm chủng an toàn tại VNVC.
+Khách hàng nhi tiêm vắc xin phòng cúm tại Trung tâm tiêm chủng VNVC
+Cho trẻ ăn trứng gà trước khi tiêm cúm là điều bình thường, thậm chí nên làm vì cách làm này có thể xác định được tình trạng dị ứng với trứng của trẻ. Đây là thông tin rất có ích cho các bác sĩ trong quá trình khám sàng lọc, giúp đưa ra các chỉ định tiêm chủng chính xác nhất. Tuy nhiên, lợi ích của việc tiêm vắc xin phòng cúm lớn hơn nhiều so với phản ứng do tình trạng dị ứng với trứng đem lại cho trẻ, vì thế vẫn nên ưu tiên việc cho trẻ đi tiêm phòng cúm hàng năm.

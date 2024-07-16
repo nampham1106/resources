@@ -1,0 +1,222 @@
+# doc_id = health_disease_246
+# url = https://vnvc.vn/ung-thu-hau-mon/
+# date = 19/12/2023
+Ung thư hậu môn: Dấu hiệu, nguyên nhân và phòng ngừa
+Ung thư hậu môn là một loại ung thư sinh dục không phổ biến, số ca mắc không đáng kể so với các loại ung thư khác nhưng tỷ lệ tử vong khá cao do bệnh nhân phát hiện và điều trị bệnh muộn. Theo báo cáo được đăng trên Trung tâm thông tin công nghệ khoa học quốc gia Hoa Kỳ (NCBI), chỉ có khoảng 19% bệnh nhân ung thư hậu môn đi khám tại các cơ sở y tế nhưng họ đều đến khám muộn sau từ 6 tháng trở lên sau khi xuất hiện các triệu chứng đầu tiên.
+Một tỷ lệ không nhỏ khoảng 13 – 25% ca ung thư hậu môn được chẩn đoán sau khi ung thư lan đến các hạch bạch huyết và 10% được chẩn đoán sau khi ung thư đã di căn, khiến tỷ lệ cứu sống rất thấp. Vậy ung thư hậu môn nguyên nhân do đâu? Dấu hiệu nhận biết là gì? Chẩn đoán ra sao? Điều trị và phòng ngừa như thế nào?
+BS Bùi Thanh Phong – Quản lý Y khoa vùng TP.HCM, Hệ thống Trung tâm tiêm chủng VNVC cho biết: “Ung thư hậu môn không chỉ phát triển và gây rối loạn tế bào tại chỗ mà còn có khả năng lan sang các bộ phận khác của cơ thể, ảnh hưởng nghiêm trọng đến sức khỏe và tính mạng của người bệnh. Do đó, việc chẩn đoán kịp thời và điều trị ung thư hậu môn từ sớm rất quan trọng trong việc ngăn ngừa tình trạng di căn, biến chứng, đồng thời cải thiện tỷ lệ cứu sống. Trong khi đó, Human Papilloma virus (HPV) là 1 trong những nguyên nhân hàng đầu gây ra ung thư hậu môn. Do đó, trên hết, cần chủ động tiêm ngừa vắc xin phòng HPV để ngăn ngừa nguy cơ mắc ung thư hậu môn do HPV.”
+Mục lụcCấu trúc và chức năng của hậu mônUng thư hậu môn là gì?Phân loại ung thư hậu môn1. Ung thư biểu mô tế bào vảy2. Các ung thư hậu môn hiếm gặpDấu hiệu ung thư hậu mônNguyên nhân ung thư hậu môn và các trường hợp nguy cơ cao1. Virus u nhú ở người (HPV)2. Các yếu tố làm tăng nguy cơBiến chứng của ung thư hậu mônCác phương pháp chẩn đoán ung thư hậu môn1. Thăm khám hậu môn, trực tràng2. Sinh thiết3. Chụp MRI4. Chụp CT5. Siêu âm, nội soiKhám ung thư hậu môn ở đâu?Cách phòng ngừa bệnh ung thư hậu môn1. Tiêm ngừa vắc xin Gardasil và Gardasil 9 để ngăn ngừa HPV2. Kiểm tra sức khỏe định kỳ3. Sinh hoạt tình dục lành mạnh4. Bỏ ngay các thói quen có nguy cơ cao gây ung thư hậu mônCác phương pháp điều trị ung thư hậu môn1. Kết hợp giữa hóa trị và xạ trị2. Phẫu thuật3. Liệu pháp miễn dịch4. Chăm sóc hỗ trợTác dụng phụ của các phương pháp điều trị ung thư hậu mônCách chăm sóc sức khỏe thể chất và tinh thần khi điều trịTìm hiểu thêm các khối u lành tính ở hậu môn, không phải ung thưCác câu hỏi thường gặp về ung thư hậu môn1. Bị ung thư hậu môn sống được bao lâu?2. Ung thư hậu môn có tái phát không?3. Ung thư hậu môn có lây không?Cấu trúc và chức năng của hậu môn
+Hậu môn là lỗ mở ở cuối ruột già, nằm bên dưới trực tràng, là nơi nhu động ruột rời khỏi cơ thể, do đó chức năng chính của hậu môn là đào thải phân. Thức ăn được tiêu hóa sẽ đi từ dạ dày đến ruột non, sau đó di chuyển vào phần chính của ruột già (gọi là đại tràng), đại tràng hấp thụ nước và muối từ thức ăn được tiêu hóa. Chất thải còn sót lại sau khi đi qua đại tràng được gọi là phân, đưa ra khỏi cơ thể qua phần cuối của ruột già, được gọi là hậu môn.
+Cấu trúc của hậu môn bình thường bao gồm các phần sau:
+Ống hậu môn: Là bộ phận nối hậu môn với trực tràng, kéo dài từ trực tràng đến rìa hậu môn, có chiều dài khoảng 3 – 5cm. Ống hậu môn có hai cơ hình vòng giúp giữ cho hậu môn đóng lại và ngăn phân rò rỉ ra ngoài. Trạng thái bình thường của ống hậu môn là các khía dọc và có thể chuyển thành dạng ống khi đi đại tiện. Lớp lót bên trong ống hậu môn được gọi là niêm mạc hậu môn. Hầu hết các tế bào ung thư hậu môn đều bắt đầu từ các tế bào ở niêm mạc hậu môn. Ở dưới niêm mạc là các tuyến tạo ra chất nhầy, hoạt động như một chất lỏng bôi trơn cho hậu môn thực hiện hoạt động bài tiết chất thải.
+Van hậu môn: Nằm ở giữa phần cuối của hai cột trực tràng, có dạng nếp gấp hình bán nguyệt, giúp kiểm soát quá trình đào thải phân. Van hậu môn được hình thành từ sự liên kết của phần cuối trực tràng và niêm mạc ống hậu môn.
+Hang hậu môn: Là các hốc nhỏ được hình thành từ sự liên kết giữa van hậu môn và các cột trực tràng.
+Đầu vú hậu môn: Nằm dưới van hậu môn hoặc ở vị trí giao nhau giữa cột trực tràng và ống hậu môn. Đầu vú hậu môn thường lồi lên và có màu sắc hơi ngả vàng.
+Hậu môn là lỗ mở ở dưới của ruột, là phần cuối của ruột kết nối với bên ngoài cơ thể.
+Ung thư hậu môn là gì?
+Ung thư hậu môn là một trong những loại ung thư sinh dục gây ảnh hưởng đến các mô của hậu môn. Hầu hết các trường hợp ung thư hậu môn là ung thư biểu mô tế bào vảy (SCC) tại vùng bề mặt của ống hậu môn. Một số ít các trường hợp ung thư hậu môn khác là ung thư da quanh hậu môn và ung thư biểu mô tuyến (ung thư các tế bào tạo ra chất nhầy giúp phân di chuyển ra khỏi hậu môn).
+Ung thư hậu môn là một căn bệnh hiếm gặp, chỉ chiếm 2,5% tổng số trường hợp mắc khối u ác tính hệ tiêu hóa ở Hoa Kỳ và chỉ có hơn 600 người tại Hoa Kỳ được chẩn đoán mắc ung thư hậu môn vào năm 2023 và độ tuổi trung bình khi chẩn đoán là 67 tuổi. [1] [2]
+Theo ước tính của Hiệp hội Ung thư Lâm sàng Hoa Kỳ vào năm 2022, Mỹ có khoảng 9.440 trường hợp ung thư hậu môn được chẩn đoán và khoảng 1.670 ca tử vong do ung thư hậu môn. [3]
+Trên toàn thế giới, vào năm 2020, có khoảng 50.685 người được chẩn đoán mắc bệnh ung thư hậu môn và có đến 19.293 ca tử vong do căn bệnh này. Mặc dù không phổ biến, số ca mắc thấp hơn rất nhiều so với những loại ung thư nói chung và ung thư sinh dục khác nói riêng nhưng ung thư hậu môn vẫn tồn tại nguy cơ tử vong cao với tỷ lệ chung khoảng 38% và nhiều dấu hiệu cho thấy số trường hợp mắc và tử vong do ung thư hậu môn mới đang tăng lên từng năm. [4]
+Ung thư hậu môn thường gặp ở người lớn tuổi, với độ tuổi trung bình là 60. Nguy cơ mắc bệnh ung thư hậu môn trong đời khoảng 1/500, tuy nhiên nguy cơ này cao hơn ở những người có yếu tố nguy cơ đặc biệt.
+Theo nhiều nghiên cứu và thống kê, ung thư hậu môn cũng thường phổ biến hơn ở phụ nữ da trắng và đàn ông da đen.
+Phân loại ung thư hậu môn
+Ung thư hậu môn thường được phân loại thành hai nhóm dựa vào vị trí bắt đầu, bao gồm:
+Ung thư ống hậu môn (phía trên rìa hậu môn).
+Ung thư da quanh hậu môn (dưới rìa hậu môn).
+Các phác đồ điều trị có thể khác nhau tùy thuộc vào vị trí của ung thư. Tuy nhiên, do ung thư hậu môn có khả năng lan từ vùng này sang vùng khác, nên việc xác định chính xác nơi bắt đầu của ung thư thường rất khó khăn. Do đó, có thể phân loại ung thư hậu môn thành:
+1. Ung thư biểu mô tế bào vảy
+Ung thư biểu mô tế bào vảy là loại ung thư phổ biến ở hậu môn, chiếm gần 9/10 trường hợp ung thư hậu môn ở Hoa Kỳ và chiếm khoảng 3 – 5% số ca ung thư đại tràng. Các khối u ung thư biểu mô tế bào vảy hậu môn bắt đầu từ các tế bào vảy dọc theo ống hậu môn và rìa hậu môn. Ung thư tế bào vảy ở ống hậu môn có thể lan ra bề mặt và xâm nhập vào các lớp sâu hơn của niêm mạc, rất khó để điều trị và phục hồi. [5]
+2. Các ung thư hậu môn hiếm gặp
+Ung thư biểu mô tuyến
+Ung thư biểu mô tuyến hậu môn thường bắt đầu trong các tế bào ở phần trên của hậu môn gần trực tràng hoặc ở các tuyến dưới niêm mạc hậu môn. Ung thư biểu mô tuyến hậu môn cũng có thể bắt đầu từ tuyến apocrine (một dạng tuyến mồ hôi của da quanh hậu môn).
+Ung thư biểu mô tế bào đáy
+Ung thư biểu mô tế bào đáy là một dạng ung thư da có thể phát triển trong vùng da quanh hậu môn. Loại ung thư này thường phổ biến hơn ở những vùng da tiếp xúc trực tiếp với ánh nắng mặt trời, chẳng hạn như mặt và tay, do đó, rất hiếm trường hợp ung thư hậu môn ở dạng ung thư biểu mô tế bào đáy.
+Khối u ác tính
+Khối u ác tính phổ biến hơn nhiều trên da ở các bộ phận khác của cơ thể, rất hiếm gặp ở hậu môn. Nếu khối u ác tính được phát hiện ở giai đoạn đầu (trước khi chúng phát triển sâu vào da hoặc lan đến các hạch bạch huyết), chúng có thể được loại bỏ bằng phẫu thuật và khả năng sống sót lâu dài là rất tốt. Ngược lại, sẽ rất khó loại bỏ khối u, nguy cơ cao khối u di căn sang các cơ quan khác trên khắp cơ thể. Tuy nhiên, do khối u ác tính ở hậu môn rất khó nhìn thấy, nên hầu hết được phát hiện ở giai đoạn sau.
+U mô đệm đường tiêu hóa (GIST)
+U mô đệm đường tiêu hóa thường phổ biến hơn ở dạ dày hoặc ruột non và rất hiếm khi xuất hiện ở hậu môn. Nếu được phát hiện ở giai đoạn đầu, các khối u này thường sẽ được loại bỏ thông qua phẫu thuật. Trong trường hợp chúng đã lan ra ngoài hậu môn, có thể sử dụng liệu pháp dùng thuốc để điều trị, tuy nhiên tỷ lệ đáp ứng không cao.
+Việc phân loại ung thư hậu môn rất quan trọng vì mỗi loại sẽ có những phương pháp điều trị và chăm sóc chuyên biệt.
+Dấu hiệu ung thư hậu môn
+Các dấu hiệu ung thư hậu môn thường gặp bao gồm:
+Lở loét, thậm chí chảy máu hậu môn, đây là triệu chứng phổ biến nhất của ung thư hậu môn;
+Ngứa và đau quanh hậu môn;
+Xuất hiện khối u cộm lên xung quanh rìa hậu môn và bên trong đáy hậu môn;
+Có cảm giác đầy bụng, đau nhức hoặc khó chịu ở khu vực trực tràng;
+Hậu môn tiết chất nhầy bất thường, khi đại tiện phân có thể chứa nhiều máu và chất nhầy;
+Khó kiểm soát nhu động ruột, rối loạn khả năng kiểm soát khi đại tiện và trung tiện;
+Sa mô hậu môn;
+Đại tiện thường xuyên hơn với phân lỏng hơn;
+Thói quen đại tiện bị thay đổi.
+Những dấu hiệu này của ung thư hậu môn rất dễ bị nhầm lẫn với các bệnh lý đường ruột gây triệu chứng ở vùng hậu môn khác như trĩ hoặc nứt hậu môn. Trong nhiều trường hợp, ung thư hậu môn cũng có thể không có bất kỳ dấu hiệu nhận biết nào hoặc rất khó để phát hiện.
+Nguyên nhân ung thư hậu môn và các trường hợp nguy cơ cao
+Ung thư hậu môn xảy ra khi các tế bào trong khu vực hậu môn có những thay đổi trong DNA. Ở trạng thái bình thường, DNA giữ các hướng dẫn cho tế bào về cách phát triển, nhân lên và chết đi theo đúng quy luật vận hành chung của cơ thể.
+Trong khi đó, các tế bào ung thư làm rối loạn chức năng của DNA, thay đổi quy luật vận hành của các tế bào, khiến các tế bào hậu môn phát triển, nhân lên nhanh chóng và không chết đi theo đúng quy luật chung. Điều này dẫn đến sự tăng sinh không kiểm soát và hình thành khối u có thể xâm lấn và phá hủy mô cơ thể, gọi là ung thư. Theo thời gian, các tế bào ung thư có thể lan sang các phần khác của cơ thể, gây ra hiện tượng di căn ung thư.
+1. Virus u nhú ở người (HPV)
+Virus gây u nhú ở người (HPV – Human Papilloma Virus) được xem là nguyên nhân phổ biến nhất gây ra ung thư hậu môn, là tác nhân gây ra 90% trường hợp ung thư hậu môn ở người, chúng tác động lên DNA tại khu vực hậu môn, gây ra những thay đổi trong tế bào và hình thành ung thư. Trong đó, nhóm các tuýp HPV nguy cơ cao, đặc biệt là HPV tuýp 16 được xác định là tác nhân gây ra 84% trường hợp ung thư hậu môn.
+HPV có thể lây nhiễm từ người sang người thông qua da và các niêm mạc ở nhiều bộ phận khác nhau trên cơ thể, bao gồm cả hậu môn. Sự lây nhiễm thường xảy ra khi tiếp xúc da kề da, niêm mạc kề niêm mạc, đặc biệt trong hoạt động tình dục, bao gồm quan hệ tình dục bằng đường hậu môn. Do đó, quan hệ tình dục với người nhiễm HPV là con đường lây nhiễm HPV nói chung và tiến triển ung thư hậu môn nói riêng phổ biến nhất.
+HPV là nguyên nhân của hầu hết các ca mắc ung thư hậu môn trên toàn thế giới.
+2. Các yếu tố làm tăng nguy cơ
+Dựa vào nguyên nhân chính gây ra ung thư hậu môn, có thể xác định được các yếu tố làm tăng nguy cơ lây nhiễm HPV và gây ra ung thư hậu môn như:
+Người từ 50 tuổi trở lên
+Có đến 80% các trường hợp ung thư hậu môn được chẩn đoán ở những người trên 60 tuổi. Khoảng 25% người được chẩn đoán mắc bệnh ung thư hậu môn mỗi năm ở Anh là từ 75 tuổi trở lên. Trước 35 tuổi, ung thư hậu môn phổ biến hơn ở nam giới. Tuy nhiên, sau 50 tuổi, ung thư hậu môn có xu hướng phổ biến hơn ở phụ nữ. [6]
+Quan hệ tình dục với nhiều người
+Quan hệ tình dục với nhiều đối tác, nhất là những đối tượng không rõ ràng về tình trạng sức khỏe, tiền sử bệnh lý và lịch sử tiêm ngừa HPV có thể làm tăng cao nguy cơ lây nhiễm HPV, gia tăng nguy cơ mắc bệnh ung thư hậu môn.
+Theo một nghiên cứu về ung thư hậu môn, tỷ lệ mắc ung thư hậu môn ở nam giới độc thân cao gấp 6 lần so với nam giới đã kết hôn. Có thể thấy, những đối tượng nam giới còn độc thân thường có xu hướng phát sinh quan hệ tình dục với nhiều đối tác hơn so với nam giới đã kết hôn, nên nguy cơ lây nhiễm HPV và mắc bệnh ung thư hậu môn cao hơn ở nhóm đối tượng này. [7]
+Quan hệ tình dục qua đường hậu môn
+Quan hệ tình dục qua đường hậu môn có thể tăng nguy cơ nhiễm virus u nhú ở người HPV và mắc bệnh ung thư hậu môn. Ở phụ nữ, quan hệ tình dục qua đường hậu môn, đặc biệt là nhóm phụ nữ trước 30 tuổi có nguy cơ gia tăng tỷ lệ mắc bệnh ung thư hậu môn lên đến 3,4%. Bên cạnh đó, có đến 15% nam giới mắc bệnh ung thư hậu môn đã từng có quan hệ tình dục đồng giới qua đường hậu môn. [8]
+Theo Trung tâm Thông tin Công nghệ sinh học Quốc gia (NCBI), tỷ lệ mắc ung thư hậu môn ở những đối tượng nam giới tham gia vào quan hệ tình dục đồng tính cao hơn khoảng 20 lần so với những đối tượng tượng nam giới tham gia vào quan hệ tình dục dị tính. [9]
+Quan hệ tình dục qua đường hậu môn làm tăng nguy cơ mắc ung thư hậu môn ở cả nam và nữ giới.
+Hút thuốc
+Hút thuốc lá ảnh hưởng đến sức khỏe toàn diện của cơ thể, đồng thời có thể làm tăng nguy cơ mắc các bệnh lý ảnh hưởng đến ống hậu môn, bao gồm cả ung thư hậu môn. Theo nghiên cứu, người hút thuốc có nguy cơ mắc ung thư hậu môn tăng gấp 8 lần so với người không hút thuốc. Đặc biệt, lịch sử hút thuốc càng kéo dài, nguy cơ phát triển ung thư hậu môn càng tăng cao.
+Có tiền sử bệnh ung thư
+Những người có tiền sử bệnh ung thư thường bị suy giảm miễn dịch nghiêm trọng do phải trải qua một khoảng thời gian dài sử dụng thuốc và áp dụng các phương pháp điều trị có đặc tính ức chế miễn dịch nên thường không đủ khả năng chống lại sự xâm nhập và tấn công của HPV, nhất là các tuýp HPV nguy cơ cao gây ra ung thư hậu môn.
+Điển hình, những phụ nữ có tiền sử ung thư cổ tử cung hoặc tiền ung thư cổ tử cung, thường đối diện với nguy cơ mắc ung thư hậu môn cao hơn so với những người không có tiền sử bệnh này.
+Người sử dụng thuốc ức chế miễn dịch
+Người sử dụng các loại thuốc ức chế miễn dịch đối diện với nguy cơ rất cao mắc bệnh ung thư hậu môn. Các loại thuốc này có đặc tính ức chế khả năng hoạt động của hệ miễn dịch, làm giảm khả năng phản ứng của hệ thống miễn dịch trước các tác nhân gây bệnh từ môi trường bên ngoài như HPV, làm tăng nguy cơ lây nhiễm virus và mắc các bệnh lý do HPV gây ra, bao gồm ung thư hậu môn.
+Người đã từng cấy ghép nội tạng
+Sau khi hoàn thành quá trình phẫu thuật ghép tạng, việc sử dụng thuốc ức chế miễn dịch là cực kỳ quan trọng để ngăn chặn việc cơ thể từ chối tiếp nhận nội tạng mới. Tuy nhiên, việc này có thể khiến hệ miễn dịch của người bệnh bị suy giảm nghiêm trọng, dễ bị lây nhiễm HPV, gây ra ung thư hậu môn.
+Sự suy yếu của miễn dịch là yếu tố nguy cơ hàng đầu khiến HPV lây nhiễm, tấn công và gây ra các bệnh lý nguy hiểm, bao gồm ung thư hậu môn.
+Biến chứng của ung thư hậu môn
+Các biến chứng chủ yếu liên quan đến điều trị ung thư hậu môn bao gồm:
+Tác dụng phụ của bức xạ từ quá trình điều trị ung thư hậu môn bằng phương pháp xạ trị
+Tác dụng phụ của hóa trị, bao gồm các chứng rối loạn các cơ quan của cơ thể như hệ thần kinh (mệt mỏi, suy nhược, suy giảm trí nhớ, rối loạn tư duy,…); hệ tiêu hóa (buồn nôn, nôn mửa, tiêu chảy,…); hệ xương (độc tính trên tủy xương); hệ bì (da liễu, móng bị thay đổi theo chiều hướng xấu đi, rụng tóc,…);…
+Giảm ham muốn tình dục
+Rối loạn chức năng ruột
+Chảy máu trực tràng
+Hẹp, rỉ và nhiễm trùng vết thương sau phẫu thuật
+Ngoài ra, ung thư hậu môn có thể gây ra biến chứng di căn, là tình trạng tế bào ung thư lây lan sang các bộ phận khác của cơ thể. Ung thư hậu môn thường lan sang gan và phổi. Mặc dù ung thư hậu môn rất hiếm di căn nhưng trường hợp biến chứng này đặc biệt khó điều trị, tốn kém chi phí, nguy cơ cao di chứng và tử vong.
+Các phương pháp chẩn đoán ung thư hậu môn
+Ung thư hậu môn thường kém phổ biến nhưng gây ra các triệu chứng nặng nề, khó chịu, nguy cơ cao biến chứng nghiêm trọng, thậm chí tử vong. Do đó, việc phát hiện sớm và điều trị kịp thời cho bệnh nhân ung thư hậu môn rất quan trọng trong tối ưu hóa hiệu quả và thời gian điều trị bệnh. Để phát hiện sớm ung thư hậu môn, các bác sĩ chuyên khoa có thể thực hiện các phương pháp chẩn đoán sau:
+1. Thăm khám hậu môn, trực tràng
+Đối với phương pháp chẩn đoán này, bác sĩ sẽ sử dụng một ngón tay đeo găng và bôi trơn vùng cửa hậu môn để kiểm tra vùng hậu môn và trực tràng của người bệnh. Qua việc tiếp xúc và cảm nhận bằng tay, bác sĩ sẽ phát hiện các dấu hiệu bất thường như vết sưng hoặc cục u có thể là biểu hiện của ung thư hoặc các vấn đề sức khỏe khác. Điều này giúp bác sĩ đưa ra các đánh giá và chẩn đoán sớm, từ đó tăng cơ hội điều trị thành công.
+Đây là một phần quan trọng của quá trình kiểm tra sức khỏe tổng quát và theo dõi sự phát triển của bất kỳ vấn đề nào liên quan đến vùng hậu môn và trực tràng.
+Thăm khám hậu môn, trực tràng thường là phương pháp tiếp cận sơ khởi cho hầu hết mọi trường hợp nghi ngờ mắc ung thư hậu môn.
+2. Sinh thiết
+Khi thực hiện phương pháp chẩn đoán ung thư hậu môn bằng sinh thiết, các bác sĩ sẽ sử dụng một dụng cụ hẹp được gọi là ống soi đại tràng sigma hoặc ống nội soi để kiểm tra niêm mạc ống hậu môn và thu thập mẫu mô (sinh thiết) để gửi đến phòng thí nghiệm và xét nghiệm mẫu nhằm xác định liệu có sự tồn tại của tế bào ung thư hay không.
+Nếu phát hiện ung thư, các phương pháp chụp/chiếu khác như chụp MRI, chụp CT, siêu âm, nội soi,… có thể giúp xác định vị trí và kích thước của tế bào ung thư trong cơ thể, đồng thời có thể được sử dụng để đánh giá xem liệu ung thư có lan sang các bộ phận khác trên cơ thể hay không.
+3. Chụp MRI
+Phương pháp chẩn đoán chụp cộng hưởng từ (MRI) sử dụng nam châm mạnh và sóng vô tuyến để tạo ra hình ảnh 3D của các khu vực bên trong cơ thể. Trong một số trường hợp, các bác sĩ chuyên khoa có thể sử dụng thêm thuốc nhuộm để làm nổi bật hình ảnh, giúp quan sát rõ hơn các tế bào ung thư trong hậu môn.
+4. Chụp CT
+Chụp cắt lớp vi tính (CT) sử dụng tia năng lượng X và thiết bị máy tính chuyên dụng để tạo ra hình ảnh chi tiết về một khu vực bên trong cơ thể. Để quan sát rõ hình ảnh của khối u hoặc các tế bào bên trong hậu môn, các bác sĩ có thể tiêm thuốc nhuộm vào tĩnh mạch trước khi chụp.
+5. Siêu âm, nội soi
+Trong quá trình siêu âm, một đầu dò siêu âm sẽ được đưa qua hậu môn vào trực tràng của bệnh nhân. Đầu dò này sẽ phát ra sóng âm, dựa trên nguyên tắc âm thanh phản lại và tạo hình ảnh chi tiết về các cấu trúc bên trong và hiển thị trên màn hình máy tính.
+Khi thực hiện nội soi, chuyên gia sẽ sử dụng một ống nội soi có chứa ống kính linh hoạt có chiếu sáng để kiểm tra bên trong ống hậu môn và trực tràng và xác định các khu vực tăng sinh tế bào nghi ngờ ung thư.
+Các phương pháp chẩn đoán thông qua hình ảnh giúp các bác sĩ có một cái nhìn trực quan và rõ ràng hơn về tình trạng của các tế bào ung thư tại hậu môn.
+Khám ung thư hậu môn ở đâu?
+Để đảm bảo hiệu quả tối ưu khi khám ung thư hậu môn, cần lựa chọn cơ sở y tế uy tín, sở hữu đầy đủ thiết bị y tế hiện đại; công nghệ chẩn đoán, xét nghiệm, siêu âm, tầm soát tiên tiến cùng đội ngũ các bác sĩ chuyên khoa có tay nghề cao, có kinh nghiệm nhiều năm trong lĩnh vực thăm khám, chẩn đoán và điều trị các bệnh lý tiết niệu, tiêu hóa, hậu môn, trực tràng,…
+Một trong những cơ sở y tế hàng đầu Việt Nam đáp ứng đầy đủ các yếu tố trên, đảm bảo độ chính xác trong chẩn đoán và hiệu quả điều trị ung thư hậu môn ở mức tối ưu là Hệ thống Bệnh viện Đa khoa Tâm Anh.
+Các phương pháp tầm soát ung thư hậu môn tại Bệnh viện Đa khoa Tâm Anh hiện nay đều áp dụng các máy móc, thiết bị cùng công nghệ hiện đại hàng đầu trên thế giới, được thực hiện bởi các chuyên gia đầu ngành, bao gồm:
+Phương pháp nội soi hậu môn với ống mềm cùng liệu pháp gây mê, không gây khó chịu và mang lại sự thoải mái cho Khách hàng.
+Hệ thống thiết bị chụp cắt lớp vi tính (CT) với 768 lát cắt kết hợp với trí tuệ nhân tạo AI mang đến khả năng tạo ra hình ảnh 3D chi tiết từ nhiều phía và nhiều góc độ bên trong hậu môn.
+Hệ thống chụp cộng hưởng từ MRI 1.5 – 3 Tesla nhập khẩu trực tiếp, chính hãng từ hãng thiết bị công nghiệp lớn nhất của Cộng hòa liên bang Đức và châu Âu – Siemens với khả năng cung cấp hình ảnh chụp rõ nét, chất lượng cao và tuyệt đối an toàn cho bệnh nhân, với độ chẩn đoán chính xác cao.
+Xét nghiệm công thức máu với kết quả được cung cấp ngay trong ngày.
+Nhờ trang bị hệ thống máy móc hỗ trợ hiện đại và đội ngũ chuyên gia giàu kinh nghiệm, bệnh nhân có thể nhanh chóng xác định và đánh giá mức độ bệnh, từ đó đề xuất phương hướng điều trị cũng như phác đồ chuyên sâu phù hợp với từng trường hợp bệnh nhân cụ thể.
+Để đặt lịch khám, tư vấn, tầm soát và điều trị ung thư hậu môn tại BVĐK Tâm Anh, Quý khách hàng có thể liên hệ qua thông tin sau:
+Fanpage: https://www.facebook.com/benhvientamanh
+Website: https://tamanhhospital.vn
+Bệnh viện Đa khoa Tâm Anh Hà Nội:
+Địa chỉ: 108 Hoàng Như Tiếp, Phường Bồ Đề, Quận Long Biên, TP. Hà Nội
+Hotline: 024 3872 3872 – 024 7106 6858
+Bệnh viện Đa khoa Tâm Anh TP.HCM:
+Địa chỉ: 2B Phổ Quang, Phường 2, Quận Tân Bình, TP. Hồ Chí Minh
+Hotline: 093 180 6858 – 0287 102 6789
+Hệ thống bệnh viện Đa khoa Tâm Anh là đơn vị hiếm hoi tại Việt Nam sở hữu hệ thống trang thiết bị, công nghệ hiện đại hàng đầu trên thế giới.
+Cách phòng ngừa bệnh ung thư hậu môn
+Có thể phòng ngừa ung thư hậu môn hiệu quả bằng cách áp dụng kết hợp các biện pháp phòng ngừa sau:
+1. Tiêm ngừa vắc xin Gardasil và Gardasil 9 để ngăn ngừa HPV
+Chủ động tiêm ngừa vắc xin Gardasil và Gardasil 9 là phương pháp hiệu quả – tiết kiệm – đơn giản nhất hiện nay trong việc ngăn ngừa nguy cơ lây nhiễm của các chủng HPV nguy hiểm có thể gây ung thư hậu môn và các bệnh lý truyền nhiễm nguy hiểm khác. Vắc xin Gardasil và Gardasil 9 kích thích cơ thể sinh kháng thể đặc hiệu với các tuýp HPV có trong vắc xin, giúp cơ thể ngăn chặn sự xâm nhập và gây hại của HPV.
+Vắc xin Gardasil bảo vệ cơ thể khỏi 4 chủng HPV nguy cơ cao, nguy hiểm hàng đầu hiện nay là HPV tuýp 6, 11, 16 và 18, được áp dụng tiêm cho trẻ em gái và phụ nữ từ 9 – 26 tuổi.
+Vượt trội hơn cả về phổ bảo vệ và đối tượng sử dụng, vắc xin Gardasil 9 có khả năng bảo vệ cơ thể khỏi 9 chủng HPV phổ biến và nguy hiểm nhất, bao gồm HPV type 6, 11, 16, 18, 31, 33, 45, 52 và 58. Đặc biệt, vắc xin Gardasil 9 có thể tiêm cho trẻ em gái, trẻ em trai, thanh niên nam nữ, cộng đồng LGBT, MSM,… trong độ tuổi từ 9 đến 45 tuổi với khả năng đáp ứng và hiệu quả bảo vệ rất cao lên đến trên 90%.
+Hệ thống Trung tâm tiêm chủng VNVC hiện có sẵn cả hai loại vắc xin phòng ngừa HPV tại hàng trăm trung tâm trên toàn quốc. Các loại vắc xin đều được bảo quản trong hệ thống dây chuyền lạnh (Cold Chain) cùng hệ thống kho lạnh đạt chuẩn GSP Quốc tế, bảo quản vắc xin trong nhiệt độ tiêu chuẩn từ 2 – 8 độ C theo đúng yêu cầu của nhà sản xuất, cam kết tính toàn vẹn, chất lượng, hiệu quả và độ an toàn tối ưu khi tiêm cho Khách hàng.
+Vắc xin Gardasil và Gardasil 9 đều đóng vai trò hết sức quan trọng trong việc ngăn ngừa các bệnh lý do nhiễm HPV và các biến chứng nguy hiểm tương ứng.
+2. Kiểm tra sức khỏe định kỳ
+Việc kiểm tra sức khỏe định kỳ đóng vai trò quan trọng trong việc theo dõi tình trạng sức khỏe, sớm phát hiện các dấu hiệu bất thường tại khu vực hậu môn, nhằm kịp thời tiếp nhận sự tư vấn, chăm sóc và điều trị từ các bác sĩ chuyên khoa. Điều này giúp ngăn chặn sự phát triển của bệnh, giảm thiểu triệu chứng và nguy cơ biến chứng nguy hiểm do ung thư hậu môn. Theo khuyến cáo của các chuyên gia, việc kiểm tra sức khỏe nên được thực hiện và duy trì thực hiện định kỳ mỗi 6 tháng/lần để giúp bắt kịp những thay đổi quan trọng trong cơ thể.
+3. Sinh hoạt tình dục lành mạnh
+HPV là nguyên nhân chính dẫn đến ung thư hậu môn và việc lây nhiễm HPV thông qua quan hệ tình dục là con đường lây truyền phổ biến nhất. Do đó, để ngăn chặn sự lây truyền và gây bệnh của HPV, cần duy trì sinh hoạt tình dục lành mạnh bằng cách:
+Duy trì mối quan hệ hôn nhân chung thủy với một vợ – một chồng.
+Hạn chế quan hệ tình dục với nhiều đối tác, nhất là với những đối tượng không rõ ràng về tình trạng sức khỏe, tiền sử bệnh lý và lịch sử tiêm ngừa vắc xin phòng HPV.
+Sử dụng bao cao su, màng chắn miệng và tránh tối đa việc tiếp xúc với cơ quan sinh dục và dịch tiết của đối tác trong trường hợp quan hệ tình dục xảy ra ngoài ý muốn.
+4. Bỏ ngay các thói quen có nguy cơ cao gây ung thư hậu môn
+Để bảo vệ sức khỏe nói chung và phòng ngừa nguy cơ mắc bệnh ung thư hậu môn nói riêng, cần loại bỏ các thói quen xấu có nguy cơ cao gây ung thư hậu môn như hút thuốc và lạm dụng đồ uống có chứa chất kích thích. Những thói quen này có thể ảnh hưởng tiêu cực đến hệ miễn dịch và khả năng chống lại các tác nhân gây ung thư.
+Do đó, cần nghiêm túc và kiên trì cai thuốc, cai rượu bia và hạn chế nhậu nhẹt. Đồng thời, nên tích cực áp dụng các thói quen sống, chế độ vận động và dinh dưỡng lành mạnh, khoa học, nhằm thúc đẩy cơ thể phát triển hệ miễn dịch toàn diện và mạnh mẽ hơn, bảo vệ cơ thể khỏi sự tấn công và gây bệnh của HPV.
+Kiến tạo cho bản thân một sức đề kháng khỏe mạnh cùng khả năng phản ứng mạnh mẽ của hệ thống miễn dịch nhằm tối ưu hóa hiệu quả phòng ngừa ung thư hậu môn.
+Các phương pháp điều trị ung thư hậu môn
+Nếu chẳng may mắc ung thư hậu môn, người bệnh cần bình tĩnh, giữ tâm lý và cảm xúc ổn định, tránh ảnh hưởng tiêu cực đến tình trạng diễn biến của ung thư. Thay vào đó, cần đến ngay các cơ sở y tế uy tín gần nhất để được các bác sĩ chuyên khoa thăm khám và chỉ định các phương pháp điều trị, chăm sóc thích hợp.
+1. Kết hợp giữa hóa trị và xạ trị
+Phương pháp kết hợp hóa trị và xạ trị rất phổ biến trong điều trị các bệnh lý ung thư nói chung và ung thư hậu môn nói riêng. Trong đó, xạ trị là phương pháp sử dụng chùm tia X hoặc các nguồn năng lượng có tính phóng xạ khác để tiêu diệt tế bào ung thư từ bên ngoài và bên trong cơ thể. Hóa trị thường sử dụng thuốc tiêu diệt virus tiêm vào tĩnh mạch, đưa thuốc theo huyết mạch đến các cơ quan trên khắp cơ thể, tiêu diệt tác nhân gây ung thư.
+Khi kết hợp hóa trị và xạ trị (chemoradiation), hai phương pháp này có khả năng tăng cường tác động để tiêu diệt tế bào ung thư hiệu quả và nhanh chóng hơn. Điều trị thường kéo dài trong vài tuần và lịch trình cụ thể được điều chỉnh dựa trên tình trạng sức khỏe và loại ung thư của bệnh nhân.
+2. Phẫu thuật
+Đối với khối u rất nhỏ, không gây tổn thương cho cơ vòng hậu môn và các cơ quan quan trọng kiểm soát nhu động ruột, phương pháp phẫu thuật thường được sử dụng để điều trị ung thư hậu môn bằng cách loại bỏ khối u và một số mô khỏe mạnh xung quanh khối u.
+Trong các trường hợp ung thư không đáp ứng với các phương pháp điều trị khác, cắt bỏ vùng bụng chậu (APR) có thể được đề xuất. Trong APR, bác sĩ loại bỏ một phần đại tràng và gắn phần còn lại vào một lỗ trên bụng gọi là lỗ thoát, tức là hậu môn nhân tạo, để chất thải rời khỏi cơ thể.
+3. Liệu pháp miễn dịch
+Khi ung thư hậu môn lan sang các bộ phận khác của cơ thể, liệu pháp miễn dịch có thể được sử dụng bằng cách sử dụng thuốc nhằm kích thích hệ thống miễn dịch chống lại và tiêu diệt tế bào ung thư và các tác nhân gây bệnh. Bằng cách thúc đẩy hệ miễn dịch phát hiện và tiêu diệt tế bào ung thư, liệu pháp miễn dịch hỗ trợ trong việc điều trị ung thư hậu môn trong một số trường hợp nhất định.
+4. Chăm sóc hỗ trợ
+Trong hầu hết các trường hợp ung thư hậu môn, áp dụng phương pháp chăm sóc hỗ trợ giúp giảm thiểu triệu chứng và kiểm soát các cơn đau nhức khó chịu vùng hậu môn, cải thiện chất lượng cuộc sống. Các phương pháp chăm sóc hỗ trợ bao gồm xây dựng chế độ sinh hoạt, vận động và dinh dưỡng lành mạnh; cân bằng cảm xúc và ổn định tâm lý; sử dụng các thuốc bôi kháng sinh tại chỗ, thuốc giảm đau và thuốc hạ sốt để làm giảm triệu chứng.
+Điều trị ung thư hậu môn và thậm chí cả ung thư có thể gây ra tác dụng phụ. Loại và mức độ nghiêm trọng của bất kỳ tác dụng phụ nào bạn có thể gặp sẽ tùy thuộc vào loại điều trị mà bạn áp dụng và có thể khác nhau tùy theo từng người. Hầu hết các tác dụng phụ đều là tạm thời và có thể ngăn ngừa được, kiểm soát bằng cách giảm thiểu.
+Trong quá trình điều trị, cần tuyệt đối tuân thủ những nguyên tắc và các chỉ định điều trị, chăm sóc của bác sĩ chuyên khoa.
+Tác dụng phụ của các phương pháp điều trị ung thư hậu môn
+Quá trình áp dụng các phương pháp điều trị ung thư hậu môn có thể gây ra tác dụng phụ. Mức độ và loại tác dụng phụ có thể khác nhau tùy thuộc vào cách điều trị và tình trạng cơ địa riêng biệt của từng người. Các tác dụng phụ phổ biến của các phương pháp điều trị ung thư hậu môn gồm có:
+Cơ thể mệt mỏi, uể oải, suy nhược, khó chịu, bồn chồn, bứt rứt,…
+Chán ăn, ăn không ngon miệng, có cảm giác buồn nôn, nôn mửa
+Đau họng hoặc lở loét miệng
+Thay đổi về các vấn đề tiêu hóa như tiêu chảy, đau bụng hoặc phải đi tiểu gấp
+Đau nhức, ê ẩm, thậm chí buốt ở vùng hậu môn
+Tăng nguy cơ nhiễm trùng
+Thay đổi ngoài da như ngứa, bong tróc hoặc phồng rộp quanh hậu môn, háng hoặc vùng sinh dục lân cận
+Thay đổi thói quen hoạt động tình dục
+Rụng lông vùng kín
+Ảnh hưởng đến khả năng sinh sản
+Nếu gặp bất kỳ thay đổi nào trong quá trình điều trị, cần thông báo ngay cho các bác sĩ chuyên khoa để được tư vấn và hỗ trợ.
+Cách chăm sóc sức khỏe thể chất và tinh thần khi điều trị
+Khi ung thư được chẩn đoán, các phương pháp điều trị có thể gây ra nhiều tác động đến thể chất đến, tâm lý, cuộc sống xã hội và tài chính. Việc chăm sóc sức khỏe thể chất và tinh thần khi điều trị giúp bệnh nhân vượt qua giai đoạn điều trị một cách hiệu quả và nhanh chóng hơn.
+Theo dõi tác dụng phụ: Quan sát và báo ngay với các bác sĩ chuyên khoa khi phát hiện các tác dụng phụ trong quá trình điều trị ung thư hậu môn hoặc nghi ngờ những thay đổi bất lợi đến sức khỏe người bệnh và hiệu quả điều trị để kịp thời tiếp nhận các xử lý khắc phục, hạn chế tối đa những tình huống bất lợi cho người bệnh trong quá trình điều trị.
+Chăm sóc sức khỏe thể chất: Xây dựng lối sống khoa học cùng chế độ sinh hoạt và dinh dưỡng lành mạnh, đầy đủ chất dinh dưỡng cần thiết cho cơ thể nhằm phục hồi và cung cấp năng lượng cho quá trình chiến đấu chống lại các tế bào ung thư. Đồng thời duy trì thói quen tập luyện thể chất hợp lý, nhẹ nhàng để cải thiện đề kháng và ưu tiên cho người bệnh nghỉ ngơi nhiều cùng chế độ ngủ điều độ để phục hồi thể chất và cải thiện sức khỏe tổng thể.
+Chăm sóc sức khỏe tinh thần: Hỗ trợ cố vấn tinh thần cho người bệnh, giúp kiểm soát cảm xúc, hạn chế lo lắng, ngăn ngừa tâm lý tiêu cực và tạo nên môi trường tinh thần tích cực, lạc quan cho người bệnh. Khuyến khích người bệnh thực hiện các hoạt động thư giãn tâm trí nhẹ nhàng như thiền định, yoga, đọc sách, nghe nhạc, trò chuyện, tâm sự với gia đình và bạn bè,…
+Lưu ý, việc chăm sóc bệnh nhân và bắt đầu điều trị ngay lập tức sau khi chẩn đoán ung thư thường mang lại kết quả tốt nhất.
+Tìm hiểu thêm các khối u lành tính ở hậu môn, không phải ung thư
+Nhiều loại khối u có thể phát triển ở hậu môn. Không phải tất cả các khối u này đều là ung thư – một số là lành tính (không phải ung thư).
+Polyp
+Polyp là một dạng khối u nhỏ xuất hiện trên niêm mạc hoặc dưới niêm mạc của vùng hậu môn. Có nhiều loại polyp khác nhau, bao gồm polyp viêm, polyp bạch huyết và polyp biểu mô sợi. Mặc dù có hình dạng khối u nhưng polyp không phải ung thư mà biểu hiện dưới dạng các khối u lành tính.
+Mụn thịt
+Mụn thịt dư thừa thường bị nhầm lẫn với ung thư hậu môn và bệnh trĩ (sưng tĩnh mạch bên trong hậu môn hoặc trực tràng) nhưng mụn thịt là sự phát triển quá mức của các mô liên kết được bao phủ bởi các tế bào vảy vùng hậu môn nhưng thường lành tính, không gây hại.
+Mụn cóc hậu môn
+Mụn cóc hậu môn là những khối u hình thành ở vùng ngoài hậu môn và ở ống hậu môn hoặc ngay cả ở bên trên đường lược. Mụn cóc hậu môn gây ra bởi sự lây nhiễm HPV. Mặc dù lành tính nhưng người đã hoặc đang bị mụn cóc hậu môn có nguy cơ mắc ung thư hậu môn cao hơn so với những người bình thường do sự hoạt động của virus có thể gia tăng, làm ảnh hưởng đến DNA của tế bào hậu môn, gây ra ung thư hậu môn.
+Leiomyomas
+Leiomyomas thường được biết đến với tên gọi là u xơ. Đây là một dạng khối u lành tính phát triển từ tế bào cơ trơn của hậu môn.
+U tế bào hạt
+Tế bào hạt là loại khối u có nguồn gốc từ tế bào thần kinh đặc biệt có tên Schwann, thường biểu hiện như các đốm u nhỏ dạng hạt.
+Lipomas
+Lipomas còn được gọi là u mỡ, là một loại khối u lành tính, hình thành do sự phát triển quá mức của các tế bào mỡ. Lipomas mềm và có thể có kích thước từ 2 – 3 cm, có thể xuất hiện ở bất kỳ nơi nào trên cơ thể, nhưng rất hiếm khi xuất hiện ở hậu môn, thường xuất hiện ở vai, ngực, cổ, đùi và nách.
+Các câu hỏi thường gặp về ung thư hậu môn
+1. Bị ung thư hậu môn sống được bao lâu?
+Tùy thuộc vào tình trạng sức khỏe, tinh thần, tuổi tác, giai đoạn diễn biến ung thư hậu môn cũng như khả năng đáp ứng với các phương pháp điều trị ung thư,… mà tỷ lệ cứu sống và thời gian sống từ khi được chẩn đoán ung thư hậu môn sẽ khác nhau.
+Theo dữ liệu từ chương trình Giám sát, Dịch tễ học và Kết quả cuối cùng (SEER) của Viện Nghiên cứu Ung thư Hoa Kỳ, giai đoạn của ung thư hậu môn được chia thành 3 thời kỳ:
+Giai đoạn tại chỗ: Tế bào ung thư phát triển tại hậu môn.
+Giai đoạn tại vùng: Ung thư xâm lấn các cấu trúc lân cận hoặc di căn hạch bạch huyết vùng.
+Giai đoạn di căn xa: Ung thư di căn xa đến các hạch không phải hạch vùng, hoặc đến các cơ quan khác như phổi, gan…
+Theo thống kê từ SEER trong giai đoạn 2013 – 2019, tỷ lệ sống sót sau 5 năm kể từ khi được chẩn đoán xác định mắc ung thư hậu môn theo các giai đoạn là:
+Giai đoạn tại chỗ: 83,7%.
+Giai đoạn tiến triển tại chỗ – tại vùng: 67,7%.
+Giai đoạn di căn: 36,2%. [10]
+Theo một thống kê khác từ trang nghiên cứu các bệnh lý ung thư ở Anh Quốc Cancerresearchuk.org, đối với những bệnh nhân ung thư hậu môn ở Anh:
+Gần 85% người được chẩn đoán ung thư hậu môn có khả năng sống sót từ 1 năm trở lên;
+Khoảng 60% người được chẩn đoán ung thư hậu môn có khả năng sống sót từ 5 năm trở lên;
+Hơn 50% người được chẩn đoán ung thư hậu môn có khả năng sống sót từ 10 năm trở lên. [11]
+Theo thống kê vào năm 2023 của trang kiến thức chinh phục ung thư Hoa Kỳ Cancer.net, tỷ lệ sống sót tương đối sau 5 năm đối với bệnh ung thư hậu môn ở Hoa Kỳ là 70%.
+Theo Hiệp hội Ung thư Hoa Kỳ, tỷ lệ sống sót sau 5 năm chẩn đoán ung thư hậu môn khoảng 80%
+Có thể thấy, nếu được phát hiện sớm, điều trị và chăm sóc kịp thời, đúng cách, tiên lượng ung thư hậu môn tương đối khả thi, khả năng sống sót sau 5 năm, thậm chí 10 năm và hơn nữa vẫn rất cao.
+Nếu ung thư hậu môn không được phát hiện và điều trị kịp thời, nguy cơ tử vong rất cao.
+2. Ung thư hậu môn có tái phát không?
+UNG THƯ HẬU MÔN CÓ THỂ TÁI PHÁT! Tế bào ung thư có thể quay trở lại sau khi đã được điều trị và thậm chí người bệnh đã trải qua một thời gian rất dài không phát hiện bất kỳ dấu hiệu nào của ung thư. Sự tái phát có thể xảy ra ở cùng vị trí ban đầu trên cơ thể hoặc có thể lan sang các cơ quan hoặc mô khác như phổi, gan hoặc xương.
+Sự tái phát có thể diễn ra dưới dạng:
+Tái phát cục bộ, là dạng các tế bào ung thư hậu môn tiếp tục xuất hiện ở cùng một vị trí so với lần mắc đầu tiên.
+Tái phát vùng, là dạng ung thư hậu môn quay trở lại ở gần vị trí ban đầu.
+Tái phát xa, là dạng ung thư hậu môn quay trở lại ở một nơi khác không gần với khối u ban đầu.
+Khi bị chẩn đoán mắc tái phát ung thư hậu môn, các bác sĩ sẽ tiến hành các xét nghiệm để đánh giá tình trạng tái phát và giai đoạn của bệnh, từ đó xác định phương pháp điều trị phù hợp.
+3. Ung thư hậu môn có lây không?
+CÓ THỂ! Tác nhân chính gây ra bệnh ung thư hậu môn là HPV có thể lây lan rất nhanh chóng thông qua những tiếp xúc trực tiếp với bộ phận sinh dục/ niêm mạc của người bệnh. Khi HPV xâm nhập thành công vào cơ thể người lành, chúng có thể tấn công đến các tế bào hậu môn, làm thay đổi cấu trúc DNA, gây ra tình trạng tăng sinh tế bào hậu môn, gọi là ung thư.
+Cần chủ động thực hiện tiêm chủng vắc xin phòng ngừa nguy cơ lây nhiễm HPV càng sớm càng tốt.
+Ung thư hậu môn mặc dù kém phổ biến hơn các thể ung thư khác nhưng tỷ lệ biến chứng, di căn và tử vong rất cao. Đặc biệt, hiện nay vẫn chưa có phương pháp điều trị đặc hiệu căn bệnh này, việc điều trị hầu hết chỉ tập trung vào việc loại bỏ và cố gắng ức chế khả năng phát triển của tế bào ung thư, hoàn toàn không loại bỏ được tác nhân gây bệnh là HPV.
+Do đó, ung thư hậu môn hoàn toàn có thể tái phát và tái diễn lại “nỗi kinh hoàng” nhiều lần trong suốt cuộc đời. Điều này không chỉ ảnh hưởng nghiêm trọng đến sức khỏe mà còn mang đến những đả kích tâm lý vô cùng nặng nề cho người bệnh.
+Do đó, cần chủ động tiêm ngừa ngay vắc xin HPV gồm Gardasil và Gardasil 9 cho bé trai, bé gái, thanh niên nam nữ, cộng đồng LGBT, MSM,… từ 9 – 45 tuổi để bảo vệ cơ thể khỏi sự lây nhiễm, tấn công và gây bệnh của HPV, từ đó ngăn chặn nguy cơ mắc ung thư hậu môn hiệu quả.
